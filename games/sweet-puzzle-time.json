@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c21c",
+      "id": 5891,
+      "name": "Sweet Puzzle Time",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "sweet-puzzle-time",
+      "image": "5891",
+      "url": "sweet-puzzle-time",
+      "description": "<div>Do puzzle games excite your gaming senses to the fullest? If this is the case, we have brought to you a brand new arcade game that can be a wonderful choice for all jigsaw puzzle lovers. Sweet Puzzle Time is a free online game that is perfect for all ages. In this cute puzzle game, your objective is to solve all the puzzles by putting your brain to challenge. Make sure to keep your eyes on the screen to complete the puzzles and clear each level with ease.&nbsp;</div><div><br></div><div>In this one of the best brain games for kids, you will have three modes for each picture to explore – Easy, Medium and Hard. Take your time and enjoy a leisurely gaming experience since there is no time limit! Also classified as a logical challenge, this HTML5 puzzle game can be played with mouse or tap. You can also use the hint mentioned at the bottom on the right side of the screen to learn how to sort out the puzzle in case if you are unable to find out the answer to it.</div><div>&nbsp;</div><div>With 12 different puzzle levels, each level offers unique and mind boggling challenges to players. If you like this one of the most played kids puzzles, feel free to leave your experience in the comment box. Don’t need to hesitate if you want to share it with your other friends and families over the social networks! Check out our wide array of mobile games to have fun in PC or android! We maintain a huge list of matching games at our free online game website for you!</div>",
+      "size": 854,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/15ef2bd2722749e597e94c6bb951efb6/\r\n",
+      "metaTitle": "Sweet Puzzle Time,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sweet Puzzle Time at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Sweet Puzzle Time Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762438.xml",
+      "idealFor": "Man",
+      "likes": 32,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10874,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:17:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.756Z",
+      "updatedAt": "2024-08-05T01:06:33.352Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP  TO JOIN THE PUZZLE OF PICTURE",
+      "webControlKeys": "LEFT CLICK TO JOIN THE PUZZLE OF PICTURE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
