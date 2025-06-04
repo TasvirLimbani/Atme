@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb43",
+      "id": 4036,
+      "name": "Mini Time Racer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "mini-time-racer",
+      "image": "4036",
+      "url": "mini-time-racer",
+      "description": "<div>Are you ready to check the best racing games of all the times? Join Mini Time Racer and be prepared to drive a mini car on a track that is full of deadly obstacles! It is not going to be easy at all since the road also includes other vehicles that will try to stop you from moving forward. Your job is to control a sports car that wants to leave all the vehicles running on the road behind in this brand new car game.</div><div><br></div><div>Make sure to avoid your car from being crashed on the road otherwise you would lose the game immediately. Put your utmost driving abilities to the test to steer clear of danger and win a race like never before! Control your vehicle using WASD or arrow keys when you are playing it in your desktop or you can tilt your screen when you explore it in your mobile phone! Each crash costs you a life and you would be thrown out of the game.</div><div><br></div><div>Beat other cars for as long as possible to create your best high score in this cool html5 car game! Try to grab as many stars as you can and reach the designated point before your time expires! Move your car left or right to avoid its opponents and set your own big score! Good luck to drive safely to win the race and become a champion racer! We carry many various other popular free racing games that you can play on multiple devices without download. Have a wonderful gaming experience!!</div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/54e72a15016f4245ac8f59f0a54a4d2f/\r\n",
+      "metaTitle": "Mini Time Racer, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mini Time Racer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mini Time Racer Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951839.xml",
+      "idealFor": "Man",
+      "likes": 37,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13734,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-03-18T21:26:47.276Z",
+      "__v": 0,
+      "mobileControlKeys": "L-ICONS TO MOVE. R-ICONS TO SPEED AND BREAK",
+      "webControlKeys": "A,D AND L-R ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
