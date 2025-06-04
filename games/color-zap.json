@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd6b",
+      "id": 4595,
+      "name": "Color Zap",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "color-zap",
+      "image": "4595",
+      "url": "color-zap",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Like many other gamers, you might love to recognize the colors and spend time with the activities that surround multiple color objects. If you are one of them, trying out Color Zap can be a nice idea for you irrespective of your age group. Your objective in this brand new arcade game is to tap the correct color box that you see at the middle and bottom of the screen to match the ring with the same color of the coming balls.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The gameplay of this cute html5 mobile game is seamless and it also comes with the easy controls. Be careful and try to select the same color as the ball falling from upward to downward! Avoid being late as you have to get the job done before the ball passes through the ring! Your every successful attempt will reward you with 1 point. Keep your eyes on the screen and put your fingers on the mouse or the screen of your mobile to choose the maximum colors to create the best score!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">All it takes to put your quick reflexes and concentration abilities to the test to become the master of this fun arcade game. Hurry up friends! Many more addictive and engaging puzzle games are waiting for you on atmegame.com! And the best part is that you do not need to download games of your choice to kill your free hours. Stay connected with us to find out new online games and have fun with your friends on your own convenient time!</span></div>",
+      "size": 720,
+      "height": 1280,
+      "script": "\nhttps://html5.gamedistribution.com/e09712b0c4e74c58a9dd9d6f8d9dce88/\n",
+      "metaTitle": "Color Zap, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Color Zap at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Color Zap Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527483.xml",
+      "idealFor": "All",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7232,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2023-09-12T00:48:07.731Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP AND PRESS THE SAME COLOR TILE AS PER THE BALL COLOR ",
+      "webControlKeys": "L CLICK AND PRESS ON THE SAME TILE AS PER THE BALL COLOR"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
