@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b175",
+      "id": 1266,
+      "name": "100 Metres Game",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "100-metres-game",
+      "image": "1266",
+      "url": "100-metres-game",
+      "description": "<div>Is there someone who can beat the world popular Jamaican sprinter Usain Bolt? Nobody than you! Although today you are not much capable to compete with him because of not undergoing such a hard training regime, you will become a big rival after doing the practice hard for a few months. Get yourself trained now and start playing with some of the popular local competitors around! Win some local races after beating some of your college friends and make your name big in the community of sprinters in this brand new running game for boys – 100 Metres!</div><div><br></div><div>Collect the money by bringing the trophy of these lower-tier events to your home and use that hard-earned money to get advanced training and meet with some prestigious personalities related to this field. Keep focused on your efforts since we are sure that one day you will get a chance to face Usain Bolt in the Olympic finals. Tight your waist to challenge the best runners in the world in this free online adventure game for boys.</div><div><br></div><div>Beat the time of these recognized runners and become a champion in the 100 metres race. Feel proud on yourself and keep collecting various medals to encourage yourself and increase your energy. Your hard work pays off and very soon you will step to the podium of world champions. Keep running and securing first, second and third position to reach to the advanced level. Begin this HTML5 game with the Novice Category, go to Semi Pro and then advance yourself to the professionals. Good luck kids to play one of the best adventure games for boys!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/bc1f2ae8abd54fa1b44e4357fd3fe323/\r\n",
+      "metaTitle": "100 Metres Game, Sports Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 100 Metres Game at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "100 Metres Game Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517222623.xml",
+      "idealFor": "Man",
+      "likes": 84,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 21237,
+      "ownGame": false,
+      "addDate": "2018-01-29T16:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.686Z",
+      "updatedAt": "2025-05-31T08:08:05.174Z",
+      "__v": 0,
+      "mobileControlKeys": "L-R ICONS TO RUN",
+      "webControlKeys": "L-R ARROW TO RUN"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
