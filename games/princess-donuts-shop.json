@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af82",
+      "id": 641,
+      "name": "Princess Donuts Shop",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "princess-donuts-shop",
+      "image": "641",
+      "url": "princess-donuts-shop",
+      "description": "<div>Hurry up kids!!! Lets come and have fun at Atmegame.com with this free online game-Princess donuts shop. It is a cool flash game appeared on our site where you are supposed to impress Princess Cinderella using your skills. It is an interesting cooking game from girls category where Cinderella has a donuts shop and you have to decorate some donuts to show your talent. If she likes your work in this one of the best games, maybe you get a job at her shop.</div><div><br></div><div>In this cooking game for girls, you have to use the mouse to prepare the donuts. You will find the donuts at the bottom on a plate and you are supposed to decorate it. At the left side, you will get the accessories to make it possible. For example, you can try few creams that are your favorite and then press arrow from the right side of the screen to move to the next level where you can choose something else for the donuts.&nbsp;&nbsp;</div><div><br></div><div>Indeed, it is one of the latest games to play for girls and you do not have to bother about the instructions as they are all available at every step. Just save the donuts you like and Cinderella is there with you to give you her feedback at the end.&nbsp;</div><div><br></div><div>Just be careful regarding the details and follow each instruction wisely. Remember to use the accessories smartly and decorate donuts to have a lot of fun. Good luck to complete the task timely and earn a high score!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/ac29278b157c4e028ab1737a4af145bf/",
+      "metaTitle": "Princess Donuts Shop, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Princess Donuts Shop at atmegame.com ! We have selected this Cooking games for best excitement and thrill in you!",
+      "metaKeyword": "Princess Donuts Shop Game, Girls Games, Cooking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "",
+      "xmlFile": "Cooking_1513839135.json",
+      "idealFor": "Man",
+      "likes": 20,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 12955,
+      "ownGame": false,
+      "addDate": "2017-12-21T12:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.670Z",
+      "updatedAt": "2024-03-15T19:44:48.784Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ITEMS TO SELECT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
