@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c08d",
+      "id": 5414,
+      "name": "Hill Climb Racing 2",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "hill-climb-racing-2",
+      "image": "5414",
+      "url": "hill-climb-racing-2",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This wonderful sequel to the most popular and highly addictive physics based car racing game is ready for you. It is bigger, better and much funnier than its previous version. The awesome new environments, improved new challenges and the exploration of different vehicles will be enough to keep you engrossed for hours and hours. This brand new racing game is armed with a wide garage where you will meet with a variety of whacky, self-made vehicles. You as a character of the game will not take rest until you conquer the highest hills of Climb Canyon.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Join Hill Climb Racing 2 and be prepared to take some time off racing to mainly conquer the high hills! Your objective in this free online car game is to climb hills and cover a particular distance while avoiding the challenges of downhill and uphill environments. Bring some death-defying tricks into use to gain bonuses and collect coins! You can upgrade your vehicle through the coins and reach at as much high distances as possible. Control your car using WASD or arrow keys! Also enjoy this cool html5 climb game in your mobile phone!</span></div><div><span style=\"font-size: 13.3333px;\">Choose map from various options, including Countryside, Spring Mountain, Desert, Night, Winter Mountain, Mars, Old Forest and Snow Storm! Once you are done, keep your finger ready to select your car model from different options, that include Jeep, Concept, Police, Pull, F1, Bus, Armored, Monster, Van, Wildtrack and The Light Car. You can later upgrade your car model and engines with the coins you accumulate during the gameplay. Select and upgrade more than 14 unique tuning parts! Climb the highest hills, win races and become a secure top positon on the leaderboard, with no install required!!</span></div>",
+      "size": 900,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/ddcba9beafaf409ab581385023761cde/\r\n",
+      "metaTitle": "Hill Climb Racing 2,  Car Racing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hill Climb Racing 2 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Hill Climb Racing 2 Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552278458.xml",
+      "idealFor": "Man",
+      "likes": 242,
+      "dislikes": 14,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 34308,
+      "ownGame": false,
+      "addDate": "2019-03-11T09:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2025-02-27T14:05:54.184Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "UP ARROW TO SPEED ,DOWN TO BREAK"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 57
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
