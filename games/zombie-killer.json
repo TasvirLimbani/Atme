@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b569",
+      "id": 2433,
+      "name": "Zombie Killer",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zombie-killer",
+      "image": "2433",
+      "url": "zombie-killer",
+      "description": "Zombie Killer",
+      "size": 720,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/58123f23619347ec868bf2892a0b7ec5/\r\n",
+      "metaTitle": "Zombie Killer, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zombie Killer at atmegame.com ! We have selected this zombie games for best excitement and thrill in you!",
+      "metaKeyword": "Zombie Killer Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1528953636.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 11315,
+      "ownGame": false,
+      "addDate": "2018-06-14T10:50:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.708Z",
+      "updatedAt": "2024-08-30T14:21:54.174Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L ICONS TO MOVE UP DOWN, RIGHT ICONS TO SHOOT",
+      "webControlKeys": "CLICK ON L ICONS TO MOVE UP DOWN, RIGHT ICONS TO SHOOT"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
