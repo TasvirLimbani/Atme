@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b447",
+      "id": 2097,
+      "name": "Star Rebel Hospital Recovery",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "star-rebel-hospital-recovery",
+      "image": "2097",
+      "url": "star-rebel-hospital-recovery",
+      "description": "Rebel Star doesnt like the Empire and wont miss an opportunity of spray painting the logo of the Alliance, but she is attacked! Take care of our heroine in the medical bay and give her the right treatment! You are her only hope to recovery, so pull out the shards, fix the broken bones and she will ready for the next mission.",
+      "size": 800,
+      "height": 600,
+      "script": "//cdn.witchhut.com/html5/games/star-rebel-hospital-recovery/190.html",
+      "metaTitle": "Star Rebel Hospital Recovery,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Star Rebel Hospital Recovery at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Star Rebel Hospital Recovery Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.newvendor.com/",
+      "xmlFile": "multi_item_1521610088.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 10880,
+      "ownGame": false,
+      "addDate": "2018-03-21T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.702Z",
+      "updatedAt": "2024-03-21T06:24:59.699Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP  TO SELECT THE ITEMS FOR TREATMENT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS FOR TREATMENT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
