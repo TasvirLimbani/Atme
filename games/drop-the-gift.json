@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba6e",
+      "id": 3811,
+      "name": "Drop the Gift",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "drop-the-gift",
+      "image": "3811",
+      "url": "drop-the-gift",
+      "description": "Help Santa deliver all of the presents on time, throw the presents though the chimneys of the houses and claim a new highscore!",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/drop-the-gift-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Drop the Gift Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Drop the Gift at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Drop the Gift Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 24,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11550,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.728Z",
+      "updatedAt": "2023-07-26T14:37:11.053Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICON- TO COME DOWN, RIGHT ICON TO COLLECT THE GIFT",
+      "webControlKeys": "W,S, UP DOWN ARROW TO MOVE UP DOWN, L CLICK OF MOUSE TO THROW  THE GIFTS"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
