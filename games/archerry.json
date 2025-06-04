@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b194",
+      "id": 1306,
+      "name": "Archerry",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "archerry",
+      "image": "1306",
+      "url": "archerry",
+      "description": "<div>The real fun will begin when you decide to join this brand new action-packed game for boys – Archerry! Your partners will carry the cheery on their head and you will have to shoot them using your ultimate archery skills. Try to shoot only the cherry, not the partner otherwise you will lose the game! Make sure to aim an apple carrying on the head of a man across the field to clear the level and move to the next stage. Are you ready to be an archery master? Join this free online shooting game right away!</div><div><br></div><div>Shooting the arrow off his head will ensure you to earn points and reach the next stage. Try to hit your target in a first attempt to clear the stage with three stars. The level of difficulty will increase with the clearance of the stage. Use your skill while adjusting your aim to clear hills as well as overcome other obstacles. Feel free to tap on your device to become an archery master in this one of the best action games for boys! Aim only at your prey!&nbsp;</div><div><br></div><div>This one of the most popular sport games in the Olympics will definitely help you to improve your shooting skills. The advanced graphics make it very realistic and assist you to keep engaged for hours. When you play this cool HTML5 game in your browser, you will feel like you are shooting your target in real. This game features different forest, archery field, polished animation, variety of archery equipment and lots of addictive &amp; competitive levels.&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/fb6960c43968456aa472155cd09ed0b9/\r\n",
+      "metaTitle": "Archerry, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Archerry at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Archerry Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299458.xml",
+      "idealFor": "Man",
+      "likes": 79,
+      "dislikes": 16,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 24568,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.687Z",
+      "updatedAt": "2025-02-17T15:55:28.273Z",
+      "__v": 0,
+      "mobileControlKeys": "DRAG TO SELECT THE AIM, RELESE TO SHOOT",
+      "webControlKeys": "KEEP PRESS AND DRAG TO AIM, RELESE TO SHOOT"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
