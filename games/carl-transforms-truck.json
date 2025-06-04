@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c206",
+      "id": 5858,
+      "name": "Carl Transforms Truck",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "carl-transforms-truck",
+      "image": "5858",
+      "url": "carl-transforms-truck",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This brand new arcade is sure to challenge your brain and provide you with a platform where you have to put all your puzzle skills to win. Carl Transformers Truck is a beautifully-designed free online puzzle game where you are sure to have the fun while giving yourself a chance to meet with different challenges in different levels. You will be shown 5 images of your favorite Carl Truck and then they will be broken in different pieces. Your objective in this game is to connect them to create a complete picture.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Choose your picture and then select how many pieces you want to see it. There will have three different options – 25 pieces, 49 pieces and 100 pieces. Once you are done with it, get ready to press the play button to have fun! Make sure to put all the pieces in the proper places to obtain the complete image of your Carl Truck. You can play this jigsaw puzzle game through the mouse when you explore it in a computer, while feel free to explore it in your mobile phone by tapping.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Challenge your brain and put all the reflexes to test to put all bits of the truck in appropriate areas to ensure your win. The faster you will achieve your objective; the higher score you will obtain with 3 stars. Play this brain mobile game whenever you are free to have a wonderful gaming experience! We are delighted to offer an extensive array of kids puzzle games at our free online game website. Check out our all truck games to give you an unforgettable fun treat!</span></div>",
+      "size": 1200,
+      "height": 700,
+      "script": "https://html5.gamedistribution.com/9c921b87dfee4fcab4285172a35e9533/\r\n",
+      "metaTitle": "Carl Transforms Truck,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Carl Transforms Truck at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Carl Transforms Truck Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762208.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8267,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.756Z",
+      "updatedAt": "2025-01-18T13:55:20.015Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP  TO JOIN THE PUZZLE OF PICTURE",
+      "webControlKeys": "LEFT CLICK TO JOIN THE PUZZLE OF PICTURE"
+    },
+    "rating": {
+      "rating": "2.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
