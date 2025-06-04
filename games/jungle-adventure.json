@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c049",
+      "id": 5343,
+      "name": "Jungle Adventure",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "jungle-adventure",
+      "image": "5343",
+      "url": "jungle-adventure",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The protagonist has just entered a jungle that is full of dangerous obstacles. No one is there to help him out except you who has already grabbed many eye balls due to accepting many challenging jobs bravely in the past. So, it does not make any sense to wait anymore. Join Jungle Adventure game and be prepared to help him find the way to win! Do not forget to avoid unnecessary threats and collecting as many jewels as you can to complete the game with highest score!</span></div><div><span style=\"font-size: 13.3333px;\">This jungle welcomes you with a great number of deadly creatures who will take all three lives shortly. Also try to keep your eyes on the flying objects who are very rude and cruel. Run as fast as you can to cover the maximum distance to improve your score in this one of the best platform games for boys! Do not forget to jump through the gaps, traps, snakes and vines to move forward safely! This will also help you to vanquish all your enemies you see on your way.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">We love this cool html5 classic side scrolling game due to its amazing graphics and easy controls. You will also get a chance to meet the bosses who will challenge your power. The cheerful music and seamless gameplay is sufficient enough to keep your gaming spirit up. Good luck to mark your presence over the interesting adventure of your life! We welcome you to check out more online games to play for free and have fun, with no install required.&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/b09217e7cd1944d1b50c547f86c34ca3/\r\n",
+      "metaTitle": "Jungle Adventure,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jungle Adventure at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Jungle Adventure Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352896.xml",
+      "idealFor": "Man",
+      "likes": 20,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10702,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.749Z",
+      "updatedAt": "2024-03-26T07:53:22.554Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ALL ARROWS TO CONTROL SPACE-JUMP"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
