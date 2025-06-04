@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2b7",
+      "id": 6115,
+      "name": "Alien Invasion",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "alien-invasion",
+      "image": "6115",
+      "url": "alien-invasion",
+      "description": "<div>Oh no! Your planet is again invaded by the biggest attack of aliens. You have your own missile to use, but the enemy missiles are big in number. Can you dare to accept this challenge when you are alone in the biggest battle of your life? If yes, join Alien Invasion and gear up to protect your favourite planet Earth like never before. All you need to do is just keep firing till a single enemy missile is alive.</div><div><br></div><div>When you enter the play button, you would notice that your universe has become a battlefield. These aliens will keep moving from left to right and vice-versa to attack on you. You also need to move your missile left to right and vice-versa to protect your character against the attacks of your opponent. Put your fingers on the mouse or tap the screen of your mobile phone to eliminate all the aliens from the screen and win this war!</div><div><br></div><div>After destroying a significant number of aliens, you will also be given some lives to use in the game. Try to keep your character alive until all the aliens are finished to create a high score! Good luck to survive for as long as possible to create your new best score! If you liked this action-packed challenge, we are happy to suggest you to check our exclusive variety of free shooter games that you can play on all the latest browsers and devices including smartphones, tablets and much more.</div>",
+      "size": 680,
+      "height": 780,
+      "script": "https://html5.gamedistribution.com/7077497fd2b0488c9922809b5b7f91de/\r\n",
+      "metaTitle": "Alien Invasion, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Alien Invasion at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Alien Invasion Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442796.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9548,
+      "ownGame": false,
+      "addDate": "2019-09-26T01:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2024-09-27T20:49:27.244Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH AND KEEP PRESS TO HIT AND MOVE",
+      "webControlKeys": "LEFT CLICK OF MOUSE OR L-R ARROW TO CONTROL"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
