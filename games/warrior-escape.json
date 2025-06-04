@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbe0",
+      "id": 4197,
+      "name": "Warrior Escape",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "warrior-escape",
+      "image": "4197",
+      "url": "warrior-escape",
+      "description": "<div>The highly exciting brand-new adventure challenge is out now! Give it a try at least once and allow yourself to play the role of a brave space fighter! You have to control a space warrior who is equipped with his high-tech jetpack and a pair of exclusive charismatic glasses. Suddenly he got trapped in a dangerous environment and the only way to escape from there is to fly high in the sky! Join Warrior Escape and be prepared to make your hero fly without being touched with any obstacles!</div><div><br></div><div>Your character Barney has expertise in handling spacecraft, but this time he needs your help since this environment looks new to him. Keep your fingers on your mouse and tap the screen to fly through his spacecraft without being damaged and hitting any ground in 2D arcade-jumping game! You cannot start his jetpack as it has some problems. You can maneuver it by just a little tapping. Make sure to pass it through multiple ground gates.</div><div><br></div><div>Common friends! You have the guts to guide your space hero to create the best score and secure a top place of the spaceship. Put your reflexes and hand-eye coordination abilities to the test to fly as long as possible in this HTML5 point and click escape game! Good luck to create the best score in this one of the best flying games for boys and girls! Our website covers many popular titles from the category of free adventure games that are available for free to play online without download!</div>",
+      "size": 850,
+      "height": 520,
+      "script": "https://html5.gamedistribution.com/6820b8b58456449495f19b77612946c0/\r\n",
+      "metaTitle": "Warrior Escape Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Warrior Escape at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Warrior Escape Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543659100.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7325,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:41:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.733Z",
+      "updatedAt": "2024-10-19T22:01:58.486Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP CLICK L CLICK OF MOUSE TO FLY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
