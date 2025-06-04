@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd37",
+      "id": 4543,
+      "name": "3D Pixels",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "3d-pixels",
+      "image": "4543",
+      "url": "3d-pixels",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Constructing and painting objects is a hobby of many boys and girls. Today we have got you covered with a brand new arcade game where you can create whatever you want be it a building, a truck or a building and then build your belonging objects. Is it not pretty exciting? Join 3D Pixels and get ready to enjoy an awesome drawing and painting experience! There lots of creating and amazing works to explore in multiple categories in this cool drawing game.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">When you click the play button, you would notice a series of squares on the map. Try to put your nice sense to fill in each tile with a combination of the appropriate colors! Get ready to see the 3D result on the screen when you are done with the color! Make sure to color in each mystery figure layer by layer and do your best to guess what you are currently building using the colorful pixel art. Keep clearing levels and earning coins for your nice work to unblock different amazing designs!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Put your creativity to the test and show the world that you can build any 3D figures with the pixel blocks available on the screen in this html5 puzzle challenge! Be careful while constructing the objects with the help of the numbers! Build awesome structures and different models and prove the world that you have matchless drawing abilities! There are multiple levels, several new added models to build and awesome reward system. Create your best score and share your new best score with your family and friends over the leading social networks! Have a lot of fun in other 3D arcade games without download on atmegame.com</span></div>",
+      "size": 820,
+      "height": 850,
+      "script": "\nhttps://html5.gamedistribution.com/1b41a576f8a2443782e554b2d2f5114e/\n",
+      "metaTitle": "3D Pixels, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 3D Pixels at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "3D Pixels Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 16,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6942,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2023-09-28T03:20:39.448Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "R MOUSE- MOVE,WHEEL- ZOOM,CLICK TO FIT THE SCREEN OPTIMALLY,"
+    },
+    "rating": {
+      "rating": "0.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
