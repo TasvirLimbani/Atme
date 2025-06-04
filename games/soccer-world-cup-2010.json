@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae4f",
+      "id": 121,
+      "name": "Soccer World Cup 2010",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "soccer-world-cup-2010",
+      "image": "121",
+      "url": "soccer-world-cup-2010",
+      "description": "In the <a href=\"http://www.atmegame.com/online-soccer-games\" title=\"\" target=\"\"><font color=\"#0033cc\">football games</font></a> of choice in the series of sports game online, in the game, soccer world cup 2010, you have to kick the ball with full power and vigour. In the game, before full play on, you need to concentrate upon the right team to be selected by you.<br><br>As you have selected your team, the next you need to concentrate upon the group matches being played by you. For qualifying from group matches to quarterfinals you have to be among top two teams of your group. For winning a game, you earn about 3 points and at the same time for drawing shares one point each with your opponent team.<br><br>After winning quarterfinals in this soccer game online, next you play semi final and then final. In case, being at the draw position in final next resort in this sports game online is penalty shootout to decide the fate of the game. After winning the Soccer World Cup 2010, only, you become a real free football games champion.<br><br>The controls in the game are very easy and simple to make the game as much as simple and easier. For moments around the game, there are WASD or arrow keys. To move, the key is Z, C for shoot and V for passing. In the finals, a win is a must otherwise, the game is deemed to be over.",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=38b622657b4f4ec7bef177f8b885f14c",
+      "metaTitle": "Soccer World Cup 2010, Soccer  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Soccer World Cup 2010 is one of the most robust and soccer online free game as being preferred by the players.",
+      "metaKeyword": "Soccer World Cup 2010, Sports, Soccer , Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 90,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 11651,
+      "ownGame": false,
+      "addDate": "2016-07-03T07:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2024-08-25T14:21:18.417Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
