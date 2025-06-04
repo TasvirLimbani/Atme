@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b556",
+      "id": 2413,
+      "name": "Super Racing GT  Drag Pro",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "super-racing-gt-drag-pro",
+      "image": "2413",
+      "url": "super-racing-gt-drag-pro",
+      "description": "Battle in cars races, buy cars, tune them, and run for glory ! Enter the arena and play as a heroic racer and fight against your opponents. You must have no mercy against them as you have to beat them all. Watch out ... you will face numerous competitors in different clans. In each series, you will have to race against a big boss that will not hesitate to blast you ! SUPER RACING GT : DRAG PRO is a game of skill and speed, but also a strategic game where you need to tune and improve your car in order to have better performances. Numerous items and tools are available to upgrade your car. You can also decide to buy new cars, with more power and more speed. Buy new engine to have more power, new tires to avoid burn out and drift, buy some nitro to upgrade top speed. There is no limit for tuning. It?s like ?Pimp my car? but even better. Will you race off ? Will you be a champion ? can you raise this challenge ? Be fast and furious and win this race ! Go for it ! GAME FEATURES - 60 different cars available - 62 levels - 1500 items to unlock - Amazing graphics!!! - Lot of fun for sure if you dare race in this game PLAY NOW\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/2a40874c25d34efcbabe8c7483dd112c/",
+      "metaTitle": "Super Racing GT  Drag Pro, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Super Racing GT  Drag Pro at atmegame.com ! We have selected this car games for best excitement and thrill in you!",
+      "metaKeyword": "Super Racing GT  Drag Pro Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524810594.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13323,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-08-13T13:23:02.063Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP  ON THE PADDLE WHEN THE INDICATOR REACHES ON GREEN SIGNLE",
+      "webControlKeys": "L CLICK OF MOUSE ON THE PADDLE WHEN THE INDICATOR REACHES ON GREEN SIGNLE"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
