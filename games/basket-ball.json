@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af05",
+      "id": 484,
+      "name": "Basket & Ball",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "basket-ball",
+      "image": "484",
+      "url": "basket-ball",
+      "description": "<div>One of the best basketball game under the category of sports, Basket & Ball game is an ultimate threat to all free online game seekers. Your goal in this exclusively-designed free online game is to jump through the level using the ?space? key at the right time, collect stars and bounce the ball into the jolliest of baskets. There are a total of 50 challenges to be faced. Complete each challenge confidently. Make sure you win each level in this three levels challenging <a href=\"http://www.atmegame.com/online-basketball-games\" title=\"\" target=\"\"><font color=\"#0033cc\">basketball game</font></a>.</div><div><br></div><div>Don?t forget to collect the stars on the way towards the basket. Just keep dribbling and moving around in order to ensure the victory in each level of this thrilling online sports game. Each level will be completed when you transfer the ball to the basket properly. Jump as high as possible and try to avoid the fires and robotic policemen. Make sure that you will meet all the problems with full of confidence!</div><div><br></div><div>Dribble yourself up and down and get yourself ready to shoot yourself into the ring in this cool basket ball game. Earn stars and put in yourself like a boss before the time runs out! Don?t pop and make your basket cry and avoid nails and spikes as well as other harmful objects while playing this one of the best sports games for kids. Based on the real-life basket ball game, Basket & Ball game is sure to take you to the unique world of online gaming. Are you ready to obtain the three-star rank on all the levels of this cool basket ball game?</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://play.famobi.com/basket-and-ball/A-925FD",
+      "metaTitle": "Basket & Ball, Basketball Games, Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Basket & Ball at atmegame.com ! We have selected this Basketball  games for best excitement and thrill in you!",
+      "metaKeyword": "Basket & Ball, Sports, Basketball Games, Basket & Ball Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 113,
+      "dislikes": 10,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 12813,
+      "ownGame": false,
+      "addDate": "2017-07-18T13:33:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.668Z",
+      "updatedAt": "2024-09-24T19:57:06.654Z",
+      "__v": 0,
+      "mobileControlKeys": "L-ICONS TO MOVE L-R, R-ICON TO JUMP",
+      "webControlKeys": "SPACE-JUMP, L-ARROW TO LEFT SIDE, R-ARROW TO RIGHT SIDE"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
