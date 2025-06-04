@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b19f",
+      "id": 1318,
+      "name": "Jumbi Zombie",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "jumbi-zombie",
+      "image": "1318",
+      "url": "jumbi-zombie",
+      "description": "Jumbi is a little jumping zombie, who likes to play pranks. Dodge dropped threats, and scared the shit out of the passers-by! Collect golds, update abilities, and buy Jumbi new Cosplay! 20+ strange characters and dropped threats. 15 kinds of Jumbi Cosplay waiting for you to unlock! How high can your Jumbi jump?\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/bb827597a9c64c35bb27ddf81bc9e207/\r\n",
+      "metaTitle": "Jumbi Zombie, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jumbi Zombie at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Jumbi Zombie Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299458.xml",
+      "idealFor": "Man",
+      "likes": 66,
+      "dislikes": 20,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 16285,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.687Z",
+      "updatedAt": "2024-06-05T09:59:48.118Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO JUMP",
+      "webControlKeys": "L CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
