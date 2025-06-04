@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4eb",
+      "id": 2275,
+      "name": "Duck Shoot Evolution",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "duck-shoot-evolution",
+      "image": "2275",
+      "url": "duck-shoot-evolution",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a kind of person who likes to play online shooting games? Do you also love spending time with duck games? If yes, we have the solution to all your problems. All you need to do is just put your fingers on your mouse or tap the screen of your mobile phone to shoot all of the yellow ducks that you see on the screen in Duck Shoot Evolution. Make sure that you keep your eyes on the screen to hit the maximum number of ducks to create the highest score possible.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">In this brand new action game, you have focus on how wisely and properly you test your aim. Choose your level out of three options, including 30 sec, 90 sec and 120 sec and get ready to shoot the down the greatest number of possible ducks to score high! Remember you will have a few attempts to miss your target so take your time before aiming your target. Each duck hitting will give you a point. You would have 4 types of target to hit to stay in the game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Avoid shooting the target with the crossed sign otherwise you will fail immediately in this HTML5 shooter challenge! This cool shooting game features simple controls, seamless gameplay, and colourful graphics. If you need more fun and challenges, do not forget to explore our wider collection of free action-packed challenges and choose the one that fits into your tastes. All our games available on atmegame.com are meaningful and worth playing to keep you busy for long without download.&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/055110c3cd4749adb465be266cb92d1a/\r\n",
+      "metaTitle": "Duck Shoot Evolution, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Duck Shoot Evolution at atmegame.com ! We have selected this shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Duck Shoot Evolution Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 12561,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-10-04T01:25:11.402Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SHOOT ",
+      "webControlKeys": "L-CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
