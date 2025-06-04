@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b497",
+      "id": 2186,
+      "name": "High Noon Hunter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "high-noon-hunter",
+      "image": "2186",
+      "url": "high-noon-hunter",
+      "description": "Start the game and shoot all enemies with your weapons. Upgrade your revolver, shotgun, sniper rifle and sub machinegun to help you kill your enemy. And dont fotget to buy abilities to improve your speed, health and shooting skill. So many different enemies that you will meet, so let hunting!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/c290e5c13a8d4ad681f74a409549c053/\r\n",
+      "metaTitle": "High Noon Hunter, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game High Noon Hunter at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "High Noon Hunter Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1523600544.xml",
+      "idealFor": "Man",
+      "likes": 38,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 13019,
+      "ownGame": false,
+      "addDate": "2018-04-13T11:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.704Z",
+      "updatedAt": "2025-02-08T22:09:10.206Z",
+      "__v": 0,
+      "mobileControlKeys": "UP ARROW -JUMP, L-R ICONS TO MOVE",
+      "webControlKeys": "A-SHOOT, UP ARROW/SPACE-JUMP, L-R ARROWS TO MOVE L-R"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
