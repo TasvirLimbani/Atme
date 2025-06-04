@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba4e",
+      "id": 3777,
+      "name": "Pixel Castle Runner",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "pixel-castle-runner",
+      "image": "3777",
+      "url": "pixel-castle-runner",
+      "description": "Are you ready for HTML5 game Pixel Castle Runner? In this game you are a little pixel knight, and you have to run and jump over dangerous obstacles! In this game you can prove that you are a true brave knight. LETS GO!!",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/pixel-castle-runner-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Pixel Castle Runner, Running Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pixel Castle Runner at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Pixel Castle Runner Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7594,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2025-02-06T19:58:22.816Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO JUMP, RIGHT SIDE ICON TO SHOOT",
+      "webControlKeys": "L CLICKI MOF MOUSE TO JUMP, PRESS THE RIGHT ICON TO SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
