@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb6b",
+      "id": 4077,
+      "name": "Tower Defense Kingdom",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "tower-defense-kingdom",
+      "image": "4077",
+      "url": "tower-defense-kingdom",
+      "description": "<div>Oh no! It looks that a horde of your dangerous enemies has invaded your kingdom and put your princess behind the bars. You are the main fighter who is skilled enough to fight against these deadly enemies. Grab your arrow and bow and show off the world that can keep the castle and win the battle like a true hero in Tower Defense Kingdom! Apart from providing protection to the people of this kingdom, you will also have to protect their princess and save the castle.</div><div><br></div><div>These bad evils will come to attack to your castle one by one. Kill them and try to keep your eyes on the money as well in this brand new action game! See on the top right corner of the screen to know how many enemies you have to face in the present level! Clear the area from all these bloody souls to complete the level and move to the next level in this HTML5 shooting game! Common boys! These green monsters are very quick and try to reach you fast.</div><div><br></div><div>You would be killed and out of the game in case if any of your enemies reaches your castle. Aim your target and release your arrow to kill them on the spot in this cool archery game! The advanced level will allow you to meet more complex challenges so be ready to put your shooting abilities to the test. Good luck to defeat all your enemies and become a true fighter of your kingdom! Give try other challenging and tricky free action games and enjoy your day without download!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/ab7bfc59b5384e3cb8b52cce910c43da/\r\n",
+      "metaTitle": "Tower Defense Kingdom, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tower Defense Kingdom at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Tower Defense Kingdom Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10507,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-01-16T09:48:12.384Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO AIM, REELESE TO SHOOT THE ARROW"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
