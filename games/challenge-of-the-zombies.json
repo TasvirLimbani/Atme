@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c181",
+      "id": 5688,
+      "name": "Challenge Of The Zombies",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "challenge-of-the-zombies",
+      "image": "5688",
+      "url": "challenge-of-the-zombies",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Challenge of the Zombies is an awesome treat to all those gamers who want to quench their appetite for action and thrill. In this brand new action game, your objective in each level is to clear the area from the deadly zombies. All you need is put your shooting skills to test to kill all these blood-thirsty souls. Remember, the bullets are limited in each level. So, do not try to waste your bullets. Aim your target and then click on the screen on the right position to release your bullet!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your bullets can hit the wall and return back with the same speed it releases from your gun. Hence, try to leave them in a direction so that they can kill the zombies you see on the screen. Not all zombies are standing in a same row or column. So, shooting them will not be as easy as you thought of. Set your target and then plan a strategy to kill all these undeads in this one of the best shooting games for kids!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You can turn off and on music and sound with the help of setting button. In this 10 levels zombie challenge, you have to get yourself ready to meet different challenges in each level. You can pause your game and exit from it anytime you want. Here you will also have an option to resume and restart your game as per your requirements. Check out more zombie games on our website to keep you engrossed for hours! Good luck to set a big score in this free online shooter challenge!</span></div>",
+      "size": 850,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/4cf3348105044596a7e1a95ca8f78261/\r\n",
+      "metaTitle": "Challenge Of The Zombies, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Challenge Of The Zombies at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Challenge Of The Zombies Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1556964027.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6872,
+      "ownGame": false,
+      "addDate": "2019-05-04T15:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2022-08-23T23:21:30.169Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "FIX THE AIM WITH LEFT CLICK AND SHOOT THE ZOMBIES"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
