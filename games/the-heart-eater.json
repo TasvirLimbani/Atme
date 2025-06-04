@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aea4",
+      "id": 220,
+      "name": "The Heart Eater",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "the-heart-eater",
+      "image": "220",
+      "url": "the-heart-eater",
+      "description": "Zombie cruel in nature loves to heart eating",
+      "size": 650,
+      "height": 0,
+      "script": "<object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0\" id=\"g2wgame1\" width=\"650\" height=\"530\">\r\n                                <param name=\"movie\" value=\"https://static.inviziads.com/games/boys-games/the_heart_eater.swf;\"></param>\r\n                                <param name=\"quality\" value=\"high\"></param>\r\n                                <param name=\"menu\" value=\"false\"></param>\r\n                                <param name=\"allowScriptAccess\" value=\"always\"></param>\r\n                                <embed quality=\"high\" pluginspage=\"https://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" menu=\"false\" src=\"https://static.inviziads.com/games/boys-games/the_heart_eater.swf\" height=\"530\" width=\"650\" allowScriptAccess=\"always\"></embed></object>",
+      "metaTitle": "The Heart Eater , Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Meta Description Updating...",
+      "metaKeyword": "The Heart Eater , Action, Zombie, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "ALL",
+      "likes": 88,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 14923,
+      "ownGame": false,
+      "addDate": "2016-07-05T22:23:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.665Z",
+      "updatedAt": "2024-12-31T13:34:37.499Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
