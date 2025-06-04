@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfb4",
+      "id": 5189,
+      "name": "EG Mad Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "eg-mad-racing",
+      "image": "5189",
+      "url": "eg-mad-racing",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The golden car driving opportunity you are going to get in our brand new car game. Hope you would join EG Mad Racing game and get ready to take your fantasy for speed to the next level! In this highly addictive and quality physics-based car racing game, you will have to control a wonderful car. Be prepared to change your fingers from accelerator to break to operate your vehicle perfectly! Remember the track is full of obstacles, so your proper driving skills will only able to get through all.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Climb hills with a proper control to beat the challenges and obstacles that you see on the unique uphill and downhill environments! While controlling your four-wheeler, it is also your responsibility to collect bonuses and add them to your wallet. You can use those coins to upgrade your vehicles and reach even higher distances shortly. Keep your eyes on the petrol green bar as you will lost your game if your tank gets empty. Cover the distance and reach to other tanks to get another 100 seconds!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The intuitive controls and colorful graphics combined with the seamless gameplay will definitely take you to a wonderful platform to enjoy and pass your free hours. No matter if you get bored as you can browse through our website for free and spot some new car games that will definitely suit your requirements. We cater to free car games to players of all ages, so you can visit us without keeping age in your mind. Have the best fun online, no download required!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/df82142d0d1846708946ac03838a721d/\r\n",
+      "metaTitle": "EG Mad Racing,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EG Mad Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "EG Mad Racing Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545866.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7692,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2022-08-23T23:21:30.160Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L ARROW BREAK, RIGHT ARROW GAS"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
