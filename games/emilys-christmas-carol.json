@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba25",
+      "id": 3732,
+      "name": "Emily&apos;s Christmas Carol",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "emilys-christmas-carol",
+      "image": "3732",
+      "url": "emilys-christmas-carol",
+      "description": "In Delicious - Emily&apos;s Christmas Carol Deluxe, Emily and the family set out on a trip up north to a cute little cottage for the holidays. It turns out their train ride may follow the tracks to new friends and unexpected adventure... So bake a big batch of cookies, and settle in with a hot drink to warm up your Christmas spirit in Delicious - Emily&apos;s Christmas Carol Deluxe&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/emilys-christmas-carol-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Emily&apos;s Christmas Carol, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Emily&apos;s Christmas Carol at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Emily&apos;s Christmas Carol Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 18,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9069,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2024-03-13T08:05:17.032Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO COMPLETE THE ORDER",
+      "webControlKeys": "L CLICK OF MOUSE TO COMPLETE THE ORDER"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
