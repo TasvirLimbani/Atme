@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c31f",
+      "id": 6233,
+      "name": "Rising Command",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "rising-command",
+      "image": "6233",
+      "url": "rising-command",
+      "description": "<div>The real helicopter action-packed challenge is out! All you need to control your plane like a true pilot. Do you think that you are skilled enough to handle this job perfectly? Join Rising Command and be prepared to become a part of a fun adventure like never before! Wow! This brand shooting game is full of action and entertainment. Take your seat on your plane and get ready to fly it in a high sky for long to score big!</div><div><br></div><div>Try to avoid any type of collision on your way as you will lose your game immediately if you hit any objects or top or bottom! The health card of your helicopter will be shown on the top middle portion of the screen. Click and hold your LMB or tap the screen for long of your mobile phone to move your helicopter in any direction! Challenge your flying and quick reflexes to survive for long and create your best score!</div><div><br></div><div>No need to bother in case if you lose your game as you can restart and have fun with your friends again and again. Tap to start the real fun and allow yourself to become a true pilot! Be careful and try to keep your plane away from the bullets that are coming towards you regularly! Keep moving your helicopter upward and downward or you can also give it to the left and right direction to stay for long in the game! Good luck to play even more tricky and addictive free action games on atmegame.com and have a blast!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/017c19c62d5c4f7aa35b5b39dac140d9/\r\n",
+      "metaTitle": "Rising Command Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Rising Command at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Rising Command Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579513428.xml",
+      "idealFor": "Man",
+      "likes": 29,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 12551,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2024-11-09T05:03:43.786Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPING SCREEN TO BLANCE THE PLANE",
+      "webControlKeys": "ARROWS TO SCROLL THE PLANE"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
