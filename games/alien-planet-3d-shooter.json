@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c28b",
+      "id": 6058,
+      "name": "Alien Planet 3D Shooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "alien-planet-3d-shooter",
+      "image": "6058",
+      "url": "alien-planet-3d-shooter",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You are evolved as a nice fighter whenever your country needs you! This you are available on a hostile alien planet which is invaded by the horde of dangerous enemies. Nothing could work than planning a fighting strategy and implementing it like never before. Grab your gun and get ready to clear the area from these deadly souls and prove yourself a brave fighter again Alien Planet 3D Shooter! Choose any option between the Normal and Crazy mode before entering the fiercely battle!</span></div><div><span style=\"font-size: 13.3333px;\">There are plenty of futuristic guns and other weapons to select from in this first-person shooter game. Guide your character through the endless waves of your enemies to complete each level! Each mode features 100 unique and challenging levels to play through when you enter this latest action-packed challenge. The bottom left corner of the screen will show your health status. On the top middle portion of the screen, you can check out the number of remaining waves.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Track your present score and high score by looking your eyes at the top right corner of the screen! You might struggle initially in levelling up especially if you are a newbie to this 3D free online shooting game. However, you learn how to control your character and his weapons after a few attempts. Complete waves to earn points and upgrade your weapons to face your opponents more confidently than before! This cool HTML5 fps game features a sci-fi theme, multiple weapons and modes to choose from, and level-up system. Good luck to have a blast in our other free action games!</span></div><div><br></div>",
+      "size": 960,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/c899712a244b4d27a86537c671d8b375/\r\n",
+      "metaTitle": "Alien Planet 3D Shooter Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Alien Planet 3D Shooter at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Alien Planet 3D Shooter Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1562507887.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7102,
+      "ownGame": false,
+      "addDate": "2019-07-07T19:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.758Z",
+      "updatedAt": "2024-08-05T07:53:09.763Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE, LEFT CLICK-HIT ,RIGHT CLICK-FROUNT VIEW,R-RELOAD"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
