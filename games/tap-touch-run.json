@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba4f",
+      "id": 3778,
+      "name": "Tap Touch Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "tap-touch-run",
+      "image": "3778",
+      "url": "tap-touch-run",
+      "description": "In the HTML5 game Tap Touch Run, you need to say focused the whole time because you don&apos;t know what to expect&#33; Choose your favorite animal and play this challenging game now&#33; Be aware to tap on the latest moment or you will die imminently..",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/tap-touch-run-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Tap Touch Run, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tap Touch Run at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Tap Touch Run Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8284,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2025-02-06T19:58:34.901Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO RUN THE FOX",
+      "webControlKeys": "L CLICK OF MOUSE  TO RUN THE FOX, CLICK ON THE ARROWS TO LET THE FOX PASS SAFELY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
