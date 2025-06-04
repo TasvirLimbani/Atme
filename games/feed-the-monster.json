@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b193",
+      "id": 1305,
+      "name": "Feed The Monster",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "feed-the-monster",
+      "image": "1305",
+      "url": "feed-the-monster",
+      "description": "<div>Are you ready to play one of the best shooting games of this season? Join Feed The Moster and enjoy an opportunity to dive into the unlimited fun and entertainment! In this action-packed online game, you will have to feed a hungry monster with the delicious balls. You can choose any colour for your monster - yellow, pink, green or blue. Tap the screen to make an instant shoot and aim at mouth to feed this hungry monster. Feel free to take a wind into account.</div><div><br></div><div>Have a look at the direction of the win before shooting your ball into the mouth of this monster! Pass your ball through the strong win to secure more points in the end of this free online action game! Inspired by Paper Toss, Feed The Monster features colourful graphics, seamless gameplay and easy control. The outstanding audio and video effects of this cool HTML5 game will be enough to fill your boring hours with the matchless fun and thrill.&nbsp;</div><div><br></div><div>Your child will be able to learn the fundamentals of reading by playing this super cute game. A feeling of helping others will be developed in him or her with the engagement in this beautifully-designed game for kids. Allow your kids to play such more exciting shooting games on our website to help them grow mentally and physically with ease! You can play this alone or share it with your friends to help them have good time online. Keep playing and enjoying your time!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/8ff565cd4e984576a976b959685c4848/\r\n",
+      "metaTitle": "Feed The Monster, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Feed The Monster at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Feed The Monster Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299458.xml",
+      "idealFor": "Man",
+      "likes": 51,
+      "dislikes": 11,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 15341,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.687Z",
+      "updatedAt": "2025-03-09T01:27:00.251Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO THROW THE BALL",
+      "webControlKeys": "L CLICK OF MOUSE TO THROW THE BALL"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
