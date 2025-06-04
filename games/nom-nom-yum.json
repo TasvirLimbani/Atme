@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd43",
+      "id": 4555,
+      "name": "Nom Nom Yum",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "nom-nom-yum",
+      "image": "4555",
+      "url": "nom-nom-yum",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This monster Nom Nom is crazy for sushi. He looks very hungry for sushi and has come to you in search for help. Will you be able to help him out when he needs you on an urgent basis? Join Nom Nom Yum and get ready to slice ropes to help the monster eat his favorite dish! Avoid losing the sushi otherwise, Nom Nom will be upset and show you a face full of sadness! Make sure to apply the best strategy to feed him and complete each level with a huge smile on his face.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Sushi has recently descended onto the planet Earth and here you are his only friend. Now it is your responsibility to feed him with his favorite item at the Japanese restaurant. Try to slice ropes or cut the ropes timely to reach the sushi right into the mouth of the monster while collecting all the 3 stars in this html5 puzzle game! You would find some dangerous bubbles in several advanced levels. Click the bubble to pop it and get ready to drop the sushi as fast as you can!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Keep your eyes on the screen as rope swings its way into the mouth of Nom Nom in this highly addictive and challenging arcade challenge! Try to finish time for scoring 3 stars in each level to obtain the maximum possible points! There are 25 levels to play through and 75 stars to get. Do not forget to watch the walkthrough video in case of being stuck or get confused. Sharpen your wisdom to feed sushi to the monster in this brilliant puzzle game! Check out more arcade games for boys and girls to have more fun with your friends, no download required on atmegame.com!</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "\nhttps://html5.gamedistribution.com/6ddc9081f0db4b09908be03b282d21ad/\n",
+      "metaTitle": "Nom Nom Yum, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Nom Nom Yum at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Nom Nom Yum Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7634,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-01-29T21:17:54.667Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO CUT THE ROPE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND SWIPE TO CUT THE ROPE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
