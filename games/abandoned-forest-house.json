@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b936",
+      "id": 3476,
+      "name": "Abandoned Forest House",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "abandoned-forest-house",
+      "image": "3476",
+      "url": "abandoned-forest-house",
+      "description": "Explore abandoned forest house, solve puzzles and search for 45 coins. Find all coins to escape!\r\n",
+      "size": 1280,
+      "height": 720,
+      "script": "https://html5.gamedistribution.com/677d580b3d6a44268153aad4dbc764a6/",
+      "metaTitle": "Abandoned Forest House, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Abandoned Forest House at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Abandoned Forest House Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536576566.xml",
+      "idealFor": "Man",
+      "likes": 51,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 20517,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-03-18T01:58:25.176Z",
+      "__v": 0,
+      "mobileControlKeys": "L SCREEN ICONS TO MOVE THE SCREEN, TAP TO FIND THE COINS",
+      "webControlKeys": "L ICONS TO MOVE THE SCREEN, L CLICK TO FIND THE COINS"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
