@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba78",
+      "id": 3822,
+      "name": "Cube Ninja",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "cube-ninja",
+      "image": "3822",
+      "url": "cube-ninja",
+      "description": "You are an agile ninja who is running down a road of obstacles! Dodge the gaps, jump, defy the laws of physics and grab as much sushi as you can!",
+      "size": 800,
+      "height": 600,
+      "script": "https://games.atmegame.com/games/cube-ninja/",
+      "metaTitle": "Cube Ninja, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cube Ninja at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Cube Ninja Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": "Man",
+      "likes": 1007,
+      "dislikes": 16,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 634100,
+      "ownGame": true,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.728Z",
+      "updatedAt": "2025-05-29T05:25:13.249Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP UP DOWN OF THE SCREEN TO CHANGE THE SIDES OF NINJA",
+      "webControlKeys": "L CLICK OF THE MOUSE ON THE UP DOWN OF WALL TO CHANGE THE DIRECTION"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 120
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
