@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b20c",
+      "id": 1441,
+      "name": "Wheely 5",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "wheely-5",
+      "image": "1441",
+      "url": "wheely-5",
+      "description": "<div>Do you want to love cars and have a hobby of solving challenging puzzles and teasers? Join us in another beautiful sequel of Wheely game series to challenge your brain! Wheely 5 is an improved fun adventure game full of surprises and challenges. Your good friend Wheely has got stuck in a big danger when the Earth is hit by a meteor.&nbsp;<span style=\"background-color: transparent; font-size: 10pt;\">Now your friend needs your assistance urgently. Are you ready, boys? Play this cute free online platform game to show off your skills!</span></div><div><span style=\"background-color: transparent; font-size: 10pt;\"><br></span></div><div>There are various obstacles surrounded by the highly recognized VW Beetle, Wheely. However, he is very lucky since you are his close friend who loves to be involved in puzzle solving games. Then apply your creative and analytical thinking skills to solve them and pass several obstacles. Find out and click the objects and characters in the right order to progress through each of the fantastic levels in this cool puzzle game!</div><div><br></div><div>You are very excited after seeing your car friend once again. After applying several death-defying tricks in the car fixing store in Wheely 4, the most popular VW Beetle is now ready to offer more action in this wonderfully-designed Wheely 5: Armageddon. The game features vivid and colourful graphics and HTML5 technology and can be played both on mobile and desktop browser. Play this point and click adventure game now to enjoy a lot of fun! Wishing you a happy and enjoying online gaming experience!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/aa269c091dc14e9a8fc7d472f775d8ec/\r\n",
+      "metaTitle": "Wheely 5, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wheely 5 at atmegame.com ! We have selected this platform games for best excitement and thrill in you!",
+      "metaKeyword": "Wheely 5 Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489364.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 13519,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.689Z",
+      "updatedAt": "2024-03-08T18:48:08.802Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
