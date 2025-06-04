@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c01d",
+      "id": 5299,
+      "name": "Metal Animal",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "metal-animal",
+      "image": "5299",
+      "url": "metal-animal",
+      "description": "Metal Animals to the rescue! Control a team of cute and furry animals with weapons, and defend the tank from the enemy invasion. Stop the evil animals from destroying your tank! Features: - Innovative drag and drop mechanic: Drag and place metal animals onto strategic positions on your tank. - Unlimited waves of enemies - Different animals to control: foxes, cats, pandas, sheep - they all come with guns\r\n",
+      "size": 480,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/c3aab37fcdf54cc7b4833f4d82392978/\r\n",
+      "metaTitle": "Metal Animal,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Metal Animal at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Metal Animal Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352477.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 9766,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:11:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.749Z",
+      "updatedAt": "2024-02-22T10:35:03.267Z",
+      "__v": 0,
+      "mobileControlKeys": "CHOOSE FROM THE FIGHTERS AND SWIPE THEM UP ON TANK TO FIGHT",
+      "webControlKeys": "DRAG SOLDIERS TO THE TANK TO DEFET ENEMY BY L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
