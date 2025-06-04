@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf4a",
+      "id": 5080,
+      "name": "Air Wolves",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "air-wolves",
+      "image": "5080",
+      "url": "air-wolves",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The First World War has just begun and you have been hired as a pilot to take care of one of the most important areas of the sky. Suddenly you see that a horde of enemies has entered your area and start attacking on your planet. Take the charge of your plane and enter the sky battle right now in this brand new adventure challenge! You have secured a wonderful opportunity to become one of the legendary aces right from the popular “Air Wolves” squadron.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this interesting and addictive pixel airplane shooting game is to fly, fight hard and survive as long as you can. Be alert and put your fingers on the mouse or tap the screen to shoot down your enemy aircrafts while avoiding the hostile bullets! Keep changing your position by flying up and down to avoid the enemy fire and grab stars and power-ups! Try to survive as long as you can to collect the maximum number of stars!</span></div><div><span style=\"font-size: 13.3333px;\">We know that you are brave enough to handle this hardcore battle and prove the world that you have the ability to change the outcome the First World War. Eliminate all your enemies from the sky to be a leader in the legendary aces and wear the crown of being the master of skies! We have plenty of online fighting games for free to play on atmegame.com. Choose anyone among the top flying games and have fun without download!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://m.shtoss.com/game/air-wolves/index.html",
+      "metaTitle": "Air Wolves,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Air Wolves at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Air Wolves Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546118979.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7351,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-02-19T09:39:47.841Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "SPACE-TO CONTROL THE PLANE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
