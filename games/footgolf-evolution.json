@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b17b",
+      "id": 1274,
+      "name": "Footgolf Evolution",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "footgolf-evolution",
+      "image": "1274",
+      "url": "footgolf-evolution",
+      "description": "<div><span style=\"background-color: transparent; font-size: 10pt;\">Have you seen before mixing golf and football together in any game? If no, play Footgolf Evolution today and get ready to see this combination in this brand new soccer game for boys. There are 24 holes and a bunch of challenging obstacles to be explored. Roll up your sleeves and kick the ball across the beautifully-crafted soccer pitch. Make your soccer ball roll into the hole instead of kicking it into the goal point. Focus on your target and achieve the goal of the game with one well-aimed kick!</span><br></div><div><span style=\"background-color: transparent; font-size: 10pt;\"><br></span></div><div>Footgolf Evolution is one of the best sports where all you have to aim carefully and kick the ball so fast that it goes through all the obstacles in one shot. We hope you have the guts to score a hole-in-one. Get up boys and show off your intense soccer skills to set a new high score in this free online soccer sport! A beautiful football field and an awesome soccer ball are waiting for you. Get the ball into a hole with the minimum possible attempts in each level of the twenty-four rounds. Go through all the obstacles and traps confidently.&nbsp; &nbsp;</div><div><br></div><div>In order to set the power and direction, you are advised to click the ball and drag it. The lowest number of kicks you will use to get the football down the hole, the higher score you will be able to make in the end of this cool flash game for boys. Win all the levels to prove yourself as an elite soccer player! Remember obstacles can reduce the force of the ball, so try to avoid them while hitting the ball. Do your best and earn the 3 stars for each level in this fun soccer game! Control the game with a mouse!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/ca4735410b1d464f9148fcdd27e763e5/\r\n",
+      "metaTitle": "Footgolf Evolution, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Footgolf Evolution at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Footgolf Evolution Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517222754.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 13038,
+      "ownGame": false,
+      "addDate": "2018-01-29T16:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.686Z",
+      "updatedAt": "2025-02-11T20:58:12.406Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE AND DRAG TO SELECT THE DIRECTION AND RELEASE TO MAKE A GOAL",
+      "webControlKeys": "KEEP PRESS L-CLICK OF MOUSE AND DRAG TO SELECT THE DIRECTION AND RELEASE TO MAKE A GOAL"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
