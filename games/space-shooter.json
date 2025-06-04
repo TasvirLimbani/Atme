@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c04b",
+      "id": 5345,
+      "name": "Space Shooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "space-shooter",
+      "image": "5345",
+      "url": "space-shooter",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is time to take command of a powerful spaceship and tell the world that you a true spaceman! Are you ready to accept this challenge? Join Space Shooter game and get ready to rediscover the delight and pleasure of the arcade world! You have to prove your skill as a skilful pilot to fight against a huge group of enemies across different unique levels. The problem is that you are alone in the space, so nobody will come to protect you against the hostile Aliens.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Do not worry you are playing the role of a caption in this brand new action packed challenge. So, your spaceship is loaded with all the useful weapons that are enough to get through the hurdles. Do not forget to put your shooter skill to test to save yourself and destroy all your enemies as fast as you can! You will get out of the game in case if they enter your area and try to shred your ship into pieces. They are very danger and keep releasing the missiles on you.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">The entire space team is waiting for your quick order. Do it fast to strongly reply the alien invaders before they reach you! You do not have time to wait. Put your finger on the mouse and keep protecting the galaxy and the surrounding asteroids through your ultimate war strategy! Make sure to put you on fire with the regular space shooting. Give all the striker bosses and become the best alien shooter in this one of best online galaxy games! Check out more shooting games online for free on atmegame.com to seek for extra fun!</span></div>",
+      "size": 500,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/bcf1abcfb7674176a1bb4dff0383555d/\r\n",
+      "metaTitle": "Space Shooter,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Space Shooter at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Space Shooter Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352896.xml",
+      "idealFor": "Man",
+      "likes": 69,
+      "dislikes": 16,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 17325,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.749Z",
+      "updatedAt": "2024-12-10T13:43:47.271Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS THE SHIP ANS SWIPE L-R TO MOVE",
+      "webControlKeys": "L CLICK AND KEEP PRESS TO MOVE "
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
