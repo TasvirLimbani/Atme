@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bdff",
+      "id": 4744,
+      "name": "Neo Jump",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "neo-jump",
+      "image": "4744",
+      "url": "neo-jump",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a Neo environment lover? Do you like the twists and hurdles available on a platform? Join Neo Jump and get ready to take an instant action to become the strongest arcade player! Your objective in this brand new arcade game is to jump over multiple obstacles that you see on the platform. It is harder than you have ever imagined. Take a deep breath and be ready to enter the real funny and thrilling environment!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try not to miss any bars and jump or pass it through without falling down in this free online platform game! Your smartness of your mind will definitely help you to clear all 20 stages and break your own record. All you need to do is just click or tap the screen to achieve your mission. You can track how many stages you have cleared as of now by keeping your eyes on the top left corner of the screen. Join this unique cool html5 platformer challenge to beat the sharp jumps and dodging ways!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">We are pretty sure that you have enough guts to beat all 20 stages and create your own highest score.&nbsp; The lovely purple color background, easy controls and seamless gameplay will provide you with a platform to keep you engrossed for hours. Try it out in your PC, smartphone, tablet, iPhone or iPad and have a blast online! Do not forget to check out our other popular arcade challenges that you can also try without download. Good luck to be a king of the free platformer games!</span></div><div><br></div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://m.shtoss.com/game/neo-jump/index.html",
+      "metaTitle": "Neo Jump, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Neo Jump at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Neo Jump Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7198,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.741Z",
+      "updatedAt": "2022-08-23T23:21:30.150Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO JUMP",
+      "webControlKeys": "L CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
