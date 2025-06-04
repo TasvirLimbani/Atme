@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b942",
+      "id": 3488,
+      "name": "Marinette Vs Ladybug",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "marinette-vs-ladybug",
+      "image": "3488",
+      "url": "marinette-vs-ladybug",
+      "description": "Marinette is living a normal life,but sometimes she becomes Ladybug,a superhero that fight crime in the city.Help our girl to prepare a proper outfit for her normal and superhero life.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/c68efd1b231240a5b8933d415ea4239b/\r\n",
+      "metaTitle": "Marinette Vs Ladybug, Dressing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Marinette Vs Ladybug at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Marinette Vs Ladybug Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536576566.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7678,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2024-08-25T09:08:32.904Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMSTO DRESSUP",
+      "webControlKeys": "L CLICK OF MOUSE TO DRESSUP"
+    },
+    "rating": {
+      "rating": "1.3",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
