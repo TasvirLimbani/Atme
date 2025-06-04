@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad9b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf6d",
+      "id": 5116,
+      "name": "Hop Hero",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "hop-hero",
+      "image": "5116",
+      "url": "hop-hero",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Get ready to grab a wonderful opportunity to help a little and cute owl to hop perfectly in Hop Hero! The long your owl stays in the game, the higher score you would be to see on the screen in the end. Are you ready to provide your valuable assistance to this lovely owl? Join our brand new adventure challenge and show the world that you have enough skill to become a hopping champion! You have to put your jumping abilities to test to sail through all the obstacles and hop along as far as possible.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Jump through all the hoops you see on the screen to unlock the walls and make your way in this cute html5 jumping game! Your every successful hop will reward you with a diamond. Keep making as many hoops as you can to collect the maximum number of diamonds! You can use those diamonds/gems to purchase new owl model and make your gameplay more interesting and funny. Click through mouse on PC or tap the screen to hop and break down walls!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Play wisely to break all of your previous high scores and wear a crown of being a Hop Hero in the city in this funny flyppy Owl mobile game! Good luck to collect gems properly to open the partitions and go as far as possible! Check out more out skill games for free on atmegame.com and have fun without bothering about downloading any unnecessary heavy-size app or software! Our website is updated regularly, so it is quite possible to spot a new adventure game every time you visit.&nbsp;</span></div>",
+      "size": 400,
+      "height": 711,
+      "script": "https://m.shtoss.com/game/hop-hero/index.html",
+      "metaTitle": "Hop Hero,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hop Hero at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Hop Hero Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7929,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2022-08-23T23:21:30.158Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPPING ON OWL TO FLY",
+      "webControlKeys": "KEEP CLICKING L CLICK ON OWL TO FLY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad9b",
+      "name": "jumping",
+      "slug": "jumping",
+      "icon": "icon-iconAsset-47"
+    }
+  }
+}
