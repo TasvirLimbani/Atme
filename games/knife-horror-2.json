@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb6a",
+      "id": 4076,
+      "name": "Knife Horror 2",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "knife-horror-2",
+      "image": "4076",
+      "url": "knife-horror-2",
+      "description": "<div>The biggest shooting challenge is here! Would you like to try it out to challenge your shooting abilities? Join Knife Horror 2 and be prepared to destroy all the deadly monsters by throwing knives! They would make a scary noise if you throw wrong. Be careful and try not to get scared of them if you make a mistake in this brand new action game! When you click the play button, you would see a scary rotating board where you have to throw knives available at your store.</div><div><br></div><div>Make sure not to collide your knives with any of already thrown weapons when you throw the required number of knives at the rotating board. Hideous beasts and zombie heads will be the target boards. Try to be a little bit quick and put your sharp reflexes to the test to complete each level successfully in this HTML5 shooting game! Be ready to face off the complex challenges when you move forward in this gruesome horror version of the popular arcade game!</div><div><br></div><div>Your targets board will rotate fast and change its directions to make your gameplay more interesting. Complete level and earn points to purchase new knife models! Check out more fun knife-throwing arcade games on our website to keep you busy for hours! We keep updating our websites and adding new action games so that our viewers can kill their time by browsing new kind of entertainment and thrill.</div>",
+      "size": 720,
+      "height": 1280,
+      "script": "https://html5.gamedistribution.com/421132b30f7f40bcb5ef5fe72dc4a4fe/\r\n",
+      "metaTitle": "Knife Horror 2, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Knife Horror 2 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Knife Horror 2 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8698,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-10-13T06:28:26.537Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO HIT THE KNIFE ",
+      "webControlKeys": "L CLICK OF MOUSE TO HIT THE KNIFE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
