@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 0,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3c2",
+      "id": 6448,
+      "name": "Santa Claus Adventures",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "santa-claus-adventures",
+      "image": "6448",
+      "url": "santa-claus-adventures",
+      "description": "Santa Claus Adventures is a kids christmas game. Adventure with Santa. You need to collect colorful balls and avoid dangers. Press and tap the screen to send the Santa. There are 20 levels waiting for you. Have fun!\r\n",
+      "size": 900,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/aeeb0e1c1c2c457eb651d31b5f65c643/\r\n",
+      "metaTitle": "Santa Claus Adventures,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Santa Claus Adventures at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Santa Claus Adventures Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 5174,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2024-01-05T15:20:38.945Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICONS TO MOVE,RIGHT ICONS TO HIT AND JUMP",
+      "webControlKeys": "UP ARROW TO JUMP,L-R ARROW TO MOVE, HIT ICONS TO HIT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
