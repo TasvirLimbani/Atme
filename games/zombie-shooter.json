@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2af",
+      "id": 6107,
+      "name": "Zombie Shooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zombie-shooter",
+      "image": "6107",
+      "url": "zombie-shooter",
+      "description": "<div>The world has got into big trouble as the dangerous undead is everywhere. Can you take the charge of eliminating all the deadly monsters from this area? If yes, Zombie Shooter is just for you. You are going to play the role of a shooter in this fast-paced action game that features very simple controls and seamless gameplay. Kill all of the deadly monsters with the limited budgets in a limited time period to clear each level! Make sure to destroy all of these monsters as fast as possible!</div><div><br></div><div>Use the direct hits and rebound trick shots to achieve your goal in this one of the best games for boys! Fight hard to make your way to the evacuation centre and get you engaged in the greatest battle of this planet! Survive for long to discover the major cause of the invade! This HTML5 shooting challenge features an interesting and engaging game story with multiple tasks, an enormous weapons arsenal, and different types of boosters, including armor, implants, nanobots, grenades and medical kits.</div><div><br></div><div>Common boys! You cannot take your steps back as this is a matter of saving humanity from total annihilation. We have covered a huge collection of easy-to-play cool shooter challenges that you can play online anytime anywhere without download. Stay tuned with us to spot new action games and keep you away from the boring and gloomy hours! It is our major pleasure to serve you with the best of the gaming world.</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/zombie-shooter/",
+      "metaTitle": "Zombie Shooter, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zombie Shooter at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Zombie Shooter Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442796.xml",
+      "idealFor": "Man",
+      "likes": 574,
+      "dislikes": 33,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 146223,
+      "ownGame": true,
+      "addDate": "2019-09-26T01:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-04-13T03:15:55.280Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH TO SHOOT",
+      "webControlKeys": "LEFT CLICK OF MOUSE-FIX AND HIT"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 46
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
