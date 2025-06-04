@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c273",
+      "id": 6032,
+      "name": "Mortar.io",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "mortario",
+      "image": "6032",
+      "url": "mortario",
+      "description": "<div><span style=\"font-size: 13.3333px;\">We are happy to bring to you some of the best free online games from the Io games category. Children from all over the world are appreciating this brand new action game with huge enthusiasm. Not only kids, but a great proportion of teenagers and grown-ups are also having ultimate fun and thrill while exploring this cool multiplayer game in their devices. In this graphically-strong shooting game, your player has entered an area that is full of the enemies. So, your job is to help him stand straight against all the players from all over the world.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Remember, each player has the right to use the mortars as their weapons. They will kill you after targeting their weapons at you. So, you have to stop them by placing the mortar cannon down. Once it’s done, get ready to shoot your mortar in the direction of your blood-thirsty enemies. How fast you do the activity, the easier it will become for you to survive. Otherwise they will hit you shortly. In this free online action game, you can use the mouse to move and point in a direction. Use the W key to reach at that place. Use your mouse to aim your target and release the mortar at your enemies.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You have the guts to guide the character towards the victory. When you play this top game online, make sure to try out our more games that are as engaging and interactive as this one. We are sure that you will have the best possible fun in this unique battle arena game where the only weapon you have is mortar. Make the confirmed kills by taking the predictive and precise shots! Your good performance in this one of the best dynamic war games will help you to unlock powerful mortars. Good luck everyone to kill as many enemies as you can to score big and book your seat on the first position on the leaderboard!!</span></div>",
+      "size": 900,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/2fce93efe4ba4168a86a1a45a6ab264f/\r\n",
+      "metaTitle": "Mortario, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mortario at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mortario Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1562507607.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8206,
+      "ownGame": false,
+      "addDate": "2019-07-07T19:23:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.757Z",
+      "updatedAt": "2024-03-23T17:49:00.858Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "LEFT CLICK-SET DROP POINT,RELESE THE BUTTON TO THROW,W,UP KEY TO RUN,S,DOWNKEY TO WALK"
+    },
+    "rating": {
+      "rating": "2.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
