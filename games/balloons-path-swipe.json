@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba02",
+      "id": 3693,
+      "name": "Balloons Path Swipe",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "balloons-path-swipe",
+      "image": "3693",
+      "url": "balloons-path-swipe",
+      "description": "Do you like match 3 games? Then we have great news. This is a match3 game with balloons&#33; And new challenges per level. Goodluck&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/balloons-path-swipe-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Balloons Path Swipe, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Balloons Path Swipe at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Balloons Path Swipe Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6894,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2024-01-10T02:14:32.543Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT WORKING"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
