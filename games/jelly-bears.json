@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bad9",
+      "id": 3929,
+      "name": "Jelly Bears",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "jelly-bears",
+      "image": "3929",
+      "url": "jelly-bears",
+      "description": "<div>Have you fallen in love with the cute and lovely bears? Are you a lover of cool puzzle challenges? If so, Jelly Bears is just for you. We have got you covered today with a brand new arcade game where you have to match 2 or more same colour bears to clear them from the screen. It will be amazing here to match and grab the tasty bear treats as a fabulous adventure. The controls are pretty simple, but mastery will take some time for the players.</div><div><br></div><div>Your hungriness for the scrumptious jelly bears will be increased when you try out this puzzle HTML5 game in your device. Oh yes! It does not make a sense to wait anymore especially if you want to satisfy your sweet tooth. When you click the screen, you will see these brightly coloured gummies scattering all around. Use your brain power and puzzle-solving skills to match 2 or more identical jelly bears to collect points! There are different addictive levels and each level includes a particular target to achieve.</div><div><br></div><div>There is no need to apply your logic and just focus on matching everything you see on the screen. Remember you will have a limited number of matches to do before you finish the levels. Just focus on your goals and seek for the colours you want to match. The left hand side of the screen will show you the number of matches you have to do for each colour bear. You can also track the number of moves available for you by having a look at the left bottom of the screen. Play new match 3 puzzle games on atmegame.com and have fun on mobile phone or any other preferred device!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/jelly-bears-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Jelly Bears, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jelly Bears at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Jelly Bears Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7776,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2024-03-24T19:18:19.105Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH AND DRAG TO AIM, RELESE TO SHOOT",
+      "webControlKeys": "ALL ARROWS TO MOVE ARROUND"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
