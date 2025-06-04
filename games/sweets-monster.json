@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aefb",
+      "id": 474,
+      "name": "Sweets Monster",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "sweets-monster",
+      "image": "474",
+      "url": "sweets-monster",
+      "description": "<div>Sweets Monster is a dynamic, swift and chaotic, hooking game with awesome graphics and easy-to-use interface. In this extremely popular platform, you have given a character in the form of Monster to play. He is a kind-hearted animal and finds difficulty in living his life without the sweet-stuffs. He has to face the obstacles in the form of Bugs in order to find out his tasty cakes. In this highly challenging adventure game for boys, you have to help your monster to catch his favorite sweets.</div><div><br></div><div>In this awesome long-running game, you will get a chance to embark on a colorful and absolutely sweet journey. Yes, it is Halloween time and like many other monsters, this monster also wants some cakes to fulfill his desires for sweets. Playing this popular flash game ensures you to have huge fun and thrill. Avoid all the obstacles that come on your way by jumping, sliding and flying over them. Do not forget to collect the maximum possible candy in order to score higher in this electrifying platform game. </div><div>  </div><div>Sweets Monster is an extremely popular and easy-to-play 2D endless parkour game. Increasing your score and getting a higher reward is pretty possible using the combo moves. Excellent graphics, fantastic gameplay and easy controls are the major features of this world popular adventure game. If you play this game at least once, you will not restrict yourself from exploring it is all the levels. Good luck for the victory!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://play.famobi.com/sweets-monster/A-925FD",
+      "metaTitle": "Sweets Monster, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sweets Monster at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Sweets Monster, Adventure, Platform Games, Sweets Monster Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 96,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 8962,
+      "ownGame": false,
+      "addDate": "2017-07-17T17:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.667Z",
+      "updatedAt": "2025-03-17T10:09:46.408Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE UP ON THE SCREEN TO JUMP , SWIPE DOWN TO ROLL",
+      "webControlKeys": "UP ARROW TO JUMP, DOWN ARROW TO SLIDE"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
