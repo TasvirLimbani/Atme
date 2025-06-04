@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c282",
+      "id": 6049,
+      "name": "Pixel Combat Multiplayer",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "pixel-combat-multiplayer",
+      "image": "6049",
+      "url": "pixel-combat-multiplayer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Pixel Combat Multiplayer is a free online multiplayer FPS game with easy controls and blocky graphics. We are sure to help bring you into the world of huge fun and thrill when try out this brand new pixel game. Your concentration and shooting skills will guide you towards the ultimate victory. Make sure to know all its controls and have a quick look at the needful instructions to complete your mission in this cool combat game. The best reply to your enemies is to use your weapons in the best possible way.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">In this one of the best action-packed games, you will get a chance to meet with a number of fun things shortly. It will be amazing to fight against your friends or other people who behave like your true enemies. Choose Deathmatch and then Team Deathmatch as per your choice to start your fighting journey in this brand new fun adventure game! You will be able to explore pixel style weapons in this new modern block world. Enjoy this cool game in different platforms, including web browser, android and iOS!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">It will be amazing to explore unique 21 maps with exclusive pixel style textures. The controls of this funny pocket fps block style shooter game are very easy and simple. Follow the WASD movement to move your character moving and use mouse for fire, T button for chatting, R for reloading, 1 or 2 keys to change weapon and tab keys to change team menu. This pixel style action multiplayer fps game can help keep you engrossed for hours.&nbsp;</span></div>",
+      "size": 1000,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/6aac81388c874c9cb85b10a86a52ef80/\r\n",
+      "metaTitle": "Pixel Combat Multiplayer Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pixel Combat Multiplayer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Pixel Combat Multiplayer Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1562507607.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8692,
+      "ownGame": false,
+      "addDate": "2019-07-07T19:23:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.758Z",
+      "updatedAt": "2024-10-17T19:23:35.547Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS-MOVE, LEFT CLICK MOUSE-SHOOT,RIGHT CLICK-FROUNT ANGLE,R-RELOAD"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
