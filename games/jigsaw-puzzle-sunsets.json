@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd7a",
+      "id": 4610,
+      "name": "Jigsaw Puzzle Sunsets",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "jigsaw-puzzle-sunsets",
+      "image": "4610",
+      "url": "jigsaw-puzzle-sunsets",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is always wonderful to see the images of sunsets! Join Jigsaw Puzzle Sunsets and get ready to feel and enjoy the magic moments when sun sets down for a new day! Lots of tricky and funny challenges are there to be solved. We are pretty sure that you would have great fun while improving your brain and memory skills. This cute jigsaw puzzle challenge is for everyone irrespective of his age or gender. Clear all levels to become the biggest puzzle-solver of the city!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Pick puzzle size, and then select an image to start the real fun in this cool html5 arcade challenge! When you click the play button, you would see 16 different sunset images. There are three modes 6X5, 8X6 and 12X10 to enjoy. In each mode, there are 16 images to play with. The difficulty level will keep increasing as you progress in the mode. This means that in 6X5 mode, you would find fewer pieces of images as compared to those images you see in the 12X10 mode.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Time is calculated at the right bottom of the screen. Click on the eye button to see your complete image and find some hints to connect all the pieces perfectly together in this cool html5 puzzle challenge! Feel free to click the Shuffle button to rearrange all the pieces and start your game from the scratch! The faster you clear the puzzle, the maximum stars you would obtain in the end. Good luck connecting all the pieces of sunset images perfectly in all levels and score the highest points!</span></div>",
+      "size": 800,
+      "height": 450,
+      "script": "\nhttps://html5.gamedistribution.com/0b87103b125e44eb890e4903b1b460b7/\n",
+      "metaTitle": "Jigsaw Puzzle Sunsets, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jigsaw Puzzle Sunsets at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Jigsaw Puzzle Sunsets Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 17,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7353,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-12-02T10:40:34.394Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO JOIN THE PIECES TO COMPLETE THE IMAGE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND JOIN THE PICES TO COMPLETE THE IMAGE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
