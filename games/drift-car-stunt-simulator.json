@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c388",
+      "id": 6388,
+      "name": "Drift Car Stunt Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "drift-car-stunt-simulator",
+      "image": "6388",
+      "url": "drift-car-stunt-simulator",
+      "description": "<div>Driving a racing car can race your heart fast and give your body the much awaited Goosebumps! And here luckily you are going to get a chance to drive different top racing car models that run fast on any track. Would you like to try it out to give your fantasy for speed a real challenge? Join Drift Car Stunt Simulator and be prepared to explore a beautifully-designed driving environment of a big city that is full of wonderful buildings, skyscrapers, vehicles and stunt ramps!</div><div><br></div><div>In this brand new racing game, you would love driving a 4x4 stunt car 3D, a speed car SUV and various other popular car models. It will give you an ultimate excitement and thrill when you drive a drift car at a high speed through the beautiful hills and mountains. Grab your seat on your chosen vehicle and get ready to drive hard on 8 unique and stunning racing tracks in your own style! There are multiple free levels that are full of adventure and action in this HTML5 car game.</div><div><br></div><div>It is up to you whether you want to make stunt or drive through the lovely streets of a gorgeous city that features many eye-popping views and attractive building structures. Put your driving and stunt performing abilities to the test to enjoy a real and immersive driving experience in this new stunt car simulating game! Find the impossible tracks to perform some insane aerobatic mid-air flips to get a breathtaking adventure! Earn money to customize cars in this no. 1 drift car racing game! Check out more car driving simulators to kill your time with ease here with us on atmegame.com!</div>",
+      "size": 960,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/9c7ddfc283394711aebe3ab903aa7c73/\r\n",
+      "metaTitle": "Drift Car Stunt Simulator Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Drift Car Stunt Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Drift Car Stunt Simulator Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842334.xml",
+      "idealFor": "Man",
+      "likes": 54,
+      "dislikes": 9,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11377,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2025-03-14T20:42:18.748Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,UP ARROW TO SPEED, A,D L-R ARROW TO L-R,SPACE TO STOP,S,DOWN ARROW TO BACK,ALT-PAUSE,C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
