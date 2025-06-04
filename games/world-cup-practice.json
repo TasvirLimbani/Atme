@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aed5",
+      "id": 430,
+      "name": "World Cup Practice",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "world-cup-practice",
+      "image": "430",
+      "url": "world-cup-practice",
+      "description": "<p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\">Playing cricket is an online fad that has caught up a frenzy in recent times attributed to the massive success enjoyed by the game of cricket in India. India, winning all the important trophies of this game and the successful completion of the IPL games in India has led this game to reach every nook and corner of India.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><span style=\"background-color: transparent;\"><font size=\"2\" face=\"verdana\" color=\"#000033\">The world cup practice is the game that is known, where, you have to take shot in this online cricket games as for the practice sessions of the game. In the world cup practice game match with the help mouse, you have to avoid the ball hitting the wicket. In meantime, when hitting the ball it is of the utmost importance that the ball should not return back to the hit the wicket. By hitting the ball you also make runs too in the game.  For the control in the game, the mouse is used in the game.</font></span><br></p>",
+      "size": 800,
+      "height": 600,
+      "script": "430_swf.swf",
+      "metaTitle": "World Cup Practice, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "World Cup Practice is an online cricket game that has caught up online frenzy on the account of massive success enjoyed by the game of cricket in India.",
+      "metaKeyword": "World Cup Practice, Sports, Cricket Games, World Cup Practice Online Game, Play Free Games, Online Cricket Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 234,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 74693,
+      "ownGame": false,
+      "addDate": "2017-07-11T16:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2024-03-22T16:13:38.900Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED "
+    },
+    "rating": {
+      "rating": "4.7",
+      "count": 60
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
