@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b22c",
+      "id": 1481,
+      "name": "Dockyard Shift",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "dockyard-shift",
+      "image": "1481",
+      "url": "dockyard-shift",
+      "description": "Time to master that forklift!",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=a066af10c31742899558840fc32a6136\r\n",
+      "metaTitle": "Dockyard Shift, Parking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dockyard Shift at atmegame.com ! We have selected this parking games for best excitement and thrill in you!",
+      "metaKeyword": "Dockyard Shift Game, Action Games, Parking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517899654.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11057,
+      "ownGame": false,
+      "addDate": "2018-02-06T12:17:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.690Z",
+      "updatedAt": "2022-08-23T23:21:30.093Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
