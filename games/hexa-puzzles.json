@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c420",
+      "id": 6544,
+      "name": "Hexa Puzzle",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "hexa-puzzles",
+      "image": "6544",
+      "url": "hexa-puzzles",
+      "description": "<div>Are you a lover of complex and engaging puzzle challenges? Do you want to try out the puzzles that are pretty similar to the popular old Tetris games? If yes, join Hexa Puzzle and be prepared to drag and drop the blocks that have the hexa shapes on the board. Your objective in this brand new arcade game is to drag all the pieces shown on the bottom of the screen to the board and fill up all the grids. Do not worry you would have enough time to handle this tricky puzzle challenge.</div><div><br></div><div>Put your brainpower to the test to analyse all the possibilities of completing the lines! There will be no hint to finish the puzzles so be careful to get the job done with the help of limited moves. Choose play or endless mode and get ready to enter the amazing fun challenge. In the endless mode, you can keep completing as many lines as you want with the help of hexa blocks since there are no restrictions over the moves here.</div><div><br></div><div>In the play mode, you would have 30 levels to play through and the number of hexa blocks on the board will keep increasing as you progress the levels. Use your hexagonal shapes to make complete as many rows and columns as you can in the grid! Make sure that not a single effort goes in vain. Completing columns and rows will leave more space for the other blocks. Good luck to complete each level fast to score all the three stars in this fun brain teaser! Have a blast alone or with your friends without download!</div>",
+      "size": 500,
+      "height": 750,
+      "script": "https://games.atmegame.com/games/hexa-puzzle/",
+      "metaTitle": "Hexa Puzzle Game, Puzzle - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Hexa Puzzle at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Hexa Puzzle, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 1220,
+      "dislikes": 96,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 59486,
+      "ownGame": true,
+      "addDate": "2020-11-21T14:23:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-03T13:19:53.447Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON BLOCKS AND PUT THEM IN PUZZLE TO COMPLETE THE LINE",
+      "webControlKeys": "PICK THE BLOCKS IN KEEP THEM FIT IN THE ROW,COLOM TO COMPLETE THE LINE "
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 50
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
