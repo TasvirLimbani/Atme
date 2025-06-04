@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bda4",
+      "id": 4652,
+      "name": "Drift Cars",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "drift-cars",
+      "image": "4652",
+      "url": "drift-cars",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you drifting cars on roads with lots of sharp turns? Join Drift Cars and get ready to enjoy the highly addictive and thrilling car driving experience in your device! Choose your car and be prepared to show off your intense drifting moves! Make sure that you are strong enough to perform some cool drifts before accepting this brand new car challenge. You would also have the freedom to customize your vehicle as per your desires. There are plenty of awesome cars to drive.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Play wisely and move your cars in a way like never before to get some high score and money in this cool html5 racing game! Select your vehicle first and then choose the track and click the start button to enter the real drifting fun! You have to control beautifully-designed cars and help them to perform some deadly drifts in this 3D car racing game. Grab the coins to unlock some new and advanced vehicles. This is a time-based game so try to be quick to be a winner no matter which car or track you choose to play.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The colorful graphics, easy controls and huge car choices will allow keeping you engrossed for a number of hours. No worries in case of feeing bored with the gameplay since we maintain an extensive collection of car drifting games that are free to play without download. Give them a try one by one to check what car game will actually suit your tastes and preferences! These cool drifting games will help you to improve your drifting and driving abilities. Good luck to become the biggest drifter of the city!!</span></div><div><br></div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/f6c198ea49464c2ebe2558c89d1e1ee1/\r\n",
+      "metaTitle": "Drift Cars, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Drift Cars at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Drift Cars Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544705010.xml",
+      "idealFor": "Man",
+      "likes": 35,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10736,
+      "ownGame": false,
+      "addDate": "2018-12-13T18:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-08-11T08:15:29.714Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W.,A,S,D ALL ARROWS TO CONTROL, SPACE- BREAK, C- CHANGE THE VIEW, L ALT- PAUSE"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
