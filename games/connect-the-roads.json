@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd65",
+      "id": 4589,
+      "name": "Connect The Roads",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "connect-the-roads",
+      "image": "4589",
+      "url": "connect-the-roads",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Have you ever imagined a job of connecting roads with each other? In Connect The Roads, you have to play the role of road constructer who has to attach multiple roads and prepare a race track for a car to run. Does not it a pretty exciting? There is more fun and thrill to experience when you decide to engage in this brand new arcade challenge. Your car is waiting anxiously to get to work. Use your logical mind and intelligence to move the road tiles to complete the road!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Take your time as there is no time limit to complete your task in this html5 puzzle game! However, be careful and try to complete task as fast as you can to get three stars in each level. When the job is done, you will your car moving on the track and reaching to your room. Your friends are very naughty and they have separated the road to home to make fun. But, they are not aware of your smart brain. Show off your puzzle-solving abilities and beat them in the least possible time!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Use the least possible moves to put the scattered pieces together and help your car find out the right path to run! This cool car puzzle challenge includes 24 engaging levels to explore and turn grid on or off coupled with simple controls and seamless gameplay. Get ready to twist your brain and solve all the puzzles shortly! Let us see how many levels you would be able to pass and drive your car through multiple hurdles and collect all three stars! Check out more tricky and challenging brain games that you can enjoy with your friends without download!</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "\nhttps://html5.gamedistribution.com/1d9425b9337d4169977129fbfc3b3faf/\n",
+      "metaTitle": "Connect The Roads, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Connect The Roads at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Connect The Roads Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527483.xml",
+      "idealFor": "All",
+      "likes": 14,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8112,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2023-07-24T16:52:50.211Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO CONNECT THE SAME KIND OF JEMS",
+      "webControlKeys": "KEEP PRESS L CLICK AND SWIPE TO CONNECT THE SAME JEMS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
