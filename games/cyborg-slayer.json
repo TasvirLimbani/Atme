@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c015",
+      "id": 5291,
+      "name": "Cyborg Slayer",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "cyborg-slayer",
+      "image": "5291",
+      "url": "cyborg-slayer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you want to enter a world that is full of cyborgs? Join Cyborg Slayer and be prepared to enter a platform where you will meet with different types of notorious cyborgs in multiple levels! We are pretty that the fun and thrill offered by this free online action packed challenge will be cherished for you for long. Your primary job is to take down all of the dangerous and evil cyborgs in this gun style game. No worries. You will also be lashed with a powerful weapon to protect you against these monsters.</span></div><div><span style=\"font-size: 13.3333px;\">There are three challenging levels to explore in the endless track. They look like the human beings, but with an insane dream of eliminating you from this planet. They all carry the dangerous weapons to destroy you as they spot you. Jump between levels and try to collect coins on your way in this cool html5 shooter! Unlock more unique and dangerous characters through the coins you grab from your slain enemies! Avoid missing a single tart and try to move forward as far as you can!</span></div><div><span style=\"font-size: 13.3333px;\">Collect boosters that will be enough to make your arsenal more powerful and stronger than before! You can also get a ball of protective shield through some boosters. Kill all the foes that could create a threat to the life of your character! Your survival rate will depend on how quickly you eliminate all of your enemies. Play like a champion online for free without download, clear as many levels as you can, create your best score and share it with your friends and family!</span></div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/39bcb2851ccd4ad6877c1396614e0d5f/\r\n",
+      "metaTitle": "Cyborg Slayer,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cyborg Slayer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Cyborg Slayer Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352328.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8753,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:08:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.749Z",
+      "updatedAt": "2025-04-18T13:30:48.492Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICON TO MOVE ,RIGHT ICON TO SHOOT",
+      "webControlKeys": "W,A,S,D - MOVE, L CLICK/SPACE-SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
