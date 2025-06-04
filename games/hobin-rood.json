@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bcf9",
+      "id": 4480,
+      "name": "Hobin Rood",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "hobin-rood",
+      "image": "4480",
+      "url": "hobin-rood",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a fan of unmatched archery abilities of Robin Hood? Do you love practicing with bow and arrows during your free hours? Today we have got you covered with a brand new action-packed challenge where you have to guide a popular archer named Robin Hood. Are you ready to take out this challenge? Join Hobin Rood and be prepared to help your friend Robin Hood to shoot an arrow at the apple! Remember you have to complete your task without hurting person sitting in front of you.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">When you click the play button, you have entered a ground where a man with an apple on his head will be waiting for you. Aim your target before releasing your arrow from your bow! Get ready to step one foot away from your target every time when you hit it successfully in this html5 shooting game! Hitting your target with a set of arrows available at you will proceed to the next level. There is no time limit so take your time to target your apple to avoid terminating the game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You would have a little bow and a few limited arrows in this mouse-skilled shooter game. Try to shoot your targets right in the middle to gain a lot of points in the end! You would have to lose the game immediately if you hit at any part of the body of your friend. Try to complete your mission with as few arrows as possible to gain the maximum stars possible in the end of each level! Play many other free shooting games for boys and girls that are playable on multiple devices without download!</span></div>",
+      "size": 1280,
+      "height": 720,
+      "script": "\nhttps://html5.gamedistribution.com/9e13b32f3a794f358debbb1eb04869c7/\n",
+      "metaTitle": "Hobin Rood, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hobin Rood at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Hobin Rood Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544526946.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11197,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-02-19T11:26:56.115Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SELECT THE DIRECTION, RELESE TO SHOOT"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
