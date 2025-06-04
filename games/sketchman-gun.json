@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b907",
+      "id": 3422,
+      "name": "Sketchman Gun",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "sketchman-gun",
+      "image": "3422",
+      "url": "sketchman-gun",
+      "description": "Behold the fancy doodle adventure of Sketchman! Run, jump, and gun through all obstacles and bad guys! Once he started running, no one can stop him!\r\n",
+      "size": 800,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/00b0d8cc634c46068ff5adae8f92b2ca/\r\n",
+      "metaTitle": "Sketchman Gun, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sketchman Gun at atmegame.com ! We have selected this shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Sketchman Gun Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533887535.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11388,
+      "ownGame": false,
+      "addDate": "2018-08-10T13:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-03-06T10:04:15.914Z",
+      "__v": 0,
+      "mobileControlKeys": "USE SCREEN ICONS TO JUMP AND FIRE",
+      "webControlKeys": "SPACE/UP ARROW- JUMP, F-FIRE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
