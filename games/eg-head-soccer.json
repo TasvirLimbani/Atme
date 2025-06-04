@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0a2",
+      "id": 5437,
+      "name": "EG Head Soccer",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "eg-head-soccer",
+      "image": "5437",
+      "url": "eg-head-soccer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This time we have come with a brand new sports game “EG Head Soccer” where you have to play with your head instead of legs. Yes, the fun and thrill will surely be going to be double when you enter the playground and see your fighting against CPU. Choose your favorite player and get you prepared to win for your pride! Play this soccer game online in modern browsers for free without downloading app!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Made with the help of html5 technology, this cool soccer game features amazing graphics combined with seamless gameplay and easy controls. Play it on your PC, android phones, iPhone and iPad on your chosen location! No installation is required to access this html5 football game! It is time to fight for your country and see the world that you are a nice player of soccer. Pass the ball from the field using your head and get your point!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your opponent is very quick. So, try to move forward and backward and reach under the ball fast before it hits the ground! If this happens, your opponent will get a point over you. Hit the ball with skill using your head to secure your point and defeat your opponent! Practice hard to lift the trophy of World Cup for your country! Check out more top football games on our online game portal and spend hours of fun and excitement! Rock the virtual world, no installation required!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/34348cbd231a480187cab51ee9288768/\r\n",
+      "metaTitle": "EG Head Soccer,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EG Head Soccer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "EG Head Soccer Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8528,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-01-23T16:50:21.010Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "SPACE -JUMP, L-R ICON TO MOVE"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
