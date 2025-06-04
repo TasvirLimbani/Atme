@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b576",
+      "id": 2457,
+      "name": "Football Penalty Champions",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "football-penalty-champions",
+      "image": "2457",
+      "url": "football-penalty-champions",
+      "description": "You have been following the world cup on TV since you were a kid, you love football and you like to kick the ball as soon as possible? Then Football Penalty World Cup is the perfect game for you. Imagine yourself a night of big match during the last minutes of the game. It is a tie for now and everything rely on your ability to offer a penalty to your team. It is about time to put your reflexes to the trial!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/dcbcb117bee449daa8fe84bf087924df/\r\n",
+      "metaTitle": "Football Penalty Champions, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Football Penalty Champions at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Football Penalty Champions Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1528979355.xml",
+      "idealFor": "Man",
+      "likes": 51,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 19297,
+      "ownGame": false,
+      "addDate": "2018-06-14T17:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.710Z",
+      "updatedAt": "2025-05-30T10:24:07.714Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO MAKE THE GOLE",
+      "webControlKeys": "L CLICK OF MOUSE TO MAKE A GOLE"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
