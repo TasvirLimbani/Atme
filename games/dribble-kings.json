@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b571",
+      "id": 2452,
+      "name": "Dribble Kings",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "dribble-kings",
+      "image": "2452",
+      "url": "dribble-kings",
+      "description": "Avoid the enemy team. Dribble into the goal and set a new highscore. The best game for the world cup.\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/1915a33dbef3431a9d23aa701b47f477/\r\n",
+      "metaTitle": "Dribble Kings, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dribble Kings at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Dribble Kings Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1528978427.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9321,
+      "ownGame": false,
+      "addDate": "2018-06-14T17:43:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.710Z",
+      "updatedAt": "2024-03-15T07:24:32.824Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS AND SWIPE ON SCREEN TO MOVE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
