@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf50",
+      "id": 5086,
+      "name": "Ribbit Racer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "ribbit-racer",
+      "image": "5086",
+      "url": "ribbit-racer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The exclusively-designed Ribbit Racer challenge will take you to a platform where you have to control a little car. Not every player is skilled enough to race this little special car that definitely needs extra attention to operate. Do you think that your excellent driving abilities can allow you to take care of this unique challenge? Join this brand new racing challenge and prove the world that you are really a true racer of the town! The easy and simple controls supported by colorful graphics will make your gameplay pretty interesting.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Try to operate the steering wheel of your car properly while making sure that it does not fall into water! There are plenty of bridges you have to cross by when you drive your car straight to your destination. It is not going to be easy at all since there will be higher possibilities of sinking your car. Make sure to avoid all the obstacles and traps successfully to become an expert driver of your city. It is time to prove the world that no one is better driver and adventurer like you.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Not a single time, but multiple times you have to cross the bride to complete your mission in this challenging and addictive car game. Every successful bridge crossing will help you earn 1 point. Try to keep crossing as many bridges as you can to grab the maximum possible points through which you can unlock new car models and have more fun! This cute and little car swings left and right very fast. So, try to be quick to control the can and not to fall it into the river. Create a higher score and share it with your friends and families!!</span></div><div><br></div>",
+      "size": 680,
+      "height": 960,
+      "script": "https://m.shtoss.com/game/ribbit-racer/index.html",
+      "metaTitle": "Ribbit Racer,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ribbit Racer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ribbit Racer Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546118979.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10644,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-09-15T10:40:59.131Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPPING ON CAR TO CONTROL",
+      "webControlKeys": "KEEP CLICKING THE CAR TO CONTROL"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
