@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae3e",
+      "id": 101,
+      "name": "Super Soccer Noggins",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "super-soccer-noggins",
+      "image": "101",
+      "url": "super-soccer-noggins",
+      "description": "In the series of free online sports games offered for gaming enthusiast, the Super Soccer Noggins is the perfect delight for footballs lovers and die-hard European league fans. As available online free of cost, it is the best chance to spruce up soccer basics well before in a country where FIFA Junior World Cup 2017 held.<br><br>In this multilevel two player game, your soccer playing skills are checked across six tournaments in high speed time bond game. Starting with Le Croissant Cup, the game passes through Pinata Trophy, Hei Tiki Taka Cup, Golden Sull Cup, Ruby Merman Cup and concludes at Hellfire Trophy.<br><br>However, it is not an easy nut to crack to reach at next tournament, on this?<span style=\"font-size: 13.3333px;\">Super Soccer Noggins game</span>, you will have to win all the eight matches from your difficult opponent in this free sport game online. After winning a tournament, you can switch to another team of your preference and become part of national team from the list of following countries like USA, Argentina, Republic of Ireland, South Korea, Ivory Coast, Turkey, Belgium, Austria and Japan to enjoy free soccer game.<br><br>Don?t take the levels at the game freakishly as you will be checked for the best of your gaming stamina as some of the most difficult terrains filled with water or a rugged surface will be the soccer field you are playing at. Hold your breath to get indulged in next soccer extravaganza of the century, but be wary of being around your goal post.",
+      "size": 640,
+      "height": 420,
+      "script": "<div class=\"miniclip-game-embed\" data-game-name=\"super-soccer-noggins\" data-theme=\"0\" data-width=\"640\" data-height=\"420\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/super-soccer-noggins/\">Play Super Soccer Noggins</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/super-soccer-noggins/\" target=\"_blank\">Play Super Soccer Noggins</a> / More <a href=\"https://www.miniclip.com/games/genre-3/\" target=\"_blank\">Sports games</a></p>\r\n\r\n \r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "Super Soccer Noggins, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Super Soccer Noggins that is the free online sports game offered for gaming enthusiast under soccer is your best opportunity to improve your football skills.",
+      "metaKeyword": "Super Soccer Noggins, Sports, Soccer , Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 708,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 118772,
+      "ownGame": false,
+      "addDate": "2016-07-03T06:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.662Z",
+      "updatedAt": "2025-04-29T11:59:25.010Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "X,SPACE, DOWN ARROW- KICK, UP ARROW- JUMP, L-R ARROW TO MOVE"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 126
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
