@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad9b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf5a",
+      "id": 5096,
+      "name": "Way Of The Samurai",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "way-of-the-samurai",
+      "image": "5096",
+      "url": "way-of-the-samurai",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Hey boys! Are you ready to take on a unique jumping challenge? This time none other than the biggest warrior of the history is here to stay with you to make your adventurous journey a little bit special. Join Way of The Samurai game and get ready to spend some quality time with one of the popular warriors of premodern Japan! The problem is very big as a mystery animal will keep chasing you regularly and the only way is to avoid the blood-thirsty monster is to run and reach to a higher place.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The entire path is full of dangerous obstacles that would try their level best to stop you from moving forward. But, the good news is that you would also find there some useful tools to collect. Try to collect all those tools to make it easier for you to face off obstacles and cover the long distance on the path! In this cool html5 adventure game, you also get a chance to customize the look your character and give him a more powerful sword.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Do not forget to collect as many hearts as you can to survive for long in this skill based endless runner. We maintain a wide array of HD and 3D adventure games for kids that are made with the help of html5 technology, which makes it easier for even mobile phone users to enjoy. Choose any from our extensive world of mobile games to play online and have fun anywhere anytime as per your preferences and needs! Good luck, friends!!</span></div>",
+      "size": 720,
+      "height": 600,
+      "script": "https://m.shtoss.com/game/way-of-the-samurai/index.html\r\n",
+      "metaTitle": "Way Of The Samurai,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Way Of The Samurai at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Way Of The Samurai Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8113,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2022-08-23T23:21:30.158Z",
+      "__v": 0,
+      "mobileControlKeys": "L-R TOUCH OF THE SCREEN TO CONTROL THE HERO",
+      "webControlKeys": "L-R CLICK TO CONTROL THE HERO"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad9b",
+      "name": "jumping",
+      "slug": "jumping",
+      "icon": "icon-iconAsset-47"
+    }
+  }
+}
