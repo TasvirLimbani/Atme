@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aeae",
+      "id": 230,
+      "name": "Lax Shuttle Bus",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "lax-shuttle-bus",
+      "image": "230",
+      "url": "lax-shuttle-bus",
+      "description": "The online racing game of parking become much more complex and caution based when you have to park the bus in the parking area of airport. In the LAX shuttle bus the game of online racing for parking in its different level let you to drive the bus from terminals of the airport to terminals of the airport to carry the passengers either from the terminals to terminals or form the terminals to the fights.<br><br>This parking game is quite different from other parking games in many aspects as in the game you just not only have to steer and balance the speed of the car but also has to reach at terminals without being disturbing the convenient of the sitting passenger in the bus. As there are too many turns and moves around the airport, so you’re driving skills must be of excellent level so that the bigger vehicle like shuttle bus could easily be handled and checked through and by.<br><br>The most important point in the Lax Shuttle Bus game that you have to keep in the mind is that you have to avoid your bus in this online game from crushing or touching within the vicinity of your bus. Any crash would only compel you to replay the free online racing game of parking from the very scratch. The bus movements are controlled by arrow keys where as space is applied for the brake.",
+      "size": 800,
+      "height": 600,
+      "script": "230_swf.swf",
+      "metaTitle": "LAX Shuttle Bus, Parking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "In the online parking game of Lax Shuttle Bus, there is an activity is being carried out for airport to carry the passengers either from the terminals to terminals or form the terminals to the fights.",
+      "metaKeyword": "LAX Shuttle Bus, Racing, Parking games, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 130,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 15507,
+      "ownGame": false,
+      "addDate": "2016-07-05T23:51:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.665Z",
+      "updatedAt": "2024-03-25T08:43:04.301Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 23
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
