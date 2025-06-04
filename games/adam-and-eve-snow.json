@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3a1",
+      "id": 6415,
+      "name": "Adam and Eve Snow",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "adam-and-eve-snow",
+      "image": "6415",
+      "url": "adam-and-eve-snow",
+      "description": "<div>The most awaited Christmas celebration is about to come and the goofy caveman has a special mission to make it more special than ever before! He wants to bring a lovely Christmas tree for her love Eve. Join Adam and Eve: Snow and be prepared to guide him solve the puzzles to avoid the grumpy soldiers during his unique wintertime quest! Staying with this clever caveman will definitely take you on a matchless awesome adventure! Hurry up! Eve is waiting for the best tree this holiday!</div><div><br></div><div>Your objective in this brand new arcade game is to complete each level by solving the mind-boggling puzzle. There are plenty of obstacles to face off for your favorite caveman and you have to give him the confidence to encounter them wisely on this lovely snow-filled journey. Use your brain to find out a way out for Adam in each puzzle! Get ready to click on multiple objects and things in the correct order to proceed in this HTML5 puzzle game!</div><div><br></div><div>Make sure to pull the levers before pushing the buttons and make sure then to see what will happen. Feel free to try something else in case if the previous tricks do not work in this cool escape game! We are damn sure that you will complete each level by making a few trials and errors. Our website covers multiple popular titles from this widely played Adam and Eve series. So, join this caveman on another adventure to kill your time without download and have a blast online with your friends!</div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/06d2122bdd1945dcbf20cf7b2a48f89d/\r\n",
+      "metaTitle": "Adam and Eve Snow Game, Puzzle - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Adam and Eve Snow at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Adam and Eve Snow Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842458.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7294,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2025-04-20T13:38:19.680Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING IN MOBILE MODE",
+      "webControlKeys": "CLICK BY MOUSE TO COMPLETE THE TAST"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
