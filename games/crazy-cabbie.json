@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb39",
+      "id": 4026,
+      "name": "Crazy Cabbie",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "crazy-cabbie",
+      "image": "4026",
+      "url": "crazy-cabbie",
+      "description": "<div>Being a taxi driver is not an easy job especially the road is crowded with other vehicles. We have got you covered today with a brand new racing game where you have to control a taxi car vertically down the road. Are you ready to accept this car racing challenge? Join Crazy Cabbie and be prepared to drive right in the middle of the road and avoid all the incoming traffic! Put your fingers on the mouse when you play on desktop or tap the screen of your mobile phone to make your car jump and avoid all of other vehicles!</div><div><br></div><div>Many other vehicles like trucks, vans and cars will come towards you so be careful while driving on the wrong side of the road. Keep your eyes on the screen to grab all the green gems that are scattered all over the road in this HTML5 car game! Try to click the screen timely to avoid the crash. A single crash can cost you a life and you would lose your game immediately. Challenge your driving abilities to navigate a long road filled with different car models!</div><div><br></div><div>You do not have to follow any overtaking maneuvers in this cool car game challenge. Either jump over them or swerve clear of these cars! Collect coins to upgrade your car and complete your game with the highest score possible! Track your score by looking at the top middle portion of the screen! Good luck to avoid more and more vehicles while collecting as many coins as you can to create your best score! We carry a wide collection of free racing games that are playable on multiple devices, including desktops, mobile phones and tablets.</div>",
+      "size": 400,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/c7fcec1fed9841ada504540b0e56c1f6/\r\n",
+      "metaTitle": "Crazy Cabbie, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Crazy Cabbie at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Crazy Cabbie Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951839.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12286,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-04-21T00:59:28.590Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO JUMP",
+      "webControlKeys": "L CLICK OF MOUSE TO JUMP THE CAR"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
