@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd02",
+      "id": 4489,
+      "name": "Zombies Bears Shooting",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zombies-bears-shooting",
+      "image": "4489",
+      "url": "zombies-bears-shooting",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Some people say that you need to pretend to be a dead if a bear attacks you. But, what role do you need to play if a horde of undead bear attacks you? Join Zombies Bears Shooting and get ready to play the role of a soldier who has to keep his bear caste safe from the blood-thirsty zombies! The problem is that the bears in your group have now turned into the undead. You are the only one who is left and ready to protect your home.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">No need to wait any more! Grab your position and be prepared to kill all the zombie bears you see approaching you! Be careful and try to finish your task with as few bullets as possible since you have limited stock of bullets! In each level, you have to clear the undead to move forward. Remember you also have only three lives to use. Track your present level on the bottom right of the screen, and your lives at the bottom left of the screen!</span></div><div><span style=\"font-size: 13.3333px;\">You can also track how many zombie bears you have killed by looking at the top right corner of the screen and bullets on the top left corner of the screen. The left bottom will also show you how much money you have earned so far. Keep completing each level with the minimum bullets to earn the maximum money! Use those money to upgrade your weapons and new character skins in this html5 shooting game! Check out more zombie shooter games online on atmegame.com without download!</span></div><div><br></div>",
+      "size": 850,
+      "height": 520,
+      "script": "\nhttps://html5.gamedistribution.com/8a07b5436b4d4ef9ac8046f5be121508/\n",
+      "metaTitle": "Zombies Bears Shooting, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zombies Bears Shooting at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Zombies Bears Shooting Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544526946.xml",
+      "idealFor": "All",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8560,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-02-16T12:24:46.164Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "MOUSE TO SELECT THE DIRECTION, L CLICK-SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
