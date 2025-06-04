@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c405",
+      "id": 6517,
+      "name": "Cars",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "cars-atme",
+      "image": "6517",
+      "url": "cars-atme",
+      "description": "<div>Do you think that you are the best racer of this planet? If yes, Cars game is something that you must try out during your free time. This brand new racing game is just for you especially when you are a speed enthusiast. Your primary job is to help your car to go as far as possible to create your own high score. Do not take your eyes off the screen and use the arrow keys of the keyboard wisely to cover the long distance.</div><div><br></div><div>There are no special instructions to follow in this HTML5 car racing game. All you need to do is just follow the common traffic rules to ride like a pro driver on the racing track. Try to avoid as many vehicles as you can to create your new best score! Track your score by looking your eyes at the top middle portion of the screen! You can also check there how much time you have taken to create the present high score.</div><div><br></div><div>You can also play this cool racing game in your mobile phone and have fun alone or with your friends. Do not forget to compare your score with your friends and see who is the best runner. Our website features many top race games that you can try out for free and enjoy without download. Our free car games are playable on multiple devices, including desktops, smartphones, tablets, iPhones or iPads. Good luck to enjoy, no download required!</div>",
+      "size": 500,
+      "height": 800,
+      "script": "https://games.atmegame.com/games/cars/",
+      "metaTitle": "Cars Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Cars at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Cars, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 2004,
+      "dislikes": 379,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 528802,
+      "ownGame": true,
+      "addDate": "2020-07-11T16:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-30T03:06:38.176Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICONS TO L-R,RIGHT ICONS TO BREK AND SPEED",
+      "webControlKeys": "S,DOWN ARROW TO BREAK,A,D L-R ARROW TO LEFT RIGHT,W UP ARROW TO SPEED"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 178
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
