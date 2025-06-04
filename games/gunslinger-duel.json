@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c322",
+      "id": 6236,
+      "name": "Gunslinger Duel",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "gunslinger-duel",
+      "image": "6236",
+      "url": "gunslinger-duel",
+      "description": "<div>Is your finger itching? Do you want to become a relentless dullo in the wild west? If your reply is yes, Gunslinger Duel is designed just for you. Your command over some great shots will help you to get high scores. Practice for several minutes online before entering the gun shooting playground in this brand new action game! There is no chance to take your eyes off the screen for a single second as your opponent is very fast.</div><div><br></div><div>Do nothing, but shoot first when you are assigned a shooting job. Try to get through the instructions first if you are thinking about entering this HTML5 shooting challenge! Missing a single shot can cause you death in the game. Take your time and try to shoot your enemies at a perfect angle to clear him from the screen! Remember you need to be a bit careful to survive. Grab your weapon and let your guns speak louder than your words!</div><div><br></div><div>Hitting a right shot will also help you get some reward that you can use to upgrade your weapons and character. In each level, you have to shoot a different person so rewards can vary from level to level. Try to shoot all of the criminal people to take all the rewards to your home! Check out even more challenging and addictive free action-packed challenges on atmegame.com and allow yourself to practice your gun shooting abilities in a unique and fun-filled environment!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/0dee0a89dd124187ae27c45d6b372765/\r\n",
+      "metaTitle": "Gunslinger Duel Game, Shooting - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Gunslinger Duel at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Gunslinger Duel Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579513428.xml",
+      "idealFor": "Man",
+      "likes": 143,
+      "dislikes": 30,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 21377,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2025-05-02T01:50:26.816Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH THE SCREEN TO FIRE",
+      "webControlKeys": "LEFT CLICK TO FIRE "
+    },
+    "rating": {
+      "rating": "3.1",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
