@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aef3",
+      "id": 466,
+      "name": "Dark Lands",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "dark-lands",
+      "image": "466",
+      "url": "dark-lands",
+      "description": "<div>Dark lands game is in the list of top adventure games that are available online for free. This extremely popular platform game is good for kids from different age groups providing them a wonderful option to be engaged for many hours. It keeps them spellbound. You can play this awesome kids game either on your personal computer or in the cyber cafe. It is a cool flash game which is in huge demand and available offline as well as online in major stores of the world.?</div><div><br></div><div>In this challenging and interesting recreational activity, you will get a chance to run across the traps and then have an interaction with the monsters. You will find this game as an action game and the battle runner theme in this game is going to keep you spellbound as a kid. One of the best thrilling moments in this game is the survival of your ninja hero who is going to be alive in the infinity battle. He will be alive for a longer period and you will love to see the clash he does. Your hero hacks and slashes and goes on repeating the same. It becomes a real excitement for the kid prompting him to play this adventure game again and again.?</div><div><br></div><div>You will consider this free online game as an additive mix of fantasy and horror and it has got slash and hack combat system associated with it. In this exciting and fun-filled game, your ninja warrior hero is going to make an epic journey by the destruction of the evil forces that come across the way.</div>",
+      "size": 600,
+      "height": 400,
+      "script": "https://games.gamepix.com/play/40272?sid=110996",
+      "metaTitle": "Dark Lands, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dark Lands at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Dark Lands, Adventure, Platform Games, Dark Lands Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 121,
+      "dislikes": 14,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 11909,
+      "ownGame": false,
+      "addDate": "2017-07-17T12:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.667Z",
+      "updatedAt": "2025-04-21T09:34:32.634Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE UP ON THE SCREEN TO JUMP , TAP TO ATTACK",
+      "webControlKeys": "L-CLICK OF MOUSE -ATTACK, DOWN ARROW-SLIDE, UP ARROW -JUMP, R-ARROW-RUN, L-ARROW - STOP"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 14
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
