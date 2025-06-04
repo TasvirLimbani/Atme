@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbaf",
+      "id": 4146,
+      "name": "Super Basketball",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "super-basketball",
+      "image": "4146",
+      "url": "super-basketball",
+      "description": "<div>Playing basketball is a great fun for many off-line and online players. You love basketball games, but find it difficult to find out a ground to practice your skills in a real ground. If this is the case, no need to bother at all since you can enjoy the spirit of your favorite sport by sitting comfortably on the couch at your home without going outside. We have brought to you a brand new sports game where you have to make a goal in a basketball before the time runs out.</div><div><br></div><div>Why do you need to think anymore? Grab your ball and get ready to toss your ball through the hoop in this Super Basketball! Every successful goal will reward you with some points. Hurry up friends! You would have only 90 seconds to secure your points and you would get 5 extra seconds for your every successful score. Time is running and you can track the watch by looking at the top middle part of the screen.</div><div><br></div><div>Get the combo to get the high points and try to score as many points as you can to unlock new balls in this one of the best HTML5 basketball games! Our website is full of free sports games where you can also enjoy your other favorite games even in hand-held devices at the convenience of your home. Play alone or invite your friends to compete and know who the better player is!</div>",
+      "size": 1770,
+      "height": 1140,
+      "script": "https://html5.gamedistribution.com/aaf3520045a0476a8c49b0540fa2a24b/\r\n",
+      "metaTitle": "Super Basketball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Super Basketball at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Super Basketball Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226795.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8105,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:36:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2023-09-02T10:04:18.540Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS ON BALL AND RELESE TO MAKE THE GOLE",
+      "webControlKeys": "KEEP PRESS ON BALL AND RELESE TO MAKE THE GOLE"
+    },
+    "rating": {
+      "rating": "1.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
