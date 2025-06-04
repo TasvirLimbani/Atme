@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb1b",
+      "id": 3996,
+      "name": "Uphill Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "uphill-racing",
+      "image": "3996",
+      "url": "uphill-racing",
+      "description": "<div>Driving on the hilly tracks needs expertise! Would you think that you are driving abilities skilled enough to accept such kind of challenge? Join Uphill Racing and be prepared to take control of a wonderful car on the tricky tracks! No, you do not have a simple plain racing track to drive your vehicle. But, this time we have brought to you a brand new racing game where you have to ride your vehicle on the unique uphill roads.</div><div><br></div><div>Choose from the multiple map options including different Countryside Levels, Dessert Levels, Night Levels, Winter Mountain, Snow Storm, Mars Levels, Old Forest Levels and more! However, initially, you can begin with the first level, and then keep playing, clearing levels, collecting coins to unlock the rest one in this one of the best car games for boys. Collect coins and bonuses that you see along the way! These coins will be helpful in buying new vehicles, upgrades and unlocking more challenging tracks.</div><div><br></div><div>You can also customize your vehicle and upgrade its engine using the coins in this physics based driving game. Try to hold your gas for as long as possible and make sure to track your stage always! Go hill climb and work hard in maintaining balance between gas and brake to survive for long and create your best new high score! Track your fuel, and the number of coins you have earned so far by looking at the top left corner of the screen! Play more interesting free racing games on atmegame.com to kill your boring hours while staying at home!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/ab7f72615ff64fca87b963ed6acbcb54/\r\n",
+      "metaTitle": "Uphill Racing,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Uphill Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Uphill Racing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 49,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 21041,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-08-29T01:15:46.440Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "D/ RIGHT ARROW- SPEED , A/L ARROW -BREAK"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
