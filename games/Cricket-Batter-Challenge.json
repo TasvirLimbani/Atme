@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 0,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aedb",
+      "id": 436,
+      "name": "Cricket Batter Challenge",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "cricket-batter-challenge",
+      "image": "436",
+      "url": "Cricket-Batter-Challenge",
+      "description": "<p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\">No doubt, the game of cricket has emerged as an important aspect for online sporting events online. In the game of cricket, the role of the batsman is of the highest value. It is the sixes and fours that have much fans following the game of cricket. As big hitter you are as much popularity there will be in the ground about you. The free online cricket game cricket batter challenges further exploits and searches for the batting opportunity provided in the game.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\"><span style=\"background-color: transparent;\">With the Cricket Batter Challenge game, you delve into the much better batting practice session with respect to getting fit into the modernistic cricketing habits online to be enjoyed and showcased both in a tournament and in a friendly match.</span><br></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><span style=\"background-color: transparent;\"><font size=\"2\" face=\"verdana\" color=\"#000033\">In the practice session in the offered online cricket game, you are required to hit the ball without losing the wicket. There in the game, total three attempts are offered you to hit the ball, otherwise, you will have to begin the game once again. However, in the game, there could be playing options that are controlled by the arrow keys in the game. When the ball pitches in the ground and gets green it is the time to hit the ball. As better you hit the ball, as nice score you will make out there.</font></span><br></p>",
+      "size": 790,
+      "height": 790,
+      "script": "https://h5.4j.com/Cricket-Batter-Challenge/index.php?pubid=O7WHB66U",
+      "metaTitle": "Cricket Batter Challenge, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Cricket batter challenge is the crazy some form of the game that is learnt to be based upon the cricket extravaganza and exploits around.",
+      "metaKeyword": "Cricket Batter Challenge, Sports, Cricket Games, Cricket Batter Challenge Online Game, Play Free Games, Online Cricket Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 975,
+      "dislikes": 117,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 315002,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2025-05-14T05:02:15.698Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ICONS WHEN THE CORRESPONDING CIRCLE IS GREEN TO HIT THE SHOT",
+      "webControlKeys": "LEFT , RIGHT, UP ARROWS TO PLAY THYE SHOT WHEN CORRESPONDING CIRCLE IS GREEN "
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 132
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
