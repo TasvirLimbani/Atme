@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad65",
+  "category_name": "hockey",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad65",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae4a",
+      "id": 116,
+      "name": "Puppet Ice Hockey",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "puppet-ice-hockey",
+      "image": "116",
+      "url": "puppet-ice-hockey",
+      "description": "In this interesting online sports game online that is based upon playing hockey, while at the very beginning of the game you need to choose the team of your preference and choice. After the team, next you require to select out the character of the game. Now selecting the player, next you are tasked to play the game applying your skill and talent.<br><br>In this one of the most popular Scandinavian nation online Ice Hockey game, there are total eight teams in the game and you will have to elect one team of your preference and choice. The teams in the game include Sweden, Czech, France, Slovakia, Norway, Denmark and Itlay. After selecting the team in this sports game online form the elected game, next, you have to consider the name of the player and moves to play the game.<br><br>In the game there are total 7 group matches and in each group there are total 8 teams. So, you will be playing with one game with each team and after winning these matches in hockey matches online, you qualify for quarter final and after winning it reaches straight semi final and as a qualifier for finals. In case even too, after losing, would have to play a game more in order to win bronze in free hockey match online.",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=034d1ded8f5e446b8b99954afd51caeb",
+      "metaTitle": "Puppet Ice Hockey, hockey Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Puppet Ice Hockey is known to be the one of the best hockey game online is being played the eight teams in the game to be elected according to your choice and preference.",
+      "metaKeyword": "Puppet Ice Hockey, Sports, hockey, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 120,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 14525,
+      "ownGame": false,
+      "addDate": "2016-07-03T06:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2025-03-30T02:17:54.001Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 12
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad65",
+      "name": "hockey",
+      "slug": "hockey",
+      "icon": "hockey-games"
+    }
+  }
+}
