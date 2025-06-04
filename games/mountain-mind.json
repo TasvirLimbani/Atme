@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba34",
+      "id": 3751,
+      "name": "Mountain Mind",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "mountain-mind",
+      "image": "3751",
+      "url": "mountain-mind",
+      "description": "Mountain Mind is a fun memory game, that use items in mountain style. Try to found the same pare as fast as possible to get the most points.",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/mountain-mind-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Mountain Mind Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mountain Mind at atmegame.com ! We have selected this puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Mountain Mind Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7431,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2025-02-09T05:31:19.793Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CARDS TO MATCH THYE IMAGES TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE ON THE CARDS TO MATCH THYE IMAGES TO PLAY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
