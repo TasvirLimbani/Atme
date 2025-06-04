@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4ca",
+      "id": 2238,
+      "name": "The Last Ninja",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "the-last-ninja",
+      "image": "2238",
+      "url": "the-last-ninja",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Ninja is known for his insane weapon handling and sharp eyes. However, today your favourite character has got into a big trouble. This brave man has forgot how to use the knives to kill his enemies so he has come to you for help. Would you give your helping hands to the needy one? Join The Last Ninja and be prepared to guide this cool man to throw knives at his opponents! Make sure to get the job done before they lob their weapons at you.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">It depends on your knives handing skill how many opponents you will kill in this brand new action game. Kill them with a headshot to clear your opponent in a one shot! Do not take your enemies too easily as they are very fast in knives shooting. Throw knives as fast as you can with the maximum possible precision to stop your rivals from firing back at you! Get bonus coins for each headshot in this HTML5 shooting game! The more headshots you get the higher score you will make.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You can use those coins to upgrade your heath and power as well. Challenge your shooting and aiming abilities to clear each level on time and earn lots of starts in this cool fun fighting game! Buy special powers, hit damage, health, and other upgrades using your stars! On final note, do everything you can do to be the Last Ninja in each level! Practice more online for free without download to become unstoppable! This hang-up mobile game features awesome graphics and beautiful music combined with the awesome atmosphere.&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/be3e6ff8ec3f4e8382bb52a3df402662/\r\n",
+      "metaTitle": "The Last Ninja, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game The Last Ninja at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "The Last Ninja Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524804977.xml",
+      "idealFor": "Man",
+      "likes": 32,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 16418,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:26:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2024-03-31T09:01:41.433Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO AIM, RELESE TO SHOOT",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO AIM, RELESE TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
