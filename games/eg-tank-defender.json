@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2c0",
+      "id": 6125,
+      "name": "Tank Defender",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "eg-tank-defender",
+      "image": "6125",
+      "url": "eg-tank-defender",
+      "description": "<div>Oh no! Your base is attacked by a horde of enemy bomber airplanes and you are the only tank who is given the responsibility of defending it. Would you think that you can do it nicely even under the extreme pressure? If yes, join Tank Defender and get ready to clear the sky from all the deadly enemies to prove your worth once again. The enemy invaders will put every possible effort to seize your territory. Fight hard to save it from these dangerous souls in this brand new action game!</div><div><br></div><div>Your objective is to control a super tank that is lashed with powerful ammo. Take your seat on your chosen tank and gear up to defend your territory for as long as possible! Your enemy planes will keep releasing bombs on your base so try not to touch them on your base and destroy them in the air. Be careful as you would have only lives to use in this HTML5 shooting game! Make sure to grab the boxes of supplies that are useful in resetting, your military cargo planes.</div><div><br></div><div>Do not take your enemies easily as they are equipped with a fleet of aircraft and they will keep dropping dangerous bombs to destroy your base. Be fast and try to evade the bombs in the air and watch out for the useful power-ups! You can explore a variety of bonuses like increased health and firepower with the help of these bonuses. Complete all the levels and defend your territory for as long as possible to prove yourself as a real tankman in this tank defense game!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/tank-defender/",
+      "metaTitle": "Tank Defender, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tank Defender at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Tank Defender Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442954.xml",
+      "idealFor": "Man",
+      "likes": 3257,
+      "dislikes": 68,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 3013281,
+      "ownGame": true,
+      "addDate": "2019-09-26T01:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-05-23T02:47:24.893Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R ICONS TO MOVE, TOUCH THE SCREEN TO HIT IN MULTIPLE DIRECTION",
+      "webControlKeys": "LEFT RIGHT ARROW TO MOVE ,LEFT CLICK TO HIT"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 373
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
