@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aeb3",
+      "id": 235,
+      "name": "Planet Trucker",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "planet-trucker",
+      "image": "235",
+      "url": "planet-trucker",
+      "description": "The online racing game that constitute the cargo delivery trucks on the different planets at every successive level of the game ranging from the Earth, Jupiter, Mars and others. The game play of the planet trucker is based around the mining valuables at all the different planets and delivering them to the transporting vehicles.<br><br>You as a driver of cargo truck have to deliver the valuables in this online racing game to the transporting vehicle in time. By losing time you will to start once again the entire exercise of loading and unloading the vehicles. But the most difficult part of this game that you have been pushed too is rough track from the truck has to pass on. <br><br>You will have to maintain an equilibrium of speed, time and balance, so you could reach their in the most befitting time. Any disturbance at the balance of truck can lead it too crash. If the truck in this free online game is not being crushed not drop the any quantity of mineral from the truck down. By dropping it, you will fail in your mission of delivering your goods in time.<br><br>In the game the time for each mission you will get as being mentioned on game’s screen. And for each successive level the game will become more difficult for you to play. For control of the game use arrow keys mentioned out there.",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=730bfb644a9544da82d3a507498977ae",
+      "metaTitle": "Planet Trucker, Truck Racing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Planet Trucker is the game that delivers the cargo goods at different levels of activity and balance in a patient manner in this online racing game.",
+      "metaKeyword": "Planet Trucker, Racing, Truck Racing, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 104,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 13887,
+      "ownGame": false,
+      "addDate": "2016-07-06T00:24:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.665Z",
+      "updatedAt": "2024-03-20T22:32:32.668Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
