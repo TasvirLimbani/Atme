@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf5e",
+      "id": 5100,
+      "name": "Spike Bird",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "spike-bird",
+      "image": "5100",
+      "url": "spike-bird",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This time a cute and little bird needs your help. Do you come forward and guide her to fly high in the sky? Join Spike Bird and allow yourself to lead a lovely bird to complete her flying adventure without dying! This bird is a bit of cheeky and naughty so you can expect to create lots of fun and thrill during the gameplay. Keep your eyes on the screen as several fences are laid out around it. The only way to dodge the fences is to react quickly against them.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Make sure that you guide this cheeky bird fly back and forth while avoiding the spikes and fences that you see on the both side walls, ceiling and ground. Try to grab as much coins as you see popping up anywhere on the screen to boost your score and unlock multiple new birds to fly with in this one of the best adventure games for boys! Do not let your bird touch the spikes or fences around the screen otherwise you have to restart game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Coins you collect during the gameplay can also help enhance your flappy skills. Keep grabbing the maximum number of bonus points to unlock more feisty birds and rank on the leaderboards! It depends on your abilities how far you can go in this cute html5 flying game. Do your best and try to not to die for as long as possible to create your best high score! Check out our more online arcade games for kids to add extra fun to your fun journey, no download required!</span></div>",
+      "size": 540,
+      "height": 960,
+      "script": "https://m.shtoss.com/game/spike-bird/index.html",
+      "metaTitle": "Spike Bird,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Spike Bird at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Spike Bird Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8232,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2025-02-07T13:31:00.968Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS AND RELESE TO CONTROL THE BIRD TO AVOID THE SPIKE",
+      "webControlKeys": "KEEP PRESS AND RELESE TO CONTROL THE BIRD TO AVOID THE SPIKE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
