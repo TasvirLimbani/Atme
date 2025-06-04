@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3a5",
+      "id": 6419,
+      "name": "Save The Fish",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "save-the-fish",
+      "image": "6419",
+      "url": "save-the-fish",
+      "description": "<div>The biggest arcade puzzle has hit your computer gaming screen today! Do not miss out this opportunity especially if you are a fish lover and also like to be involved in the mind-blowing brain-teasers. Join Save The Fish and be prepared to take your brain power and puzzle-solving abilities to the next level! Not every player can solve them as some of them are really very challenging. Make sure to complete all the puzzles to be a true puzzle solver of the planet.</div><div><br></div><div>This is a very relaxing and addictive challenge where you have to help a fish find the way to her aquarium. Avoid all the obstacles like lave and poisonous gas to lead your fish towards the destination in this HTML5 fishing game! Think out of the box to finish each level with the maximum possible stars! Be careful as there are plenty of obstacles and sea creatures like octopus, crabs, spikes and acid bombs to restrict you from solving the puzzles!</div><div><br></div><div>The gameplay is intuitive and challenging and it includes super fun flowing physics. You would have 20 unique and extremely engaging different fishes and levels to unlock. It is a free to play and you can enjoy it anywhere anytime as per your convenient without download. Solve the puzzles by using your brain wisely! There is no time limit to complete your puzzle. So, have fun alone or with your friends over the best online gaming platform!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/1f1ffdf855cf48988acb88e12d16d61d/\r\n",
+      "metaTitle": "Save The Fish Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Save the fish at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Save the fish Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842458.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9231,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2024-05-17T07:42:43.761Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON FISHT TO REACH THE POND",
+      "webControlKeys": "CLICKMON FISHN TO CONTROL"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
