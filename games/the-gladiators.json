@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd68",
+      "id": 4592,
+      "name": "The Gladiators",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "the-gladiators",
+      "image": "4592",
+      "url": "the-gladiators",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You would have a horde of enemies to fight off! Do you think that are brave enough to enter this one of the largest battlefield and send all the deadly enemies back to their home? Are you crazy for the match 3 puzzle challenge? Join The Gladiators and get ready to defeat all enemies by practicing your matching abilities to the test! There are multiple levels coupled with cool graphics, easy controls and seamless gameplay to enjoy in this brand new arcade game.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective is to connect 3 or more elements of the same type to get the attack and use a special power. Be prepared to be rewarded with a bonus coin after connecting the matching elements! Remember the enemy player can attack you in case if element type that you match has the resemblance with the enemy element target. You would spot six different places and each place features wonderful 5 levels to offer the unlimited fun and entertainment.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">When you click the play button, a screen will be appeared displaying the options like Start Game, Heroes, Spin and More Games. Clearing each level successfully will allow you to get some coins through which you can upgrade your hero with more power. Do not forget to buy special item with the help of gems grabbed during the gameplay. Put your fingers on your mouse to eliminate more elements from the board! Be careful and try to complete each mission timely to secure extra points in this html5 action-packed puzzle game! Track your power bar under your character and the power of your enemies under his feet! Look at the enemy waves at the top of your enemies! Good luck to matching right elements to clear all levels in this match 3 battle game!</span></div>",
+      "size": 480,
+      "height": 854,
+      "script": "\nhttps://html5.gamedistribution.com/6ac3dc0c9557413b88e0326143200da3/\n",
+      "metaTitle": "The Gladiators, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game The Gladiators at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "The Gladiators Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527483.xml",
+      "idealFor": "All",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7478,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2023-05-05T09:14:53.143Z",
+      "__v": 0,
+      "mobileControlKeys": " SWIPE TO CONNECT AND BREAK THE SAME OBJECT SHOWN BELOW ENEMY",
+      "webControlKeys": " KEEP PRESS L CLICK OF MOUSE AND SWIPE TO CONNECT AND BREAK THE SAME OBJECT SHOWN BELOW ENEMY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
