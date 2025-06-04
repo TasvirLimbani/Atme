@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb18",
+      "id": 3993,
+      "name": "Vehicles Simulator 2",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "vehicles-simulator-2",
+      "image": "3993",
+      "url": "vehicles-simulator-2",
+      "description": "<div>Most of boys love exploring colourful graphics, cool vehicles and driving latest car models at steep turns and exciting twists. If you are also among the ones who are crazy for the intense speed games, then Vehicles Simulator 2 is just for you. Your objective in this brand new racing game is to drive multiple tests on several vehicles. Choose your track and vehicle, tighten your seatbelt and get ready to drive multiple types of vehicles like huge truck, tank, buggy car and regular cars!</div><div><br></div><div>It looks easy to handle the complexities, but only expert drivers can dare to meet with the challenges faced in the advanced levels. Remember big vehicles have lesser speed as compared to the normal size vehicles so control them accordingly. Select between driving in manual gear or automatic gear in this one of the best fun simulation driving games for boys! There are six unique and advanced vehicles to play with. Star the engine of your vehicle first before enter the racing challenge!</div><div><br></div><div>Change the view of the camera anytime whenever you want! It is up to you whether you want to drive during night or day. Make sure to turn on the lights in the dark to avoid a collision with the other vehicles. Give this HTML5 car a try to enjoy a free ride on highway without limitations! Speed through the abandoned places and ride your vehicle like there is no tomorrow in this car driving simulator! Good luck to have a blast on your new driving adventure!</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/186fe44ba1f847e9af40e68d37ecf695/\r\n",
+      "metaTitle": "Vehicles Simulator 2,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Vehicles Simulator 2 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Vehicles Simulator 2 Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9787,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-10-10T08:47:06.629Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "INCRESE GEAR- L SHIFT, DECRESED GEAR- L CTRL, ENTER/EXIT- T, START AR-F, LIGHTS- L,HJKQE, RELOAD- R, HORN-B,HAND BREAK-SPACE,SWITCH CAMARA-C,PAUSE-P,AUTO/MANUAL GEAR- O"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
