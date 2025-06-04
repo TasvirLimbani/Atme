@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bc06",
+      "id": 4236,
+      "name": "Zombie Defense",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zombie-defense",
+      "image": "4236",
+      "url": "zombie-defense",
+      "description": "<div><div>The scary zombie world attracts many gamers irrespective of their age and gender. If you are one of those individuals for whom spending time with the undead gives a reason to smile and create Goosebumps, Zombie Defense is a right platform to stay. Hey boys! You would be surrounded by a horde of blood-thirsty souls who are very dangerous. Grab your gun and clear the city from these terrifying zombies in this brand new action game! It is time to challenge your shooting abilities to the fullest.</div><div><br></div><div>You are the only one who is brave enough to stand against these deadly monsters. The problem is that they are big in number and will keep coming until you finish all of them. It depends upon your shooting abilities that how long you survive in this cool HTML5 shooting game. Be careful and try to react fast to stop the incoming waves of zombies entering in your area! Kill more zombies to upgrade your weapons and win like a true fighting champion!</div><div><br></div><div>Track how many zombies you have killed on the top left corner of the screen while the top right corner of the screen shows you how many zombies are left to be killed! Change the location of your soldier time to time to destroy all these monsters in this HTML5 zombie survival game! Good luck to fight like a champ to survive for the maximum days possible! Play more popular titles from the category of free action-packed challenges on atmegame.com and have fun without download!</div></div>",
+      "size": 850,
+      "height": 520,
+      "script": "https://html5.gamedistribution.com/e9521f825b144b718ca70d5ab9e3376d/\r\n",
+      "metaTitle": "Zombie Defense Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zombie Defense at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Zombie Defense Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543659297.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10579,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:44:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.734Z",
+      "updatedAt": "2024-02-26T03:06:48.303Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,S,UP DOWN ARROW TO MOVE, SPACE / L CLICK- SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
