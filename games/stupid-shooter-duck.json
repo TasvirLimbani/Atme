@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c102",
+      "id": 5541,
+      "name": "Stupid Shooter Duck",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "stupid-shooter-duck",
+      "image": "5541",
+      "url": "stupid-shooter-duck",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is time to put your ultimate shooting skills to the test in a duck carnival game! We have tried here to introduce you a brand new action-packed game where shooting will be a great fun. Are you ready to accept this challenge and prove the world that you are an ultimate shooter of your area? Join Stupid Shooter Duck and allow yourself to shoot down the greatest number of possible ducks in a friendly environment! We know that you have the skill to be the new Billy of your area.</span></div><div><span style=\"font-size: 13.3333px;\">Step up to this highly exciting and pretty addictive duck carnival and challenge your concentration skills to the best! Your objective in this free online shooting game is to hit as many ducks as you can while avoiding the bunnies and other cute critters. Your score will actually depend on how many times you shoot ducks and target boards. The activities involved in this cool HTML5 game reminds us of the fair booths.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">The cute graphics and easy controls combined with the lovely music will definitely help keep you engrossed for hours. This game can be playable on desktop and mobiles phones and are suitable for all ages whether you are children, teenagers or grown-ups. You get 1 point for hitting ducks or target boards each time. Get ready to lose 1 life in case of missing or hitting the rabbits! Try to focus well to make a big score using 3 lives in this point and click game!</span></div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/f79d86e35a6942c0b50a5758cf4a7a4a/\r\n",
+      "metaTitle": "Stupid Shooter Duck, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stupid Shooter Duck at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Stupid Shooter Duck Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453347.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8201,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2024-03-09T05:11:36.098Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE TARGETS TO HIT ",
+      "webControlKeys": "SCROLL WITH MOUSE, LEFT CLICK TO HIT"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
