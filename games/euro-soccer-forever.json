@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae45",
+      "id": 109,
+      "name": "Euro Soccer Forever",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "euro-soccer-forever",
+      "image": "109",
+      "url": "euro-soccer-forever",
+      "description": "Among many a numbers of soccer games in addition in the league matches, there is an extra charm is added to online sports game with the addition of Euro Soccer Forever, where you can test and enjoy the soccer game free to best of the excitement and thrill of gamers.<br><br>The game is mostly based upon penalty shootout, where, depending upon the game and its level, the players appear from the opponent team. In the game, you, therefore have to make reach of the ball into goalpost either of single goal keeper standing against you or a wall of two or three players existing there.<br><br>Moreover, the game begins with selecting the team of your preference and choice. There are total eight teams participating in the game and you can dress up yourself in jersey of any one of the team. The game begins straight away from the quarterfinals as in the other qualifying matches has not been included here in the game.<br><br>There total five penalty shootouts are given in each match and depending upon the quality of kick the points in this best football game online are awarded to a team. After winning the quarterfinals the next stage of the game is semi finals and then finals. The same pattern of five penalty shootout is being repeated in the semi finals and finals as well. With the awarded points you can upgrade your skills too. The control in the game is coordinated by the mouse movements as well too.",
+      "size": 960,
+      "height": 640,
+      "script": "<!-- Place this code where you'd like the game to appear -->\r\n<div class=\"miniclip-game-embed\" data-game-name=\"euro-soccer-forever\" data-theme=\"0\" data-width=\"960\" data-height=\"640\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/euro-soccer-forever/\">Play Euro Soccer Forever</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/euro-soccer-forever/\" target=\"_blank\">Play Euro Soccer Forever</a> / More <a href=\"https://www.miniclip.com/games/genre-18/\" target=\"_blank\">Soccer games</a></p>\r\n\r\n<!-- Insert this code before your </body> tag -->\r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "Euro Soccer Forever, Soccer  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Euro Soccer Forever is the best game in for the soccer league match practice.  Here you can test and enjoy the soccer game free to best of the excitement and thrill of gamers. ",
+      "metaKeyword": "Euro Soccer Forever, Sports, Soccer , Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 117,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 15744,
+      "ownGame": false,
+      "addDate": "2016-07-03T06:11:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2024-11-25T16:06:16.979Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 14
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
