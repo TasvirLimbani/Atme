@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3d9",
+      "id": 6471,
+      "name": "Sheep Sling",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "sheep-sling",
+      "image": "6471",
+      "url": "sheep-sling",
+      "description": "<div>This lovely sheep has a wonderful dream in her eyes. She wants to be on the top of the mountain one day. However, her small size and a little bit knowledge about how to sling and bounce make it difficult for sheep to reach at the higher place. Would you like to come forward and guide her to jump high? Join Sheep Sling and be prepared to sling, bounce and swing this cute and little animal to the top! You would have multiple new cool animals to unlock.</div><div><br></div><div>Click, hold and release the mouse to make your character jump from one sling to another in this one of the best HTML5 puzzle games! Keep your character away from fire bullets, sharp objects and everything that tries to stop her moving upward! Use your brainpower and arcade-game playing abilities to help this awesome animal make her dream come! Try to grab as many coins as you can along the way to unlock more cool animals in this endless jumper challenge!</div><div><br></div><div>Your sheep will blow away if she misses the sling and touches the bottom of the screen. Other characters you can unlock are pig, frog and cat. Be careful while pulling the slingshot to shoot your sheep! Make sure to align the target precisely to avoid mistakes. It is available on multiple devices to play online without download so say good bye to all the worries about downloading games or installing any new apps to enjoy your game.</div>",
+      "size": 540,
+      "height": 960,
+      "script": "https://html5.gamedistribution.com/e19699e53eb9482d869862408fa85a62/\r\n",
+      "metaTitle": "Sheep Sling Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Sheep Sling at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Sheep Sling Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7828,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-04-21T04:47:45.065Z",
+      "__v": 0,
+      "mobileControlKeys": "PRESS AND STRECH THE SHIP TO SLING SHOT ",
+      "webControlKeys": "NOT WORKING IN WEB"
+    },
+    "rating": {
+      "rating": "4.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
