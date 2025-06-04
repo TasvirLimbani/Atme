@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b186",
+      "id": 1288,
+      "name": "Sports Heads: Football Championship 2016",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "sports-heads-football-championship-2016",
+      "image": "1288",
+      "url": "sports-heads-football-championship-2016",
+      "description": "<div>The Sports Heads are back once again! And, this time they have decided to take the Soccer Cup to their home. Join Ports Heads: Football Championship 2016 and get a chance to play against the soccer players from all across the world. Fill up with the confidence and go head-to-head in this free online sports game for boys. Take a chance in the ultimate shootout and lead your team towards the glorious victory! Try to score as many goals as you can do in the time period of 90 seconds!</div><div><br></div><div>Choose from Manchester United, Chelsea, Manchester City, Arsenal or Liverpool. Pick up your favourite English Premier League team and guide them towards the most wanted win. Take the responsibility of playing with the soccer head from the chosen team for the biggest title you could ever imagine in your life! Try to perform at your best level and also collect the power-ups to help your players to boost their performance.&nbsp;</div><div><br></div><div>Also get a chance to challenge your friend and show off your best football skills by opting for the 2 player mode in this cool soccer game for boys. Start kicking until you get the success in scoring a goal. Outscore your opponent with full of confidence in this wacky arcade soccer game! Enjoy various amazing effects with 8 power-ups! Use the power-ups to move faster or increase your size. Some power-ups also hinder your rival’s skills to defend. Choose your team, pick your character and get ready to outscore all your enemies in the world’s popular Football Championship!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/5601979fea4a4ca0a52abe29a4ddce8f/\r\n",
+      "metaTitle": "Sports Heads: Football Championship 2016, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sports Heads: Football Championship 2016 at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Sports Heads: Football Championship 2016 Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517222754.xml",
+      "idealFor": "Man",
+      "likes": 44,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 15576,
+      "ownGame": false,
+      "addDate": "2018-01-29T16:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.686Z",
+      "updatedAt": "2025-04-20T23:48:41.477Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS TO MOVE, RIGHT ICONS TO KICK AND JUMP",
+      "webControlKeys": "SPACE- HIT THE BALL, UP ARROW- JUMP, L-R ARROW- MOVE"
+    },
+    "rating": {
+      "rating": "2.9",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
