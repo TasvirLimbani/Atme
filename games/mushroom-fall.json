@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b324",
+      "id": 1782,
+      "name": "Mushroom Fall",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "mushroom-fall",
+      "image": "1782",
+      "url": "mushroom-fall",
+      "description": "Mushroom Fall is very cute platform game where you have to get down using controls.Just fall down deeper and deeper using controls. With cute graphics and cool sounds mushroom fall game play is more interesting\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/9dfbd6e8a8664236a1c6f39300be758b/\r\n",
+      "metaTitle": "Mushroom Fall, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mushroom Fall at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Mushroom Fall Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629580.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 13144,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.696Z",
+      "updatedAt": "2024-02-27T10:01:06.007Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT FITTING IN THE SCREEN",
+      "webControlKeys": "L-R ARROWS TO MOVE L-R"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
