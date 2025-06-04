@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae59",
+      "id": 132,
+      "name": "India Vs Pakistan",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "india-vs-pakistan",
+      "image": "132",
+      "url": "india-vs-pakistan",
+      "description": "When the rivalry between two countries turns into sports frenzy it becomes a nerve breaking game of cricket between India and Pakistan. And <a href=\"http://www.atmegame.com/online-cricket-games\" title=\"Cricket Games\" target=\"\"><font color=\"#0033cc\">free online cricket game</font></a> between India and Pakistan are the effort to live those amazing moments of cricket that spectators of both countries are enjoying several years and has been transformed into this exciting cricket game online.<br><br>Before playing this rivalry filled games first of all, you will have to choose between from the type of tournaments including instant match and close encounters. According to the game play they are quite different from each other. In the instant play toss is important, where, you play full match of 10 overs and according to the result of the toss you will either be able to field or bat in the game.<br><br>In the game that in terms of customization is ahead of in comparison to other online cricket game. You will be free to choose the game according to the players name and actual style of playing. In the game, role of the arrow keys and space bar is of the optimum utilization while on the bat or balling.<br><br>When balling with arrow key, the balling style like leg cutter, straight and off cutter. There is bar on the left side with three colours like as red bar region selection tend it to be a no ball, the same occurs with bat. In batting, arrow keys helps in selecting the right type of shot to be played in this cricket game online between rival countries.",
+      "size": 800,
+      "height": 600,
+      "script": "132_swf.swf",
+      "metaTitle": "India vs Pakistan, Cricket Games - Play Online Free : Atmegame",
+      "metaDesc": "India Vs Pakistan games is the cricket game online that is preferred to be the best one with respect to popularity in online gaming craze and enjoyment.",
+      "metaKeyword": "India vs Pakistan, Sports, Cricket, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 476,
+      "dislikes": 20,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 110538,
+      "ownGame": false,
+      "addDate": "2016-07-03T07:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2024-11-02T00:12:06.292Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 192
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
