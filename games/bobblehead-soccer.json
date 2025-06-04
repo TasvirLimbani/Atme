@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb93",
+      "id": 4118,
+      "name": "Bobblehead Soccer",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "bobblehead-soccer",
+      "image": "4118",
+      "url": "bobblehead-soccer",
+      "description": "<div>Soccer sport has a worldwide fan following. If you are also the one for whom practicing this sport can be more relaxing than anything else in this world, trying out Bobblehead Soccer Royale is the right game for you. Grab your football and be prepared to move your bobblehead soccer stars around the field this brand new sports game! Your opponents are very powerful so try to plan out a strategy to kick the goals against them. Grab the power-ups to get an advantage over your opponents!</div><div><br></div><div>When you click the play button, you would spot the two football champions who will go head to head. Your objective is to stop your opponents from playing shots and score as many goals as you can within the limited time frame. Get ready to play the role of a midfielder, goalkeeper, and striker on the behalf of your team! Earn points to unlock power kicks and use a counter kick to deflect it in this html5 soccer game! Remember each power includes a cooldown period.</div><div><br></div><div>Freeze your opponent and slow him out if needed or even collect an unblockable power kick! All these players have tiny feet, huge heads and are aware of all the football playing techniques needed to perform on the real soccer field. Use all the latest soccer abilities to win all matches in all 18 unique and challenging levels and show off the world that how crazy you are for the football matches! Try out more free sports games on atmegame.com and allow yourself to have fun alone or with your friends, no download required!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/3b27282d5b7c43c987f9aa75d45c39f6/\r\n",
+      "metaTitle": "Bobblehead Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bobblehead Soccer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Bobblehead Soccer Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 41,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12088,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-09-07T08:48:41.332Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS TO MOVE, RIGHT ICONS TO MAKE THYE GOLE",
+      "webControlKeys": "SPACE-KICK,X-POWER KICK, UP L-R ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
