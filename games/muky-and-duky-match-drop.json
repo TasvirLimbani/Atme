@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba2e",
+      "id": 3745,
+      "name": "Muky & Duky Match Drop",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "muky-and-duky-match-drop",
+      "image": "3745",
+      "url": "muky-and-duky-match-drop",
+      "description": "Help the adorable couple Muky and Duky on their quest! Reach the goals of the levels by making combinations and finish every level!",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/muky-and-duky-match-drop-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Muky & Duky Match Drop Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Muky & Duky Match Drop at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Muky & Duky Match Drop Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7161,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2024-01-19T02:42:23.836Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE GROUP OF 3 OR MORE SIMILER IMAGES TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE ON THE GROUP OF 3 OR MORE SIMILER IMAGES TO PLAY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
