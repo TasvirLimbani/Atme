@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b35a",
+      "id": 1837,
+      "name": "Catch The Killer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "catch-the-killer",
+      "image": "1837",
+      "url": "catch-the-killer",
+      "description": "As a detective you have to solve even the most complex murder cases. In this awesome game you will need to drive and park, solve three intense cases by engaging in a great story, talking to suspects, finding clues and playing lots of challenging mini-games. You will have to dismantle bombs, cut trees, break locks, break into cars, look through documents and analyze murder weapons. Everything in just one very fun game! Enjoy playing Catch The Killer!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=748d6b6ed8e13f857ceaa6cfbdca14b8\r\n",
+      "metaTitle": "Catch The Killer, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Catch The Killer at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Catch The Killer Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630386.xml",
+      "idealFor": "Man",
+      "likes": 31,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 10980,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:03:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2024-08-24T02:34:39.262Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
