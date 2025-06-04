@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0c6",
+      "id": 5475,
+      "name": "Space Invaders",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "space-invaders",
+      "image": "5475",
+      "url": "space-invaders",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Our planet is attacked by a horde of dangerous enemies from the sky. You as a spaceship have to defend it by hook and crook. The job is pretty challenging, but you have the skill to take care of it with ease. No need to waste your precious time! Join Space Invaders game now and get ready to control a wonderful a laser cannon! You can move it horizontally across the bottom of the screen to protect the cannon against different kinds of enemies.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">It is up to you how you perfectly manage the spaceship to fire at descending enemies, including space crafts, fires and aliens! Try to defeat four rows of seven aliens as fast as you can before they destroy your cannon in this action game! Your every successful shoot will help you grab some points. Avoid your cannon from being destroyed by the firing from a mysterious spaceship in this space shooter mobile game! Remember the alien invasion will taste the success in case your character loses all lives.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Do not forget to grab bullets falling from the sky to increase your power in this two-dimensional shooter game! We are known to carry an extensive collection of html5 spaceship games for boys and girls. Check out our category of new boys games and latest girls games to meet the one that caters to your gaming needs perfectly! We wish you to complete this mission and create the best highscore in this new mobile game.&nbsp;</span></div>",
+      "size": 500,
+      "height": 700,
+      "script": "https://html5.gamedistribution.com/dabff1f68f094a1d98ad075a2412ac75/\r\n",
+      "metaTitle": "Space Invaders, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Space Invaders at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Space Invaders Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449471.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10819,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:27:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2024-03-19T19:36:51.411Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE SCREEN TO MOVE AND SHOOT ",
+      "webControlKeys": "KEEP PRESS L CLICK OF SCREEN TO CONTROL THRE SHIP"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
