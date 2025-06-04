@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9d2",
+      "id": 3640,
+      "name": "Turkcell Emocan",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "turkcell-emocan",
+      "image": "3640",
+      "url": "turkcell-emocan",
+      "description": "Destroy the characters in Turk Cell Emocan! A very unique sliding Match-3 game. Move characters up, down and across.\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "\nhttps://html5.gamedistribution.com/6e510f4f493b41d4ac67bb70d052a454/\n",
+      "metaTitle": "Turkcell Emocan, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Turkcell Emocan at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Turkcell Emocan Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335465.xml",
+      "idealFor": "All",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7841,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:07:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2024-02-27T18:19:16.278Z",
+      "__v": 0,
+      "mobileControlKeys": "SLIDE ALL THE ROWS FROM L-R TO MAKE THE MATCH OF 3 SAME IMAGES",
+      "webControlKeys": "SLIDE AND MATCH 3 CHARACTERS OF THE SAME KIND. TURN ALL TILES TO LIGHT BLUE BEFORE THE TIME RUNS OUT BY L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
