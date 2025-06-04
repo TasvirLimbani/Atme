@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3ef",
+      "id": 6493,
+      "name": "King Of The Hill",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "king-of-the-hill",
+      "image": "6493",
+      "url": "king-of-the-hill",
+      "description": "<div>Forget about the countless attacks of mythical creatures Trawds and get ready to protect your King along with the castle through your insane fighting abilities in King Of The Hill! These are the responsibilities you have to take care of in this brand new adventure challenge. Are you ready to accept this unique challenge and show off the world that you are the best fighter of this planet? Select any one out of multiple medieval heroes and head on towards clearing the area from the deadly monsters!</div><div><br></div><div>Begin the game with Olaf who is highly valued for collecting the effective axes and trophies earned by winning dozens of battles! Do not bother you are not alone in this HTML5 war game. You would be guided and backed by the abilities of your chosen hero and special weapons. Hidden abilities may also be the part of several creatures so make sure to behave like a vigilant to find them timely otherwise both you and your castle have to pay off for it.</div><div><br></div><div>Follow the instructions shown on the screen and win the battles like a true fighter in this cool fighting game! Look into the arsenal of each hero and control him along with the weapons until you taste the victory! Use C for low throw, X for high throw and Z for average throw! Apply all your weapons available at your castle to save your kingdom against the dangerous enemies in this one of the best battle games for boys! Good luck to wear the crown of being the king of the hill and have a blast online without download!</div>",
+      "size": 960,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/1b24300132ff420a8e05d9b8b4839622/\r\n",
+      "metaTitle": "King Of The Hill Game, War - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game King Of The Hill at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "King Of The Hill Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842581.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 8337,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-02-07T09:12:58.651Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "X,Z TO HIT"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
