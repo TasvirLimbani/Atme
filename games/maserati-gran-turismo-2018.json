@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b555",
+      "id": 2412,
+      "name": "Maserati Gran Turismo 2018",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "maserati-gran-turismo-2018",
+      "image": "2412",
+      "url": "maserati-gran-turismo-2018",
+      "description": "The new Maserati 2018 is called Gran Turismo! The northern Italians took some time to develop the Maserati GT, but it seems that it was worth it. Run on this beast with a 4.2-liter V8 engine with an amazing 405 HP power. Earn money and go running in more complex circuits and against better rivals.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/afb3d463d26a4cf7bb52533971b4e6bf/\r\n",
+      "metaTitle": "Maserati Gran Turismo 2018, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Maserati Gran Turismo 2018 at atmegame.com ! We have selected this car games for best excitement and thrill in you!",
+      "metaKeyword": "Maserati Gran Turismo 2018 Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524810594.xml",
+      "idealFor": "Man",
+      "likes": 72,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 24096,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-11-15T20:41:53.389Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": "ALL ARROWS TO MOVE THE CAR"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
