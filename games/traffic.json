@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c41a",
+      "id": 6538,
+      "name": "Traffic",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "traffic",
+      "image": "6538",
+      "url": "traffic",
+      "description": "<div>It is always not easy to rule the road and trick the mad traffic! Hey! You have forgot to come on your vehicle today and want to reach to your destination timely on your own feet. There are multiple crosswalks to deal with in this brand-new arcade puzzle. Are you ready to accept this unique challenge? Join Traffic and be prepared to guide a man who wants to reach his car intact timely! Make sure to avoid the heavy traffic and help him to cover the distance fast.</div><div><br></div><div>There are 100 steps to cover for the man so do not get relaxed until you achieve the objective of this HTML5 traffic game. The more time you stay in the game, the higher score you would be able to make. Red colour arrow sign will show that the vehicle is going to pass by the road, while the white sign will show that it is time to cross the road. Be careful as the white sign turns into red fast so try to be quick to reach from one road to another!</div><div><br></div><div>Good luck to cover the maximum positive distance to create your best new high score! When the game finishes, you can track your best and last score on the screen. The last screen will also show you how much you have taken to create this score. Check out other top traffic games on our website for free to enjoy a wonderful gaming experience! All these games are playable on different devices without download.</div>",
+      "size": 420,
+      "height": 750,
+      "script": "https://games.atmegame.com/games/traffic/",
+      "metaTitle": "Traffic Game, Puzzle - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Traffic at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Traffic, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 1330,
+      "dislikes": 143,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 322186,
+      "ownGame": true,
+      "addDate": "2020-07-25T19:44:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-02-19T10:58:34.562Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT RIGHT SCREEN ICONS TO MOVE ",
+      "webControlKeys": "UP DOWN ARROWS TO MOVE "
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 101
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
