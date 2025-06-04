@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c000",
+      "id": 5270,
+      "name": "Fire Balls",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "fire-balls",
+      "image": "5270",
+      "url": "fire-balls",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You have met today with one of the biggest action-packed platforms where fun and difficulty possibilities are countless. This platform is full of spinning towers that are definitely not going to be destroyed themselves. Your objective in this brand new shooting game is to destroy all towers from different geometric shapes. Try to avoid all the obstacles when you use the fire balls to complete the assigned task. The controls of the game are simple combined with the colorful graphics and seamless gameplay.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Be careful and avoid the moving barriers when you are going to begin the shooting job. If your fire balls hit the obstacles, you will lose the game immediately. Obstacles may be in different forms in each chapter. You will have unlimited fire balls to bring all the towers down. Take your aim and try to cover your ears while hitting the button. All it takes to unleash the destructive side of yours to complete each level with the highest possible score.</span></div><div><span style=\"font-size: 13.3333px;\">You will notice a ring with rotating obstacles at the base of each tower. Make sure not to avoid the obstacles to pass each level successfully. There are three towers you see in each level. Do not forget to grab the gems on top the first two towers. You will spot the treasure chest on the top of the third tower.&nbsp; May be you miss your shot and are not able to find a successful shot at initial few attempts. Play this cool html5 shooting game for several times to be a champion of shooting. Enjoy easy controls, 3D graphics, and multiple levels to play online for free.</span></div>",
+      "size": 480,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/2733d5951e04400a8ed857818635e670/\r\n",
+      "metaTitle": "Fire Balls,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Fire Balls at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Fire Balls Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352253.xml",
+      "idealFor": "Man",
+      "likes": 67,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 17970,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:07:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.748Z",
+      "updatedAt": "2025-04-21T10:10:48.533Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS THE SCREEN TO SHOT THE CANNON",
+      "webControlKeys": "LEFT CLCIK OF MOUSE TO SHOOT THYE CANNON"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
