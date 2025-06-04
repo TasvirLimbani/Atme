@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8f0",
+      "id": 3396,
+      "name": "War Zone",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "war-zone",
+      "image": "3396",
+      "url": "war-zone",
+      "description": "Objective of the games is to protect the Territory from the attack of Militant Enter into the militant area and destroy them, choose form different types of weapon\r\n",
+      "size": 854,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/aff41c091a3c4f86bf0eafa2b76e93a8/\r\n",
+      "metaTitle": "War Zone Game, Shooting Games - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game War Zone at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "War Zone Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533887535.xml",
+      "idealFor": "Man",
+      "likes": 68,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 32590,
+      "ownGame": false,
+      "addDate": "2018-08-10T13:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-04-01T01:25:11.656Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO SHOOT",
+      "webControlKeys": "L CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
