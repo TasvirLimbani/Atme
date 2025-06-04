@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd54",
+      "id": 4572,
+      "name": "Quick Math",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "quick-math",
+      "image": "4572",
+      "url": "quick-math",
+      "description": "<div><span style=\"font-size: 13.3333px;\">There are many students whose mathematics is not strong enough to handle the exam pressure. Do you think that your kids need to practice more mathematics challenges? Is the calculation of maths of your kids is weaker as compared to other kids of their classes? Join Quick Math game and get ready to help your kids to boost their mathematics problem-solving abilities! You or your kids have to put your sharp human reflexes and unmatched mathematics skills to the test to solve all the puzzles.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this brand new arcade game is to practice your addition and subtraction skills to score higher in the end. Get ready to add within 100, including a one-digit number and a two-digit number to complete the game! Be prepared to multiply and divide within 100 in further levels. This html5 arcade game will allow you to challenge your reaction speed and judgment. Click the right pair of mathematical calculation to replay as fast as you can! The faster you reply, the higher score you will create in the end.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Click or tap a right calculation to get as many score as possible in this cute mobile game! Use your super human reflexes to become the master of this addictive mathematics game! Share your best score with your family or friends and make them jealous of your fabulous success! There are countless arcade puzzles available on our website that you can play without download on multiple devices, including desktops, android phones, tablets and iPhones or iPads. Good luck to have fun while improving your mathematic in a friendly environment!</span></div><div><br></div>",
+      "size": 680,
+      "height": 960,
+      "script": "\nhttps://html5.gamedistribution.com/9025a24ef53e41ed88f8d6bfecbcd846/\n",
+      "metaTitle": "Quick Math, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Quick Math at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Quick Math Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 13,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8119,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-04-04T16:17:56.560Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CORRECT ANSWER",
+      "webControlKeys": "L CLICK OF MOUSE TO CHOOSE THE CORRECT ANSWER"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
