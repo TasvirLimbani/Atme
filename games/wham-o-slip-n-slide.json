@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb1e",
+      "id": 3999,
+      "name": "Wham O Slip N Slide",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "wham-o-slip-n-slide",
+      "image": "3999",
+      "url": "wham-o-slip-n-slide",
+      "description": "<div>Have you played Subway Surfers and Temple Run and enjoyed these games a lot? Wait! We have brought to you a brand new running game where you can have more fun and enjoyment than you experienced in the above-mentioned adventure challenges. Join Wham O Slip N Slide Party in Hawaii and be prepared to enter the biggest running challenges you have ever witnessed online! Your jumping and sliding abilities will be tested here to the optimum level.</div><div><br></div><div>Your job is to control a cute and unique character who wants to cover the long-distance on this running platform. Guide him to jump, switch lanes and slide while keeping him away from the obstacles like cars, and roadblocks in this HTML5 adventure game! Try to grab as many coins and coconuts as you can to boost your score and upgrade your character! Use those coins to buy some cool swags like swimming floats, hand paddles, rocket pack and Scuba Driving gear!</div><div><br></div><div>This cool-running challenge allows you to experience the First-person 3D-like view while the endless gameplay will keep you entertained for hours. You can also spot here a shop to unlock a number of exciting items. It is common to find multiple new things here in this game. Check out our extensive range of free adventure games for boys and get an opportunity to have a blast online without download! Stay connected with us to spot new running games and say good bye to the feeling of boredom!</div>",
+      "size": 640,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/bc1ea3e1179847ae9825ee3619ed7ab5/\r\n",
+      "metaTitle": "Wham O Slip N Slide,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wham O Slip N Slide at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Wham O Slip N Slide Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8528,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-08-18T00:13:03.760Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE DOWN TO ROLL, SWIPE UP-JUMP, SWIPE L-R OF SCREEN TO MOVE L-R",
+      "webControlKeys": "UP ARROW TO JUMP, L-R ARROWS TO L-R MOVE, DOWN ARROW TO ROLL"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
