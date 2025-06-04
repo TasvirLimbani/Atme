@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c009",
+      "id": 5279,
+      "name": "Nighty Knight",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "nighty-knight",
+      "image": "5279",
+      "url": "nighty-knight",
+      "description": "Nighty Knight is a wacky action game, where you play as either the Nighty Knight or Pew Pew Princess fighting wave after wave of V.E.R.M.I.N.!\r\n",
+      "size": 1024,
+      "height": 576,
+      "script": "https://html5.gamedistribution.com/1c4f92ead0c34a518b081094a2c4bc48/\r\n",
+      "metaTitle": "Nighty Knight ,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Nighty Knight  at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Nighty Knight  Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352253.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8070,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:07:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.748Z",
+      "updatedAt": "2024-06-09T03:12:59.893Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICON- TO MOVE AROUND, L ICON TO JUMP AND ATTACK",
+      "webControlKeys": "W,A,S,D  TO MOVE, L ARROW TO READY TO THROW, RIGHT ARROW TO ATTACK"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
