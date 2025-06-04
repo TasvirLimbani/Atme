@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b16f",
+      "id": 1260,
+      "name": "Soccer Doctor 3",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "soccer-doctor-3",
+      "image": "1260",
+      "url": "soccer-doctor-3",
+      "description": "<div>The third version of Soccer Doctor game is out! Soccer Doctor 3 is an awesome doctor game designed to girls from different age groups. In this brand new surgery game for girls, you will have to apply your medical skills to achieve your goal. Built with Flash technology, this stunning skill allows it to run flawlessly in all modern browsers. Play the role of a doctor and get ready to perform various important medical tasks in this sunny surgical simulation game!</div><div><br></div><div>The entire soccer team has got injured accidently. Provide them with a necessary medical assistance to cure their serious wounds. Also give them a proper plastic surgery, if needed. Be careful at the details to create the perfect outcome in this free online game for girls. Celebrate the moment since you have been appointed here as a teams new health physician. Train your team for the new coming playoff season. Cure their wounds without killing them and by following the appropriate operating procedure.</div><div><br></div><div>In this cool PC game, bring your unorthodox ways into use to fix up the players of the team. Try to complete all the surgical moves as soon as possible to earn the maximum possible points. Remove some bones, legs, skin, heal them and help your soccer players get back to the field! With brilliant graphics, simple and dynamic gameplay as well as excellent audio and video effects, it Is getting a hot game today. It features very easy controls, such as mouse to navigate and LMB to interact and select. Play this one of the best soccer games and have a fun kids!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=b39755154c8b4972a78c91b7a55e7598\r\n",
+      "metaTitle": "Soccer Doctor 3, Doctor Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Soccer Doctor 3 at atmegame.com ! We have selected this Doctor games for best excitement and thrill in you!",
+      "metaKeyword": "Soccer Doctor 3 Game, Girls Games, Doctor Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517222281.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7298,
+      "ownGame": false,
+      "addDate": "2018-01-29T16:08:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.686Z",
+      "updatedAt": "2024-06-14T01:32:52.163Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
