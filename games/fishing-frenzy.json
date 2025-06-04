@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c40f",
+      "id": 6527,
+      "name": "Fishing Frenzy",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "fishing-frenzy",
+      "image": "6527",
+      "url": "fishing-frenzy",
+      "description": "<div>Nothing looks awesome than enjoying the fishing in the pond in the chilled winter season! Hey friends! Today we have brought to you a brand new adventure game where you will get a chance to watch plenty of things underwater. Grab your hook and get ready to cast a proper line into the water and bring more and more fishes to your home in Fishing Frenzy! Common boys! You will have the freedom to hook anything that moves in the water.&nbsp;&nbsp;</div><div>Click through the mouse or tap the screen to power your rod! Do not forget to hold and then cast by releasing your hook! Try to keep your rod away from the big sharks who will instantly steal your haul if go near to them! Use your fishing abilities to catch different types of fishes and become a master of this game! Apply your rod to cast a line while waiting for a bite and work hard to turn it into the exciting points in this HTML5 fishing game!</div><div>Today weather is perfect for fishing so take your seat on your boat to catch as many fishes as you can before the time runs out! There are multiple unique and challenging levels to play through and each level comes with a specific target. You will need worms to grab your fishes! Do not forget to grab power-ups and all floating supplies to score high. Good luck to play some extra tricky fishing games that you can play on desktops, mobile phones or any devices you want!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/fishing-frenzy/",
+      "metaTitle": "Fishing Frenzy Game, Platform - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Fishing Frenzy at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Fishing Frenzy, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 1127,
+      "dislikes": 141,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 381647,
+      "ownGame": true,
+      "addDate": "2020-07-12T15:55:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-04-11T15:03:08.653Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICONS TO MOVE L-R, RIGHT ICONS TO CATCH THE FISH AND THROW THE BOMB",
+      "webControlKeys": "A,D,L-R ARROW TO MOVE, S DOWN ARROW TO CATCH THE FISH, RIGHT ICON TO THROW THE BOMB"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 114
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": null
+  }
+}
