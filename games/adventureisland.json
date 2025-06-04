@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c053",
+      "id": 5354,
+      "name": "AdventureIsland",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "adventureisland",
+      "image": "5354",
+      "url": "adventureisland",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Welcome to the wonderful world of cute little money aka Bobo! He has recently lost his brother who loves him very much. He tried his level best in finding him, but could not get the success. Nobody has an idea where his brother named Eric is presently in. May be he is here on the same island or on other different island. However, it could not be easier as you thought of. You have to accomplish several tasks assigned on the first island to reach the further islands. Join Adventure Island and get ready to come into action fast!</span></div><div><span style=\"font-size: 13.3333px;\">This baby king kong relies on you. Give your helping hands to him and be prepared to guide him on this epic adventure through a number of islands! It only takes your concentration and art of jumping to win in this cool platform game. Keep going through various islands to spot the treasure and bananas that are his favorite dish to eat! After completing all tasks, Bobo (monkey) will be able to earn some money through which he also purchases some useful things from the shop.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Remember he will need your helping hand in everything right from buying new power-ups to customizing Bobo. Do not forget to grab all the gold coins and face of all the hurdles bravely on his way! Make a jump timely over some dangerous things like the flesh eating plants and the baboons found in various other island inhabitants! You will surely enjoy by unlocking new achievements in this html5 run platformer game.&nbsp;</span></div>",
+      "size": 1000,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/c8fdbac5053642a19ad7b338787b562e/\r\n",
+      "metaTitle": "AdventureIsland,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game AdventureIsland at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "AdventureIsland Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352896.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7929,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.749Z",
+      "updatedAt": "2025-01-17T04:43:01.153Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "SINGLE L-CLICK TO JUMP,DOUBLE L-CLICK AND HOLD TO JUMP HIGHER, SWIPE DOWN FOR DEADLY DROP"
+    },
+    "rating": {
+      "rating": "2.6",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
