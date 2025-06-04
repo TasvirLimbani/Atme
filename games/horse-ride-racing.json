@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad73",
+  "category_name": "horse",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad73",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2d6",
+      "id": 6147,
+      "name": "Horse Ride Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "horse-ride-racing",
+      "image": "6147",
+      "url": "horse-ride-racing",
+      "description": "<div>We have good news for all the horse race game lovers and all those who love trying something different to keep them busy online. A popular bike racing competition is going to take place in the virtual world. Would you like to try out your hands and win the tournament to become the biggest horse rider of your city? Join Horse Ride Racing 3D and gear up to have wonderful riding on a realistic-looking horse in a completely unique environment!</div><div><br></div><div>Start with choosing any option between the tournament and knock out! There are multiple tournament options to play when you opt for the first option. Select any option out of three major tournaments including the New York tournament, Dubai tournament, and Oman tournament! Once your tournament is finalized, choose your player and then horse to move forward. Then the time comes when you have to select the difficulty mode out of three options including easy, medium and expert.</div><div><br></div><div>Once all is done, gear up to take a fabulous horse riding on your chosen horse. Make sure to earn extra points for the higher level in this one of the best HTML5 horse riding games. Try to grab as many coins as you can to improve your score! Select the level up since the second mode will have some extra difficulties to face off! Accelerate the speed and do not forget to jump over the obstacles to reach on time in each race in this fun and entertaining horse racing game! Check out more addictive racing games for boys on atmegame.com and play for free online!</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/b9f97197d6574be593099beba64510c5/\r\n",
+      "metaTitle": "Horse Ride Racing Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Horse Ride Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Horse Ride Racing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569524127.xml",
+      "idealFor": "Man",
+      "likes": 265,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 26213,
+      "ownGame": false,
+      "addDate": "2019-09-27T00:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-04-29T05:44:17.370Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W UP ARROW TO SPEED, SPACE TO JUMP"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 60
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad73",
+      "name": "horse",
+      "slug": "horse",
+      "icon": "Horse Riding"
+    }
+  }
+}
