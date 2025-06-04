@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c382",
+      "id": 6381,
+      "name": "Super Steve World",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "super-steve-world",
+      "image": "6381",
+      "url": "super-steve-world",
+      "description": "<div>Almost everybody liked Mario and had enough good time by playing this retro style game for long hours. Today we have got you covered with another challenging and addictive platformer where you have to control Steve on a platform that is full of deadly obstacles. Are you ready to guide him on his amazing adventure? Join Super Steve World and be prepared to help this small and cute boy to clear multiple monsters and obstacles along the way while collecting power ups!</div><div><br></div><div>Try to grab as many coins as you can and do not forget to find out the lives and stars that are hidden in secret places to earn extra lives in this HTML5 adventure game! Be careful and try to jump on the heads of your enemies to kill them! Hurry up! Clock is moving fast so make sure to complete each before time runs out! Try to make him alive until reaches the end of the stage! The physics of this popular retro-styled platformer game is similar to Mario game series.</div><div><br></div><div>Do not forget to collect the hearts and potions for him. Guide Steve to get the potion activated and allow him to throw little fireballs and embers to eliminate a horde of enemies side-scrolling platformer game! Hey! Collecting stars will not go into vain as you can unlock new content using them. Increase your precious life points by grabbing a series of coins in this cool running game! Move him around through arrow keys and fire and jump using X and Z respectively! Good luck to have a blast during your stay at home or free hours at any place!</div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/584937a706ee451dbebe51a147621533/\r\n",
+      "metaTitle": "Super Steve World Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Super Steve World at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Super Steve World Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842334.xml",
+      "idealFor": "Man",
+      "likes": 171,
+      "dislikes": 30,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 62173,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2025-03-26T12:36:08.462Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICON TO JUMP,LEFT TO MOVE ",
+      "webControlKeys": "Z,X TO JUMP,ALLARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
