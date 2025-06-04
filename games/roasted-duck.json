@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b31e",
+      "id": 1775,
+      "name": "Roasted duck",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "roasted-duck",
+      "image": "1775",
+      "url": "roasted-duck",
+      "description": "douglas lost his eggs now he will have to overcome obstacles to find them. available on the computer or smartphone\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/5e07fc242a894bdc86d6fcabe40a8bcf/\r\n",
+      "metaTitle": "ROASTED DUCK, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game ROASTED DUCK at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "ROASTED DUCK Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629580.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 10235,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.696Z",
+      "updatedAt": "2024-03-17T04:21:20.845Z",
+      "__v": 0,
+      "mobileControlKeys": "L-ICONS TO MOVE L-R, R-ICON TO JUMP",
+      "webControlKeys": "W,A,S,D/ALL ARROWS TO PLAY"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
