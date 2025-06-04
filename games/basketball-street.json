@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0aa",
+      "id": 5445,
+      "name": "Basketball Street",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "basketball-street",
+      "image": "5445",
+      "url": "basketball-street",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Out of many amazing online sport games, basketball is one of the most popular ones. If you love to shoot hoops during your playtime, Basketball Street game is surely for you. It teaches how easier it is to enjoy your favorite sport by just coming on the street and throwing the ball into the basket. All you need to do is put your physics and focus skills to test to achieve the goal of the game. Try to your ball as many times as possible to score big in this simple physics-based sports game!</span></div><div><span style=\"font-size: 13.3333px;\">Remember you will have only limited basket balls to shoot. So, try to aim your ball in a way that it can go perfectly through the hoop. Use your mouse to set the angle and through the ball by releasing the button on the right time! Make sure to click the ball and hold the LMB to perform the job. The goal of the game is to score as many baskets as possible you can within the limited time. See how many points you will be able to score in this cool html5 streetball tournament!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">We know that you have the capability to create the best score and add all the achievements to your profile to make it stronger than before. Once you clear each round, a small box will be displayed showing the details about your accuracy, current score and best score. Focus on the screen and try to achieve your goal without losing your life! We have plenty of free physics games for kids and grown-ups on atmegame.com. Good luck to everyone to choose the one that excites your gaming senses to the maximum!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/fb54dc7296c0440ca9e8f137a0edf650/\r\n",
+      "metaTitle": "Basketball Street,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Basketball Street at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Basketball Street Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 90,
+      "dislikes": 9,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 17628,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-01-18T14:09:20.295Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO SELECT THE DIRECTION RELESE TO HIT THE BALL",
+      "webControlKeys": "KEEP PRESS L CLCIK TO SELECT THE DIRECTION ,RELESE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
