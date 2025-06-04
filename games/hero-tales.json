@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfa5",
+      "id": 5174,
+      "name": "Hero Tales",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "hero-tales",
+      "image": "5174",
+      "url": "hero-tales",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Today we are going to take you to a fantasy world where you find nothing but a horde of blood-thirsty souls and magnificent views. Are you ready to accept this difficult challenge? Join Hero Tales game and be ready to enter the battlefield and fight like a warrior! Your objective in this brand new adventure challenge is to incarnate a charismatic and valiant character. The best part is that he is not alone in this adventure-filled journey. You are here to help him and find the way to the victory.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Grab your weapons and be prepared to kill all his deadly enemies! It is not going to be easy at all since each of the enemies you eliminate will disappear from the screen with the draining of your life. All it depends upon how wisely you maintain the balance between your attacks and his life. Do not bother at all as you will find there bananas to regain his life. There will be no shortage for the little apples and hearts along his way in this fantasy RPG platform game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Defeat all multiple monsters by putting all your logical abilities and reflexes to test! Your character will run automatically so you only have to focus on how to guide him to grab items and regain life. Be fast to reach the finish line to complete each level in this best role-play runner games! There are 9 different and additive levels to play online for free without download. Clear the boss as well to prove your ultimate fighting skills to this world!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/564aa314160349eda832c5de159d3315/\r\n",
+      "metaTitle": "Hero Tales,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hero Tales at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Hero Tales Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545866.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7554,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2023-03-13T06:43:53.270Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE UP AND DOWN TO SCREEN TO MOVE THE HERO",
+      "webControlKeys": "L-R ARROW TO CONTROL THE HERO"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
