@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b547",
+      "id": 2393,
+      "name": "1 vs 1 Soccer",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "1-vs-1-soccer",
+      "image": "2393",
+      "url": "1-vs-1-soccer",
+      "description": "try to beat your rival",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/8ea3227da34148c8b61633b5b2121196/\r\n",
+      "metaTitle": "1 vs 1 Soccer, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 1 vs 1 Soccer at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "1 vs 1 Soccer Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524808838.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 10373,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-03-24T14:36:49.177Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS AND HOLD TO MOVE, TAP ON RIGHT SCREEN TO JUMP",
+      "webControlKeys": "W,A,D TO MOVE LEFT PLAYER, UP , L-R ARROWS TO MOVE RIGHT PLAYER"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
