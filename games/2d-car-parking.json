@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c338",
+      "id": 6264,
+      "name": "2D Car Parking",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "2d-car-parking",
+      "image": "6264",
+      "url": "2d-car-parking",
+      "description": "<div>Parking a car at a destined location is a sign of a good driver. However, not all drivers can manage to complete this task on their own so they need help from someone else. We have today got you covered with a brand new racing game where you will get a chance to improve your car parking abilities to the optimum level. So why do you need to wait anymore? Join 2D Car Parking and be prepared to play with multiple car vehicles in an ultimately tough environment!</div><div><br></div><div>Each level has its own difficulties and complexities and the challenges will begin right from the first level. Guide your vehicle to find a perfect way to park in each level and show off the world that you are an expert driver in this HTML5 parking game! Test your parking skills, pass your training test, and get ready to earn the respect in the eyes of your friends and families! Remember the complexities of the level will keep increasing with each passing level.&nbsp;</div><div><br></div><div>It is important to calculate your every move to complete all 12 unique and tricky levels of this one of the best parking games for boys and girls. Realistic physics, 2D perspective view, and easy controls, what more you want to keep you engrossed for hours. Be careful and keep your eyes on the screen to park your vehicle at the highlighted spot without hitting any objects! There are multiple levels and car models to play through in this fun parking game.&nbsp;</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/e9484e53584f47efb8145913e5316f3c/\r\n",
+      "metaTitle": "2D Car Parking Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game 2D Car Parking at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "2D Car Parking Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579515784.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8333,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:53:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-01-07T15:37:16.058Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ALL ARROWS, W, A,S,D TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "1.8",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
