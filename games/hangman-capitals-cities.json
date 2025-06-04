@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd83",
+      "id": 4619,
+      "name": "Hangman Capitals Cities",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "hangman-capitals-cities",
+      "image": "4619",
+      "url": "hangman-capitals-cities",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Nothing could be more useful than getting your child engaged in online educational games for kids! Today we have brought to you a brand new arcade challenge where you and your kids would not only have fun, but it will also allow you to improve your knowledge about the capital cities of the entire world. Are you ready to take on this challenge right away? Join Hangman Capitals Cities and be prepared to enhance your knowledge about the capital cities of the entire world!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this cute html5 puzzle challenge is to guess the capital cities of the world while avoiding your character to be hanged. Remember your every wrong answer will put him close to his death. Give it a try to learn if your city is available in this game! Try to solve as many capital city puzzles as you can to avoid being hanged and score higher in the end! Do not forget to click the “Enter” button when you guess letter one at a time.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">One thing more that you will be allowed to guess wrongly as equal as the length of world you have to find out in this fun education game for kids. Keep your eyes on the screen to know how many bad guesses you will have remaining! Check out more word find games on our website to boost your memory and improve your word power without download! The best part is that all our arcade school games are free and playable on multiple devices that include desktops, and mobile phones.&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/6fb8ed304662433ab93ebe7453aa1f75/\n",
+      "metaTitle": "Hangman Capitals Cities , Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hangman Capitals Cities  at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Hangman Capitals Cities  Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6946,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-03-20T01:49:33.568Z",
+      "__v": 0,
+      "mobileControlKeys": "GUESS THE CORRECT  WORD AND TAP TO TYPE",
+      "webControlKeys": "GUESS THE CORRECT WORD AND TYPE BY L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
