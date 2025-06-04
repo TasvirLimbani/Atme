@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c416",
+      "id": 6534,
+      "name": "Virus Attack",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "virus-attack",
+      "image": "6534",
+      "url": "virus-attack",
+      "description": "<div>Oh no! A highly infectious virus has entered this computer and you have no choice but dodging the virusy attacks. Now it is up to you how quickly you respond and clear the computer from this deadly virus! Join Virus Attack challenge and be prepared to play the role of a little antivirus! Does not it sound pretty challenging and funny? Your objective in this brand new arcade game is to dodge the virusy attacks and destroy it timely before it damages the entire system.</div><div><br></div><div>Move your hero along the sides of the screen in this HTML5 computer game! Weave a line by pressing and holding the space bar and do not forget to claim the percentage of the screen shown in the given box to clear the level. Make sure to keep you away from being caught by the viruses while weaving. Put every possible effort to make this system healthy again! Cover the portions of the screen by connecting walls in this classic arcade game!</div><div><br></div><div>Be careful and try to fill up enough of the screen to clear the present level and reach to the advanced one! Weave around to grow your territory while avoiding the viruses! There are higher possibilities of taking you down by the deadly bacterial when you dare to claim enough of the screen. Rescue all the trapped Numskulls, capture space back from the dangerous enemies, and stay away from the evil viruses! Use the best strategy to kill the coronavirus! Check out other tricky and engaging free arcade games and have a blast with your friends without download!</div>",
+      "size": 550,
+      "height": 800,
+      "script": "https://games.atmegame.com/games/virus-attack/",
+      "metaTitle": "Virus Attack Game, Puzzle - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Virus Attack at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Virus Attack, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 536,
+      "dislikes": 55,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 193588,
+      "ownGame": true,
+      "addDate": "2020-07-19T13:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-04-16T10:34:48.289Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO MOVE THE HERO AND WEAVE THE LINE,TAP ON SCEEN TO STOP[ TYHE HERO MOVEMENT,CLAIM THE % OF AREA, TRY TO AVOID THE TOUCH OF VIRUS.",
+      "webControlKeys": "ALL ARROWS - MOVE THE HERO SLIDE ON THE SCREEN,SPACE-WEAVE THE LINE,CLAIM THE % OF AREA,TRY TO AVOID THE TOUCH OF ANIMAL"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 65
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
