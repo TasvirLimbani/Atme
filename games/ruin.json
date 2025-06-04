@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c24c",
+      "id": 5980,
+      "name": "Ruin",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "ruin",
+      "image": "5980",
+      "url": "ruin",
+      "description": "<div>Are you an ardent fan of online arcade games? Do you love in spending most of your time to solve out the complex puzzles? If your answer is yes for both questions, nothing could work better than checking out this brand new free online game – Ruin. There are various levels to explore where each advanced level has the more challenging puzzles than the previous one. With 100 levels, you are sure to improve your brain power after playing this point and click game for some hours.&nbsp;</div><div>Start it with swiping the characters towards the right, left, up and down direction to move on. Your primary job in this cool HTML5 game is to match the characters to clear each level. Try to complete each level with the least possible efforts to secure 3 stars in this one of the best matching games for kids! You can play this strategy game in all major modern web browsers. Put your match and brain skills to test to achieve the goal of the game!</div><div>The graphics are awesome and controls are easy. You will also be able to enjoy the immersive experiences under the high quality graphics and seamless gameplay. We bring you here the best arcade game where gamers of all ages are welcome to have fun. At our free online website, you will be able to explore more games that include the simple to complex puzzles to be sorted out. Give our all games a try to find out a suitable one for you!</div>",
+      "size": 450,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/20faf635d18a412796362204e3088082/\r\n",
+      "metaTitle": "Ruin,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ruin at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ruin Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762742.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8832,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.757Z",
+      "updatedAt": "2024-08-31T18:39:09.398Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE BOXEX SO THAT THEY CAN BE IN ONE LINE TO BRUST ",
+      "webControlKeys": "DRAG THE BOXEX SO THAT THEY CAN BE IN ONE LINE TO BRUST "
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
