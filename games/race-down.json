@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c16b",
+      "id": 5663,
+      "name": "Race Down",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "race-down",
+      "image": "5663",
+      "url": "race-down",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you ready to dive into the pool of adventurous world? Join Race down and get ready to put your ultimate adventure skills to test! In this brand new adventure game, you have to race your vehicle down without leaving the platforms that you see on the screen. Make sure to collect as many coins as you can while driving on the platforms. Remember your game will be over in case if hit the bottom or top of the screen of your PC, mobile phone or other gaming device.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">The process of this newly developed free online game is pretty simple and all you need is to apply your brain and concentration skills to achieve the objective of the game. Use arrow keys or mouse when you play this car game in your PC or tap the screen if you explore it on your mobile phone. Ambitious opponents and regular roads will not be there to welcome you. Get ready to travel your vehicle towards the down!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">The maximum number of platforms you pass; the higher score you will be able to set on the board in the end of this cool HTML5 platform game. Each platform allows you to earn 10 points. Do you think that you have the skills to maneuverer a vehicle in a unique way? Start playing this free online car game now to kill your boring hours with ease! Check out more fun car driving games on our free game website to enjoy to the fullest!</span></div>",
+      "size": 480,
+      "height": 854,
+      "script": "https://html5.gamedistribution.com/414310422dfb4bf6b2d03b9e069866e1/\r\n",
+      "metaTitle": "Race Down,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Race Down at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Race Down Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1556791949.xml",
+      "idealFor": "Man",
+      "likes": 27,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9718,
+      "ownGame": false,
+      "addDate": "2019-05-02T15:42:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2024-12-17T21:56:40.299Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP LEFT RIGHT OGF SCREEN TO CONTROL THE CAR",
+      "webControlKeys": "LEFTY CLICK OF MOUSE OR L-R ARROW TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
