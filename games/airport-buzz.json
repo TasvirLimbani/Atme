@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b916",
+      "id": 3440,
+      "name": "Airport Buzz",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "airport-buzz",
+      "image": "3440",
+      "url": "airport-buzz",
+      "description": "Take control of busy airports from around the world in this fun free to play management game, Airport Buzz!\r\n",
+      "size": 700,
+      "height": 465,
+      "script": "https://html5.gamedistribution.com/812514e5248944319187284ae78db311/\r\n",
+      "metaTitle": "Airport Buzz, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Airport Buzz at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Airport Buzz Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536575276.xml",
+      "idealFor": "Man",
+      "likes": 63,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 16599,
+      "ownGame": false,
+      "addDate": "2018-09-10T15:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-08-08T08:58:12.420Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP AND FOLLOW THE INSTRUCTIONS TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE AND FOLLOW THE INSTRUCTIONS TO PLAY GAME"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
