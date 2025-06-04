@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba3c",
+      "id": 3759,
+      "name": "Cowboys vs Martians",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "cowboys-vs-martians",
+      "image": "3759",
+      "url": "cowboys-vs-martians",
+      "description": "Help the cowboy to shoot all Martians! Be wise, use ase few bullets as you can and use the environment in your advantage!",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/cowboys-vs-martians-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Cowboys vs Martians Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cowboys vs Martians at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Cowboys vs Martians Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8281,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2024-02-03T07:18:26.448Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO AIM AND SHOOT THE MARTIANS",
+      "webControlKeys": "MOUSE TO AIM, L CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
