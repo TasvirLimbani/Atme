@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8ea",
+      "id": 3390,
+      "name": "Planet Guardian",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "planet-guardian",
+      "image": "3390",
+      "url": "planet-guardian",
+      "description": "Protect the planet from the invasion of enemy spaceships and try not to hurt your allies.\r\n",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/706a2b913e5c48148dc8d0f3519803a9/\r\n",
+      "metaTitle": "Planet Guardian, Adventure Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Planet Guardian at atmegame.com ! We have selected this action games for best excitement and thrill in you!",
+      "metaKeyword": "Planet Guardian Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533887535.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8551,
+      "ownGame": false,
+      "addDate": "2018-08-10T13:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.722Z",
+      "updatedAt": "2024-08-30T22:00:59.077Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE  SCREEN TO MOVE THE GUN",
+      "webControlKeys": "MOUSE TO MOVE THE GUN"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
