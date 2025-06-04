@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b61f",
+      "id": 2630,
+      "name": "Voxel Fly",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "voxel-fly",
+      "image": "2630",
+      "url": "voxel-fly",
+      "description": "<div><div>This time again you are going to have a lot of fun and entertainment in the first version of a popular game series – Pixel Gun Apocalypse. Tons of powerful weapons, 10 amazing maps, highly exciting and thrilling moments between life and death, pixel graphics, Minecraft environment, non-stop action and many more to be explored in Pixel Gun Apocalypse 5. Choose from amazing three modes and get ready to take yourself to a new level of pleasure in this free online action-packed 3D multiplayer game.</div><div><br></div><div>Reach to certain levels, unlock new weapons and players and enjoy different game experiences. In this brand new FPS game, you will be able to fight and kill players from different parts of the world. In order to make your match more challenging and interesting, you can also take a ride on a beautifully-crafted helicopter. You must try this cool video game in your browser today especially if you are a big fan of Minecraft and shooting games. Play a zombie mode and learn how to dominate your opponents.&nbsp;</div><div><br></div><div>Jump into the real action and begin making yourself popular amongst the gaming community! Developed by Mentolatux, Pixel Gun Apocalypse 5 is a popular web browser game that features seamless gameplay, awesome graphics and easy controls such as WASD to move, left click to shoot, R to reload, Shift to sprint, Ctrl to prone and C to crouch. This game is made with the help of WebGL technology that allows it run smoothly in most browsers.&nbsp;</div></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/voxel-fly/index.php",
+      "metaTitle": "Voxel Fly, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Voxel Fly at atmegame.com ! We have selected this flying games for best excitement and thrill in you!",
+      "metaKeyword": "Voxel Fly Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 7125,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-02-25T08:23:43.744Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
