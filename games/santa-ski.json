@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad63",
+  "category_name": "skating",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad63",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0ba",
+      "id": 5463,
+      "name": "Santa Ski",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "santa-ski",
+      "image": "5463",
+      "url": "santa-ski",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Christmas is just around the corner and all your preparations have been done. However, suddenly you have remembered that you cannot celebrate Xmas without playing a game that feature your favorite Santa. To make your X-mas celebration the memorable one, here we have come today with a brand new sports game “Santa Ski”. So, what are you waiting for? Get your snowboard, ice skates and skis ready to create your unique and surprising records on the ice!</span></div><div><span style=\"font-size: 13.3333px;\">No need to put extra efforts to have fun and thrill! You can make your score by just tapping on purple and yellow strips. Dot not forget to tap and hold to grab the power booster in this cool html5 skating game! If you find the gameplay confused, give you some time to go through the tutorial mode to understand it perfectly. Try to grab enough stars over the three successful jumps to keep you forwarded to the next level in this fun high score game!</span></div><div><span style=\"font-size: 13.3333px;\">This Santa can skate, snowboard, and more. But, he needs your help to top the leaderboards in this one of the latest Christmas themed games. Do everything possible right from flying off huge jumps, grinding on rails to hitting boosts! A perfect timing and jumping ability will be enough to help him get a high score. Try to master your timing to obtain a score that is more than 40! Show off your ultimate racing skill to make Santa feel proud on you!&nbsp;</span></div>",
+      "size": 500,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/2a3940e4c3524122bd8b223a166d585e/\r\n",
+      "metaTitle": "Santa Ski,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Santa Ski at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Santa Ski Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449153.xml",
+      "idealFor": "Man",
+      "likes": 74,
+      "dislikes": 12,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13541,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-05-31T09:40:05.469Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SANTA WHEN IT REACHES ON YELLOW STRIP TO BOOST",
+      "webControlKeys": "L CLICK ON SANTA WHEN IT REACHS ON YELLOW STRIPS TO BOOST"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad63",
+      "name": "skating",
+      "slug": "skating",
+      "icon": "skating-games"
+    }
+  }
+}
