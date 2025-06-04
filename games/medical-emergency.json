@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b35c",
+      "id": 1839,
+      "name": "Medical Emergency",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "medical-emergency",
+      "image": "1839",
+      "url": "medical-emergency",
+      "description": "It is your time to save all the injured victims in accidents, so get behind the wheel of your emergency van and drive around the city as fast as you can, collecting points and parking correctly. You will have a very fun mini-game in which you can give first aid to victims. As you progress in the game the levels will become more challenging, but you could cope if you buy yourself some upgrades and fill up your medical kit. Have a lot of fun playing Medical Emergency!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=0ebf197205c00fc6e0aac7261a8c1bdc\r\n",
+      "metaTitle": "Medical Emergency, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Medical Emergency at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Medical Emergency Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630386.xml",
+      "idealFor": "Man",
+      "likes": 33,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9711,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:03:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2024-03-12T08:37:34.203Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "2.9",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
