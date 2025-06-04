@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1d3",
+      "id": 5786,
+      "name": "Monster City",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "monster-city",
+      "image": "5786",
+      "url": "monster-city",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The entire city is captured by a horde of gangsters and other dangerous villains. An unexpected massacre is everywhere, so it?s your job now to help your city people by fighting against the bad guys of the city. Hope you are ready to accept this challenge and prove the world that you are a kind-hearted person who always thinks about saving the humanity! Join Monster City and get ready to say goodbye to the old-fashioned monster games! These cute and friendly monsters will be enough to keep you occupied for hours!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">It will be a great fun for sure when you will get a chance to discover and catch monsters! In this free online action game, you also have to take care of powering up your monsters to get them ready for battle against the opponents. Use your brain while teaming up with these adorable monsters who are not going to show any sympathy and kindness over the ruthless bad guys! You are sure to have a great fun in building your land of imagination in your own way. </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">With multiple levels and 3 character skins, there is more to explore in this 3d action game for kids! Train your monsters and also feed them while getting them ready for their dangerous opponents! Don?t hesitate in crossbreeding to obtain exotic, rare, new and legendary monsters. Villagers will help you to feed the monsters. So, use their assistance and build a team of your lovely monsters. Also play this mobile fighting game in android and iOS devices!</span></div>",
+      "size": 960,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/8c3726b3598d4161b4b203bb166394ef/\r\n",
+      "metaTitle": "Monster City,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Monster City at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Monster City Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557761388.xml",
+      "idealFor": "Man",
+      "likes": 34,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8872,
+      "ownGame": false,
+      "addDate": "2019-05-13T20:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.755Z",
+      "updatedAt": "2025-04-26T21:18:49.010Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TOP MOVE, X- ATTACK,SPACE-JUMP,L ALT-PAUSE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
