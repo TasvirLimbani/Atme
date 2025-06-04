@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8a",
+  "category_name": "best",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682adc7",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c41d",
+      "id": 6541,
+      "name": "Halloween Bubble Shooter",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "halloween-bubble-shooter",
+      "image": "6541",
+      "url": "halloween-bubble-shooter",
+      "description": "<div>We generally start seeking fun ideas on how to celebrate Halloween several months before the holiday. Today we have brought to you a brand new arcade challenge where you can celebrate the spirit of your favourite festive season while also having great fun by shooting the colourful bubbles that feature Halloween prints and themes. Pick up a boiling cauldron and get ready to shoot the colourful bubbles in Halloween Bubble Shooter! Join it now to put you in the festival spirit!</div><div><br></div><div>Your objective in this HTML5 bubble game is to match three or more of the same colour bubbles to make them disappear from the board. Keep doing it until you clear the board before it your bubbles touch or hit the imaginary line of the bottom! Hey! Completing your job as fast as possible will reward you with a time bonus! Track your score by having a look at the bottom of the screen while the upper side of your screen will show you the number of power-ups you have collected so far!</div><div><br></div><div>Put your matching abilities to the test to set your own high score and finish all the levels with the maximum score possible! There are 100 unique and challenging levels to play through and keep you engrossed for hours. Remove all of the bubbles with a limited number of turns and prove yourself as the biggest bubble shooter of your city! Take your time in aiming your shots to get the job perfectly in this bubble shooter challenge! Try out other free arcade games to have fun without download!</div>",
+      "size": 420,
+      "height": 750,
+      "script": "https://games.atmegame.com/games/halloween-bubble-shooter/",
+      "metaTitle": "Halloween Bubble Shooter Game, Platform - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Halloween Bubble Shooter at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Halloween Bubble Shooter, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 2793,
+      "dislikes": 420,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 996409,
+      "ownGame": true,
+      "addDate": "2020-07-25T20:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-04-03T04:53:47.802Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO SHOOT THE BUBBLE",
+      "webControlKeys": "LEFT CLICK TO SHOOT THE BUBBLE"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 442
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682adc7",
+      "name": "bubble-shooter",
+      "slug": "bubble-shooter",
+      "icon": "icon-iconAsset-56"
+    }
+  }
+}
