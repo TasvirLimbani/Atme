@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba4c",
+      "id": 3775,
+      "name": "Big Monsters",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "big-monsters",
+      "image": "3775",
+      "url": "big-monsters",
+      "description": "In this awesome HTML5 game Big Monsters, you control a monster truck! Drive monster trucks, crush cars and do incredible stunt, collect coints and get a cooler, bigger and better monster truck! Can you get trough all the levels?",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/big-monsters-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Big Monsters, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Big Monsters at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Big Monsters Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 21,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9959,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2024-03-21T11:34:05.137Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICON-BREAK, R ICON- SPEED",
+      "webControlKeys": "RIGHT ARROW- MOVE, L ARROW TO GO BACK"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
