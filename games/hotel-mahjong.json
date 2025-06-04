@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bab5",
+      "id": 3889,
+      "name": "Hotel Mahjong",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "hotel-mahjong",
+      "image": "3889",
+      "url": "hotel-mahjong",
+      "description": "Your favorite hotel offers you music, relax and majoring&#33; Match two identical titles to remove them&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/hotel-mahjong-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Hotel Mahjong, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hotel Mahjong at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Hotel Mahjong Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 20,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8530,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2024-12-21T18:08:40.367Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SAME KIND OF MAHJONG TO MAKE THE MATCH",
+      "webControlKeys": "L CLICK OF MOUSE ON THE SAME KIND OF MAHJONG TO MAKE THE MATCH"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
