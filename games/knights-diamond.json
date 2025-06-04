@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b49e",
+      "id": 2193,
+      "name": "Knights Diamond",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "knights-diamond",
+      "image": "2193",
+      "url": "knights-diamond",
+      "description": "With awesome graphics and addictive game play Knights Diamond has 9 Levels. You have to collect diamond and get to the door to clear the levels. 4 DIFFERENT KNIGHT CHARACTERS Shoot boxes, kill enemies to collect coins and unlock new characters. COOL POWERS Shoot boxes collect some cool powers sword, shield, health GET DIAMOND Open treasure box to collect diamond and open door with that. AWESOME ENEMIES stab/kill 5 different types of skeletons DARK THEME/MUSIC To give a old look...made backgrounds looks a like cave/dungeons TIMER To make game more addictive you have to clear the level within 2 minutes. (After second level)\r\n",
+      "size": 1150,
+      "height": 660,
+      "script": "https://games.atmegame.com/games/gg/knight-diamonds/",
+      "metaTitle": "Knights Diamond, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Knights Diamond at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Knights Diamond Game, Action Games, fighting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1523600544.xml",
+      "idealFor": "Man",
+      "likes": 178,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 86062,
+      "ownGame": true,
+      "addDate": "2018-04-13T11:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2025-02-12T12:27:40.401Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS TO ATTACK AND JUMP, L ICONS TO MOVE L-R",
+      "webControlKeys": "ALL ARROWS TO MOVE , SPACE TO HIT"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 29
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
