@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c02a",
+      "id": 5312,
+      "name": "Hostage Rescue",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "hostage-rescue",
+      "image": "5312",
+      "url": "hostage-rescue",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You are an ultimate shooter. So, the government of your country has sent you on a mission where you have to rescue 10 hostages. Do you think that you are ready for this challenge? Join Hostage Rescue and get ready to play the role of a cunning and sharp shooter! Put your fighting and shooting skills to test to complete all your missions in this brand new action packed challenge! Give your best to rescue all the hostages and avoid taking any damage!</span></div><div><span style=\"font-size: 13.3333px;\">You can out of ammo during the gameplay. Do not bother if this happens as you can reload your gun by pointing your gun down and up quickly! Once your gun is load, get ready to shoot him until he lies on the ground. Do not forget to grab the health packs by shooting them. You can use them later when you fight against your enemies. The good thing is that the health packs can be applied automatically. Your job is not over here. You also have to rescue hostages by targeting all the restraints applied on them. Try not to harm the hostage otherwise you will lose!</span></div><div><span style=\"font-size: 13.3333px;\">Your fast wits and reflexes will work to place you on the path of victory in this classic first person shooter game. Show off your ultimate fighting skills to make your way and get through all kinds of thugs and enemies! Be attentive and try to move stealthily and dive into the fierce fire battle in this one of the best fighting games! Make sure to dispatch all the guards as proficiently as possible. Eliminate all your oppositions to collect money and purchase new weapons at your disposal in this html5 shooter game!</span></div>",
+      "size": 640,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/33fd9dfe443b47c0a96e18d308e95dfc/\r\n",
+      "metaTitle": "Hostage Rescue,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hostage Rescue at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Hostage Rescue Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352477.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 10019,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:11:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.749Z",
+      "updatedAt": "2024-09-01T18:26:59.196Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
