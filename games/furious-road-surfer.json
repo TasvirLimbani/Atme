@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfeb",
+      "id": 5249,
+      "name": "Furious Road Surfer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "furious-road-surfer",
+      "image": "5249",
+      "url": "furious-road-surfer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Your wait is over if you are seriously a true car racing fan. Yes, today we have brought to you a latest racing game where you can take your obsession for speed to a completely new level. All it takes a few clicks over Furious Road Surfer and you can see yourself controlling a beautifully-designed four-wheeler. Be careful when you start the engine of your car as the road is also shared by other vehicle owners. Your quick reflexes and good control on the keys will help get through all the obstacles and set your own high score.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this one of the best racing games is to dodge other trucks and cars when you put your finger on the accelerator. Join this fun challenge and be prepared to race against the AI in a wonderful Racing Face-Off. Covering long distance over this track that is full of challenges will surely help you earn the respect of your fellow drivers. There are different game modes to explore and race your car against different expert racers.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Collect the maximum possible points to buy new car models and upgrade your ride to have more thrill and fun. It takes a lot to beat every driver on the road and wear the crown of the winner in this amazing html5 race game. Avoid your car from being collided with other vehicles. Put your intense driving skills to test to be a perfect driver in this highly addictive car driving game. Check out our website, browse our extensive racing games category and spot some more interesting free driving games.&nbsp;</span></div>",
+      "size": 900,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/652b04713fc84630aaf02761ef723c2b/\r\n",
+      "metaTitle": "Furious Road Surfer,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Furious Road Surfer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Furious Road Surfer Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352188.xml",
+      "idealFor": "Man",
+      "likes": 24,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12081,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.748Z",
+      "updatedAt": "2024-07-29T11:37:17.707Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING IN MOBILE PROPERLY",
+      "webControlKeys": "A,,D L-R ARROW TO CONTROL"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
