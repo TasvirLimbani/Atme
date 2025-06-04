@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf5f",
+      "id": 5102,
+      "name": "Run Santa Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "run-santa-run",
+      "image": "5102",
+      "url": "run-santa-run",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Christmas holidays have just begun and all individuals including kids look pretty excited to get their presents from the cute and all-favorite Santa. However, an unexpected problem arises as Santa lost all gifts for kids. He is feeling very embarrassed and looking for immediate help. Do you think that you are the right candidate for this job? Join Run Santa Run and get ready to help him to find every gift he missed mistakenly! Make sure that every kid should have his gift as every child is special for Santa.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this cool adventure game is to help Santa collect multiple gifts on the path. Remember the path is full of various obstacles that would try to stop him from moving forward. Be careful all the time and try to beat all the monsters you meet during the gameplay! Make him jump through arrow keys and let make him throw the bomb using the space key! Try to collect as many gifts and presents as you can to complete your mission successfully and set a new high score!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The snowy weather, Christmas music and colorful graphics combined with easy controls and seamless gamplay will surely help you get connected with the game for hours. It is up to you how to help this Christmas celebrity to accomplish his mission and bring the matchless smile on the faces of all the kids Santa loves. Check out more Christmas games online on atmegame.com and allow yourself to enjoy for hours and hours without download apps or software! Have fun for free, no download required!</span></div>",
+      "size": 720,
+      "height": 600,
+      "script": "https://m.shtoss.com/game/run-santa-run/index.html",
+      "metaTitle": "Run Santa Run,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Run Santa Run at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Run Santa Run Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7036,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-02-02T09:31:52.293Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L-R ARROWS TO CONTROL THE SANTA"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
