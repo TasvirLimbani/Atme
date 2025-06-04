@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b53b",
+      "id": 2381,
+      "name": "FlickingSoccer",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "flickingsoccer",
+      "image": "2381",
+      "url": "flickingsoccer",
+      "description": "Are you a nostalgic of Subbuteo? Flicking Soccer is what you were looking for! Choose your team, score more goals than your opponent and win all the matches!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/33368f1af4f047f18cd17295d7ff507c/\r\n",
+      "metaTitle": "FlickingSoccer, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game FlickingSoccer at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "FlickingSoccer Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524808838.xml",
+      "idealFor": "Man",
+      "likes": 51,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 11260,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-08-04T09:04:29.544Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO SELECT THE DIRECTION, RELESE TO HIT THE BALL",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SELECT THE DIRECTION, RELESE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
