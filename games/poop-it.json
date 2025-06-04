@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba2a",
+      "id": 3740,
+      "name": "Poop It",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "poop-it",
+      "image": "3740",
+      "url": "poop-it",
+      "description": "Poop it is a funny HTML5 game where you have to challenge yourself against the time! Can you splash and match enough poops? Be aware, you may get a laugh kick!",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/poop-it-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Poop It Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Poop It at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Poop It Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 13,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7599,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2025-01-14T00:20:04.493Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON POOP- TO CRUSH",
+      "webControlKeys": "L CLICK OF MOUSE ON POOP TO CRUSH"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
