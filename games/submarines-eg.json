@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4e0",
+      "id": 2264,
+      "name": "Submarines EG",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "submarines-eg",
+      "image": "2264",
+      "url": "submarines-eg",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The beautiful world of underwater awaits you in this brand new action-packed challenge! You are the captain of a ship and looking forward to stay in the sea for long. However, the problem is that multiple submarines do not want to see in that place and try every possible effort to sink your ship. Would you think that you have enough guts to challenge them through your insane ship operating skill? Join Submarines EG and be prepared to eliminate submarines and dodge missiles!</span></div><div><span style=\"font-size: 13.3333px;\">Put your fingers on the arrow keys to move your ship left and right to avoid the missile attack! Do not forget to use the space key to release the mines on the enemy submarines in this brand new action game! Plan a strategy to clear your enemies from the sea as fast as you can! You need to be careful all the time to avoid being hit by an incoming projectile. The complexities will keep increasing as you progress throughout the game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Move your ship around the screen and keep your eyes on the screen to avoid the multiple waves of missiles! Control the shop at the top of the water and make sure that you keep it away from a slew of missile and submarines in this HTML5 shooting game! Do not let your enemies capture your ship otherwise you would have no other option rather than leaving the ocean! Follow the instructions properly to survive for as long as possible to score high in the end!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/e9126a64ee61416bb4ac67e1b174fecf/\r\n",
+      "metaTitle": "Submarines EG, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Submarines EG at atmegame.com ! We have selected this shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Submarines EG Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11146,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-03-31T09:04:51.582Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT LOADING PROPERLY",
+      "webControlKeys": "L-R ARROWS TO MOVE L-R,SPACE TO DROP BOMB"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
