@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b539",
+      "id": 2379,
+      "name": "Funny Soccer Game",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "funny-soccer-game",
+      "image": "2379",
+      "url": "funny-soccer-game",
+      "description": "Funny Soccer is a HTML5 Sport Game. Choose your favourite Soccer Team and kick the ball into the net!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/b12d1d6e10624959a15c8583051fffd1/\r\n",
+      "metaTitle": "Funny Soccer Game, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Funny Soccer Game at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Funny Soccer Game Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524808838.xml",
+      "idealFor": "Man",
+      "likes": 56,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 13772,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2025-05-16T13:34:47.114Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS TO MOVE, RIGHT ICONS TO KICK THE BALL",
+      "webControlKeys": "L-R ARROWS TO MOVE, Z/X - KICK"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
