@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3f5",
+      "id": 6500,
+      "name": "Halloween Island Running",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "halloween-island-running",
+      "image": "6500",
+      "url": "halloween-island-running",
+      "description": "<div>The cute boy has been kidnapped by the indigenous people who are looking forward to celebrate Halloween on the island. You are his only hope so try to give your helping hands to him and guide him to escape this deadly place. Join Halloween Island Run and help the cute boy to run on a platform that is full of obstacles and reach him safely back to his home! Be fast and make sure not to let him become the dinner of the locals on this festival in this brand new adventure game!</div><div><br></div><div>Swipe left or right to avoid the obstacles in this HTML5 running game! You can also help your character to jump timely to beat the hindrances along the way. Do not forget to collect the coins to unlock other 3 unique and interesting characters later. It is up to you how to save him from being caught by a horde of deadly locals who have only a mission to kill him. You are sure to have the same fun and thrill like as you experienced in the popular running game Subway Surfers.</div><div><br></div><div>Do not bother you know where to go to escape in in this island. All you need to do is make this boy run fast to escape from this place and back home to have a wonderful Halloween time with his family. Common boys! We know that you are skilled enough to survive in this dangerous world problems are available at every step. Good luck to avoid all the hindrances confidently and survive like a true champion in this awesome Halloween game!</div>",
+      "size": 900,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/5cfe6d83b61a4832bc4de2940ffc3bfa/\r\n",
+      "metaTitle": "Halloween Island Running Game, Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Halloween Island Running at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Halloween Island Running Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842581.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7087,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2024-08-19T09:40:42.134Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,UP ARROW-JUMP,S,DOWN ARROW-ROLL,A,D,L-R ARROW TO LEFT RIGHT,SPACE TO RESTART"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
