@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 0,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aedc",
+      "id": 437,
+      "name": "Cricket Fielder Challenge",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "cricket-fielder-challenge",
+      "image": "437",
+      "url": "Cricket-Fielder-Challenge",
+      "description": "<p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\">When playing the online cricket game along with other aspects like batting and bowling, one important feature of the game is fielding as well that to a larger extent that has been lost and forgotten in the present times when the entire focus of the game is towards batting and bowling. The online cricket game, cricket fielder challenge is much focused towards fielding that had been the neglected part of cricket game to the present time and attitude.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\"><span style=\"background-color: transparent;\">In the cricket fielder challenge game, you have to act as a wicket keeper and defend the wicket by catching the ball shot by the opponent player in the game. For catching the game, there are three different chances are provided to getting the ball within the gloves. In case, if you miss the ball, you even miss the opportunity as well to win the game. For, playing the game as far as for game control you use the mouse to move the glove in this online game.</span><br></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><span style=\"background-color: transparent;\"><font size=\"2\" face=\"verdana\" color=\"#000033\">In order to remain in tandem, your eye should be fully alert toward the batsman?s stroke play. Being attentive towards the stroke, you will always be in right position to grab the ball within your grab.</font></span><br></p>",
+      "size": 790,
+      "height": 790,
+      "script": "https://h5.4j.com/Cricket-Fielder-Challenge/index.php?pubid=O7WHB66U",
+      "metaTitle": "Cricket Fielder Challenge, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Cricket Fielder Challenge is a reputed online cricket game that along with important aspects of batting and bowling is centred on fielding as well too.",
+      "metaKeyword": "Cricket Fielder Challenge, Sports, Cricket Games, Cricket Fielder Challenge Online Game, Play Free Games, Online Cricket Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 772,
+      "dislikes": 75,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 221206,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2025-04-21T18:22:18.535Z",
+      "__v": 0,
+      "mobileControlKeys": "MOVE THE FINGURE TO CONTROL THE GLOVES TO STOP THE BALL",
+      "webControlKeys": "MOVE THE MOUSE TO CONTROL THE GLOVES TO STOP THE BALL"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 75
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
