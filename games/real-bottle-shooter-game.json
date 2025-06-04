@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2a1",
+      "id": 6090,
+      "name": "Real Bottle Shooter Game",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "real-bottle-shooter-game",
+      "image": "6090",
+      "url": "real-bottle-shooter-game",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Wow! A brand new bottle shooter has started trending all across the web today due to its amazing gameplay, easy controls and lovely graphics. Have you not given it a try yet? If not, join Real Bottle Shooter and be prepared to put your hands on the highly addictive and challenging fun challenge. Your objective in this latest action-packed game is to break the bottles by applying your amazing shooting abilities. Make sure to clear all the bottles to pass each level.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You have enough bullets to use, but make sure to complete your task with as minimum as possible to clear each level with the maximum possible score. Try to be as fast as you can since this 3D free online shooting challenge is time-based! Aim carefully before shooting the bottles and prove yourself as a pro shooter! This amazing bottle shooting crazy simulator features 45 unique and amazing levels to play through. So, you have plenty of choices to practice your shooting skills.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This epic fun bottle shooting challenge is pretty different from other boring types of bottle breaking and action games. Clear each level, earn points and do not forget to use them to upgrade more destructive and powerful bottle blaster weapons! This 3D shooting game requires your attentiveness and fabulous hand-eye coordination skills. Many colourful bottles, high quality graphics and easy controls will be enough to keep you engrossed for hours. Good luck friends to enjoy many more&nbsp;</span></div><div><br></div>",
+      "size": 900,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/f9f330147ffb4375ba7cd930d1a6a8ec/\r\n",
+      "metaTitle": "Real Bottle Shooter Game, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Real Bottle Shooter Game at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Real Bottle Shooter Game Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442796.xml",
+      "idealFor": "Man",
+      "likes": 27,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8343,
+      "ownGame": false,
+      "addDate": "2019-09-26T01:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-02-07T09:49:58.659Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "LEFT CLICK OF MOUSE-SHOOT"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
