@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b40d",
+      "id": 2039,
+      "name": "Mermaid Princess Hospital Recovery",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "mermaid-princess-hospital-recovery",
+      "image": "2039",
+      "url": "mermaid-princess-hospital-recovery",
+      "description": "Oh no, the mermaid princess got herself in trouble again, she got injured while escaping a shark attack! Take her to the underwater hospital, cut off the net shes trapped in, remove the splinters, disinfect her injuries and give her the right treatment. With your help shell be back to treasure hunting in no time!",
+      "size": 800,
+      "height": 600,
+      "script": "//cdn.witchhut.com/html5/games/mermaid-princess-hospital-recovery/190.html",
+      "metaTitle": "Mermaid Princess Hospital Recovery, Doctor Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mermaid Princess Hospital Recovery at atmegame.com ! We have selected this Doctor games for best excitement and thrill in you!",
+      "metaKeyword": "Mermaid Princess Hospital Recovery Game, Girls Games, Doctor Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.newvendor.com/",
+      "xmlFile": "multi_item_1521610088.xml",
+      "idealFor": "Man",
+      "likes": 52,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 14385,
+      "ownGame": false,
+      "addDate": "2018-03-21T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.701Z",
+      "updatedAt": "2024-08-02T05:38:58.813Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITMES TO TAREAT THE  MARMAID",
+      "webControlKeys": "L-CLICK OF MOUSE TO SELECT THE ITEMS TO TAREAT THE MARMAID"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
