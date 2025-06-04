@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd40",
+      "id": 4552,
+      "name": "Halloween Differences",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "halloween-differences",
+      "image": "4552",
+      "url": "halloween-differences",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You are crazy for celebrating the Halloween festival. Do not need to wait for the Halloween day, join Halloween Differences to enjoy and feel the wonderful moments of the occasion in your own style. We have got you covered with a brand new arcade game where you only need to spot the differences between the Halloween images. Solving these tricky puzzles is not going to be easier as they look similar at the first sight, but you find differences between them after looking properly.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Find all seven differences in multiple levels of this fun and education puzzle challenge! You have to put your observation and concentration abilities to the test to spot all 7 differences in different and challenging 10 levels. Be careful and try to be fast as you would only be given one minute time to complete each level! These images cover different objects like ghosts, cats, pumpkins and witches. All these images would remind the lovely moments of the Halloween. Celebrate the Halloween night party in your own style!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">In these pictures, haunted houses are prepared and located in amusement parks or you can see the schools decorated with pumpkins and other scary objects. Get ready to notice the Children who try to disguise themselves and right at the doors to ask for their favorite candy in this html5 puzzle game! Do you think that you are capable enough to spot all the differences between the pictures in this one of this best Halloween difference games for kids? Give it a try and have lots of fun without download on atmegame.com!</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "\nhttps://html5.gamedistribution.com/4c3033bfdf9a4e6ebce5502821024a9f/\n",
+      "metaTitle": "Halloween Differences, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Halloween Differences at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Halloween Differences Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7423,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-02-09T12:24:33.695Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO FIND THE DIFFRENCES",
+      "webControlKeys": "L CLICK OF MOUSE TO FIND THE DIFFRENCES"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
