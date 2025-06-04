@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b657",
+      "id": 2696,
+      "name": "Endless Flight",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "endless-flight",
+      "image": "2696",
+      "url": "endless-flight",
+      "description": "<div>Endless Flight is an amazing platform based adventure game for boys from different age groups. In this brand new platform game, you will have to fly the dragon with the help of left mouse button. Make sure that avoid the unwanted midair hindrances, spiked ground and ceiling. This free online adventure game is primarily based on the most popular Flappy Birds motives. You can also enjoy an addictive gameplay and great fun here. </div><div><br></div><div>There are various missions you have to complete in this cool single player adventure game for boys. With the advanced level, your daily quests become harder and harder. You will also get a plenty of other amazing benefits with the availability of the upgrades, which you can apply after earning good points. Move to the store to use the points for buying a magnet that helps you to pull more coins to you. You can also purchase the nitro gas through which you can quickly burst out through the landscape that is full of obstacles. </div><div><br></div><div>In order to ensure your victory in the end of this cool adventure game, it is important for you to follow the needful instructions and pay attention to the details. No need to worry if success does not come to you in the first attempt. You can explore the challenges of this best platform game in your browser again and again until you get the satisfactory outcomes. Play this boy platform game today to have fun!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/endless-flight/index.php",
+      "metaTitle": "Endless Flight Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Endless Flight at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Endless Flight Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7193,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.714Z",
+      "updatedAt": "2022-08-23T23:21:30.104Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK OF MOUSE TO FLY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
