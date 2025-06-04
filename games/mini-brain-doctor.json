@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b7f7",
+      "id": 3128,
+      "name": "Mini Brain Doctor",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "mini-brain-doctor",
+      "image": "3128",
+      "url": "mini-brain-doctor",
+      "description": "Get ready to operate on Mini brain and learn how to use the coolest medical tools ever! Start preparing Mini for surgery by taking his temperature, pulse and getting rid of his hair. Now everything is set! Cut into Mini head and use cool machines to find and exterminate germs and other fun things. See if you can make Mini feel better and have fun being the best surgeon!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/8838ae53f7c9403a81f8816f1c9dcea7/\r\n",
+      "metaTitle": "Mini Brain Doctor,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mini Brain Doctor at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mini Brain Doctor Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533531766.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8266,
+      "ownGame": false,
+      "addDate": "2018-08-06T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.719Z",
+      "updatedAt": "2024-02-14T03:13:44.954Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS FOR BRAIN TREATMENT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS FOR BRAIN TREATMENT"
+    },
+    "rating": {
+      "rating": "0.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
