@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf72",
+      "id": 5121,
+      "name": "Goalkeeper Champ",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "goalkeeper-champ",
+      "image": "5121",
+      "url": "goalkeeper-champ",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Like many you want to be a good football player. Luckily, we are going to introduce you to a wonderful platform where you can easily satisfy your desires to be enrolled in a cool soccer match. Are you ready to accept this sort of unique challenge, friend? Join Goalkeeper Champ game and get ready to save and lead your favorite team to the victory in the biggest soccer tournament! You have to play the role of a goalkeeper in this cool free online sports game. Accept this challenge to be the last line of defense!</span></div><div><span style=\"font-size: 13.3333px;\">&nbsp;<span style=\"white-space:pre\">\t</span></span></div><div><span style=\"font-size: 13.3333px;\">All you need to keep your eyes on the screen as the player from your opponent team can kick the ball anytime. Be prepared to move your gloves to catch the coming into the goal or deflect in this new soccer game! Drag them around the screen of your computer or tap on the screen to give your gloves the desired directions! Your every successful save will help you obtain one glove on the scoreboard. Do your best to get two gloves at once by catching the ball! Score a perfect goal by collecting 3 gloves in a row!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Choose your team and get ready to guide it to win the championship shortly in this one of the best html5 football games for kids! Put the perfect timing and reflexes to test to defeat your opponents and bring the trophy for your team! Select your team, enter the football field and be prepared to block all incoming shots to be victorious! The quality graphics and a huge ground filled with a huge crowd would give you a cool realistic feel in this 3D soccer game. Good luck to become a popular goalkeeper in this new sports game! Have fun without installing app or software!!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://play.famobi.com/goalkeeper-champ/A-925FD",
+      "metaTitle": "Goalkeeper Champ Game, Soccer - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Goalkeeper Champ at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Goalkeeper Champ, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 88,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 21468,
+      "ownGame": false,
+      "addDate": "2018-12-31T23:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2025-03-10T15:44:20.119Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS AND HOLD THE GLOUBS TO STOP THE GOAL",
+      "webControlKeys": "KEEP PRESS AND HOLD THE GLOUBS TO STOP THE GOAL BY LEFT CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
