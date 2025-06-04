@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd78",
+      "id": 4608,
+      "name": "Beautiful Spot Differences",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "beautiful-spot-differences",
+      "image": "4608",
+      "url": "beautiful-spot-differences",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you think that you are quick in finding out the differences in any two pictures? Is it your hobby to check out online puzzles to boost your memory and brainpower? If yes, then you have reached at the right place. Your objective is to spot all the defined differences between two lovely and beautiful pictures. Make sure to get the job done before the time expires in Beautiful Spot Differences. Lots of tricky puzzles to deal with in this brand new arcade challenge!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">In case if you get confused or find difficulty in spotting the differences, feel free to click the hint buttons for help. You can use the hint button 3 times in each game. There are five levels to complete, and 7 differences to find out in each level. You would have 60 seconds to find all the 7 differences to complete each level and become a champion of this cute html5 puzzle challenge. Use your concentration and eyes to compare pictures of food and detect the differences!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You have to focus at the details and pay attention to the screen since it is a time-based hidden differences game. The faster you complete each level the higher score you would be able to make in the end. You can track all the details of your present game by keeping your eyes at the right side of the screen. Play it as many times as you want to train your memory and enjoy the best find difference game, no download required on atmegame.com!</span></div>",
+      "size": 810,
+      "height": 640,
+      "script": "\nhttps://html5.gamedistribution.com/3f8ad0c2fbcf4d7a93c216480998001d/\n",
+      "metaTitle": "Beautiful Spot Differences, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Beautiful Spot Differences at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Beautiful Spot Differences Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527483.xml",
+      "idealFor": "All",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6981,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2023-12-25T10:37:24.019Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO FIND THE DIFFRENCES",
+      "webControlKeys": "L-CLICK OF MOUSE TO FIND THE DIFFRENCES"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
