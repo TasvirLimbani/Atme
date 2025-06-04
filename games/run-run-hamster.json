@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8a",
+  "category_name": "best",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1df",
+      "id": 1387,
+      "name": "Run Run Hamster",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "run-run-hamster",
+      "image": "1387",
+      "url": "run-run-hamster",
+      "description": "<div>As we all aware of the fact that hamsters only love sleeping or running, so the same is going to happen in this brand new adventure game. This cute hamster has lost his love and now wants to get her back and return his home to sleep again. However, the problem is that deadly chasms are everywhere on his way. It is up to you who will take care of him. Join Run Run Hamster and help this cute animal to cover as much distance as possible!&nbsp;</div><div><br></div><div>Use your running skills to take him as far as you can while avoiding the deadly obstacles and collecting sunflower seeds! Also make sure to avoid falling him down to keep your game going in this funny platform game. You can apply the mouse button to make your hamster a jump, whereas the reflexes of hamster can be sued to avoid the obstacles. Many more surprising challenges are also waiting for him along the way.&nbsp;</div><div><br></div><div>This cute and tiny hamster is missing his pretty pink princess a lot. So, please do the job fast to bring her back and make him happy. A score is created after completing your game. You can submit it and go to the main menu to restart the game again. No need to worry if you do not succeed in initial few attempts since you have plenty of chances to achieve the goal of this cool HTML5 game. Keep running and having a lot of fun in this cute jumping game for kids!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=7053cc4f4cb74486803fbd05fa5e7ee7\r\n",
+      "metaTitle": "Run Run Hamster, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Run Run Hamster at atmegame.com ! We have selected this platform games for best excitement and thrill in you!",
+      "metaKeyword": "Run Run Hamster Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489143.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7189,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.688Z",
+      "updatedAt": "2023-09-11T15:34:08.190Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
