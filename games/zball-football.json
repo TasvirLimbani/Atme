@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bac8",
+      "id": 3911,
+      "name": "Zball Football",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "zball-football",
+      "image": "3911",
+      "url": "zball-football",
+      "description": "Poise, poise, poise&#33; Don’t let the ball fall down and complete the levels collecting all the little flags. They will increase your score, giving you the possibility to buy your favorite teams&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/zball-football-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Zball Football, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zball Football at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Zball Football Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 17,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9900,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2024-09-21T14:46:27.734Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP- L-R OF SCREEN TO MOVE THE BALL",
+      "webControlKeys": "L CLICK OF MOUSE TO CHANGETHE DIRECTION OF BALL"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
