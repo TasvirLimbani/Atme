@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c349",
+      "id": 6298,
+      "name": "Fastlaners",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "fastlaners",
+      "image": "6298",
+      "url": "fastlaners",
+      "description": "<div>The extremely addictive and tricky action-packed car racing challenge is here for you! Would you like to try it out and prove the world that you are a true racing fanatic? If so, join Fastlaners and get ready to race your car like a pro and beat all the barriers on the street! Your opponents are very rude and will try to put every possible effort to stop you from moving forward. Shoot them with your most powerful weapon and become the fiercest and cruel wanted man!</div><div><br></div><div>Put your fingers on the accelerator to drive your chosen fastest vehicle like lights and fight for your survival! Destroy your enemies, grab money, and purchase the latest fastest cars and weapons in this one of the coolest and best HTML5 car games! Be careful and try to challenge your expertise and show your integrity in avoiding the obstacles! Do not take it easy as the boss is waiting for you further. Kill the Boss and get a chance to be a legend of the street in this car driving simulator!</div><div><br></div><div>Shoot away all of the traffic and grab as much cash and powerups as you can to create your best score in this fun online racing game! Make sure to look into your health meter and try every possible effort to beat your score with each new attempt. Remember you will lose your blood if you are hit by the firing released by your enemy vehicle. Good luck to clear as many enemies as you can and survive for as long as possible to create your new best score!</div>",
+      "size": 535,
+      "height": 710,
+      "script": "https://html5.gamedistribution.com/8efababfbd664fb3abb33751b7e82423/\r\n",
+      "metaTitle": "Fastlaners Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Fastlaners at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Fastlaners Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579522680.xml",
+      "idealFor": "Man",
+      "likes": 155,
+      "dislikes": 35,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 32563,
+      "ownGame": false,
+      "addDate": "2020-01-20T17:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-05-27T03:39:02.880Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP LEF RIGHT OGF SCREEN TOO SAVE THE CAR",
+      "webControlKeys": "LEFT  RIGHT ARROW TO MOVE LEFT RIGHT"
+    },
+    "rating": {
+      "rating": "2.9",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
