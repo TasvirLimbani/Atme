@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b96b",
+      "id": 3529,
+      "name": "Kung Fu Fight  Beat em up",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "kung-fu-fight--beat-em-up",
+      "image": "3529",
+      "url": "kung-fu-fight--beat-em-up",
+      "description": "KUNG FU FIGHT : BEAT EM UP is the best Kung Fu action game. You will be fighting against tons of enemies and the Big BOSS. You will need to be very fast and a real Kung Fu Master to kill all ennemies coming from both side of the screen. You can use punches, kicks and even weapons (shuriken, knifes, axe, kunai, nunchaku,...), special moves (katas, fast kicks, stealth moves...) and the really special combo : the dragon attack !\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/35a95f3ca8bc4e70a58a61081f8cc27b/\r\n",
+      "metaTitle": "Kung Fu Fight  Beat em up, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Kung Fu Fight  Beat em up at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Kung Fu Fight  Beat em up Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536577197.xml",
+      "idealFor": "Man",
+      "likes": 79,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 30927,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2025-01-04T23:41:03.723Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R SIDE OF SCREEN TO FIGHT",
+      "webControlKeys": "L-R ARROWS/L-CLICK OF MOUSE TO FIGHT"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
