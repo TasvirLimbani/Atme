@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c15d",
+      "id": 5649,
+      "name": "ATV Traffic",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "atv-traffic",
+      "image": "5649",
+      "url": "atv-traffic",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you love exploring the transport truck games? Is it driving like a dragon in a road full of traffic your favorite activity to do? Do you like finding out the way towards your destination in the middle of the traffic jam? Are you crazy for the ATV four-wheelers? Play ATV Traffic and get the quick answers to all the above questions if you have on your mind! This brand new bike racing game is sure to take you to a world where no one excepts the fun and thrill exist.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Select a mode you want to explore and get ready to go on the road! Join the endless mode in traffic jam, get ready to go on the missions on time or select from a ride with the fuel! Do not forget to gather watches, coins and other useful upgrades in this cool HTML5 racing game! The easiness of driving is sure to pull you into the game for hours! Get a chance to enjoy to the fullest in this fun driving simulator! 3 ATV models, 4 environments and 3 game modes are its primary features.</span></div><div><span style=\"font-size: 13.3333px;\">Select your bike first and then go on the environment selection! Once you are done with it, you have to choose the mode among Time, Endless and Fuel. All these modes are played in different levels. Remember the obstacles and hindrances may vary from mode to mode and level to level. Each level has some target coins to achieve. So, earn the target coins to clear the level. When you complete each level, a scoreboard will be displayed mentioning the coins you earned, total distance you have covered and best coins earned.&nbsp;</span></div>",
+      "size": 1000,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/bb697bb9481a4bb1b36e6236dc928e48/\r\n",
+      "metaTitle": "ATV Traffic,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game ATV Traffic at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "ATV Traffic Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1555400796.xml",
+      "idealFor": "Man",
+      "likes": 57,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 20226,
+      "ownGame": false,
+      "addDate": "2019-04-16T13:16:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.753Z",
+      "updatedAt": "2024-08-10T14:20:58.442Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "A,D L-R ARROW TO CONTROL THE BIKE"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
