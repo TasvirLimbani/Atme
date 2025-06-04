@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9b5",
+      "id": 3611,
+      "name": "Transmorpher 1",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "transmorpher-1",
+      "image": "3611",
+      "url": "transmorpher-1",
+      "description": "Transmorpher 1 is a puzzle platform game. Change shape to different aliens in order to complete the puzzles of each level.\r\n",
+      "size": 900,
+      "height": 510,
+      "script": "\nhttps://html5.gamedistribution.com/a6d49565f3a845aba206d1983cb01a72/\n",
+      "metaTitle": "Transmorpher 1 Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Transmorpher 1 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Transmorpher 1 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335387.xml",
+      "idealFor": "All",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7482,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.725Z",
+      "updatedAt": "2023-10-22T15:09:29.747Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICON TO MOVE, RIGHT ICON TO JUMP",
+      "webControlKeys": "W, UP ARROW TO JUMP, A/D AND L-R ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
