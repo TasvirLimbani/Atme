@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad68",
+  "category_name": "pool",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad68",
+      "status": 0,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae67",
+      "id": 147,
+      "name": "Pool Mania",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "pool-mania",
+      "image": "147",
+      "url": "pool-mania",
+      "description": "Among the selection of <a href=\"http://www.atmegame.com/online-pool-games\" title=\"\" target=\"\"><font color=\"#0033cc\">online pool games</font></a>, p<span style=\"font-size: 13.3333px;\">ool mania game</span>&nbsp;is one of the unique free pool games, &nbsp;that you would prefer to enjoy again and again that is known to be as the best one in gaming genre of pool games. In this time bounded game, you can take as much as aim and shot, however, in the time bounded fashion and pattern game.<br><br>You can enjoy this free pool mania game, either in company of friends as well an individual in one-on-one matches. If you have great playing skills, then, you can indulge in the pool manias to participate in the tournament and emerge as a champion. At the game, you can take game pooling experience to the extreme level of gaming enjoyment.<br><br>At the game that is customise you can even change color of the table to be as blue, red, and green and pool stick. For each of the pot in the game, you will be awarded with 500 points. And already mentioned you have to pot all the balls within the mentioned time frame and execution.<br><br>Aiming, the ball in this free pool game online is even simpler and the easier one. Just target the mouse to take cue. Set power by clicking and dragging the left mouse button away from the direction and aim there straight away. When, you feel mouse power to be easy one, release the mouse button and take shot.",
+      "size": 700,
+      "height": 0,
+      "script": "<!-- Place this code where you'd like the game to appear --><div id=\"zapak-game-embed\" data-game-name=\"Pool-Mania-games-only-1200-3\" data-theme=\"play-only\" data-width=\"700\" data-height=\"500\"><a href=\"https://www.zapak.com/game/Pool-Mania/1200\">Pool Mania</a></div><p style=\"text-align:center;\"><a href=\"https://www.zapak.com/game/Pool-Mania/1200\" target=\"_blank\">Pool Mania</a> / More \r\n <a style='text-decoration:underline' href='https://www.zapak.com/free-sports-games'>Sports</a> Games\r\n</p><!-- Insert this code before your </body> tag --><script type=\"text/javascript\" src=\"https://zcdnr1.zapak.com/www/zapak2015/js/AddGame.js\"></script>",
+      "metaTitle": "Pool Mania Game, Pool Games - Play Online Free : Atmegame",
+      "metaDesc": "Pool Mania is amongst the most popular pool game that is preferred by the players in the category of stress busting and leisure game playing.",
+      "metaKeyword": "Pool mania, Sports, Pool, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 96,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 23308,
+      "ownGame": false,
+      "addDate": "2016-07-03T08:26:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.664Z",
+      "updatedAt": "2024-03-24T22:15:34.432Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "NOT LOADING"
+    },
+    "rating": {
+      "rating": "4.6",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad68",
+      "name": "pool",
+      "slug": "pool",
+      "icon": "Pool-games"
+    }
+  }
+}
