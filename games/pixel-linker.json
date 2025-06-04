@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd10",
+      "id": 4504,
+      "name": "Pixel Linker",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "pixel-linker",
+      "image": "4504",
+      "url": "pixel-linker",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you think yourself a perfect puzzle solver? If so, joining Pixel Linker can be a nice bet for you. This brand new arcade game is full of colorful puzzles where you find only a great level of fun and entertainment. You must try it out especially if you are ready to go back to the 70ties and want to enjoy the crazy parties held in the presence of the colorful disco floor. When you click the play button, you would find yourself inside a colorful checker with a vibrant mood.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Hey boys! You have to put your wits and wisdom to the test to solve all the puzzles of this html5 pixel game. Do not bother at all about its controls as it is very easy to handle and can be played by boys and girls of all ages. Remember the difficulty level will keep increasing as you move to the next level. There are 100 unique and challenging puzzle solves to be sorted out so there are no chances of getting bored. Try to complete fast to obtain 3 stars in the end of each level!</span></div><div><span style=\"font-size: 13.3333px;\">Oh! This means that you have total of 300 stars to collect in this logical and brain game. The time comes when you have to scratch your head to achieve the goal in the game. Create beautiful arabesques by linking the square of the dance floor with your finger! In case of wrong attempt, you can touch the screen to uncolor the squares of the dance floor. Good luck to exercise your logic and intelligence in the best way to play more arcade puzzles for boys and girls without download!</span></div>",
+      "size": 600,
+      "height": 800,
+      "script": "\nhttps://html5.gamedistribution.com/fef876b69c79493ebc5e7230e016c84c/\n",
+      "metaTitle": "Pixel Linker, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pixel Linker at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Pixel Linker Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527121.xml",
+      "idealFor": "All",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7360,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2023-08-14T15:11:45.638Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO CONNET THE SAME COLOR TILES",
+      "webControlKeys": "KEEP PRESS L MOUSE TAP ON THE COLOR TILE AND SWIPE TO CONNECT WITH THE SAME COLOR TILE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
