@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bae2",
+      "id": 3938,
+      "name": "Block the Pig",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "block-the-pig",
+      "image": "3938",
+      "url": "block-the-pig",
+      "description": "<div>The most interesting, challenging and addictive puzzle is out! This time you get a chance to play with a lovely and cute pig who wants to escape from this place! And your job is to stop him from escaping by blocking his way. Would you think that your wits are enough to build walls around this fabulous little animal to keep him from escaping? Join Block The Pig and be prepared to place stone blocks in a hexagonal maze in a way so that the pig cannot escape!</div><div><br></div><div>All it takes training your wits to win each puzzle and prove you as the biggest online player in this brand new arcade game. Pig will not move until you place three blocks. But, once it done, it will start moving and finding a way to escape. Do not worry you would have other additional blocks to use and prevent him from spotting the exit game. Be careful and try to think in advance to put the tricky pig into a total blockage in this HTML5 puzzle game!</div><div><br></div><div>Place a block at a position you want by clicking on a tile! Use your brain and puzzle-solving abilities to make sure that there is not a single way for escaping! This little animal will try to reach and get to one of the edge tiles so try to stop it from doing that. There are multiple unique and addictive levels to complete so there is no chance to get you bored. Place blocks strategically to encircle the pig and prevent it from escaping to finish all levels! Check out other free puzzle challenges on atmegame.com and have a blast with your friends!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/block-the-pig-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Block the Pig, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Block the Pig at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Block the Pig Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 12,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8159,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2023-04-15T01:10:01.137Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE DUCKS TO SHOOT",
+      "webControlKeys": "L CLICK OF SCREEN TO KILL THE DUCKS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
