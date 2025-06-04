@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf7c",
+      "id": 5131,
+      "name": "Highway Motorcycle",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "highway-motorcycle",
+      "image": "5131",
+      "url": "highway-motorcycle",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you ready to feel the matchless adrenaline and limited speed on the roads? We present you a brand new experience with Highway Motorcycle and the best thing is that it is free for all. So, what are you waiting for? Jump on a wonderful bike and get ready to race through the streets in a way like never before! It is time to show off the world that you have amazing capabilities to overtake the other vehicles running at the high-speed in this cool bike game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Try to avoid any possible accidents on roads when you drive your favorite motorbike! Your opponents have already reached at the start line and they are waiting for you. If you waste your time for long, they would think that you are afraid of. So, choose with the traffic time, and later you can unlock traffic ride, time trial and free ride. Next you can enter the desert mode and you will have an option to unlock Jungle and Snow mode further. Try to complete each track as fast as you can to become a champion motorbike rider of your town!</span></div><div><span style=\"font-size: 13.3333px;\">Try to collect coins during your way in this html5 3D motorcycle game! You might face heavy traffic on roads, so try not to crash your bike with other vehicles until you reach the final destination. You can purchase new bikes through the coins you collect during the gameplay. Good luck to keep enhancing your driving skills and beat all the big scores made by the other players! Have fun with no tension at atmegame.com, no download required!</span></div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/2994e21a6e5c4dd08aed9e507cbb5a83/\r\n",
+      "metaTitle": "Highway Motorcycle,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Highway Motorcycle at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Highway Motorcycle Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545466.xml",
+      "idealFor": "Man",
+      "likes": 579,
+      "dislikes": 54,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 124261,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:14:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2025-05-23T05:01:37.673Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W- INCRESE SPEED,A,D L-R ARROW- LEFT RIGHT, S- SLOW"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 58
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
