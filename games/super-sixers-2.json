@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aed1",
+      "id": 426,
+      "name": "Super Sixers 2",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "super-sixers-2",
+      "image": "426",
+      "url": "super-sixers-2",
+      "description": "<p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\"><font color=\"#000000\">Playing and getting appreciated with the most preferred online sports in India that is being liked by everyone and especially the players playing it are being treated as a demigod in the country, it is obvious for online cricket game too being extensively played and enjoyed in the </font><a href=\"http://www.atmegame.com/online-sports-games\" title=\"\" target=\"\" style=\"\"><font color=\"#0033cc\">sports games, online</font></a><font color=\"#000000\">. Super Sixers 2 game is one such </font><a href=\"http://www.atmegame.com/online-cricket-games\" title=\"\" target=\"\" style=\"\"><font color=\"#0033cc\">online cricket game</font></a><font color=\"#000000\"> for free that is being simulated for the fast paced cricket playing environment, where, a player is required to score maximum number of runs with a minimum number of balls available to you.</font></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" color=\"#000000\" face=\"verdana\">As the game is set for a fast paced cricket playing environment, therefore, it is quite necessary for the players to get accustomed to the ground conditions out there in order to make the maximum usage and benefit of the pitch in order to make as much number of a score as possible.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" color=\"#000000\" face=\"verdana\">After having the enough practice for the game, the next you are required to get into sports online games to play. When playing the game in real ground conditions, you are given the set targets to achieve in the game in certain balls left for completion of the game. You have to hit the ball very, cautiously; otherwise, you will lose your wicket as well as the game.</font></p>",
+      "size": 800,
+      "height": 600,
+      "script": "426_swf.swf",
+      "metaTitle": "Super Sixers 2, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Super Sixers 2 is the most famous and recognized version of online cricket games where massive hitting in form of sixes has been offered to enjoy the best of online cricket.",
+      "metaKeyword": "Super Sixers 2, Sports, Cricket Games, Super Sixers 2 Online Game, Play Free Games, online cricket games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 248,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 59664,
+      "ownGame": false,
+      "addDate": "2017-07-10T20:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2024-03-15T07:41:40.660Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 57
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
