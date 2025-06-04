@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b355",
+      "id": 1832,
+      "name": "Tune Your Monster",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "tune-your-monster",
+      "image": "1832",
+      "url": "tune-your-monster",
+      "description": "Work in a car service shop and help the customers out by tuning their monster trucks. They will tell you exactly what they want and you will have to remove the dirty, wash them up with water and detergent, blow dry them and wax them to give them shine. Then you can tune them according to the hint by changing up their wheels, painting them, putting on stickers and all sorts of crazy stuff. In the end your customer will tell you how well you did. Have a blast!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=d77e68596c15c53c2a33ad143739902d\r\n",
+      "metaTitle": "Tune Your Monster, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tune Your Monster at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Tune Your Monster Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630155.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8919,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2024-03-12T02:32:44.298Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
