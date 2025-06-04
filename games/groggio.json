@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8fa",
+      "id": 3408,
+      "name": "Groggio",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "groggio",
+      "image": "3408",
+      "url": "groggio",
+      "description": "Welcome to Grogg.io - a free, multiplayer pirate game! Arr - matey! Battle other pirates while digging for loot! Follow the marker on your map to find real treasure! Drink grogg to level up and become the ultimate pirate king!\r\n",
+      "size": 1200,
+      "height": 720,
+      "script": "https://html5.gamedistribution.com/6e02d17d88454eae908d55e2f03c609b/\r\n",
+      "metaTitle": "Groggio, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Groggio at atmegame.com ! We have selected this shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Groggio Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533887535.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8362,
+      "ownGame": false,
+      "addDate": "2018-08-10T13:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-02-04T11:00:05.569Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE, SPACE/ L CLICK - SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
