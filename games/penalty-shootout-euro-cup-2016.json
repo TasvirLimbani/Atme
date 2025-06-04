@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b52c",
+      "id": 2350,
+      "name": "Penalty Shootout Euro Cup 2016",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "penalty-shootout-euro-cup-2016",
+      "image": "2350",
+      "url": "penalty-shootout-euro-cup-2016",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The worldwide popular soccer championship has just begun and being a key performer of the football sport your name is already in the list of major players. It does not make a sense to go back especially when your country needs you the most. Common boys and girls! You are perfect fit for this famous football trophy. Join Penalty Shootout Euro Cup 2016 and get ready to make some goals to guide your team to the victory! There are plenty of soccer matches to play through in this brand new sports game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This championship has been divided into six groups and four teams are included in each group. Choose your team and get ready to beat all the matches in your group! Keep guiding your players and helping them to win all the matches until you make your place in the semi-final, quarter-final and final matches! Click the target when the striker kicks in this HTML5 soccer game! When your match finishes, you will see a screen displaying the conditions of each Group Stage.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">That screen will also show you the latest results as well. Try to guide the player of your team to kick the ball off right into the net and stop the opponent from making goals! Oh no! You would have multiple matches to play through so try to be active until you secure your place in the final. Get ready to give your best in the final match and win the trophy for your company and make them feel proud on you!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/82c12ffd9b0644d2ad4c4a130ec02a85/\r\n",
+      "metaTitle": "Penalty Shootout Euro Cup 2016, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Penalty Shootout Euro Cup 2016 at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Penalty Shootout Euro Cup 2016 Game, Soccer Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806916.xml",
+      "idealFor": "Man",
+      "likes": 32,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 10870,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2025-02-11T20:58:36.932Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREE TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "3.2",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
