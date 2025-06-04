@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4d1",
+      "id": 2246,
+      "name": "Zombie Killing Spree",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zombie-killing-spree",
+      "image": "2246",
+      "url": "zombie-killing-spree",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The highly addictive and thriving action-packed challenge is out now! Where are you, friends? Join Zombie Killing Spree and be prepared to hunt a horde of undead who are anxiously thirsty for your blood! Grab your rifle and sneak through the park where lots of deadly zombies are roaming around! Practice your shooting abilities before entering this fiercely battlefield! And, try to show no pity on these dangerous souls who want to kill you at any cost. Shoot them before they attack you in this brand new action game!</span></div><div><span style=\"font-size: 13.3333px;\">Kill a particular number of zombies to clear the present stage and move to the advanced one. Complete mission to collect the coins and do not forget to use them to upgrade your weapon! You would have multiple weapon options including gun, burst gun and SMG to choose from. Try to keep your character away and shoot them down when them come out from the thicket in this HTML5 shooting game! You need to be extra alert since this is the time of the darkness.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You might get hurt if you try to get close enough to them. Common boys! Being a fierce and brave soldier, you cannot take your steps back. After all, it is a matter of a pride of your country. Control each and every movement of your soldier and do not bother about shooting since he will fire automatically. But, make sure that you reload on time to get the job done. Discover all zombies and send them to the hell before they eat your brains out to complete all of the levels and become the biggest zombie finisher of your country! Check out more free gun shooter challenges on atmegame.com for free and have fun!&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/c75384305e3e42fe80a4265e0a8fbd2e/\r\n",
+      "metaTitle": "Zombie Killing Spree, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zombie Killing Spree at atmegame.com ! We have selected this Zombie games for best excitement and thrill in you!",
+      "metaKeyword": "Zombie Killing Spree Game, Action Games, Zombie Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524804977.xml",
+      "idealFor": "Man",
+      "likes": 40,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 15001,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:26:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2024-05-06T18:43:39.000Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO MOVE AND SHOOT",
+      "webControlKeys": "L-CLICK OF MOUSE TO SHOOT AND MOVE"
+    },
+    "rating": {
+      "rating": "3.2",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
