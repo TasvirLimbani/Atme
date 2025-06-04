@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2b2",
+      "id": 6110,
+      "name": "Chicken Shooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "chicken-shooter",
+      "image": "6110",
+      "url": "chicken-shooter",
+      "description": "<div>Oh my God! All the chickens of your poultry farm get infected with some life-threatening disease. Now you have no other choice rather than to kill all of them with your gun. Grab your weapon and gear up to kill all the infected chicken in Chicken Shoot! It is not going to be easy to eliminate these infected animals as they start moving fast here and there with your first shooting. So it becomes essential for you to react faster than before after releasing your first bullet.</div><div><br></div><div>You are the only shooter in this area. Do not worry gun is the only weapon you use to achieve your goal. You can also buy new weapons including sharp knives, RPG and more with the help of money you earn after clearing the level. There are multiple levels to play through in this one of the best HTML5 shooting games for boys and girls. Apart from this, you also have to fight against the clock in these different levels.</div><div><br></div><div>Kill all the chickens to stop the disease from spreading in other animals in the farm! There are many new secrets and achievements to enjoy here in this cool animal game. The colorful graphics, seamless gameplay, easy controls, multiple levels and landscapes will be enough to keep you entertained for hours. Hurry up, friends! Now the safety of this wonderful poultry is in your hands. Play more free action-packed challenges on atmegame.com to find extra happy and funny hours!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/4ab37ff00af34c52945957fc08fd41af/\r\n",
+      "metaTitle": "Chicken Shooter, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Chicken Shooter at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Chicken Shooter Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442796.xml",
+      "idealFor": "Man",
+      "likes": 52,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10940,
+      "ownGame": false,
+      "addDate": "2019-09-26T01:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-02-12T12:43:10.451Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "MOUSE WHEEL DOWN ARROW TO CHANGE THE WEAPON,LEFT CLICK TO SHOOT ,RIGHT TO ZOOM IN/OUT, L ALT-PAUSE"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
