@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b360",
+      "id": 1848,
+      "name": "Mountain Hill",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "mountain-hill",
+      "image": "1848",
+      "url": "mountain-hill",
+      "description": "This old man has a last wish now at the end of his life. He wants to see his childhood home once again. But he can only reach there with some great driving skills, because it is a dangerous path that he wants to take. You need to constantly upgrade his car if you want him to succeed. There are four great areas along the way and each one has its own obstacles and dangers. Have a great time playing Mountain Hill!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=e2c61965b5e23b47b77d7c51611b6d7f\r\n",
+      "metaTitle": "Mountain Hill, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mountain Hill at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Mountain Hill Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630386.xml",
+      "idealFor": "Man",
+      "likes": 38,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11690,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:03:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2024-12-18T09:44:56.521Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.7",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
