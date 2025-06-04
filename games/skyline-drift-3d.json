@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c355",
+      "id": 6315,
+      "name": "Skyline Drift 3D",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "skyline-drift-3d",
+      "image": "6315",
+      "url": "skyline-drift-3d",
+      "description": "<div>A popular drift competition has just begun near your city and one of your friends has already got participated in it! But, he is very puzzle so he has approached you for help. Would you give your helping hands to your best friends? Join Skyline Drift 3D and be prepared to drive the iconic Nissan Skyline GT-R R34 on the streets of a beautiful city that is full of wonderful skyscrapers and buildings! Wow! In this brand new car game, you can tune, race and drift your vehicle the way you want to.</div><div><br></div><div>Wow! The complete driving freedom will help you to feel and enjoy the fabulous racing experience. Select a colour, bodykit and then get ready to choose a mode between drift mode and free driving! Set the right tuning settings and head on to test your driving abilities to the optimum level to create your own best score! You cannot make some huge records until you burn some rubber. Be careful as multiple steep turns are waiting for you further!</div><div><br></div><div>Practice your driving abilities to pass each level at a very high speed! Make sure not to get off the track and feel free to make as many drifts and slips before the time runs out. Hey boys! Your every successful drift will help you get some points so step on the accelerator and continue driving it through the streets until you make some good score. This cool car driving simulator features multiple real vehicles including Ferrari Testarossa, Nissan Skyline GT, and Civic EK9. Good luck to try out some tricky and addictive car games for free and have a blast online with your friends!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/3678a79c47d04a92bac6cdb6f141656a/\r\n",
+      "metaTitle": "Skyline Drift 3D Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Skyline Drift 3D at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Skyline Drift 3D Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579523644.xml",
+      "idealFor": "Man",
+      "likes": 20,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 7025,
+      "ownGame": false,
+      "addDate": "2020-01-20T18:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-04-23T08:46:59.187Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D AND ALL AAROWS TO DIRECTION CONTROL, SPACE TO BREAK"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
