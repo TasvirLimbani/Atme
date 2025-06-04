@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b965",
+      "id": 3523,
+      "name": "Rat Arena",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "rat-arena",
+      "image": "3523",
+      "url": "rat-arena",
+      "description": "How could we know, who is better - humans or AI? We should take two rats and let them fight! Try to prove that humans are as good as AI. Good luck!\r\n",
+      "size": 960,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/125dd09388474feb8a113ad088157358/\r\n",
+      "metaTitle": "Rat Arena, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Rat Arena at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Rat Arena Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536577197.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11484,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2024-09-11T00:10:13.693Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,D-LEFT/JUMP/RIGHT, L-CLICK OF MOUSE TO USE CURRENT WEAPON, R-CLICK OF MOUSE TO USE SHIELD, MOUSE WHEELS TO CHANGE THE WEAPON"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
