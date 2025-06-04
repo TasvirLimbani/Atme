@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8f6",
+      "id": 3404,
+      "name": "Sky Troops",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "sky-troops",
+      "image": "3404",
+      "url": "sky-troops",
+      "description": "Your mission is to destroy all enemy planes and rescue people as much as possible. After mission completed, the next level will be unlocked. Higher level have a stronger enemy, so, you need to upgrade your plane using game coin that you get after completing a level, a coin you get depending on how much people you save or enemys you destroyed.\r\n",
+      "size": 540,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/49fa0fb115694a319e1ead1cbae6b7f5/\r\n",
+      "metaTitle": "Sky Troops, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sky Troops at atmegame.com ! We have selected this war games for best excitement and thrill in you!",
+      "metaKeyword": "Sky Troops Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533887535.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 16389,
+      "ownGame": false,
+      "addDate": "2018-08-10T13:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-09-02T14:38:42.212Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO MOVE THE PLAIN",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO MOVE THE PLAN"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
