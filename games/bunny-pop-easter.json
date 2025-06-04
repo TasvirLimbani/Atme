@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba58",
+      "id": 3787,
+      "name": "Bunny Pop Easter",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "bunny-pop-easter",
+      "image": "3787",
+      "url": "bunny-pop-easter",
+      "description": "Are you ready for some Easter fun? In this exciting game you are shooting with easter eggs instead of bubbles. Steer the bunny, aim and shoot those eggs!",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/bunny-pop-easter-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Bunny Pop Easter, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bunny Pop Easter at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Bunny Pop Easter Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7181,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2022-08-23T23:21:30.127Z",
+      "__v": 0,
+      "mobileControlKeys": "HOLD AND SLIDE FINGURE TO SHOOT THYE BUBBLE",
+      "webControlKeys": "KEEP PREESS L CLICK OPF MOUSE TO AIM RELESE TO HIT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
