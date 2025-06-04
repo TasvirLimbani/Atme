@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad68",
+  "category_name": "pool",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad68",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae58",
+      "id": 131,
+      "name": "8 Ball Pool",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "8-ball-pool",
+      "image": "131",
+      "url": "8-ball-pool",
+      "description": "In the pool game category and erstwhile gaming 8 Ball Pool is known to be the biggest and the best multiplayer pool game online. A loath of <a href=\"http://www.atmegame.com/online-pool-games\" title=\"Online Pool Games\" target=\"\"><font color=\"#0033ff\">pool games</font></a> in free pool games series you can enjoy like a world champion in billiards and snooker gaming championship in the pool game online. The game you can easily play with a multiple numbers of game playing options like player and friends in 1 on 1 match, in tournaments and other. Customize with cues and cloths in the Pool Shop.<br><br>Depending upon one’s gaming capacity, you can do one spin daily and win free win free spin, free scratch 1 or 5 or 10 also you can win free coins 1 coins to 50000 coins and also you can play hi lo by 2 dollars 4 dollars or 8 dollars and able to win a jackpot up to 250k coins that is an exciting bonanza with this pool games online.<br><br>In the game, there is no limitation of tournaments as you can play as much as games from the many types of tournaments including like downtown London pun with an entry fee of 200 coins and prize money of 1000 coins or Sydney marina bar with an entry fee of 3000 coins and prize worth 18000 coins and many more.<br><br>Playing the <span style=\"font-size: 13.3333px;\">online </span>8 Ball Pool <span style=\"font-size: 13.3333px;\">game </span>is very simple with mouse, while shooting the white ball. For more information on the game simply click on the tournament to get more and broader details of the game.",
+      "size": 1010,
+      "height": 672,
+      "script": "<!-- Place this code where you'd like the game to appear -->\r\n<div class=\"miniclip-game-embed\" data-game-name=\"8-ball-pool-multiplayer\" data-theme=\"5\" data-width=\"1010\" data-height=\"672\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/8-ball-pool-multiplayer/\">Play 8 Ball Pool</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/8-ball-pool-multiplayer/\" target=\"_blank\">Play 8 Ball Pool</a> / More <a href=\"https://www.miniclip.com/games/genre-3/\" target=\"_blank\">Sports games</a></p>\r\n\r\n<!-- Insert this code before your </body> tag -->\r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "8 Ball Pool, Pool Games - Play Online Free : Atmegame.com",
+      "metaDesc": "8 Ball Pool is one of the most popular games online that is considered to be stress buster and a quick game relief provide for the players.",
+      "metaKeyword": "8 Ball Pool, Sports, Pool, Play Games, Play Online, Play Free Games, Play Online Free Games, 3d Games, Multiplayer",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 235,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 36253,
+      "ownGame": false,
+      "addDate": "2016-07-03T07:43:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2025-05-13T11:14:31.156Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "MOUSE TO SELECT THE DIRECTION, L CLICK TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 63
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad68",
+      "name": "pool",
+      "slug": "pool",
+      "icon": "Pool-games"
+    }
+  }
+}
