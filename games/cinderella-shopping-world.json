@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b98f",
+      "id": 3571,
+      "name": "Cinderella Shopping World",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "cinderella-shopping-world",
+      "image": "3571",
+      "url": "cinderella-shopping-world",
+      "description": "Cinderella is going shopping today. Help her to choose the best cloth to create the perfect modern look!\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "\nhttps://html5.gamedistribution.com/382968e7644e4718862fe83c1c6e0802/\n",
+      "metaTitle": "Cinderella Shopping World, Dressing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cinderella Shopping World at atmegame.com ! We have selected this dressing games for best excitement and thrill in you!",
+      "metaKeyword": "Cinderella Shopping World Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335025.xml",
+      "idealFor": "All",
+      "likes": 34,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9349,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.725Z",
+      "updatedAt": "2024-08-31T08:00:18.739Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS TO ,MAKEUP AND DRESSUP",
+      "webControlKeys": "L CLICK OF MOUSE TO DRESSUP AND ,MAKEUP"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
