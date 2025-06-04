@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b174",
+      "id": 1265,
+      "name": "The Skeet Challenge",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "the-skeet-challenge",
+      "image": "1265",
+      "url": "the-skeet-challenge",
+      "description": "<div>Welcome to the exciting world of clay flying discs and shotguns! Get ready to break clay targets as you see in the air and have a lot of fun in this brand new shooting game for boys! Keep your eyes on the screen since the clay targets can be thrown into the sky from two different stations at that too different speeds from various angles! This is not an easy job to perform since only the best shooters can dare to attempt it. Take down all the targets and become an elite shooter in this fully action-packed game!</div><div><br></div><div>It will be exciting to hit as many discs as you can to earn a big score in this free online Olympic sport. Play your shot with the precision and accuracy to make a big score. Focus on the target and give your best in this awesome shooting game – The Skeet Challenge! Make sure that not a single skeet gets passed you and hit as many skeets as possible. You are sure to have a lot of thrill and entertainment in this cool HTML5 game.</div><div><br></div><div>A big skeet competition is going to take place and you have got participated into it to show off shooting skills. Play the role of an elite shooter and achieve a higher score! Look at the screen since the clay targets are going to be flung in the air soon. Aim for the targets properly to blow them into small pieces in this one of the best action games for girls. You will be given two shots per skeet, so use your shots properly. Make sure that you every shot will help you to earn the maximum possible score. Play this game on your android and iOS phones as well. Game Controls: Mouse to navigate, LMB to select, Arrow Keys to aim and Space to shoot.&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/ac59c01b81aa4e9e9083c03523065808/\r\n",
+      "metaTitle": "The Skeet Challenge, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game The Skeet Challenge at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "The Skeet Challenge Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517222623.xml",
+      "idealFor": "Man",
+      "likes": 255,
+      "dislikes": 79,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 40128,
+      "ownGame": false,
+      "addDate": "2018-01-29T16:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.686Z",
+      "updatedAt": "2025-05-19T04:17:06.109Z",
+      "__v": 0,
+      "mobileControlKeys": "USE THE ICON TO MOVE THE SCOPE, TAP TO SHOOT",
+      "webControlKeys": "ALL ARROWS TO MOVE THE SCOPE, SPACE- SHOOT"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 22
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
