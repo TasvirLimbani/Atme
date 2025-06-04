@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4f2",
+      "id": 2282,
+      "name": "Spider Apocalypse",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "spider-apocalypse",
+      "image": "2282",
+      "url": "spider-apocalypse",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Oh my God! Spider is everywhere on this planet. Would you be able to survive amongst them? Join Spider Apocalypse and be prepared to play the role of a soldier who has decided to clear his city from the giant mutant spiders! It is not going to be easy at all to save an area where spiders live more than the human beings. The only way to keep your character alive is shoot the spiders that are trying to come at you.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This brand new action-packed challenge needs a top-down shooter so do not forget to practice your shooting abilities before giving it a try. Remember these spiders are very dangerous and even some of them need more than one shot to be finished off. You will be given 10 points for your health. You will die if 10 spiders reach up to you. Be alert and keep shooting and feel free to use the space available on the screen!</span></div><div><span style=\"font-size: 13.3333px;\">Do not forget to restore your health by walking over the blue potion bottles. The longer you survive the higher score you will make in the end of this HTML5 shooting game. You can play this cool shooter challenge through desktop &amp; laptop computers, mobile phones, tablet and more. Good luck to enjoy it happily at your home with your friends and families without download! Plenty of free action-packed challenges are waiting for you on atmegame.com!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/008243ed538644b0b776f9ea4c5e9ff0/\r\n",
+      "metaTitle": "Spider Apocalypse, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Spider Apocalypse at atmegame.com ! We have selected this shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Spider Apocalypse Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8238,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-03-24T03:29:09.935Z",
+      "__v": 0,
+      "mobileControlKeys": "USE ARROWS IN THE SCREEN TO MOVE, TAP TO SHOOT",
+      "webControlKeys": "L-CLICK OF MOUSE TO KILL"
+    },
+    "rating": {
+      "rating": "0.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
