@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad70",
+  "category_name": "ancient",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad70",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae90",
+      "id": 194,
+      "name": "War Of The Ancients",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "war-of-the-ancients",
+      "image": "194",
+      "url": "war-of-the-ancients",
+      "description": "In this particular War Of The Ancients online arcade game of the massive accomplishments and achievements you are entrusted with responsibility of protecting your ancient ruins from a massive army of enemies. This free arcade game based around the feeling of adventure and courage let you to win this game, where, you have to protect your ancient heritage from a big army of lethal war mongering tribe.<br><br>Playing, the role of a deadly warrior in this game in multiple level games, you have to develop massive defence against the horde of enemy soldiers attempting to bring down the wall of your fort down. At the initial level of the game, you will be protecting the ruins by standing at its gate.<br><br>While standing outside an old and ancient building at the initial level of the game, the only protection given to you in the game is huge rocks that you have direct towards the enemy in order to kill them. After completing the first level game after entering into the main hall of Lyra in online arcade games and would have meeting with the protector of the ruins An’Re that would guide you through the different levels of game. However, with every subsequent level, the difficulty in playing the game also increases as well. The control of the War Of The Ancients online game is mostly handled by mouse to aim and shoot target.",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=3a1b8000aa974f30803f15658edc540a",
+      "metaTitle": "War of the Ancients, Ancient Games - Play Online Free : Atmegame",
+      "metaDesc": "War of the Ancients is the ancient game that in the arcade mode compels you to safeguard your ancient heritage from a big army of lethal war mongering tribe.",
+      "metaKeyword": "War of the Ancients, Arcade, Ancient, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 116,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 11732,
+      "ownGame": false,
+      "addDate": "2016-07-05T07:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.665Z",
+      "updatedAt": "2025-01-13T10:57:21.099Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad70",
+      "name": "ancient",
+      "slug": "ancient",
+      "icon": "Ancient"
+    }
+  }
+}
