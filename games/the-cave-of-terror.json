@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be09",
+      "id": 4754,
+      "name": "The Cave Of Terror",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "the-cave-of-terror",
+      "image": "4754",
+      "url": "the-cave-of-terror",
+      "description": "<div><span style=\"font-size: 13.3333px;\">A huge horde of enemies have attacked your cave and invaded most of its areas! Everywhere you see bad souls roaming here and there and flying in the sky. You are the only hope for the people of city. Do you think that you are brave enough to end this terror? Join The Cave of Terror game and get ready to kill all your enemies and prove yourself as a true fighting champion! This cave of the terror is also full of an abundant amount of gold.</span></div><div><span style=\"font-size: 13.3333px;\">&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this brand new adventure game is to grab as many bullets as you can and clear the cave from the deadly enemies. We are damn sure that you are not going to forget this adventure for long. Play the role of a hero and run as far as you can while killing all your enemies that you find on the platform and in the sky as well! Use the space bar key to shoot your enemies and arrow keys to jump your character!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">It will be amazing to explore the cave and grab as much gold as you can to become a champion in this cute html5 platform game. Avoid obstacles, as well as grab ammo and coins to improve your score! Do not forget to get ammo and bullets using the rocket boos fly up while keeping your character away from the obstacles. Try to finish all the mobs you see on the screen to create the high score!</span></div>",
+      "size": 800,
+      "height": 480,
+      "script": "https://m.shtoss.com/game/the-cave-of-terror/index.html\r\n",
+      "metaTitle": "The Cave Of Terror, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game The Cave Of Terror at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "The Cave Of Terror Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6803,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.741Z",
+      "updatedAt": "2023-06-17T04:22:53.296Z",
+      "__v": 0,
+      "mobileControlKeys": "L-ICON TO JUMP, R-ICON TO SHOOT",
+      "webControlKeys": "UP ARROW TO JUMP, SPACE TO HIT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
