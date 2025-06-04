@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2f2",
+      "id": 6180,
+      "name": "Impossible Car Parking",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "impossible-car-parking",
+      "image": "6180",
+      "url": "impossible-car-parking",
+      "description": "<div>It is time to try out something that could improve your skill! If this is the case, why do not you play our brand new car game that is designed to enhance the parking abilities of the gamers? You would surely love playing the role of an impossible car parking driver in Impossible Car Parking. Your objective in this cool free online challenge is to park your chosen car model in the given parking space. Common! Achieving the goal of the game is not as difficult as you thought.</div><div><br></div><div>Click the play button, take your seat on your car and gear up to perform some awesome car parking driving stunts like a pro! There are 25 amazing levels to choose from in this one of the best driving games for boys. You can clear each level only if you get your car parked successfully in the allotted spaces. Be careful and try not to touch with boundaries and other obstacles until your car gets parked properly!</div><div><br></div><div>You can park your car by the front and backside as per your wish. There are impossible parking tracks, realistic physics of vibrant cars, awesome interiors, beautiful play and narrow parking slots, amazing game environments and the coolest atmosphere to experience. Accept this challenge, complete all levels and prove the world that you are a professional driver in this Car Parking Driving Simulator game! Check out more free parking games to keep you entertained for hours!</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/cc70234f46ae4ba2ba9e7d726c14a1aa/\r\n",
+      "metaTitle": "Impossible Car Parking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Impossible Car Parking at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Impossible Car Parking Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1577254675.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 7999,
+      "ownGame": false,
+      "addDate": "2019-12-25T11:47:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2024-11-22T04:21:37.174Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D AND ALL AAROWS TO DIRECTION CONTROL, SPACE TO BREAK"
+    },
+    "rating": {
+      "rating": "4.9",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
