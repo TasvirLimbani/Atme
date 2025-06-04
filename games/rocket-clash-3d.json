@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c10b",
+      "id": 5553,
+      "name": "Rocket Clash 3D",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "rocket-clash-3d",
+      "image": "5553",
+      "url": "rocket-clash-3d",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The worldwide famous Clash 3D series is back with some more thrill and entertainment than it served previously. In the previous version, the sniper team was there to fight with you, but this time you go back to the origins. You will see yourself struggling to survive in the dangerous post-apocalyptic environment. Get ready to live a life in the underground area where you have recently moved from the surface where only toxic and contaminated air exists after the nuclear war!</span></div><div><span style=\"font-size: 13.3333px;\">Only artificial air filtration works to help people survive. The entire world has transformed into a big battlefield. Food supplies is going to be finished soon. Two camps were introduced. Blue and red. They both want to fight with each other. Choose your team and get ready to help the chosen one to survive long in Rocket Clash 3D! Enter the battlefield and show up your skill to level up your character in this one of the best 3D action games!</span></div><div><span style=\"font-size: 13.3333px;\">Search your friends and fight together to enjoy typical graphics! Get your keyboard or mobile phone ready to witness an epic online 3D shooting battle! Take down your enemies from the other team by finding the hidden bazooka or using your tactical AKS! The team with best skills will be the winner in this free multiplayer shooter. Keep levelling up your character for the improved health by competing against real players from across the world! Thanks to the HTML5 technology as you can enjoy this amazing third-person shooter in your mobile phone as well!&nbsp;</span></div><div><br></div>",
+      "size": 1000,
+      "height": 562,
+      "script": "https://html5.gamedistribution.com/7deb2a11055f4b3593856c022adad9f0/\r\n",
+      "metaTitle": "Rocket Clash 3D,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Rocket Clash 3D at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Rocket Clash 3D Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1553920821.xml",
+      "idealFor": "Man",
+      "likes": 594,
+      "dislikes": 29,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 143266,
+      "ownGame": false,
+      "addDate": "2019-03-30T10:10:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2025-03-08T05:35:53.909Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICON TO MOVE AROUND, RIGHT ICON TO JUMP AND SHOOT",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE,SPACE-JUMP,C - SIT,LEFT CLICK-SHOOT, RIGHT CLICK-ZOOM IN,L-LOCK THE TARGET"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 53
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
