@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb0d",
+      "id": 3982,
+      "name": "Jetpack Santa",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "jetpack-santa",
+      "image": "3982",
+      "url": "jetpack-santa",
+      "description": "<div>The entire world has got busy in making the preparation for the most-awaited Christmas celebration! Here we have got you covered with a brand new adventure challenge where your favorite Santa Claus will allow you to spend a day alongside him on this unique occasion. Would you like to give it a try right now? Join Jetpack Santa and be prepared to help him to pick up the lovely presents and become a part of the greatest adventures of all the time!</div><div><br></div><div>In this HTML5 flying game, your goal is to guide him to grab as many gifts as you can while avoiding obstacles. Keep your eyes on the screen to make sure that he can maintain his balance without crashing into the ice cubes! Do not bother his cool jetpack will help him to collect the presents for the children. Use your flying and focus abilities to control him fly through multiple ice cubes with shield! Put your fingers on the mouse or tap the screen timely to help Santa find the way with ease!</div><div><br></div><div>Santa Claus loves distributing presents to Children. He has come to you with a huge hope so kindly show him the path how to avoid the sharp ices and dangerous icebergs. The collection of enough gifts will help Santa make feel proud on you. So assist him the way he wants and show off the entire world that you are a kind-hearted man. Be careful as you will have only 3 lives to use during the game! Grab as many gifts as you can to score big in the end!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/jetpack-santa-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Jetpack Santa, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jetpack Santa at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Jetpack Santa Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8736,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-03-25T11:08:44.971Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS THE SCREEN TO FLY, RELESE TO DOWN",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO FLY RELESE TO DOWN"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
