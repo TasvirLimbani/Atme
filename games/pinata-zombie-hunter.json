@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2b9",
+      "id": 6117,
+      "name": "Pinata Zombie Hunter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "pinata-zombie-hunter",
+      "image": "6117",
+      "url": "pinata-zombie-hunter",
+      "description": "<div>Not a typical action-packed challenge is meant for you especially if you seek to try something unique and challenging! In order to serve you with the best of online, we have got you covered with a brand new fast-paced action game where you have to shoot a zombie puppet who is hanging with a rope. Does not it sound pretty challenging and exciting? If yes, join Pinata Zombie Hunter and roll your sleeves up to enter the completely new hunting experience.</div><div><br></div><div>Your every shoot will be rewarded with the delicious candies that will fall out of the pocket of the undead puppets when you shoot with a weapon you carry. Try to grab as many candies as you can and do not forget to use them to purchase new weapons to make your hunting easy! Wow! There are 8 amazing and powerful weapons are waiting for you to unlock. Guide your character through all the levels and unlock multiple weapons like electric plasma guns, machine guns, grenade, laser guns, pistols, knives and molecular explosives!</div><div><br></div><div>You are sure to have matchless fun and thrill through the endless levels. We through our free online game website features a wide variety of action-packed challenges where you can improve your shooting skills while keeping you busy for long. If you like some other popular titles from the free action games category, kindly feel free to leave your message in the comment box. We are happy to serve you whatever you like to play online.</div>",
+      "size": 600,
+      "height": 900,
+      "script": "https://html5.gamedistribution.com/da2816ed788449a5bed8c4e4dddb90f7/\r\n",
+      "metaTitle": "Pinata Zombie Hunter, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pinata Zombie Hunter at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Pinata Zombie Hunter Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442796.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9485,
+      "ownGame": false,
+      "addDate": "2019-09-26T01:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2024-03-09T12:29:55.379Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH TO HIT THE PINATA",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO HIT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
