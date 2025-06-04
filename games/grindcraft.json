@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7d",
+  "category_name": "mining",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9e1",
+      "id": 3655,
+      "name": "Grindcraft",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "grindcraft",
+      "image": "3655",
+      "url": "grindcraft",
+      "description": "<p class=\"text_desc\">\nGrindCraft is one of the most popular adventure games for boys and girls in which you have to create tools to mine a variety of useful resources. Try to create as much tools as you can to enjoy your success in this brand new adventure game. \n</p>\n<p class=\"text_desc\">\nGrind your way through a wide range of useful items available in the Minecraft universe, ranging from wood to iron ore, stone, and beyond. Get ready to slay creatures for the valuable materials, and try to utilize your strategic skill to craft new items and structures.\n</p>\n<h4> \nKey Features:</h4>\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\">\n<li>\n<b>Crafting Mastery:</b> Good crafting skills will help you to create different types of tools and structures, and unlock new possibilities with each creation.</li>\n<li><b>\nStrategic Resource Management:</b> Get yourself ready to use your resources as wisely as you can to navigate through different hurdles and prepare for the next phase of your adventure.</li>\n<li><b>\nEndless Exploration:</b> With an exclusive and wider world to discover and endless resources available to mine, GrindCraft offers an immersive yet highly engaging experience that will keep you hooked for hours on end.</li>\n</ul></p>\n<p class=\"text_desc\">\nIn this cool free HTML5 mining adventure, each click helps you bring closer to become a master of the art of resource gathering and crafting. As you move forward, the challenges and hurdles you face get trickier, while putting your strategic thinking and mining abilities to the test. </p>\n<p class=\"text_desc\">\nThe best part is that your efforts will be finally paid off surely in this point clicker game. Get the gadgets mineral using the pickaxe that helps you find enough wood! Gear up to labour at agricultural with the help of materials you prepare! You can expect to enjoy the materials of agricultural and husbandry using different materials. A long adventure is waiting for you with Grindcraft game!</p>\n",
+      "size": 800,
+      "height": 500,
+      "script": "\nhttps://html5.gamedistribution.com/92a81cc3a9da4cde89a418ae6bd4b4c4/\n",
+      "metaTitle": "Grindcraft, Mining Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Grindcraft at atmegame.com ! We have selected this mining games for best excitement and thrill in you!",
+      "metaKeyword": "Grindcraft Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335554.xml",
+      "idealFor": "All",
+      "likes": 111,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 18413,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2025-03-18T04:34:00.186Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ICONS  TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7d",
+      "name": "mining",
+      "slug": "mining",
+      "icon": "Mining"
+    }
+  }
+}
