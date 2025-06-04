@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba2f",
+      "id": 3746,
+      "name": "Grandpas Attack",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "grandpas-attack",
+      "image": "3746",
+      "url": "grandpas-attack",
+      "description": "All of the grandpa and grandma are tired of all the pesky teenagers! Drop items on the teens walking and skating by!",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/grandpas-attack-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Grandpas Attack Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Grandpas Attack at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Grandpas Attack Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7270,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2022-10-16T11:11:10.133Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON GRANDPAAS TO HIT THE KIDS",
+      "webControlKeys": "L CLICK OF MOUSE ON GRANDPAAS TO HIT THE KIDS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
