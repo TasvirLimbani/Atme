@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad63",
+  "category_name": "skating",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad63",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5dd",
+      "id": 2561,
+      "name": "Real Snowboard Endless Runner",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "real-snowboard-endless-runner",
+      "image": "2561",
+      "url": "real-snowboard-endless-runner",
+      "description": "Real Snowboard Endless Runner, Skating Games<br>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/real-snowboard-endless-runner/index.php",
+      "metaTitle": "Real Snowboard Endless Runner, Skating Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Real Snowboard Endless Runner at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Real Snowboard Endless Runner Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7946,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.712Z",
+      "updatedAt": "2024-01-13T05:02:04.137Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE, SPACE- JUMP"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad63",
+      "name": "skating",
+      "slug": "skating",
+      "icon": "skating-games"
+    }
+  }
+}
