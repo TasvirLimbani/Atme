@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4be",
+      "id": 2226,
+      "name": "Road of Fury Desert Strike",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "road-of-fury-desert-strike",
+      "image": "2226",
+      "url": "road-of-fury-desert-strike",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You as a brave and most reliable person of your unit have been appointed to be available on the very important mission for the Corp. Suddenly you find yourself in a wasteland where plenty of horsemen are available to fight. Your objective is to give them a solid fight while defeating their boss Duke Mo. The problem is that your Corp does not have extra funds to spend on you, but they are ready to give you money for your every successful kill.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Do not waste your time anymore! Join Road of Fury Desert Strike and be prepared to hire drivers and upgrade your gear like never before! Make your car jump and shoot the enemy vehicles that you see on the road and in the sky in this brand new action game! The Corp relies on your abilities a lot so do not make them feel disappointed. Keep shooting until you spot the gang leader Duke! Try to destroy as many vehicles as you can and kill as many enemies as possible to earn the enough money to upgrade your gear!</span></div><div><span style=\"font-size: 13.3333px;\">When the game begins, you will be taken to the garage first. There are 3 unique and amazing areas to drive your vehicle in this HTML5 shooting game! In each area, you will have a target distance to unlock. Aim at your enemies with the help of weapons available at your disposal! There are multiple gadgets and vehicles to unlock and upgrade in this car racing game. Good luck to destroy as many vehicles as you can to earn as much money as you want!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/f0be10e7252d43ac8baf13b638c8133d/\r\n",
+      "metaTitle": "Road of Fury Desert Strike, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Road of Fury Desert Strike at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Road of Fury Desert Strike Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524804977.xml",
+      "idealFor": "Man",
+      "likes": 98,
+      "dislikes": 12,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 29831,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:26:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2025-05-10T19:26:24.478Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO SHOOT THE ENEMY",
+      "webControlKeys": "MOUSE TO SELECT THE DIRECTION"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
