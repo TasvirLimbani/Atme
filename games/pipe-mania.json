@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd81",
+      "id": 4617,
+      "name": "Pipe Mania",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "pipe-mania",
+      "image": "4617",
+      "url": "pipe-mania",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you want to become a plumber? Is this your hobby to play with the pipes? If yes, join Pipe Mania and get ready to connect multiple pipes to drain water to target pipe without any leakage. You will lose the game in case if you get late in connecting the pipes before the water reaches the target pipe. There are many challenges and obstacles to face off in this brand new arcade game. Accept each challenge with a full confidence to clear each level!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">There are 60 unique and challenging levels to enjoy and each level comes with different difficulties. Make sure to connect all the pipe pieces to make the water flow perfectly in this html5 puzzle challenge. You cannot reach to the advanced level until you clear the previous one. So try to play each level carefully to clear it fast and let the world show that you can deal with any tricky and mind-blowing challenges. Keep your eyes on the water countdown clock to complete your mission on time!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to be a little bit fast to fix the pipes quickly since you have multiple levels to solve out in this fun plumbing puzzle game! When you click the play button, you would see many pipe pieces that are jumbled and turned out in the wrong direction. Now it will be your job to practice your plumbing abilities to spin them the right way to allow the water flow through perfectly. Do not forget to click the green fast-forward button to keep the water flowing fast! All the best to finish each level with 3-starts performance!</span></div><div><br></div>",
+      "size": 720,
+      "height": 1280,
+      "script": "\nhttps://html5.gamedistribution.com/f982f2626d2d4a92a535c7cda3238c65/\n",
+      "metaTitle": "Pipe Mania, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pipe Mania at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Pipe Mania Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7975,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-08-29T17:47:14.269Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO JOIN THE PIPES",
+      "webControlKeys": "L CLICK OF MOUSE TO JOIN THE PIPES"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
