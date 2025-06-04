@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bdf8",
+      "id": 4737,
+      "name": "Shadow Boy Adventures",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "shadow-boy-adventures",
+      "image": "4737",
+      "url": "shadow-boy-adventures",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This is a shadow world, so you can find here only one thing that is dark. Oh! But, you do not need to worry as you have the guts to escape and reach to a safe place. Join Shadow Boy Adventures and get ready to go on an exciting adventure with a shadow boy! He has a very difficult mission to explore today, but your talents can help make way for him. Do not let him feel down since he relies on you very much.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">In this crazy adventure, he will have plenty of enemies to face off. Even the cute rabbit will also be there to stop your character from moving forward. Your objective in this brand new adventure game is to help him to reach a safe place without hitting any traps, plants and animals. You can use the mouse or tap the screen to jump and help him safe. This adventurous road is full of dangerous monsters, fire balls and thorns. It is up to you how you handle him to run as long as you can.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Do not forget to grab as many coins as you can to finish the game with a respectful score in this cool html5 platform game. Be careful as you would have only three lives to lose. Play alone, or invite your friends and families to enjoy the adventure trip with the shadow boy in your android devices, PCs, tablets and iPads or iPhones! This awesome running mobile game features easy controls, dark graphics, and challenging gameplay.&nbsp;</span></div><div><br></div>",
+      "size": 1280,
+      "height": 720,
+      "script": "https://m.shtoss.com/game/shadow-boy-adventures/index.html\r\n",
+      "metaTitle": "Shadow Boy Adventures, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Shadow Boy Adventures at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Shadow Boy Adventures Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7331,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.741Z",
+      "updatedAt": "2024-02-29T13:06:56.023Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICON- L-R MOVE,R ICON- JUMP",
+      "webControlKeys": "UP ARROW- JUMP, L-R ARROW- MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
