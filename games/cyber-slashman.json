@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c408",
+      "id": 6520,
+      "name": "Cyber Slashman",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "cyber-slashman",
+      "image": "6520",
+      "url": "cyber-slashman",
+      "description": "<div>Do you consider playing action games online as your favourite pastime? Is becoming a cyber hero your dream? If yes, you have reached out at a right place. We have brought to you a brand new action-packed challenge where you are going to play the role of a brave cyber hero. Your entire area is occupied by a horde of deadly robots and you have no other choice but fighting against them to clean up the area. Attack all of your enemies like a true fighter to achieve the objective of your game!</div><div><br></div><div>Challenging your killing skill will definitely show you the path of victory in this HTML5 fighting game! Keep fighting until you spot the endpoint to win! Grab your gun and get ready to guide your character to escape from this extremely dangerous space station! Common friends! You are a brave soldier so do no need to feel low for a single second when you meet a huge horde of blood-thirsty monsters and enemies. Defeat all of them and prove the world that nobody can beat you in a war!</div><div><br></div><div>There are multiple unique and challenging levels to play through in this sci-fi adventure platform game. Track your health bar at the top left corner of the screen in Cyber Slashman! You can also check out the number of stars and money you have earned by looking at the top icons that are next to the health bar. Pause your game whenever you want by clicking the pause icon shown on the top right corner of the screen! Browse through our huge collection of free action games to spot the one that suits your tastes and have blast without download!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/cyber-slashman/",
+      "metaTitle": "Cyber Slashman Game, Fighting - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Cyber Slashman at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Cyber Slashman, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 1154,
+      "dislikes": 175,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 213769,
+      "ownGame": true,
+      "addDate": "2020-07-12T14:41:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-28T08:34:07.587Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT SIDE ICONS TO JUMP AND HIT,LEFT ICONS TO MOVE",
+      "webControlKeys": "Z-SLASH, UP,L-R ARROW- MOVE"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 102
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
