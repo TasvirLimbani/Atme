@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c330",
+      "id": 6256,
+      "name": "Control 2 Cars",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "control-2-cars",
+      "image": "6256",
+      "url": "control-2-cars",
+      "description": "<div>It is time to challenge your driving and concentration abilities! Would you like to test it in a complete unique way? If yes, join Control 2 Cars game and be prepared to control two cars at a single time. Do not take it easily as mastery will only come if you are ready to give your 100 percent efforts. Makes sure that you collect all the flags with both cars and dodge traffic cones to drive for long.</div><div><br></div><div>Remember you will lose your game immediately in case if any of vehicle touches an obstacle or misses a flag. Try to put your insane driving and concentration skills to the test to control both cars simultaneously in this brand new racing game! Use the control keys or mouse when you play it in your PC or you can also tap the screen of your mobile phone to enjoy it in your hand-held device! Your good reflexes will also help to create your best high score.</div><div><br></div><div>Track your score by having a look at the top middle portion of the screen! When you are in the game, you cannot take your eyes off for a single second. This may create the chances of being collided with any unwanted obstacles or losing a track and you will lose then. Common friends! Do your work hard, ride both cars like a pro to create your new best score! Our website covers plenty of free racing titles that are available to play online on multiple browsers and devices. Good luck to have a blast with your friends!</div>",
+      "size": 480,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/12bf2fbbd545420d91c173474ee679f3/\r\n",
+      "metaTitle": "Control 2 Cars Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Control 2 Cars at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Control 2 Cars Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579515784.xml",
+      "idealFor": "Man",
+      "likes": 60,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 12758,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:53:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-04-27T05:10:42.504Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP THE SCREEN TO SAVE THW CARS",
+      "webControlKeys": "CLICK LEFT MOUSE TO CONTROL THE CARS"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
