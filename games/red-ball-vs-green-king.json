@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b519",
+      "id": 2325,
+      "name": "Red ball vs green king",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "red-ball-vs-green-king",
+      "image": "2325",
+      "url": "red-ball-vs-green-king",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It seems that this red ball is in the angry mode! His girlfriend has been kidnapped by the King green ball and he could not do anything. But, he could not live without her girlfriend so the cute red ball has decided to enter the building of green ball with multiple floors and take her girlfriend out from there. You are a good friend of the red ball has decided to guide him throughout his journey. Join Red Ball Vs Green King and be prepared to help him save his girl from the evil green ball king!</span></div><div><span style=\"font-size: 13.3333px;\">There are 50 rooms to get through in this brand new adventure game. Collect the key and then move towards the exit gate while avoiding the spikes and other obstacles to clear each level. You would have hundreds of wicked enemies combined with a great number of spikes to face off. All you need to do is just beat them to reach your target. In each level, you would have a particular number of lives to use so be careful while overcoming the problems.&nbsp;</span></div><div><span style=\"background-color: transparent; font-size: 10pt;\">The cruel and black bouncy balls will be waiting for you in the further levels. Do not forget to collect the hearts to boost your life in this HTML5 platform game. Get ready to test your patience to clear all the levels and become a champion of this platformer! You will win the fight only if you are sufficient enough to defeat the final boss. Good luck to defeat the evil King ball green and guide your friend to save his girlfriend safely from the prison!</span><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/f779ce35fd4541d5b1d8eca6f99f8114/\r\n",
+      "metaTitle": "Red ball vs green king, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Red ball vs green king at atmegame.com ! We have selected this platform games for best excitement and thrill in you!",
+      "metaKeyword": "Red ball vs green king Game, Action Games, platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 27,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 12049,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-04-17T14:55:44.293Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R OF SCREEN TO JUMP",
+      "webControlKeys": "L-R ARROWS TO MOVE L-R , L CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
