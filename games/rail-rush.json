@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aee4",
+      "id": 446,
+      "name": "Rail Rush",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "rail-rush",
+      "image": "446",
+      "url": "rail-rush",
+      "description": "<p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font face=\"verdana\" size=\"2\" color=\"#000033\">Your best rewards are the places, where, there is stored the most dangerous of risk and life threatening hurdles. The rail rush online game is all about the running game were the deepest and darkest coal mines you have to travel to collect the best of gems at the rail that is rushing towards.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font face=\"verdana\" size=\"2\" color=\"#000033\"><span style=\"background-color: transparent;\">In the game, there is speed to be tracked at the vehicle that is running at an uncontrolled speed. It is the game especially for the gamer that loves the intense and thrill every movement of their life. In the game, their things get acted based upon the depths of dark, dangerous and lethal coal mines.</span><br></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font face=\"verdana\" size=\"2\" color=\"#000033\"><span style=\"background-color: transparent;\">While moving ahead in this free online game you can collect a good number if gold nuggets and jewels.&nbsp; But, it is the most important in this game is to remain positive and balanced to win the game. A slight difference in judging the track lands you to the deep dungeon down losing the game forever. In the game, first the upper arrow is for the purpose of jumping, the lower arrow is for the sitting down, left and right arrow to track changes.&nbsp;</span><br></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><span style=\"background-color: transparent;\"><font style=\"\" face=\"verdana\" size=\"2\" color=\"#000033\">For, sliding left and right, their A and D command is being used.&nbsp; So, it is time to get the game going to collect the gold and jewels from the coal wines.</font></span><br></p>",
+      "size": 640,
+      "height": 640,
+      "script": "<!-- Place this code where you'd like the game to appear -->\r\n<div class=\"miniclip-game-embed\" data-game-name=\"rail-rush\" data-theme=\"0\" data-width=\"640\" data-height=\"640\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/rail-rush/\">Play Rail Rush</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/rail-rush/\" target=\"_blank\">Play Rail Rush</a> / More <a href=\"https://www.miniclip.com/games/genre-1194/\" target=\"_blank\">iPhone games</a></p>\r\n\r\n<!-- Insert this code before your </body> tag -->\r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "Rail Rush, Running Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Rail Rush at atmegame.com ! We have selected this Running games for best excitement and thrill in you!",
+      "metaKeyword": "Rail Rush, Adventure, Running Games, Rail Rush Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 128,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 15098,
+      "ownGame": false,
+      "addDate": "2017-07-13T15:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2025-05-22T13:24:35.850Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT FOUND"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 17
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
