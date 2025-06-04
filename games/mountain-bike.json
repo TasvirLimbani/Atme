@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad75",
+  "category_name": "bicycle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad75",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af6a",
+      "id": 600,
+      "name": "Mountain Bike",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "mountain-bike",
+      "image": "600",
+      "url": "mountain-bike",
+      "description": "<div>Mountain Bike is a new BMX bike game that allows you to enjoy a lot of stunts and difficulties. Ride your bike at a fast speed as you can to reach the end of the track. You would be allowed to enter the next level once you succeed in reaching the end of the track before your energy bar reaches zero. Play this <a href=\"http://www.atmegame.com/online-bicycle-games\" title=\"Bicycle  Games\" target=\"\"><font color=\"#0033cc\">free bicycle game</font></a> and let yourself allow to enjoy the maximum level of fun and excitement on the rocky street. Collect as many stars as you can do to boost up your energy level while dodging different levels of obstacles.&nbsp;</div><div><br></div><div>In this addicting bike racing game, you would be able to perform plenty of awesome tricks on your bike to get yourself credited with the maximum number of a score and reach the finish line safely as soon as possible. Play this side-scrolling physics game and enjoy the real fun of mountain biking.</div><div><br></div><div>Controls : Arrows = Ride, Leertaste = Turn</div><div><br></div><div>The best way to win all the levels of this BMX bike game for boys is to use your riding and biking skills while keeping the multilevel gaming strategy in mind.</div><div><br></div><div>Bike riders game is generally divided into two modes i.e. Single Player and Multiplayer depending upon the choice of the riders. Although plenty of <a href=\"http://www.atmegame.com/\" title=\"\" target=\"\"><font color=\"#0033cc\">flash games</font></a> are available for PC and phones, you love playing the one that you and your group of friends like. The best driving games allow you to either play the form of online game or save it to your computer. When you play this cool bike stunt racing game, you have an option to choose from the model of the sports bikes. But, some advanced models are being locked.&nbsp;</div>",
+      "size": 500,
+      "height": 400,
+      "script": "600_swf.swf",
+      "metaTitle": "Mountain Bike, Bicycle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mountain Bike at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "cycle games, cycle online, cycle racing games, bicycle games, Mountain Bike",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 46,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 18055,
+      "ownGame": false,
+      "addDate": "2017-09-11T18:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.670Z",
+      "updatedAt": "2024-02-25T06:46:42.346Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 29
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad75",
+      "name": "bicycle",
+      "slug": "bicycle",
+      "icon": "bicycle-racing-games"
+    }
+  }
+}
