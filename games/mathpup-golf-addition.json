@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6b",
+  "category_name": "golf",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0a0",
+      "id": 5435,
+      "name": "MathPup Golf Addition",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "mathpup-golf-addition",
+      "image": "5435",
+      "url": "mathpup-golf-addition",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You may probably a big aficionado of golf. However, the situations and circumstances restricted you from living up the craziness and craving for the sport in your real life. Today we have come with a brand new online game “MathPub Golf Addition”, which love golf from the bottom of their heart. It is not important to be an enthusiastic of the sport to try it in your device. This cool html5 sport can be playable by anyone in all devices irrespective of their age group.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this one of the best sports games for boys is to complete all holes and become a champion of golf. Be prepared to enter it and get you ready for practicing and reinforcing your golf skills! There are three different and challenging modes, including Beginner, Intermediate and Expert to choose from based on your skills. Challenge your concentration and golf skills to complete all 20 levels in this easy and simple online golf game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Do not forget to grab 3 stars by reducing your shots taken on holes. The collection of 3 bonus shots will also guide you on your way. Make sure to answer extra problems that display on the screen right before the beginning of each level to avoid penalties in fun mathematical game. We have a wide collection of mathematics games online for free designed to improve your mathematical skills. Give our kids education games a try to help your little ones to improve their knowledge about a particular subject or topic!</span></div>",
+      "size": 1200,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/9461a12f63ba46f0b8b751ba084a847f/\r\n",
+      "metaTitle": "MathPup Golf Addition,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game MathPup Golf Addition at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "MathPup Golf Addition Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 43,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11205,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2024-10-13T22:27:36.651Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO SELECT THE DIRECTION,RELESE TO HIT THE BALL",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SELECT THE DIRECTION,RELESE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "2.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6b",
+      "name": "golf",
+      "slug": "golf",
+      "icon": "golf-games"
+    }
+  }
+}
