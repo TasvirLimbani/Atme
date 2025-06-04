@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b20b",
+      "id": 1440,
+      "name": "Goldblade",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "goldblade",
+      "image": "1440",
+      "url": "goldblade",
+      "description": "<div>Are you looking forward to be a part of the funny and most popular online gaming activity? Do you want to give your boring hours a break with the involvement in some engaging and interesting brain teasers? Join Princess Goldblade And The Dangerous Water and get ready to experience the fun adventure you have never taken before! Here you will meet with a courageous princess Goldblade who needs your help to recover her children and treasures! The story includes many exciting and engaging moments to be explored in this brand new adventure game!&nbsp;</div><div><br></div><div>There was a beautiful island where Princess Goldblade lived with her children. People of the village were quite happy with their work, but suddenly something terrible happened and all the treasures of her village have been stolen by a group of deadly monsters. Even they also attacked her children and took them along. Now it is your responsibility to help Goldblade get her children and treasures back. Get ready to face many traps and monsters when you join this free online platform game!</div><div><br></div><div>Jump from one platform to another using X while fighting the bad creatures that threaten your life in this side scrolling game! Make sure to reply your dangerous enemy smartly with a clever solution. You have to put your logical thinking, quick reactions and skills to test in this cool platformer game. The colourful graphics, easy controls and seamless gameplay will keep you engrossed for hours. Play it now and enjoy this incredible adventure! All the best, kids!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/9f0f5c195e6b486093b11a118dea1eac/\r\n",
+      "metaTitle": "Goldblade Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Goldblade at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Goldblade Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489364.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8905,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.689Z",
+      "updatedAt": "2024-03-08T13:50:27.126Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS- JUMP AND ATTACK, L ICONS- MOVE",
+      "webControlKeys": "X-JUMP,C- ATTACK, L-R ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
