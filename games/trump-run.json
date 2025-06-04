@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba5c",
+      "id": 3792,
+      "name": "Trump Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "trump-run",
+      "image": "3792",
+      "url": "trump-run",
+      "description": "Trump Run is a HTML5 game where you can play Trump! In this game you need to quickly determine the path, dodging holes and Mexicans so Trump can build the wall! Don not forget to take the money and diamonds, this makes the game easier.",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/trump-run-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Trump Run, Running Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Trump Run at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Trump Run Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 21,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8822,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2025-02-06T19:58:46.202Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO TURN L-R",
+      "webControlKeys": "L CLICK OF MOUSE TO MOVE AND TURN L-R SIDE"
+    },
+    "rating": {
+      "rating": "2.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
