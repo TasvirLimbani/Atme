@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b7ed",
+      "id": 3118,
+      "name": "Ellie Skin Doctor",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "ellie-skin-doctor",
+      "image": "3118",
+      "url": "ellie-skin-doctor",
+      "description": "Go into the emergency room with Ellie and treat her skin problems! She has a lot of rashes and wounds so you have to use all the tools in order to make her feel better. See how to get rid of the problems using crazy lasers, cryogenic guns and apply beauty masks to calm the skin. Discover all the treatment steps in this cute doctor game and help Ellie get her flawless look back!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/8bd8891f60c446399709189c95bdffc9/\r\n",
+      "metaTitle": "Ellie Skin Doctor, Doctor Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ellie Skin Doctor at atmegame.com ! We have selected this doctor games for best excitement and thrill in you!",
+      "metaKeyword": "Ellie Skin Doctor Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533531766.xml",
+      "idealFor": "Man",
+      "likes": 163,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 45167,
+      "ownGame": false,
+      "addDate": "2018-08-06T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.719Z",
+      "updatedAt": "2024-03-24T05:49:58.550Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP AND SWIPE TO PICK THE ITEMS FOR SKIN TREATMENT",
+      "webControlKeys": "KEEP PRESS AND SWIPE TO PICK THE ITEMS FOR SKIN TREATMENT"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 33
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
