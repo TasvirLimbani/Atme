@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af16",
+      "id": 502,
+      "name": "Endless Truck",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "endless-truck",
+      "image": "502",
+      "url": "endless-truck",
+      "description": "<div>The endless Truck game is an awesome 3D free online <a href=\"http://www.atmegame.com/online-truck-games\" title=\"\" target=\"\"><font color=\"#0033cc\">truck driving game</font></a> for kids. In this highly challenging truck racing game, you will get a chance to have an awesome monster truck riding near the beautiful beach. Sit behind the wheel of an exclusively-designed monster truck and make sure to complete each level without being crashed anywhere on your way. Do not forget to gather money and perform some highly crazy flips in this easy-to-play flash game. </div><div><br></div><div>Do not let your monster truck out of fuel and travel to as much distance as you can in this endless distance racing game. This fun driving game ensures you to enjoy unlimited fun and excitement. Collect the money that you can use to purchase truck upgrades. The performance of the cool stunts in this truck racing game for kids will also help to earn extra money for your further usage. In order to ensure the huge speed boost, try to make the perfect landing. </div><div><br></div><div>Although a huge variety of cool monster truck games is awaiting you, Endless Truck game has a lot to offer especially if you are a racing game enthusiast. In this free online truck game, you are highly required to open your mind while avoiding the obstacles and reaching the final point since you will drive on a challenging road. Use your exclusive yet impressive driving skills to become a good driver in this free online highly addictive game. Make sure you will achieve a top position on the leaderboard! Good luck with a safe truck riding!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://play.famobi.com/endless-truck/A-925FD",
+      "metaTitle": "Endless Truck, Truck Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Endless Truck at atmegame.com ! We have selected this Truck  games for best excitement and thrill in you!",
+      "metaKeyword": "monster truck games, truck racing, monster truck racing games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 279,
+      "dislikes": 42,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 39002,
+      "ownGame": false,
+      "addDate": "2017-07-23T15:43:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.668Z",
+      "updatedAt": "2024-10-07T08:14:15.776Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS TO BALANCE, RIGHT ICON TO JUMP",
+      "webControlKeys": "L-R ARROWS TO BALANCE, SPACE-JUMP, L CLICK OF MOUSE TO - MOVE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 26
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
