@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3d3",
+      "id": 6465,
+      "name": "Heroes Battle",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "heroes-battle",
+      "image": "6465",
+      "url": "heroes-battle",
+      "description": "<div>One of the biggest virtual wars has just begun! It is time to challenge your war skills and show off the world that you are a true warrior of this planet! Join Heroes Battle and be prepare to rule the world like never before with the help of your sharp weapons! You are not alone friends! Thousands of brave hearts are ready to fight for glory. The winner will be only the one who will fight from their hearts out.</div><div><br></div><div>Choose from any world out of 1, 2 and 3 options and then start the battle from the first level in this brand new adventure game! This fight will take place among the multiple warriors including Battle Gear, Myth Wars, Humaliens or Age of Defense. Defeat your enemies to collect points and coins through which you can also purchase in-game upgrades! Speed up the game by clicking the speed button â€“ 1, 3, and 5.</div><div><br></div><div>You would have 6 unique and challenging spells in this HTML5 war game to interact with. Make sure to make it active at crucial moments like Immortal for infinite lives, Curse Enemy for curse enemy units, Reinforcement for call new warriors to the battlefield, Damage ++ for increase damages, Range++ for increase ranges, and Live++ for increase lives. The proper clashing of armour and swords will guide you towards the victory. Good luck to join the battle and mark your victory in the end in this free online game where there is no need to download to play!</div>",
+      "size": 780,
+      "height": 440,
+      "script": "https://html5.gamedistribution.com/39907d6749db4fe7936e4428ae96c2a4/\r\n",
+      "metaTitle": "Heroes Battle Game, War - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Heroes Battle at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Heroes Battle Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 31,
+      "dislikes": 10,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 10412,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-04-21T07:34:37.516Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ICONS TO CALL THE DEFENDERS",
+      "webControlKeys": "CLICK ON THE ICONS TO DOWN TO CALL THE DEFENDERS"
+    },
+    "rating": {
+      "rating": "2.7",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
