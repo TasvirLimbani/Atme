@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb28",
+      "id": 4009,
+      "name": "X Trial Racing MA",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "x-trial-racing-ma",
+      "image": "4009",
+      "url": "x-trial-racing-ma",
+      "description": "<div>Are you a lover of bikes and biking? Is going on an awesome adventure on your favourite bike your hobby? Join X Trial Racing MA and be prepared to take control on a lovely sports bike while driving it up and down hills! Your driving will be extremely tough since your way is full of deadly traps and other obstacles. Be careful and try to be as fast as possible to race against the clock! You have to drive your bike until you reach the checkered flag.</div><div><br></div><div>Keep your eyes on the screen and try to avoid any dangerous obstacles while jumping through the deadly gaps in this brand new bike racing game! Your good control on the bike will help to complete each level with the maximum possible stars. Grab all 3 stars by beating your previous time with each attempt! There are 30 unique, challenging and engaging levels to play through. Do your best to collect all 90 stars in this epic bike game!</div><div><br></div><div>Put your bike riding and concentration skills to the test to become the master of this lovely motorcycle driving challenge! Complete all racing trials and show off the world that one can ride bikes on the mountain like you! Remember you would lose your game if your bike falls down. Try to land your bike on the next log section with one wheel landed, and make sure to hit on the rocky support underneath the track! Check out more bike games for free on atmegame.com and have fun without download!</div>",
+      "size": 720,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/c61745c9ab66491fbf2193c63c100a9a/\r\n",
+      "metaTitle": "X Trial Racing MA, Bike Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game X Trial Racing MA at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "X Trial Racing MA Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 95,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 34366,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2025-02-10T08:48:56.052Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS TO BALNCE, RIGHT ICONS TO MOVE",
+      "webControlKeys": "UP ARROW TO SPEED UP, L-R ARROWS TO BALANCE"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
