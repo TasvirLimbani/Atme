@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b647",
+      "id": 2678,
+      "name": "Drift Z",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "drift-z",
+      "image": "2678",
+      "url": "drift-z",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The unwanted darkness is everywhere in the city and you are left all alone in a vast area. Hope you will survive by eliminating a horde of zombies, who want to kill you and eat your brains. You have your rusty sedan to travel through the city. Hurry up, friends! The sun is just about to rise and it becomes easier for the evils to spot you. Start the engine of your car and leave your place for the biggest killing adventure of your life in this brand new zombie game for boys! </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Be careful when you are on road and try to kill all these bloodthirsty zombies by your ride before they start appearing in a bigger number. Hit them by the back part or by a side of your car in order to avoid the maximum damage to your vehicle in this free online action game. In case of fixing the damage of your car, you need to opt for the green illumination, that can only be activated if you maintain at least 30 killed furious zombies in your account.   </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\"> Drift your four-wheeler like an expert and make its tires burn in order to include your name in the list of biggest zombie killers by eliminating as many zombies as you can. It will be a great fun while driving over the furious zombies and smashing into them in this one of the best adventure games 3d. You have a freedom to drive anywhere in the city ? abandoned highways or street with huge skyscrapers. The longer you survive in your sedan; the higher points you will be able to make at the end of this 3D zombie game for boys. Test out your ultimate driving skills right away in Drift Z using WASD or arrow keys! </span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/driftz/index.php",
+      "metaTitle": "Drift Z, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Drift Z at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Drift Z Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7300,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2022-08-23T23:21:30.104Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "WA,S,D, ALL ARROWS - MOVE, SPACE- BREAK, C- CHANGE THE VIEW,, SHIFT - CLUTCH, L- LIGHT"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
