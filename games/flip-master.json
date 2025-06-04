@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af53",
+      "id": 574,
+      "name": "Flip Master",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "flip-master",
+      "image": "574",
+      "url": "flip-master",
+      "description": "<div>Primarily referred to as a sister game to the worldwide recognized Flip Diving game, Flip Master is a beautifully-designed trampoline <a href=\"http://www.atmegame.com/online-flying-games\" title=\"\" target=\"\"><font color=\"#0033cc\">jumping game or flying game</font></a>. Your correct landing on the trampoline would help to win this game.</div><div><br></div><div>Try to jump appropriately while performing flips in order to increase your score. The key to unlocking new tricks, characters, trampolines and more cool stuff is to collect as many coins as you can do. You can easily set the highest score possible by making a continuous run. Once you land on your head on the trampoline, your run ends. Thus, to keep on going, all you need to do is land on your feet or your back.</div><div><br></div><div>In this cool <a href=\"http://www.atmegame.com/online-adventure-games\" title=\"\" target=\"\"><font color=\"#0033cc\">adventure game</font></a>, the excitement and fun would be enough when you get a chance to dive on a trampoline instead of diving from cliffs into the water. You would soon become a master of a huge range of various flips and tricks when you play this free online game. Be careful and never try attempting these awesome flips and stunts at your home!</div><div><br></div><div>You can click and hold the left mouse button to get the control on the flipping of your character in this free flash flying game. Remember, the longer you click the mouse button, the more flips you would be able to perform. For every successful jump and flip, you can earn the points which you can use to buy new characters and also unlock new areas to play in with the circus and gym. Try this latest flying game and have huge fun!!</div>",
+      "size": 488,
+      "height": 670,
+      "script": "<!-- Place this code where you'd like the game to appear -->\r\n<div class=\"miniclip-game-embed\" data-game-name=\"flip-master\" data-theme=\"5\" data-width=\"488\" data-height=\"670\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/flip-master/\">Play Flip Master</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/flip-master/\" target=\"_blank\">Play Flip Master</a> / More <a href=\"https://www.miniclip.com/games/genre-1151/\" target=\"_blank\">Stunt games</a></p>\r\n\r\n<!-- Insert this code before your </body> tag -->\r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "Flip Master, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game flip master at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "flip master, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 22,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 9131,
+      "ownGame": false,
+      "addDate": "2017-09-04T10:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.669Z",
+      "updatedAt": "2024-03-02T09:15:22.658Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO JUMP LEFT RIGHT "
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 12
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
