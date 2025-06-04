@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c079",
+      "id": 5393,
+      "name": "Mini Racer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "mini-racer",
+      "image": "5393",
+      "url": "mini-racer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">We have got a pleasure to introduce you a brand new racing game where you can keep you entertained for hours and hours. Join Mini Racer game and be prepared to drive various types of cars for your life! You have to control different sports car models while avoiding the vehicles of your opponents on the track. Your crash with other cars will cost a life and you will immediately be thrown out of the game as a response.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Being the best racer of your city, you have decided to take up this challenge and dive into the amazing racing challenge where you have to steer clear of danger to win your race. You have the talents and skill to make this job pretty easier. So get ready to put your fabulous driving and amazing drifting skills to test to survive as long as you finish your race in this html5 and mobile run game.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Be prepared to overtake various car and truck models while racing through highway traffic and swerving quickly! Driving your car at breakneck speed will help to earn some extra points. So, try put your finger on the accelerator to reach fast in this cool racing adventure! It is up to you to earn the maximum points by covering the maximum distance on the track. Choose mode between the two options Tiny Cars and Aphex and enjoy this lovely mobile game in one player or two player mode! Good luck to try more car games online without download app!</span></div>",
+      "size": 1000,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/f5306bccf80c402e8a756a3f3a11d4de/\r\n",
+      "metaTitle": "Mini Racer,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mini Racer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mini Racer Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552278458.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8228,
+      "ownGame": false,
+      "addDate": "2019-03-11T09:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2024-03-31T02:43:45.441Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
