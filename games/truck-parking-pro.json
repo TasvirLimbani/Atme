@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c419",
+      "id": 6537,
+      "name": "Truck Parking Pro",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "truck-parking-pro",
+      "image": "6537",
+      "url": "truck-parking-pro",
+      "description": "<div>Do you consider yourself expert in parking vehicles? Are you a lover of riding different four-wheeler models including truck? Join Truck Parking Pro and be prepared to ride the truck over all the challenging and tricky obstacles through complex tracks! Your objective in this brand new racing game is to park your chosen truck in the designated spot. We hope that you have the skills to finish all the levels and win the crown of being the best driver.</div><div><br></div><div>Be careful and try to be fast since you would have 10 different and engaging levels to play through in this HTML5 parking game! The gameplay is pretty simple but full of different deadly obstacles that make this game highly exciting and worth playing. Make sure to find the right parking place without hitting anyone else on the road. Use the accelerator and do not forget to apply the brake if needed to avoid the collision!</div><div><br></div><div>Grab as many coins as you can along the way and use those coins to upgrade your new vehicles and boost your score! You can expect to meet the difficulty in each centimeter of road. Get ready to experience the amazing sound effects and special music to increase your fun in this cool car park challenge! Remember the difficulty level will increase as you progress in the game. Our website is full of free car parking games that you can enjoy on your favorite devices and have a blast with your friends, no download required.&nbsp;</div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://games.atmegame.com/games/truck-parking-pro/",
+      "metaTitle": "Truck Parking Pro Game, Parking - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Truck Parking Pro at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Truck Parking Pro, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 5057,
+      "dislikes": 830,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 1286338,
+      "ownGame": true,
+      "addDate": "2020-07-25T19:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-06-03T12:27:19.514Z",
+      "__v": 0,
+      "mobileControlKeys": "PRESS KEYBORD OPTION ON LEFT CORNER OFV SCREEN TO VIEW THE ICONS, RIGHT ICONS TO BRERAK AND MOVE, LEFT WHEEL TO DIRECTION",
+      "webControlKeys": "ALL ARROWS TO MOVE, SPACE -BREAK"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 447
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
