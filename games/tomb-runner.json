@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 0,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1f7",
+      "id": 1415,
+      "name": "Tomb Runner",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "tomb-runner",
+      "image": "1415",
+      "url": "tomb-runner",
+      "description": "<div>Give your fingers and gaming desire an ultimate treat with the engagement in this brand new adventure game Tomb Runner! The entire world is getting crazy about it due to its seamless gameplay, easy controls and marvellous graphics. Here you will meet Professor Jones who only survive until he keeps running. Join his endless running marathon to help him run, jump, slide, rush and get through, over as well as under various obstacles!</div><div><br></div><div>Make sure to collect score boosting coins, special powers and precious gems while going through the bridges, exotic landscapes, temples and subways. In this free online platform game, you have run as far as possible and collect coins, which will later help you to unlock new and cool characters like the Hip Disco Dancer, Agent 99, Mummy and Lara Bones and so much more. Based on a popular game named Temple Run, this endless runner game is highly addictive and engrossing.?</div><div><br></div><div>Let us join the professor and help him find out the treasure he deserves for. The adventure in assisting him to escape from the tomb is enough to keep your engaged for hours. Obstacles like impossibly tight gaps to get through, spiked barrels and flaming statues are there to stop you from running over the platform. Performing the death-defying tricks in this game will give you an excitement paired with fast-paced action that you will definitely cherish for long! Check out more running games for boys over here during your free time!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://cdn.gameplayer.io/embed/576742227280298086/?ref=html5.gamedistribution.com",
+      "metaTitle": "Tomb Runner, Running Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tomb Runner at atmegame.com ! We have selected this running games for best excitement and thrill in you!",
+      "metaKeyword": "Tomb Runner Game, Adventure Games, running Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489309.xml",
+      "idealFor": "Man",
+      "likes": 115,
+      "dislikes": 9,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 43753,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.689Z",
+      "updatedAt": "2024-04-26T09:07:12.388Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE UP ON SCREEN TO JUMP, SWIPE DOWN- SLIDE, SWIPE L-R TO L-R MOVE",
+      "webControlKeys": "UP ARROW - JUMP, L-R ARROWS TO MOVE L-R, DOWN ARROW SLIDE"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 11
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
