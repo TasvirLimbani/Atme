@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0bc",
+      "id": 5465,
+      "name": "EG Hold Position",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "eg-hold-position",
+      "image": "5465",
+      "url": "eg-hold-position",
+      "description": "<div><span style=\"font-size: 13.3333px;\">EG Hold Positon is an awesome brand new action packed challenge where you have to control a bunker that is ready to help you destroy all your enemies. Aim your target by moving the mouse cursor and get yourself ready to release fire in the sky! Your enemy planes are very fast and not going to show mercy on you. Do not forget to collect coins and use them to purchase new weapons and upgrade turrets!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You can tap the screen to shoot your enemies in this one of the most popular action games. It can be playable on all devices, including desktop and laptop computer, mobile phones as well as other gaming consoles. This highly challenging and addictive shooting game features cool colored graphics, easy control and excellent gameplay. Keep your fingers ready on your mouse to knock down your enemies and set a huge score on the screen!<br><br></span></div><div><span style=\"font-size: 13.3333px;\">The top right corner of the screen will display the coins you have gathered so far in this cool html5 bunker game. Apart from the bunker, the ground turret and air turret will also be available to provide you support in the battlefield. We are delighted to serve you with more advanced and new war games on free online game website. Give our all games a try to choose an appropriate fps multiplayer gun shooter game to have a blast on the web!!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/e21d4920243c49ff8c7760028f6d0dfa/\r\n",
+      "metaTitle": "EG Hold Position, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EG Hold Position at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "EG Hold Position Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449471.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8928,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:27:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-01-01T17:04:46.101Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R OF SCREEN TO CONTROL",
+      "webControlKeys": "L CLICK OF MOUSE TO CONTROL THE DIRECTION AND SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
