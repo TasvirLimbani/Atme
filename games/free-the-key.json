@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba50",
+      "id": 3779,
+      "name": "Free the Key",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "free-the-key",
+      "image": "3779",
+      "url": "free-the-key",
+      "description": "Free The Key is a seemingly simple looking game, but it actually is very challenging. Try to unlock the key through the exit by moving the blocks around it!",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/free-the-key-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Free the Key, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Free the Key at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Free the Key Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10852,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2024-03-12T12:25:53.374Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE BOXES TO MAKE THE WAY FOR THE KEY",
+      "webControlKeys": "KEEP PRESS AND SWIPE ON THE BOXES TO MAKE THE WAY FOR THE KEY"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
