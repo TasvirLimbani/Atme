@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c410",
+      "id": 6528,
+      "name": "Flappy Pig",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "flappy-pig",
+      "image": "6528",
+      "url": "flappy-pig",
+      "description": "<div>Who said a pig does not have a dream of flying in the sky? We have today brought to you a brand new arcade game where you will meet a pig who wants to flap its wings to freedom like a bird. Would you be able to guide him out to stay for long in the sky? Join Flappy Pig and be prepared to guide it through all the obstacles that you see in the sky! This small pig trusts on your skills a lot so do not hesitate in escaping the mad butcher.</div><div><br></div><div>Your objective in this cute HTML5 puzzle challenge is to hold the pig by using the mouse or tap the screen and guide it along a specific route through the air. All it requires to challenge and demonstrate your dexterity in managing a pig. This flappy pig does not know how to fly like a bird but it comes with a big heart and iron. Show it the way between the pipes and help the pig to earn medals and gain the best score!</div><div><br></div><div>The left top portion of the screen will show your present score, while you can pause the game or mute the music whenever you want by clicking the icons shown on the right top portion of the screen. Make sure to jump the pig timely to avoid the collision otherwise you will lose the game immediately. The awesome graphics that will keep changing, easy controls and soothing music can keep you entertained for hours, no download required to play it online. You will love it if you enjoyed flappy bird games in the past. Good luck!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/flappy-pig/",
+      "metaTitle": "Flappy Pig Game, Puzzle - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Flappy Pig at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Flappy Pig, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 473,
+      "dislikes": 45,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 54066,
+      "ownGame": true,
+      "addDate": "2020-07-12T16:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-04-21T07:37:50.817Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPPING SCREEN TO JUMP",
+      "webControlKeys": "KEEP CLICK TO JUMP THE PIG "
+    },
+    "rating": {
+      "rating": "3.1",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
