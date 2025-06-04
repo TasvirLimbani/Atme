@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd44",
+      "id": 4556,
+      "name": "Halloween Car Jigsaw",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "halloween-car-jigsaw",
+      "image": "4556",
+      "url": "halloween-car-jigsaw",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a big fan of challenging and addictive jigsaw puzzles? Do you like playing car games online to kill your time? Join Halloween Car Jigsaw and get ready to enter the highly exciting world of car puzzles! This brand new arcade game is based on the Halloween theme and will be enough to keep you glued to the screen for hours. Select one of the three wonderful Halloween-based images and then take a chance to choose one of the four modes</span></div><div><span style=\"font-size: 13.3333px;\">!</span></div><div><span style=\"font-size: 13.3333px;\">We are pretty sure that every picture in each mode will bring you close to your favorite occasion of the year. Choose your favorite image and put your memory skills to complete each jigsaw in the shortest time possible! In three beautiful 3 images, you would find four modes including 16, 36, 64 and 100 pieces to play through. Be careful and try to select the right difficult as your current gaming skills in this html5 puzzle challenge!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Drop pieces into the correct position to finish each puzzle! Use the mouse on your desktop or tap the screen on your mobile phone to solve out the puzzle! Click on the main button to begin the real fun! Choose a piece and drag it to the desired place on the board in this Halloween game! See your time by having a look at the top left corner of the screen! Try to place the border and corner pieces first to complete these puzzles fast! Then finish the middle area. Good luck to have more fun in our more tricky puzzle games for free to play online, no download required on atmegame.com!</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "\nhttps://html5.gamedistribution.com/3b9e765180a64e2aa3e28879710f701d/\n",
+      "metaTitle": "Halloween Car Jigsaw, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Halloween Car Jigsaw at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Halloween Car Jigsaw Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7853,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-03-25T08:15:04.811Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO JOIN THE PIECES TO MCOMPLETE THE IMAGE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND JOIN THE PICES TO COMPLETE THE IMAGE"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
