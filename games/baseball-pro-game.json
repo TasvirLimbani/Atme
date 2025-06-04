@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6a",
+  "category_name": "baseball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbb0",
+      "id": 4149,
+      "name": "Baseball Pro Game",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "baseball-pro-game",
+      "image": "4149",
+      "url": "baseball-pro-game",
+      "description": "<div>What could be better than practicing your baseball abilities especially if you are the lover of this sport? We are delighted to bring you close to a brand new sports game where you can prove your abilities and show off the world that you are truly a champion baseball player. Do you want to try out your hands in this unique online game? Join Baseball Pro and be prepared to hit the ball as hardest as possible to send it at the farthest place as possible to get high scores!</div><div><br></div><div>When you click the play button, you find two baseball players on the screen. You are the one who has to hit the ball while the other player is ready to deliver the ball. Get ready to face the ball as you click or tap the screen! You would have 10 balls to face off and secure points in this HTML5 baseball game. Try to hit hard to make as many home runs as possible every time when you would have a chance to play!</div><div><br></div><div>The farther you hit the ball, the higher points you would secure in the end. You would get the higher points if your ball reaches to the pavilion. Common boys! It is time to challenge your quick reflexes, timing and baseball skills to make as many home runs as possible. Secure the maximum points to secure a top position on the leaderboard and show off the world that you are true player of baseball! Good luck to lead your team towards victory in this fun sports challenge!</div>",
+      "size": 790,
+      "height": 960,
+      "script": "https://html5.gamedistribution.com/ab8b147412da4c19a1d0ae6ab740682a/\r\n",
+      "metaTitle": "Baseball Pro Game Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Baseball Pro Game at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Baseball Pro Game Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226795.xml",
+      "idealFor": "Man",
+      "likes": 56,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 20600,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:36:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-10-12T05:41:43.367Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO HIT THE BALL",
+      "webControlKeys": "L CLICK OF MOUSE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6a",
+      "name": "baseball",
+      "slug": "baseball",
+      "icon": "baseball-games"
+    }
+  }
+}
