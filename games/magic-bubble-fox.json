@@ -1,0 +1,62 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682adc7",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "6305622cf00e1a463fdb9b31",
+      "id": 6581,
+      "name": "Magic Bubble Fox",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "magic-bubble-fox",
+      "image": "6581",
+      "url": "magic-bubble-fox",
+      "description": "<p class=\"text_desc\">\nMagic Bubble Fox is an engaging bubble shooter in which you have to help a cute fox aim and match the identical bubbles to clear the screen for a high score. You will lose the game if the colored bubbles touch the bottom. <p>\n<p class=\"text_desc\">\nTry to go as far as possible and do not forget to grab multiple special power-ups and boosters to add some more excitement and fun to the gameplay. \n</p>\n\n<h4>\n\nKey Features:</h4>\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\"><li>\n<b>Exciting Power-Ups:</b> There is a huge variety of power-ups like explosive bombs and aiming tools to explore. Show some good moves to grab them and allow yourself to clear bubbles with ease.</li>\n<li><b> \nScore-Based Challenge:</b> Test your skills across different difficulties that progressively increase when you move forward. Each time you feel to encounter with unique challenges, keeping the game fresh and engaging for hours on end.</li>\n<li>\n<b>Colorful Graphics:</b> It will be amazing to get yourself into a visually stunning world that is filled with vibrant colors and eye-appealing animations. The colorful graphics play a crucial role in adding to the overall charm of the game, making it a real joy to explore.\n</li></ul></p>\n<p class=\"text_desc\">\nIn this one of the best arcade games for boys and girls, you have to hold your finger tightly, aim as carefully as you can, and allow yourself to match the bubbles to clear the screen. Be alert as you move forward, get a chance to collect various special power-ups and boosters to make your play more interesting and challenging.</p>\n<p class=\"text_desc\"> \nWhether you consider yourself a casual gamer seeking a relaxing pastime or a seasoned player who looks for a new challenge, this cool online HTML5 game is sure to keep you entertained.\n</p>",
+      "size": 640,
+      "height": 420,
+      "script": "https://games.atmegame.com/games/magic-bubble-fox/",
+      "metaTitle": "Magic Bubble Fox, Bubble Shooter games - Play Online Free : Atmegame.com",
+      "metaDesc": "Magic Bubble Fox! that is the free online arcade game offered for gaming enthusiast under arcade is your best opportunity to improve your arcade skills.",
+      "metaKeyword": "Magic Bubble Fox, Arcade games, Play Games, Games, Play Online, Play Free Games, Play Online Free Games",
+      "source": "",
+      "likes": 17578,
+      "dislikes": 11893,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 1048728,
+      "ownGame": true,
+      "addDate": "2022-08-23T12:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:26:36.472Z",
+      "updatedAt": "2025-06-03T07:42:59.023Z",
+      "__v": 0
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 599
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682adc7",
+      "name": "bubble-shooter",
+      "slug": "bubble-shooter",
+      "icon": "icon-iconAsset-56"
+    }
+  }
+}
