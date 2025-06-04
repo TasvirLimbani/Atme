@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf81",
+      "id": 5136,
+      "name": "EG Highway Racer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "eg-highway-racer",
+      "image": "5136",
+      "url": "eg-highway-racer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you ready to enter a racing world where nothing but a great amount of thrill and excitement of highway exist? Join EG Highway Racer and be prepared to outrun cars and trucks in high speed! Only those who are skilled enough to put their driving skills to test can win the race. You should not miss this wonderful opportunity in case if you think that you have the ability to become the master of high racing. It takes only a few clicks to be a champion of the speed world.</span></div><div><span style=\"font-size: 13.3333px;\">Click the start button and get yourself ready to weave through the traffic like a pro driver does! The high HD graphics smooth control and matchless 60 FPS game play will be enough to keep you engaged in any devices, including mobile phones. Select any mode among One Way, Two Way, Time Attack and Speed Bomb. Once it is done, move ahead and choose any stage among Sunny, Night and Rainy.&nbsp; Choose graphics to Low, Medium or High and image effects to Bloom, Road Reflections, Or Lens Flares, and controller to Gyro or Touch Screen!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Mark your win in the car race competition and become the best car racer in your city in this cool html5 speed game! The more distance you cover, the higher points are seen on the screen after finishing the race. You can purchase new styled car models through the points you collect while playing this 3D car game. Highway Racer features one way, two way and multiplayer mode, multiple beautiful cars to choose, customization through paint and wheels as well as eye-popping 3D graphics of highway through beaches, backwaters &amp; bridges.</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/5ddaf1438a62469ea07bb5f3531c275e/\r\n",
+      "metaTitle": "EG Highway Racer,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EG Highway Racer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "EG Highway Racer Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545466.xml",
+      "idealFor": "Man",
+      "likes": 64,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 19739,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:14:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2025-05-15T21:11:49.213Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO CONTROL,C-CHANGE THE VIEW, SPACE-BREAK"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
