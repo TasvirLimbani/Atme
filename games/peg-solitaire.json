@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd1c",
+      "id": 4516,
+      "name": "Peg Solitaire",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "peg-solitaire",
+      "image": "4516",
+      "url": "peg-solitaire",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This time we have brought to you a brand new arcade challenge where you have unique kind of puzzle to deal with! Are you ready to try it out and show the world that you are an ultimate puzzle solver? Join Peg Solitaire and get ready to kill your time by exploring an awesome board game! Your objective is to clear all of the pegs you see on the screen but one. Put your finger on your mouse or tap the screen to make your peg jump into an empty space to clear it from the screen!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Choose any out of multiple puzzle choices including Star, Pyramid, Trapezoid, Standard, Square, European, Asymmetric, Rhombus, German, Triangle, Diamond, Snowflake, and Hexagonal. You can try them out one by one and get an opportunity to keep you busy for hours. It is a wonderful html5 puzzle challenge that is perfect to play online for boys and girls. In case if you feel that you have made a wrong decision, you can undo your move by clicking the option shown on the top right corner of the screen.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">On the left bottom of the screen, you would notice a question mark button where you can click and know how to play this puzzle. Click the home page button displayed on the top left corner of the screen to visit the home page and select other puzzle challenge! Be careful as you have limited moves to use in this cute board game! If you feel that you get bored, you can browse our extensive range of arcade games and find your best match in just a few clicks. Enjoy your time while improving your skills on atmegame.com, no download required!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/0931f902adfd4e3f9d633914cfdef400/\n",
+      "metaTitle": "Peg Solitaire, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Peg Solitaire at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Peg Solitaire Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527121.xml",
+      "idealFor": "All",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8050,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2022-08-23T23:21:30.145Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO CONNECT THE DOTES TO MAKE THE STAR",
+      "webControlKeys": "L CLICK OF MOUSE TO TAP ON RED DOT AND DRAG IT TO THE BLUE DOT TO COMPLETE THE TASK"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
