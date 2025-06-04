@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b967",
+      "id": 3525,
+      "name": "Flappy Shooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "flappy-shooter",
+      "image": "3525",
+      "url": "flappy-shooter",
+      "description": "Enjoy this new version of Flappy Shooter. Show your skill and put your nerves to the test, at each step the game advances. Have fun!\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/3a0a8a860a884372a0ff6602c892c01c/\r\n",
+      "metaTitle": "Flappy Shooter, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Flappy Shooter at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Flappy Shooter Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536577197.xml",
+      "idealFor": "Man",
+      "likes": 24,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 14999,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2024-02-10T12:06:26.481Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPPING ON SCREEN TO JUMP",
+      "webControlKeys": "KEEP CLICK L-CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": "2.6",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
