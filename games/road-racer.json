@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c42a",
+      "id": 6554,
+      "name": "Road Racer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "road-racer",
+      "image": "6554",
+      "url": "road-racer",
+      "description": "<div>It is time to burn your tyres, avoid in the traffic and secure a top position the world of racing! Would you like to accept this challenge right away when many top racers of the city have already taken their steps back? Join Road Racer and be prepared to control a car and avoid the vehicles of your opponents! Huh! Put your intense driving and avoiding abilities to test! It is easy to try, but difficult to become a master of this brand new racing game.</div><div><br></div><div>Hey boys! You have got a new racing car that needs an expert to drive. Even a single crash cost you a life and you would lose your game immediately. The level of complexities will keep increasing as you progress in the game. You would have more cars to avoid when you race your sports vehicle and move forward down the street in this HTML5 car game! Drive as fast as you can while keeping your car away from the other vehicles on the road!</div><div><br></div><div>Play alone or invite your friends to see who is the best racer of the city! Track your score by looking at the top middle portion of the screen! The longer you stay; the higher score you will be able to make in the end. Check out more trendy and top racing games on our website to practice your driving abilities in a more immersive and realistic experience! Play car games for free, win rewards, and have fun with your friends, no download required on atmegame.com!</div>",
+      "size": 470,
+      "height": 751,
+      "script": "https://games.atmegame.com/games/road-racer/",
+      "metaTitle": "Road Racer Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Road Racer at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Road Racer, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 7699,
+      "dislikes": 771,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 1387200,
+      "ownGame": true,
+      "addDate": "2020-11-21T15:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-06-03T14:28:29.561Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS TO SPEED AND BREAK,LEFT ICONS TO L-R",
+      "webControlKeys": "W,UP ARROW TO SPEED, AD L-R ARROW TO LEFT RIGHT, S,SPACE, DOWN ARROW TO BREAK"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 541
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
