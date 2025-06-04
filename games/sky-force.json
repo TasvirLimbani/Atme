@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb68",
+      "id": 4074,
+      "name": "Sky Force",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "sky-force",
+      "image": "4074",
+      "url": "sky-force",
+      "description": "<div>Goblins have invaded your airspace and you would have no choice but to fight against them. You are a panda who is amongst the best fighter of your country. Suddenly you find yourself surrounded by a horde of wicked goblin invaders. The only way to save your country is to fight against them. Would you like to accept this action-packed adventure challenge? Join Sky Force Air Combat and be prepared to control your space fighter through plenty of air force enemies!</div><div><br></div><div>There are 4 unique and challenging stages to play through in this one of the best HTML5 war games for boys. Kill all your enemy planes to clear the present level! Make sure to beat the boss in this crucial air combat. Grab as many stars as you can to purchase new airplanes and weapons! You can also collect the power-ups to provide your plane with the needful protection and complete the stage fast. Track your health bar by looking at the top of the screen!</div><div><br></div><div>When you click the play button, you would enter the sky battlefield. Be careful as the sky is full of enemies and they will keep firing at your continuously. Try to destroy their planes and stay alive until you finish their boss plane! You can also use stars to keep playing. The vibrant graphics and intense action will keep you glued to the screen for long. Good luck to clean the air from all these dangerous enemies! Check out more challenging and interesting free adventure games and have a blast online without download!</div>",
+      "size": 500,
+      "height": 750,
+      "script": "https://html5.gamedistribution.com/5d751e2708ed4d00aa4006ed695a4904/\r\n",
+      "metaTitle": "Sky Force,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sky Force at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Sky Force Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10368,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2025-04-25T11:24:50.955Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO CONTROL THE PALNE"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
