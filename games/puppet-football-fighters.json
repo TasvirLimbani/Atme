@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b531",
+      "id": 2371,
+      "name": "Puppet Football Fighters",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "puppet-football-fighters",
+      "image": "2371",
+      "url": "puppet-football-fighters",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Oh my God! The highly popular and addictive pocket puppet football fighting championship has just begun and one of your close friends has already got participated in it. He needs your help to face off this ultimate challenge? Will you give your helping hands to the needy right away? If yes, join Puppet Football Fighters and get ready to kick, shoot, score and defeat your rival. Beating all the dangerous arena finger puppets will help you to win the trophy and become a legend in this fun 1-on-1 soccer game!</span></div><div><span style=\"font-size: 13.3333px;\">Feel free to use some cool free kicks to destroy other puppet players! Your good performance will help earn points and upgrade your team. Do not forget to grab all the cards that you can unlock by making some impressive moves. This brand new sports game requires challenging your learning skill to the optimum level since here you have to learn how to deal with the multiple puppeteer tricks. Select your most liked finger puppet team and gear up to eliminate all your enemies in this HTML5 soccer game!</span></div><div><span style=\"font-size: 13.3333px;\">Do everything you can like a pro does to beat your opponent! Kick, pass and foul in this HTML5 soccer game! Beating your rival team continuously will help you to climb the leagues soon! Begin Mexican waves fast and play like a pro to see your favourite player Welder Nolito ranking on the top position of the charts! Hit the ball as hard as you can to knock the crap out of your rivals and score a goal! Get the task done quickly by throwing some deadly grenades and other dangerous things you have in your bucket! Good luck to win some matches to unlock new characters!</span></div><div><br></div>",
+      "size": 920,
+      "height": 650,
+      "script": "https://html5.GameDistribution.com/ed863562b1804ec5bd82123f16ad5875/\r\n",
+      "metaTitle": "Puppet Football Fighters, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Puppet Football Fighters at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Puppet Football Fighters Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524808723.xml",
+      "idealFor": "Man",
+      "likes": 34,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 16289,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-09-03T04:31:14.228Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB GAME",
+      "webControlKeys": "NOT WORKING"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
