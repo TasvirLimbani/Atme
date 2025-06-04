@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4ed",
+      "id": 2277,
+      "name": "Planet Of Kaz",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "planet-of-kaz",
+      "image": "2277",
+      "url": "planet-of-kaz",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You cannot rest when your earth is surrounded by the undead. Yes, a horde of blood-thirsty zombies has invaded your planet and you have decided to protect it against the deadly creatures who have come from planet Kaz. Your objective is to destroy all of them and extract their bodies to regain the earth energy that was already consumed by the Kaz monsters in Planet of Kaz. This is the first time when you are going on such a crucial mission so be careful all the time.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">These aliens have come from a mysterious planet when the unparalleled peace hit the Earth. Make sure that you complete your mission before half the world was destroyed by these ruthless invaders in this brand new action game. Grab your weapons and powers and get ready to blast off their team of space troopers since they have visited your planet in a quest of the super awesome weapons! They also want to take the revenge from you.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This cool HTML5 shooting game features customised skill, collectible skill card, outer space monsters, seamless gameplay and many more. Use your weapons wisely to fight against different types of monsters! Make sure to rescue as many survivors as you can and remember a unique role is ready to be performed by each of them. Check out other free and addictive action-packed games on atmegame.com to allow you to enter the biggest world of thrill and entertainment!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/415d4a2cc35b4690ab2200a49a7316cb/\r\n",
+      "metaTitle": "Planet Of Kaz, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Planet Of Kaz at atmegame.com ! We have selected this Zombie  games for best excitement and thrill in you!",
+      "metaKeyword": "Planet Of Kaz Game, Action Games, Zombie  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11584,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-06-21T09:58:30.531Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": "NOT WORKING"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
