@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb10",
+      "id": 3985,
+      "name": "Car vs Cops",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "car-vs-cops",
+      "image": "3985",
+      "url": "car-vs-cops",
+      "description": "<div>Finding a right spot to escape from cops is the best thing that every thief wants to do. Today we have got you covered with a brand new racing challenge where you have to control a car that is seeking a way to escape from the multiple cop vehicles. Hey! You as a thief car will also have to take care of collecting money that you see along the way in Car Vs Cops. Grab a seat on your car, and get ready to operate the steering wheel to avoid police for as long as possible!</div><div><br></div><div>Keep your eyes on the screen and do not forget to grab the gold bars lying on the ground! Drive your car like a pro and try to drift around trying to get as many police cars crashed as you can in this HTML5 car game! Your final score will depend upon how long you will survive. Use the joystick or tap the controls to maneuver your car around! Buy new car models, tanks, trucks and helicopters with the help of the money you earn!</div><div><br></div><div>No need to be scared of and try to let the cop cars come close to you and make them crash for your survival in this arcade car racing endless high-speed chase game. The speed of cop cars would be faster than yours, but you can turn your vehicle and promote them to crash with each other to avoid them. This car driving simulator includes unlimited challenges, daily rewards, tons of vehicles to drive, amazing music and graphics as well as leaderboards. Good luck to enjoy an ultimate escaping experience!</div>",
+      "size": 500,
+      "height": 790,
+      "script": "https://html5.gamedistribution.com/6872756ade934c36980aaac861b8094c/\r\n",
+      "metaTitle": "Car vs Cops,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Car vs Cops at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Car vs Cops Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9057,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-01-13T05:43:29.838Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS AND SPIN THE WHEEL TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "2.2",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
