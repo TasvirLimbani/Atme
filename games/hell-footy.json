@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b52f",
+      "id": 2365,
+      "name": "Hell Footy",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "hell-footy",
+      "image": "2365",
+      "url": "hell-footy",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The biggest soccer championship game has just begun! Where are you, boys? Join Hello Footy and be prepared to guide a poor and innocent boy who wants to practice soccer skills in a cool playground! This is of course the first short football shootout training for the boy and he needs your help to deal with the dangerous creatures that appear during the match and start crawling to the player. He is very happy to be dressed up with the torn football jerseys.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">These deadly creatures just want to take the life of this cool football lover. You as his close friend have to defeat these monsters while earning lots of points. Score goals and try to survive through 20 levels by applying your insane football abilities and quick reflexes! There are multiple types of enemies including vampires, zombies and skeletons to deal with. Move your character left and right through the mouse and you can also hold and release it to knock-down your enemies and make goals!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"background-color: transparent; font-size: 10pt;\">Try to score as many goals as you can to complete your level fast and collect the maximum possible points in the end! You need a certain amount of points to clear each level. Remember you only have a football as a weapon. This football field has already turned into the battlefield and it needs a pro like you to handle the situation in this HTML5 soccer game. Be careful and try not to become the food for the vampire and zombies! Good luck to achieve the objective before they attack you in free sports games, no download required!</span><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/8fead11b500747ebb317027091e59f13/\r\n",
+      "metaTitle": "Hell Footy, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hell Footy at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Hell Footy Game, Action Games, Soccer  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806916.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 10189,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2025-01-28T18:44:14.967Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP AND SWIPE ON SCREEN TO MOVE RELESE TO HIT THE BALL",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO MOVE RELESE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
