@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c34c",
+      "id": 6302,
+      "name": "Quad Bike Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "quad-bike-racing",
+      "image": "6302",
+      "url": "quad-bike-racing",
+      "description": "<div>The realistic bike racing environment is here to welcome you! Join Quad Bike Racing right away to ride a wonderful quad bike at the top speed! It will be a great fun in drifting your chosen bike on the fast tracks. Yes, you only have to control its direction as the bike will keep moving forward automatically. Not everyone dares to accept this challenge as it requires putting your quick reflexes and driving abilities to the test. Move your bike right or left using WASD or arrow keys!</div><div><br></div><div>Select bike, environment and then decide which mode out of three options such as Time, Endless and Fuel you want to play with! Now choose a level and get ready to enter the realistic bike racing track. In each level, you would have a particular mission to complete. So keep riding and collecting the coins until you achieve your target to finish the level. While grabbing the coins, you also make sure to grab the timer to boost your time in this HTML5 bike game.&nbsp;</div><div><br></div><div>Be careful as you have to control your exclusively-designed bike on the impossible racing tracks! You cannot enter the advanced level until you complete the present one in this latest racing game. Collect the set target amount of coins using your atv bikes, finish levels, and prove the world that you are a true bike racer in this one of the best bike simulator games! Realistic graphics and controls of this stunt bike racing challenge can help players keep glued to the screen for a long. Check out more addictive racing games for free here on atmegame.com and have fun without download!</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/684701945e8344f392ec72dfd75bc2bb/\r\n",
+      "metaTitle": "Quad Bike Racing Game, Bike - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Quad Bike Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Quad Bike Racing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579522680.xml",
+      "idealFor": "Man",
+      "likes": 50,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 11981,
+      "ownGame": false,
+      "addDate": "2020-01-20T17:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-06-03T03:04:58.288Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "A,D OR LEFT RIGHT ARROW TO DIRECTION"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
