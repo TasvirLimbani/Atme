@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf8c",
+      "id": 5147,
+      "name": "Bullet Fire",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "bullet-fire",
+      "image": "5147",
+      "url": "bullet-fire",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you ready to handle the toughest action-packed challenge of your life? Do you think that you are skilled enough to play the role of one army man? Join Bullet Fire and be prepared to take down all of your enemies who are also lashed with deadly weapons! The situation is worse than you have ever imagined. These 60 terrorists have scattered all around the army base and you have the only person to clear them from the map. Try to shoot all of the terrorists as fast as you can to complete mission!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The faster you complete your mission, the higher score you will be able to register on the leaderboards. Move fast and try to check every corner of the place to find your enemies and send them to the hell! Do not worry! You have enough bullets to deal with these bad souls in this brand new fun online game. Aim carefully and shoot them before they clear you from the screen in this 3D first person shooter game! Be a one man army and storm the base of your enemies like never before!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">These terrorists are hidden in their base and will start shooting once you come in front of their eyes. It is up to you how fast you defeat all hostile units in this 3D FPS action game. Choose any of the modes from three options including Easy, Medium and Hard and enter the battlefield and get ready to show off your sharp fighting skills! Get your first shot by sneaking and peeking on every corner of the base! Check out more interesting gun shooters and play games online for free without download!!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/a002186816854677955cbde5ad32b80c/\n",
+      "metaTitle": "Bullet Fire, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bullet Fire at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Bullet Fire Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545705.xml",
+      "idealFor": "All",
+      "likes": 72,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 30570,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-09-04T08:45:10.310Z",
+      "__v": 0,
+      "mobileControlKeys": "PROPERLY NOT WORKING IN MOBILE(LEFT ICONS TO MOVE RIGHT TO SHOOT)",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE CLICK L TO SHOOT"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
