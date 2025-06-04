@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aefc",
+      "id": 475,
+      "name": "Football Headz Cup 2",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "football-headz-cup-2",
+      "image": "475",
+      "url": "football-headz-cup-2",
+      "description": "<div>Known as a sequel to the world popular games of series Sports Heads and Puppet Soccer, Football Headz Cup 2 is an excellent sports to play online for boys. Come into action, pick your best team and get ready to be participating in the world famous and craziest soccer tournament. You would surely have huge fun while joining the big heads in exclusively-designed soccer match. In order to score a goal in this yet another hilarious tournament, just focus on using your head and feet perfectly.?</div><div><br></div><div>The key to beat the opposite team is to score as many points as you can. In this flash game, it is good to play as 1 vs 1 or 2 vs 2. Your favorite football players are featured as the game characters in this highly challenging sports. They feature bloated cartoonish heads. Your primary goal is to surpass the opponent teams defenders and get your soccer ball to your net. In this free online game, you also have to take care of preventing your opponent team from scoring in their net.?</div><div><br></div><div>Equipped with pretty simple mechanics and easy-to-understand controls, Football Headz Cup 2 is sure to give you the fun and excitement that you have not taken before in any soccer game. Join the match, ensure your victory for the trophy and get a chance to become the world champion! Keep fighting hard through different rounds right up to the final level of this second installment of Football Headz Cup. Choose your team and lead them to the final of this championship tournament!</div>",
+      "size": 640,
+      "height": 360,
+      "script": "https://play.famobi.com/football-headz-cup-2/A-925FD",
+      "metaTitle": "Football Headz Cup 2, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Football Headz Cup 2 at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Football Headz Cup 2, Sports, Soccer Games, Football Headz Cup 2 Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 123,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 11497,
+      "ownGame": false,
+      "addDate": "2017-07-17T17:55:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.667Z",
+      "updatedAt": "2024-07-11T18:32:43.844Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L-ARROW -LEFT RUN, R-ARROW-RIGHT RUN, UP ARROW- JUMP, M-KICK"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 20
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
