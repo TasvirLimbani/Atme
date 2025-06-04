@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c179",
+      "id": 5680,
+      "name": "Alien Town",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "alien-town",
+      "image": "5680",
+      "url": "alien-town",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Aliens have decided to descend on to your town. However, these bad souls are not aware of the power of special agent Briggs. No need to think twice! Come forward and get ready to defend your town in a way nobody has ever done! Do you think that you have guts to face off the blood-thirsty aliens? You cannot ignore the matter as you are playing the role of a special agent in this brand new action game. Join Alien Town game and get ready to put your shooting skills to test!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">After completing the objective of the game, you will surely feel proud on yourself. Before hitting the ground, make sure to arm yourself with a trusty pistol. Do not need to show pity on the aliens and try to eradicate them as soon as possible to make a powerful statement in this one of the best shooting games for kids! The primary features of the game include multiple weapons to purchase, collection of coins and isometric graphics with 3D views.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Choose from the alien gun, rifle, shotgun and machine gun! You are sure to enjoy the fun stats to review after each day. There are three different gameplay modes to explore – Survival, Hard Point and Nuke. Hurry up and take your steps forward to burn the aliens by blowing up the barrels! When the day is finished, the results will be displayed on the screen. These outcomes include your final score, time taken, shots fired, coins collected, kills, explosive kills, pistol kills, machine gun kills, laser gun kills, rifle kills, shotgun kills, total deaths and more.&nbsp;</span></div>",
+      "size": 640,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/168ef916ba0047ef921e07cf3d8e7206/\r\n",
+      "metaTitle": "Alien Town, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Alien Town at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Alien Town Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1556964027.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8091,
+      "ownGame": false,
+      "addDate": "2019-05-04T15:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2023-05-21T22:39:18.218Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT JOUYSTICK TO MOVE THE TARGET,RIGHT JOYSTICK TO SHOOT AROUND",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE,LEFT CLICK OF MOUSE TO HIT"
+    },
+    "rating": {
+      "rating": "2.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
