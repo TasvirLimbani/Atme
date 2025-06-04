@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c234",
+      "id": 5943,
+      "name": "Spades",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "spades",
+      "image": "5943",
+      "url": "spades",
+      "description": "<div>Do you think that you are blessed with amazing card playing skills? Join Spades where you will get a chance to compete against three other skilled card players! This brand new challenge has everything that you can expect in a classic 4 player spades. Get ready to team up with an AI and train your mind in making the perfect bids so that the victory can be yours! In this free online fun card game puzzle, you have to put the ability of taking chances, probability and strategy power to test.&nbsp;</div><div><br></div><div>Try to coordinate with your partner to win your contract bid! Be attentive and use your logical power to play your cards! Make sure to watch out for your opponents as well. Partners sit opposite each other, while the play and deal are made clockwise. A pack of 52 cards is used in this one of the best arcade games for kids where cards are showed in different suits. The ranking of cards, in each suit, will vary from highest to lowest: A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2. All four players participated in the game bid a number of tricks.</div><div><br></div><div>Bid a “blind nil” especially if you are a beginner to view your cards! You can opt for “Nil” option if you would not able to take any. Select a card that matches the suit of card showed by the first player. In case if you are lacking a card of that suit, feel free to select any card of your choice. The player, who has the highest card of that suit or the highest spade, will win the trick. Spades are known to be trump suit and valued higher than any other suit. Be careful since they can steal your tricks using the flip of a Spade!&nbsp;</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/fc6b4e70a4ab447cb9a0769565ea36d7/\r\n",
+      "metaTitle": "Spades, Card  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Spades at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Spades Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762523.xml",
+      "idealFor": "Man",
+      "likes": 142,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 32042,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.756Z",
+      "updatedAt": "2025-05-18T09:10:17.937Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON CARDS TO MOVE YOUR TURN",
+      "webControlKeys": "LEFT CLCIK OF MOUSE TO MOVE YOUR TURN"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 12
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
