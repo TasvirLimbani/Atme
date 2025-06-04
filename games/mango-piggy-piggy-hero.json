@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd0c",
+      "id": 4500,
+      "name": "Mango Piggy Piggy Hero",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "mango-piggy-piggy-hero",
+      "image": "4500",
+      "url": "mango-piggy-piggy-hero",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This brand new action-packed challenge will surely be enough to take you to a new world of fun and thrill possibilities. Do you want to try it out now? Join Mango Piggy Piggy Hero game and get ready to show the world that you can handle any obstacles on your way to become an action hero! In this new series of Mango Piggy Piggy, you would get a chance to control different superhero piggies. The journey of your characters is very difficult as they have to defend their town against the invasion of enemy robots.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Does it sound pretty challenging and interesting? Put your fingers on your mouse on PC or tap the screen on your mobile phone to launch your hero piggy against the enemy as per the instructions showed on the screen time to time! An army of robots have threatened a horde of superhero pigs. Now they need your help to fight against the deadly bad souls. Select the piglet you have to launch and get ready to pull the sling to aim at your enemies in this html5 shooting game!</span></div><div><span style=\"font-size: 13.3333px;\">The best part is that each piglet comes with a unique superpower based on a popular superhero. All you need to do is opt for the right ability for each set of robots to clear them from the screen. Try to defeat all of the supervillians in a one-attempt to finish each level with the maximum possible score! These cute superhero piggies will have three unique kinds of superpowers so make sure to use them wisely. Fight like a true fighter to prevent them from invading their beloved town! Good luck to clear all levels and have fun without download!</span></div><div><br></div>",
+      "size": 960,
+      "height": 540,
+      "script": "\nhttps://html5.gamedistribution.com/0eb2d05da672451eb84d3263e47ec144/\n",
+      "metaTitle": "Mango Piggy Piggy Hero, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mango Piggy Piggy Hero at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Mango Piggy Piggy Hero Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544526946.xml",
+      "idealFor": "All",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7903,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2023-10-20T04:55:15.704Z",
+      "__v": 0,
+      "mobileControlKeys": "PULL THE SLING SHOT AND LAUNCH TO FORWARD",
+      "webControlKeys": "PULL THE SLING BY L CLICK OF MOUSE, AND RELESE TO FORWARD"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
