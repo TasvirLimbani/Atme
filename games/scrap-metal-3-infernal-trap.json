@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b65a",
+      "id": 2699,
+      "name": "Scrap Metal 3 Infernal Trap",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "scrap-metal-3-infernal-trap",
+      "image": "2699",
+      "url": "scrap-metal-3-infernal-trap",
+      "description": "<div>Looking for an exciting and hair-raising car racing game? You are at the right place. Play Scrap Metal 3: Infernal Trap to build an obstacle course on your own and enjoy the best driving experience! Tight your seat belt and get ready to go on an unforgettable car racing journey! Get focused only on the enjoyment and fun and forget all the things that you have been planning before. It?s a brand new 3D car racing game where you will be given a freedom to explore a wide map with plenty of terrific terrains. </div><div><br></div><div>Choose from 4 outstanding cards in this free online third Scrap Metal game. Get a chance to drive your four-wheeler at the high speeds while exploring the mountains and overcoming different kinds of hindrances. It would be really very exciting to have a ride to the mountains that are full of difficulties and obstacles, which could make the battle tough. Press forward and get ready to challenge the characteristics of different cards on the obstacle course!</div><div><br></div><div>In the second option of this cool html5 racing game, you can head towards the tough mountains and start discovering the diversity of the game world. This game allows you to enjoy the freedom of car driving and realistic destructive model. You can its most recent version: Scrap GL on any modern browser without the need of installing unwanted plugins. </div><div><br></div><div>Developed by Ciorbyn, it has various controls like arrow keys to drive the car, mouse to work with obstacles, 1-8 number keys to choose different views, R to repair your car, T for slow motion, Spacebar key to use the handbrake, Shift key to use the clutch, I to show your inventory, L to switch the lights and Enter to reset the car. Good luck boys to make a big score in this cute car driving game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/scrap-metal-3-infernal-trap/index.php",
+      "metaTitle": "Scrap Metal 3 Infernal Trap, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Scrap Metal 3 Infernal Trap at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Scrap Metal 3 Infernal Trap Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 8026,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.714Z",
+      "updatedAt": "2024-08-26T04:38:59.182Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "WA,S,D, ALL ARROWS TO MOVE, SPACE- BREAK"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
