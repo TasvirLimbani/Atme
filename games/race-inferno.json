@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c161",
+      "id": 5653,
+      "name": "Race Inferno",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "race-inferno",
+      "image": "5653",
+      "url": "race-inferno",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you love exploring the auto racing games during your free hours? If yes, then you must try Race Inferno game at least once to bring the happiness to your boring life. This brand new car racing game allows you to drive a uniquely-designed auto on a special platform that is seen in a zig-zag shape. We are damn sure that you will have a great fun from start to finish. All you need is just put your driving and focus skills to challenge to ensure your win.</span></div><div><span style=\"font-size: 13.3333px;\">Over the track you will see advancing the car through the canyon. Do not forget to collect the coins you see on the way by tilting your vehicle right and left! This will help you to earn the points along the way. Make sure to click the side you want to make to tilt your car. Note that the longer you will be able to hold it, the bigger the tilt you will be able to make. Avoid hitting the sides of the canyon by maintaining a proper distance from them while driving!</span></div><div><span style=\"font-size: 13.3333px;\">After playing this free online car game you will realize that you are not invited to take part in the simple race competition. The job is pretty difficult, but your dedication along with good driving skills will help to pass through a long and winding canyon. Join this cool HTML5 racing challenge to experience a real hell that is known as “highway to hell”! Drive your car forward at top speed and go around challenges while allowing your vehicle not to be crashed into the walls!&nbsp;</span></div>",
+      "size": 600,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/8898437474ab408c8aab98aa36c23e6f/\r\n",
+      "metaTitle": "Race Inferno,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Race Inferno at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Race Inferno Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1555400796.xml",
+      "idealFor": "Man",
+      "likes": 89,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 30393,
+      "ownGame": false,
+      "addDate": "2019-04-16T13:16:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.753Z",
+      "updatedAt": "2024-10-06T16:34:17.840Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R OF SCREEN TO CONTROL THE CAR",
+      "webControlKeys": "CONTROL THE CAR BY LEFT CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 14
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
