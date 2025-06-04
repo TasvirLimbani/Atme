@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b296",
+      "id": 1624,
+      "name": "Cloud 9",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "cloud-9",
+      "image": "1624",
+      "url": "cloud-9",
+      "description": "Pounce your way up!",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=2e27489352db47b6901c16e573753cf4\r\n",
+      "metaTitle": "Cloud 9 Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cloud 9 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Cloud 9 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517901973.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 9038,
+      "ownGame": false,
+      "addDate": "2018-02-06T12:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.692Z",
+      "updatedAt": "2024-02-17T11:46:30.352Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "1.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
