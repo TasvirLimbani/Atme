@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad75",
+  "category_name": "bicycle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad75",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c276",
+      "id": 6035,
+      "name": "Underwater Cycling",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "underwater-cycling",
+      "image": "6035",
+      "url": "underwater-cycling",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a cycling game fanatic? If so, we have brought to you a brand new online game – Underwater Cycling that will surely help to enter into a world of great fun and thrill. This free online game is designed in a way that you can’t stop yourself from checking out its all levels if you try it at least once during your spare time. It will surely be quite interesting to ride a bicycle underwater in this one of the most popular racing games for boys. Your job in this game is to help your character control his bicycle on the track and reach him on the destination fast.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Keep your eyes on your character when he rides his bike in this one of this best bicycling games! We know that it might the first time when you are playing such type of cycling game. Make sure to help your character clear the level before the time runs out. Collect the diamonds that are come on your way to improve your performance and increase your score! Change his gear when needed, take care of his cylinder to make sure that he will not short out of oxygen while riding his bike in this bike riding game!</span></div><div><span style=\"font-size: 13.3333px;\">We know that you are capable enough to avoid all the obstacles that come on your way during the clearance of each level out of 12. Help him ride underwater in a way so that he can’t fall from the platform or run out of oxygen. You will be rewarded with some surprising and exciting prizes and boosters on the completion of all the 12 levels. Control the bicycle of your character using the arrow keys or WASD! Toggle pause using tab/Esc and boost character using the left shift!</span></div>",
+      "size": 960,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/e8319c0fcbe3438c9c34e3f908bc5002/\r\n",
+      "metaTitle": "Underwater Cycling, Cycle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Underwater Cycling at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Underwater Cycling Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1562507607.xml",
+      "idealFor": "Man",
+      "likes": 90,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 20243,
+      "ownGame": false,
+      "addDate": "2019-07-07T19:23:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.757Z",
+      "updatedAt": "2024-12-07T10:41:43.357Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE,C-CHANGE THE VIEW,ALT-PAUSE,SPACE-BREAK"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 26
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad75",
+      "name": "bicycle",
+      "slug": "bicycle",
+      "icon": "bicycle-racing-games"
+    }
+  }
+}
