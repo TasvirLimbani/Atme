@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b92b",
+      "id": 3464,
+      "name": "Astronaut Warrior",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "astronaut-warrior",
+      "image": "3464",
+      "url": "astronaut-warrior",
+      "description": "It?s time to see what?s going on in space! Put on your space suit and get on your new spaceship. Look at the gorgeous sight? but don?t look to long! You also have to kill de monsters you encounter. Level up your spaceship and your space suite to become the master of the universe!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/c12eb705960940bf88493930f677ae08/\r\n",
+      "metaTitle": "Astronaut Warrior, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Astronaut Warrior at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Astronaut Warrior Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536575483.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 10209,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-03-22T10:52:30.549Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICON- ATTACK, L ICONS- MOVE",
+      "webControlKeys": "ALL ARROWS TO MOVE, SPACE- ATTACK"
+    },
+    "rating": {
+      "rating": "2.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
