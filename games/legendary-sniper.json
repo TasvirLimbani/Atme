@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c285",
+      "id": 6052,
+      "name": "Legendary Sniper",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "legendary-sniper",
+      "image": "6052",
+      "url": "legendary-sniper",
+      "description": "<div><span style=\"font-size: 13.3333px;\">True soldiers never say no to any mission. You are a brave and highly courageous soldiers of the military unit of your country. Today you have received a call from your officers and they ordered you to be available on a very important mission. Some important military bases of your unit have been captured by the dangerous terrorists. And, you are the only fighter who can handle this task. Join Legendary Sniper and be prepared to clear the area from these evil souls!</span></div><div><span style=\"font-size: 13.3333px;\">These terrorists are also equipped with the enough bullets to attack you. Grab your sniper gun to get ready to shoot your enemies like a pro shooter in this most casual and relaxing 3D shooting game! You would have multiple enemies to kill with head shot. There are different missions to play through in this first person shooter. Remember you would have limited bullets to complete your mission. So try to kill the assigned number of enemies before your bullets and health run out.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Track your health by having a look at the top left corner of the screen in this HTML5 sniper challenge! The top right corner of the screen will show how many enemies are left to be killed. Be fast and try to shoot at their head before their bullets consume all your blood! Guide your character until you complete all the missions and prove the world that you are a true sniper! Good luck to check out more addictive and challenging action-packed challenges for free to play!</span></div><div><br></div>",
+      "size": 1000,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/d0d10d2ab76c4e65878afdbf0324737c/\r\n",
+      "metaTitle": "Legendary Sniper, Shooting Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Legendary Sniper at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Legendary Sniper Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1562507607.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8036,
+      "ownGame": false,
+      "addDate": "2019-07-07T19:23:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.758Z",
+      "updatedAt": "2024-09-07T11:07:11.017Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "LEFT CLICK MOUSE TO FIX THE TARGET AND HIT, RIGHT CLICK ALT -ZOOM IN /OUT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
