@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9f4",
+      "id": 3676,
+      "name": "Village Story",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "village-story",
+      "image": "3676",
+      "url": "village-story",
+      "description": "Take everyone to the other side, but beware, not everyone can get along with each other. How do you solve this?",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/village-story-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Village Story, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Village Story at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Village Story Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7632,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2023-10-23T18:06:53.133Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SO0LGVE THE PUZZLE",
+      "webControlKeys": "L CLICK OF MOUSE TO SO0LGVE THE PUZZLE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
