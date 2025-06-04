@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4e4",
+      "id": 2268,
+      "name": "Boulder",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "boulder",
+      "image": "2268",
+      "url": "boulder",
+      "description": "<div><span style=\"font-size: 13.3333px;\">A super cute and small boy has planned to try out something different today. He has left his home to go on a unique adventure where he has to collect all the vegetables without being crushed by the stones. Would you think that you are sufficient enough to accept this challenge now? Join Boulder and be prepared to guide him to complete his mission before the time expires! He is very excited and hopeful for this unique mission, so do not disappoint him by leaving the task in between.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Make sure to put your fingers on the arrow keys and help him to collect all the vegetables that you see on the board. Try to pick up all the jewels exit before the time runs out in this HTML5 puzzle challenge! Do not forget to think differently and put your puzzle-solving abilities to the test to accomplish your goal on time. Be quick when you are doing your task otherwise you might get caught anytime by the stones!</span></div><div><span style=\"font-size: 13.3333px;\">Track your activities by having a look at the top of the screen in this cool puzzle challenge! There are countless free arcade games available on our website through which you can keep you busy for hours while training your brain power differently. Make sure to check out all puzzle games one by one to know what suits your gaming needs the most. The best part is that these fun arcade skill games are available on atmegame.com without download. Good luck to have a happy day!&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/f39107001cd24d038f1e9c482d0ca06a/\r\n",
+      "metaTitle": "Boulder, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Boulder at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Boulder Game, Action Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 7323,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-03-11T14:05:25.174Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": "ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
