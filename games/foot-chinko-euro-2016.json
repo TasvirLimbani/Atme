@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae4c",
+      "id": 118,
+      "name": "Foot Chinko: Euro 2016",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "foot-chinko-euro-2016",
+      "image": "118",
+      "url": "foot-chinko-euro-2016",
+      "description": "The advanced version of the online sports game football has with much better pinball variant has been very interesting one and enjoyable. In the free soccer game Foot Chinko- Euro 2016, first of all you have to win all the six matches of group F in order to reach in for group E, this till reaching the finals of the game you will have to win all the 51 games. In meanwhile, for each of the game, you will have to choose your own team.<br><br>The whole emphasis of this soccer game online is in allowing the ball to easily pass away from the different barriers put across the stadium. In this latest version of Foot Chinko, the number of team mates and opposing players is much more than the previous version of the game. You simply have to pass the ball to your team members to straight divert the ball into the goal post in online games. The reflections in this game are even more improved to set across so that you hit the ball to divert it straight into the goal.<br><br>The game is mostly controlled by mouse and sometimes scorecard happens to be more advanced by two or three goals. Therefore, in order to score more goals, you must score more goals, otherwise you will lose, this most interesting one soccer games free.",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/cfaf7a52e66743689fc0166c049800cf/",
+      "metaTitle": "Foot Chinko: Euro 2016, Soccer  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Foot Chinko: Euro 2016 is the online soccer sports game   that is quite enjoyable and loved one by the players for a good practice session and activities.",
+      "metaKeyword": "Foot Chinko: Euro 2016, Sports, Soccer , Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 225,
+      "dislikes": 14,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 21848,
+      "ownGame": false,
+      "addDate": "2016-07-03T06:51:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2025-05-21T19:35:55.713Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 14
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
