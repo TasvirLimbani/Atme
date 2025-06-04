@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c393",
+      "id": 6401,
+      "name": "Pet Run Adventure Puppy Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "pet-run-adventure-puppy-run",
+      "image": "6401",
+      "url": "pet-run-adventure-puppy-run",
+      "description": "<div>A cute and little puppy has come to you for help! He has decided to run on a platform, but the problem is that the running track is full of deadly obstacles. Now he wants help from your side. Would you come forward to help him out and show your love for animal? Join Pet Run Adventure Puppy Run and be prepared to simulate the cutest pet available in the virtual world! Make sure to control him in a way so that he can cover the longest possible distance over this track.</div><div><br></div><div>Do not forget to collect coins along with the special bone trademarks to boost your score in this brand-new adventure challenge. Use the arrow keys of the keyboard or tap the screen of your mobile phone to make him left/right, jump or slide through the obstacles! Try to keep your pet away from all the obstacles that you see along the way as you will lose the game if your puppy hits any of them! In case of hitting with any of objects, your puppy can die, but you can revive him using the diamonds.</div><div><br></div><div>This HTML5 running challenge is designed with the help of 3D game art animation so there would be no possibilities of getting bored. Collect speed boosters to cover the significant distances in the shortest time possible! We are happy to introduce you to the amazing collection of free adventure games that are meant for players from different age groups no matter whether you are a boy or a girl. Get extra fun by browsing other popular animal games online for free without download!</div>",
+      "size": 480,
+      "height": 680,
+      "script": "https://html5.gamedistribution.com/386988bc83e4497b9ccadb01136c7279/\r\n",
+      "metaTitle": "Pet Run Adventure Puppy Run Game, Running - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Pet Run Adventure Puppy Run at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Pet Run Adventure Puppy Run Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842334.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7197,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2024-05-23T11:07:51.257Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "UP AAROW-JUMP,L-R ARROR- L-R, DOWN ARROW-ROLLING"
+    },
+    "rating": {
+      "rating": "0.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
