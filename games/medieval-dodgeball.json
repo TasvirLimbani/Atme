@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bad5",
+      "id": 3925,
+      "name": "Medieval Dodgeball",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "medieval-dodgeball",
+      "image": "3925",
+      "url": "medieval-dodgeball",
+      "description": "<div>This time you want to have the best fun time over the internet. If this is the case, then why do not you join Medieval Dodgeball game to kill your time like never before. Yes, we have got you covered with a brand new arcade challenge where you can entertain you with the quality fun time on your own convenience. Get ready to enter the Middle Ages where people also loved playing dodgeball! Wow! The best part is that you will have a full control over your player in the virtual world.</div><div><br></div><div>We are pretty sure that you can manage all the obstacles and hindrances that come along the way. Try to dodge all the black balls that might come from multiple directions and do not forget to grab the diamonds to boost your score! Making a high score will depend upon how wisely you dodge balls with dodgeball. Make sure that not a single black ball touches your character otherwise you will lose immediately. Put your quick reflexes to the test to achieve the highest score!</div><div><br></div><div>Move or swipe your mouse button or tap the screen of your mobile phone to move your knight around! Avoid all the cannonballs before they get connected with you in the beautifully-designed knightly tower in this cool puzzle challenge! Even a single second mistake can cause lose your game so be alert all the time to survive for long and create your new best score without download. We feature thousands of top arcade games that are available to play online for free on atmegame.com! Good luck!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/medieval-dodgeball-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Medieval Dodgeball, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Medieval Dodgeball at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Medieval Dodgeball Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7384,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2023-12-11T01:25:32.199Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SHOOT BAD GUY AVIOID GOOD GUY",
+      "webControlKeys": "L CLICK OF MOUSE TO SHOOT THE BAD GUY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
