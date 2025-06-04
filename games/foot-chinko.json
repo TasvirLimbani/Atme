@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae4b",
+      "id": 117,
+      "name": "Foot Chinko",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "foot-chinko",
+      "image": "117",
+      "url": "foot-chinko",
+      "description": "A new avatar to game of football is Foot Chinko that is a mixture of game of football and pinball in one. This free football game requires a high level of concentration and penetration and most of the game are played with the help of mouse. The entire crux of this football game is letting the ball anyhow to get passed away from the different barriers put across the stadium. The reflections in the game are wisely set across that you hit the ball to divert it straight into the goal.<br><br>The opponent in the sports games online sometime arrives in the gaming arena with already two scored games. So, in order to win the group game, the number of goals must be exceeding to the existing goals. In order to reach into the quarter finals, the entire group games are needed to be win and then after win semi-final and in the last, the game that is to be won is of the final and the tournament.<br><br>In this version of free football, there are total nine tournaments in total to play around like Oceania Cup, Africa Cup, Asian Cup, Gold Cup, America Cup, Olympic Games, Euro Cup, and Federations Cup and in the last World Cup.<br><br>Played with only mouse, the successive levels of the groups become more difficult to win with every successive game of football.",
+      "size": 800,
+      "height": 1067,
+      "script": "https://play.famobi.com/foot-chinko/A-925FD",
+      "metaTitle": "Foot Chinko, Soccer  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Foot Chino one of the hottest favourite soccer games online is loved by the players that results into a mixture of pinball and football in one.",
+      "metaKeyword": "foot chinko, Sports, Soccer , Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 488,
+      "dislikes": 49,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 44807,
+      "ownGame": false,
+      "addDate": "2016-07-03T06:47:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2025-04-20T23:46:33.949Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 24
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
