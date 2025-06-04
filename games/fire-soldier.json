@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c40e",
+      "id": 6526,
+      "name": "Fire Soldier",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "fire-soldier",
+      "image": "6526",
+      "url": "fire-soldier",
+      "description": "<div>Do you love playing the Mario games in the past? Are you a biggest adventure freak? If yes, we have brought to you a brand new adventure challenge where you have to control a small character who wants to go on a unique running adventure. Your objective is to help him to kill or avoid all of the dangerous enemies you see on his way. Do not forget to collect the coins and power-ups to boost your score and make your character more powerful than before.</div><div><br></div><div>Be careful as you would have plenty of deadly enemies to face off in this HTML5 platform game! Moving scorpions, pink colour small creatures and many other dangerous enemies will be there to stop you moving forward. Colliding with any of them will lose your health/power a little bit and soon you will lose your game if all your health is finished. Do not sit relaxed since you also have to deal with the fatal boss later in this cool platformer.</div><div><br></div><div>No worries if fall in the bottom area and come into contact with your enemies. In that situation, try to take your character to a corner to keep him safe. You can pause your game or mute its music whenever you want by using the icons shown on the top right corner of the screen. Track your health by looking at the top left corner of the screen! Find countless free platform games on our website and have fun with your friends for free, no download required!</div>",
+      "size": 800,
+      "height": 535,
+      "script": "https://games.atmegame.com/games/fire-soldier/",
+      "metaTitle": "Fire Soldier Game, Platform - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Fire Soldier at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Fire Soldier, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 394,
+      "dislikes": 51,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 158464,
+      "ownGame": true,
+      "addDate": "2020-07-12T15:42:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-23T04:54:38.848Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT SCREEN ICONS- SOWERD,POWER SOWRS, JUMP, LEFT ICONS TO MOVE",
+      "webControlKeys": "Z-SOWRD, X- POWER SOWED,ALL ARROWS W,A,S,D TO MOVE"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 51
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
