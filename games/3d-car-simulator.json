@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b63e",
+      "id": 2662,
+      "name": "3D Car Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "3d-car-simulator",
+      "image": "2662",
+      "url": "3d-car-simulator",
+      "description": "<div>Mess around different tough tracks and use your favourite car to test your driving skills in this 3D open-world simulation game. You will have three different maps to explore. Choose any of the three assigned cars, including an old car, a police car or a rally car and burn the tyres of your vehicle at top speed. Let yourself allow to drive your wonderful sports car at breakneck speed while getting through the city streets. Pay attention to the details in order to create an awesome result in the world most in-demand free online car racing game.&nbsp;</div><div><br></div><div>3D Car Simulator is a fast-paced and exclusively-designed car simulator where you are sure to have a lot of fun while showing off your driving skills. It would be exciting and amazing to explore the extremely detailed 3-dimension environments. Make sure that you have the guts to get yourself ready to dominate the roads with your ultimate driving talents. Submit your car to a crash test course after having a small driving test in this brand new racing game.&nbsp;</div><div><br></div><div>You will also be allowed to experience the awesome physics engine and ride your vehicle around like a madman. Choose from a stylish Lamborghini police car, a classic Corvette or a yellow rally car to drive in this best PC game for boys. It includes several exciting features such as three big maps and cool cars to be played, 3D realistic graphics and effects and Smooth handling. This free online car driving game includes very simple and easy controls like WASD or arrow keys to drive, Space bar to use handbrake, C to change camera, and E to turn on/off police car lights.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/3d-car-simulator/index.php",
+      "metaTitle": "3D Car Simulator, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 3D Car Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "3D Car Simulator Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 9809,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-03-06T04:07:37.910Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE, SPACE- BREAK, C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "1.9",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
