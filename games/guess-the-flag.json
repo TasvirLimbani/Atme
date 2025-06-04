@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad89",
+  "category_name": "kids",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b596",
+      "id": 2489,
+      "name": "Guess The Flag",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "guess-the-flag",
+      "image": "2489",
+      "url": "guess-the-flag",
+      "description": "Guess The Flag, Puzzle Games<br>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/guess-the-flag/index.php",
+      "metaTitle": "Guess The Flag, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Guess The Flag at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Guess The Flag Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 6592,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.711Z",
+      "updatedAt": "2024-02-10T08:30:53.985Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": " L CLICK OF MOUSE TO CHOOSE THE CORRECT FLAG"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
