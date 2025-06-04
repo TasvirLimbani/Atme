@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad89",
+  "category_name": "kids",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bcbe",
+      "id": 4421,
+      "name": "Math Test",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "math-test",
+      "image": "4421",
+      "url": "math-test",
+      "description": "<div>Every parent wants to help your child to improve their mathematic abilities. If you are also one of those parents who want to improve the multiplication skill of their child, trying out this brand new arcade game can be a nice bet for you. Does not it sound pretty exciting? Encourage your kid to join Math Test and to boost his or her multiplication ability! This cool mathematical puzzle is meant for all so anyone can try it out.</div><div><br></div><div>Be careful as you would have only a limited time period to answer the quiz shown on the screen! Try to answer correctly as many questions as possible in a 60 sec in this quick math test! Choose the right answer out of the four objectives shown below the question! You cannot proceed further until you give the right answer. For every right answer, you would secure 1 point. Try to get as many right answers as you can to score high in the end! Time will not be on your side so think as be careful and try to do your best to answer correctly!</div><div><br></div><div>Track your score on the top right corner of the screen and you can learn how much remaining time you have to use by looking at the bottom left corner of the screen. Use your math skills to the optimum possible level to become a champion of multiplication! Choose any other quiz from our huge collection of mathematics games and improve your division, subtraction and addition skills! Good luck to have fun alone or with your friends and families without download games in your device!!</div>",
+      "size": 640,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/c8c4ac1e0f5247d98bfd9ccbea7a5993/\r\n",
+      "metaTitle": "Math Test Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Math Test at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Math Test Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543991194.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9795,
+      "ownGame": false,
+      "addDate": "2018-12-05T11:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.736Z",
+      "updatedAt": "2025-05-22T05:08:02.810Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO CHOOSE THE CORRECT ANSWER",
+      "webControlKeys": "L CLICK OF MOUSE TO CHOOSE THE CORRECT ANSWER"
+    },
+    "rating": {
+      "rating": "1.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
