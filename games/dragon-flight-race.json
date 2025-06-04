@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3c4",
+      "id": 6450,
+      "name": "Dragon Flight Race",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "dragon-flight-race",
+      "image": "6450",
+      "url": "dragon-flight-race",
+      "description": "<div>This dragon has already taken part in a popular racing competition! He is very fast, but still needs your assistance to make a long trip on the deadly and uneven trails. Hey! The dragon is very hopeful and cannot do it on his own. Join Dragon Flight Race and be prepared to ride a raging dragon on the bumpy tracks! Common friends! Your friend dragon is already ready to go so make him run fast until he completes the race.</div><div><br></div><div>His competitors are also very quick, so try to challenge your quick reflexes to help him reach first on the finish line. Use your racing and dragon flying abilities to drive the distance to raise his rankings! Plan a strategy to race your character across a modular map while avoiding all the obstacles in this HTML5 running game! Make sure to keep your character from the attacks of his competitors to reach him safely to the destination. There are multiple levels to play through for the players without download.</div><div><br></div><div>Get ready to let your dragon fly at the defined speeds and altitude across a modular hex map! Your dragon will have different obstacles to face off while moving from one canon to another. Try to complete your race fast to finish each level with 3 stars rating in this 3D flight game! Do not forget to use the powerful flames to attack your enemies and force them to lose control. Good luck to guide your dragon to race against the time and finish all addictive levels! Stay connected with us to find new challenging adventures every day!</div>",
+      "size": 850,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/1bb8b0ceccb24d90a5e08e20e376e898/\r\n",
+      "metaTitle": "Dragon Flight Race Game, Running- Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Dragon Flight Race at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Dragon Flight Race Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 6131,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2024-07-30T13:52:44.014Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "CLICK ON THE PIPES TO HELP THE DRAGON MOVE ON"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
