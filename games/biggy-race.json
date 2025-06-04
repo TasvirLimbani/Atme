@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c084",
+      "id": 5404,
+      "name": "Biggy Race",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "biggy-race",
+      "image": "5404",
+      "url": "biggy-race",
+      "description": "Drive a monster car on the rugged road, is that sounds crazy and exciting? In this driving game Biggy Race, you can show your skill and talent. Drive your great car, collect money and stars and buy new cars. Can you be the best driver in this world? Have a try!\r\n",
+      "size": 1200,
+      "height": 720,
+      "script": "https://html5.gamedistribution.com/6a03f8bbdeb44b1f9a191d6cbf40391d/\r\n",
+      "metaTitle": "Biggy Race,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Biggy Race at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Biggy Race Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552278458.xml",
+      "idealFor": "Man",
+      "likes": 104,
+      "dislikes": 27,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 23171,
+      "ownGame": false,
+      "addDate": "2019-03-11T09:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2025-02-08T15:11:54.749Z",
+      "__v": 0,
+      "mobileControlKeys": "OFFLINE",
+      "webControlKeys": null
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 14
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
