@@ -1,0 +1,57 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "6305622cf00e1a463fdb9b30",
+      "id": 6580,
+      "name": "Plug it!",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "plug-it",
+      "image": "6580",
+      "url": "plug-it",
+      "description": "\n<p class=\"text_desc\">\nPlug It is an addictive puzzle game where you have to play the role of an electrician to complete the task. You as a player have to connect plugs to their corresponding sockets to finish each level. </p>\n<p class=\"text_desc\">\nThe difficulties will keep increasing as you move forward throughout the game so get yourself ready to put your precision and strategic thinking power to the test. </p>\n<h4>\nKey Features:</h4>\n\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\"><li><b>\nEngaging puzzle gameplay:</b> You have to focus on how to exercise your brainpower and logical skills as you have to navigate through a series of tricky levels. Each level offers unique obstacles to overcome.</li><li>\n<b>Increasing difficulty: </b>Gear up to move forward through different types of challenging stages, right from straightforward setups to the extremely tricky configurations that can be solved only with the help of careful planning and foresight.\n</li><li>\n<b>Intuitive controls:</b> It will be awesome to seamlessly navigate the game with easy-to-use controls, which will allow all of your skill levels dive right into the action.\n</li></ul></p>\n\n<p class=\"text_desc\">\nIn this cute puzzle game, you are aimed at establishing the connections between plugs and sockets, while ensuring a seamless flow of energy throughout each level. The best part is that you will also be able to unlock new challenges, while pushing your problem-solving abilities to the limit with each successful match. </p>\n\n<p class=\"text_desc\">\nWork your way to strategize your moves, handle obstacles confidently, and clever each level with as much precision as you can to earn the title of master electrician. Whether you are a puzzle fan or a casual gamer seeking an electrifying challenge, this free online puzzle game offers hours of engaging gameplay that will keep you plugged in for hours on end.\n</p>",
+      "size": 640,
+      "height": 420,
+      "script": "https://games.atmegame.com/games/plug-it/",
+      "metaTitle": "Plug it!, Arcade games - Play Online Free : Atmegame.com",
+      "metaDesc": "Plug it! that is the free online arcade game offered for gaming enthusiast under arcade is your best opportunity to improve your arcade skills.",
+      "metaKeyword": "Plug it!, Arcade games, Play Games, 3D Games, Play Online, Play Free Games, Play Online Free Games",
+      "source": "",
+      "likes": 11420,
+      "dislikes": 4729,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 473967,
+      "ownGame": true,
+      "addDate": "2022-08-23T12:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:26:36.472Z",
+      "updatedAt": "2025-06-03T15:49:31.897Z",
+      "__v": 0
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 393
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
