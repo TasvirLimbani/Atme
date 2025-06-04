@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9ba",
+      "id": 3616,
+      "name": "Space Blaze",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "space-blaze",
+      "image": "3616",
+      "url": "space-blaze",
+      "description": "\nTake down enemy ships in this Shoot \\'Em Up game SPACE BLAZE ! Earn stars to upgrade your spacecraft. There are five spacecrafts you can choose from.\n",
+      "size": 900,
+      "height": 510,
+      "script": "\nhttps://html5.gamedistribution.com/a1c4858cc2db451bb97c8e926257b49a/\n",
+      "metaTitle": "Space Blaze,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Space Blaze at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Space Blaze Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335387.xml",
+      "idealFor": "All",
+      "likes": 11,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7434,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.725Z",
+      "updatedAt": "2025-04-25T11:29:34.046Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE PLANE TO MOVE ",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO CONTROL THE PLANE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
