@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7d",
+  "category_name": "mining",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9e6",
+      "id": 3660,
+      "name": "Gold Mine Strike",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "gold-mine-strike",
+      "image": "3660",
+      "url": "gold-mine-strike",
+      "description": "Gold Mine Strike brings a new way of playing Gold Strike with a Minecraft flavor. Throw pickaxes, get rid of blocks and use powerups to enhance your progress. The gold you acquire is used to upgrade the powerups.\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "\nhttps://html5.gamedistribution.com/49f678c1fe4e4807814e04d9ca0e2acd/\n",
+      "metaTitle": "Gold Mine Strike, Mining Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Gold Mine Strike at atmegame.com ! We have selected this mining games for best excitement and thrill in you!",
+      "metaKeyword": "Gold Mine Strike Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335554.xml",
+      "idealFor": "All",
+      "likes": 43,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13448,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2025-03-30T21:40:09.522Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO THROW THE AXE TO THROW THE AXE, THROW THE AXE ON THE SAME COLOR BLOCKS",
+      "webControlKeys": "L CLICK OF MOUSE TO THROW THE AXE TO THROW THE AXE, THROW THE AXE ON THE SAME COLOR BLOCKS"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7d",
+      "name": "mining",
+      "slug": "mining",
+      "icon": "Mining"
+    }
+  }
+}
