@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8b8",
+      "id": 3324,
+      "name": "Doll Creator Fashion Looks",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "doll-creator-fashion-looks",
+      "image": "3324",
+      "url": "doll-creator-fashion-looks",
+      "description": "Doll Creator Fashion Looks is a great fun game where you will have to create dolls and dress them up for different events.After you create the dolls you will have to pick outfits for different events in their lifes.Have fun creating your perfect doll.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/ccd26e2e9192494195ee57fced7bef94/\r\n",
+      "metaTitle": "Doll Creator Fashion Looks, Dressing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Doll Creator Fashion Looks at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Doll Creator Fashion Looks Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533533402.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7537,
+      "ownGame": false,
+      "addDate": "2018-08-06T11:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.722Z",
+      "updatedAt": "2022-08-23T23:21:30.117Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS TO MAKEUP",
+      "webControlKeys": "L CLICK OF MOUSE TO DRESSUP"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
