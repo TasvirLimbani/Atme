@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c095",
+      "id": 5423,
+      "name": "Ultimate Pong",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "ultimate-pong",
+      "image": "5423",
+      "url": "ultimate-pong",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Keep your finger on your mouse or mobile phone and get ready to dive into the one of the easiest and coolest soccer games you have ever played! You cannot resist yourself from exploring this fabulous combination of classic Pong and soccer for hours. Ultimate Pong is a cool fun sports game where you will have to compete against the CPU. Select y our preferred difficulty level and be prepared to make your way to win in the small soccer playground!</span></div><div><span style=\"font-size: 13.3333px;\">Remember the smartness of the CPU character will keep improving with every increase in difficulty level. Your objective in this cool html5 game is to stop the ball from entering your goal area. Do not forget to drag the paddle across the side of the field using your mouse or tapping the screen in mobile phone! It is up to you how smartly you play football game online by knocking the ball away and shooting it into the goal of your opponent.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The player who scores 10 points first will win the competition and bring the trophy to his home! This classic Pong game is played all over the world due to its amazing mechanics. Test your reaction skills against the CPU by winning the match as fast as possible! Keep your eyes on the screen until you shoot the ball right into the goal of your opponent at least 10 times! Do you know you have the guts to beat the computer in expert mode? Join this amazing ball puzzle and see how good are you at pong! Good luck to do your best as the crowd keeps cheering you all the way &#9786;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/b2e79e36033244878b6d84ca7ee2f7c7/\r\n",
+      "metaTitle": "Ultimate Pong,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ultimate Pong at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ultimate Pong Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 39,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11916,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2024-12-09T12:50:13.009Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE RIGHT SCREEN TO STOP THE GOAL",
+      "webControlKeys": "KEEP  PRES  L CLICK OF MOUSE AND MOVE THE NET TO STOP BALL "
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
