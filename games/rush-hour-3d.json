@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfce",
+      "id": 5217,
+      "name": "Rush Hour 3D",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "rush-hour-3d",
+      "image": "5217",
+      "url": "rush-hour-3d",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You never get shortage of fun and thrill when you plan to play top racing games online. It is our immense pleasure to bring you with some of the graphically-improved and highly engaging car racing game that has the ability to keep you engrossed for hours. Give Rush Hour 3D game a try and know why players of all ages find it pretty interesting and challenging! You will get a chance to deal with various kinds of highway hazards when you play this endless arcade game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This cool html5 car game is lashed with multiple trucks, cars and other highway vehicles. You as a player are allowed to explore everything right from your intense craze for the speed to your knowledge about the crashing and braking vehicles. Do not forget to avoid the multiple type hazards on road and make high-scores in this one of the best mobile driving games. Move your car using the keyboard while avoiding crashing! Making best score will depend on how wisely you operate your car on the tracks!</span></div><div><span style=\"font-size: 13.3333px;\">This boys racing game is developed with the help of HTML5 technology, you can enjoy it on mobile phones, PCs, tablets, gaming consoles and any other gaming devices. It is also available on iPads and iPhones. You have only one chance to hit, you will get out of the game if your car hits other vehicle the second time. Be careful while changing from one track to another!! Good luck to explore more classy and easy online games on atmegame.com where no download requires!!</span></div><div><br></div>",
+      "size": 900,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/e29fb2e340344a398b5cbf63d4cc52dd/\r\n",
+      "metaTitle": "Rush Hour 3D,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Rush Hour 3D at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Rush Hour 3D Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1548918563.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7849,
+      "ownGame": false,
+      "addDate": "2019-01-31T12:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2024-09-01T08:13:38.112Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D TO CONTROL "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
