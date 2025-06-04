@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2c7",
+      "id": 6132,
+      "name": "Sniper 3D Target Shooting",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "sniper-3d-target-shooting",
+      "image": "6132",
+      "url": "sniper-3d-target-shooting",
+      "description": "<div>Why do you need to go somewhere else to practice your shooting abilities when you have this awesome brand new action challenge to play online without download? So it does not make a sense to wait anymore. Join Sniper 3D Target Shooting and grab your weapon to go on the most memorable shooting mission of your life! All it takes on how good you are at gun handling and target shooting. You would have different range to shoot targets on.</div><div><br></div><div>Remember you would have limited bullets to use to shoot your targets so be careful before leaving the trigger. Take your time before aiming the bottles so that you can clear all of them from the screen in the shortest possible time! Do not forget to press L to lock the mouse cursor to aim/shoot precisely. The number of bottles will keep increasing as you advance in the game. Hope you will shoot all the bottles to complete all levels to become a champion shooter!</div><div><br></div><div>Move your curser with WASD, run using Shift, lock it with L, and aim, zoom and shoot with the help of mouse and mouse wheel! You can also use H to hold breath for the amazing better aiming. Browse through our extensive collection of free shooter challenges and have fun alone or in the company of your friends without download! We are happy to introduce new online games to our gamers on a regular basis.</div>",
+      "size": 900,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/23b2629de33a46d48e5602380a6c6be7/\r\n",
+      "metaTitle": "Sniper 3D Target Shooting, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sniper 3D Target Shooting at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Sniper 3D Target Shooting Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442954.xml",
+      "idealFor": "Man",
+      "likes": 102,
+      "dislikes": 14,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 17875,
+      "ownGame": false,
+      "addDate": "2019-09-26T01:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-05-07T07:51:44.892Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ALL ARROWS, W,A,SD TO MOVE ,LEFT CLICK MOUSE AND CRTL TO HIT, RIGHT CLICK TO ZOOM IN OURT, L TO LOCK THE TARGET"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 21
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
