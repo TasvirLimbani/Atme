@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2a5",
+      "id": 6095,
+      "name": "Lord of Galaxy",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "lord-of-galaxy",
+      "image": "6095",
+      "url": "lord-of-galaxy",
+      "description": "<div>This brand new action-packed challenge is just for you if you are fond of checking out the best space shooting games online during your vacant time. Your galaxy has been invaded by a horde of deadly enemies who have their own spaceships lashed with powerful weapons. Being a true warrior of your country, you will be given the job of clearing the sky from all these dangerous evils whose only motto is to destroy your spaceship.</div><div><br></div><div>Do you think that you have the guts to simulate sky fire shooting? If yes, join Lord of Galaxy and gear up to take a sheet on a wonderful spaceship that can change its color and weapons anytime time to time during the gameplay. Put your fingers on the left and right buttons to avoid the attacks of your enemies! Do not forget to collect as many coins as you can when you are in the battlefield of this HTML5 shooting game.</div><div><br></div><div>You can use these coins to upgrade the power of your spaceships and make your game interesting. Track your success by the distance bar shown on the left corner of the screen of this cool space shooter! You can check how many coins you have grabbed as of now by having a look at the top right corner of the screen. The fierce environment, modern combat scene, more vivid graphics, easy controls and seamless gameplay will keep you engrossed for hours. Play more popular free space games online on atmegame.com and have a blast with friends!</div>",
+      "size": 1180,
+      "height": 880,
+      "script": "https://html5.gamedistribution.com/e2958fdbbbd44adb8340d2d9714ba2ea/\r\n",
+      "metaTitle": "Lord of Galaxy, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Lord of Galaxy at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Lord of Galaxy Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442796.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7427,
+      "ownGame": false,
+      "addDate": "2019-09-26T01:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2024-11-20T19:48:25.538Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ALL ARROWS TO CONTROL THE SHIP"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
