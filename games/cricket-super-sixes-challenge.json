@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aed8",
+      "id": 433,
+      "name": "Cricket Super Sixes Challenge",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "cricket-super-sixes-challenge",
+      "image": "433",
+      "url": "cricket-super-sixes-challenge",
+      "description": "<p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\">In a limited over cricket game, it is the role of hitting has emerged of the utmost importance to win the game at any cost, when, very few balls are spared away to finish the game. Cricket Super Sixes Challenge is once again the notorious online cricket game, where, you learn to emerge as the best hitter in the online cricketing leagues of coming times.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\"><span style=\"background-color: transparent;\">In this multiple level pitch hitting game of sixer, at the first level you have to hit for making 15 runs without losing the wickets. There are about three lives in the game to score the first level fifteen runs by the numbers of hit made and executed and they all should be sixes and any case by losing the wicket or hitting anything lesser than the six would only result in losing the lives and playing the game again and again for the longer period of time.</span><br></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\"><span style=\"background-color: transparent;\">As for beginning the Cricket Super Sixes Challenge game, you are therefore to space bar to being it and later on using the arrow for hitting the ball in the requisite direction. For, hitting the from the cover use left arrow for straight drive use up arrow and for the straight drive use up arrow to hit over the pavilion. </span><br></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><span style=\"background-color: transparent;\"><font size=\"2\" face=\"verdana\" color=\"#000033\">Once, the lower level of the targeted is achieved than the upper levels of the games are fought and won. In the game, you have to hit the ball very, attentively; otherwise, you will lose your wicket as well as the game.</font></span><br></p>",
+      "size": 800,
+      "height": 600,
+      "script": "433_swf.swf",
+      "metaTitle": "Cricket Super Sixes Challenge, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Cricket Super Sixes Challenge is a limited over cricket game where by hitting the sixes you are entrusted with responsibility to win the game immediately.",
+      "metaKeyword": "Cricket Super Sixes Challenge, Sports, Cricket Games, Cricket Super Sixes Challenge Online Game, Play Free Games, Online Cricket Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 316,
+      "dislikes": 12,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 88227,
+      "ownGame": false,
+      "addDate": "2017-07-11T22:44:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2024-04-04T15:23:46.475Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED "
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 121
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
