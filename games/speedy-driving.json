@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c42f",
+      "id": 6559,
+      "name": "Speedy Driving",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "speedy-driving",
+      "image": "6559",
+      "url": "speedy-driving",
+      "description": "<div>Are you finding it difficult to pass your free time during your home stay? If yes, you have reached at the right place. We have today got you covered with a brand new racing game where controlling a car can help to get the longs hours of fun. Would you like to try it out now? Join Speedy Driving game and be prepared to drive your car through the city that is full of multiple obstacles! Only those who know how to dominate the road can win the race in the end.</div><div><br></div><div>Common boys! Challenge the computer or any other player to secure your first position in this HTML5 car game! Dodge the barriers, stoppers or any other obstacles that you see on your way to beat your competitors! Do not forget to collect the bonus to save time, gold and lives. Move your car up and down to avoid hitting obstacles which might slow you down! It looks to play, but difficult to become a master of the game.</div><div><br></div><div>Some impressive graphics, great handling, easy controls and seamless gameplay offer a matchless driving simulation. Keep your eyes on the screen carefully to avoid crashing and reach your destination fast while beating your rivals! Use the coins to upgrade your car to enjoy a more engaging driving experience! Change lanes fast before your car hits any obstacles on the road! There are many new awesome cars to play with. Enjoy the ride at high speed and have an immersive racing experience!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/speedy-driving/",
+      "metaTitle": "Speedy Driving Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Speedy Driving at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Speedy Driving, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 3158,
+      "dislikes": 692,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 478630,
+      "ownGame": true,
+      "addDate": "2020-11-21T17:11:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-31T07:07:52.240Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON RIGHT ICON WHEN THE RPM REACHES AT GREEN SIGNAL TO BOOST, SWIPE UP DOWN  TO AVOID HITTING THE OBSTACLES",
+      "webControlKeys": "CLICK ON RIGHT ICON WHEN THE RPM REACHES AT GREEN SIGNAL TO BOOST , UP DOWN ARROW TO AVOID HITTING THE OBSTACLES"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 194
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
