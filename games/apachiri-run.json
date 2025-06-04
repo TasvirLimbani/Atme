@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be0a",
+      "id": 4755,
+      "name": "Apachiri Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "apachiri-run",
+      "image": "4755",
+      "url": "apachiri-run",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You have met with the lovely and cute Native American kid named Apachiri who has a plan to take a tour of his nearby village. Everything is good, but the main problem is that the entire village is full of obstacles that can only be handled if you pay attention to the details. Do you think that you have the guts to help him to run like a hero? Join Apachiri Run game and get ready to control him while keeping him away from the deadly obstacles!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">We are damn sure that you would enjoy it to the fullest if you loved the hot temper run. Your primary objective in this brand new adventure game is to help your character run while avoiding different kinds of hurdles. Try to be very quick as the deadly bison will keep chasing you continuously! Collect as many peacock feathers as you can and use the characters to make a long jump in this cool html5 endless runner game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This lovely runner game is available for players of all ages, so you are rest assured of having lots of fun no matter whether you are a kid, a teenager or a grown-up. The longer distance you cover the higher score you will hit the screen in the end. Your final will be shown in the top middle of the screen. All the best to help this cute character to take a wonderful tour through his village! Try to be mastered fast to create the best score in the end! Good luck to explore more interesting and challenging arcade challenges for free to play online, no download required!</span></div>",
+      "size": 800,
+      "height": 640,
+      "script": "https://m.shtoss.com/game/apachiri-run/index.html",
+      "metaTitle": "Apachiri Run, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Apachiri Run at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Apachiri Run Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9395,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.741Z",
+      "updatedAt": "2024-02-14T21:14:28.033Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO JUMP ,KEEP PRESS THE SCREEN TO JUMP HIGHER",
+      "webControlKeys": "L-CLICK OF MOUSE AND UP ARROW TO JUMP"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
