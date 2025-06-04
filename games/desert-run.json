@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb2e",
+      "id": 4015,
+      "name": "Desert Run",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "desert-run",
+      "image": "4015",
+      "url": "desert-run",
+      "description": "<div>This small looking buggy has lost in the dense dessert and no one is there to help the driver find the way to escape. Would you like to accept this challenge and drive this lost car in a way like never before? Join Desert Run and be prepared to race a buggy through the desert that is full of deadly obstacles! It requires paying attention to the details to drive for as long as possible to set your own high score in this brand new racing game.</div><div><br></div><div>Make sure to avoid all the dangerous green trees, dynamites spreading all your way and other obstacles that will try to stop your car moving forward. Put your fingers on the arrow keys to control the direction of your buggy perfectly in this html5 car game! Challenge your intense driving abilities to go as far as possible without crashing! Your survival is not going to be easy at all since you have to avoid craters, trees, land minds to create your best score.</div><div><br></div><div>Do not forget to grab as many power-ups as you can to boost your speed and cover the maximum possible distance in this one of the best buggy driving games for boys. Common friends! The spirit of a true race is running through your blood so create your best score to be on the top of the leaderboards and show off the world that you are a champion racer of your city. Check out more mobile-friendly free car race games on our website and get a chance to have fun without download!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/2af70f7fa24841c9919b570cccdd9c07/\r\n",
+      "metaTitle": "Desert Run, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Desert Run at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Desert Run Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 20,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 15482,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-06-02T11:24:22.275Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE L-R OF SCREEN TO CONTROL",
+      "webControlKeys": "A,D L-R ARROW TO CONTROL , SPACE- BOOST"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
