@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5cc",
+      "id": 2544,
+      "name": "Cat Simulator  Kitty Craft",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "cat-simulator-kitty-craft",
+      "image": "2544",
+      "url": "cat-simulator-kitty-craft",
+      "description": "<p class=\"text_desc\">\nCat Simulator Kitty Craft is one of the most popular arcade style 3D action-packed games in which you put in the paws of a mischievous kitten that wants to wreak havoc in various homes. Select from a wide variety of cute kitten breeds and allow yourself to come on an awesome journey of mischief and mayhem. </p>\n<h4>Key Features:</h4>\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\">\n<li>\n<b>Customizable Kittens:</b> Get a full freedom to personalize your furry friend with a different types of breeds and allow yourself to customize their appearance to create the perfect mischief-maker.</li>\n<li><b>\tDynamic Environments: </b>Make sure to explore 7 unique houses with lush gardens, and each house is filled with different interactive objects waiting to be scratched, destroyed, or chased after.</li>\n<li><b>\tEngaging Quests:</b> It will be amazing to take on fun-filled and quirky quests in each location, right from causing chaos in the living room area to sneaking around the kitchen area, which will help you to earn points and rewards along the way.</li>\n\n</ul>\n<p class=\"text_desc\">\nAs a cute and playful kitten, your primary objective is to cause as much chaos as you can by toppling vases, scratching armchairs, catching mice, and generally making a mess. Perform daring acrobatics and leaps, or disrupt the routines of the unsuspecting homeowners to earn coins. </p>\n<p class=\"text_desc\">\nWith each quest you complete along the way, you will get a chance to unlock new areas to explore and even more opportunities for mischief. So, what are you waiting for, friends? Embrace your inner feline and unleash chaos in Cat Simulator Kitty Craft!\n</p>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/cat-simulator-kitty-craft/index.php",
+      "metaTitle": "Cat Simulator  Kitty Craft,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cat Simulator  Kitty Craft at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Cat Simulator  Kitty Craft Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7105,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.711Z",
+      "updatedAt": "2024-09-03T10:23:02.237Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE, SPACE- ATTACK"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
