@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c353",
+      "id": 6313,
+      "name": "Carmageddon Zombie Drift",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "carmageddon-zombie-drift",
+      "image": "6313",
+      "url": "carmageddon-zombie-drift",
+      "description": "<div>Only professional drifters and brave souls should try out this brand new racing challenge! Do not you think that you are blessed with both these characteristics? If so, join Carmageddon Zombie Drift and be prepared to drive a uniquely-designed car through a dangerous zombie apocalypse. The controls are simply very easy, but it requires an expertise to create your own best score. Zombies are spreading everywhere so try to be quick in escaping from them to keep you alive and set your own best score.&nbsp;</div><div>Make sure not to collide with other cars and obstacles and try to go as far as you can. Kill as many zombies as you can to create your new best score in this HTML5 car game! Behave like a kind of the roads to prove the world that no one can drift a car like you do! Luckily, you own a car so use it to crush a good number of deadly souls to make you believe that you are truly an enemy for the bad souls. Practice your driving and unexpected maneuvering abilities in this endless drift surviving game!</div><div>Track your score by having a look at the top middle portion of the screen! The entire world is struggling now with the zombie apocalypse. And, you are the only hope to the people of this planet. So fight like a champion and keep clearing the screen from the dangerous zombies to save humanity. The longer you stay the higher score you will be able to make in the end. Good luck to destroy as many blood-thirsty zombies as you can to become a champion of one of the most popular zombie games!</div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/4d49b3285c8a4485b10a33c64b499004/\r\n",
+      "metaTitle": "Carmageddon Zombie Drift Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Carmageddon Zombie Drift at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Carmageddon Zombie Drift Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579523644.xml",
+      "idealFor": "Man",
+      "likes": 187,
+      "dislikes": 70,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 29639,
+      "ownGame": false,
+      "addDate": "2020-01-20T18:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-05-14T11:39:09.587Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO CONTROL THE CAR",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "3.1",
+      "count": 14
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
