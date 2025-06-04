@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2ca",
+      "id": 6135,
+      "name": "Gibbet Archery",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "eg-gibbet-archery",
+      "image": "6135",
+      "url": "eg-gibbet-archery",
+      "description": "<div>We have good news for all the archery game lovers. Today we have got you covered with something special that you want to try again and again in your devices whenever find some vacant hours. Would you like to give it a try to improve your archery skills? If yes, join Gibbet Archery and be prepared to participate in the biggest archery completion online. Your objective in this brand new action challenge is to help the hangman reach safely to his home by cutting the rope carefully.&nbsp;</div><div><br></div><div>Aim your bow and arrow wisely when you are looking forward to cut the rope of hangman in this HTML5 shooting game! Make sure not to cause the victims further injury. Practice your shooting abilities before aiming your target other the hangman could be killed! Save all the people hanging on the gallow and send them to their home again! This cool arcade challenge combines both the skills archery and action. Be careful as you have limited arrows to use to aim your target!</div><div><br></div><div>The number of arrows will keep increasing as you move forward. Aim carefully to win through all 50 levels and prove yourself to become the best archer in the virtual world! Our website maintains a wide array of free action-packed challenges that are meant for providing the best quality fun and thrill. Give them a try one by one to know which online shooter game will fit into your needs the most!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/4fc08120441542e689bcea0edc1b57aa/\r\n",
+      "metaTitle": "Gibbet Archery, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Gibbet Archery at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Gibbet Archery Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442954.xml",
+      "idealFor": "Man",
+      "likes": 41,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11348,
+      "ownGame": false,
+      "addDate": "2019-09-26T01:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2024-11-28T13:20:34.725Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "HOLD AND RELESE THE ARROW WITH LEFT CLICK"
+    },
+    "rating": {
+      "rating": "3.2",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
