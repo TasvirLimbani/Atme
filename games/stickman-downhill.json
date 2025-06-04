@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad75",
+  "category_name": "bicycle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad75",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae51",
+      "id": 123,
+      "name": "Stickman Downhill",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "stickman-downhill",
+      "image": "123",
+      "url": "stickman-downhill",
+      "description": "When it comes to the popularity of online racing games the bicycle games online has its own unique niche for players to be enjoyed and play. The <a href=\"http://www.atmegame.com/online-bicycle-games\" title=\"Cycle Game\" target=\"\"><font color=\"#0033cc\">bicycle games online</font></a> are the method to judge the one?s skill to an exhaustive skills of running the bikes at tuff terrain and in environment either in a competitive environment or in a time bound atmosphere.<br><br>One such environment enabled bicycle running game is stickman downhill where in one of the free racing games a player is required to complete around fourteen levels in the game. All the terrains of the game are set in a unique and most attractive setting where a player is guided by different ways to move ahead in the games? simulation environment.<br><br>However as a stickman, the pulling the bicycle in play racing game online is a very difficult one and your tasks of reaching from one level to the next one are being eased by different upgrades offered and buying options provided in the game.<br><br>When starting the game you can either buy an entire new bike from the option available to you or take small fragments and parts depending upon the cash available to you in these best racing games online. For Stamina adrenaline is required to be purchased and for the bicycle performance, you can choose from the tires, frame, suspension and brakes.<br><br>For the control in the game, arrow keys are used for speeding up and for the jump in the special situations spacebar is being used.",
+      "size": 640,
+      "height": 480,
+      "script": "https://flash.gamedistribution.com?game=80883e4304cb40b7a14a198d77de8e10",
+      "metaTitle": "Stickman Downhill, Bicycle Racing Games - Play Online Free : Atmegame",
+      "metaDesc": "Get yourself indulged with an exciting online bicycle online racing game to check the exhaustive riding skills and terrain around in the racing game online.",
+      "metaKeyword": "cycle games, cycle online, cycle racing games, bicycle games, Stickman Downhill",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 123,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 16696,
+      "ownGame": false,
+      "addDate": "2016-07-03T07:14:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2024-11-19T09:40:25.931Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 17
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad75",
+      "name": "bicycle",
+      "slug": "bicycle",
+      "icon": "bicycle-racing-games"
+    }
+  }
+}
