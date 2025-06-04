@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b45e",
+      "id": 2120,
+      "name": "Dirty Aeroplane Cleanup",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "dirty-aeroplane-cleanup",
+      "image": "2120",
+      "url": "dirty-aeroplane-cleanup",
+      "description": "You have to expect a multiple challenge in this Aeroplane game because we prepared something that combines the art of housekeeping with some abilities to seek and find. There are three major steps: the interior cleaning, the exterior one, and the finding objects. Go through the following phases in order to achieve a cleaned, fixed and all arranged plane. Make your airplane company proud.",
+      "size": 800,
+      "height": 480,
+      "script": "https://flash.gamedistribution.com?game=b63cd73673a14f9e892db74f69bf874e",
+      "metaTitle": "Dirty Aeroplane Cleanup, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dirty Aeroplane Cleanup at atmegame.com ! We have selected this flying games for best excitement and thrill in you!",
+      "metaKeyword": "Dirty Aeroplane Cleanup, Play Free Games, Play Online Free Games, Aeroplane Games",
+      "source": "",
+      "xmlFile": "Deactive",
+      "idealFor": "Man",
+      "likes": 29,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9543,
+      "ownGame": false,
+      "addDate": "2018-03-27T11:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.702Z",
+      "updatedAt": "2023-12-18T07:14:39.783Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
