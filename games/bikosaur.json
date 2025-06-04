@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad75",
+  "category_name": "bicycle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad75",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb9d",
+      "id": 4128,
+      "name": "Bikosaur",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "bikosaur",
+      "image": "4128",
+      "url": "bikosaur",
+      "description": "<div>This little dinosaur is very responsible and ready to do his best to make his family feel happy. Today he has decided to grab steak to feed his family through a bicycle. But, the problem is that he does not know how to ride a bicycle since cycling is not his cup of tea. Would you like to help this cute creature? Join Bikosaur and be prepared to guide him on a path that is full of steaks and obstacles as well! Grab power-up items and make sure that he can go as far as possible!</div><div><br></div><div>There is no need to get off the bike, but you have to collect things sitting on your vehicle. Be careful about all the tricky and challenging traps that you see on the road! Try to make your character jump over the deadly cat in this html5 bicycle game! Put your racing abilities and quick reflexes to the test to create your high score! Remember you have only three lives to lose so make sure that your character does not get connected with any of the hindrances.</div><div><br></div><div>Track your lives at the top left corner of the screen and you can see how many steaks you have collected by looking next to it! The top right corner of the screen will show your present and high score. Good luck to create your new best score and break the previous one! At our website, choose any of the popular titles from the category of free racing games and have fun alone or with your friends, no download required. All the best for a happy gaming experience!!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/e8d4252193da47d3a2de940d2f12974a/\r\n",
+      "metaTitle": "Bikosaur Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bikosaur at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Bikosaur Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10331,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-07-06T07:40:15.930Z",
+      "__v": 0,
+      "mobileControlKeys": "L- MOVE , RIGHT SIDE ICON-JUMP",
+      "webControlKeys": "UP ARROW TO JUMP, L-R ARROW TO MOVE,ESC-PAUSE, R-REPLAY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad75",
+      "name": "bicycle",
+      "slug": "bicycle",
+      "icon": "bicycle-racing-games"
+    }
+  }
+}
