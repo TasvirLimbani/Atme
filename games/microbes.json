@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b927",
+      "id": 3460,
+      "name": "Microbes",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "microbes",
+      "image": "3460",
+      "url": "microbes",
+      "description": "fun for everyone and very entertaining",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/3030061dd69e46c7938059fe4bea1eeb/\r\n",
+      "metaTitle": "Microbes Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Microbes at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Microbes Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536575483.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9149,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2022-08-23T23:21:30.120Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "0.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
