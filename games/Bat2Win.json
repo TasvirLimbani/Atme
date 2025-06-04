@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aed2",
+      "id": 427,
+      "name": "Bat2Win",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "bat2win",
+      "image": "427",
+      "url": "Bat2Win",
+      "description": "<p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\"><font color=\"#000000\">In the game of cricket, whether, it is being played online or decisively is being held on the ground, the role and importance of batsmen are of the highest importance and is being raised to the optimum level of acceptability and fan following. The Bat2Win, the </font><a href=\"http://www.atmegame.com/online-cricket-games\" title=\"\" target=\"\" style=\"\"><font color=\"#0033cc\">online cricket game</font></a><font color=\"#000000\"> offers an excellent batting opportunity to the players.</font></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000000\">With the Bat 2 Win game, you can have better batting practice session in order to get adapted to the current cricketing trends online for the best result in terms of for the tournament or in any friendly match.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000000\">As for the practice session, you have to score by hitting the ball without losing it and if it is being lost, it should not hit your wicket. Moreover, in Bat2Win game in case if any ball is being lost there is an energy bar that shows the life of a player playing the game to the extended level. As far as you losses the wicket, the energy bar gets depleted and you are required to refill the energy bar to continue the game.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><span style=\"background-color: transparent;\"><font size=\"2\" face=\"verdana\" color=\"#000000\">Against the shot, in the online cricket game, there, are options for playing the game like 6 run, 4 run, 3 run, 2 run and 1 run.  As better, you will fair in this free online game as good opportunity you will have about winning the game.</font></span></p>",
+      "size": 800,
+      "height": 600,
+      "script": "427_swf.swf",
+      "metaTitle": "Bat2win, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "BAT2WIN online game of cricket is being played online or decisively is being held on the ground at the basis of excellent gaming opportunity offered to the players.",
+      "metaKeyword": "Super Sixers 2, Sports, Cricket Games, Super Sixers 2 Online Game, Play Free Games, online cricket games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 317,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 79495,
+      "ownGame": false,
+      "addDate": "2017-07-11T10:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2024-03-16T19:15:33.111Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 135
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
