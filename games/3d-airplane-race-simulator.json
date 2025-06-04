@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c191",
+      "id": 5708,
+      "name": "3d Airplane Race Simulator",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "3d-airplane-race-simulator",
+      "image": "5708",
+      "url": "3d-airplane-race-simulator",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This time we have brought to you a brand new aeroplane game that is equipped with the adventure and thrill you seek during your free time! We are sure that you will fall in love with 3D Airplane Race Simulator once you try it out in your gaming device. You can enjoy this online flying game in your PC, mobile phone or any other gaming device as per your own convenience. With easy controls and seamless gameplay, it has something for all.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You have to put your pilot flying skills to challenge in this fun air flight simulation game. Do your best and face different obstacles confidently to complete different levels! Remember it’s a time-based game so get ready to complete your goal timely otherwise you will lose and not be able to finish your present level. Collect points and buy cool and new airplanes through which you can perform more cool tricks in this one of the best HTML5 games for kids!</span></div><div><span style=\"font-size: 13.3333px;\">All the 20 levels are full of fun and thrill, so you rest assured of experiencing the entertainment to the ultimate level. Try all that is needed to help you become a great pilot in this cute 3D flying game! It will be an amazing experience to get in the cockpit of a lovely plane especially if you have a plane to be a pilot in the future. Use arrow keys or mouse to turn your airplane. Also, apply 1,2,3 to perform tricks. Explore more flying games on our free online game website in just a few clicks!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/04a7da55446b464c9e346dcdd5cd53ce/\r\n",
+      "metaTitle": "3d Airplane Race Simulator,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 3d Airplane Race Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "3d Airplane Race Simulator Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557564016.xml",
+      "idealFor": "Man",
+      "likes": 49,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 12053,
+      "ownGame": false,
+      "addDate": "2019-05-11T14:10:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2025-02-10T07:40:20.267Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,,S,D ALL ARROWS MOUSE TO MOVE"
+    },
+    "rating": {
+      "rating": "2.4",
+      "count": 17
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
