@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b342",
+      "id": 1813,
+      "name": "Tune Your Truck",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "tune-your-truck",
+      "image": "1813",
+      "url": "tune-your-truck",
+      "description": "You are working in a big truck shop where you can help all your customers by cleaning up their vehicles and then tuning them. You have to pay attention to what your clients want and make sure you get every part right. In cleaning their vehicle you have to be accurate in order to get a higher score. Make sure you are very fast, because time is limited and you will have to finish before it runs out. You will also get a time bonus if you finish faster. Enjoy playing this amazing game!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=aa97d584861474f4097cf13ccb5325da\r\n",
+      "metaTitle": "Tune Your Truck, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tune Your Truck at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Tune Your Truck Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630155.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8683,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2024-01-25T09:31:48.536Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
