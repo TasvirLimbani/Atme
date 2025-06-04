@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5c4",
+      "id": 2536,
+      "name": "Spider Simulator Amazing City",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "spider-simulator-amazing-city",
+      "image": "2536",
+      "url": "spider-simulator-amazing-city",
+      "description": "<p class=\"text_desc\">\n\nSpider Simulator Amazing City is an action-based destruction game in which you have to play the role of a spider who is on a mission to instill fear and wreak havoc across multiple cities. If you are amongst those who are scared of spiders, this brand new online game will change your mind-set as you get a chance to become those air-breathing arthropods you once scared of. </p>\n<p class=\"text_desc\">\nThis cool destruction game will allow you to scare everyone else that you see on the road and area you cover. </p>\n<h3>Key Features:</h3>\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\">\n<li>\n<b>Play as a Menacing Spider:</b> Get yourself ready to unleash your inner spider as you navigate through cities and terrify the inhabitants.</li>\n<li>\n<b>Unleash Destruction: </b>There are many places around the cities to destruct. Use all your powerful attacks and relentless pursuit. \n</li><li>\n<b>Engage in Challenges:</b> Make sure to overcome diverse obstacles and face off against brave souls who dare to stand in your way.\n</li>\n</ul></p>\n<p class=\"text_desc\">\nUnlike other traditional spider games, in Spider Simulator Amazing City, you become a predator, who is looking forward to strike fear into the hearts of the city's inhabitants. Your cunning, agility and the power of delivering the venomous attacks will help broke anyone that comes on your way. Choose single player or multiplayer and gear up to complete multiple levels across 6 different maps in each mode. </p>\n<p class=\"text_desc\">\nThis one of the best action games offers a unique twist on the usual narrative of survival horror games. You do not need to fee away from spiders as you are playing its role. Get the power to unleash chaos and destruction. Make sure that no one escapes your wrath and leave no building standing.</p>\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/spider-simulator-amazing-city/index.php",
+      "metaTitle": "Spider Simulator Amazing City,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Spider Simulator Amazing City at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Spider Simulator Amazing City Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7294,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.711Z",
+      "updatedAt": "2024-07-10T09:54:36.190Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE, SPACE- ATTACK"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
