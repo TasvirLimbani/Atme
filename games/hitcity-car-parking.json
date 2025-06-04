@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2cd",
+      "id": 6138,
+      "name": "HitCity Car Parking",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "hitcity-car-parking",
+      "image": "6138",
+      "url": "hitcity-car-parking",
+      "description": "<div>Finding a right spot to park for your cars is a big problem in every metropolitan city. Even you also find difficulty sometimes in parking your vehicles in the multiplex and other commercial buildings. Today we have got you covered with a brand new racing game where you can learn how to park your car in the given spot. Do you think that it a right time to play it out? If yes, join HitCity Car Parking and be prepared to drive and park your vehicles in a particular given area.</div><div><br></div><div>Make sure that you get your job done within the given time as the clock is running very fast. Track how much is left for you to park by having a look at the top right corner of the screen! Try to keep your vehicle away from the collision in this HTML5 parking game! You would be given only a few chances to collide with other obstacles so try to park your chosen vehicle before you are out of those attempts.</div><div><br></div><div>It will be great for you if park your car in the parking lot without contacting the vehicle. Grab money for your good efforts and do not forget to use that money to modify your vehicle! Common boys! You would have plenty of interesting and challenging tasks to complete in this parking simulator. Check out more realistic and engaging racing titles on our website and have fun with your friends without download! Luckily, these online games are playable on multiple browsers and devices.&nbsp;</div>",
+      "size": 900,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/f0ccfc73baf8430b91708c5376f0df26/\r\n",
+      "metaTitle": "HitCity Car Parking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game HitCity Car Parking at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "HitCity Car Parking Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569524127.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 6406,
+      "ownGame": false,
+      "addDate": "2019-09-27T00:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2023-08-03T04:41:07.227Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS-MOVE, SPACE-BREAK,ALT-PAUSE"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
