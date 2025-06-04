@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfab",
+      "id": 5180,
+      "name": "Hopping Boys",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "hopping-boys",
+      "image": "5180",
+      "url": "hopping-boys",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is always a great fun to try out a latest adventure challenge in your desktop or mobile phone. Give Hopping Boys and forget all the platform games you have ever played! The reason is pretty clear as you will have to play the role of a superhero which can run over the multiple platforms. However, the problem is that he needs your guidance to use those platforms. He knows that your running skills are awesome so your favorite superhero has called you up to complete his new adventure.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your primary objective is to guide him to run and jump across multiple platforms that are full of dangerous enemies in this html5 platform game. Although he is a brave heart, this time he needs you to overcome all these hurdles and complete all challenging leveles. There are many interesting things to explore in this classic side-scrolling arcade platformer. Do not forget to grab as much coins as you can to help him to complete each level with the best score!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">In each level, you have to reach to a particular destination. Select your game between three major characters to continue the adventure! BE careful with the skewers as you will lose your game if you fail in any of them. Play this fun jumping platformer game through your mouse on PC or swipe the screen on mobile phone or tablet! Make sure to jump at the right moment to avoid the deadly obstacles. BE prepared to put your dexterity and skill to challenge to win all levels of this cute Mario style runner game!</span></div>",
+      "size": 800,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/7a0627a1e46649669f1f8fa1982e4dde/",
+      "metaTitle": "Hopping Boys,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hopping Boys at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Hopping Boys Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545866.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7189,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2023-07-09T06:56:35.862Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK TO JUMP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
