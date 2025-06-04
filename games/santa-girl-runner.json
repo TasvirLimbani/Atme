@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf62",
+      "id": 5105,
+      "name": "Santa Girl Runner",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "santa-girl-runner",
+      "image": "5105",
+      "url": "santa-girl-runner",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The Christmas celebration has just begun and your favorite Santa is not feeling well. But, the good news is that his daughter has come forward and decided to grab all the gifts scattered at multiple locations across the North Pole. It means that this Christmas you would get the gifts from his lovely daughter. However, the problem is that all her way is full of enemies and obstacles that would try to stop her from doing this wonderful job. She needs your help. Join Santa Runner and guide her to complete this mission successfully!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this new adventure game is to make her jump to dodge all of the dangerous obstacles and grab as much gifts as possible. The finish line is not going to come early. So, keep guiding her dodge the hindrances until she reaches her destination. Do not forget to grab the sleigh power up to blast through the deadly walls. Use the arrow keys on computer and tap the screen on mobile phone to obtain as many gifts as possible in this super fun running game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Make sure to make her jump and slide under the obstacles to reach safely to the finish line. Focus on grabbing all the rings along the ice path and hearts for an extra life! The longer you survive, more gifts you would be able to collect. Good luck to guide your character run through the difficult path in this super html5 runner game! Play more fun Christmas games for girls on atmegame.com to enjoy your time when you feel bored!&nbsp;</span></div>",
+      "size": 1280,
+      "height": 720,
+      "script": "https://m.shtoss.com/game/santa-girl-runner/index.html\r\n",
+      "metaTitle": "Santa Girl Runner,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Santa Girl Runner at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Santa Girl Runner Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 41,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 17192,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-04-07T05:33:09.259Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP DOWN TO SWIPE,TAP UP TO JUMP",
+      "webControlKeys": "DOWN ARROW TO MSWIPE,UP ARROW TO JUMP"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
