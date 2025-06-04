@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be18",
+      "id": 4769,
+      "name": "Tiny Defender",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "tiny-defender",
+      "image": "4769",
+      "url": "tiny-defender",
+      "description": "<div><span style=\"font-size: 13.3333px;\">A group of giants have invaded little people who were already in trouble. You have been appointed as a driver of a tank through which you have to eliminate all the bad souls from the screen. Do you think that you are sufficient enough to eliminate the evils and grab the tiny defenders that are separated in two rows? Join Tiny Defender and be prepared to shoot the designated defender characters and save the needy ones! Enjoy the fun of playing in PCs and mobile phones!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this brand action game is to shoot all your enemies and avoid your armies. Avoid shooing the wrong people otherwise you will die immediately! It will be in your hands now how to protect your planet against the imposters. Keep clicking the designated character to complete your shooting task! Pay attention to details and try to react quickly for the fast movement of the characters in this free online shooting game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Put all the right efforts into the right direction to defend your base against a horde of evil attackers! Do your best not to let the opposing army soldiers enter your base and try to shoot a team of all the incorrect soldiers! Get ready to move your fingers left to right and vice-versa to finish your enemies and rack up a high score! Invite your friends and family members to see who will be the best and skilled enough to be on the top of leaderboard!</span></div>",
+      "size": 720,
+      "height": 600,
+      "script": "https://m.shtoss.com/game/tiny-defender/index.html",
+      "metaTitle": "Tiny Defender,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tiny Defender at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Tiny Defender Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546117493.xml",
+      "idealFor": "Man",
+      "likes": 38,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8242,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.741Z",
+      "updatedAt": "2023-07-11T03:16:34.517Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP L-R SCREEN TO SHOOT ONLY ARMY MAN",
+      "webControlKeys": "L-R ARROWS TO CHANGE THE DIRCETION OF CANNON,KILL ONLY ARMY"
+    },
+    "rating": {
+      "rating": "1.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
