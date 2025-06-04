@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4fc",
+      "id": 2294,
+      "name": "The Nest",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "the-nest",
+      "image": "2294",
+      "url": "the-nest",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Everybody wants to reach home when get tired and complete his work. A cute bird also wants to come back to her nest in the evening, but some pigs are trying to create difficulties on her way to stop them from doing so. Would you like to play the role of a saviour for this cute bird? Join The Nest game and be prepared to guide help the bird to the nest! Make sure to destroy all the pigs that you see on the screen.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">All you need to tap or click the green and red colour boxes to clear them away. Make these pigs collision with ground to be disappeared from the screen! You can tap the pig/bird to transform them. Remember you cannot remove the green block/stick so be careful while playing this HTML5 arcade game. Try to tap as little as possible to finish your game with the maximum possible score! You would have 24 unique and addictive levels to play online for free on atmegame.com with download.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You also have to take care of not letting the pig touch the bird or the nest otherwise your level gets failed. Use your logical mind to save the birds to reach their home nest in this brand new puzzle challenge! You cannot clear the level until you destroy all the pigs in this amazing physics game. Good luck to tap as less as possible to earn the full stars through 24 levels! Check out our wider collection of free arcade games to spot some other wonderful fun-filled game titles and have fun!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/5cf313afcfe148179b7d0885cfc6e6e1/\r\n",
+      "metaTitle": "The Nest, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game The Nest at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "The Nest Game, Action Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7731,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-03-13T01:51:28.619Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO BREAK THE BOXES",
+      "webControlKeys": "L CLICK OF MOUSE TO BTREAK THE BOX "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
