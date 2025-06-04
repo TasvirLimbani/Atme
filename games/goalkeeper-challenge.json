@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af01",
+      "id": 480,
+      "name": "Goalkeeper Challenge",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "goalkeeper-challenge",
+      "image": "480",
+      "url": "goalkeeper-challenge",
+      "description": "<div>Goalkeeper Challenge is a highly challenging and electrifying soccer game for kids, teens, and grownups. When you play this popular sports game, your primary focus is to defend the goal the players from other teams will try to make on you. They are very fast and will also try the lightning-quick moves in order to score the goal and ensure their victory at you. There is no need to show your mercy in this latest soccer game. </div><div> </div><div>In this free online game, your reflexes and skills will be tested. Get ready to protect the goal and restrict your opponent from scoring in this cool online soccer game. Use your senses and open your mind to predict the moves of your enemy and focus only on blocking his kick shots to ensure your victory. Goalkeeper Challenge is one the best soccer games that have ever come in the internet world. </div><div><br></div><div>It is also known as an excellent free online game for boys and allows the online gamers to improve their hand and eye coordination and concentration skills. Remember, your enemy keep taking a good number of shots and you as a player of this sport is to block his maximum number of shots. He has 20 chances to kick and shoot the ball, so do not get relaxed until all his chances are completed. Your enemy will also be given an extra shot in case if you succeed in blocking his last shot. You will be awarded 1 point with each shot block. Excellent timing, good patience and cool head and determination are the keys to scoring higher in this awesome soccer game.</div>",
+      "size": 650,
+      "height": 389,
+      "script": "https://play.famobi.com/goalkeeper-challenge/A-925FD",
+      "metaTitle": "Goalkeeper Challenge, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Goalkeeper Challenge at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Goalkeeper Challenge, Sports, Soccer Games, Goalkeeper Challenge Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 174,
+      "dislikes": 20,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 18226,
+      "ownGame": false,
+      "addDate": "2017-07-18T11:27:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.668Z",
+      "updatedAt": "2025-03-03T17:05:22.664Z",
+      "__v": 0,
+      "mobileControlKeys": "L-ICONS TO TURN L-R, R-ICONS TO JUMP AND DOWN",
+      "webControlKeys": "ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 15
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
