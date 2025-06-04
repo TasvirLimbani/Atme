@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c18f",
+      "id": 5705,
+      "name": "Oddbods Soccer Challenge",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "oddbods-soccer-challenge",
+      "image": "5705",
+      "url": "oddbods-soccer-challenge",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Today is a great day since Oddbuds have returned and you are going to have the pleasure of spending some good time with them! Join Oddbods Soccer Challenge game to experience the extreme fun and thrill in this brand new sports game! Try to be focused to achieve your goal to earn as many points as you can! We are damn sure that you have the skills to score the maximum goals with the popular Oddbods soccer players in this one of the best football games!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Select the theme and then choose the level you want to play! You cannot move towards the advanced level until you clear the previous one. In the first level, you will see a cute Newt who is passionate about taking selfies. We hope you will help him to find the best way to fulfill his selfie fantasy! Aim your target by holding and dragging the ball across the screen! Use the right control to release the kick timely! Do not forget to put your soccer skill to test to complete the game with 3 stars!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">It is up to you how to obtain the maximum star bonus and shot bonus points! Your total score will also be displayed on the screen when you complete each level. In the second level, you will meet Grumpy Fuse, who is on the training. He will be happy if you make a goal without disturbing him. The third level brings you closer to the sleeping Zee, who also does not like any obstacles during his sleeping time. Hit the ball and send it directly to the net you see on the other hand of the screen in this football game!&nbsp;</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/e7713d45f05a4709b8314a5c1a2e154a/\r\n",
+      "metaTitle": "Oddbods Soccer Challenge, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Oddbods Soccer Challenge at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Oddbods Soccer Challenge Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557559199.xml",
+      "idealFor": "Man",
+      "likes": 496,
+      "dislikes": 50,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 111463,
+      "ownGame": false,
+      "addDate": "2019-05-11T12:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2025-05-15T21:06:01.591Z",
+      "__v": 0,
+      "mobileControlKeys": "HOLD AND DRAG THE BALL ACROSS SCREEN TO AIM,RELESE TO KICK",
+      "webControlKeys": "HOLD AND DRAG THE BALL ACROSS SCREEN TO AIM,RELESE TO KICK"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 56
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
