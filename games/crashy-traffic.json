@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb16",
+      "id": 3991,
+      "name": "Crashy Traffic",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "crashy-traffic",
+      "image": "3991",
+      "url": "crashy-traffic",
+      "description": "<div>Why you need to sit on the next seat of a driver when you get a chance to drive a lovely mini car on a long highway? Yes, we are talking about a brand new racing game where you will get a chance to ride your own car on a highway that is full of other vehicles. Your objective is to drive through all the other vehicles and make your way in Crashy Traffic. Start with the zero speed and then allow yourself to ride your vehicle at more than 100 kmph!</div><div><br></div><div>Be careful and try to keep your car away from the other vehicles to avoid the collision in this HTML5 car game! Do not forget to collect the coins as you can use them to buy new cars and make your gameplay even more interesting and challenging. Track your best score by looking at the top left corner of the screen, while the top right corner of the screen will show how much coins you have earned so far!</div><div><br></div><div>There are four tracks on the road to ride your vehicle. Change the track as needed to avoid the collision since even a single collision will cause lose your game! Do not forget to click the grab your reward to find something interesting. The speed of your vehicle will keep increasing as it will keep moving forward. Give it a left or right direction to help your vehicle survive for as long as possible! Play alone, create your best new score without download and do not forget to share it with your friend and families!</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/e57c76b679a143d8affc1e7115b90322/\r\n",
+      "metaTitle": "Crashy Traffic,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Crashy Traffic at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Crashy Traffic Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13463,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-05-03T07:02:35.100Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "A/D OR L-R ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
