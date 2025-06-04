@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b177",
+      "id": 1268,
+      "name": "Real Soccer Pro",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "real-soccer-pro",
+      "image": "1268",
+      "url": "real-soccer-pro",
+      "description": "<div>Join Real Soccer Pro and get a chance to become an elite soccer player! Begin this soccer game with holding the game and keep running while avoiding your enemies on the way. Drag the ball to the net passing through the goalkeeper and score goals! Try to collect the maximum possible scores in this free online sports game for boys. You are a good football player and your team relies on you completely. So, don’t break their trust and try to hit the maximum number of goals to lead them to the victory.</div><div><br></div><div>You are sure to have a lot of fun in this free fantasy simulation game. Take full control on your team on the playground during the cup games or league games. It’s a wonderful chance to improve your soccer skills and include yourself in the list of the popular football champions. Read out the instructions to enjoy this ultimate football game in your device. Apply your patience and skills to win this cool html5 game.</div><div><br></div><div>Control the chosen player’s movement with the help of the mouse. Use a right or left move as needed to avoid the players of the opponent and reach to the goalkeeper. No need to lose your game since there are possibilities of facing some obstacles in the beginning. However, after making a few attempts, you will be able to achieve the goal of the game i.e. to become a soccer expert. Good luck kids!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/3396f917195f4d9198980c2b2ef7b983/\r\n",
+      "metaTitle": "Lets Play Golf, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Lets Play Golf at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Lets Play Golf Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517222754.xml",
+      "idealFor": "Man",
+      "likes": 45,
+      "dislikes": 10,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 22788,
+      "ownGame": false,
+      "addDate": "2018-01-29T16:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.686Z",
+      "updatedAt": "2025-02-19T12:40:12.563Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS ON THE SCREEN AND SWIPE TO CONTROL THE PLAYER",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO CONTROL THE PLAYER"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 11
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
