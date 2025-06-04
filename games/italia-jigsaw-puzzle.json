@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbc3",
+      "id": 4168,
+      "name": "Italia Jigsaw Puzzle",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "italia-jigsaw-puzzle",
+      "image": "4168",
+      "url": "italia-jigsaw-puzzle",
+      "description": "<div>One of your friends has recently visited some beautiful locations of Italy, captured some pictures and took print outs some of them. However, when he is traveling and coming back to his country, some of his photographs torn out and scattered in several pieces. Would you help them to connect these pieces and complete the pictures again? Join Italy Jigsaw Puzzles and be prepared to help your friend to connect these scattered pieces and complete these lovely pictures again!</div><div><br></div><div>You of course have to put your brain and puzzle-solving abilities to the test to complete all the puzzles of this brand new arcade challenge. There are three modes including easy, medium and hard to play through. In each mode, the number of scattered pieces is different from the other ones. The hard mode has large number of pieces as compared to the ones available in the easy mode. Complete puzzle challenges without any time restrictions in this cute brain teasing game!</div><div><br></div><div>Trying out this online game is no less than a wonderful treat to all the jigsaw puzzle lovers! It will be amazing to enjoy the pictures of some wonderful Italy travel destinations when you play it in your mobile phone, PC, or tablet. Check it out alone or with your friends to have some relaxing hours in your busy daily life! Complete multiple Italy images by dragging and dropping the puzzle pieces to the right spots! Enjoy this Italy jigsaw puzzle without occupying heavy space in your device!</div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/1c2c76a17f664557b1c2041bba736873/\r\n",
+      "metaTitle": "Italia Jigsaw Puzzle,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Italia Jigsaw Puzzle at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Italia Jigsaw Puzzle Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543658660.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8541,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.733Z",
+      "updatedAt": "2024-03-16T20:20:22.887Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO SOLVE THE PUZZLE ",
+      "webControlKeys": "L CLICK OF MOUSE TO SOLV ETHE PUZZLE"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
