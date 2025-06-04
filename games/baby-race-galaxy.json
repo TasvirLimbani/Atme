@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2e3",
+      "id": 6163,
+      "name": "Baby Race Galaxy",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "baby-race-galaxy",
+      "image": "6163",
+      "url": "baby-race-galaxy",
+      "description": "<div>Wow! This cute little bay wants to travel the galaxy land. The good news is that he has his own car that could speed up automatically, but the little champion does not know how to change the direction to avoid the crash with other vehicles and obstacles. Do you like to help him out? Join Baby Race Galaxy and gear up to enjoy a wonderful long journey with the baby to the galaxy land! It requires having good driving skills and nice concentration skills.</div><div><br></div><div>The boy relies on your skills the most so come forward to make his journey easy by helping him upgrade his gears and buff. Make sure to guide him to cover the maximum possible distance over this difficult racing track before time is up in this brand new car game. Do not forget to collect as many stars as you can along the way. Use those stars to buy some wings and cute accessories to make him look trendy during the journey!</div><div><br></div><div>Put your fingers on the keyboard or tap the screen of your mobile phone to race his car to the maximum speed! Also, try to grab the timer scattered throughout the way to increase his time on the track. Wow! There is no chance of getting bored since you would have multiple galaxies to explore. Good luck to handle the car like never before to be the best baby racer in the universe! Three different galaxies and many buyable hats and wings to adore your baby racer.</div>",
+      "size": 1024,
+      "height": 768,
+      "script": "https://html5.gamedistribution.com/b0a3753b7507479a8c623418bac4e1f8/\r\n",
+      "metaTitle": "Baby Race Galaxy, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Baby Race Galaxy at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Baby Race Galaxy Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569524127.xml",
+      "idealFor": "Man",
+      "likes": 61,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 20227,
+      "ownGame": false,
+      "addDate": "2019-09-27T00:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-04-07T09:42:39.987Z",
+      "__v": 0,
+      "mobileControlKeys": "KEYWORD IN SCREEN",
+      "webControlKeys": "A,D, L-R ARROW TO L-R,DOWN ARROW S-BREAK,SPACE- SPEED"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
