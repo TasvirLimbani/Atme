@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be02",
+      "id": 4747,
+      "name": "Dungeon Soul",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "dungeon-soul",
+      "image": "4747",
+      "url": "dungeon-soul",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you want to enter into a world filled with lots of entertainment and fun? Are you a kind of person who loves to explore the arcade puzzles? If yes, Dungeon Soul is definitely made for you. We are damn sure that you would love to explore this brand new arcade challenge in your device again and again. It can be played by anyone irrespective of his or her age. No matter which device you carry on, you will enjoy it and say good bye to your boredom to the fullest.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">In this cool html5 platform game, you would have to handle a cool girl who wants to go on a fun adventure. Do not worry at all! Controls of the game are so easy and simple that anyone can understand and have fun. Put your fingers on the arrow keys when you play it on your computer or tap on the muttons given on the screen of your mobile phone to move your character! Do not forget to grab those gems that would help to boost your score.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Oh! Lots of deadly enemies are there on the platform. So try to escape them while looking forward to react to the exit gate. You would have 12 unique and exciting levels to clear and prove yourself as a strong adventurer. We on atmegame.com are proud to offer a wide and fabulous collection of adventure games for boys that are free to play online, no download required. Good luck to have a blast on the platformer!</span></div><div><br></div>",
+      "size": 800,
+      "height": 720,
+      "script": "https://gamegirl.co/game/dungeon-soul/index.html",
+      "metaTitle": "Dungeon Soul, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dungeon Soul at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Dungeon Soul Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7554,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.741Z",
+      "updatedAt": "2024-03-08T13:38:30.856Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS TO MOVE L-R, L ICON TO JUMP",
+      "webControlKeys": "ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
