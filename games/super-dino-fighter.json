@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8eb",
+      "id": 3391,
+      "name": "Super Dino Fighter",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "super-dino-fighter",
+      "image": "3391",
+      "url": "super-dino-fighter",
+      "description": "Assemble a large and powerful cool Dino Robot. Reach your shortest seconds that you finish assembling the robot. Unlock more 5 powerfull Dino Robot. Then fight all enemies with all of your super weapons until you fight the boss!\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/3edf0a5e2d9149639caf5669664251ec/\r\n",
+      "metaTitle": "Super Dino Fighter, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Super Dino Fighter at atmegame.com ! We have selected this action games for best excitement and thrill in you!",
+      "metaKeyword": "Super Dino Fighter Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533887535.xml",
+      "idealFor": "Man",
+      "likes": 42,
+      "dislikes": 11,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 22906,
+      "ownGame": false,
+      "addDate": "2018-08-10T13:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.722Z",
+      "updatedAt": "2024-03-06T04:28:35.632Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN  TO PICK THE ITMES TO COMPLETE THE DINO",
+      "webControlKeys": "KEEP PRESS AND SWIPE L CLICK OF MOUSE TO PICK THE ITEMS TO COMPLETE THE DINO"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
