@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b3ef",
+      "id": 2009,
+      "name": "Trick Hoops Puzzle Edition",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "trick-hoops-puzzle-edition",
+      "image": "2009",
+      "url": "trick-hoops-puzzle-edition",
+      "description": "<div>Trick Hoops Puzzle Edition is an awesome and highly challenging puzzle game designed for boys and girls from different age groups. In this free online arcade game, your job is to play some trick hoops to achieve the goal of the game. Choose your own player and get ready to guide the basketball through the unwanted hurdles. Make sure that you will put it through the hoop clearly and gather as many stars as you can in each level.&nbsp;&nbsp;</div><div><br></div><div>Although it is very difficult to set a high score in this cool html5 game, using your patience and following the instructions properly will get you through all the hurdles that might come on your way. Are you able to unlock the bonus puzzles and try some tricky and effective shots? If you are, then you must play this fabulous arcade puzzle game in your browser today and see yourself having the unlimited fun and entertainment.&nbsp;&nbsp;</div><div><br></div><div>Your primary objective is to earn the maximum possible points at the end of this fun-filled arcade game. Guess how much power you are required to through the ball and play your shots confidently. Your good basket skills will help to defeat each opponent. You will be given five times to through the ball. See what technique your opponent is using and play your game accordingly. The precision and agility are required to score high. Your problems increase with the passing of every level. We hope you will love this sport very much! Good luck friends!&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "//cdn.witchhut.com/html5/games/trick-hoops-puzzle-edition/190.html",
+      "metaTitle": "Trick Hoops Puzzle Edition, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Trick Hoops Puzzle Edition at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Trick Hoops Puzzle Edition Game, Girls Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.newvendor.com/",
+      "xmlFile": "multi_item_1521610088.xml",
+      "idealFor": "Man",
+      "likes": 41,
+      "dislikes": 11,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 16913,
+      "ownGame": false,
+      "addDate": "2018-03-21T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.700Z",
+      "updatedAt": "2024-10-20T12:16:11.146Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO SELECT THE DIRECTION, RELESE TO MAKE THE GOLE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO AIM, RELESE TO MAKE THE GOLE"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
