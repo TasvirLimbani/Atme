@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": true,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb6e",
+      "id": 4080,
+      "name": "BigHero.io",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "bigheroio",
+      "image": "4080",
+      "url": "bigheroio",
+      "description": "<div>You want to become the best fighter and luckily we have got you covered with a brand new action-packed challenge where you can practice your fighting abilities a lot. Are you ready to accept this unique fighting challenge? Join BigHero.io and get prepared to control a unique kind of character and kill everything that you see on the screen! Focus on the screen to time your attacks accordingly to eliminate your enemies using your weapon from the screen!</div><div><br></div><div>Each character uses unique weapon that is effective and worth using. There are multiple characters like an epic God or a superhero. Make sure to keep your eyes on the attack made by the others in hack n slash style game. Move around the map and you would spot plenty of enemies that are dangerous enough to reply you. Judge the incoming attacks and try to dodge precisely in this HTML5 shooting game!</div><div><br></div><div>Grab more soul stones to increase the size of your weapons amazingly! Wait for the time when you kill your opponents swiftly. Play wisely to collect some weapon upgrades when you move around! There are many big monsters to beat, multiple skins and weapons of character and dashing ability to chase or escape. Do not forget to avoid toxic food that looks similar to beans. Good luck to gain new skills and reach advanced levels in this one of the best girls games! Play with characters like Hulk, Mummy, Zombie, etc and have fun without download!</div>",
+      "size": 960,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/043d6e58d4b04b78ba85cab0f8da74a6/\r\n",
+      "metaTitle": "BigHeroio Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game BigHeroio at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "BigHeroio Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 25,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9857,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-10-30T07:37:02.777Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT LOADING IN MOBILE",
+      "webControlKeys": null
+    },
+    "rating": {
+      "rating": "2.9",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
