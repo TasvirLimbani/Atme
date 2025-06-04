@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bda0",
+      "id": 4648,
+      "name": "Parking Meister",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "parking-meister",
+      "image": "4648",
+      "url": "parking-meister",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a racing maniac? Do you love driving car in any way? We have brought to you a brand new racing game where you can practice your car parking abilities in a completely unique style. You should not miss it out especially if you love parking your vehicle in the defined spots. Try to put your reversing skills and make sure to avoid hitting anything until you complete your mission! Multiple obstacles including barriers, vehicles, divider and small parks will be there to stop you.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">&nbsp;There are 30 unique and challenging levels to play in this cool html5 parking game. You have to park your vehicle in a yellow highlighted place to complete each level.&nbsp; Difficulties will keep increasing as you progress in the game. Make sure to avoid everything except the spot you have to park your car. The faster you complete your mission the higher points you will be able to grab. Try to be fast to complete each level with 3 stars in this car parking simulator!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You can try other challenging and highly-addictive car driving games for kids in case if you seek for extra fun and entertainment. Our website is full of free and easy-to-access car games that you can enjoy in multiple devices without download. Sign up with us for free to track your complete performance and keep your eyes on your all achievements and rewards! We keep updating our websites, so you can expect to spot new car game every time you visit.&nbsp;</span></div><div><br></div>",
+      "size": 900,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/b64e5e25964f4e1cb44c23ed3dcdb11c/\r\n",
+      "metaTitle": "Parking Meister, Parking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Parking Meister at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Parking Meister Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544705010.xml",
+      "idealFor": "Man",
+      "likes": 25,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 14716,
+      "ownGame": false,
+      "addDate": "2018-12-13T18:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-03-02T20:34:09.078Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS TO MOVE UPWARD-BACKWARD , RIGHT ICONS TO L-R",
+      "webControlKeys": "ALL ARROWS TO PARK THE CAR"
+    },
+    "rating": {
+      "rating": "2.3",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
