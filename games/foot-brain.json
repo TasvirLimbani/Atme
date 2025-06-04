@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b545",
+      "id": 2391,
+      "name": "Foot Brain",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "foot-brain",
+      "image": "2391",
+      "url": "foot-brain",
+      "description": "How many touch down will you get with your brain dodging zombies? You run dodging zombies, use energy drinks to kill them, and get all the medals making touchdowns. - Beautiful graphics - B.S.O. original - Fast and fun - Zombies, zombies and more zombies - For all ages - Very easy control, just turn.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/e95438dd45914747bd90f0983fa04e50/\r\n",
+      "metaTitle": "Foot Brain, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Foot Brain at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Foot Brain Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524808838.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 10396,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-03-22T15:50:37.835Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R OF THE SCREEN TO MOVE",
+      "webControlKeys": "A,D L-R ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
