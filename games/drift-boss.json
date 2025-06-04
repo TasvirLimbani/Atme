@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c352",
+      "id": 6312,
+      "name": "Drift Boss",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "drift-boss",
+      "image": "6312",
+      "url": "drift-boss",
+      "description": "<div>Drifting cars on the platforms cannot be handled by anyone else. It requires testing the insane drifting and hand-eye coordination abilities to get the job done. Would you think that you drifting skills are enough to accept this challenge? Join Drift Boss and be prepared to perform some unexpected drifts and skids in tight spots! No need to be scared of falling off the platform when you drive your car around tricky corners and over bumps! Let us see how long you will survive.</div><div><br></div><div>Your good survival rate will help you to score enough points to get some amazing awards. The money or points you earn help to earn some exciting awards and unlock new cars in this HTML5 car drifting game. There are multiple ice cream trucks, police cars, firetrucks, ambulances, taxis and trucks to play with. Precise judgment and good timing matters when you drift left and right. Your objective in this cool car racing game is to travel as far as you can without falling.</div><div><br></div><div>Initially, you will have only one car to use, but the coins you earn along the way will help to unlock the rest ones. Click or tap the screen or press the space bar button to make your vehicle turn at the sharp turns perfectly! Be careful and try to plan your moves in advance to make a successful drift! This cool car drifting simulator features an amazing soundtrack, full-screen capability and fully responsive design. Enjoy some other popular free racing challenges on atmegame.com and have the best time online, no download required!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/0a8b51e5eaee42e7b4db83ca00afc92e/\r\n",
+      "metaTitle": "Drift Boss Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Drift Boss at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Drift Boss Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579523644.xml",
+      "idealFor": "Man",
+      "likes": 196,
+      "dislikes": 67,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 27014,
+      "ownGame": false,
+      "addDate": "2020-01-20T18:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-05-27T07:06:33.018Z",
+      "__v": 0,
+      "mobileControlKeys": "HOLD TAP DOWN THE CAR TO GO RIGHT, RELEAASE TO GO LEFT",
+      "webControlKeys": "LEFT CLICK AND HOLD AND RELEASE TO GO LEFT RIGHT"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
