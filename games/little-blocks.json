@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba20",
+      "id": 3727,
+      "name": "Little Blocks",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "little-blocks",
+      "image": "3727",
+      "url": "little-blocks",
+      "description": "Shoot the targets with the blocks, collect the stars and claim all boxes in Little Blocks!",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/little-blocks-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Little Blocks, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Little Blocks at atmegame.com ! We have selected this puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Little Blocks Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6936,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2023-07-24T19:23:53.915Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO JUMP THE BLOCK AND FIT IN THE EMPTY SQUARE PERFECTLY",
+      "webControlKeys": "L CLICK OF MOUSE TO JUMP THE BLOCK AND FIT IN THE EMPTY SQUARE PERFECTLY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
