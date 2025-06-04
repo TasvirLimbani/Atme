@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b625",
+      "id": 2636,
+      "name": "Scrap GL Micro",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "scrap-gl-micro",
+      "image": "2636",
+      "url": "scrap-gl-micro",
+      "description": "<div>This time you are going to have a lot of fun in this another sequel of popular Scrap Metal series. In this free online 3D car simulation video game, you will have a plenty of new set of obstacles, new maps and new car modes to be explored. No need to wait anymore! Take your seat in your favorite car and get ready to have a wonderful ride of your life in Scrap GL Micro. Choose from a huge variety of replicas of luxury cars like Bugatti, Mercedes, Ford Mustang, Lamborghini and many more others.</div><div><br></div><div>No matter what kind of obstacles you will have to face – just operate the mouse properly to overcome all of them. Check out three new axes, which will enable moving with that sort of obstacle. All you need to do is just click on them and drag them into several useful direction and you will see that obstacle starts moving. In order to move the obstacle, hold the control button and apply mouse again. You will see rotating it into a particular direction on the basis of which axis you want to drag.</div><div><br></div><div>Right click away on the map after placing the obstacle and you will see that it has been placed. Click it one again to make it transparent and get ready to use it again. It will be not easier for you to show your unmatched driving skills especially in a multiplayer mode when players have various extreme combinations of obstacles to face. Call your friends or play this brand new multiplayer car driving game for boys. Good luck kids to have a blast in this cool PC game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/scrap-gl-micro/index.php",
+      "metaTitle": "Scrap GL Micro, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Scrap GL Micro at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Scrap GL Micro Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 7846,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2023-09-21T02:02:59.793Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO DRIVE, SPACE- BREAK"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
