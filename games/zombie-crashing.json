@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf4f",
+      "id": 5085,
+      "name": "Zombie Crashing",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zombie-crashing",
+      "image": "5085",
+      "url": "zombie-crashing",
+      "description": "<div><span style=\"font-size: 13.3333px;\">A huge horde of undeads is trying to attack your city. People of your city do not trust anyone except you who is skilled enough to deal with any monsters. However, this time challenge is pretty big as your enemies are no one else instead of the deadly zombies. Do you still want to take a chance? Join Zombie Crashing and get ready to save the lives of people from the sudden attack of these blood-thirsty souls! You have to operate a truck on an endless highway to clean the city from these monsters.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this one of the best action-packed challenges is to navigate your truck to crash the dangerous zombies. Be careful as the innocent civilians are also available on the road, so try to avoid them when you are on the zombie crashing mission! Try to kill as many zombies as you can to boost your score! Your successful efforts will reward you with some extra points through which you can buy upgraded trucks and have more fun in this amazing html5 zombie game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Try to avoid roadblocks, living humans and wracked cars and focus only on gathering as much scores as you can in this endless highway game! Hurry up, friends!! Some scared civilians are eagerly looking for your help. They have full faith on your abilities, so do the needful to crash the maximum number of zombies to make them feel proud on you. Good luck to try out more zombie games for kids on our website and have a blast every time, no download required!</span></div>",
+      "size": 500,
+      "height": 840,
+      "script": "https://m.shtoss.com/game/zombie-crashing/index.html\r\n",
+      "metaTitle": "Zombie Crashing,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zombie Crashing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Zombie Crashing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546118979.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10098,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2025-04-01T00:41:04.951Z",
+      "__v": 0,
+      "mobileControlKeys": "PRESS ON CAR AND MOVE TO KILL THE ZOMBIES ONLY AVOID KILLING HUMAN",
+      "webControlKeys": "KEEP PRESS TYHE CAR TO KILL THE ZOMBIES BY LEFT CLICK OF MOUSE AVOID KILLING HUMAN"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
