@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb97",
+      "id": 4122,
+      "name": "Basketball Machine Gun",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "basketball-machine-gun",
+      "image": "4122",
+      "url": "basketball-machine-gun",
+      "description": "<div>Hey! You have got an opportunity here to score as many baskets possible to become a champion of the basketball. All it takes to make some hoops before the time expires. We are pretty sure that your intense hooping abilities can help you to win this major basketball championship. The winner will be only the one who is enough capable to race against time. Grab your balls and throw them into the basket to score your first high score! Others have already left the court and it is a nice opportunity to practice your abilities.</div><div><br></div><div>You are the owner of this virtual basketball court. Get yourself trained first and learn how to dribble and use your b-ball across the court! Keep your eyes on the screen and try to score as many points as possible before your time expires! You have to face yourself as there is no opponent in this game. Adjust your power and angle by dragging your cursor across the screen! Throw your ball by releasing the button in this HTML5 basketball game!</div><div><br></div><div>Be careful as you have to achieve your ball with a few limited balls within the time frame! Track your time meter by looking at the bottom center of the screen! Your game begins slowly, but the speed of the game increases as you progress and are looking forward to score more points. The best part is that the timer will reset with your every successful shot. Wait for the right time and throw your ball into the basket to score your goal in this cool basketball game!</div>",
+      "size": 1920,
+      "height": 1080,
+      "script": "https://html5.gamedistribution.com/6cd00360ce8e4eed994ab73bbf67e58a/\r\n",
+      "metaTitle": "Basketball Machine Gun Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Basketball Machine Gun at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Basketball Machine Gun Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8370,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-03-02T04:56:47.021Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO SELECT THE DIRECTION RELESE TO HIT THE GOLE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SELECT THE DIRECTION, RELESE TO MAKE THE GOLE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
