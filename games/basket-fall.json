@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b553",
+      "id": 2410,
+      "name": "Basket Fall",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "basket-fall",
+      "image": "2410",
+      "url": "basket-fall",
+      "description": "Tap to drop the ball. Aim for the hoop -- win!",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/d9a7d331441c4c7cba990bbe7869ed86/\r\n",
+      "metaTitle": "Basket Fall, Basketball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Basket Fall at atmegame.com ! We have selected this basketball games for best excitement and thrill in you!",
+      "metaKeyword": "Basket Fall Game, Sports Games, basketball Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524810447.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 8919,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2025-01-23T17:48:08.414Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO DROP THE BALL",
+      "webControlKeys": "L CLICK OF MOUSE TO DROP THE BALL"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
