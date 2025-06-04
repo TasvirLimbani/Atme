@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b90b",
+      "id": 3426,
+      "name": "Kizi Kart",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "kizi-kart",
+      "image": "3426",
+      "url": "kizi-kart",
+      "description": "Start your engines and race through the worlds of KIZI KART. Play as Kizi, Kissi, Spike, Tito or Gary. Avoid obstacles, take out opponents and finish 1st in Star Course, Rocket Race and the Kizi Cup.\r\n",
+      "size": 900,
+      "height": 510,
+      "script": "https://html5.gamedistribution.com/921e9abf318844b288b378598a578ad8/\r\n",
+      "metaTitle": "Kizi Kart, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Kizi Kart at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Kizi Kart Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536575276.xml",
+      "idealFor": "Man",
+      "likes": 61,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 26697,
+      "ownGame": false,
+      "addDate": "2018-09-10T15:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-03-31T08:57:45.518Z",
+      "__v": 0,
+      "mobileControlKeys": "L-R ICONS TO MOVE, ICON- SPEED",
+      "webControlKeys": "WA,D/ UP ARROW/L-R ARROWS TO MOVE,SPACE- USE THE ITEM"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
