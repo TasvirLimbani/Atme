@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2dc",
+      "id": 6155,
+      "name": "Car Driving Stunt Game",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "car-driving-stunt-game",
+      "image": "6155",
+      "url": "car-driving-stunt-game",
+      "description": "<div>You are set to drive an amazing car on the difficult tracks on the road. And, the best part is that you will have more than one car models to control. Yes, we have got you covered today with a brand new racing game where you would have multiple super-fast and powerful cars to drive. Play Car Driving Stunt game and gear up to set up new jumping records by riding your chosen cars on different challenging tracks!</div><div><br></div><div>Choose from multiple incredible car models from Garage, fasten your seat and get ready to drive all over the ice lands, airports, off0roads and city! Do not forget to perform some death-defying drifts and stunts to complete your mission and prove the world that you are the biggest racer of this planet. Grab as much gems as you can in this one of the best HTML5 games for boys! These gems will help you to unlock new special vehicles to enjoy.</div><div><br></div><div>The faster you drive the higher money you would be able to make in the end. Discover extreme risky roads and ramps so that you can show off your driving abilities to perform amazing stunts in this cool car mobile game! Make sure that you are not out of fuel when you are on the mission. Hurry up, friends! Many spectacular shows are waiting for you here on our free online game website. Try out them one by one to keep you engrossed for hours and prove your prowess! No download required!</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/764b615ba4024b10ad1509431e87f30c/\r\n",
+      "metaTitle": "Car Driving Stunt Game, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Car Driving Stunt Game at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Car Driving Stunt Game Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569524127.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7534,
+      "ownGame": false,
+      "addDate": "2019-09-27T00:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2024-11-20T12:21:44.932Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ALL ARROWS W,A,S,D TO MOVE,SPACE-BREAK,C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
