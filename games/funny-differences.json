@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbdc",
+      "id": 4193,
+      "name": "Funny Differences",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "funny-differences",
+      "image": "4193",
+      "url": "funny-differences",
+      "description": "<div>If finding differences gives you a reason to have fun and kill your time, we have brought to you something that is worth exploring during your free hours. We are talking about a brand new arcade challenge where you have to put your quick brain skills and puzzle-solving abilities to the test to win. Do you think that you are brave enough to handle some tricky challenges right away? Join Spot the Difference and be prepared to find five differences in each level!</div><div><br></div><div>This exclusive latest differences challenge is full of multiple interesting and engaging puzzles to be solved out. The best time is you are not bound to any time limit so take as much time as you want to solve your puzzle. Completing each puzzle will help you gain 1 point that will keep adding to your current result. Be careful and think twice before clicking or tap the screen as every wrong decision will minus 1 point from your present score!</div><div><br></div><div>Try to click only when you are pretty confident on your decision in order to complete your task successfully! There are no hints or clues available to help you find all the differences between the lovely and funny pictures given in different levels of this cute HTML5 difference game. You can also spot many other different games where you have to complete your task within the stipulated time. Good luck choosing the best fun puzzle challenge to have the best time online without download!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/e5e613b9ddba4f2ebf7a940c787f418c/\r\n",
+      "metaTitle": "Funny Differences Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Funny Differences at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Funny Differences Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543658660.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7652,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.733Z",
+      "updatedAt": "2024-03-21T09:50:28.523Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO FIND THE DIFFRANCES",
+      "webControlKeys": "L CLICK OF MOUSE TO FIND THE DIFFRENCE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
