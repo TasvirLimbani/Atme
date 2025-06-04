@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad8f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b451",
+      "id": 2107,
+      "name": "Superhero Doll Real Makeover",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "superhero-doll-real-makeover",
+      "image": "2107",
+      "url": "superhero-doll-real-makeover",
+      "description": "Join our favorite superhero in her secret hideaway and get ready for a marvelous real makeover. Help Super Doll prepare for her next mission with spa treatments and create a fresh new look. Finish the transformation using magnificent color combinations with eye shadows, lipsticks and blushes, then choose the perfect outfit and hairstyle. Once the makeover is complete, Super Doll will go into the night and fight crime.",
+      "size": 800,
+      "height": 600,
+      "script": "//cdn.witchhut.com/html5/games/superhero-doll-real-makeover/190.html",
+      "metaTitle": "Superhero Doll Real Makeover, Make-Up Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Superhero Doll Real Makeover at atmegame.com ! We have selected this Make-Up games for best excitement and thrill in you!",
+      "metaKeyword": "Superhero Doll Real Makeover Game, Girls Games, Make-Up Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.newvendor.com/",
+      "xmlFile": "multi_item_1521610088.xml",
+      "idealFor": "Man",
+      "likes": 249,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 51210,
+      "ownGame": false,
+      "addDate": "2018-03-21T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.702Z",
+      "updatedAt": "2024-08-25T09:43:06.529Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO MAKE THE PERFECT HAIRCUT",
+      "webControlKeys": "L CLICK OF MOUSE TO MAKE THE PERFECT HAIRCUT "
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 47
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad8f",
+      "name": "make-up",
+      "slug": "make-up",
+      "icon": "Make Up"
+    }
+  }
+}
