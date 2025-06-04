@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c303",
+      "id": 6197,
+      "name": "Car Eats Car Winter Adventure",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "car-eats-car-winter-adventure",
+      "image": "6197",
+      "url": "car-eats-car-winter-adventure",
+      "description": "<div>Oh no! The evil cars have just come back with more power and strength. Would you be able to drive and get through all the hurdles set by them? If your reply is yes, then join Car Eats Car Winter Adventure and be prepared to fight against the rival cars in a dynamic racing environment on the highway. You would have no other choice rather than putting insane driving abilities to the test to overtake your enemies and create your own car.</div><div><br></div><div>Try to react very fast as your friends have already put to prison and they need your help to get the job done! Drive through all the difficult challenges to free evil cars and prove you as the best driver of the city! Use the turbo speed and good driving skills in a right combination to achieve your goal in this HTML5 driving simulator! Keep fighting until you beat the boss to survive in this one of the best car racing games for boys!</div><div><br></div><div>Complete your missions, upgrade your cars and allow yourself to play for monster cars against the cops in this police chase game! Use your vehicle to hit the other vehicles or you can also throw bombs at them in this cool driving simulator! Speed up your vehicle and make some needful high jumps with the help of some boosts you collect along the way! Buy new car models using the gems or you can also upgrade your existing vehicle.&nbsp; Good luck to complete all the levels with only a few attempts!</div>",
+      "size": 800,
+      "height": 550,
+      "script": "https://html5.gamedistribution.com/e62b25cb0d0742f697caee9dfb6c3f34/\r\n",
+      "metaTitle": "Car Eats Car Winter Adventure Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Car Eats Car Winter Adventure at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Car Eats Car Winter Adventure Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1577254675.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7195,
+      "ownGame": false,
+      "addDate": "2019-12-25T11:47:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2024-01-20T02:18:05.559Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W FOR GASS, A,D LEFTY RIGHRT S FOR BREAK(ALL ARROWS WORKS SAME) X, LEFT SHIFT TO TURBO,SPACE FOR BOMB"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
