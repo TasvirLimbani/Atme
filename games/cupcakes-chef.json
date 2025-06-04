@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af73",
+      "id": 622,
+      "name": "Cupcakes Chef",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "cupcakes-chef",
+      "image": "622",
+      "url": "cupcakes-chef",
+      "description": "<div>It will surely give you an awesome feeling when you get a chance to become an expert chef of delicious desserts in this free online game for kids. Cupcakes Chef is an ultimate cooking game designed for girls of all ages. Whether you are a teen, a kid or a grownup – this cool online recreational activity has something for everyone. In this decorative cooking game, your job is to help the most beautiful Princess to prepare and decorate some high quality and scrumptious cupcakes.&nbsp;</div><div><br></div><div>You are sure to have unlimited fun and entertainment while performing the role of a cupcake chef in this fabulous flash game. Cupcakes Chef includes state-of-the-art graphics, easy control and fantastic gameplay which will surely give you an unforgettable online gaming experience. When you play this particular cooking game, you would get to know why kids from all across the world love it and are ready to spend a number of hours playing it again and again.</div><div><br></div><div>In this free online gaming activity, you will get a chance to meet with a gorgeous girl and work together to prepare the mouth-watering cupcakes. After playing this girls game in your browser, you can also try this cupcake recipe at your home and surprise your friends and family on any small occasions. First cook it timely and then decorate your delicious cupcakes. Use your creativity to make your fabulous cupcakes look amazing. Good luck to give your best and score high in this new kids game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/62c6e9e0d09f44e987875e64bd65f395/",
+      "metaTitle": "Cupcakes Chef, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cupcakes Chef at atmegame.com ! We have selected this Cooking games for best excitement and thrill in you!",
+      "metaKeyword": "Cupcakes Chef Game, Girls Games, Cooking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "",
+      "xmlFile": "Cooking_1513838696.json",
+      "idealFor": "Man",
+      "likes": 64,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 17364,
+      "ownGame": false,
+      "addDate": "2017-12-21T12:14:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.670Z",
+      "updatedAt": "2024-07-31T10:50:27.913Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ITEMS TO SELECT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
