@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b200",
+      "id": 1428,
+      "name": "RoBBiE",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "robbie",
+      "image": "1428",
+      "url": "robbie",
+      "description": "<div>After a tiring day at work, Robbie has decided now to go through the cleaning process. This makes Rustie, an old discarded robot jealous of him and the old robot has also showed the same desire by getting him through the cleaning machine. Unfortunately, the machine rejects him again by making an unexpected explore and creating a big havoc in the robot factory. This situation encourages all the good robots to turn into the evil ones.&nbsp;</div><div><br></div><div>Your job in this brand new adventure game is to help Robbie go through the factory and search for the lost microchips. All you need is just sort out the puzzles while avoiding all the obstacles like evil robots, lava, electricity and water along the way. Be careful and stay focused to help this cute little robot bring peace back to the factory! Go forward and find out all the lost machine parts to help him fix the errors in this free online action-packed puzzle game!</div><div><br></div><div>The factory floor is full of various deadly dangerous. Try to keep your eyes only on finding out the hidden objects in each level. Start this cool HTML game with cleaning him up! Once you succeed in solving different difficult puzzles, guide him to escape from the factory. This one of the best adventure games features various levels, brain teasers as well as a futuristic robot theme. Interact with objects and characters using the left-click mouse button in this fun platform game! Can you assist Robbie fix the errors caused by Rustie? Join this mobile-friendly adventure game now!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/09fefe9954da4aa5bb4923e662abd0d8/\r\n",
+      "metaTitle": "RoBBiE, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game RoBBiE at atmegame.com ! We have selected this platform games for best excitement and thrill in you!",
+      "metaKeyword": "RoBBiE Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489364.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8004,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.689Z",
+      "updatedAt": "2024-09-02T08:59:55.967Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
