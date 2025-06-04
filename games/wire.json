@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b521",
+      "id": 2334,
+      "name": "Wire",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "wire",
+      "image": "2334",
+      "url": "wire",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This time we have got you covered with something new and adventure-filled! Would you like to try your hands here to get you entertained for hours, even for some days? If your reply is yes, then Wire game is just for you. Your objective in this latest adventure challenge is to help a white colour line to navigate through multiple obstacles. It will keep changing its colour time to time. Sometimes it becomes white, while the other time it will wear the blue colour.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Try to keep your eyes on the screen and make sure that it does not hit anything that is in black colour! The longer you go the higher score you will make in the end. Do not forget to collect the blue colour mask throughout the way. Make your line go as far as possible in this HTML5 escaping game! There are multiple skins including Skulls, Strawberries, Balloons, Octopuses, Rockets and Bulls to unlock. You need to collect at least 100 mask to unlock any new skin.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Begin your game with the UFO skin and then unlock the rest ones! Click and hold the mouse to change the direction of your line!&nbsp; When the game finishes, a screen will be displayed where you can track your best score and also learn how many times you have tried it out yet. Good luck to challenge your quick reflexes to the ultimate level to score your new best score! Do not forget to go through our extensive collection of free adventure games to find some more suitable gaming options.&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/c418646ba9c748ed95765343496310ab/\r\n",
+      "metaTitle": "Wire, Escaping Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wire at atmegame.com ! We have selected this Escaping  games for best excitement and thrill in you!",
+      "metaKeyword": "Wire Game, Escaping Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806916.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7563,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-02-01T07:15:56.463Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS ON SCREEN TO MOVE, RELESE TO CHANGE THE DIRECTION",
+      "webControlKeys": "KEEP PRESS L CLICK 0F MOUSE TO MOVE , RELESE TO CHANGE DIRECTION"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
