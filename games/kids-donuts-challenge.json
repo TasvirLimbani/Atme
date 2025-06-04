@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af78",
+      "id": 629,
+      "name": "Kids Donuts Challenge",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "kids-donuts-challenge",
+      "image": "629",
+      "url": "kids-donuts-challenge",
+      "description": "<div>Today we have come up with the latest free online cooking game for you. Kids Donuts Challenge is actually a big treat to all girls who generally keep themselves busy in exploring new yet challenging cooking game. Join this extremely popular and easy-to-play game today and get a chance to prepare delicious donuts within the shortest time possible. Kids from all across the world have already joined our challenge and get an opportunity to include themselves in the list of expert chef.&nbsp;</div><div><br></div><div>In this cool girls game, your job starts right from cooking the scrumptious donuts and decorating them with the useful ingredients. Once your job is done, all you need to do is just wait for the results given by a panel of judges. While getting participated in this beautifully-designed gameplay, kids will surely get a chance to improve their creative skills. Playing with two gorgeous kids will surely give you great fun. Just use all the necessary ingredients and tools available in the kitchen and show the world that you are an expert chef.&nbsp;</div><div><br></div><div>Kids Donuts Challenge includes astounding audio and video effects, fabulous graphics, easy control and state-of-the-art gameplay. Although you will find easy to cook your scrumptious donuts, finishing this job especially for the winning purpose requires some bit of cooking expertise. We are sure to help you have huge fun and entertainment when you help these two girls create and decorate their special recipes. Good luck to encourage these two beautiful babies to win this popular cooking contest!</div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.GameDistribution.com/16181b441cfa4dfea274fe29fd7fb324/",
+      "metaTitle": "Kids Donuts Challenge, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Kids Donuts Challenge at atmegame.com ! We have selected this Cooking games for best excitement and thrill in you!",
+      "metaKeyword": "Kids Donuts Challenge Game, Girls Games, Cooking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "",
+      "xmlFile": "Cooking_1513839135.json",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 10768,
+      "ownGame": false,
+      "addDate": "2017-12-21T12:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.670Z",
+      "updatedAt": "2024-09-02T09:23:17.567Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ITEMS TO SELECT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
