@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd94",
+      "id": 4636,
+      "name": "Hexa Blocks",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "hexa-blocks",
+      "image": "4636",
+      "url": "hexa-blocks",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This time you can play with the colorful blocks to beat your boring hours! Are you ready to take out this cool HTML5 Tetris style puzzle game? Join Hexa Blocks and prove the world that you are the best puzzle solver! Your mission in this brand new arcade game is to fill as many grid lines as possible to reach the highscore. The exciting part is that the complexities will keep increasing as you progress in the game. Multiple levels are there to have fun.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You would have blocks in different colors with the same shapes. Use the blocks shown at the bottom of the screen to fill the target area! You would have limited moves and time period to complete each level so try to be quick before the time runs out. Put your quick reflexes and strategically mind to use as few moves as possible to finish each level with the maximum amount of stars!&nbsp; Take a break when you feel tired and come back to refresh your mind!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Pick up the tiles wisely and place them on the board in a way so that it can complete a line! Tiles will fade away once you complete a row or a column while leaving enough space to make more combinations in this 10x10 puzzle with hexagonal tiles. There are 60 unique and addictive levels to play online for free without download any app. Tap the mobile screen or click by a mouse to drag tiles to an empty space available on the board!&nbsp; Try out more tiles and blocks games on our website, no download required for fun seekers!</span></div><div><br></div>",
+      "size": 720,
+      "height": 1080,
+      "script": "\nhttps://html5.gamedistribution.com/6ea3af4b984948009aae7337554ffe73/\n",
+      "metaTitle": "Hexa Blocks, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hexa Blocks at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Hexa Blocks Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7616,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-10-19T17:03:49.042Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE HEXAS INTO PUZZLE TO COMPLETE  THE ROWS",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO PICK THE HEXAS TO PUT THEM INTO THE PUZZLE TO COMPLETE THE ROWS "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
