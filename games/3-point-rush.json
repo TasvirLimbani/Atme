@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b173",
+      "id": 1264,
+      "name": "3 Point Rush",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "3-point-rush",
+      "image": "1264",
+      "url": "3-point-rush",
+      "description": "<div>One of the best games to play, 3 Point Rush is an awesome one touch basketball game where you will have to swipe the ball right to the hoop and earn the maximum possible score. Get a chance to play with a plenty of balls and choose from various game modes. Show off your ultimate basketball skills to become the best player of the world! Enjoy this free online sports for boys in your desktop and mobile devices and have a lot of fun!&nbsp;</div><div><br></div><div>You are required to focus on the instructions while throwing the ball through the hoop irrespective of countless obstacles on the way. Use the arrow keys to move your player around and get an opportunity to try out different angles. You will also see moving the hoop in order to make your timing perfect. Be alert and avoid the defender jumping around in from of you in this brand new basketball game. Read the description to learn how to play this cool sport game in your chosen device.</div><div><br></div><div>Start exploring this html5 game between the casual and time attack modes of playing. Click the LMB and drag it to create a line through which you can shoot the ball. Make sure that your goal will get in as many three-pointers as possible in order to hit a big score on the scoreboard. You have limited attempts to do it, thus try not to try it again and again since you might lose the game if you have lost all your available chances. Get in as many shots as you can before the time runs out! Good luck kids!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/2f50e526fe884fbabe3302c1e95fee1e/\r\n",
+      "metaTitle": "3 Point Rush, Basketball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 3 Point Rush at atmegame.com ! We have selected this Basketball games for best excitement and thrill in you!",
+      "metaKeyword": "3 Point Rush Game, Sports Games, Basketball Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517222623.xml",
+      "idealFor": "Man",
+      "likes": 38,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 14039,
+      "ownGame": false,
+      "addDate": "2018-01-29T16:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.686Z",
+      "updatedAt": "2024-09-03T16:14:13.714Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO THROW THE BALL",
+      "webControlKeys": "L CLICK OF MOUSE TO THROW THE BALL"
+    },
+    "rating": {
+      "rating": "2.6",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
