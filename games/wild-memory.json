@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c219",
+      "id": 5888,
+      "name": "Wild Memory",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "wild-memory",
+      "image": "5888",
+      "url": "wild-memory",
+      "description": "<div>Online matching games have always been a great alternative to have fun during the spare time. And, it will be quite amazing if you get a chance to meet various cute wild animals while exploring such kinds of free online games. In this brand new arcade game, you will have to match the same wild animal cards. Check it out now to see how fast you can solve this puzzle in your device! Play this fun puzzle game again and again to set your new best time!</div><div><br></div><div>Wild Memory is an ultimate animal puzzle game where you have to put your memory and brain to test to win. The cool and minimalist theme along with the stylish and sleek animations will be enough to keep you engrossed for hours. In this popular genre of memory games, you have to flip the tiles that you see on the screen and try to match them up with the ones with same animals. Keep pairing up all the tiles in ensure your win this one of the top animal games!</div><div><br></div><div>Try to achieve the goal of the game in the least possible moves! In three different levels, you get a chance to see the pictures of different animals. Click using your mouse or tap on the screen of your mobile to flip the squares! Focus on your gameplay and get the best time for you! Remember the card will remain open only if they show the pair, otherwise they will turn their face down again immediately. Use your memory to remember where the pictures of the same animals are. Continue until you match 6 pairs!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/2c22f11ae6994b0c9c8cf7b1b2536e87/\r\n",
+      "metaTitle": "Wild Memory,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wild Memory at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Wild Memory Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762438.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7402,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:17:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.756Z",
+      "updatedAt": "2024-06-06T14:26:33.762Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CARDS TO MATCH THE SAME IMAGES",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO MATCH THE SAME IMAGES"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
