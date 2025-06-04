@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bde5",
+      "id": 4718,
+      "name": "Robo Escape",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "robo-escape",
+      "image": "4718",
+      "url": "robo-escape",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Hey boys! This small and cute robot needs your help to complete these challenging missions. Would you like to guide him to escape from a place that includes countless obstacles? Join Robo Escape game and help the little robot to escape the laboratory! Your objective is to find out the key and assist this small creature to open the entrance to enter the advanced level. Of course, you have to put your running and jumping abilities to the test to clear all levels in this 2D pixel adventure platform game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The robot has been trapped in a laboratory from where he can also escape by running and jumping from one platform to another. Make sure to avoid all the hindrances and the deadly monsters while looking forward to find out the key. You would find the hostile evil droids everywhere in a facility. Grab the tools available to escape the place by putting your strategic abilities to the test in this html5 running game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Hide in spaces and creep around the enemies to slip pat unnoticed in this unique endless runner game! Try to exit from the door without being noticed by the dangerous enemies! You can explore this cool top puzzle challenge in desktops, mobile phones, tablets and iPads or iPhones. Enjoy more thrilling and entertaining challenges from the category of adventure games for boys that are free to play, no download required! You can play it in all modern browsers without download.</span></div>",
+      "size": 320,
+      "height": 480,
+      "script": "https://m.shtoss.com/game/robo-escape/index.html",
+      "metaTitle": "Robo Escape, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Robo Escape at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Robo Escape Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7666,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.740Z",
+      "updatedAt": "2024-10-31T15:16:01.995Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO JUMP, DOUBLE TAP- JUMP HIGH,FIND THE KEY ",
+      "webControlKeys": "L CLICK OF MOUSE ETO JUMP, DOUBLE CLICK TO JUMP HIGHER"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
