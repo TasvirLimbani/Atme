@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b50b",
+      "id": 2310,
+      "name": "Cheesy Wars",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "cheesy-wars",
+      "image": "2310",
+      "url": "cheesy-wars",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This adventure is going to be more funny and challenging than you have experienced ever before. You have to fight against a horde of rats who have come from the space and now put their eyes on your favourite cheese. Do you think that you have the skills to take care of this challenging job? If yes, join Cheesy Wars and be prepared to defend your precious cheese from a group of rats in the space. These rats are very dangerous so you need to be alert all the time.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Danger is available everywhere in this brand new adventure game. All you need to do is clear the area from the deadly rats and protect your delicious cheese. Make sure to keep your cheese untouched to earn extra points in this HTML5 war game. These critters are very dangerous and will try every possible effort to snatch the cheese from you. Eliminate them by clicking or tapping the mice with soft hands! Grab as much diamonds as you can to be more powerful!</span></div><div><span style=\"font-size: 13.3333px;\">There are 20 unique and challenging levels to play through in this cool defence game. Place bombs or make some dashes around them to get the job done! Complete level and keep upgrading your weapons and get ready to fight with the progressively stronger enemies! Good luck to protect your cheese through multiple levels. Many more addictive adventure games for boys are available on our website to keep you engrossed for some days, even for days.&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/3019f3d033dd41ac93d215c1c3d0adf6/\r\n",
+      "metaTitle": "Cheesy Wars, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cheesy Wars at atmegame.com ! We have selected this War games for best excitement and thrill in you!",
+      "metaKeyword": "Cheesy Wars Game, Action Games, War Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 7510,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-08-30T21:54:14.156Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT WORKING"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
