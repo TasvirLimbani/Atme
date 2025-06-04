@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aef4",
+      "id": 467,
+      "name": "Basket Champs",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "basket-champs",
+      "image": "467",
+      "url": "basket-champs",
+      "description": "<div>One of the highly exciting and challenging sports for kids to play, Basket Champs is an excellent treat for all basket game lovers. Developed by Foot Chinko, this awesome basket game is meant for kids from different age groups. In this cool free online sports game, you have to first choose your basketball team and then enroll yourself in the World Championship.</div><div><br></div><div>All you need to do is use your basketball skills in order to ensure your victory in each match of this highly challenging and extremely popular flash game. Good hand-to-eye coordination, patience and focus on the game will help to win the title of the international basketball shooting championship. In this cool free online game, you have to choose your team out of the four groups - A, B, C, D.?</div><div><br></div><div>Score shot after shot and become the basketball champion in this Basket Champs. The game features outstanding graphics and amazing control. You will have a chance to represent your country and participate in a shootout contest of basketball in which opponents from 24 nations all across the world participate. Shoot all the shot attempts or try to gain more score than your opponent does. Make sure to win each match and move to the next level. Good luck for wearing the crown of being the basketball champion after defeating all the rivals from other teams!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://games.gamepix.com/play/40307?sid=110996",
+      "metaTitle": "Basket Champs, Basketball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Basket Champs at atmegame.com ! We have selected this Basketball games for best excitement and thrill in you!",
+      "metaKeyword": "Basket Champs, Sports, Basketball Games, Basket Champs Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 181,
+      "dislikes": 15,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 19220,
+      "ownGame": false,
+      "addDate": "2017-07-17T13:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.667Z",
+      "updatedAt": "2024-08-22T04:23:21.659Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO SET THE DIRECTION,RELEASE TO GOAL",
+      "webControlKeys": "KEEP PRESS L-CLICK OF MOUSE TO SET THE DIRECTION,RELEASE TO GOAL"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 18
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
