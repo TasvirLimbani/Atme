@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4e2",
+      "id": 2266,
+      "name": "Jelly Haven",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "jelly-haven",
+      "image": "2266",
+      "url": "jelly-haven",
+      "description": "<div><span style=\"font-size: 13.3333px;\">A jellyfish named medusa has come to you with a big hope. She lives at the bottom, but now has decided to collect all of jellies that are available in the sea. However, the problem is that multiple types of obstacles will try to stop her from going upward and collect the jellies. Would you like to help her make her way towards the collection of maximum number of gems? Join Jelly Haven and be prepared to control a jellyfish through the sea that is filled up with different deadly obstacles!</span></div><div><span style=\"font-size: 13.3333px;\">This silly jellyfish wants to collect the shiny gems through which her lifespan can also be increased. Make sure to keep her away from not being hit by various dangerous obstacles like rockets and meteors. Do not forget to buy the upgrades with the help of gems you collect through the way. Move medusa left and right to collect as much gems as possible while dodging the rocks in this brand new adventure game! These gems will also help you to survive much longer.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This free HTML5 puzzle game is available in languages including English, Romanian, Turkish, Portuguese, Spanish, Italian, German, French and Russian. Track your gems right at the bottom left of the screen while the middle upper portion of the screen will show your present score! You can track how much life you have collected along the journey by keeping your eyes on the bottom right corner of the screen. Check out other addictive and challenging action-arcade games on atmegame.com to explore extra fun and entertainment!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/4a820059332f495682e09556864198d9/\r\n",
+      "metaTitle": "Jelly Haven, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jelly Haven at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Jelly Haven Game, Action Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7071,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-03-17T03:47:49.479Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": "L-CLICK OF MOUSE TO MOVE L-R"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
