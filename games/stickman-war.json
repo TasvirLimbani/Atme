@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf8d",
+      "id": 5148,
+      "name": "Stickman War",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "stickman-war",
+      "image": "5148",
+      "url": "stickman-war",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Bad stickmen are everywhere in the city. They continue looting people and making a mess all across your town. You are the only who is skilled enough to stop them from creating such a menace. All you need to do is just grab your weapon to clear them from the screen in Stickman War. The only way to put an end to this havoc is to shoot all of these evil souls and make people of your city feel proud on you. Get ready to challenge your quick reflexes and aiming skills to win in the end in this html5 action game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">These infesting stickmen look in a big hurry and will try to their best to make you prey to their crazy stampede. It is an excellent opportunity to eliminate all of them and become a savior in this free online shooting game. Take your eyes on the screen and make sure not to run out of the ammo! When you click the start button, you will see plenty of stickmen running here and there. Be careful they can come from any side of the screen. So, keep your gun ready to kill each one of them before they escape using their smart moves.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">See your ammo count that will display on the top left corner of the screen. A red flashing reload sign will start popping up on the screen when you are about to run out of ammo. You can also check out your stars by looking at the top corner of the screen. Each stickman escape will deduct a star and you will soon lose a game if you run out of all the stars. Play like a champion shooter and kill all the stickmen through all the 27 levels! Good luck to have a blast, friends!!</span></div>",
+      "size": 760,
+      "height": 480,
+      "script": "\nhttps://html5.gamedistribution.com/2246526372b94282a46610915762e796/\n",
+      "metaTitle": "Stickman War, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stickman War at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Stickman War Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545705.xml",
+      "idealFor": "All",
+      "likes": 15,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9355,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-09-01T02:17:55.456Z",
+      "__v": 0,
+      "mobileControlKeys": "SELECT THE TARGET BY TAPPING THE SCREEN",
+      "webControlKeys": "MOUSE TO SELECT THE AIM,L CLICK-SHOOT"
+    },
+    "rating": {
+      "rating": "1.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
