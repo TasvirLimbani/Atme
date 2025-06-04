@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c33d",
+      "id": 6271,
+      "name": "Point Drag",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "point-drag",
+      "image": "6271",
+      "url": "point-drag",
+      "description": "<div>Do you think that your insane driving abilities can face off any track obstacles? Are you a fanatic of online speed games? If so, Point Drag is an online racing game where you have to control a self-running car on an extremely tricky track. No, nothing special you need to learn to operate this cool racing challenge. Practicing your driving and drifting abilities to the ultimate level will help to make your way to victory and become the biggest racer of the city!</div><div><br></div><div>Take your seat in a mini car, tighten your seatbelt and get ready to drive the coolest sports car of the city in this HTML5 car game! Keep running and drifting to increase your score and get some points through which you can upgrade your vehicles as well. There are 4 unique and beautifully-designed cars to play through in this cool skill game. Your car will keep driving automatically and you only have to control it on the steep turns.</div><div><br></div><div>When a turn comes, you will see a point of a particular color through you have to drift your car. Make sure that your car does not cross the boundaries of the road when your turn and move ahead otherwise you will lose your game immediately. Track your score on the top middle portion of the screen in this one of the best drifting games for kids! Stay on track always to create your best new high score without download! We through atmegame.com cover plenty of free racing games that playable on multiple latest browsers and devices.</div>",
+      "size": 450,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/a29c2b8926834c23ba6865f5997131dc/\r\n",
+      "metaTitle": "Point Drag Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Point Drag at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Point Drag Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579515784.xml",
+      "idealFor": "Man",
+      "likes": 199,
+      "dislikes": 34,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 79289,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:53:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2024-11-08T07:55:59.012Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP AND HOLD ON THE SCREEN TO CONNECT THE CAR TO DOT TO TAKE THE TURN",
+      "webControlKeys": "CLICK AND HOLD LEFT CLICK OF MOUSE TO GIVE THE DIRECTION"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 27
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
