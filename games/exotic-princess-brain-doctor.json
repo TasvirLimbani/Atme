@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b7da",
+      "id": 3099,
+      "name": "Exotic Princess Brain Doctor",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "exotic-princess-brain-doctor",
+      "image": "3099",
+      "url": "exotic-princess-brain-doctor",
+      "description": "Join the Exotic Princess in a new doctor game and learn how to perform brain surgery on a patient! The princess has been feeling a little dizzy lately, curious to see what causes her problems? Prepare her for surgery by taking her pulse and temperature then see what you can find in her head. Removing weird objects and following the right steps in the surgery can be a lot of fun! Be Exotic Princess\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/f894f03b01f94c05ac98a96c5404100a/\r\n",
+      "metaTitle": "Exotic Princess Brain Doctor, Doctor Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Exotic Princess Brain Doctor at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Exotic Princess Brain Doctor Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533531440.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 10261,
+      "ownGame": false,
+      "addDate": "2018-08-06T10:27:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.719Z",
+      "updatedAt": "2024-04-05T03:41:18.078Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS FOR BRAIN TREATMENT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS FOR BRAIN TREATMENT"
+    },
+    "rating": {
+      "rating": "2.3",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
