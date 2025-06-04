@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bff7",
+      "id": 5261,
+      "name": "Micro Pilots",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "micro-pilots",
+      "image": "5261",
+      "url": "micro-pilots",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Your biggest dream of flying a cute plane is going to come true today as you have decided to play this brand new adventure game. Are you ready to fly tiny planes around even tinnier and classy planets? Join Micro Pilots and be prepared to play the role a pilot who is skilled enough to operate any kind of aeroplane. We are pretty sure that you will surely recommend this cool flying game to your friends and families due to their colorful graphics, easy control and seamless gameplay.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your primary objective is to pilot small and cute aircrafts orbiting around a huge array of beautiful planets. Avoid colliding with anything on the planet to clear each level successfully in this fun 2D arcade game. Make sure to keep a proper distance from the planet itself when you operate your plane. Your increasing speed will make each orbit harder and harder and you see more and more obstacles becoming apparent.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Remember your plane will be pulled by the gravitational and get you closer towards the surface causing your plane to crash when you circle the planet. Be careful and try to complete all 25 levels to become a flying champion. Your successful stories will also help you grab all of the stars that will guide you to obtain the highest score. It is amazing to circle a planet with a plane in this html5 flying game where you do not need to install any other app to have fun.&nbsp;</span></div>",
+      "size": 800,
+      "height": 560,
+      "script": "https://html5.gamedistribution.com/2c28e9be86334bc7b1299a1a18a3f8e9/\r\n",
+      "metaTitle": "Micro Pilots,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Micro Pilots at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Micro Pilots Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352253.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7902,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:07:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.748Z",
+      "updatedAt": "2024-08-09T07:35:04.333Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "Z,X L-R ARROWS TO CONTROL THE PLANE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
