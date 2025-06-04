@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd8c",
+      "id": 4628,
+      "name": "Under the sea",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "under-the-sea",
+      "image": "4628",
+      "url": "under-the-sea",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you love exploring the underwater world? Is it your hobby to check out the pictures and names of multiple animals living in water? If yes, then you have come at the right place. We have brought to you a brand new arcade challenge where you have to recognize the images of two same underwater animals. Are you ready to take on this unique challenge? Join Under The Sea and get ready to put your patience, concentration and perseverance to the test!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Choose any level difficulty between Easy, Medium and Difficult in this cool html5 puzzle challenge! In each mode, you would have multiple water-based living beings. Click on the same two pictures to make them disappear from the screen! You will clear each level when all the animal images will be vanished away from the screen. Keep broadening the mind while going through acquaintance with the lovely underwater world!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This excellent fish animal game will test your memory and get you close to the underwater world. No worry at all if you fail initially since it is not a time-based game, so you can solve your puzzle in a number of attempts! We are happy to offer you a wider range of picture-recognizing games available at our free online game portal. Try them out and solve the tricky challenge and impress the world through your awesome memory! Have a blast on atmegame.com alone or with your friends, no download required!</span></div>",
+      "size": 1920,
+      "height": 1080,
+      "script": "\nhttps://html5.gamedistribution.com/3b9e576737d643fe85499638a103bc40/\n",
+      "metaTitle": "Under the sea, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Under the sea at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Under the sea Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8212,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-03-21T10:01:05.734Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CARDS TO MATCH THE SAME IMAGES",
+      "webControlKeys": "L CLICK OF MOUSE ON THE CARDS TO MATCH THE SAME IMAGES"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
