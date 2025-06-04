@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd13",
+      "id": 4507,
+      "name": "Cube Blast",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "cube-blast",
+      "image": "4507",
+      "url": "cube-blast",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is also exhilarating to explore the tricky and engaging cube matching puzzles. We have brought to you a brand new arcade game where you have to match 3 or more blocks of the same color. It sounds easy, but many unexpected hurdles and obstacles will be there to restrict you from reaching your goal till you complete all the levels. You cannot unlock a new level until you clear the present one. So get ready to put your logics and brain power to complete all puzzles in Cube Blast.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this html5 puzzle challenge is to match two and more identical cubes to complete a level. Once they are matched, all the identical cubes will be removed from the screen. There are multiple levels to play through and a wonderful music to enjoy. You will have different task to complete in each level. Complete all of the assigned tasks in the present level before moving to the advanced one! Match the color of the cubes to pop up the cubes in the air!</span></div><div><span style=\"font-size: 13.3333px;\">Work hard on your way around frozen rocks and blocks to spot the ways to pop beach balls stuck in the cube structure! Use the dynamite and bombs to help yourself clear the way to achieve your goal in this match 3 candy game! Let us see how many levels you will be able to finish in this highly addictive matching challenge! Check out some top titles from the category of arcade games for boys and girls on atmegame.com and allow yourself to have fun with your friends without download games!</span></div><div><br></div>",
+      "size": 500,
+      "height": 750,
+      "script": "\nhttps://html5.gamedistribution.com/2683539f134749b797c29c4c0b6b124f/\n",
+      "metaTitle": "Cube Blast, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cube Blast at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Cube Blast Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527121.xml",
+      "idealFor": "All",
+      "likes": 16,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8959,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-06-14T17:16:41.093Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK ON THE SAME GROUP OF DICE TO BREAK"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
