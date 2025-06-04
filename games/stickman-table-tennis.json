@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad66",
+  "category_name": "tennis",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad66",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c434",
+      "id": 6564,
+      "name": "Stickman Table Tennis",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "stickman-table-tennis",
+      "image": "6564",
+      "url": "stickman-table-tennis",
+      "description": "<div>We have a good news for all the tennis game lovers! You all have a wonderful opportunity to practice your tennis abilities in the realistic and spectacular courts. Are you ready to try your hands while sitting comfortably on the couch at your home? Join Stickman Table Tennis and be prepared to compete the computer or any other player to earn some points and win! The tons of replay value, simple controls and an amazing atmosphere will keep you glued to the screen.</div><div><br></div><div>Common guys! We are pretty sure that you are skilled enough to create as many scores as possible and beat your expert friends. Use your quick reflexes and intense sports abilities to challenge your rivals and become a champion tennis player! Hit the ball to the other side by moving your stickman left or right in this fun HTML5 sport game! Remember you would lose your game in case if you miss a ball.</div><div><br></div><div>Exclusive graphics and sounds, infinite level, addictive gameplay mechanics, easily character control ability and one touch gameplay will be enough to keep you entertained for hours. We through our website maintain a wide category of free sports that allow you to explore your other favourite games like cricket, football, soccer, swimming, and racing without download. So why you need to get bored during your long home stay? Give us a try to give you some happy and fun-filled hours!</div>",
+      "size": 425,
+      "height": 750,
+      "script": "https://games.atmegame.com/games/stickman-table-tennis/",
+      "metaTitle": "Stickman Table Tennis Game, Tennis - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Stickman Table Tennis at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Stickman Table Tennis, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 2575,
+      "dislikes": 383,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 302375,
+      "ownGame": true,
+      "addDate": "2020-11-21T17:31:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-06-01T17:28:56.366Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON LEFT RIGHT OF SCREEN TO HIT THE BALL",
+      "webControlKeys": "CLICK ON LEFT RIGHT OF SCREEN TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 188
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad66",
+      "name": "tennis",
+      "slug": "tennis",
+      "icon": "tennis-games"
+    }
+  }
+}
