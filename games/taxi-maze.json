@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b344",
+      "id": 1815,
+      "name": "Taxi Maze",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "taxi-maze",
+      "image": "1815",
+      "url": "taxi-maze",
+      "description": "You are a skilled taxi driver and you have to take your customer to his destination safely. But the road in this village is a real maze and you will have to find your way through it. Check your hint if you get stuck but be aware that you can only use it one time during a level. Do not crash your taxi into anything and find your parking spot before the time runs out. There are eight exciting levels to play and enjoy. Have an incredible time playing Taxi Maze!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=57f04bb2975420e3b4c73920c687cad7\r\n",
+      "metaTitle": "Taxi Maze, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Taxi Maze at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Taxi Maze Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630155.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8712,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2024-01-17T07:39:36.127Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
