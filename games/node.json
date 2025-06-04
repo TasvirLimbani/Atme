@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd1d",
+      "id": 4517,
+      "name": "Node",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "node",
+      "image": "4517",
+      "url": "node",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you think that you are expert in connecting lines with each other? Are you a lover of online arcade games? We have got you covered with a brand new arcade challenge where you would have multiple figures and shapes to create by connecting the dots with each other. Here your objective is to connect all of the nodes without going over the same node twice. Do not bother about the gameplay as it is very simple and easy to handle.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Put your finger on your mouse in PC or tap the screen on mobile phone to click and drag to draw lines between the two nodes! There are multiple figures and shapes to create in this HTML5 puzzle challenge. You would have 60 unique and challenging levels to play through and lots of complexities to face off in completing the puzzles. Use your logical analysis and puzzle-solving abilities to complete each level with three stars rating!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The complexities will keep increasing as you progress in the game. Make sure to pay attention to the details and keep your eyes on the screen to complete all the tricky arcade puzzles. The soothing music and easy gameplay will definitely help you to keep you glued to screen for hours. Give this mobile dot connecting puzzle challenge a try to refresh your mood and improve your brain power! Check out more popular titles from the category of puzzle games for boys and girls that are available for free to play online on atmegame.com without download!&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/1e5217cf2a524786aaa96c7687e9bbf9/\n",
+      "metaTitle": "Node, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Node at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Node Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527121.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6698,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2023-09-22T21:09:13.973Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO CONNECT THE DOTES TO COMPLETE IMAGE",
+      "webControlKeys": "KEEP L CLICK OF MOUSE PRESSED AND SWIPE TO CONNECT THE DOTS TO MAKE THE COMPLETE IMAGE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
