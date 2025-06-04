@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad68",
+  "category_name": "pool",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad68",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af4f",
+      "id": 569,
+      "name": "9 Ball Quick Fire Pool",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "9-ball-quick-fire-pool",
+      "image": "569",
+      "url": "9-ball-quick-fire-pool",
+      "description": "<div>9 Ball Quick Fire Pool is a hugely popular <a href=\"http://www.atmegame.com/online-pool-games\" title=\"\" target=\"\"><font color=\"#0033cc\">billiard game</font></a> designed for both boys and girls. One of the best sports game to play, it features 3D ball rotation realistic physics. In a time frame of 5 minutes, you have to pocket all 9 balls on the table. You have to pocket all the balls in ascending order to collect the maximum possible points or you can say to spice the game.&nbsp;</div><div><br></div><div>With a very smooth physics engine, this cool free online game is sure to give you a pool experience you have not taken before. All you need to do is shoot and pot as many balls as you can do in this limited time game. A new rack with some extra balls in the pocket is given to you when you get the success in potting the 9 balls. Earn more and more points and get a pleasure of comparing your score with other billiard players from all across the world in this flash game.&nbsp;</div><div><br></div><div>Quick Fire Pool 9 Ball, known as one of the latest free online games, is listed under the sports category at our website. Hitting the cue balls and placing them in your pockets is the primary aim of this browser game. Just remember to place the balls in&nbsp;numerical<span style=\"background-color: transparent; font-size: 10pt;\"> order in order to gain the full marks. You as a player must focus on collecting as many points as you can do to finish each level of the game successfully.&nbsp;</span></div><div><br></div><div><b>Game Instructions:</b></div><div>You can play this new game online pool using your mouse.</div>",
+      "size": 700,
+      "height": 500,
+      "script": "<!-- Place this code where you'd like the game to appear -->\r\n<div class=\"miniclip-game-embed\" data-game-name=\"9-ball-quick-fire-pool\" data-theme=\"5\" data-width=\"700\" data-height=\"500\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/9-ball-quick-fire-pool/\">Play 9 Ball Quick Fire Pool</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/9-ball-quick-fire-pool/\" target=\"_blank\">Play 9 Ball Quick Fire Pool</a> / More <a href=\"https://www.miniclip.com/games/genre-3/\" target=\"_blank\">Sports games</a></p>\r\n\r\n<!-- Insert this code before your </body> tag -->\r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "9 Ball Quick Fire Pool, Pool Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 9 Ball Quick Fire Pool at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "9 Ball Quick Fire Pool, Play Free Games, Play Online Free Games, Pool Games, Sports Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 149,
+      "dislikes": 29,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 17445,
+      "ownGame": false,
+      "addDate": "2017-08-29T13:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.669Z",
+      "updatedAt": "2024-09-01T23:55:11.852Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT FOUND"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 19
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad68",
+      "name": "pool",
+      "slug": "pool",
+      "icon": "Pool-games"
+    }
+  }
+}
