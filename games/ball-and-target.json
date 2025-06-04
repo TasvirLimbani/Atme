@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf8e",
+      "id": 5149,
+      "name": "Ball and Target",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "ball-and-target",
+      "image": "5149",
+      "url": "ball-and-target",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Sometimes easy shooting and target game appeals you a lot. We are damn sure that the same thing is going to be happened with you once again if you try out a brand new action-packed challenge today in your browser. The simple controls and easy control will definitely make you fall in love with it. So, it does not make a sense to wait anymore. Join Ball and Target game and get ready to have fun in a very friendly and funny environment! Common friends, it will take a few simple clicks!!</span></div><div><span style=\"background-color: transparent;\">Your objective in this cool html5 shooting game is to shoot your target at the right angle and collect some scores in return. The problem is that you have only 3 balls to play your shot at the moving target. As you progress in the game, the complexities will become harder and you soon have to deal with many surprising obstacles to move forward in the game. Be careful and try to point the ball correctly to score big in the end in this casual ball game!</span><br></div><div><span style=\"background-color: transparent; font-size: 10pt;\"><br></span></div><div><span style=\"background-color: transparent; font-size: 10pt;\">On the top left corner of the ball, you will see three balls. A ball will disappear for your every miss and if you will lose the game in case of not pointing correctly three times. The speed of this fun animal shooter will gradually increase to create confusion during the gameplay to make it more interesting and challenging. This skill kids game features colorful background, a shooting target platform and high-resolution graphics.&nbsp; Have a blast in this one of the best action shooter online, no download required!!</span><br></div>",
+      "size": 960,
+      "height": 540,
+      "script": "\nhttps://html5.gamedistribution.com/b541a766e9014e5084a716e616f30c02/\n",
+      "metaTitle": "Ball and Target, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ball and Target at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Ball and Target Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545705.xml",
+      "idealFor": "All",
+      "likes": 37,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8956,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2023-11-30T13:09:03.426Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE AND HOLD TO SELECT THE DIRECTION, RELESE TO HIT",
+      "webControlKeys": "KEEP PRESS THE L CLICK OF MOUSE TO SELECT THE DIRECTION, RELESE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
