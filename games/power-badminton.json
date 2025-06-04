@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb95",
+      "id": 4120,
+      "name": "Power Badminton",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "power-badminton",
+      "image": "4120",
+      "url": "power-badminton",
+      "description": "<div>Do you love playing badminton against the strong opponents during your free hours? Have you ever dreamt of participating in a popular badminton championship? Join Power Badminton game and be prepared to practice your favorite sport while playing against the clever opponents! Grab your racket and get ready to hit short, long and smash your way towards the victory in this awesome badminton league in this brand new sports game! Win matches to active some needful power-ups to get an advantage over your rival!</div><div><br></div><div>Remember power-ups are also available for your opponent, too. All it takes to make some cool net shots with the help of your racquet. Common boys! You have the guts to finish your game with a clean and powerful smash. You can also choose the long rallies to get you enrolled and stay in the game until your opponent gives up. In case of having low confidence, you can begin the fun with the training mode. After getting you trained, get ready to show off your abilities with your badminton and shuttlecock.</div><div><br></div><div>Play against computer-controlled rivals and do every possible effort to win as many matches and score as many points as possible in this awesome side-scrolling badminton game! There are different types of smashes and shots you have to use to win. Select from multiple character options and get ready to grab a power-up to make your shots more powerful! The badminton court is waiting for you friends. Collect more points than your rival to win matches by defeating all of the other contestants!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "\nhttps://html5.gamedistribution.com/ec111b02d2554b599732a2d0a96419e5/\n",
+      "metaTitle": "Power Badminton Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Power Badminton at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Power Badminton Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "All",
+      "likes": 31,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11526,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2025-02-17T03:48:16.843Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS TO MOVE, RIGHT ICONS- TO HIT",
+      "webControlKeys": "L-JUMP SMASH, J-HIT SHOT, K-LONG SHOT, L-R  ARROWS/ A,D -MOVE"
+    },
+    "rating": {
+      "rating": "4.6",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": null
+  }
+}
