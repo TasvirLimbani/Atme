@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c15e",
+      "id": 5650,
+      "name": "Racing Car Game Bomb",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "racing-car-game-bomb",
+      "image": "5650",
+      "url": "racing-car-game-bomb",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a biggest fan of car racing games? If yes, trying out Racing Car Game Bomb can be a nice decision for you. Play this brand new car game online right away to know what you will get when you explore it in your device! The best part is that there will be no speed limit in this fast-paced race competition. Survival is possible with just some speed. Get you ready to participate in a race war where one who can hold out as long as on the road will win!</span></div><div><span style=\"font-size: 13.3333px;\">Remember your auto machine will stop if you try to slow down your vehicle on the road. This creates the possibilities of your losing immediately. Be careful when you put your finger on the accelerator as your car can be collided with the other vehicles if you do not break it on time! Try to be as fast as you can to hit the higher score in this free online 3D game! Put your driving and focus skills to challenge to change the result into your favour!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">There are four ways to explore: One Way, Two Way, Time Attack and Speed Bomb. In the On the one-way mode, you will have three stages, including Sunny, Night and Rainy to explore. Your final score will be displayed on the screen as your game is over. This screen will also show the details on total distance you have covered as of now, near miss, keep above 100KM/H and opposite direction. Also spot Main Menu and Play Again options there! Check out more HTML5 racing games online for free on our website to excite you amazingly!&nbsp;</span></div>",
+      "size": 850,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/e33df260bb7c48aca2771bc6d97f50fc/\r\n",
+      "metaTitle": "Racing Car Game Bomb,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Racing Car Game Bomb at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Racing Car Game Bomb Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1555400796.xml",
+      "idealFor": "Man",
+      "likes": 74,
+      "dislikes": 9,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11911,
+      "ownGame": false,
+      "addDate": "2019-04-16T13:16:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.753Z",
+      "updatedAt": "2025-01-26T16:16:23.423Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE,C- CHANGE THE VIEW,SPACE-BREAK"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
