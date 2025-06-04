@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3c8",
+      "id": 6454,
+      "name": "Western Cowboy Run",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "western-cowboy-run",
+      "image": "6454",
+      "url": "western-cowboy-run",
+      "description": "<div>You have got an another chance to take your fantasy for adventure to a different level in this action-packed challenge! Are you ready to get participated in this highly addictive and exciting western adventure? Join Western Cowboy Run and be prepared to explore the open world in an Old West that is invaded by the deadly monsters! Everywhere you see the blood-thirsty zombies who know nothing, but sucking of the fresh human blood. Get your weapons ready to deal with the biggest zombie apocalypse!</div><div><br></div><div>Your objective in this HTML5 shooting game is to reduce wave after wave of dangerous zombies. Start with a Maria, a basic revolver, fight hard, earn coins and upgrade your weapons later! You can purchase Carmen, a powerful shotgun, and Rosario, another advanced shotgun to make your gameplay interesting. Play as a sherif, use all your power and do not forget to avoid the skirmishes, and other obstacles in this adventured action runner! Time your shooting and try to clear the city from all the most wanted criminals as a sharpshooter of your town!</div><div><br></div><div>The true Wild West atmosphere, high-quality graphics, battles with multiple bosses, and interesting gameplay can help to keep you glued to the screen for long. There are lots of quests and achievements to get and free bonuses to enjoy in the endless game mode. With a large arsenal and personalization, you would get a chance to enter the awesome action drama in this spectacular runner challenge. Good luck to have the best entertainment, no download required to play online in your device!</div>",
+      "size": 850,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/d9329e4c16974213a0bde6bb258e2f62/\r\n",
+      "metaTitle": "Western Cowboy Run Game, Shooting - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Western Cowboy Run at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Western Cowboy Run Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 38,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7732,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-04-24T13:19:44.655Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "CLICK TO JUMP,SPACE -SHOOT"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
