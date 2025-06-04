@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682adc7",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c411",
+      "id": 6529,
+      "name": "Frog Super Bubbles",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "frog-super-bubbles",
+      "image": "6529",
+      "url": "frog-super-bubbles",
+      "description": "<div>This cute frog wants to match the same colour balls and he needs your help in this task. Would you like to help him out and show off the world that you are the best player of the match 3 games? Join Frog Super Bubbles and be prepared to shoot in 3 or more balls of the same colours! Aim your target carefully before releasing the bubbles from the bottom in this brand new arcade game! Rules of the game are as same as of the popular bubble shooter.</div><div><br></div><div>There are no time limits, no specific rules to follow and extra efforts to put to create the best high score. This frog can only survive if you keep matching the identical colour balls for him. Wow! Kids will also get a chance to learn about different colours when they are involved in this HTML5 shooting game. Everyone whether it a parent or a kid will have a great fun by exploring this lovely education game.</div><div><br></div><div>Your involvement in this cool puzzle challenge will show how colour coordinated you are. Be careful and try to think fast before making a final decision. Make sure to shoot the bubble timely and quickly before the additional rows of coloured bubble add up more. Our website is full of bubble shooter challenges that are free to play online without download. Try out any of the chosen bubble shooting game to keep you entertained for hours!</div>",
+      "size": 500,
+      "height": 750,
+      "script": "https://games.atmegame.com/games/frog-super-bubbles/",
+      "metaTitle": "Frog Super Bubbles Game, Arcade - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Frog Super Bubbles at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Frog Super Bubbles, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 276,
+      "dislikes": 35,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 71266,
+      "ownGame": true,
+      "addDate": "2020-07-12T18:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-02-01T13:45:04.046Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO SHOOT THE BUBBLE",
+      "webControlKeys": "LEFT CLICK TO SHOOT THE BUBBLE"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 25
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682adc7",
+      "name": "bubble-shooter",
+      "slug": "bubble-shooter",
+      "icon": "icon-iconAsset-56"
+    }
+  }
+}
