@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c16c",
+      "id": 5664,
+      "name": "Hard Truck",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "hard-truck",
+      "image": "5664",
+      "url": "hard-truck",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The biggest truck driving track has been introduced! This brand new truck game will allow you to become a pro monster truck racer. Do you think that you want to achieve something like that? If yes, join Hard Truck game today and get a chance to drive a monster truck along hard tracks. Your primary objective in this free online racing game is to help the truck to reach the end of each level. Try to protect your vehicle from being crashed when you are on your mission! Good luck!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Drive your trick by simply tapping and holding your mouse on the screen in this super hard online truck driving game! Feel free to release and tap again if you are looking forward to attain the speed required to jump over the gaps and drive your monster truck over the hills! Your game will be over as your truck gets crashed and you will have no other option rather than starting it from the beginning. Clear all 30 levels to win the trophy of the best truck driving champion in addictive game!</span></div><div><span style=\"font-size: 13.3333px;\">Get ready to face the complex challenges and hindrances as you progress in the game! We are sure that will come again and also invite your friends to try this cool HTML5 bike game after impressing through its easy controls and seamless gameplay. Hard Truck is highly valued for offering a truly striking variety of viewing perspectives. Explore more truck games on atmegame.com to enjoy an immersive gaming experience!&nbsp;</span></div>",
+      "size": 720,
+      "height": 405,
+      "script": "https://html5.gamedistribution.com/d3913e3bc0fc46fabfe101a58f753952/\r\n",
+      "metaTitle": "Hard Truck,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hard Truck at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Hard Truck Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1556791949.xml",
+      "idealFor": "Man",
+      "likes": 106,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 36871,
+      "ownGame": false,
+      "addDate": "2019-05-02T15:42:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2024-08-23T06:46:25.552Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE TRUCK AND KEEP PRESS TO MOVE, RELESE TO STOP",
+      "webControlKeys": "CLICK ON THE TRUCK AND KEEP PRESS TO MOVE, RELESE TO STOP"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 12
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
