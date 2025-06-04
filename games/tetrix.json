@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682baf8",
+      "id": 3961,
+      "name": "Tetrix",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "tetrix",
+      "image": "3961",
+      "url": "tetrix",
+      "description": "<div>Did you like exploring Tetris on your Nintendo Gameboy twenty years ago? Are you the ones who are seeking a highly addictive brain teaser? If so, this brand new arcade challenge is just for you. Wow! You will find all the lovely and engaging elements that a nice block move game includes. The best part is that you can play it on the multiple devices such as PCs, mobile phones, tablets and iPhones. Give it a try now if you know what it takes to score high in a Tetris puzzle!</div><div><br></div><div>Your objective in this HTML5 addictive puzzle game is to control the tiles coming from the top of the screen to make number of horizontal rows of tiles with no gaps. The row filled with the tiles will be disappeared from the screen. Be careful and try to continue arranging tiles to avoid them reaching the top of screen! Huh! Remember your game will be over in case these tiles touch the top the screen. The left portion of the screen will show your present score, highscore, speed and the tile that will come next.</div><div><br></div><div>In this free online single-player online game, you can rotate your tiles and also move them to the left and/or right direction. Click the downward arrow button to increase the speed of your titles and adjust them fast on the place you want! Our website is full of popular puzzle games so you cannot get disappointed once you choose to stay with us. Clear as many horizontal lines of blocks as possible to score your new best high score!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/tetrix-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Tetrix, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tetrix at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Tetrix Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8072,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-03-19T02:17:32.878Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS TO CHANGE THE SHAPE, DOWN, L ICONS TO MOVE L-R",
+      "webControlKeys": "L-R ARROWS TO MOVE L-R, UP ARROW TO CHANGE THE SHAPE, DOWN ARROW TO MOVE DOWN"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
