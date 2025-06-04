@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bad1",
+      "id": 3920,
+      "name": "Treasures Jungle",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "treasures-jungle",
+      "image": "3920",
+      "url": "treasures-jungle",
+      "description": "<div>It is always amazing to hear the sound of nature! And the fun gets double when you will be allowed to get that pleasure right from the comfort of your home. We have got you covered with a brand new arcade game in which you have to match the colours of the same cubes to clear them from the screen. Be careful and try to be as fast as you can as the wall of cubes will keep rising! You would lose if it touches the upper portion of the screen.</div><div><br></div><div>Use your brain and pay attention to the details as you may face several difficulties in managing your time! The entire jungle is full of treasure and your job is to find it before you lose. Make the matches of three or more same cubes by moving the blocks in different directions to create your high score! Remember you will lose your game if the line of cubes reaches the top. The speed of the game will also increase as you progress in the score.</div><div><br></div><div>You can keep the top row away from the ceiling by swapping the blocks around and clearing them from the screen. Do not think anymore. Just go deep in the jungle, challenge your puzzle-solving abilities and grab the treasure within in this HTML5 puzzle game! Good luck swapping the blocks to match as many 3 or more of the same coloured blocks as you can to create your new best score! Check out even more addictive match 3 games and have fun for free on atmegame.com!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/treasures-jungle-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Treasures Jungle, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Treasures Jungle at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Treasures Jungle Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8557,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2024-03-17T01:04:54.115Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO MATCH THREE BOXES OF SAME COLOR TO MAKE THE MATCH",
+      "webControlKeys": "SWIPE TO MATCH THREE BOXES OF SAME COLOR TO MAKE THE MATCH BY L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
