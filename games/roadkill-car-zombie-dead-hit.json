@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5c6",
+      "id": 2538,
+      "name": "RoadKill Car Zombie Dead Hit",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "roadkill-car-zombie-dead-hit",
+      "image": "2538",
+      "url": "roadkill-car-zombie-dead-hit",
+      "description": "RoadKill Car Zombie Dead Hit, Car Games<br>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/roadkill-car-zombie-dead-hit/index.php",
+      "metaTitle": "RoadKill Car Zombie Dead Hit, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game RoadKill Car Zombie Dead Hit at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "RoadKill Car Zombie Dead Hit Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 6916,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.711Z",
+      "updatedAt": "2023-08-27T20:28:13.170Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO DRIVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
