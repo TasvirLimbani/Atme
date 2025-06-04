@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682adc6",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd4f",
+      "id": 4567,
+      "name": "Ludo Online",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "ludo-online",
+      "image": "4567",
+      "url": "ludo-online",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you love playing ludo at your home when you have some free time to kill? Do you want to satisfy your craving for ludo while staying connected with the virtual world? Join Ludo Online and get ready to roll the Ludo dice and move your tokens towards the victory in a friendly virtual environment! All it takes to put your logical skills and brain power to the test to help your tokens to reach the center of the Ludo board! This classic arcade board game is designed for 2 to 4 players.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Choose two, three or four-player mode and play wisely against your friends in this html5 puzzle game! You can also select to play against a computer in case if you do have any friends to have fun. Roll the dice until you obtain the number of 6 and then get ready to move any of your tokens from the starting position! Player who will be able to move all their pieces to the center of the board will win the game! Try to employ the best strategy abilities to beat out your opponents!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Do your best to eliminate the tokens of your opponents by landing it on the same slot while moving forward and taking all your tokens out to the race in this logic board game! Try to take your tokens on the stars to feel safe! Be careful and deliver your sharp mind abilities to get all your tokens into the center slots to be the best ludo champion online! Play this ludo skill game at your home or in your office! Maintain your records, strong user profiles, extensive stats, rankings, game rooms and live opponents on atmegame.com, no download required!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/adcd5bdc3c4349b1921044bfd2a9d597/\r\n",
+      "metaTitle": "Ludo Online, Board Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ludo Online at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Ludo Online Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "Man",
+      "likes": 3301,
+      "dislikes": 229,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 553854,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2025-06-04T00:38:53.248Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 334
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682adc6",
+      "name": "board",
+      "slug": "board",
+      "icon": "icon-iconAsset-56"
+    }
+  }
+}
