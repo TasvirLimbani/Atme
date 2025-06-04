@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd89",
+      "id": 4625,
+      "name": "Whose House",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "whose-house",
+      "image": "4625",
+      "url": "whose-house",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a lover of animals? Do you love solving out the picture puzzle challenges in your device? If yes, Whose House is a game you must try out right away to keep you busy for hours. We have brought to you today a brand new arcade game where you have to recognize which house belongs to which animal. It is not going to be as easy as you thought of. You have to put your brain teaser abilities to the test to become the biggest puzzle solver.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">First understand who owns the house and then click the picture of his or her house in this cool html5 puzzle challenge! Lots of pictures will be shown on the screen in front of you. Select an image with a house and try to recognize it fast who resides in it! If you have given the right answer, both the pictures will be disappeared from the screen. Use mouse or tap the screen to make your choice! You can also enjoy this cool arcade challenge in tablets and iPads or iPhones.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Keep solving puzzles as fast as you can to score higher in the end of each level! We have countless popular titles in the category of puzzle games that you can enjoy in multiple devices without download any app. Make sure to stay connected with us to find more fun and entertainment during your vacant hours. Our website is updated regularly so that you find new games online every time when you visit us. All the best to solve all puzzles, create the best score and have fun with your friends!</span></div><div><br></div>",
+      "size": 1920,
+      "height": 1080,
+      "script": "\nhttps://html5.gamedistribution.com/931110cd71774e85a190aad4c3f4158b/\n",
+      "metaTitle": "Whose House, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Whose House at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Whose House Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7804,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-11-24T07:37:13.248Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO FIND THE ANIMALS THEIR HOUSES",
+      "webControlKeys": "L CLICK OF MOUSE TO TO FIND THE HOUSE OF THE ANIMALS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
