@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4bc",
+      "id": 2224,
+      "name": "Wind Soldier",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "wind-soldier",
+      "image": "2224",
+      "url": "wind-soldier",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The highly addictive and engaging adventure challenge is out! Why do not you give it a try to keep you engrossed for unlimited hours, even for days? Your objective is to guide your character in the sky while he is trying to fall from upward to downward using his parachute in Wind Soldier. Remember the pressure of wind is very high in the sky where there is also no shortage of the enemies that will try to stop your soldier from moving forward.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Give him a right or left direction to avoid the shells fired by your dangerous enemies in this HTML5 flying game! You as a soldier are a very important part of the landing forces and, for this reason, your team has chosen you to perform this job. Your detachment has mistakenly landed right above the positions of your enemies. It will be a bit tricky to fly through the danger zone when your parachute is picked up by the wind.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You have already reached out to the enemy territory where you have to complete your mission by paying attention to the details. There are multiple useful objects to grab to improve your flying abilities in the sky. Try to collect as many first-aid kit as you can while avoiding the dangerous objects like shells to create your best score! Do not forget to catch a pharmacy flying in the air to help your soldier regain strengthen in flight. Good luck to fly for as long as possible and create your new best score today!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/4086914c63db48a7a17f1b005cd0c53a/\r\n",
+      "metaTitle": "Wind Soldier, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wind Soldier at atmegame.com ! We have selected this Flying games for best excitement and thrill in you!",
+      "metaKeyword": "Wind Soldier Game, Action Games, Flying  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524804862.xml",
+      "idealFor": "Man",
+      "likes": 25,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 12885,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:24:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2024-04-29T13:24:58.677Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT LOADING",
+      "webControlKeys": "L-R ARROWS TO CONTROL"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
