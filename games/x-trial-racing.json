@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b32f",
+      "id": 1794,
+      "name": "X Trial Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "x-trial-racing",
+      "image": "1794",
+      "url": "x-trial-racing",
+      "description": "X-Trial games are starting today, and motoracing competition is coming up next! Your are one of the competitors waiting for his first title. Will it be this time, or someone else will take the trophy in front of your eyes. There is no room to run second, only winning matters. There is no second chance. You win by completing the ride through difficult terrain without crashing. No obstacle should be\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/45b2717c0dba4097871c839c1ebcaa6d/\r\n",
+      "metaTitle": "X Trial Racing, Bike Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game X Trial Racing at atmegame.com ! We have selected this Bike games for best excitement and thrill in you!",
+      "metaKeyword": "X Trial Racing Game, Racing Games, Bike Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629827.xml",
+      "idealFor": "Man",
+      "likes": 108,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 59295,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:53:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.696Z",
+      "updatedAt": "2025-02-06T18:06:24.833Z",
+      "__v": 0,
+      "mobileControlKeys": "L-ICONS TO MOVE, R-ICONS TO SPEEDUP/BREAK",
+      "webControlKeys": "ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 15
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
