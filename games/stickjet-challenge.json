@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c118",
+      "id": 5567,
+      "name": "Stickjet Challenge",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "stickjet-challenge",
+      "image": "5567",
+      "url": "stickjet-challenge",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is time to go on a challenging and fun-loving adventure. Are you ready to fly with the stickman? Join Stickjet Challenge now and get ready to help your favorite stickman on his highly exciting adventure. This brand new platform game will allow you to enjoy a nice ride with a jetpack. This ride will also welcome you with a gear wheel that is not going to show mercy on you and cuts your character into two halves if stickman comes in its range.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This free online adventure game includes plenty of levels that become harder and harder. Your favorite stickman has been kidnapped and you have taken the responsibility of escaping him safely. Do your best to help him reach the finish flash in each level. Try to collect all stars and avoid all of the dangerous obstacles. Fly him up and drop him down in order to keep your character away from any of the red obstacles.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Try to pass checkmarks in each level to make your job easier in this free online platform game. Put your concentration skills to test to complete all 60 levels like an arcade king. Tap to jump and tap and hold the mouse to land him safely. We are sure that you will have a great fun in this new stickman platformer game. Check out more mobile games on our free online game website to challenge your funny bones.&nbsp;</span></div>",
+      "size": 760,
+      "height": 420,
+      "script": "https://html5.gamedistribution.com/cbb7ea34724d4362b38352bfb90ac63c/\r\n",
+      "metaTitle": "Stickjet Challenge,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stickjet Challenge at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stickjet Challenge Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1553920821.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7440,
+      "ownGame": false,
+      "addDate": "2019-03-30T10:10:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2024-03-25T07:17:38.886Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO START AND KEEP TAPPING THE SCREEN TO CREATE THE STICK, DONT TOUCH THE GROUND",
+      "webControlKeys": "RIGHT CLICK TO RUN, KEEP CLICKING THE L CLICK TO CREATE THE STICK, AVOID TOUCHING THE GROUND"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
