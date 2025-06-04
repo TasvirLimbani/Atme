@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c40b",
+      "id": 6523,
+      "name": "Dead Land Adventure 2",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "dead-land-adventure-2",
+      "image": "6523",
+      "url": "dead-Land-Adventure-2",
+      "description": "<div>You are sure to enjoy improved fun, thrill and excitement in the second version of Dead Land Adventure! Wow! Your favourite ninja characters need your help again in this brand new adventure challenge. Would you like to help them to show off the path of victory? Join Dead Land Adventure 2 and be prepared to assist your chosen character to get through different beautifully-designed levels! Try to grab as many coins and balls to boost your score!</div><div><br></div><div>Choose your character between the ninja boy or ninja girl and get ready to defeat all zombies while avoiding the deadly traps! The entire path is full of deadly zombies who are thirsty for your blood. Try to keep your character away from the undead and reach your destination safely while collecting all the three stars in this HTML5 platform game! Many dangerous creatures are walking around the platform. Be careful and try to make your jump timely to avoid the collision!</div><div><br></div><div>Every collision will cause a bit loss in your health. You would be thrown out of the game in case of losing all your health. Play wisely to grab all of the keys in all 10 levels and prove yourself as the biggest ninja fighter in this cool action-packed challenge! Track your health by looking at the top left corner of the screen! The top middle portion of the screen will show you how much stars you have grabbed as of now. Try to secure all three stars and all the coins to achieve the objective of each level! Good luck to play more exciting zombie games for free on atmegame.com and have fun for free!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/dead-land-adventure-2/",
+      "metaTitle": "Dead Land Adventure 2 Game, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dead Land Adventure 2 at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Dead Land Adventure 2, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 419,
+      "dislikes": 67,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 125439,
+      "ownGame": true,
+      "addDate": "2020-07-12T15:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-29T05:42:38.880Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ARROWS TO MOVE,RIGHT ARROWS TO SOWRD AND THROW HIT",
+      "webControlKeys": "Z-SOWRD,X- THROW HIT, ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 57
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
