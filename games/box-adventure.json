@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3e1",
+      "id": 6479,
+      "name": "Box Adventure",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "box-adventure",
+      "image": "6479",
+      "url": "box-adventure",
+      "description": "<div>Are you an adventure game freak? We have brought to you a brand new adventure challenge where a cute and little box needs your guidance. Join Box Adventure and be prepared to guide a little box that wants to meet his father again! They both left their home for a normal walk, but suddenly a spaceship came and his father was abducted by a horde of strangers in a spaceship. Show him path to the victory in each stage!</div><div><br></div><div>There are multiple levels to play through in this simple and platform based game. This box is very little and does not have enough courage to take care of this task alone. So your guidance will definitely come as a big help for him. Time his jump properly from one platform to another and make sure that he reaches his destination in every stage. On the completion of stage, he will be able to meet his father again.</div><div><br></div><div>This box is alone and does not have any close friend except you. So make sure to stay with him until he clears through all the stages. The difficulty level might increase with level to level. Use your jumping and keyboard handling abilities wisely to complete all the levels! In case of being bored, we suggest you to look into our other wider free adventure games range and find out the one that fits into your interests and preferences.&nbsp;</div>",
+      "size": 1280,
+      "height": 720,
+      "script": "https://html5.gamedistribution.com/f539ba2b63264e0ba2d8c815523afd9e/\r\n",
+      "metaTitle": "Box Adventure Game, Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Box Adventure at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Box Adventure Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842581.xml",
+      "idealFor": "Man",
+      "likes": 32,
+      "dislikes": 21,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 10103,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2024-09-29T08:40:39.390Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICONS TO MOVE RIGHT TO JUMP",
+      "webControlKeys": "L-R ARROW TO MOVE UP ARROWTO JUMP"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
