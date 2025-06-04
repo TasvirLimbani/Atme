@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9f8",
+      "id": 3680,
+      "name": "Cute Monster Bond",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "cute-monster-bond",
+      "image": "3680",
+      "url": "cute-monster-bond",
+      "description": "Get ready for the sweetmonster match 3 adventure puzzle! Join this unforgettable adventure, play with your friends, win TIME!",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/cute-monster-bond-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Cute Monster Bond Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cute Monster Bond at atmegame.com ! We have selected this puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Cute Monster Bond Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 12,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7244,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2023-03-12T03:14:47.089Z",
+      "__v": 0,
+      "mobileControlKeys": " SWIPE TO CONNECT AT LEAST 3 IMAGES OR MORE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND SWIPE TO CONNECT AT LEAST 3 IMAGES OR MORE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
