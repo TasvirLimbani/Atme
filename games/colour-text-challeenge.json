@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd75",
+      "id": 4605,
+      "name": "Colour Text Challeenge",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "colour-text-challeenge",
+      "image": "4605",
+      "url": "colour-text-challeenge",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you want to practice your hand-eye coordination abilities and quick reflexes? If yes, then it is the right place to hang out. Your objective is to find out if the meaning of the word matches with the color of the text in Color Text Challenge. Do not bother at all since the controls of this fun brand new arcade challenge are easy to understand. All you need to click on Yes or No button to solve out the query.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Put your eyes on the screen to determine if the meaning of the word matches the color of the text before making your final decision! Try to be fast since you would have limited time to play with! Make sure to deliver the right answer since your every wrong reply will reduce 2 points out of your score. Do your best and think twice to create the best score in this html5 puzzle challenge! Your every right answer will help you get 1 point.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Keep delivering the right answers in the form of yes or no to create the best score in this fun mobile-friendly skill game! Use your mouse or tap the screen to play online for free, no download required! No need to be scared of in case of getting bored as our website features countless education games for kids that you can enjoy during your vacant periods! Good luck to have a blast in our all top color games and have fun with your friends!</span></div>",
+      "size": 600,
+      "height": 480,
+      "script": "\nhttps://html5.gamedistribution.com/5b7e076fef034395a04c8d0ed5928834/\n",
+      "metaTitle": "Colour Text Challeenge, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Colour Text Challeenge at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Colour Text Challeenge Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527483.xml",
+      "idealFor": "All",
+      "likes": 18,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10322,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2025-06-01T16:12:04.370Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO CHOOSE CORRECT ANSWER",
+      "webControlKeys": "L-CLICK OF MOUSE TO CHOOSE CORRECT ANSWER"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
