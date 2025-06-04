@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aed7",
+      "id": 432,
+      "name": "Hit and Run",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "hit-and-run",
+      "image": "432",
+      "url": "hit-and-run",
+      "description": "<p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\">The hit and run cricket game is a much needed simulated game play of online cricket game that is quite a popular genre of sports games online that have even rapidly expanded and paced up in the online gaming environment of India. After the advent of 20-20 games, the game of cricket or the online cricket game has become the batting centric and this particular game of Hit and run is all about exploring the batting and making the runs in as much quickest possible time.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\"><span style=\"background-color: transparent;\">In the cricket game of hit and run, there is calculative batting session is being played so that you can practice it as much as possible. The game of batting is hence is divided into the survival and the challenger mode. Both, in survival and challenger mode it is the 30 balls or five overs under which, you have to make as much maximum numbers of points as possible. If your points are more than 50 than you win the game and become an active and robust player.</span><br></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><span style=\"background-color: transparent;\"><font size=\"2\" face=\"verdana\" color=\"#000033\">Whereas, in the challenger mode, the free online cricket game turns to be the knock out mode, where, you will have to play around with five other teams one by one and defeat the team, making a mark into the final. In the challenge mode, you have to win over the opponent teams? score that is offered and presented to you. You are required to make more than the projected score left by the team. For game scoring in this version of the online game, it is the arrow keys that are essential to score and move, on the other side by pressing the space bar, you get the bowler moving on.</font></span><br></p>",
+      "size": 800,
+      "height": 600,
+      "script": "432_swf.swf",
+      "metaTitle": "Hit and Run, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Hit and run online cricket game tells us about to enjoy the game of cricket in the best simulated environment ever developed for the cricket playing enthusiastic players.",
+      "metaKeyword": "Hit and Run, Sports, Cricket Games, Hit and Run Online Game, Play Free Games, Online Cricket Games, Cricket Game",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 283,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 74073,
+      "ownGame": false,
+      "addDate": "2017-07-11T22:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2024-03-26T09:28:10.022Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED "
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 64
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
