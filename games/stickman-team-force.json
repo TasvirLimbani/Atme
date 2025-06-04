@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c31c",
+      "id": 6230,
+      "name": "Stickman Team Force",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "stickman-team-force",
+      "image": "6230",
+      "url": "stickman-team-force",
+      "description": "<div>Are you ready to go on a unique adventure with your favourite character Stickman? If yes, join Stickman Team Force and be prepared to bring order to the world by clearing the streets from all of the bad guys from the screen. It requires applying your intense passion and fighting abilities to end the threat and become a leader in this brand new action game. Wow! You have a proper team to lead so do not get them disappointed and make their way towards the victory.</div><div><br></div><div>Keep shooting all the way, complete missions and grab some coins to upgrade your characters in this HTML5 shooting game! Plan a strategy to clear each of the levels and show off the world that you are a true fighter! Your special ops team is ready to destroy all of the evil stickmen. Make sure to clear the streets from all of the bad guys as fast as you can to make your city worth living for your innocent citizens.</div><div><br></div><div>There are three skilful warriors with different weapons to choose from and control. Each stickman is blessed with unique skill so try to be extra careful when you are in the ground. You would have 18 different and challenging levels to select from, but you can only unlock the first one initially. Click or tap the screen to attack your enemies and earn coins in this action-packed adventure challenge! Use coins to upgrade the stats of your characters! Check out even more tricky and challenging free action games that are available to play online, no download required!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/06d3403340c140aca2bf554b2f4c732f/\r\n",
+      "metaTitle": "Stickman Team Force Game- Shooting, Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Stickman Team Force at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stickman Team Force Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579513428.xml",
+      "idealFor": "Man",
+      "likes": 353,
+      "dislikes": 111,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 21656,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2025-05-14T20:56:11.062Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICON TO MOVE RIGHT ICON S TO CHANGE ,TO HIT",
+      "webControlKeys": "ALL ARROWS ,W,A,S,D TO MOVE ARROUND, C TO CHANGE , Z TO HIT"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
