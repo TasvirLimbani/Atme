@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aecc",
+      "id": 266,
+      "name": "Zombality",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zombality",
+      "image": "266",
+      "url": "zombality",
+      "description": "The fact that the best defence against the Zombies is the attack that is truly tested and exemplified in this amazing action game online Zombality. In the game, you being trapped in a home between zombies and has to protect yourself only by fighting them in nerve breaking and intensive free online action game. In the multi level game first of all at initial level, you have to gear up yourself by armouring with axe in the first room by jumping with the S command and then occupying the axe by pressing D.<br><br>You have to break open the door by attacking axe by pressing A and with the same A pressing has to kill the attacking Zombies and for each level you have to enter into new room and barge open it by A. On the doors of new rooms to enter, there is a green light above the door indicating it to be open. As far as you reach to another room, there, you will be facilitated with gun as well. In order to shoot with gun press S in the action packed online game for the Zombie lovers.",
+      "size": 853,
+      "height": 0,
+      "script": "<!-- Place this code where you'd like the game to appear -->\r\n<div class=\"miniclip-game-embed\" data-game-name=\"zombality\" data-theme=\"0\" data-width=\"853\" data-height=\"420\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/zombality/\">Play Zombality</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/zombality/\" target=\"_blank\">Play Zombality</a> / More <a href=\"https://www.miniclip.com/games/genre-40/\" target=\"_blank\">Platform games</a></p>\r\n\r\n<!-- Insert this code before your </body> tag -->\r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "Zombality, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Zombality is the game where you get trapped into the Zombie attack and safeguard yourself from the massive attack of them.  ",
+      "metaKeyword": "Zombality, Action, Zombie, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 92,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 11277,
+      "ownGame": false,
+      "addDate": "2017-03-08T23:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2024-03-24T02:40:49.011Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT FOUND"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
