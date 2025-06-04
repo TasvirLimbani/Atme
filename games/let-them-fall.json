@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4c2",
+      "id": 2230,
+      "name": "Let Them Fall",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "let-them-fall",
+      "image": "2230",
+      "url": "let-them-fall",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Have you ever imagined of helping the stickmen alive for long on platforms that are full of obstacles? We have got you covered with a brand new adventure game where you have to help the stickmen fall wisely while avoiding the obstacles to survive. There are five unique and challenging modes to play through and each level comes with different kinds of complexities. The standard of difficulties keeps increasing with each passing level. You would have 6 dudes to control in the advanced level.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this HTML5 escaping game is to make all the dudes maintain a balance on the track and jump to avoid the obstacles. Start with the normal mode, make some good score, and get the enough confidence to play the other advanced and challenging levels including Nightmare, Hell, Inferno, and Impossible! Timing matters a lot and it also requires multitasking abilities to complete all the levels with the best high score possible! Be careful and try to let your character fall as far as possible without touching any spike!</span></div><div><span style=\"font-size: 13.3333px;\">Our website is full of other highly challenging and engaging free adventure games that you can play on multiple devices and browsers as well. You do not be an adult to check out wider arcade-adventure game range since it can be accessed by anyone else irrespective of age and gender. Make a list of some cool arcade games and get ready to be surrounded by the unlimited fun and entertainment without download! Good luck to make the most out of the virtual world!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/b35b262367e5453e9efb45bface12b27/\r\n",
+      "metaTitle": "Let Them Fall, Escaping Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Let Them Fall at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Let Them Fall Game, Action Games, Escaping Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524804977.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8355,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:26:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2024-02-20T04:25:13.990Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R SIDE OF SCREEN TO CONTROL BOTH THE PLAYERS",
+      "webControlKeys": "L-R CLICK OF MOUSE TO CONTROL BOTH THE PLAYERS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
