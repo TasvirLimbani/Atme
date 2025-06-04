@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b373",
+      "id": 1874,
+      "name": "Australian Patience",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "australian-patience",
+      "image": "1874",
+      "url": "australian-patience",
+      "description": "<div>One of the best free online card games to play for boys, Australian Patience features a seamless gameplay and outstanding graphics. Your primary aim in this free online arcade game is to move all cards to 4 foundation piles from A to K in the same suit. You will have to dealt the 4 upturned cards to each of the 7 tableau piles when the game begins. You can see the 4 foundations right above the tableau piles. Let 1 card be dealt to the discard pile that you will see on the left of the foundations. Make sure that you place the remaining cards to the left of the discard pile in the form of stock pile.&nbsp;</div><div><br></div><div>There are cards on the tableau piles which are required to be built down by suit. You are allowed to move a group of cards to another tableau file in case if the move itself joins a card to closely higher ranking card of the same suit. For instance, you will be allowed to move a group of cards starts with a 7 of spades to an 8 of spades that are visible on another tableau pile. It does not matter what kind of suit and sequence the other cards of the group follows.&nbsp;</div><div><br></div><div>You can move only K to an empty tableau pile. Get a chance to collect 100 points for moving each card to the foundation pile in this brand new arcade game for boys and girls. In order to deal a new card, you are advised to click the stock pile. Remember no redeal is permitted in this cool html5 game. The complete usage of stock pile and when you have no more moves to be made, your game comes to an end. All the best to make perfect use of the stock in order to earn the maximum bonus points and ensure your victory!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/87f0d42e3e724a3388a455bd04fe8575/\r\n",
+      "metaTitle": "Australian Patience, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Australian Patience at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "Australian Patience Game, Racing Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 10557,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2024-08-16T19:15:35.440Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
