@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b2ed",
+      "id": 1714,
+      "name": "Mad Truck Challenge",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "mad-truck-challenge",
+      "image": "1714",
+      "url": "mad-truck-challenge",
+      "description": "Coming Soon.",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=fdbd31f2027f20378b1a80125fc862db\r\n",
+      "metaTitle": "Mad Truck Challenge, Truck Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mad Truck Challenge at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mad Truck Challenge Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629219.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9069,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:43:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.695Z",
+      "updatedAt": "2022-08-23T23:21:30.095Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
