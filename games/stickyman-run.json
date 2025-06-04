@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be16",
+      "id": 4767,
+      "name": "Stickyman Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "stickyman-run",
+      "image": "4767",
+      "url": "stickyman-run",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Wow! How exciting it is to be enrolled in a fun-loving adventure platform? Today we have come up with a brand new running game where you have to change the platform to avoid all of the obstacles. The only thing that would work here is your excellent command over the mouse or phone and focus on the screen to score a big score in the end. Do you think that you have the guts to accept this challenge? Join Stickyman Run game and show off the world that you can run like no one can do!</span></div><div><span style=\"font-size: 13.3333px;\">Things start off very easy and simple, but complexities will become pretty challenging when you move further in this free online adventure game. Keep your eyes on the flying diamonds and try to grab them immediately by changing your side! You can see the hurdles on the both sides of the platform. Your game will be over once you hit any obstacles. Keep running until you become the top scorer in your group in this html5 running game!</span></div><div><span style=\"font-size: 13.3333px;\">You would get a chance to hone your reflexes and concentration abilities by guiding a stickman through two obstacle courses. When the game is over, you can your present score on the left side of the screen and best score on the right side of the screen. See on the top left corner of the screen to know how much diamonds you have grabbed as of now! Check out more adventure games for boys that are free to play online on atmegame.com!&nbsp;</span></div>",
+      "size": 1136,
+      "height": 640,
+      "script": "https://m.shtoss.com/game/stickyman-run/index.html",
+      "metaTitle": "Stickyman Run,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stickyman Run at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stickyman Run Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546117493.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8298,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.741Z",
+      "updatedAt": "2024-07-06T22:40:46.772Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP UP-DOWN THE SECREEN TO CHANGE THE DIRECTION",
+      "webControlKeys": "L-CLICK OF MOUSE UP-DOWN ON SCREEN TO CHANGE THE DIRECTION"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
