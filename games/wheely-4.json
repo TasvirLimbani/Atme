@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b210",
+      "id": 1446,
+      "name": "Wheely 4",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "wheely-4",
+      "image": "1446",
+      "url": "wheely-4",
+      "description": "<div>The huge love of gamers for the Wheely game series has encouraged the developers to launch its another sequel. Wheely 4 is a highly addictive and challenging game developed by Pegas Games. Your friend Wheely again needs your help since he has lost his way and is unable to come his home back without you. He also broke the wheel of his, so it your responsibility to take him first to the car fixing service.&nbsp;</div><div><br></div><div>This brand new adventure game is full of obstacles like puzzles, lasers and bridges. Use your problem solving mind to resolve the logical based puzzles while enjoying the adventure through various environments. Your favourite red beetle trusts on your skills, so visit the car fixing service as soon as possible to help him reach his destination point. Keep solving the hidden puzzles and uncover secrets with your wits and curiosity to achieve the goal in this free online platform game!</div><div><br></div><div>Make sure to bring your brain power and cognitive mind into get him through each of the levels in this cool HTML5 game. It features vivid and colourful graphics, easy controls and seamless gameplay. Click different objects and characters to keep your game going in this point and click adventure game! Enjoy this 16 levels game in both desktop and mobile browsers! Play this cute car game with the help of the left click mouse button! Keep playing and killing your boring hours at our top game website.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/a258c3f728e94547aefed425dcffafca/\r\n",
+      "metaTitle": "Wheely 4 Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wheely 4 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Wheely 4 Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489364.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 8263,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.689Z",
+      "updatedAt": "2024-03-24T08:01:29.839Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
