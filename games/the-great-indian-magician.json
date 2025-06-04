@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad72",
+  "category_name": "magic",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad72",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae93",
+      "id": 197,
+      "name": "The Great Indian Magician",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "the-great-indian-magician",
+      "image": "197",
+      "url": "the-great-indian-magician",
+      "description": "Though the gaming is not enough, in this online exciting arcade game magic and gaming has been intermixed with each other. The Great Indian Magician online arcade game offers you an opportunity to act as magician in this game. As a magician you get an opportunity to fulfil all the dreams. As an assistant to the magician, you help him to carry out various magical acts and performances. The free arcade game to a larger extent is based upon concentration and reflexes in the game.<br><br>So as performing various magical tricks, you in this game would have to complete them, successfully. In case failing to perform any trick you will be lose the level in the game as well too.<br><br>The entire game is divided into three parts based upon the level of difficulty including easy, medium and difficult one. In most of the time in the game you are assisted by monkey chimpoo, on whom you play entire activities in the game. However, you are required to act precisely to become successful in this online arcade game of being magician.<br><br>There, a great number of tricks in the game to play on after one level to another level. For accomplishing a magic, successfully, you earn a good number of points. With the purpose of game control the arrow keys and space bar is provided so those magicians perform various tricks.",
+      "size": 550,
+      "height": 0,
+      "script": "<object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0\" id=\"g2wgame1\" width=\"550\" height=\"400\">\r\n                                <param name=\"movie\" value=\"https://static.inviziads.com/games/arcade-games/the_great_indian_magician.swf;\"></param>\r\n                                <param name=\"quality\" value=\"high\"></param>\r\n                                <param name=\"menu\" value=\"false\"></param>\r\n                                <param name=\"allowScriptAccess\" value=\"always\"></param>\r\n                                <embed quality=\"high\" pluginspage=\"https://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" menu=\"false\" src=\"https://static.inviziads.com/games/arcade-games/the_great_indian_magician.swf\" height=\"400\" width=\"550\" allowScriptAccess=\"always\"></embed></object>",
+      "metaTitle": "The Great Indian Magician, Magic Games - Play Online Free : Atmegame",
+      "metaDesc": "Under the Magic category the Great Indian Magician is intermixed where you get an opportunity to fulfil all dreams of your life in style.",
+      "metaKeyword": "The Great Indian Magician, Arcade, Magic, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 156,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 20447,
+      "ownGame": false,
+      "addDate": "2016-07-05T08:41:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.665Z",
+      "updatedAt": "2025-05-23T05:04:22.487Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 45
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad72",
+      "name": "magic",
+      "slug": "magic",
+      "icon": "Magic"
+    }
+  }
+}
