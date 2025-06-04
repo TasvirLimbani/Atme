@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b62f",
+      "id": 2646,
+      "name": "Port Car Parking",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "port-car-parking",
+      "image": "2646",
+      "url": "port-car-parking",
+      "description": "<div>Here is a job of a driver who could park cars perfectly across the port in a grim port city. We have recommended your name for this position and you have accepted this job offer since you have already claimed the respect of being an elite driver in your community. Your mission in this 3D car parking game is to park the car on a given spot. Click on the gearbox icon, either press r key or use your mouse, or use reverse gear to complete your goal.</div><div><br></div><div>Your local port manager is very friendly and guides you properly how to park your vehicle under any circumstances. You have a strong background of working as an expert street racing scene driver, so nothing could be a perfect option except you for this position. Choose your car and prove that you have the guts to make it in this free online car racing game for boys. Ear as much money as you can to upgrade your vehicle. Sufficient funds could help purchase fancier cards and upgrade the existing ones.</div><div><br></div><div>Developed by Mentolatux, Port Car Parking game features wonderful 3D graphics, seamless gameplay and unmatched audio and video effects. Take your seat in a green car and drive it around the seaport to spot a parking place for your four-wheeler. Avoid hitting other vehicles and various obstacles to make your win this cool PC game for kids. Here you are also free to play the same level during the night time while opting for a toggle-able night mode. Earn maximum money to reach the store to buy new cards along with new rims designs!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/port-car-parking/index.php",
+      "metaTitle": "Port Car Parking, Parking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Port Car Parking at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Port Car Parking Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8376,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-03-03T10:36:50.803Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "WA,S,D ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
