@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad63",
+  "category_name": "skating",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad63",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb26",
+      "id": 4007,
+      "name": "Snowboard Ski",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "snowboard-ski",
+      "image": "4007",
+      "url": "snowboard-ski",
+      "description": "<div>Like many others, you might love playing with the snowboards. Is skiing your favour hobby? No need to get bored with the complex games then! Join Snowboard Ski and be prepared to enjoy the endless skiing on a cute snowboard in a friendly environment! We are pretty sure that you would fall in love with this brand new sports game and invite your friends to try it out at least once.</div><div><br></div><div>When you click the play button, the controls of the game will be shown on the screen. Go left by holding LMB and go right by releasing LMB! Track your score during the gameplay by having a look at the top of the screen! You can also track your best final score in the end when your game finishes. Try to avoid all the green trees and other obstacles to go as far as possible and create your new best score!</div><div><br></div><div>Do not forget to grab the coins that you see on your way to boost your score. This HTML5 skating game features simple gameplay, cool graphics and easy controls. Play it alone or invite your friends and families to have a blast without download! Do not forget to share your final best score with your friends on leading social networking websites and surprise them with your hidden talents! Get ready to play more addictive and engaging free sports games on atmegame.com, no download required!</div>",
+      "size": 480,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/1321d01611e24b4f94052ea2babcfa2f/\r\n",
+      "metaTitle": "Snowboard Ski Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Snowboard Ski at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Snowboard Ski Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8426,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-09-03T00:42:53.929Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS THE SCREEN TO LEFT ,RELESE THE SCREEN TO GO RIGH",
+      "webControlKeys": "HOLD L MOUSE CLICK TO LEFT/SPACE , RELESE TO GO RIGHT, "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad63",
+      "name": "skating",
+      "slug": "skating",
+      "icon": "skating-games"
+    }
+  }
+}
