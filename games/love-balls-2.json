@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd22",
+      "id": 4522,
+      "name": "Love Balls 2",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "love-balls-2",
+      "image": "4522",
+      "url": "love-balls-2",
+      "description": "<div><span style=\"font-size: 13.3333px;\">If you believe in love, you would not like to miss out the opportunity of helping these two balls come together. Find a boy ball and a girl ball in the second version of Love Balls! These two lovers have separated with each other due to some reasons. Now your job is to draw a line to help these true lovers get together again in Love Balls 2. There are plenty of puzzles and lots of unique and challenging obstacles to face off.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Put your brain and physics abilities to the test to solve all the puzzles of this brand new arcade game! Swipe with your mouse on desktop or tap the screen on mobile phone at the right moment to cut a rope where the boy ball is swinging. Make sure to cut him in a way so that he can fall and reach his love. Do not forget to grab all the three hearts along the way to complete each puzzle with a 3 stars rating. Use your skill and prepare a strategy to make the instant right decisions of cutting the rope!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">It will be amazing to see the cute messages popping out on the screen when these two love balls meet with each other. There are a series of ropes to deal with in this html5 physics puzzle. When you click the play button or begin a level, you would notice a blue ball hanging from a rope. Observe the length of the rope and the inertia of the small ball swing before making a decision! Grab all the stars to finish each level like a champion! Play more similar fun arcade games for boys and girls on atmegame.com, no download required!</span></div><div><br></div>",
+      "size": 800,
+      "height": 590,
+      "script": "\nhttps://html5.gamedistribution.com/f3dceeb59d374b75937a8ed0eb7f1002/\n",
+      "metaTitle": "Love Balls 2, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Love Balls 2 at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Love Balls 2 Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527222.xml",
+      "idealFor": "All",
+      "likes": 9,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9236,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:50:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-07-28T18:27:20.088Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS  L CLICK OF MOUSE AND SWIPE TO CUT THE ROPE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
