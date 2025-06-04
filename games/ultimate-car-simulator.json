@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3b0",
+      "id": 6430,
+      "name": "Ultimate Car Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "ultimate-car-simulator",
+      "image": "6430",
+      "url": "ultimate-car-simulator",
+      "description": "<div>Many people have already reached out to our website to explore this brand new racing challenge! Where are you, friends? Lots of driving challenges, cool stunts and multiple modes to play through! Grab your seat in one of the fastest cars on the planet and show off the world that nobody can beat you in Ultimate Car Simulator! Begin the fun racing challenge in the middle of a city surrounded by multiple skyscrapers and later explore the other interesting tracks!</div><div><br></div><div>Wow! There are different and highly engaging game modes and the best part is that you have to complete a race without being restricted in a time frame. All the city will be yours so feel free to drive your favourite vehicle for hours and hours in this HTML5 car game. Cancel the mode anytime you want in case of getting a bit tired! Explore the game to check out the other different options where you will have unique objectives to achieve in this cool driving simulator!</div><div><br></div><div>Get a chance to drive different car models to take your fantasy for speed to the next level! Race, tune, upgrade and be prepared to customize different superb cars that are listed among the worldâ€™s hottest four-wheelers! Challenge other players and see who can top the leaderboard first! Do not forget to get the fuel for your vehicle to keep your game going! Complete race, earn money to purchase your dream car and show your skills in different mile races!</div>",
+      "size": 800,
+      "height": 642,
+      "script": "https://html5.gamedistribution.com/920e4904cd08429cb6737c0af86a4700/\r\n",
+      "metaTitle": "Ultimate Car Simulator Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Ultimate Car Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ultimate Car Simulator Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842458.xml",
+      "idealFor": "Man",
+      "likes": 107,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 14889,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2024-12-20T14:08:55.408Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO CONTROL,F TO IN OUT PLAYER,C CHANGE THE VIEWE,SPACE-BREAK"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 19
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
