@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad69",
+  "category_name": "bowling",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad69",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": true,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae62",
+      "id": 141,
+      "name": "Bowling Game",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "bowling-game",
+      "image": "141",
+      "url": "bowling-game",
+      "description": "Among sports games online, the?<a href=\"http://www.atmegame.com/online-bowling-games\" title=\"\" target=\"\"><span style=\"font-size: 13.3333px;\">online?</span>bowling games</a> is the most exotic and the unique one to be enjoyable and exciting one when it comes the turn of indoor games to be played around. In this bowling game, in order to achieve success you will under sports games online would have to play like as an expert and unique player. Initially, you may face difficulty in playing this online game, however, with the span of time and you will become an expert in this online sport game available free, online.<br><br>As good bowling you will do in the game as much and effective points there you will score and reach to a level of world champion in bowling game that is considered as yet indoor game till now.<br><br>In the game in order to does a perfect bowl, first of aim the mouse towards the pins whilst aligning the mouse along the marking of the floor. Do it with as much power as possible. As much power you add there as faster the ball will roll down from there. Be attentive that all this activity must occur behind marking on the floor. Initially, a bit practice will be required, but later on you will become an expert and start bowling like a professional.",
+      "size": 800,
+      "height": 600,
+      "script": "141_swf.swf",
+      "metaTitle": "Bowling Games, Online Bowling Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Bowling game is the most preferred and choicest option for the bowling game online and preferred as a game especially for the stress bursting.",
+      "metaKeyword": "Bowling Game, Sports, Bowling, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 124,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 27944,
+      "ownGame": false,
+      "addDate": "2016-07-03T08:12:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.664Z",
+      "updatedAt": "2024-04-12T20:43:12.149Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 24
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad69",
+      "name": "bowling",
+      "slug": "bowling",
+      "icon": "bowling-games"
+    }
+  }
+}
