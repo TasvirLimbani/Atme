@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bc0c",
+      "id": 4242,
+      "name": "Beat Racer Online",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "beat-racer-online",
+      "image": "4242",
+      "url": "beat-racer-online",
+      "description": "<div>It is always amazing to wear the crown of being the best car racer! Luckily, we have got you covered with a brand new car game where you can drive your vehicle in a unique environment.&nbsp; Yes boys! It is a neon highway where racing and beating your competitors is not going to be easy at all. The entire track is full of multiple types of obstacles like missiles, cops, and deadly spikes. Be careful and drive your way to hit the best score in this Beat Racer Online!</div><div><br></div><div>There are three lanes and you as a driver have to shift your vehicle back forth in any of these lanes to avoid the obstacles. Try to put your utmost driving abilities to the test to survive for as long as possible in this html5 racing game! Do not forget to grab the orbs to purchase new car models from the shop. You also have to keep your eyes on the special powers through which you can destroy your enemies easily. Beat all your previous scores to become the best survivor!</div><div><br></div><div>It will be amazing to drive a car in a neon world in this fun online music game. Apart from the obstacles, there will also be some bad guys who will try to put every possible effort to stop you from moving forward. Drive your vehicle as fast as you can and attack the chasing enemies while dodging the obstacles while making your win. This fun endless arcade game includes buyable new cars and minimalist 2D graphics and is playable on multiple devices without download.</div>",
+      "size": 420,
+      "height": 700,
+      "script": "https://html5.gamedistribution.com/a64a009d7ef9401bbcd9711157170d4c/\r\n",
+      "metaTitle": "Beat Racer Online Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Beat Racer Online at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Beat Racer Online Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543659297.xml",
+      "idealFor": "Man",
+      "likes": 27,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11221,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:44:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.734Z",
+      "updatedAt": "2024-03-01T14:01:52.718Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE COMMEN ITEMS TO BRUST",
+      "webControlKeys": "L CLICK ON THE COMMEN IMAGE STO BRUST"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
