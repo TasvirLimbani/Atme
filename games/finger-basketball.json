@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbac",
+      "id": 4143,
+      "name": "Finger Basketball",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "finger-basketball",
+      "image": "4143",
+      "url": "finger-basketball",
+      "description": "<div>Have you imagined yet that even your finger can help you become a nice basketball player? Hey boys! This brand new sports game will challenge your basketball and hand-eye coordination abilities in a friendly environment. Are you ready to accept this new basketball challenge? Join Finger Basketball and shoot some hoops using your finger in a way like never before! Remember you would have only a few limited balls to use to sink into any baskets shown on the screen.</div><div><br></div><div>It is not going to be easy at all since basket can appear in any direction of the screen. Make sure to score as many points as you can before all of your balls run out. Keep clicking or tapping the screen to keep the basketballs in the air until they all drop below the given line in this HTML5 basketball game. Be careful and try to click the area under line fast when you see the basketball dropping below the line!</div><div><br></div><div>Do your best and try to keep the ball in air for as long as possible to score high in this cool sports challenge! Look at the screen continuously since the basket will appear on the screen after your fifth point. Make sure to select the appropriate position under the line to click. You would see your ball bouncing in the opposite direction. Good luck to earn enough points to unlock the special â€˜on fireâ€™ bonus! Play more basketball theme-based games for free online and enjoy with your friends without download!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/70f1db9537904b01b9bc78fcd43b0ebb/\r\n",
+      "metaTitle": "Finger Basketball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Finger Basketball at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Finger Basketball Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226795.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8762,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:36:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2025-01-19T07:57:51.909Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPPING ON SCREEEN TO MAKE THE GOLE",
+      "webControlKeys": "KEEP CLICKING L CLICK TO MAKE THE GOLE"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
