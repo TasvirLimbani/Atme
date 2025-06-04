@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1d3",
+      "id": 1374,
+      "name": "RobRob",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "rob-rob",
+      "image": "1374",
+      "url": "rob-rob",
+      "description": "<div>It will be damn exciting to be a part of this brand new adventure game for boys named Rob-Rob. Your job is to assist Rob-Rob to spot his way through a number of puzzling levels. Begin the game with clicking on a big new game button! He will break if he fails during the gameplay. Make sure to collect as many batteries as you can to boost your score and help Rob-Rob to reach his destination with ease. Use the ventilator to help him climb to the higher platform.&nbsp;</div><div><br></div><div>Guide Rob-Rob properly to the pink teleport! The collection of batteries will be pretty useful for him. Use the blue ventilator to climb out. Try to get him safely on the moving platform at the right time. This will help him reach on the next platform with ease. Although the usage of teleports can be useful for him, but sometimes it leads him to the devil. Use your logical mind to find his way since the wrong selection of path will lead you to the end in this free online platform game.&nbsp;</div><div><br></div><div>You have to apply A/D or arrow keys to move your character and keep your game going. On the top of the screen you can see how many batteries you have collected as far and how many moves you have tried out yet. With 30 different levels, each level is guaranteed to offer you a unique gaming experience. You can play this mobile-friendly game with or without music in your device. Go through our huge list of top games to find out some more popular titles at our free online game website!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=9356f48be4884203916a030eb9e2741b\r\n",
+      "metaTitle": "RobRob, Adventure Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game RobRob at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "RobRob Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489143.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7429,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.688Z",
+      "updatedAt": "2022-08-23T23:21:30.089Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
