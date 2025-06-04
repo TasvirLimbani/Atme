@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682afc6",
+      "id": 761,
+      "name": "Princess Castle Cake Cooking",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "princess-castle-cake-cooking",
+      "image": "761",
+      "url": "princess-castle-cake-cooking",
+      "description": "<div>Princess Castle Cake Cooking is an awesome free online kitchen game in which you will have to prepare a cake that looks like a castle. Start this cool cooking game with shopping for the useful ingredients from the nearest grocery store. Once it is done, get ready to follow the recipe to create the best cake you have ever produced. You are advised to stack the layers on top of each other and adorn the recipe with different types of ornaments that are perfect to show off the royal look.</div><div><br></div><div>It will be exciting to create your own chocolate made princess castle lashed with the extremely tasty whipped cream and also topped with a delicious sugared figure of the cute princess. The cake is also decorated with beautiful candy-colored windows. You would not resist yourself from trying this princess castle cake in your real kitchen after exploring this brand new cooking for girls in our virtual kitchen. Do not forget to wear the apron before beginning this fun cake decoration game.</div><div><br></div><div>You will find all the cake ingredients and decoration items on the screen. Your task is to put all the needful ones together to create your most favourite sweet castle cake. The quicker you complete this best cooking game; the higher points you will be able to see on the scoreboard finally. Mix sugar, cocoa powder, and whipping cream as well as spread the mixture on the castle shaped cake you have prepared in this brand new online cooking game. Use your imagination and have fun a lot kids!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=dc4ebf805f56433dbecb8bb475e75228\r\n",
+      "metaTitle": "Princess Castle Cake Cooking, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Princess Castle Cake Cooking at atmegame.com ! We have selected this Cooking games for best excitement and thrill in you!",
+      "metaKeyword": "Princess Castle Cake Cooking Game, Girls Games, Cooking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1514261939.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8725,
+      "ownGame": false,
+      "addDate": "2017-12-26T09:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.672Z",
+      "updatedAt": "2025-01-16T08:27:54.197Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "2.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
