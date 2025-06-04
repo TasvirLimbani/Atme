@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c120",
+      "id": 5577,
+      "name": "Viking Wars",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "viking-wars",
+      "image": "5577",
+      "url": "viking-wars",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Two cute and lovely Viking characters have decided to face each other. However, the problem is that they both want to clash between each other through the powerful sword. They consider you as their best friend so they have asked you to help them out. Are you ready to take up this challenge? If yes, join Vikings War game and get ready to show off your ultimate sword handing skills. We are damn sure that you are going to remember this battle for years.?</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Join this struggle alone or ask your friend and play this brand new action challenge against him. You can have fun against CPU in a tournament. You have to keep your eyes on your opponents all the time. Check out the move of your opponents before throwing the sword from the hands of your player. You may miss your opponents. Do not bother if this happens as you can again pick up your sword and start guessing the movement of your opponent again.</span></div><div><span style=\"font-size: 13.3333px;\">There are two modes ? play tournament or try US Player (2P) to explore in this free online shooting game. Cool graphics, easy control and seamless gameplay will help keep you engrossed for hours. You are sure to enjoy a great proportion of fun and thrill in this 2 players battle game. Try out more sword games for free on atmegame.com after browsing our website during your free time. Good luck to become a champion of sword in this cool HTML5 game.</span></div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/4d819867c2da4beb9512d420a54afe5d/\r\n",
+      "metaTitle": "Viking Wars,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Viking Wars at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Viking Wars Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1553920821.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7846,
+      "ownGame": false,
+      "addDate": "2019-03-30T10:10:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2024-07-20T17:46:22.558Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO THROW THE SOWRD AND JUMP",
+      "webControlKeys": " L CLICK TO THROW THE SOWRD AND JUMP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
