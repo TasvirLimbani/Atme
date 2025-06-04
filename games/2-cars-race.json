@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb40",
+      "id": 4033,
+      "name": "2 Cars race",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "2-cars-race",
+      "image": "4033",
+      "url": "2-cars-race",
+      "description": "<div>Hey boys! This time you have two vehicles to control on a four-lane racing track. Do you think that you are sufficient enough to control two cars at a same time? Join Race Cars and be prepared to guide blue and red color cars on a racing track that is full of multiple obstacles! Do not forget to collect the coins to boost your score in the end! Make sure that blue color cars collect blue color coins or bonuses while red color cars grab red color coins.</div><div><br></div><div>The difficulties get harder as you progress in this cool HTML5 car game. Avoid all the obstacles and get as many bonuses as possible! You have to use both of your fingers to control your vehicles. Missing a single bonus from any of the cars costs you a life and you would lose your game immediately! Try to avoid both of your cars for as long as possible to create your best high score! Track your present score right at the middle of the screen during the gameplay!</div><div><br></div><div>When the game finishes, your present and best score will be displayed on the screen. Challenge your sharp reflexes and hand-eye coordination abilities to handle both cars perfectly and create the best score possible! Out of many car games available online at our website, it is easy to find out the ones that can help improve your driving skills while keeping you entertained for hours. All the best to race your car like a champion in every racing competition!!</div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/55320b90d6364c6898af2d0d504c598f/\r\n",
+      "metaTitle": "2 Cars race, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 2 Cars race at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "2 Cars race Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951839.xml",
+      "idealFor": "Man",
+      "likes": 29,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12022,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-03-09T08:25:06.543Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE L-R OF THE SCREEN TO CONTROL THE CARS",
+      "webControlKeys": "A,S TO CONTROL BLUE CAR AND K,L TO CONTROL RED CAR"
+    },
+    "rating": {
+      "rating": "0.8",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
