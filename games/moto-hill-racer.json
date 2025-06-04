@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5be",
+      "id": 2530,
+      "name": "Moto Hill Racer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "moto-hill-racer",
+      "image": "2530",
+      "url": "moto-hill-racer",
+      "description": "<p class=\"text_desc\">\n\n\n\n\nMoto Hill Racer is a highly engaging and addictive racing game where you have to drive a bike over the rugged mountainous terrain to explore multiple adrenaline-fueled motorcycle races. With skilled bikers from all across the globe, the most wanted win requires both expertise and luck. \nAll you need to do is just get yourself ready to experience the breath taking races amidst stunning scenery and intense competition.</p>\n<h4>\nKey Features:\n</h4>\n\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\"><li><b>\nThrilling Mountain Races:</b>\nTry various heart-pounding races through multiple challenging mountain tracks, and the best part is that each presenting its own set of obstacles and surprises. Make sure to navigate the difficult terrain confidently, sharp bends, and steep slopes as you compete for the championship title. \nOnly the most skilled and daring riders will taste the victory in this high-stakes competition.\n</li><li><b>\nDiverse Track Conditions:</b>\nExperience the thrill of racing on multiple tracks, each with its own different conditions and challenges. Right from muddy trails to the tricky rocky paths, just get yourself ready to adapt your racing strategy to conquer every obstacle in your path. \n\nTest your skills in changing weather conditions and varying terrains to prove your worth as the ultimate mountain moto racer.\n</li>\n<li><b>\nIntense Competition and Nerve-Racking Moments:</b>\n\nCompete against the best bikers from around the globe in these nerve-racking races that will surely push your limits to the optimum level possible. </li></ul></p>\n\n<p class=\"text_desc\">\nFeel the adrenaline rush as you have to battle not only your opponents, but also the challenging mountain terrain. \nWith high-speed action and intense competition, every race is a test of skill, strategy, and determination.\nSo, get up, rev your engines, and allow yourself to conquer the peaks in Moto Hill Racer. \n</p>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/moto-hill-racer/index.php",
+      "metaTitle": "Moto Hill Racer,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Moto Hill Racer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Moto Hill Racer Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9707,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.711Z",
+      "updatedAt": "2024-07-10T09:44:09.912Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO DRIVE"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
