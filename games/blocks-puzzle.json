@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd7f",
+      "id": 4615,
+      "name": "Blocks Puzzle",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "blocks-puzzle",
+      "image": "4615",
+      "url": "blocks-puzzle",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Oh no! What better option can be for you to solve out the tricky and addictive puzzle challenges especially when you generally seek for boosting your brain abilities and quick reflexes! Today we have brought to you a brand new arcade challenge where you would have plenty of blocks to play and improve your puzzle-solving abilities. Once you try it out, you would recommend it to your friends and families. Join Blocks Puzzle right away and drag blocks to fill up the lines horizontally or vertically!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this html5 puzzle challenge is to drag blocks into the grid board until a line is filled horizontally or vertically. You would see that blocks that are filled up in a line will be disappeared from the screen immediately. Be careful and try to bring the possible moves into use for the available blocks. The minimum moves you use for your blocks to fill up the line the higher score you will hit in the end.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Put your brainpower and hand-eye coordination to the test to drag the colored blocks onto the grid board to fill up the lines! When a line disappears, it will leave you more room for other blocks. Keep your lines clear with endless blocks and become the biggest puzzle solver! This block puzzle challenge features a new mode to win gifts and wonderful jewel and special effects. No move limits and enjoy it online in your gaming device, no download required! Use the boosters to clear hard levels and sharpen your brain together!</span></div>",
+      "size": 720,
+      "height": 1280,
+      "script": "\nhttps://html5.gamedistribution.com/92834ac37ba946f6a82690c36ecd5a8b/\n",
+      "metaTitle": "Blocks Puzzle, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Blocks Puzzle at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Blocks Puzzle Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8010,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2025-02-01T13:18:33.958Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": null
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
