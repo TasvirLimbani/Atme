@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2e1",
+      "id": 6161,
+      "name": "City Car Stunt",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "city-car-stunt",
+      "image": "6161",
+      "url": "city-car-stunt",
+      "description": "<div>We have brought something special to speed lovers. Are you ready to experience the difference? Join City Car Stunt and be prepared to drive awesome sports car models on the difficult racing tracks made between the wonderful skyscrapers! There is no need to bother about how to maneuver the steering wheel of the classic car in the air since the controls of this brand new racing game are very easy and simple. Give it a try to prove your driving abilities to the world!</div><div><br></div><div>You would have six unique and amazing quest with seven fabulous and spectacular cars to explore. Gear up to enjoy driving on different roads in each level of this exclusive HTML5 car game! See your car flying through the ramps and move forward to get you ready to smash the bricks in the other advanced levels! Choose any option between the single or two players. Apart from this, you can also choose the Free Ride mode to race and have fun!</div><div><br></div><div>There are plenty of death-defying stunts to perform when you opt for the free mode. You will also get a chance to discover some Easter eggs in this area. Play like a champion to complete all the levels and prove the world that you can fight against anyone when it comes to winning in car racing. Try out many free car driving simulator games on atmegame.com and have a blast with your families and friends on your preferred hand-held devices!</div>",
+      "size": 960,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/ef79cd2f249740edabf7f1302d87bb41/\r\n",
+      "metaTitle": "City Car Stunt Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game City Car Stunt at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "City Car Stunt Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569524127.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7461,
+      "ownGame": false,
+      "addDate": "2019-09-27T00:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-04-22T10:06:56.956Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ALL ARROWS W,A,S,D TO MOVE,C- CHANGE THE VIEW,ALT-PAUSE"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
