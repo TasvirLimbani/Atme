@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb54",
+      "id": 4054,
+      "name": "Wars of Worlds",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "wars-of-worlds",
+      "image": "4054",
+      "url": "wars-of-worlds",
+      "description": "<div>The highly challenging and thrilling action simulator is here! Are you ready to try it out and show off the world that you are a true fighter on this planet? Join Wars of Worlds and be prepared to jump into the mass battles to become victorious! Choose your team and enter the biggest war you have ever witnessed in your life in the virtual world in this brand new action-packed challenge! Your opposite teams are very powerful so practice before entering the battlefield.</div><div><br></div><div>The gameplay is divided into two different worlds, the past world and the future world. You would be guided by a scientist from your chosen world. Make sure to get your massive army trained first before making them introduced to the battlefield in online multiplayer war strategy game. Plan your battles against your particular opponents, collect resources to bolster your army and then get ready to plan your strategy on how win and fight like a true fighter! Turn the tide by adjusting your defense and attack accordingly!</div><div><br></div><div><span style=\"background-color: transparent; font-size: 10pt;\">Choose the location and base your team around different eras timely in this HTML5 fighting game! For instance, select the future team which is equipped with advanced knowledge and technology and go with the army base from the past that is highly valued for their brute force and magic. With multiple players to play with, MMO with isometric graphics and seamless gameplay, this cool battle challenge has everything you need to keep you busy for hours.</span><br></div>",
+      "size": 1170,
+      "height": 620,
+      "script": "https://html5.gamedistribution.com/368cf733c9b3445a969167205dcc8e3c/\r\n",
+      "metaTitle": "Wars of Worlds, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wars of Worlds at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Wars of Worlds Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 34,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10343,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-10-11T20:51:59.049Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE AROUND, Q,E OR MOUSE WHEEL- ZOOM IN/OUT"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
