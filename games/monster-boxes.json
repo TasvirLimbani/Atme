@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4fd",
+      "id": 2295,
+      "name": "Monster Boxes",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "monster-boxes",
+      "image": "2295",
+      "url": "monster-boxes",
+      "description": "<div><span style=\"font-size: 13.3333px;\">These monsters are very helpless and have come to you for help. Would you like to help them meet another ones with different colour? If yes, join Monster Boxes and be prepared to guide these monsters to find their true love. Your objective in this brand new adventure game is to shoot the monsters to the box with monster with same colour inside. Avoid shooting monster to the box with monster with different colour! Use your logical mind and shooting skill to solve all the puzzles!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Do not forget to adjust the power before shooting your monster. You can increase and decrease power of the cannon gun through the up and down button shown on the left side of the screen. The right side of the screen will show you the power bar. At the bottom area of this power bar, you can see the button through which you can shoot your monster. Make sure to use as little monster as you can to complete your level to get a high score.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You would have 24 unique and challenging levels to play through since this means that there is no shortage of fun and thrill. Try this HTML5 platform game as many times as you can to keep you engrossed! Our website features countless free shooting games which you can play alone or with your friends without download. All games on atmegame.com are available for free of cost and meant to offer you fun in unlimited amount. Have a blast like never before!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/1cab5209649e404a96698c10b6ed181f/\r\n",
+      "metaTitle": "Monster Boxes Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Monster Boxes at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Monster Boxes Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 8022,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-02-01T06:38:28.614Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO AIM, RIGHT ICON TO SHOOT",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND SWIPE TO AIM, SPACE- SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
