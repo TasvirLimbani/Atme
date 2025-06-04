@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd58",
+      "id": 4576,
+      "name": "Candy Slide",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "candy-slide",
+      "image": "4576",
+      "url": "candy-slide",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Wow! Do you like checking out brain games during your free hours? Are you amongst the ones who love candy and blocks very much? If yes, we have got you covered today with a brand new arcade game where you can play with lots of candies and blocks and challenge your brain in a friendly environment. We can understand that you would not like to miss out this opportunity to improve your brain power. Join Candy Slide and get ready and drag or swipe the blue candy blocks to solve out the puzzles!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this cute html5 game is to put your logical mind to the test to clear a path for the red candy block. There are 24 unique and challenging levels to play online on atmegame.com where there is no shortage of fun and thrill for the players. Move your blocks from left to right or right to left or downward to upward or upward to downward and help your red candy block find out an exit gate! Challenge your quick reflexes to complete all the puzzles shortly!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The best part is that you can also use click on the hint button to know how to make a way for your red candy in case if you get confused. Do your best and try to solve out the puzzles with the least possible moves to complete each level with 3 stars rating! Your attentiveness and matchless puzzling-solving abilities will guide you to become the best escaper of this planet. Check out more brain and arcade games that you can try out for free on atmegame.com without download!</span></div><div><br></div>",
+      "size": 640,
+      "height": 480,
+      "script": "\nhttps://html5.gamedistribution.com/c575c992099545efbe85443f2878ae7e/\n",
+      "metaTitle": "Candy Slide, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Candy Slide at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Candy Slide Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527483.xml",
+      "idealFor": "All",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8560,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-02-25T06:32:07.778Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE BLUE CANDIES TO MAKE THE WAY FOE PINK CANDY",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE  ANSD SWIPE THE BLUE CANDIES TO AMKE THE WAY FOR PINK CANDY"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
