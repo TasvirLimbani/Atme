@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4e3",
+      "id": 2267,
+      "name": "Tasty Way",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "tasty-way",
+      "image": "2267",
+      "url": "tasty-way",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This adorable and handsome boy is in trouble! He is a big lover of candies, but unable to find his favourite sweets since they all are stuck in a pipe with different joints and sharp turns. Would you be able to guide him to fill his mouth full of candies? If yes, join Tasty Way and get ready to push as many candies as you can into his mouth to clear the level. Make sure that these candies are not dropped on the floor.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Push the smaller candies into his mouth with the help of large jawbreaker! Use your logical mind to knock all of the candy down the winding chute towards right into his mouth with the help of gigantic gumball! He would become very happy after getting enough of his favourite sweets. Click or tap the left side of the screen to move the ball towards the left side and the right side of the screen to move the ball towards the right!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Try to complete all the levels to collect all of stars through multiple levels! You would have 20 unique and addictive levels to play through. Use your logical mind to get all the candy balls through the pipes and make him smile like never before! Lead your big ball to the boy in the shortest time possible to gain enough points to reach the advanced levels! Good luck to enjoy the best gaming experience on our website where all latest arcade games are free to play online!&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/d9fe9eb3718245f998d2c594d70a4356/\r\n",
+      "metaTitle": "Tasty Way, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tasty Way at atmegame.com ! We have selected this puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Tasty Way Game, Action Games, puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8809,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-05-20T04:21:46.592Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R SIDE OF SCREEN TO PLAY",
+      "webControlKeys": "A/L-ARROW TO MOVE L-SIDE, D/R-ARROW TO MOVE R-SIDE"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
