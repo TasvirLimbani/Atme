@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c31d",
+      "id": 6231,
+      "name": "Rombo",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "rombo",
+      "image": "6231",
+      "url": "rombo",
+      "description": "<div>The daughter of President has already got kidnapped by the beardos rebels. There is a big mess already in the city and, for this reason, you have got hired by the top authority of the country to overcome this problem. Join Rombo and be prepared to take your orders from the very top and grab your weapons to play the role of a brave mercenary! It is not going to be as easy as you thought of since you have to go through multiple battles and mini bosses to conquer the challenges.</div><div><br></div><div>All it takes challenging your intense fighting and hand-eye coordination skills to save your territory from the attacks of dangerous enemies. Common boys! You are a courageous army officer who knows very well how to clear the ground from a horde of blood-thirsty souls. Keep completing missions to earn some money to upgrade your equipment and spot other useful mercenaries! Try to work together with your team to destroy all your enemies before they make any damage to you in this HTML5 action game!</div><div><br></div><div>There are different types of guns and weapons to choose from. You need to be very careful and make a proper strategy to kill and blast all the enemy ships that you spot on the screen before they enter your area and destroy your base camp. Aim and shoot your gun timely to clear your mission and earn some coins! Do not forget to purchase all sorts of advanced weapons and employ them against a horde of deadly enemies. Track how many monsters are alive by looking at the bottom part of the screen!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/8a1441506c62401d9b018ca6532db1fa/\r\n",
+      "metaTitle": "Rombo, Shooting Game, Shooting - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Rombo at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Rombo Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579513428.xml",
+      "idealFor": "Man",
+      "likes": 84,
+      "dislikes": 31,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 13818,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2025-03-20T05:01:14.270Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH AND SCROLL TO FIX THE TARGET,TAP THE SCREEN TO HIT",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO HIT THE TARGET"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
