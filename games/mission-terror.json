@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bc08",
+      "id": 4238,
+      "name": "Mission Terror",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "mission-terror",
+      "image": "4238",
+      "url": "mission-terror",
+      "description": "<div>Hey boys! This time you are playing the role of a militant commander who has to protect his military base from the attack of terrorists who are lashed with dangerous weapons! Oh man! Do not bother at all since you are also equipped with a powerful gun. Choose your weapon from multiple options and be prepared to clean the area from these bad souls in Mission Terror! There are different missions to attempt and you have a different missions to deal in each mission.</div><div><br></div><div>Your objective is to enter the militant area and destroy all the enemies that you see on the screen. They will be showing on the screen time to time and all you need to do is just get yourself ready to shoot them one by one to clean the area in this brand new action game. There is no need to show mercy on them since they will kill you if do not finish them. In the next mission, you have to spot a way to destroy truck loaded with a weapon without dying.</div><div><br></div><div>Track your score on the top left corner of the screen and the top right corner of the screen will show the status of your health report in this HTML5 shooting game! You can also track your final score once your game finish. At our website, there are plenty of free fighting games that are playable on different kinds of devices that include desktops, mobile phones, tablets as well as iPhones and iPads. Choose any of the title from our top war games to enjoy an immersive fighting experience and keep you busy for hours without download!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/46f03d1344294a5da124c0e55c6fb057/\r\n",
+      "metaTitle": "Mission Terror Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mission Terror at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mission Terror Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543659297.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11941,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:44:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.734Z",
+      "updatedAt": "2024-02-11T23:10:35.605Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ENEMEY TO SHOOT",
+      "webControlKeys": "L CLICK OF MOUSE ON ENEMY TO KILL"
+    },
+    "rating": {
+      "rating": "2.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
