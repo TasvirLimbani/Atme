@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b49d",
+      "id": 2192,
+      "name": "Big Hunter Online",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "big-hunter-online",
+      "image": "2192",
+      "url": "big-hunter-online",
+      "description": "Take your hunting to a whole new level when you stream. Hunt the primeval gigantic animals! People were starving to death because of continuous droughtsThe leader of the tribe goes out for hunting every day for living. Earn money and buy new weapons to hunt big animals and make the best scores.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/b2968ed730164923a5f531b792278fe0/\r\n",
+      "metaTitle": "Big Hunter Online, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Big Hunter Online at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Big Hunter Online Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1523600544.xml",
+      "idealFor": "Man",
+      "likes": 45,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 12786,
+      "ownGame": false,
+      "addDate": "2018-04-13T11:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2025-04-02T06:39:39.757Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS ANS SWIPE  ON SCREEN TO AIM, RELESE TO ATTACK",
+      "webControlKeys": "KEEP PRESS L-CLICK OF MOUSE TO SELECT  THE DIRECTION AND RELEASE TO HIT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
