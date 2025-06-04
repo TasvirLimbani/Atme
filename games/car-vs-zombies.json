@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2ce",
+      "id": 6139,
+      "name": "Car vs Zombies",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "car-vs-zombies",
+      "image": "6139",
+      "url": "car-vs-zombies",
+      "description": "<div>Driving a racing car can be a biggest reason to bring smile on your face. And, when it comes with a zombie apocalypse, the fun and thrill become double for the players. Wow! Luckily, we have today got you covered with a brand new car game where you can have the racing and zombie-killing experience at the same time. Would you like to enter it right now? Join Car VS Zombies and gear up to witness the massive zombie damage while driving cars in multiple difficult tracks!</div><div><br></div><div>The biggest zombie population is waiting for your car. Hope you can take your seat on your chosen vehicle fast before these blood-thirsty zombies take any action. Make sure to kill as many zombies as you can to earn the significant cash in this one of the best car games for boys. No need to show pity on them and take your car over them to send them to the hell. The longer distance you cover the higher score you will be able to create in the end.&nbsp;</div><div><br></div><div>Click or tap the left or right side of the screen to kill zombies through your gun! Track how many zombies are killed by looking at the top left corner of the screen. Keep your car moving left or right to avoid the crash on the way! The top middle portion of the screen will show your power bar. Good luck to survive for long to create high score! Plenty of other free zombie games are available on our website that you can play with your friends without download! This free driving simulator includes multiple car models, lovely sound, and easy controls.</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/4306ca5c08ae4da78734aed19ed7ed39/",
+      "metaTitle": "Car vs Zombies,  Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Car vs Zombies at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Car vs Zombies Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569524127.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7408,
+      "ownGame": false,
+      "addDate": "2019-09-27T00:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2024-07-26T14:50:37.937Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "A,D LEFT RIGHT ARROWS ,LEFT CLICK OF MOUSE-TO SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
