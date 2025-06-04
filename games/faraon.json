@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b51b",
+      "id": 2327,
+      "name": "Faraon",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "faraon",
+      "image": "2327",
+      "url": "faraon",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You and your friend want to see the pyramid both inside and outside. Suddenly you have met with a guide who wants to help both of you to see the inside of the pyramid. You both look pretty excited to see what the popular walls of pyramid are hiding inside. The guide has got ready to take you on this journey, but only one person is allowed to visit this place at a time according to their rules. Your friend has showed his interest to go first on this trip and you do not have any problem in standing outside waiting for your turn.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Now your friend entered the pyramid to see the amazing beauty of its walls. After sometime, guide come out from that place and informed that your friend has got imprisoned at the top of the pyramid. This guide is no one, but a Pharaoh of ancient Egypt. He is ready to provide you with the needful instructions how to rescue your friend. However, the problem is that his quarters are full of dangers. He would love you to see you and your friend dying. Would you still want to join this brand new adventure challenge? Join Pharaoh and be prepared to rescue your friend safely!</span></div><div><span style=\"font-size: 13.3333px;\">You would have plenty of dangerous rooms to go through when you enter this puzzle. Multiple enemies and traps will be there to stop you from moving forward. Try to challenge your jumping and avoiding skill to guide your hero through 55 unique and addictive levels in this fun platform game! The pixelated graphics, great and original soundtrack, and one-touch control will help you to keep entertained for hours, even for days. Good luck to control the character to help his friend rescue safely!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/fa08c145cc30452cbca2b9c7a582b807/\r\n",
+      "metaTitle": "Farao Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Faraon at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Faraon Game, Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7402,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-02-02T20:50:29.482Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO JUMP DOUBLE TAP TO DOUBLE JUMP",
+      "webControlKeys": "SPACE/ L CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
