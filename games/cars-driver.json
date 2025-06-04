@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c335",
+      "id": 6261,
+      "name": "Cars Driver",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "cars-driver",
+      "image": "6261",
+      "url": "cars-driver",
+      "description": "<div>It is time to try out something really challenging and addictive! Today we have got you covered with a brand new racing game where you have to drive multiple latest car models in a realistic environment. Choose your track and then car and be prepared to ride your chosen vehicle, perform stunts and make some good scores in each level! Your primary objective is to perform some cool and death-defying stunts after jumping into your car. The expertise of a good driver will be developed within you after playing it in your device.&nbsp;</div><div><br></div><div>You cannot show off your fantasy for speed when you are stuck in traffic. However, it will be easier for you to enjoy that pleasure when you have a car to driver on the empty roads. Control your vehicle like a pro and use your utmost driving abilities to land your vehicle after riding it over the difficult ramps! Pick any out of three different areas, including plains, a harbor, and a dessert in this HTML5 car game!&nbsp;</div><div><br></div><div>There are multiple ramps and various structures around to play with. Read out the controls shown on the top left corner of the screen before entering this 3D car driving simulator! Challenge your luck and drive over the different ramps with unique heights! Complete races, earn money, and drive three different cars, including an old car, a police car, and a rally car. Do not forget to boost your nitro boost if you are looking for some extra speed. Hear the roaring engines of some more cool cars in our other free car racing games!</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/5da3225da9564613b0d5d90820cddfd7/\r\n",
+      "metaTitle": "Cars Driver Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Cars Driver at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Cars Driver Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579515784.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 8019,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:53:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2024-10-30T18:28:15.437Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,,S,D ARROWS TO DRIVE, SPACE TO BREAK,C CHANGE THE VIEW, R TO RESET THE VIEW,SHIFT TO BOOST,E TO TURN POLICE LIGHT,X TO HIDE INSTRUCTION, 1,2,3 TO CHANGE THE CAR,TAB TO EXIT"
+    },
+    "rating": {
+      "rating": "1.6",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
