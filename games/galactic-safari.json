@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0dc",
+      "id": 5499,
+      "name": "Galactic Safari",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "galactic-safari",
+      "image": "5499",
+      "url": "galactic-safari",
+      "description": "This is a simple game. You only need one finger to play and you need to.... kill em all !! I've been working for a while on this game and I'm pretty sure you're gonna love it. My kids are crazy about it but wait a sec... they would say or do anything to spend more time on their Ipad... Well, anyway, I need this game to be played and some feedback would help on creating Galactic Safari 2... The return. I've created everything including music, sound and art! Yeah, you can label this 100% DIY.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/774bab275d284edf92ab460376d763f8/\r\n",
+      "metaTitle": "Galactic Safari, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Galactic Safari at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Galactic Safari Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453232.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7829,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2023-05-21T20:20:57.359Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "CONTROLS NOT WORKING"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
