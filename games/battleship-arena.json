@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c43b",
+      "id": 6571,
+      "name": "Battleship Arena",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "battleship-arena",
+      "image": "6571",
+      "url": "battleship-arena",
+      "description": "<div>Enemies have entered your area through the battleships! And, you have no option rather than fighting with them to save your pride. Would you handle this pressure on your own? Join Battleship Arena and be prepared to witness the biggest water war adventure of your life! Do not take your enemies lightly as their ships are already ready to attack you. Find their ships and shoot the missiles to destroy them as fast as you can to win the battle!</div><div><br></div><div>No need to bother as your ships are also lashed with advanced and dangerous weapons. Click the box using the mouse or tap the screen of your mobile phone you think that their ships are supposed to be there when your turn comes in this HTML5 war challenge! Your win the battle if you clear the area from the battleships of your enemies first. Keep firing until you destroy all their ships in this cool battlefield game!</div><div><br></div><div>In case if you get bored, move to our extensive collection of fighting games and find something different that suits your taste the most. Do not bother at all about the payment part since our all online games can be accessed through multiple devices at free of cost. You can also enjoy our free action-packed challenges without download so there is also no need to get worried about occupying the unnecessary space of your favourite games in your device.</div>",
+      "size": 500,
+      "height": 750,
+      "script": "https://games.atmegame.com/games/battleship/",
+      "metaTitle": "Battleship Arena Game, War - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Battleship Arena at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Battleship Arena, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 1363,
+      "dislikes": 280,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 355042,
+      "ownGame": true,
+      "addDate": "2020-11-28T17:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-27T13:09:42.248Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO ARRANGE THE BOATS AND TAP TO HIT",
+      "webControlKeys": "LEFT CLICK ON MOUSE TO ARRANGE THE BOATS AND HIT THE BOMB"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 126
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
