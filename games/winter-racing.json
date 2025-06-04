@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b2fd",
+      "id": 1733,
+      "name": "Winter Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "winter-racing",
+      "image": "1733",
+      "url": "winter-racing",
+      "description": "Beat the other car to the finish line!",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/90c95a500d8646aa84d1eb4a7ec9b169/\r\n",
+      "metaTitle": "Winter Racing Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Winter Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Winter Racing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629357.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 13074,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.695Z",
+      "updatedAt": "2025-02-11T20:53:08.363Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS TO MOVE , LEFT ICONS TO STOP",
+      "webControlKeys": "ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
