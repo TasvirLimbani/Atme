@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad62",
+  "category_name": "performing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad62",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb84",
+      "id": 4103,
+      "name": "Wrestle Jump",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "wrestle-jump",
+      "image": "4103",
+      "url": "wrestle-jump",
+      "description": "<div>This wrestling challenge will bring lots of action combined with unlimited fun and entertainment. Are you ready to get you participated in an outstanding fight? Play alone or invite your friends to fight with physics rules in this brand new sports game! You are an expert wrestler so make sure to smash your opponents head to the floor to win the battle. For your every win, you will be rewarded with some points. Challenge your battle and wrestling skills to get an advantage over your opponent!</div><div><br></div><div>It is kind of more like a wrestle of locked wrestlers and we are pretty sure that you have not played such kind of online wrestle games with different rules. Fight hard and hit your opponents head to the floor to make your win and score a point! Try to score 5 points fast before your opponent does the same against you in this HTML5 wrestling game! Choose any mode out of three modes like single player, two player and multiplayer mode and get ready to put your fighting abilities to the test!</div><div><br></div><div>In the single-player mode, you can play against the PC, challenge a friend locally in the two player mode or challenge players from around the world in the online multiplayer mode. Grab as many coins as you can to unlock new skins in this cool performing game! Put your fingers on your mouse or tap the screen of your mobile phone to make your character jump around and flip your rival to the ground! Good luck to win all five rounds to become a popular wrestler in this action-packed fighting game!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/11a2f7c8960042768d966b03003995ca/\r\n",
+      "metaTitle": "Wrestle Jump Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wrestle Jump at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Wrestle Jump Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 71,
+      "dislikes": 15,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 19068,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2025-03-11T14:21:00.666Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W- TO FIGHT"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad62",
+      "name": "performing",
+      "slug": "performing",
+      "icon": "performing-games"
+    }
+  }
+}
