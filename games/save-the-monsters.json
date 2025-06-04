@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bcc0",
+      "id": 4423,
+      "name": "Save The Monsters",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "save-the-monsters",
+      "image": "4423",
+      "url": "save-the-monsters",
+      "description": "<div>Halloween is just around the corner and you want to celebrate the spirit of your favorite festive season by staying in the virtual world! In order to respect your feelings and gaming needs, we have brought to you today a brand new action-packed challenge that is inspired from the Halloween theme. Is not pretty exciting and challenging? Join The Monsters and be prepared to save some creepy creatures this season! Grab your bow and arrow to save these deadly monsters from their noose!</div><div><br></div><div>Your objective in this HTML5 shooter is to save all of the hanging monsters before they lose their life in the absence of air. Make sure to shoot at the bones to get them free and fall to ground. Remember you would have limited arrows to use and you have to complete your task in a limited time as well. So try to react fast to complete all 21 unique and challenging levels and grab all 63 stars. Initially, you will have only single target to hit and the number of target keeps increasing as you progress in the game.</div><div><br></div><div>Avoid hitting the monsters since they have a limited amount of health in this cool shooting game! Get all the monsters free to clear each level and create your own monster world! This Halloween-based action game features cool music, exciting gameplay and spooky graphics backed by easy controls. Drawback your bowstring by clicking and holding on the screen and aiming your target using your mouse! Check out more spooky games and have fun with your friends, no download required!</div>",
+      "size": 720,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/a2be426d7194438eb4fdb70d0ea35abc/\r\n",
+      "metaTitle": "Save The Monsters,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Save The Monsters at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Save The Monsters Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543991431.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9752,
+      "ownGame": false,
+      "addDate": "2018-12-05T12:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.736Z",
+      "updatedAt": "2025-02-02T13:24:27.558Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH AND DRAG TO FIRE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SELECT THE DIRECTION, RELESE TO SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
