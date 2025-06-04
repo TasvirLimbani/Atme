@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c21f",
+      "id": 5897,
+      "name": "Cricket World Cup",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "cricket-world-cup",
+      "image": "5897",
+      "url": "cricket-world-cup",
+      "description": "<div>One of the best sports games to play, Cricket World Cup is definitely a fun treat for all cricket enthusiasts. Trying out this free online sport will allow you to show your love towards cricket! Join us today to make your country win in the widely known tournament of Cricket World Cup 19! Choose your team from 10 different countries and get ready to guide your team towards victory! The time has come when you put all your cricket skills to test to win the cup and make your country proud. </div><div><br></div><div>In this hot cricket tournament, you will get a chance to compete for the World Cup. Select a country you love and get ready to defeat all your rivals through your ultimate sport skill! Chase the score given by your rivals in the optimum possible way and win the matches required to reach the qualifier for the final one! The victory can be yours if you are focused on how to hit your target successfully. Challenge different countries lashed with different worldwide popular players and earn enough points to taste the victory in each match!</div><div><br></div><div>Hit the ball when it makes the best score for you. Keep your eyes on the screen and don?t miss a chance even if a ball swings! Reach to the next stage in the tournament by scoring 1-6 points at a time as you try to achieve the goal! Choose from 5, 10 and 15 overs match as per your wish and play this HTML5 cricket sport on both desktop and mobile web browsers! You can hit the ball by clicking or tapping the screen. You will lose your match if all your three wickets are fallen down. Pick up your team and get a chance to be an international champion in this new cricket game! </div>",
+      "size": 1060,
+      "height": 600,
+      "script": "https://games.atmegame.com/games/gg/cricket-world-cup/",
+      "metaTitle": "Cricket World Cup, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cricket World Cup at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Cricket World Cup, Play Free Games, Play Online Free Games, Cricket Games, Online Cricket Games, Cricket Games Online",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762438.xml",
+      "idealFor": "Man",
+      "likes": 13827,
+      "dislikes": 1159,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 3962938,
+      "ownGame": true,
+      "addDate": "2019-05-13T21:17:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.756Z",
+      "updatedAt": "2025-06-04T04:52:52.129Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO HIT THE BALL",
+      "webControlKeys": "LEFT CLICK TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 1625
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
