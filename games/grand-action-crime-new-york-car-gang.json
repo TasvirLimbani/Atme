@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5c8",
+      "id": 2540,
+      "name": "Grand Action Crime New York Car Gang",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "grand-action-crime-new-york-car-gang",
+      "image": "2540",
+      "url": "grand-action-crime-new-york-car-gang",
+      "description": "Grand Action Crime New York Car Gang, Fighting Games<br>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/grand-action-crime-new-york-car-gang/index.php",
+      "metaTitle": "Grand Action Crime New York Car Gang, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Grand Action Crime New York Car Gang at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Grand Action Crime New York Car Gang Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 65,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 11998,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.711Z",
+      "updatedAt": "2024-09-12T05:26:08.096Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE, F- STEAL THE VAHICLE, SPACE- JUMP, C- CHANGE THE VIEW, L CLICK - ATTACK"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 21
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
