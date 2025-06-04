@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1a2",
+      "id": 1321,
+      "name": "Spear Toss",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "spear-toss",
+      "image": "1321",
+      "url": "spear-toss",
+      "description": "<div>It takes just a few efforts to surprise your gaming senses. Join Spear Toss and get a chance to improve your focus skill in this brand new arcade game for boys! We are sure that you are not going to forget the fun you will get here. In this highly challenging sport, you will have to through spear as far as you can. Make sure that you have chosen the right amount to raise the spear. Once you are done, get ready to release it to create a new record and break all the previous ones. Are you in a mood to show off your hand skills?</div><div>In the flash version of this free online sport, you will have to apply your quick decision-making power to achieve the goal of the game. Make sure to put your strength and aim to test to complete the activity without crossing the foul line. Let your inner power work for you to be the master in this Olympic discipline. Be confident and play like a real pro in this mobile-friendly HTML5 format! Making a perfect angle using your spear is required to earn the maximum points in this simple and fun retro-style sports game.&nbsp;</div><div>You are capable enough to perform this job on your own. Take your command and get a pleasure of competing against your best pals switching turns. The control of this cool sport includes click to start running and hold click to make an angle. You will be able to see your score on the screen once you complete your three throws. Keep practicing hard until you begin securing 500 on each throw and see name on the top of the leaderboard! All the best for a wonderful gaming experience!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/eb53b85b7f444b32bae76680129b72be/\r\n",
+      "metaTitle": "Spear Toss, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Spear Toss at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Spear Toss Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299458.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9757,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.687Z",
+      "updatedAt": "2024-03-28T08:07:22.430Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO RUN AND THROW THE SPEAR",
+      "webControlKeys": "L CLICK OF MOUSE TO RUN AND THROW THE SPEAR"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": null
+  }
+}
