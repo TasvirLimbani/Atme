@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2dd",
+      "id": 6156,
+      "name": "Water Car Surfing 3D",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "water-car-surfing-3d",
+      "image": "6156",
+      "url": "water-car-surfing-3d",
+      "description": "<div>Have you ever got a chance of driving a surf car? Today we have brought to you a brand new online racing game where you have to control a surfing car in a cool environment. Choose your car and then level to enter the awesome racing world in Water Car Surfing 3D! You would have different and exciting levels to play through and an exclusive sports vehicle to select from. Make sure to complete your first mission to enter the next level.</div><div><br></div><div>Wow! There will be an eye-popping beach environment to ride your chosen vehicle. Do not forget to drift your vehicle in the sea to earn some extra points. Be careful and try to be as fast as you can to achieve your mission since the clock is also running! Complete missions, earn money and buy new car models to make your game more interesting and engaging in this HTML5 car game! The realistic graphics and easy controls combined with seamless gameplay will be enough to keep you busy for long.</div><div><br></div><div>Guide your car through all 15 unique and addictive levels in this 3D car driving simulator! You can browse our extensive variety of three-dimension racing games for free on atmegame.com without download. Stay connected with us to find new fun and thrill everyday with just a few clicks on your PC, or tapping the screen of your mobile phone, tablet or any other gaming device. So, what are you waiting for? Give our top racing titles a try to enjoy a happy gaming experience!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/4742f24305bb48879273d5d3b36f801d/\r\n",
+      "metaTitle": "Water Car Surfing 3D, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Water Car Surfing 3D at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Water Car Surfing 3D Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569524127.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7174,
+      "ownGame": false,
+      "addDate": "2019-09-27T00:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2023-11-10T00:57:23.664Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
