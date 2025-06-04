@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c37e",
+      "id": 6376,
+      "name": "Flying Car Simulator 3d",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "flying-car-simulator-3d",
+      "image": "6376",
+      "url": "flying-car-simulator-3d",
+      "description": "<div>Can racing cars fly in the sky? Yes, this will surely be happened in the future and today we have got you covered with something latest and interesting. If you want to enjoy the future car flying experience in the latest, then Flying Car Simulator 3d is just for you. Click the play button, choose your car and get ready to explore the modern city through multiple angles in the sky! Do not forget to learn the controls before trying to fly cars in this brand new racing challenge.</div><div><br></div><div>Keep your eyes on the screen to drive your vehicle like a champion, complete missions and earn cash in this HTML5 car game! Try to jump off the high buildings and skyscrapers and get a chance to collect the maximum possible points and cash! Use those cash to upgrade your vehicle and allow yourself to drive and fly your favourite cars! There are different unique and latest vehicles to choose from. Start with the simple vehicle and then upgrade it with the money you earn along the way!</div><div><br></div><div>It is up to you whether you want to fly your vehicle high in the sky or drive it on streets of the city that is full of buildings, flyovers, and skyscrapers! Press F to let your vehicle open its wings! Go through the controls properly to make your vehicle through all the areas and enjoy the beautiful view over the city! This 3D car racing simulator has no goal, but it is designed to relax your mind and give you some fun-filled hours. Use the money to upgrade your fuel otherwise, you will lost your game! Grab coins to purchase new cooler car models and fly in the sky with no specific rules!</div>",
+      "size": 960,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/e29059b59cfb45ddaf48d389d6b27c82/\r\n",
+      "metaTitle": "Flying Car Simulator 3d Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Flying Car Simulator 3d at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Flying Car Simulator 3d Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842334.xml",
+      "idealFor": "Man",
+      "likes": 89,
+      "dislikes": 24,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 14124,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2025-02-07T14:51:59.570Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W-SPEED,S-BREAK,A,D-LEFT RIGJHT,SPACE-ON/OFF IN FLYING MODE,R -SWITCH CONTROLS"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
