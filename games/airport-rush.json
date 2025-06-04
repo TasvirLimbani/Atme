@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf4c",
+      "id": 5082,
+      "name": "Airport Rush",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "airport-rush",
+      "image": "5082",
+      "url": "airport-rush",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This time we have come with a brand new aeroplane game combined with unique challenges and fun possibilities. Your objective is to control and manage airport traffic in Airport Rush. Do not take the challenges and difficulties very easily as you have to put your plane landing and takeoff abilities to test to win. So, what are you waiting for? Join this plane adventure challenge and be prepared to learn how to land, dock and take off by controlling the flow of traffic!</span></div><div><span style=\"font-size: 13.3333px;\">When you are on your mission, make sure that the prescribed runway partition will be present at all time. Go through all the steps by tapping the icon and learn how to land, take off and exit/enter terminal in this html5 game! Remember you will obtain the scores every time when you do the successful takeoff. Try to be extra careful while making an aircraft as plenty of obstacles will be there to stop you!</span></div><div><span style=\"font-size: 13.3333px;\">Avoid making your plane take off, dock and land on the same runaway simultaneously! In this skill-based parking game, you can choose the one between the two terminals and each terminal includes several gates to use. Focus on running each terminal as safely and securely as possible! Try to land your planes, drop off all the passengers and take off them without hurting to anyone else available on the airport! Do as many take off as you can to finish the game with highest score!</span></div>",
+      "size": 1024,
+      "height": 768,
+      "script": "https://gamegirl.co/game/airport-rush/index.html",
+      "metaTitle": "Airport Rush,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Airport Rush at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Airport Rush Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546118979.xml",
+      "idealFor": "Man",
+      "likes": 156,
+      "dislikes": 46,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 54332,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2025-03-28T15:32:13.440Z",
+      "__v": 0,
+      "mobileControlKeys": "CONTROL CLEARS AIRCRAFT FOR TAKEOFF VLANDING,ENSURING THAT PRESCRIBED RUNWAY SEPARATION WILL EXIST AT ALL TIMES",
+      "webControlKeys": "CONTROL CLEARS AIRCRAFT FOR TAKEOFF VLANDING,ENSURING THAT PRESCRIBED RUNWAY SEPARATION WILL EXIST AT ALL TIMES"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
