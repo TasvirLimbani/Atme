@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2a8",
+      "id": 6099,
+      "name": "Venom Zombie Shooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "venom-zombie-shooter",
+      "image": "6099",
+      "url": "venom-zombie-shooter",
+      "description": "Venom Zombie Shooter features: - multiple missions - good graphics\r\n",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/65f0fc40b56440818f0af99359eadd48/\r\n",
+      "metaTitle": "Venom Zombie Shooter, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Venom Zombie Shooter at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Venom Zombie Shooter Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442796.xml",
+      "idealFor": "Man",
+      "likes": 31,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8355,
+      "ownGame": false,
+      "addDate": "2019-09-26T01:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-01-12T18:49:53.841Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D TO SCROLL,MOUSE WHEEL-CHANGE THE WEAPON, R-RELOAD,LEFT CLICK TO HIT,RIGHT CLICK-ZOOMIN/OUT, L-ALT-PAUSE,C- UP/DOWN"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
