@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf91",
+      "id": 5153,
+      "name": "EG Master Archer",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "eg-master-archer",
+      "image": "5153",
+      "url": "eg-master-archer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Not every platform is designed to entertain you in a way you are supposed to. We have brought to you a brand new action-packed challenge where you can practice your archery skills on one hand, while it also brings you more fun and entertainment possibilities on the other hand. Grab your bow and get ready to play the role of a bowman in EG Master Archer game! Your good command over the bow and arrows will definitely guide you well towards the most deserving victory.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Click the start button and choose between the AI-controlled archer and birds hunting. In the birds hunting mode, you will have to shoot birds that appear from both sides of the screen. The more you shoot flying birds, the higher score you will be able to make in this one of the best shooting games for kids. You have to compete against the AI-controlled archer in the second mode. Your victory will depend on how carefully you select an angle for your shot. Make sure to give your shot enough power to reach it to your rival.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">On the top left corner of the screen, you can check the status of your health, while the top right corner of the screen will show you the health status of your opponent. Once you release your shot, your AI opponent will repeat the same thing in his reply. Keep shooting him until he would die in this cool html5 archery game! Try to kill him as fast as possible to win and bring the trophy to your home! Good luck to check out more arrow and bow games on our free game website to keep you busy throughout the day without download games!!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/012684a5f3b44eaf98e1e306777a7fe4/\n",
+      "metaTitle": "EG Master Archer, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EG Master Archer at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "EG Master Archer Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545705.xml",
+      "idealFor": "All",
+      "likes": 14,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9527,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2024-07-22T03:58:01.866Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS AND HOLD TO THE DIRECTION RELESE TO SHOOT THE ARROW"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
