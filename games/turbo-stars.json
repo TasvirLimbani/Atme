@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad63",
+  "category_name": "skating",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad63",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c34b",
+      "id": 6301,
+      "name": "Turbo Stars",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "turbo-stars",
+      "image": "6301",
+      "url": "turbo-stars",
+      "description": "<div>Turbo Stars should be your first choice if you are a skateboard game enthusiast! The realistic graphics, easy controls and seamless gameplay of this brand new sports game ensure you to get an amazing and coolest skateboarding experience. Choose your skateboard and get ready to skate through the complicated acceleration zones!&nbsp; Do not hesitate and try to slide on the screen through mouse or tap the screen to perform more stunts.&nbsp; Hurry up! Your opponents are waiting for you on the track.</div><div><br></div><div>It requires expertise to do deadly stunts and skating at a super speed so try to be extra careful all the time. Your path is not clear as multiple obstacles like boxes and other ones will also try to stop you from moving forward. Even a single hitting can cause lose your game immediately. Race on your skate wisely and compete with other pro rivals in awesome tracks! Remember more players you beat the higher score you will make.</div><div><br></div><div>Use the ramps to make your character jumps and cover some good distances shortly in this one of the best skating games for boys! You can also unlock new characters with the help of points you earn along the way. Do not forget to avoid the obstacles and retarders during the race. Drive over the speed boost if you see it along the way to get an advantage further! Good luck to beat all your opponents and become the best skater in your group!</div>",
+      "size": 1150,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/a8252d3025d747419c4054866f6bbb4e/\r\n",
+      "metaTitle": "Turbo Stars Game, Skating - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Turbo Stars at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Turbo Stars Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579522680.xml",
+      "idealFor": "Man",
+      "likes": 79,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 18395,
+      "ownGame": false,
+      "addDate": "2020-01-20T17:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-01-29T12:10:05.875Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "HOLD THE LEFT CLICK OG MOUSE TO CONTROL"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 19
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad63",
+      "name": "skating",
+      "slug": "skating",
+      "icon": "skating-games"
+    }
+  }
+}
