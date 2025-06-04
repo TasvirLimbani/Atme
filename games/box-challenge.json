@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd97",
+      "id": 4639,
+      "name": "Box Challenge",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "box-challenge",
+      "image": "4639",
+      "url": "box-challenge",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Like many other people, you love playing puzzle challenges to train your mind and improve your logical abilities. Here we have come up with a brand new arcade challenge where you can have fun and enhance your brain power together. So, what are you waiting for friends? Join Box Challenge game and get ready to develop your mind and strategy skills in a single fun environment! Tap and hold the screen to make your character grow and release it to drop!</span></div><div><span style=\"font-size: 13.3333px;\">Keep the size of the square in your eyes and make the figure that you see at the top of the screen grow accordingly in this html5 puzzle game! Make sure that the box will fit into the space available at the bottom of the screen. Avoid falling it through the ground otherwise you will lose the game! There are multiple levels to play online in this cute skill game. Paying attention to the details and applying your logical abilities will help clear all levels!</span></div><div><span style=\"font-size: 13.3333px;\">No need to bother in case if you fail in fixing your box in an area at the bottom of screen! Only a few attempts will help you learn how to deal with this simple gameplay and later allow you to become the master of this cool puzzle mobile game challenge. The color of the background will keep changing to keep you glued to the screen. Play free puzzle changes in mobile phones, desktops, tablets and iPads or iPhones and have fun with your friends, no download required on atmegame.com!</span></div><div><br></div>",
+      "size": 640,
+      "height": 960,
+      "script": "\nhttps://html5.gamedistribution.com/b35a80d36f7145598bdcd0169e7835d5/\n",
+      "metaTitle": "Box Challenge, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Box Challenge at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Box Challenge Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7020,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-03-11T18:48:41.511Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP AND HOLD TO GROW RELESE TO DRAW",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO GROW AND RELESE TO DRAW"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
