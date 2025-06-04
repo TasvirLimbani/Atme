@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c24e",
+      "id": 5983,
+      "name": "Spaceship Jigsaw",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "spaceship-jigsaw",
+      "image": "5983",
+      "url": "spaceship-jigsaw",
+      "description": "<div>This time we have made a plan to introduce you to something that is more challenging and interactive that you have ever played on our website. We are sure that you are not going to forget the fun and thrill provided by this brand new free online for the long time. Play this best arcade game alone or invite your friends to give yourself a leisurely experience! Your job in this fun online puzzle game is to drag the pieces into the appropriate position with the help of mouse.&nbsp;</div><div>This jigsaw game will provide you with a wonderful opportunity to keep your brain sharp and take you to a more rewarding and relaxing environment. Buy any of the following pictures by spending $1000. Each picture will have 4 modes to explore. Easy, Medium, Hard and Expert are the four modes in this game. The hardest mode will surely be able to help you earn more money that you have earned in the easiest one. There are total 10 pictures. Make sure to keep your eyes on the time since you will lose your game if you fail in accomplishing the game timely.&nbsp;</div><div>In this cool HTML5 game, you will also be able to disable the time in the event of not wanting to play the game with time. You can play this free online spaceship game with the help of mouse. Check out more jigsaw puzzle games on our website and explore the fun to the extreme level for free! You can also visit our top games page if you are looking forward to enjoy a more immersive experience. Good luck to sort out all the puzzles and have a blast here</div>",
+      "size": 960,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/bb1a57d6518f46c4a132444355d2bba3/\r\n",
+      "metaTitle": "Spaceship Jigsaw,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Spaceship Jigsaw at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Spaceship Jigsaw Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762742.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9525,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.757Z",
+      "updatedAt": "2024-03-19T08:04:44.548Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP  TO JOIN THE PUZZLE OF PICTURE",
+      "webControlKeys": "LEFT CLICK TO JOIN THE PUZZLE OF PICTURE"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
