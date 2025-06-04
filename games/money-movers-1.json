@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4ee",
+      "id": 2278,
+      "name": "Money Movers 1",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "money-movers-1",
+      "image": "2278",
+      "url": "money-movers-1",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The two most dangerous criminals of the city need your help to escape a heavily protected prison. Do you like to guide these courageous and resourceful inmates? If yes, join Money Movers 1 and be prepared to help them escape from their prison cell. It sounds easy, but very difficult to master friends. People have considered it the most secure prison of the city. But, these brothers have already decided to take this challenge. Guide them to escape and enjoy their freedom like before in this brand new adventure game!</span></div><div><span style=\"font-size: 13.3333px;\">Security of the prison cell is very tight so you need to take every possible effort to keep your characters away from being caught. There are 20 unique and addictive levels in which you have to control both the characters. Pull levers, push buttons, move and thro objects and everything that you can to help them overcome multiple types of obstacles in this HTML5 platform game! Do not forget to run away from the other perilous denizens of the prison.</span></div><div><span style=\"font-size: 13.3333px;\">Many other dangerous guards and inmates are also waiting for you in the advanced levels. The body figure of these two criminal brothers is pretty different from each other. One is good in height, while the other one has a small built. Throwing objects is the speciality of the big brother, but his speed and agility is pretty slow. While the small one runs fast and is capable enough to pass through narrow passages. Collect as much money bags as you can to unlock the bonus level!&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/c035e676ef654227b1537dabbf194e00/\r\n",
+      "metaTitle": "Money Movers 1 Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Money Movers 1 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Money Movers 1 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 33,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11825,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2025-04-18T14:38:35.745Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICON TO DOWN/CHANGE/JUMP, L ICON TO MOVE L-R",
+      "webControlKeys": "W,A,S,D/ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
