@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3dc",
+      "id": 6474,
+      "name": "Jump Boy Jump",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "jump-boy-jump",
+      "image": "6474",
+      "url": "jump-boy-jump",
+      "description": "<div>This cute and little boy has decided to go on a unique adventure over a platform that is full of deadly obstacles. He is very small so does not know how to run over a track that includes the platforms a distance. Make sure that your character does not fall in a gap between the two platforms. Guide your character to run as far as possible by jumping over the multiple obstacles in this brand new adventure game! It looks simple to play, but is difficult to become a master.</div><div><br></div><div>Try to time his jump perfectly while avoiding the spikes and other dangers on his path! It will be you who will also have to grab the coins along the path in this HTML5 platform game. Test your reflexes and use your intense jumping abilities to create your best score! Your boy can only survive if you have the ability to avoid spikes, drops and other dangerous hindrances. Practice your quick reaction skills to help your boy survive for as long as possible!</div><div><br></div><div>Track your score by looking at the top left corner of the screen! Click the middle portion of the screen to begin your adventure with your boy! He trusts on your skills so keep playing until you create your best new score and top the leaderboards. Our website is full of free adventure games for boys that you can play anytime anywhere in your gaming device. These online games are playable on different latest browsers and can be accessed without download.</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/9c542c16439d4703862b7f1128c92904/\r\n",
+      "metaTitle": "Jump Boy Jump Game, Platform - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Jump Boy Jump at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Jump Boy Jump Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842581.xml",
+      "idealFor": "Man",
+      "likes": 124,
+      "dislikes": 30,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 27985,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-04-21T12:30:41.130Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO JUMP",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 15
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
