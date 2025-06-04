@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad68",
+  "category_name": "pool",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad68",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b487",
+      "id": 2170,
+      "name": "Rackem 8 Ball Pool",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "rackem-8-ball-pool",
+      "image": "2170",
+      "url": "rackem-8-ball-pool",
+      "description": "Try to defeat an online opponent or friend in Rack Em a fun 8 ball pool style game.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/d61c88c16bf14a1c8c33ad6777add4e1/\r\n",
+      "metaTitle": "Rackem 8 Ball Pool, Pool Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Rackem 8 Ball Pool at atmegame.com ! We have selected this pool games for best excitement and thrill in you!",
+      "metaKeyword": "Rackem 8 Ball Pool Game, Action Games, pool Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1522756682.xml",
+      "idealFor": "Man",
+      "likes": 53,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 22193,
+      "ownGame": false,
+      "addDate": "2018-04-03T17:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.704Z",
+      "updatedAt": "2025-05-17T17:29:56.810Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT LOADING"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad68",
+      "name": "pool",
+      "slug": "pool",
+      "icon": "Pool-games"
+    }
+  }
+}
