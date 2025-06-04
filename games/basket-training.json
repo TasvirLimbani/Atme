@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be54",
+      "id": 4830,
+      "name": "Basket Training",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "basket-training",
+      "image": "4830",
+      "url": "basket-training",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you want to practice some hard moves in a sports basketball simulator? Is your hobby to shoot your basketball into basket during your free hours? Join Basket Training game and be prepared to score as much goals as you can in the limited time! The good news is that you would have multiple baskets with different scores to play with. You can shoot on those three lovely hoops you see on the screen with a corresponding score.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your points will be double with your every successful effort in this brand new basketball game. The higher points you will earn during the gameplay, the top position you will secure on the leaderboard. So, remember every shot you play matters as you would have only a limited time to explore your basketball skill. Wait for the right moment before throwing the ball towards the hoops! Do your best to make it pass through the basket to collect the points!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Trying out this html5 basketball simulator will teach you how to throw the ball at the right moment! Keep your eyes on the time-bar at the top of the screen and score as many goals as you can before the time runs out! When your time is over, you can see your present score on your screen. Play some more funny and interesting free sports on atmegame.com that ensure you have more entertainment, no download required! All the best to have a blast every time you come on your website!</span></div><div><br></div>",
+      "size": 640,
+      "height": 960,
+      "script": "https://m.shtoss.com/game/basket-training/index.html\r\n",
+      "metaTitle": "Basket Training, Basketball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Basket Training at atmegame.com ! We have selected this Basketball games for best excitement and thrill in you!",
+      "metaKeyword": "Basket Training Game, Sports Games, Basketball Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546117752.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9129,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.742Z",
+      "updatedAt": "2025-02-21T20:56:09.418Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO JUMP THE GOLE",
+      "webControlKeys": "L CLICK OF MOUSE TO JUMP THE BALL"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
