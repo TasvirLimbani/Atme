@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb6c",
+      "id": 4078,
+      "name": "Slime Rush TD",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "slime-rush-td",
+      "image": "4078",
+      "url": "slime-rush-td",
+      "description": "<div>We know that you are an adventurer seeker and looking forward to try new things every day. In order to take care of your gaming needs, we have got you covered with a brand new adventure challenge where you see a large number of slime monsters marching toward the kingdom. Join Slime Rush TD and be prepared to use your best strategy to defend the gateway! Common friends! You are an ultimate fighter who knows how to protect the kingdom at all costs.</div><div><br></div><div>Use your ultimate fighting abilities to defend your base against this unknown invading slime that is full of obstacles! Take your enemies seriously and try to place your towers strategically and collect coins that you see on your way! Wow! These coins can be useful in keeping the pesky slime from stomping your base to the bottom that is the ultimate ground. The best part is that you would have different colored slime characters to choose from. Place towers by clicking or tapping the screen!</div><div><br></div><div>A wonderful combination of towers can be used to craft your perfect defense in this HTML5 war game. Keep your eyes on the screen to eliminate every slime that comes on your way! Select your level, go through the tutorial and then click the next button! There are 12 unique and challenging levels to play through and you would have 10 lives to use. Good luck to play games online and have a blast without download!</div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/903f90691509442587dcf0be3a65f50f/\r\n",
+      "metaTitle": "Slime Rush TD, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Slime Rush TD at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Slime Rush TD Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8692,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-08-02T19:49:46.142Z",
+      "__v": 0,
+      "mobileControlKeys": "TPA ON NSCREEN TO CREATE THYE TOWER TO KILL THE ENEMY",
+      "webControlKeys": "L CLICK OF MOUSE TO CREATE THE TOWER TO KILL THE ENEMY"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
