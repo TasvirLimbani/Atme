@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad75",
+  "category_name": "bicycle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad75",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b232",
+      "id": 1490,
+      "name": "Stick BMX Madness",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "stick-bmx-madness",
+      "image": "1490",
+      "url": "stick-bmx-madness",
+      "description": "<div>Make the audience crowd by successfully combining several fabulous tricks on your favorite BMX cycle in this brand new racing game for boys! The only way for earning bonus is to perform these tricks in succession. Try not to fall from your bicycle while riding it otherwise your points will be decreased in this free online bicycle game! Go airborne with the space key and get ready to perform aerial stunts in Stick BMX Madness! This easy-to-play cycle game will help entertain players from all age groups.&nbsp;</div><div><br></div><div>Use the upward arrow key to pedal your vehicle, downward to brake, left arrow key to lean back and right arrow key to lean forwards. Make sure to apply Z to turn around, P to pause, X to recover from the fall. You can also lean back while riding your bike to speed it up. Collect green diamonds to increase your points and red diamonds to end a level. Follow the arrows leaning on the left side to find out the hammer in this wonderful stunt game for boys!</div><div><br></div><div>In this free online BMX bike game, there are five levels to be explored for the players. With 50 lives, you need to show off some death-defying tricks to reach to your destination and achieve the goal of the game. Go through the instructions mentioned in the Help to know the controls of the game! Our top game website features many more BMX bike games that will keep you engrossed for hours. Good luck to rock and score high points in this free bicycle game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=dea04b91baa647f183c9905a58a63806\r\n",
+      "metaTitle": "Stick BMX Madness, Cycle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stick BMX Madness at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stick BMX Madness Game, Action Games, Cycle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517899654.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8965,
+      "ownGame": false,
+      "addDate": "2018-02-06T12:17:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.690Z",
+      "updatedAt": "2023-06-02T21:57:24.212Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad75",
+      "name": "bicycle",
+      "slug": "bicycle",
+      "icon": "bicycle-racing-games"
+    }
+  }
+}
