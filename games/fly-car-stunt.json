@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c150",
+      "id": 5634,
+      "name": "Fly Car Stunt",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "fly-car-stunt",
+      "image": "5634",
+      "url": "fly-car-stunt",
+      "description": "<div><span style=\"font-size: 13.3333px;\">A much awaited adventure has just reached you! Have you still not tried it out? Join Fly Car Stunt and get ready to drive a car on a track that is full of difficulties! Here in this brand new racing game, you and your friend have to control a car on the contains which are hanged on in the sky. Play alone in a single player mode and try to reach the finish line without dropping! Feel free to click the two player game mode and allow yourself a chance to compete against your friend!</span></div><div><span style=\"font-size: 13.3333px;\">Avoid wasting your time as many more exciting races await you here in this free online car game! Remember you will lose the game immediately if your car falls off the platform. Try to control the speed of your vehicle and drive it safely until it can reach to the destination! There is enough gap between the two contains at several places. Hence, be careful when you control your car to make a jump in this 2-player car driving game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this cool HTML5 game is to reach the finish line first. And, we are pretty sure that you will have the skills to achieve the goal of the game. Do not need to feel embarrassed if you fall off as you can restart it all over again! Apply the best possible driving tactics on the road to leave your opponent behind! The surface is uneven at several spots. Make sure to make a proper jump from container to container. Check out our full range of online car driving games for free!</span></div>",
+      "size": 895,
+      "height": 560,
+      "script": "https://html5.gamedistribution.com/75c855a34de34be58c585c5bc233ca86/\r\n",
+      "metaTitle": "Fly Car Stunt,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Fly Car Stunt at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Fly Car Stunt Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1555400796.xml",
+      "idealFor": "Man",
+      "likes": 57,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 14611,
+      "ownGame": false,
+      "addDate": "2019-04-16T13:16:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.753Z",
+      "updatedAt": "2024-07-21T13:57:21.579Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L-R ARROWS TO DIRECTION,UP ARROW-SPEED, DOWN- BACK,SPACE-BREAK,L ALT-PAUSE"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
