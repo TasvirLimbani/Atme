@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4a9",
+      "id": 2204,
+      "name": "Epic Robot Tournament",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "epic-robot-tournament",
+      "image": "2204",
+      "url": "epic-robot-tournament",
+      "description": "Assemble Robots and fight in The Most Epic Tournament. Destroy all your enemies. There can be only One.\r\n",
+      "size": 1120,
+      "height": 700,
+      "script": "https://html5.GameDistribution.com/c15e66acc1be463c96b377500cebc9e1/\r\n",
+      "metaTitle": "Epic Robot Tournament, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Epic Robot Tournament at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Epic Robot Tournament Game, Action Games, shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1523600544.xml",
+      "idealFor": "Man",
+      "likes": 131,
+      "dislikes": 28,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 24549,
+      "ownGame": false,
+      "addDate": "2018-04-13T11:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2025-02-08T22:07:28.740Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO COMPLETE THE ROBOT",
+      "webControlKeys": "SWIPE TO JOIN THE PIECES TO COMPLETE THE ROBOT"
+    },
+    "rating": {
+      "rating": "2.5",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
