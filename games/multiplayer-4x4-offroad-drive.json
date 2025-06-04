@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c30b",
+      "id": 6206,
+      "name": "Multiplayer 4x4 offroad drive",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "multiplayer-4x4-offroad-drive",
+      "image": "6206",
+      "url": "multiplayer-4x4-offroad-drive",
+      "description": "<div>Today we are living in a hectic and busy world where gaming seems to be the best way to release our tension. That is why we have got you covered with a brand new racing challenge where every moment brings you unlimited fun and entertainment. Are you ready to get into such a fun-filled environment? If yes, join Multiplayer 4x4 Offroad Drive and be prepared to ride the exclusively-designed car models on the difficult racing tracks. Select one of the two modes in this awesome 3D driving simulator!</div><div><br></div><div>There are multiple advanced 4x4 Jeeps to choose from. Make sure to put your fingers on the keys to perform some really jaw-dropping missions successfully. Decide whether you want to play alone or enjoy with your friends in multiplayer mode! It will be really fabulous to challenge other crazy drivers as well. When you get into the checkpoints mode, you have to collect checkpoints as many as you can before your time expires. You have only 60 seconds to complete your task.</div><div><br></div><div>Try to grab as much money as you can to buy new jeep models before appearing the advanced models in this HTML5 car game! Track how much money you have grabbed so far by looking at the top right corner of the screen! Your present score will be shown on the top middle portion of the screen. You can leave room anytime and join this cool driving simulator again at your own convenience.</div>",
+      "size": 960,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/36f1141a5d244a5db6603dc55850e27d/\r\n",
+      "metaTitle": "Multiplayer 4x4 offroad drive Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Multiplayer 4x4 offroad drive at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Multiplayer 4x4 offroad drive Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1577255306.xml",
+      "idealFor": "Man",
+      "likes": 40,
+      "dislikes": 11,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 9002,
+      "ownGame": false,
+      "addDate": "2019-12-25T11:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2025-02-04T18:42:02.041Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D AND ALL AAROWS TO DIRECTION CONTROL, SPACE TO BREAK"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
