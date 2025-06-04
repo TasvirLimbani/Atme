@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd3b",
+      "id": 4547,
+      "name": "Smiley IO",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "smiley-io",
+      "image": "4547",
+      "url": "smiley-io",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Hey friends! Are you a smiley lover like others? Does the enrollment in any game featuring smiley excite you amazingly? If yes, playing Smiley IO game can be a right choice for you. This brand new arcade challenge is perfect for players of all ages so it can help you kill your boring hours no matter which age group you belong to. When you click the play button, you would spot a smiley snake. Your job is to control it with the help of the map available in the game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Put your fingers on your mouse on PC or tap the screen on mobile phone to survive long in this html5 puzzle challenge! Be careful and try to be attentive all the time to absorb all the energy points available on the map to make your snake stronger than before! Keep your eyes on the screen and try to avoid hitting any of your enemies to save the life of your snake! You would lose your game as soon as you hit with any of the enemies shown on the screen.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Be prepared to compete against other players who will give their best to challenge your abilities in this avoiding mobile game! React fast and try to think quickly before any tragedy takes place! You begin the fun with a little snake and very soon your size becomes bigger when you absorb other smaller cells around the map. Feel free to absorb anything that has a smaller size than your snake! Good luck to try out more snake skill games for free on atmegame.com and have fun without download!</span></div><div><br></div>",
+      "size": 850,
+      "height": 480,
+      "script": "\nhttps://html5.gamedistribution.com/8efe8ee3c0414dc2b4c293dbb188cacd/\n",
+      "metaTitle": "Smiley IO, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Smiley IO at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Smiley IO Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7953,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2023-06-26T17:26:06.656Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS AND RELEASE ON THE L-R OF WORM TO MOVE",
+      "webControlKeys": "MOUSE TO MOVE THE WORM, L CLICK TO MOVE FAST"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
