@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b206",
+      "id": 1435,
+      "name": "Flying Turtle",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "flying-turtle",
+      "image": "1435",
+      "url": "flying-turtle",
+      "description": "<div>Have you got bored with exploring slow-moving adventure games? Do you want to surprise your fingers and challenge your brain? If so, give Turtle Flying game a try and get ready to forget the world around you. In this brand new adventure game, you will have get a chance to meet with a crazy turtle who wants to fly high in the sky. However, the job is not as easy and simple as it seems. So, it needs your help. Are you ready guys to give your helping hands to this cute turtle? Join him right away to be a part of the funniest gameplay!</div><div><br></div><div>Take the role of helping turtle to zip through the air with a backpack. Make sure to pop as many bubbles as you can when he flies. Open your mind and try to react quickly while turning left or right. Your patience and quick reaction skill will surely help you to build momentum again to fly fast. Keep improving your points by collecting bubbled objects. Make sure to collect the time bonuses to get your game going otherwise the clock will stop and your turtle will get out of the game. </div><div><br></div><div>Try to complete the mission in the time allotted, and keep your eyes on the birds and other obstacles to avoid them timely in this online skill game. The higher distance you will cover upward; the better points you will see on the scoreboard in the end of this free online flying game. Use the arrow keys or tap controls to fly back and forth if your turtle stops due to any obstacle. Check out our free online game website without any worry to find some more interesting and engaging adventure games for boys! </div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/991aee9513074ee1b43565972207c42e/\r\n",
+      "metaTitle": "Flying Turtle, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Flying Turtle at atmegame.com ! We have selected this flying games for best excitement and thrill in you!",
+      "metaKeyword": "Flying Turtle Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489364.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11445,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.689Z",
+      "updatedAt": "2024-05-20T03:44:18.343Z",
+      "__v": 0,
+      "mobileControlKeys": "L-R ICONS TO FLY",
+      "webControlKeys": "L-R ARROWS TO FLY"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
