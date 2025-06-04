@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfb8",
+      "id": 5193,
+      "name": "Fruit Snake",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "fruit-snake",
+      "image": "5193",
+      "url": "fruit-snake",
+      "description": "Now enjoy classical snake game in an adventurous way.\r\n",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/fruit-snake/",
+      "metaTitle": "Fruit Snake,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Fruit Snake at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Fruit Snake Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545866.xml",
+      "idealFor": "Man",
+      "likes": 151,
+      "dislikes": 10,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 51971,
+      "ownGame": true,
+      "addDate": "2019-01-15T15:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2025-05-20T06:55:51.038Z",
+      "__v": 0,
+      "mobileControlKeys": "PRESS L-R SCREEN TO CONTROL T6HE SNAKE",
+      "webControlKeys": "LEFT RIGHT ARROW TO CONTROL THE SNAKE"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 14
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
