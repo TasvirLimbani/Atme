@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad65",
+  "category_name": "hockey",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad65",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bdd2",
+      "id": 4699,
+      "name": "Air Hockey",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "air-hockey",
+      "image": "4699",
+      "url": "air-hockey",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Different players have different choices when it comes to enjoying their favorite sport activity.&nbsp; It is not surprise to spot the ones who are crazy for air hockey matches. If you are the one who enjoy watching or playing this sort of sport, Air Hockey game is just for you.&nbsp; In this brand new sports game, you will have the full control on the blue paddle. The player who would score 15 goals first will win the game. Give it a try at least once to become the hockey champion!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Remember your opponent computer player is also very quick and intelligent, so the only way to make your win over it is to put your quick reflexes to the test. Select the difficulty level and get ready to dive into the ultimate fun and entertainment offered by this free online hockey game! Make sure to hit the puck into the goal area of your opponent and show the world that nobody can beat you. Use your mouse or tap the screen to control the blue paddle!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to be fast to score 15 points first before your opponent does to wear the cap of the winner in this cool html5 skill games for boys that are free to play online, no download required! No worries in case of being bored with this highscore challenge! We on atmegame.com are known to carry an extensive collection of platformer sports games for kids and the best part is that you can have fun without paying anything to anyone. Use your desktop, mobile phone or tablet to play your favorite sport in just a few clicks!</span></div>",
+      "size": 540,
+      "height": 800,
+      "script": "https://games.atmegame.com/games/air-hockey/",
+      "metaTitle": "Air Hockey, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Air Hockey at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Air Hockey Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 204,
+      "dislikes": 10,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 66742,
+      "ownGame": true,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.740Z",
+      "updatedAt": "2024-09-06T16:12:01.747Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS THE BLUE PADDLE TO MOVE",
+      "webControlKeys": "KEEP PRESS THE BLUE PADDLE WITH L CLICK OF MOUSE TO MOVE"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 26
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad65",
+      "name": "hockey",
+      "slug": "hockey",
+      "icon": "hockey-games"
+    }
+  }
+}
