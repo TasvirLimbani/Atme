@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad68",
+  "category_name": "pool",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad68",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0a8",
+      "id": 5443,
+      "name": "Pocket Pool",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "pocket-pool",
+      "image": "5443",
+      "url": "pocket-pool",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you the pool game lovers? Is it your hobby to check out online billiard games when you have some spare time? The good news is that you have come on the right place. We have today brought to you a brand new cool billiard game “Pocket Pool”. Your objective in this free pool game is to sink the ball. Make sure to pay attention to details and check out the major rules and instructions to perform best in the end. Let us see how many balls as you pass through the holes.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">We know that you have the skills to send only the right balls rolling into the holes. Use the cue to knock the white ball into other balls that you see on the table! Apply your physics and billiard skill to make as many balls as possible tumble into one of the four pockets that you see at the corners of the pool table. Remember you also have two other pockets right in the middle of the rails to use. Your color: solids or stipes will be decided on the basis of the first ball you shoot into a pocket.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Try to make the white ball available on the table hit your own colors on the priority basis! Make sure to bring the cue into position by rotating it perfectly. Move ahead to set the strength of your shot with the help of power bar that you see on the left side of the screen! Do not delay anymore as you will have the time limit and lose your turn. The beautiful minimalist graphics combined with the seamless gameplay and easy controls will keep you busy for long. Compete for the best score with no install anymore! Check out more online games on atmegame.com without app download!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/8126606cd612461389e1d89753ff03c5/\r\n",
+      "metaTitle": "Pocket Pool,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pocket Pool at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Pocket Pool Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 99,
+      "dislikes": 16,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 26173,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-04-21T18:24:06.503Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO SELECT THE DIRECTION,L ICON  TO HIT THYE BALL ",
+      "webControlKeys": "KEEP PRESS L CLIK OF MOUSE TO SELCT THE DIRECTION, HOLD AND RELESE THE L ICON STICK TO CONTROL THE FORCE AND RELESE TO HIT"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad68",
+      "name": "pool",
+      "slug": "pool",
+      "icon": "Pool-games"
+    }
+  }
+}
