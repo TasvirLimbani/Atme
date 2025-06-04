@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4e6",
+      "id": 2270,
+      "name": "galxia",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "galxia",
+      "image": "2270",
+      "url": "galxia",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The real war in space has just begun! Many deadly aliens and other dangerous enemies have invaded your area and will try to capture it. Now you as a space fighter do not have any other option rather than fighting with them. Would you be able to operate the hi-tech space ship in this cool brand new adventure game? Join Galaxia and be prepared to shoot down all of the invading enemies along with other obstacles available in the space!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Put your war skills to the test to delay your unavoidable defeat against the endless horde of enemy space crafts! The gameplay of this HTML5 war game is relatively simple and easy to understand. Take control of a spaceship that is launched right at the bottom of the screen! When you enter the space field, you would see some space craft enemies shooting towards your space craft in the sky. You have to shoot down all of them before they attack you.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Use missiles, and bullets to destroy all of your enemies and obstacles that you see along the way! Do not forget to use the shield to protect your spacecraft against the enemy attacks. Avoid other obstacles to cover the long distance! You can also click the auto shooting button to keep your spacecraft shooting at your enemies automatically. Track your power by looking at the top left corner of the screen while the middle portion of the screen will show your present score!&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/1d8a6dffad9a4be2807775f80244c28b/\r\n",
+      "metaTitle": "galxia, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game galxia at atmegame.com ! We have selected this War games for best excitement and thrill in you!",
+      "metaKeyword": "galxia Game, Action Games, War Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8704,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-08-30T21:53:58.898Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SHIP TO MOVE, USE ICONS TO ATTACK",
+      "webControlKeys": "ALL ARROWS/W,A,S,D TO MOVE, SPACE TO SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
