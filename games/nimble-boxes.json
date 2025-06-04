@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4e7",
+      "id": 2271,
+      "name": "Nimble Boxes",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "nimble-boxes",
+      "image": "2271",
+      "url": "nimble-boxes",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The highly addictive and challenging adventure game awaits you. Do you think that it is a right time to give it a try during your spare time? If yes, Nimble Boxes is the best thing to try online for free. Your objective in this brand new adventure game is to control the little and cute Nimble Box that wants to jump around the falling platforms. Make sure to keep it away from the dangerous traps and deadly dangers.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You also have to take care of avoiding all of the obstacles while keeping your eyes on the screen for long. The farther you go and how fast you can complete your task will decide your final score in this fun platform game. Your quick reflexes and excellent hand-eye coordination skills will help to achieve your goal perfectly. Do everything that you can do ranging from jumping to collecting and unlocking to set your own records in this HTML5 platform game!</span></div><div><span style=\"font-size: 13.3333px;\">This box is very small and does not know how to move forward so it has come to you for help. Now it is your responsibility to guide the box to accomplish its objective fast. Our website is full of meaningful and entertaining adventure challenges that are playable on multiple devices without download. This fun cool platformer has the ability to keep you engrossed for hours, even for days when you are looking forward to beat your boredom.&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/3f867ffb610742fdb88dabb507f6e486/\r\n",
+      "metaTitle": "Nimble Boxes, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Nimble Boxes at atmegame.com ! We have selected this platform games for best excitement and thrill in you!",
+      "metaKeyword": "Nimble Boxes Game, Action Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7964,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-03-20T19:41:58.837Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT WORKING"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
