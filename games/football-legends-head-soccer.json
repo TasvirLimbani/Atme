@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb8a",
+      "id": 4109,
+      "name": "Football Legends Head Soccer",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "football-legends-head-soccer",
+      "image": "4109",
+      "url": "football-legends-head-soccer",
+      "description": "<div>It is always an honor to play with football legends who have already won some big awards for their countries! Today we have got you covered with a brand new sports game where you get a chance to enjoy a crossover between soccer and volleyball. Join Football Legends Head Soccer and be prepared to make the ball bounce on your head to keep it in the air and send it on the other side of the net to score against your opponent! Try not to ball fall onto your side of the net!</div><div><br></div><div>Practice your strong soccer ball-handling abilities to outplay your rival and make him drop the ball to create some points for you! There are multiple rounds to play through so try to win each round this leading soccer tournament. Select your player out of multiple options including Ronaldinho, Ronaldo, Muhammed Salah or Lionel Messi in this HTML5 soccer game! Once you select the player, make sure to handle your soccer ball with your head perfectly. Reshape your game strategy by tracking your live score!</div><div><br></div><div>Let your player move on the court with the help of arrow keys and try to make him jump using the space bar in this cool football game. Try to score as many balls as you can with the help of your head and the entire court wisely within 90 minutes! Win over all your opponents to prove yourself as a true soccer player! Good luck to challenge some other popular soccer legends in some other top liked free football games and have fun alone or with your friends without download!</div>",
+      "size": 850,
+      "height": 520,
+      "script": "https://html5.gamedistribution.com/c73b3d7b259e47c2acddcdbbddf2090f/\r\n",
+      "metaTitle": "Football Legends Head Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Football Legends Head Soccer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Football Legends Head Soccer Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 29,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12579,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-08-01T04:55:18.977Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "SPACE- HIT THE BALL, L-R ARROWTO MOVE"
+    },
+    "rating": {
+      "rating": "3.1",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
