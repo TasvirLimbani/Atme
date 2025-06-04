@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbb1",
+      "id": 4150,
+      "name": "Pong vs Bumpers",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "pong-vs-bumpers",
+      "image": "4150",
+      "url": "pong-vs-bumpers",
+      "description": "<div>It is time to try out something really challenging and relax your mind like never before! We have got you covered with a brand new arcade game in which you have to control a ball that needs your help in breaking the colored panels. Do you want to give it a try and challenge your intense puzzle-solving abilities? Join Pong vs Bumpers and be prepared to play the most relaxing and entertaining puzzle challenge you have ever tried!</div><div><br></div><div>The task is pretty simple and controls are also very easy to take care of. Use the paddle to control a ball and break all of the colored panels in each level! Your objective is to make all the red balls that you see on the screen turn into the green color to win. The movement of your paddle can be controlled with the help of arrow keys. Try to be very quick in judging the path of the ball as fast as you can!</div><div><br></div><div>Guide your paddle and ball through levels and try to complete each level with the highest score possible in this HTML5 puzzle game! Score points by bumping the balls to the other side of the screen with the limited moves! Use the left and right keys to move the paddle and L to restart, A to mute video and X to play expert mode! With different rounds, simple controls and seamless gameplay, this free arcade challenge offers a great amount of fun.</div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/415161d75b6c432cb0bfba0e37106f27/\r\n",
+      "metaTitle": "Pong vs Bumpers Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pong vs Bumpers at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Pong vs Bumpers Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226795.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6940,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:36:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-02-05T12:55:50.131Z",
+      "__v": 0,
+      "mobileControlKeys": "CONTROLS NOT WORKING",
+      "webControlKeys": "L-R TO HIT THYE BALL"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
