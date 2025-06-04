@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad66",
+  "category_name": "tennis",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad66",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b16e",
+      "id": 1259,
+      "name": "Puppet Tennis",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "puppet-tennis",
+      "image": "1259",
+      "url": "puppet-tennis",
+      "description": "<div>The most in-demand puppets are back once again. They are ready to set their own record after setting a benchmark in soccer and ice hockey. Feel free to enter into this brand new tennis game and get ready to serve and make volley, return and aces. Play with the yellow stars in Puppet Tennis to wear a crown of being a real tennis legend! Show off your unmatched tennis skills to lead your player to the glorious victory in this free online sports for boys!</div><div><br></div><div>The globally recognized Puppet ATP World Tennis Tour is on its way and your favourite little puppet player have got a chance to play in the final rounds. Call your ranking opponent to play singles head-to-head and give yourself an opportunity to be the next Novak, Raphael or Roger! Roll up your sleeves and get ready to rock with your rocket until you carry the golden cup in front of a large number of puppet fans! Common boys! Have a lot of fun in this grand tennis match!</div><div><br></div><div>The entire crowd is ready to cheer up you. Defeat your opponent, earn points and buy new skins to customize your chosen character in this miniature game of tennis. Also unlock fabulous tennis rackets and enhance their skills. Feel free to utilize the collected coins and let your train get trained to enhance his jump, power and speed. Play this one of the best sports game in either in single player or two player modes! With pretty simple mechanics and improved graphics, have a fun in a realistic tennis environment. Use the mouse to navigate and LMB to interact. Good luck kids!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=4a458dca71fe4e1199d2e9f8de4cb66f\r\n",
+      "metaTitle": "Puppet Tennis, Tennis Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Puppet Tennis at atmegame.com ! We have selected this Tennis games for best excitement and thrill in you!",
+      "metaKeyword": "Puppet Tennis Game, Sports Games, Tennis Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517222281.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 10223,
+      "ownGame": false,
+      "addDate": "2018-01-29T16:08:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.686Z",
+      "updatedAt": "2025-04-29T13:08:21.031Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad66",
+      "name": "tennis",
+      "slug": "tennis",
+      "icon": "tennis-games"
+    }
+  }
+}
