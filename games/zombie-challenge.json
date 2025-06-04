@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb4b",
+      "id": 4045,
+      "name": "Zombie Challenge",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zombie-challenge",
+      "image": "4045",
+      "url": "zombie-challenge",
+      "description": "<div>The waves of deadly zombies always come with the bad news! Today we have got you covered with a brand new action-packed challenge where you have to face off a great number of zombies who know only how to shed the blood of human beings. Are you ready friends to witness this massive zombie massacre? Join Zombie Challenge and be prepared to eliminate all the waves of undead that you see on the screen to complete each level! Shoot them before they attack you and throw out of the game!</div><div><br></div><div>Fire super-bouncy bullets to destroy these deadly zombies who have no mercy for human beings! There are 100 unique and challenging levels to play through and keep you busy for hours. Grab your gun and defeat the endless waves of evil brain-munching monsters in this HTML5 zombie game! Click and hold and you will see the crosshair will begin appearing on the screen! Make sure to release the mouse to fire your bullet timely.</div><div><br></div><div>In each level, you see the zombies moving and staying in a different position. Pick them off fast and clear the screen from these bloody souls in this awesome physics game! Try to overcome all the obstacles without losing your confidence! There are times when bullets might also bounce while dragging you into the biggest trouble. Challenge your shooting abilities and draw skills to complete each level and become a survival in this cool zombie challenge!&nbsp; Good luck to have fun without a download!</div>",
+      "size": 800,
+      "height": 550,
+      "script": "https://html5.gamedistribution.com/842815ddbe624a6cb623c68303cc0a32/\r\n",
+      "metaTitle": "Zombie Challenge, Zmobie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zombie Challenge at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Zombie Challenge Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9496,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-09-01T11:02:21.612Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L-CLICK OF MOUSE TO AIM AND SHOOT THE ZOMBIES"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
