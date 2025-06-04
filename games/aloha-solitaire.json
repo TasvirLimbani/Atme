@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba9b",
+      "id": 3860,
+      "name": "Aloha Solitaire",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "aloha-solitaire",
+      "image": "3860",
+      "url": "aloha-solitaire",
+      "description": "what could be better than playing a solitaire while you&apos;re in Hawaii? Try Aloha Solitaire and enjoy the hawaiian music&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/aloha-solitaire-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Aloha Solitaire, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Aloha Solitaire at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Aloha Solitaire Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10164,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.728Z",
+      "updatedAt": "2024-04-02T10:53:03.187Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE WORDS TO MAKE THE CORRECT WORD",
+      "webControlKeys": "L CLICK OF MOUSE TO MAKE A VALID WORD"
+    },
+    "rating": {
+      "rating": "1.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
