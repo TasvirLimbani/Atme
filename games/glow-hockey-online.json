@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad65",
+  "category_name": "hockey",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad65",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be53",
+      "id": 4829,
+      "name": "Glow Hockey Online",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "glow-hockey-online",
+      "image": "4829",
+      "url": "glow-hockey-online",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a lover of online hockey games? Do you want to check out some unique hockey challenge? Give Glow Hockey a try right away and be prepared to have the best fun and entertainment online! Your objective in this brand sports challenge is to shoot the ball and pass it through the door of your opponent. It sounds easy, but requires full of dedication and proper use of hand-eye coordination skills. Choose to play with another player or PC!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your impeccable air hockey skill will definitely guide you to win in this one of the best sports games for kids. There are four unique challenging hockey maps to explore. Every time you need to put your best efforts to make your win in the hockey battle. Take a full control on your glowing striker and try to hit the puck into the goal of your opponent! You need to score 8 points to win over the opponent. Your rival will be the winner if he scores 8 points first.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Trick your rival by using the walls wisely and focus on keeping the puck on the other side of the field! Play like a hockey champion to beat on a match in this html5 skill game! Keep practicing your skills to become unbeatable in our highly addictive and challenging sports games that are free to play online, no download required! You should not miss it out especially if you are a die-hard hockey fan.&nbsp;</span></div>",
+      "size": 720,
+      "height": 600,
+      "script": "https://m.shtoss.com/game/glow-hockey-online/index.html\r\n",
+      "metaTitle": "Glow Hockey Online,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Glow Hockey Online at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Glow Hockey Online Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546117493.xml",
+      "idealFor": "Man",
+      "likes": 77,
+      "dislikes": 10,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 22228,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.742Z",
+      "updatedAt": "2025-06-03T13:03:37.437Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS THE STRIKER AND SWIPE TO HIT THE GOLE OR SAVE",
+      "webControlKeys": "KEEP PRESS ON THE STRIKER BY L CLICK OF MOUSE AND MOVE TO GOLE OR SAVE"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad65",
+      "name": "hockey",
+      "slug": "hockey",
+      "icon": "hockey-games"
+    }
+  }
+}
