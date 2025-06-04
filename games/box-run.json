@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c39b",
+      "id": 6409,
+      "name": "Box Run",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "box-run",
+      "image": "6409",
+      "url": "box-run",
+      "description": "<div>The easiest and extremely addictive arcade challenge we have brought to give you long hours of fun! No! You do not need to waste a good amount of time to learn the gameplay of this brand new puzzle challenge. It takes only a few minutes to know what to do to stay for long. Your objective is to make sure that boxes of the same colour touch each other otherwise you will lose the game immediately. Stay in the game for as long as possible to earn extra points!</div><div><br></div><div>Remember you will lose your game in case if boxes of different colour touch each other in this HTML5 touch and hold game. Track your score by having a keen look at the top middle portion of the screen! Your quick reflexes and sharp hand-eye coordination abilities will help you to lead the best score in this cool arcade game! Create your new best score and do not forget to challenge your friends and family members!</div><div><br></div><div>When game is over, your final score will also be shown on the screen. Click the restart button to play this cute puzzle challenge again! Try it out as many times as you want without bothering about the fun part! In case if you are stuck, feel free to browse through our extensive range of free arcade games and find out another suitable online challenge for you. Good luck to create your best score and become the best arcade player of the virtual world!</div>",
+      "size": 460,
+      "height": 680,
+      "script": "https://html5.gamedistribution.com/624e5829a8924272be0b37583c8f32e3/\r\n",
+      "metaTitle": "Box Run,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Box Run at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Box Run Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842458.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11532,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2025-03-20T18:47:49.530Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP AND HOLD TO MATCH THE SAME COLOR",
+      "webControlKeys": "CLICK AND HOLD TRY TO MATCH THE SAME COLOR"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
