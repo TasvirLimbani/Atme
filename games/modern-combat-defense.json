@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b491",
+      "id": 2180,
+      "name": "Modern Combat Defense",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "modern-combat-defense",
+      "image": "2180",
+      "url": "modern-combat-defense",
+      "description": "It is time to defend your ground against the bad guys! You have to defend your base from the incoming enemies! And grow stronger in the process! Buy upgrades and new weapons to destroy the gigant enemies\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/cf5c651a6e364ba781adf849449c29fc/\r\n",
+      "metaTitle": "Modern Combat Defense, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Modern Combat Defense at atmegame.com ! We have selected this shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Modern Combat Defense Game, Action Games, shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1523600544.xml",
+      "idealFor": "Man",
+      "likes": 51,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 13970,
+      "ownGame": false,
+      "addDate": "2018-04-13T11:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.704Z",
+      "updatedAt": "2025-02-08T22:04:45.618Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON UP DOWN OF SCREEN TO MOVE",
+      "webControlKeys": "L CLICK OF MOUSE ON UP DOWN OF SCREEN TO MOVE"
+    },
+    "rating": {
+      "rating": "2.7",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
