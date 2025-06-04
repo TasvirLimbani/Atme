@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf92",
+      "id": 5154,
+      "name": "Pixel Warrior",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "pixel-warrior",
+      "image": "5154",
+      "url": "pixel-warrior",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you really want to enjoy the thrill and excitement of a shooter game? Then join Pixel Warrior and learn how to protect your life against a horde of monsters and flesh-eating zombies. This brand new action-packed challenge will take you to a wonderful pixel world that is full of deadly zombie and unexpected dangers. Your survival will only be possible if you fight like a pro and clean the area from these undeads. Be careful as these monsters are very powerful and kill you as they spot you!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your top secret military base has been penetrated by a huge group of zombies and other dangerous ghouls. You as a warrior have taken the responsibility to clean the area from these monsters in this crazy action game. Collect your sledgehammer and be prepared to complete mission as fast as you can! Use your sidearm to plug them all! It is up to you how to defend your army camp against the attacks of bad souls. There are two modes including Death Match and Army Camp.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Kill all your enemies in Death Match and get ready to defeat all deadly zombies in Army Camp in this cool html5 pixel shooter! The ultimate goal in both the modes will remain the same i.e. survive as long as possible. Choose bullets and weapons and enter the battleground like a true hero! Everytime when you are attacked by your opponent, your blood drops. Your game will be zero if it reaches zero. Try to kill your rivals using a perfect headshot to grab the maximum number of points!&nbsp; Be ready to face more than one zombie simultaneously!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Challenge your fighting skills in our other fighting games like Stellar Shooters and Heavy Combat Zombies!</span></div><div><br></div>",
+      "size": 800,
+      "height": 550,
+      "script": "\nhttps://html5.gamedistribution.com/31aa63d5b8e74fc8af0562fa909ae9df/\n",
+      "metaTitle": "Pixel Warrior, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pixel Warrior at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Pixel Warrior Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545705.xml",
+      "idealFor": "All",
+      "likes": 33,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 14597,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2024-09-25T18:47:40.430Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALLA RROWS TO MOVE,SPACE-JUMP,L CLICK-HIT"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
