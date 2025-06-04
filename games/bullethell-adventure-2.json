@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4f7",
+      "id": 2288,
+      "name": "Bullethell adventure 2",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "bullethell-adventure-2",
+      "image": "2288",
+      "url": "bullethell-adventure-2",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Your beautiful girlfriend has been kidnapped by a group of aliens and you have no option rather than fighting with them. Do not waste your time anymore, join Bullethell Adventure 2 now and get ready to show off ultimate fighting skills to complete your mission. Your journey is not going to be easy at all since you would have multiple enemies to deal with. The availability of many islands and levels will be enough to keep you engrossed for hours.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Take your seat on the back of your pet monster and gear up to have the most memorable ride in your life! Be careful as your enemies can attack you from any directions in this HTML5 shooting game! Shoot and avoid the bullets of your enemies that you see along the way! Take revenge and try every possible effort to rescue your girl! Do not forget to grab the stars and coins and use them to improve your power and upgrade your skills!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">If you hurt by the bullets or any other obstacles, then you lose your health. Play like a pro and try to go as far as possible to meet and defeat the boss! It is up to you now to save your world and girlfriend as well. Battle against the multiple waves of enemies and defeat all of them with the help of given lives! Keep grabbing coins to buy upgrades! Try out other free action-packed shooting games on atmegame.com and have fun with your friends on multiple devices, no download requires!&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/40a239b32e7248ffaabfc1805a61cfb1/\r\n",
+      "metaTitle": "Bullethell adventure 2, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bullethell adventure 2 at atmegame.com ! We have selected this shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Bullethell adventure 2 Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 12415,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-04-10T04:16:19.037Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO CONTROL",
+      "webControlKeys": "L CLICK OF MOUSE TO CONTROL"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
