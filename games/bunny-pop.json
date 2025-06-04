@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb08",
+      "id": 3977,
+      "name": "Bunny Pop",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "bunny-pop",
+      "image": "3977",
+      "url": "bunny-pop",
+      "description": "<div>Are you a lover of cute and lovely bunnies? Do bubble games make a reason to keep you engrossed for hours? Join Bunny Pop and be prepared to help a little bunny to match 3 of the same colour bubbles to remove them from the screen! You can aim your target by clicking mouse on PC or holding and sliding finger on the screen of your mobile phone. Aim your target first before shooting balls in this brand new arcade game!</div><div><br></div><div>Rules of this HTML5 puzzle challenge are pretty simple. You have to match 3 identical bubbles with same colour. Those matched bubbles will be cleared of the screen and your score will be updated on the top middle portion of the screen. Be careful and do not let the lines of bubbles touch the ground otherwise you will lose your game in this cool bubble shooter! For every successful match, you will be rewarded with some points.</div><div><br></div><div>Keep matching to boost your score and prove the world that you are the ultimate hero of match 3 games! Go through our website to browse through our wider collection of free arcade games and play your favourite titles on your devices without download! The colourful graphics, easy controls and seamless gameplay of these online games make sure that you can keep you entertained for long hours. Good luck to match as many bubbles as you can to score your new best score!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/bunny-pop-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Bunny Pop, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bunny Pop at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Bunny Pop Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8982,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-03-06T05:16:18.437Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS ON SREEN AND SWIPE TO SELECT THE DIRETION RELESE TO HIT THE BUBBLE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND SWIPE TO SELECT THE DIRETION RELESE TO HIT THE BUBBLE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
