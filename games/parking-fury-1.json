@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b51d",
+      "id": 2330,
+      "name": "Parking Fury 1",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "parking-fury-1",
+      "image": "2330",
+      "url": "parking-fury-1",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Parking vehicles in the given spot is a hard nut to crack. This job requires a professional driver and of course someone who has keen eyes on the road. Today we have got you covered with a latest racing game where you will be given a particular area to park your car. Would you like to put your hands on this extremely difficult job? If yes, join Parking Fury 1 and gear up to challenge your driving and parking abilities in a cool yet friendly environment.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Make sure not to hit anything that you see along the way otherwise you have to pay a heavy cost for your mistake. Drive your vehicle through the given area and park it perfectly to clear each level in this HTML5 parking game! Use the empty spaces in a way so that your vehicle does not collide with anything that comes on its way! Park your chosen vehicle in the given spot without getting a single scratch! Try to be as quick as you can to boost your final score!</span></div><div><span style=\"font-size: 13.3333px;\">Guide your car to park to their allocated spaces through 10 unique and addictive levels! Use the arrow keys to move your vehicle and make them reach at their designated spaces! Some other vehicles are already parked in those areas where you have to perform your parking job. The left corner of the screen will show you three stars every time when you begin a level. Each damage will cause a loss of a star. Losing of all three stars will give you a failure in the game. Good luck to try out other free car games on our website and enjoy with your friends to the maximum level best!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/919e83dbc31749e1a54787e656ce513b/\r\n",
+      "metaTitle": "Parking Fury 1, Parking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Parking Fury 1 at atmegame.com ! We have selected this parking games for best excitement and thrill in you!",
+      "metaKeyword": "Parking Fury 1 Game, Action Games, Parking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 38,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 21372,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-08-15T11:21:59.236Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT FITTING IN THE SCREEN",
+      "webControlKeys": "ALL ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
