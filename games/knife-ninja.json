@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b962",
+      "id": 3520,
+      "name": "Knife Ninja",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "knife-ninja",
+      "image": "3520",
+      "url": "knife-ninja",
+      "description": "Hit the center object 9 times to pass each level. Endless fun!\r\n",
+      "size": 450,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/153e59e13b014291807b8caae8750b2c/\r\n",
+      "metaTitle": "Knife Ninja, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Knife Ninja at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Knife Ninja Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536577197.xml",
+      "idealFor": "Man",
+      "likes": 42,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 19407,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2024-03-25T14:57:11.180Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO HIT THE KINFE",
+      "webControlKeys": "L-CLICK OF MOUSE TO HIT THE KNIFE"
+    },
+    "rating": {
+      "rating": "2.9",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
