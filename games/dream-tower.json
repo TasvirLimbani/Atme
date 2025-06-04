@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1d6",
+      "id": 1377,
+      "name": "Dream Tower",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "dream-tower",
+      "image": "1377",
+      "url": "dream-tower",
+      "description": "<div>Hey boys! Here is something special for you we have covered in this brand new adventure game! All you need is just join us and help yourself take your adventurous skills to a completely new level. The experience got from here you are not going to forget for a long time! We are talking about a brand new platform game named Dream Tower for which the entire world seems to be crazy. Give it a try to put your patience and quick reaction skill to the test!</div><div><br></div><div>In this awesome retro-style 3D platformer game, you will have to help the character to run and jump on a continuously rotating tower. Make sure to collect as many gems as you can to buy upgrades and make your game quite interesting. Be careful and try to make a jump timely on top of your enemies to avoid them and help yourself reach the destination point safely! No need to worry if the satisfactory outcome does not come in a few initial attempts since you can play it as many times as you want!</div><div><br></div><div>The controls of this cool HTML5 game are very easy and simple. You can use the left or right arrow keys to help your character to walk on the platform. Apply the up arrow button to make a jump upward and press it up twice to make a double jump! Let your character pound the ground by pressing UP and then Down in mid-air! The fun is more than you have ever experienced online with this cute online game for kids.&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=46b47dc837954733a1bc5116b7a86ebf\r\n",
+      "metaTitle": "Dream Tower, Adventure Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dream Tower at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Dream Tower Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489143.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7559,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.688Z",
+      "updatedAt": "2022-08-23T23:21:30.089Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
