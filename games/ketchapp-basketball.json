@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0a5",
+      "id": 5440,
+      "name": "Ketchapp Basketball",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "ketchapp-basketball",
+      "image": "5440",
+      "url": "ketchapp-basketball",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you want to become a basketball star? We can understand that many of you have a dream of entering the court of the basketball and getting some balls into the hoops. If you also have the same excitement and craze as many basketball lovers carry, Ketchapp Basketball can be a right choice for you. Once you enter it, you are guaranteed not to get out of it. With no hard work, you can enjoy your favorite sport from the comfort of your armchair.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Click the play button and see yourself making good goals in this awesome sports game! Aim your target at a perfect angle to pass your ball through the hoop and make a goal! You will be out of the game if you have missed even a single shot. Apply the proper strategies before releasing your ball! We are pretty sure that you have the guts to be a star of the popular Ketchapp Basketball Society. Focus on the game and make some good hoops online!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Swipe the ball properly towards the hoop to create your score! Compete against your friends in 4 modes of this cute html5 basketball game! Your good performance will help you to unlock new balls. Put your ball handing and hopping skills to test to become the master of the hoop! Be prepared to play some easy shots first and manage the moving things later! Good luck to improve your skills in our more 3D ball games online!&nbsp;</span></div>",
+      "size": 500,
+      "height": 750,
+      "script": "https://html5.gamedistribution.com/4f384b2820144c25a8a8a2f351e87a28/\r\n",
+      "metaTitle": "Ketchapp Basketball,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ketchapp Basketball at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ketchapp Basketball Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 64,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12887,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-04-21T14:59:15.841Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE UP THE SCREEN TO MAKE THE GOLE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SELECT THE DIRECTION,RELESE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
