@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0ce",
+      "id": 5483,
+      "name": "DEF Island",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "def-island",
+      "image": "5483",
+      "url": "def-island",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You are not safe in any area especially when you are financially stable. Your difficulty increases when you are on an island. Some nearby robbers have got to know about the money your island has. So, they have decided to robbed your island and leave people with empty hands. The problem is that you have the only warrior who can fight against these filthy-minded people. Grab your weapon and get ready to save your island in your own style!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You can enter this battler arena by just clicking the play button on DEF Island game. Your ultimate cannon is waiting for you. Pick up it right away to shoot your enemies and save your island in a way no body has done it before in this one of the best shooting challenges! Remember you will find many airplanes and boats continuously coming towards you. There is no need to be scared. Put your physics knowledge to test to defeat all your enemies in this action packed game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to use the circle to aim at the aeroplanes and ships you see on the screen! Be quick to predict their position and shoot the cannon to destroy them! Make sure to touch the dotted area to shoot at aircraft. Use guide to interact with game with the LMB to play game online on PC! Touch on arrows button or touch the screen to interact with game on mobile phone! Play wisely to create the best highscore in this html5 mobile game! Check out more aircraft and boat games on atmegame.com for free!</span></div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/44db596713814fc68f76a634ebdc18db/\r\n",
+      "metaTitle": "DEF Island, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game DEF Island at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "DEF Island Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449534.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10295,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2024-05-25T15:20:23.677Z",
+      "__v": 0,
+      "mobileControlKeys": "USE THE CIRCLE TO AIM AT THE SHIPS AND SHOOT THE CANNO, TOUCH WITHEN THE DOTTED AREA TO SHOOT AT AIRCRAFT",
+      "webControlKeys": "KEEP LEFT CLICK HOLD TO SELECT THE DIRECTION, RELESE TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
