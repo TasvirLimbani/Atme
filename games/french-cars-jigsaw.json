@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1ef",
+      "id": 5825,
+      "name": "French Cars Jigsaw",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "french-cars-jigsaw",
+      "image": "5825",
+      "url": "french-cars-jigsaw",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a fan of jigsaw puzzles? If your reply is yes, it’s wise to keep you occupied in this brand new arcade game named French Cars Jigsaw. We are sure that you will have an unlimited amount of fun and enjoyment. In this free online puzzle game, you will see 12 images on the screen. Choose the right images and connect them properly to complete the picture fast! You can select from three different modes: easy, medium and hard.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">In this one of the best puzzle games, you need to keep your mind focused and use your cognitive skill. In the easy mode, you will have 25 pieces to connect, 49 pieces in the medium mode and 100 pieces in the hard mode. Touch the screen or use the mouse to play this free online arcade puzzle! Also keep your eyes on the watch since you have to complete the puzzle inside in a limited time. The pieces of the car will display on the screen for a few seconds.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You can use the hints mentioned at the bottom right side of the screen. Try to be very quick otherwise, you will lose your game! Put your brain to challenge to complete each level and move the next one! This free online HTML5 game features cool graphics and easy controls supported by seamless gameplay. Go through our all games that feature unique yet challenging puzzles! All the best for having a leisurely gaming experience!!</span></div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/16b156763bbb47e59d08b17065a2ff84/\r\n",
+      "metaTitle": "French Cars Jigsaw,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game French Cars Jigsaw at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "French Cars Jigsaw Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762111.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8081,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:11:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.755Z",
+      "updatedAt": "2024-12-02T12:02:41.031Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP  TO JOIN THE PUZZLE OF PICTURE",
+      "webControlKeys": "LEFT CLICK TO JOIN THE PUZZLE OF PICTURE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
