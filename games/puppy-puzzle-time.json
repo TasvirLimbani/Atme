@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c212",
+      "id": 5878,
+      "name": "Puppy Puzzle Time",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "puppy-puzzle-time",
+      "image": "5878",
+      "url": "puppy-puzzle-time",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a lover of jigsaw puzzles? Here you have a good news for you! We have brought to you a classic jigsaw puzzle challenge where you can easily keep you occupied for hours. Join Puppy Puzzle Time and get ready to put your brain and cognitive skill to test! This free online arcade game is designed for the gamers of all ages. So, anyone can play it in their chosen device irrespective of their age or gender. Try it in your PC through the mouse or tap to play when you explore it in your mobile phone or tablet!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Choosing this fun puzzle game can be a wonderful choice especially when you are looking forward the easy ways on how to keep your brain sharp. Solve all puzzles displayed on the screen in different 12 levels and become a champion of jiagsaw games! Choose from three different models – Easy, Medium and Hard to explore for each picture! In the easy mode, you will have only a few pieces to connect with each other, while, you have to solve the puzzles using more pieces in the medium and hard mode.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">In this cool HTML5 arcade game, you are sure to have a wonderful gaming experience due to easy controls and seamless gameplay. Take as much time as you want to solve the puzzles since it’s not a time based game! We are happy to offer many more games that feature the mind-boggling puzzles and challenges. So, once you get connected with us, there are no chances of getting you bored. Give our top games a try to see what we can do for you in just a very few efforts!</span></div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/b2cb19a4e8ec4fe1a1fcd023d58f1112/\r\n",
+      "metaTitle": "Puppy Puzzle Time,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Puppy Puzzle Time at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Puppy Puzzle Time Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762208.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7378,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.756Z",
+      "updatedAt": "2024-03-24T10:25:55.742Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP  TO JOIN THE PUZZLE OF PICTURE",
+      "webControlKeys": "LEFT CLICK TO JOIN THE PUZZLE OF PICTURE"
+    },
+    "rating": {
+      "rating": "1.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
