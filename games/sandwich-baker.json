@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af77",
+      "id": 628,
+      "name": "Sandwich Baker",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "sandwich-baker",
+      "image": "628",
+      "url": "sandwich-baker",
+      "description": "<div>Sandwich Baker is one of the most favorite free online cooking games for girls of all ages. In this highly exciting and challenging online gaming activity, you as a player have to prepare the delicious sandwiches for your hungry customers. This cool cooking game is filled up with unlimited fun and entertainment. You will surely enjoy while taking sandwich orders and getting them ready for the customers. The quicker you will complete your job, the higher tip you will be able to earn at the end of this awesome girls game.</div><div>&nbsp;&nbsp;</div><div>In order to win this kids game, you have to follow the instructions properly. Make sure that you will deliver your every order on time, so that you will earn a big tip from a happy customer. Try to unlock your next challenge while being focused on collecting the enough money each day. Remember, there are higher chances of losing your life in case if you are too slow in getting the meal of your customer prepared. You are advised to stack your perfect sandwich by tapping or clicking on the needful ingredients available on the screen.&nbsp;</div><div><br></div><div>All you need to do is use your best cooking and time-management skills in order to run this sandwich shop and deliver the orders of your customers timely. They will not wait for long, so try to make their stomachs growling so loudly satisfied as soon as possible. Will you be able to cook some tasty and scrumptious sandwiches before your customers lose their cool in this one of the latest time-management cooking game? Try your luck now!</div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.GameDistribution.com/3c88c2c7210f461e84ea0b975d2dabe6/",
+      "metaTitle": "Sandwich Baker, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sandwich Baker at atmegame.com ! We have selected this Cooking games for best excitement and thrill in you!",
+      "metaKeyword": "Sandwich Baker Game, Girls Games, Cooking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "",
+      "xmlFile": "Cooking_1513839135.json",
+      "idealFor": "Man",
+      "likes": 57,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 18038,
+      "ownGame": false,
+      "addDate": "2017-12-21T12:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.670Z",
+      "updatedAt": "2025-05-31T06:07:29.741Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ITEMS TO SELECT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
