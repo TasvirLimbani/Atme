@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682adc2",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0be",
+      "id": 5467,
+      "name": "Defense of the Tank",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "defense-of-the-tank",
+      "image": "5467",
+      "url": "defense-of-the-tank",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Out of a huge genre of action games online, tank games are one of the highly appreciated ones. We have today brought to you a cool tank game where the fun and thrill will be available in a greater proportion. Give Defense of the Tank game a try and learn why it has shortly received the appreciation from the players of all across the world! In this free action game, you will have to control a tank that is equipped with the enough ammo to face of its opponents.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You as a tank controller have to keep your eyes on the screen all the time as your opponents can attack you from anywhere in the sky. Do your best to defend your territory as long as you can from the enemy bombs and planes! Make sure to keep collecting the boxes of supplies that help to improve your power and reset your military cargo planes. Show off your tank controller skills and prove the world that you are a real tankman in this html5 defense game!</span></div><div><span style=\"font-size: 13.3333px;\">The longer you hold out; the higher score you will be able to make in the end of this war mobile game. Use your mouse to move your plane left and right to grab all the needful items! Try to survive each wave to create the higher score! This fun action packed tank defence game will definitely help you enjoy and get entertained to the maximum. We have plenty of other advanced and new war games online where you can access to high-tech military weapons like lasers and nuclear missiles.&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/eca1213f4eb9414fa6399373dc112b79/\r\n",
+      "metaTitle": "Defense of the Tank, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Defense of the Tank at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Defense of the Tank Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449471.xml",
+      "idealFor": "Man",
+      "likes": 112,
+      "dislikes": 27,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 44852,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:27:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-04-19T15:52:42.818Z",
+      "__v": 0,
+      "mobileControlKeys": "L-R ICONS TO MOVE L-R , TAP ON SCREEN TO SELECT THE DIRECTION",
+      "webControlKeys": "L-R ARROWS TO MOVE , L CLICK TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 18
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682adc2",
+      "name": "tank",
+      "slug": "tank",
+      "icon": "icon-iconAsset-56"
+    }
+  }
+}
