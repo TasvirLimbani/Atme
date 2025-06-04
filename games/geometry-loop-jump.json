@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad9b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb52",
+      "id": 4052,
+      "name": "Geometry Loop Jump",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "geometry-loop-jump",
+      "image": "4052",
+      "url": "geometry-loop-jump",
+      "description": "<div>Jumping games offer a great amount of fun and thrill and are enough to keep you busy for hours. We have got you covered with a brand new adventure challenge where you have to control a square-shaped character that wants to cover a long distance in a circle-shaped path. Do not take it easy friends as the way is full of obstacles that will try to stop your character from moving forward. Join the Geometry Loop Jump game and be prepared to make your character jump in the circle while avoiding the hindrances!</div><div><br></div><div>The longer you stay in the game the higher score you will make in end of each level. More and more enemies will come on your way and try to stop you from completing you goal. Jump over and over and do not forget to collect as many stars as you can to boost your score in this HTML5 jumping game! Put your sharp reflexes and hand-eye coordination skills to the test to cope up with the speed of the game!</div><div><br></div><div>Now it is up to you how to handle this cute little block that wants to form a full circle to escape in each level. Common friends! We are pretty confident on your abilities so use your dexterity to complete 360 in all of them while making sure that it can avoid the sharp spikes and several pretty irritating bad guys. Good luck to play like a champion and complete all levels and become a cool adventurer in this cool jumper challenge!</div>",
+      "size": 480,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/dbfb7c0f14f8420ab5beabbff8218c2f/\r\n",
+      "metaTitle": "Geometry Loop Jump, Jumping Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Geometry Loop Jump at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Geometry Loop Jump Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7420,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2025-02-13T14:49:53.145Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO JUMP, KEEP HOLD THE SCREEN TO JUMP HIGHER",
+      "webControlKeys": "L CLICK OF MOUSE TO JUMP, DOUUBLE CLICK TO JUMP HIGHER"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad9b",
+      "name": "jumping",
+      "slug": "jumping",
+      "icon": "icon-iconAsset-47"
+    }
+  }
+}
