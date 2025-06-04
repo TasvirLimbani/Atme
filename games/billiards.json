@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad68",
+  "category_name": "pool",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad68",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c403",
+      "id": 6515,
+      "name": "Billiards",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "billiards",
+      "image": "6515",
+      "url": "billiards",
+      "description": "<div>The best pool game you have ever played has hit your home today! Are you ready to be a part of this epic classic billiard game in your preferred gaming device? Join Billiards game and be prepared to satisfy your craving for amazing pool sport! Your primary job in this cool sports game is to pocket all the balls that you see on the board to create your higher score. All you need to do is challenge your billiard playing abilities to the test to achieve your aim.</div><div><br></div><div>It requires putting guts to score higher by clearing all the balls with one break. Feel free to sidespin, masse and jump ball to secure your top position on the leaderboard! You have to pocket all the 15 balls to complete this game. The lesser time you take in pocketing all the balls, the higher score you will be able to make. You have only 3 lives to lose so play carefully. Track how many lives are left by looking at the top left corner of the screen!</div><div><br></div><div>In the top middle portion of the screen, you can see your time. Track how many balls you have pocketed as of now by looking at the top right corner of the game screen in this cool sports challenge! The bottom of the screen will show your best time and last time. Try to pocket all the balls as fast as possible to become a champion of this amazing pool challenge! Play other popular free pool games and have a blast alone or with your friends, no download required!</div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://games.atmegame.com/games/billiards/",
+      "metaTitle": "Billiards, Pool Games - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Billiards at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Billiards, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 2214,
+      "dislikes": 211,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 607345,
+      "ownGame": true,
+      "addDate": "2020-06-08T23:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-06-04T03:15:50.889Z",
+      "__v": 0,
+      "mobileControlKeys": "HOLD AND RELESE THE STICK TO HIT AND CONTRTOL THE FORCE",
+      "webControlKeys": "HOLD AND RELESE THE STICK TO HIT AND CONTRTOL THE FORCE"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 196
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad68",
+      "name": "pool",
+      "slug": "pool",
+      "icon": "Pool-games"
+    }
+  }
+}
