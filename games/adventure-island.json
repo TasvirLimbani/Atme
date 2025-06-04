@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5eb",
+      "id": 2576,
+      "name": "Adventure Island",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "adventure-island",
+      "image": "2576",
+      "url": "adventure-island",
+      "description": "<p class=\"text_desc\">\nAdventure Island is a logic-based action platformer game in which you have to help the courageous monkey to reunite with his lost brother Eric. Guide your character navigate through different types of challenging obstacles and sort out the puzzles to move forward through different types of islands and uncover the hidden treasures. </p>\n<h4>\nKey Features:</h4>\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\">\n<li>\n<b>Diverse Environments to Go Through:</b> Navigate through diverse environments, that might range from the dense jungles to the sandy beaches and mysterious caves. </li>\n<li><b>Different types of Wild Animals to Play with:</b> Get a chance to explore the world with the presence of a wide range of wild animals. Do not forget to allow yourself to overcome obstacles using Joe's agility and wit.\n</li>\n<li>\n<b>Different Types of Treasures to Grab:</b> Make sure to grab bananas as well as treasures that you see scattering throughout the islands with an objective to unlock new levels and uncover clues about Eric's whereabouts.</li>\n</ul></p>\n<p class=\"text_desc\">\nIn this brand new adventure game, you have to help the money Joe to swing from vines, jump across different platforms, and dodge the deadly predators in his search to find his brother. Feel free to get the useful advice from the other friendly characters Joe meets along the way to get the job done fast.</p>\n<p class=\"text_desc\">\nWith its heart-warming storyline, charming graphics, and engaging gameplay, Adventure Island offers the enough dose of fun and entertainment for players of all ages. </p>\n<p class=\"text_desc\">\nAre you feeling excited now to join Joe on his epic journey through the wilderness and discover the secrets of the islands?\n</p>\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/adventure-island/index.php",
+      "metaTitle": "Adventure Island,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Adventure Island at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Adventure Island Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8078,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.712Z",
+      "updatedAt": "2024-07-10T07:11:25.696Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK OF MOUSE/ SPACE- JUMP"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
