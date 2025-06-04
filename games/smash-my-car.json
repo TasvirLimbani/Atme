@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b38d",
+      "id": 1906,
+      "name": "Smash My Car",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "smash-my-car",
+      "image": "1906",
+      "url": "smash-my-car",
+      "description": "<div>Smash My Car is a popular free online racing game for boys and girls of all ages. This awesome fun game is just for all those who want to smash up some cars. Choose one out of the four cars. You have four colours to choose from. Once it’s done, start smashing it into pieces. The four car options available for you include an Audi, a Charger, a Lamborghini and a Truck. After the selection of the vehicle, you are allowed to play the role of a car smasher. Destroy it with the help of hammers, bombs and baseball bats.&nbsp;</div><div><br></div><div>One of the best car racing games to play, Smash My Car is good to help players relieve their stress. Tap and aim at the car as fast as you can in order to wreck it in the optimum possible way. Let’s see how much damage you can cause on your beautiful looking red coloured car or any other coloured car you want. Do your job shortly since you have a limited time to perform this job in this time-based html5 game. Many people consider it as a finest stress buster alternative. Hope you will try it once to know why it’s a highly addictive game.</div><div><br></div><div>The simple game mechanics, easy control and fabulous audio and video effects are the major features of this brand new car racing game. You must try out it once if you want to destroy a highly expensive sports car which prices are more than the annual salaries of many people. At least, you can have fun of it in a virtual environment. Smash all of these cars to bring the inside anger out in this crazy racing game. There are a few weapons and tools to help you achieve your mission.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/64a9b6f2ba4f43d485930e20f6f454b6/\r\n",
+      "metaTitle": "Smash My Car, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Smash My Car at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Smash My Car Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630590.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 12579,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2025-02-11T20:50:53.686Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO SMASH THE CAR",
+      "webControlKeys": "L CLICK OF MOUSE TO SMASH THE CAR"
+    },
+    "rating": {
+      "rating": "3.2",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
