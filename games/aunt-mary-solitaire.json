@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b372",
+      "id": 1873,
+      "name": "Aunt Mary Solitaire",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "aunt-mary-solitaire",
+      "image": "1873",
+      "url": "aunt-mary-solitaire",
+      "description": "This game is similar to Yukon Solitaire but with some small differences which may require a change in strategy. At the start of the game, 6 cards are dealt into each of 6 tableau piles. The first pile has all 6 cards face up, the second pile has 5 cards face up, and so on until the last pile has 1 card face up. The remaining cards form the stock pile. The object of the game is to move all the cards into 4 foundation piles, which are built up from A to K according to suit. The tableau piles are built down by alternate colours, and each time you can move any sequence of tableau cards and put on another tableau pile according to the rule. If a tableau pile becomes empty, you can only move a K to the empty space. You can also open one card from the stock pile and put it on a tableau pile according to the rule. A card from the stock or the tableau can also be put to the foundation piles if the rules are followed. When the stock cards are used up, it will remain used up and redeals are not allowed. With careful analysis and some luck, you should be able to put all the cards to the foundation piles. The more cards you can put on the foundation piles, the higher your score.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/a47fbdb007544552b51ee746e648d8ad/\r\n",
+      "metaTitle": "Aunt Mary Solitaire, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Aunt Mary Solitaire at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "Aunt Mary Solitaire Game, Racing Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 31,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 14467,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2024-03-21T09:32:05.498Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
