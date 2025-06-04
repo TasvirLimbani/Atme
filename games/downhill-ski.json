@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad63",
+  "category_name": "skating",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad63",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0b4",
+      "id": 5457,
+      "name": "Downhill Ski",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "downhill-ski",
+      "image": "5457",
+      "url": "downhill-ski",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The biggest alpine skiing competition has just begun. It welcomes all those who have expertise in skating. You as a champion of skating has decided to participate in this most popular competition in your area. Remember here the six major components of technique, risk, speed, physical condition &amp; judgement will be tested. Join this brand new sports game and get ready to steer the skier to the end of track in Downhill Ski!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Do not forget to avoid all the obstacles you see on your way to reach to your goal! Your final score will depend on how beautiful you handle these different kinds of hurdles. The more obstacles you will be able to manage; the higher score you will hit on the screen in the end of each level. You have to reach the finish line to complete each level. You can use the arrow keys to move your character right and left in this cool skating game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to challenge your quick reflexes to make a clear way for your skier to move forward! Just focus on accumulating the maximum points while avoiding all kinds of collisions and obstacles to become a winner in this hmtl5 game! You will crash if you meet with a hurdle and you will be thrown out of the race immediately. Let us see how many levels of this top sports game will you be able to pass. Do not hesitate in showing your ultimate skating skills to complete all 12 levels in this 3D skiing game!</span></div>",
+      "size": 1200,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/abe1a6efd33745edbde70045061de6a5/\r\n",
+      "metaTitle": "Downhill Ski,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Downhill Ski at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Downhill Ski Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449153.xml",
+      "idealFor": "Man",
+      "likes": 146,
+      "dislikes": 17,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 31346,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-04-20T10:58:23.749Z",
+      "__v": 0,
+      "mobileControlKeys": "L-R ICONS OF SCREEN TO CONTROL THE SKIER",
+      "webControlKeys": "L-R ARROWS TO CONTROL THE SKIER"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 17
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad63",
+      "name": "skating",
+      "slug": "skating",
+      "icon": "skating-games"
+    }
+  }
+}
