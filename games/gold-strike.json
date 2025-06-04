@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7d",
+  "category_name": "mining",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9e3",
+      "id": 3657,
+      "name": "Gold Strike",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "gold-strike",
+      "image": "3657",
+      "url": "gold-strike",
+      "description": "<p class=\"text_desc\">\nGold Strike is a free online adventure game in which you have to help the miner to collect precious resources by strategically grouping blocks of the same color together. Make sure to keep your eyes on the safety of your miner as the wall will come close in with each new mine depth. \n</p>\n<p class=\"text_desc\">\nTry to throw your pickaxe as precisely as you can to unlock gold strikes and avoid getting trapped in the mine in this one of the best mining games for boys and girls. It requires skills on how deep can you dig before time runs out.\n</p>\n<h4>\nKey Features:</h4>\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\"><li>\n<b>Strategic Gameplay: </b>Try to be strategically aim while looking forward to throw pickaxes to create groups of identical blocks for maximum resource gathering.</li>\n<li><b>Increasing Challenge:</b> With the completion of each level, the mine depth increases, while improving the intensity and requiring quick thinking to stay ahead of the invading wall.</li>\n<li><b>Action-Packed Excitement:</b> Are you ready to experience the adrenaline rush as you have to race against time to collect resources while keeping the miner away from getting trapped.</li>\n</ul></p>\n<p class=\"text_desc\">\nThis free online mining game is an addictive yet fun-filled blend of strategy and reflexes. Get yourself ready to test your ability to think quickly under pressure. Try to utilize your pickaxe as wisely as you can to clear clusters perfectly and maximize your haul. But be alert as the closer the wall gets, the more desperate the pace becomes. </p>\n<p class=\"text_desc\">\nWith each level offering a new sort of depth to clear, the excitement and fun never ends. Are you ready to come with us on a brand new mining adventure like no other? </p>\n",
+      "size": 800,
+      "height": 500,
+      "script": "\nhttps://html5.gamedistribution.com/7a150efd02ca4ba285ef56be1367210e/\n",
+      "metaTitle": "Gold Strike, Mining Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Gold Strike at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Gold Strike Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335554.xml",
+      "idealFor": "All",
+      "likes": 42,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 17512,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2024-12-18T05:40:32.891Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO THROW THE AXE TO THROW THE AXE, THROW THE AXE ON THE SAME COLOR BLOCKS",
+      "webControlKeys": "L CLICK OF MOUSE TO THROW THE AXE TO THROW THE AXE, THROW THE AXE ON THE SAME COLOR BLOCKS"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7d",
+      "name": "mining",
+      "slug": "mining",
+      "icon": "Mining"
+    }
+  }
+}
