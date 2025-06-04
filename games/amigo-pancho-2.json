@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9b0",
+      "id": 3606,
+      "name": "Amigo Pancho 2",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "amigo-pancho-2",
+      "image": "3606",
+      "url": "amigo-pancho-2",
+      "description": "Amigo returns in Amigo Pancho 2! Clear the way so Amigo can escape! Avoid the balloon-bursting hazards to make him fly to the sky. Click on the objects to remove them.\r\n",
+      "size": 900,
+      "height": 510,
+      "script": "\nhttps://html5.gamedistribution.com/7d91f6822c0c4fc7be5683a65f4f979c/\n",
+      "metaTitle": "Amigo Pancho 2 Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Amigo Pancho 2 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Amigo Pancho 2 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335387.xml",
+      "idealFor": "All",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7087,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.725Z",
+      "updatedAt": "2024-05-18T20:43:47.852Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PALY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
