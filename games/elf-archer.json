@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad89",
+  "category_name": "kids",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aeaa",
+      "id": 226,
+      "name": "Elf Archer",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "elf-archer",
+      "image": "226",
+      "url": "elf-archer",
+      "description": "in Elf Archer game, you been ever courageous enough to think about a rescue mission to save the princess in a mysterious land of unknown. In this free action game online you are given the responsibility of saving the princess of your mysterious land from deadly orcs. They have attacked and abducted the princess.<br><br>As playing the role of Elf Archer Sael, you live at the magical northern forest in this free action game online. In this free fighting game you will move across the magical landscapes and mysterious forests filled of magical and mystical creatures. These creatures are hardly friendly and evil conspired to obstruct your path. In order to overcome them, they constantly block your way. You, hence, are required to use archery skills to kill all of them and move forward.<br><br>As they are evil powered, therefore, don?t show any mercy upon them, kill whatever, comes across on your path. In the game, you are powered with fire arrows of vengeance employing different skill modes. You can even upgrade your archery equipment to better up the shooting skills as well.<br><br>For controlling the game, the mouse is employed in this best action game online to aim and shoot arrows. The keys W, A, S, D are used to move forward and backwards. Spacebar is being used for switching between moving and attacking mode.",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=59c714c073ae4588b146ccbebee30924",
+      "metaTitle": "Elf Archer, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Memorizing the characters from famous action movie, Lord of the Ring, in this amazing game online you are on a action mission to save the princess from the deadly land of orcs.",
+      "metaKeyword": "Elf archer, Action, Shooting, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 116,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 15598,
+      "ownGame": false,
+      "addDate": "2017-09-29T00:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.665Z",
+      "updatedAt": "2024-10-03T10:56:53.868Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 19
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
