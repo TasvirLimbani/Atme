@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3df",
+      "id": 6477,
+      "name": "Temple Runner",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "temple-runner",
+      "image": "6477",
+      "url": "temple-runner",
+      "description": "<div>Many gamers have already signed up with us to play this brand new adventure challenge. Where are you, friends? Join Temple Runner and be prepared to explore more fun and entertainment than you experienced in the popular platform game â€œTemple Runâ€! Your objective will remain the same in this cute running platform. Keep your fingers on the arrow keys of the keyboard or tap the screen of your mobile phone to control your character when runs over the platform that is full of deadly obstacles!</div><div><br></div><div>Guide him to run through the ruined temples and escape safely in this HTML5 platform game! Make sure to make him jump over or slide through the gapped area to avoid obstacles. They will try to put every possible effort to catch and stop you from moving forward. Do not forget to grab the gold coins that could help you to purchase new and exciting characters. You can also upgrade your outfits using those coins. Just control his direction to avoid hindrances and grab coins since the running part happens automatically!</div><div><br></div><div>The longer distance you cover over the platform, the faster he will start running in this cool online game based on the classic â€˜endless runnerâ€™ theme. You will lose the game immediately if you take one wrong move. So be careful while moving your character left or right.&nbsp; The simple graphics, easy controls, seamless gameplay and the possibility of playing it on mobile phone will keep you engrossed for hours. Good luck to control your hero on his journey towards adventure like a champion and create your best new score!</div>",
+      "size": 527,
+      "height": 700,
+      "script": "https://html5.gamedistribution.com/317f4393831a428e8a0df9763b3b150f/\r\n",
+      "metaTitle": "Temple Runner Game - Play Free Online Temple Run Game : Atmegame.com",
+      "metaDesc": "Play the online free game Temple Runner at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Temple Runner Game, Adventure Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842581.xml",
+      "idealFor": "Man",
+      "likes": 267,
+      "dislikes": 40,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 43331,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2024-12-19T14:39:05.228Z",
+      "__v": 0,
+      "mobileControlKeys": "UP SWIPE TO JUMP,DOWN TO SLIDE,LEFT RIGHT TO L-R",
+      "webControlKeys": "ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 18
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
