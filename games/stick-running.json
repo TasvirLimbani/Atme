@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4f3",
+      "id": 2284,
+      "name": "Stick Running",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "stick-running",
+      "image": "2284",
+      "url": "stick-running",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This time your favourite character stickman wants to try something different! Would you like to help him to guide on a unique mission? Join Stickman Running and be prepared to make him run on a platform that is filled with multiple types of deadly obstacles for long! Your sharp reflexes and excellent control on play buttons will help make your way through the dangerous tracks. It will take a few seconds to learn, but enough time to master.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Stickman has to run through a randomly generated side-scrolling platform where multiple types of obstacles like rotating saw blades, powerful missiles and different floor levels to face off. Put your fingers on your mouse and get ready to roll and jump stickman while avoiding all of the hindrances that you see along the way in this brand new action game! Initially, challenges are easy, but they will keep getting harder when you cover some distance. Keep your character away from the flying rockets, objects and other spiky baddies!</span></div><div><span style=\"font-size: 13.3333px;\">Perform jumps with the up key (make him jump double by tapping it double) and perform a roll to slider under objects through the down key in this HTML5 platform game! This cool fun online platformer features endless running, various obstacles, and unique platforms and obstacles with each new game. You can try it out on multiple platforms including desktop browser, mobile browser and android app. Play some other free adventure games on atmegame.com to keep you engrossed for hours!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/d65c531374d84b6ab19865af60b6b11f/\r\n",
+      "metaTitle": "Stick Running Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stick Running at atmegame.com ! We have selected this running games for best excitement and thrill in you!",
+      "metaKeyword": "Stick Running Game, runningGames,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 8337,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-08-12T07:56:58.979Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH RIGHT TO JUMP, LEFT TO ROLL",
+      "webControlKeys": "UP ARROW TO JUMP, DOWN ARROW TO ROLL"
+    },
+    "rating": {
+      "rating": "0.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
