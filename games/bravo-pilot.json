@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae99",
+      "id": 204,
+      "name": "Bravo Pilot",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "bravo-pilot",
+      "image": "204",
+      "url": "bravo-pilot",
+      "description": "The game of real action Bravo Pilot lets you to get the real thrill of flying the plane odd heights. A full control game of the flying skills of the gamer gets being tested in this Flying Bravo Pilot game. Cliffs being there from both upsides as well from downside tests your real test of flying into the one of the most horrid terrain.<br><br>The mouse control or space bar control is of the optimum value in this online action game. A slight hesitation on a mouse control hits your plane straight away to the cliff and losing its sight let you even to loose game. A successful flight lets you to score points to reach at the further levels of game and have upgrades on the game.",
+      "size": 650,
+      "height": 0,
+      "script": "<object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0\" id=\"g2wgame1\" width=\"650\" height=\"530\">\r\n                                <param name=\"movie\" value=\"https://static.inviziads.com/games/arcade-games/bravo_pilot.swf;\"></param>\r\n                                <param name=\"quality\" value=\"high\"></param>\r\n                                <param name=\"menu\" value=\"false\"></param>\r\n                                <param name=\"allowScriptAccess\" value=\"always\"></param>\r\n                                <embed quality=\"high\" pluginspage=\"https://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" menu=\"false\" src=\"https://static.inviziads.com/games/arcade-games/bravo_pilot.swf\" height=\"530\" width=\"650\" allowScriptAccess=\"always\"></embed></object>",
+      "metaTitle": "Bravo Pilot, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "In the action game online Flying Bravo Pilot you get the exuberance of running the flying at different odds and height against the odd number of cliff upside down.",
+      "metaKeyword": "Bravo Pilot, Action, Flying, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "ALL",
+      "likes": 85,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11697,
+      "ownGame": false,
+      "addDate": "2016-07-05T09:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.665Z",
+      "updatedAt": "2023-09-30T03:43:30.986Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 11
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
