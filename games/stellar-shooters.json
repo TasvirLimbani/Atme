@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf93",
+      "id": 5155,
+      "name": "Stellar Shooters",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "stellar-shooters",
+      "image": "5155",
+      "url": "stellar-shooters",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a lover of fps multiplayer shooter games? If yes, join Stellar Shooters and get ready to enter an environment where you see nothing but a huge group of deadly enemies. The only way to survive in this battleground is to destroy all the enumerates blocks and spot your way to the victory. This fighting is surely going to be very tough as you have to take on a load of other fighters in a mass gunfight. Grab your weapons and try to customize your solider before entering the battleground in this action game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">No need to shy at all when it comes to providing you with the upper hand support against a team of other online players from across the world. Choose either playing against other skilled and powerful online players or decide to try your hands against bots to practice your fighting abilities! After making a decision over it, you can decide which strategies you need to follow to ensure your victory in this cool 3D action-packed first-person shooter.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Play online for free in both day and night in 3 awesome maps! There are three playable heroes including sniper, tank and fighter. Enjoy the arcade game modes like battle royale, doom, survival, team deathmatch and deathmatch! This sci-fi theme based fps shooter includes multiple weapons, 3D graphics, and power-ups in the map. Jump the battle and be prepared to wear the crown of being the greatest shooter in the outer space!! Have the best possible fun without download games!</span></div>",
+      "size": 960,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/38ae5db3c4f44e02889d40555b5b5f42/\n",
+      "metaTitle": "Stellar Shooters, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stellar Shooters at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Stellar Shooters Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545705.xml",
+      "idealFor": "All",
+      "likes": 36,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 17132,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2024-07-07T04:06:02.123Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ESC-PAUSE,WA,S,D ALLA RROWS TO MOVE, L CLICK-SHOOT,R CLICK-ZOOM IN/OUT, SPACE-JUMP,MOUSE WHEEL-CHANGE THE WEAPON, R- RELOAD, L SHIFT- USE ABILITY"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
