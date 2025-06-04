@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b213",
+      "id": 1449,
+      "name": "Wheely 2",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "wheely-2",
+      "image": "1449",
+      "url": "wheely-2",
+      "description": "<div>Take your seat and get ready to challenge your brain in the sequel of highly addictive and popular Wheely game series! In this another brand new adventure game named Wheely 2, you will have to use your cognitive skills to clear each level. Your best friend Wheely again needs your helping hand to catch his love. The red VW beetle meets with a beautiful pink car and falls in love with her. It is up to you now to take him to the exit gate and meets his true love.&nbsp;</div><div><br></div><div>Remember the job is little bit difficult since there are various obstacles and dangers are awaiting you. All you need is to solve the logical-based puzzles and brain teasers to achieve the goal in this free online platform game. Make sure to apply your wits and curiosity to unravel riddles to navigate the lovely red coloured car to his beloved one. Keep your eyes on the hints you see on the screen to overcome the obstacles in this problem solving adventure!</div><div><br></div><div>This adorable car game is created with the help of HTML5 technology, which makes it compatible with the mobile phone as well. So, you can enjoy this cute puzzle game on both desktop and mobile browser. If you like this cool mobile-friendly game, feel free to check its popular and commonly-played sequels named Wheely 3, Wheely 4, Wheely 5 and Wheely 6, which include even more fun and engaging levels. All the best to have a blast in this one of the best adventure games for boys!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/68ac1f7590ef439e92765e4199779d65/\r\n",
+      "metaTitle": "Wheely 2 Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wheely 2 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Wheely 2 Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489364.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 9623,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.689Z",
+      "updatedAt": "2024-03-31T00:51:15.635Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
