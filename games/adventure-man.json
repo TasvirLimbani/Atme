@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be10",
+      "id": 4761,
+      "name": "Adventure Man",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "adventure-man",
+      "image": "4761",
+      "url": "adventure-man",
+      "description": "<div><span style=\"font-size: 13.3333px;\">What a lovely adventure challenge has come to you today! You would meet here with a man who wants to go on a forest adventure. Everything is good, but he needs your help to complete his adventurous trip since many complex challenges are waiting for him on his way. Do you think that you can face off all the hurdles and guide him to make way towards a successful adventure? Join Adventure Man and be prepared to help him to run through the forest!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Be careful and try to escape him from the death-defying challenges in this free online platform game! Try to grab as much coins as you can to improve your score! Click the screen double to enjoy a long jump in case if you find more distance between the two platforms! You can track your present score by keeping your eyes on the top left corner of the screen. That section will also show you how much coins you have collected so far. Play this brand new adventure game by clicking through mouse or tapping the screen!</span></div><div><span style=\"font-size: 13.3333px;\">We are damn sure that you would have great fun after checking out this html5 endless runner challenge in your system. Many gamers have already considered it as one of the lovely platformer for boys. Give it a try to know how easier it will become for you to pass your free hours! It can relax your mood, while improving your concentration abilities and offering multiple fun opportunities. Good luck to create the best score in this cute mobile game!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://m.shtoss.com/game/adventure-man/index.html",
+      "metaTitle": "Adventure Man, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Adventure Man at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Adventure Man Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6850,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.741Z",
+      "updatedAt": "2022-08-23T23:21:30.150Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO JUMP,KEEP PRESS TO FLY WITH BALLOONS",
+      "webControlKeys": "UP ARROW/L-CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
