@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af8e",
+      "id": 653,
+      "name": "Dede Burger Fun",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "dede-burger-fun",
+      "image": "653",
+      "url": "dede-burger-fun",
+      "description": "<div>Dede Burger Fun is a highly challenging and most interesting game for kids of all ages. Whether you are a teen, kid, grownup or an adult – this free online game activity has a lot to offer to everyone. Your mission in this exclusively-designed cooking game from girls category is to prepare the delicious and all-time favorite burger shortly in order to earn the maximum possible points.&nbsp;</div><div><br></div><div>Try to use your cooking skills to complete the task in a way you want it to be. The time has come when you need to come out from your comfort zone and get yourself participated in the world best cooking game for kids. All you need to do is open your mind while following the game instructions so that there will be no chances of making any unwanted mistakes. In case if you make any mistake, then there is nobody to scold you. So, one thing that you will have while playing this new cooking game is only fun.&nbsp;</div><div><br></div><div>This popular flash game features quality graphics, amazing gameplay, easy control and excellent audio and video music. It is easy to make your own burger recipe with the help of ingredients and tools available in the kitchen area. There is no need to get worried since a cute princess Dede is there to guide you to prepare your delicious burger timely and help you to earn the best score in this easy-to-play game. Utilize the mouse perfectly to make the princess proud your cooking skills. Hope you will like this cute cooking game for girls and also recommend your friends to play it!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/17d34f811b214977b4353dc4232fd74b/",
+      "metaTitle": "Dede Burger Fun, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dede Burger Fun at atmegame.com ! We have selected this Cooking games for best excitement and thrill in you!",
+      "metaKeyword": "Dede Burger Fun Game, Girls Games, Cooking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "",
+      "xmlFile": "Cooking_1513839135.json",
+      "idealFor": "Man",
+      "likes": 35,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 14583,
+      "ownGame": false,
+      "addDate": "2017-12-21T12:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.671Z",
+      "updatedAt": "2024-04-05T17:17:16.664Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ITEMS TO SELECT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
