@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba95",
+      "id": 3854,
+      "name": "King Soldiers 2",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "king-soldiers-2",
+      "image": "3854",
+      "url": "king-soldiers-2",
+      "description": "Ehy soldier&#33; Are you ready for a new adventure? Use your weapon to kill all those monsters and complete every level collecting 3 stars. Try to waste not your shots and you will see your score increase and increase&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/king-soldiers2-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "King Soldiers 2, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game King Soldiers 2 at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "King Soldiers 2 Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 86,
+      "dislikes": 15,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 49014,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.728Z",
+      "updatedAt": "2024-02-12T03:06:50.011Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP AND HOLD TO AIM AND RELESE TO SHOOT",
+      "webControlKeys": "MOUSE TO AIM, L CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 19
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
