@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b51c",
+      "id": 2328,
+      "name": "Parking Fury 2",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "parking-fury-2",
+      "image": "2328",
+      "url": "parking-fury-2",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Welcome to the sequel to the extremely popular and addictive parking game named Parking Fury that surprised you with many amazing fun moments! Get ready once again to take your parking abilities to the next level by driving some cool models of simple cars, big trucks and monstrous 18-wheelers in Parking Fury 2! Fun and thrill level will improve for sure due to the increased level of difficulty and challenges. This time you would have more challenging parking spots to deal with.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You of course need the birds-eye view to take care of these car parking tasks in this brand new racing game. Control the movement of your vehicle with the help of arrow keys or WASD keys! Put your fingers on the accelerator and get ready to move it towards the parking spot! Make sure to keep it away from the other vehicles since a single collision can give you a damage to your score. You of course get a chance to park new vehicles in the empty parking spaces without hitting other cars or obstacles.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">There are again 10 unique and addictive levels to play through in the second version of this popular HTML5 parking game. Manoeuvre your vehicle into multiple positions as fast as you can with as little damage as you can to score all three stars! You of course get a chance to experience the improved graphics, gameplay and several new thrilling levels in this sequel. Complete all the levels to become a parking master and show off the world that you are a champion in the online free car games!&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/1b05720348e145ccbe69a28a062d0220/\r\n",
+      "metaTitle": "Parking Fury 2, Parking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Parking Fury 2 at atmegame.com ! We have selected this parking games for best excitement and thrill in you!",
+      "metaKeyword": "Parking Fury 2 Game, Games, parking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 50,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 27056,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2025-05-22T14:45:32.935Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT FITTING IN THE SCREEN",
+      "webControlKeys": "ALL ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
