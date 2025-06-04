@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be07",
+      "id": 4752,
+      "name": "Stone Aged",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "stone-aged",
+      "image": "4752",
+      "url": "stone-aged",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Welcome to a world where multiple stone aged characters are waiting for you! You have to help a cave man to complete his adventurous journey in this brand new adventure challenge. Do not say no to him since he has come to you with a huge hope. Put your fingers on your keyboard or mouse and get ready to cover as much distance as you can to create higher score! It takes to put your concentration abilities to the test.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Be careful since you would have three lives to use in this running adventure html5 game! This cave man trusts on your skills a lot so do not make him feel down. Destroy as many dinosaurs as you can while grabbing a great amount of coins! Make sure to make your character jump timely and avoid the stones lying on his way. Hunt these deadly dinosaurs by throwing weapons on them! Do not forget to bring home the bacon for your loved ones since she looks very hungry.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You can jump and throw weapons by clicking or tapping the screen or use your keyboard to move and fight your character in this running adventure html5 game. We are lucky enough to introduce you to more fun and thrill at our game portal atmegame.com where lots of other popular endless runner games for kids can be explored. The best part is that you can enjoy here without download games. Good luck to have a blast!!</span></div>",
+      "size": 800,
+      "height": 640,
+      "script": "https://m.shtoss.com/game/stone-aged/index.html",
+      "metaTitle": "Stone Aged, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stone Aged at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Stone Aged Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6774,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.741Z",
+      "updatedAt": "2024-03-09T21:52:47.561Z",
+      "__v": 0,
+      "mobileControlKeys": "L-ICON TO JUMP, R-ICON TO HIT",
+      "webControlKeys": "UP ARROW TO JUMP, SPACE TO HIT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
