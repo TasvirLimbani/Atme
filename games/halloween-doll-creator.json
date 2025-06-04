@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b89a",
+      "id": 3293,
+      "name": "Halloween Doll Creator",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "halloween-doll-creator",
+      "image": "3293",
+      "url": "halloween-doll-creator",
+      "description": "Halloween Doll Creator is a great halloween game where you will have to create dolls and dress them up for halloween.You can choose from unlimited number of halloween outfits, dresses, pants, shirts, you can even choose different eye styles and colors, different hairstyle, paint them on the face with halloween masks and many other options.. Have fun creating your perfect Halloween doll.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/60281f31781343d6bde41b199387e9be/\r\n",
+      "metaTitle": "Halloween Doll Creator Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Halloween Doll Creator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Halloween Doll Creator Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533533347.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 6971,
+      "ownGame": false,
+      "addDate": "2018-08-06T10:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.721Z",
+      "updatedAt": "2024-03-21T04:47:29.253Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS TO DRESSUP",
+      "webControlKeys": "L CLICK OF MOUSE TO DRESSUP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
