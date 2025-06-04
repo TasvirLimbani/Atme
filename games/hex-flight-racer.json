@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b30b",
+      "id": 1747,
+      "name": "Hex Flight Racer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "hex-flight-racer",
+      "image": "1747",
+      "url": "hex-flight-racer",
+      "description": "Race into the future and set a new record. Drive a futuristic jet car in this fast-paced racing game. Perform sharp turns and survive the crash in Hex Flight Racer! Use boosters to temporarily boost your speed, but be careful as bumping into the rails will damage your vehicle. Set new records and prevent yourself from crashing. Enjoy!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/5b5d7c324b5d43e8a3d240f3c009d392/\r\n",
+      "metaTitle": "Hex Flight Racer Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hex Flight Racer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Hex Flight Racer Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629357.xml",
+      "idealFor": "Man",
+      "likes": 58,
+      "dislikes": 9,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13853,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.695Z",
+      "updatedAt": "2025-03-04T14:08:07.996Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO CONTROL THE SHIP",
+      "webControlKeys": "A,D- BREAK, UP ARROW -SPEED UP, L-R ARROWS- MOVE L-R"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
