@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfc3",
+      "id": 5205,
+      "name": "Super Boy",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "super-boy",
+      "image": "5205",
+      "url": "super-boy",
+      "description": "<div><span style=\"font-size: 13.3333px;\">If you are an adventure freak, you always want to be on board on a platform where you can perform a number of fun activities. So, to make your dream come true, we have brought to you a brand new adventure game where thrill possibilities are matchless. Join Super Boy game and get ready to take your fantasy for thrill to the next level! It is very easy to play and control your character with the common keys. A cute boy needs help from you to complete his exciting adventurous trip.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You have to make him jump, run and pounce on monsters in this free online platform game. Do not forget to grab gold coins while completing all 20 levels. Focus on the game and make sure that he will keep running while avoiding all the dangerous obstacles! There are plenty of bosses to fight and different worlds to explore. This cool html5 platformer game features awesome graphics and is supported by the wonderful music.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Use the coins to unlock customized props and characters in this one of the best jungle games for kids! You also have to fight against multiple enemies and face different power up obstacles. Play like a champion to clear all levels and secure your top position on the leaderboards! Good luck to have a blast in our more adventure games for boys! Check out time anytime when you are bored and have fun without downloads!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/f25e4c93d20345569de509d818fcaf79/\r\n",
+      "metaTitle": "Super Boy,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Super Boy at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Super Boy Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545988.xml",
+      "idealFor": "Man",
+      "likes": 42,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13667,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:23:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2024-08-09T16:22:29.457Z",
+      "__v": 0,
+      "mobileControlKeys": "OFFLINE GAME",
+      "webControlKeys": "OFFLINE"
+    },
+    "rating": {
+      "rating": "4.9",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
