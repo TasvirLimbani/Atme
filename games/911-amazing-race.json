@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b359",
+      "id": 1836,
+      "name": "911 Amazing Race",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "911-amazing-race",
+      "image": "1836",
+      "url": "911-amazing-race",
+      "description": "The greatest race of them all is ready to start! Which team do you choose to support? Do you want the speedy police cars, the cool emergency vans or the reliable fire trucks? You can buy great upgrades between levels and improve your vehicles and collect power ups on the way to help you with your health, fuel, NOS and magnet levels. Complete all the laps and cross the finish line before all your competitors. You will need some awesome driving skills to win all eight levels! Have a great time!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=05b8caaf6ba6f4bdb68675ab8b893bda\r\n",
+      "metaTitle": "911 Amazing Race, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 911 Amazing Race at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "911 Amazing Race Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630386.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9414,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:03:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2024-05-04T12:13:00.593Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "2.3",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
