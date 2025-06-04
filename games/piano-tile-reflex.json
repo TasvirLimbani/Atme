@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd9c",
+      "id": 4644,
+      "name": "Piano Tile Reflex",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "piano-tile-reflex",
+      "image": "4644",
+      "url": "piano-tile-reflex",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a nice puzzle solver? Do you think that you can tap any area of your screen quickly? If yes, join Piano Tile Reflex game and get ready to check how fast your fingers can move over the mouse, or mobile phone or tablet. Your objective in this brand new arcade game is to tap on the maximum number of black piano tiles to score big. Avoid tapping on the white tiles otherwise you would lose the game! The gameplay of the game is very funny and simple.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">There are three game modes including Practice, Endurance, Frenzy to explore in this html5 puzzle challenge. Be prepared to enjoy the fun of additional 10 seconds by tapping 40 black tiles in Endurance mode! Try to tap on all the patterns to clear them from the screen in Pattern mode! In Frenzy mode, you would have 30 seconds to tap as many black tiles as you can. Choose any mode to challenge your sharp reflexes abilities in cool timing game!</span></div><div><span style=\"font-size: 13.3333px;\">Scoring the highest scores will help you determine your command over the fun puzzle challenges! The basic rule of this game will remain the same i.e. avoid tapping on the white tiles. Good luck to keep up with all of the back keys in all three modes and prove the world that you are the biggest puzzle solver! Check out more tricky and addictive arcade games for kids that are free to play online, no download required on atmegame.com!</span></div><div><br></div>",
+      "size": 540,
+      "height": 960,
+      "script": "\nhttps://html5.gamedistribution.com/134be94d66484038a6a19d37f287bbd1/\n",
+      "metaTitle": "Piano Tile Reflex, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Piano Tile Reflex at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Piano Tile Reflex Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 16,
+      "dislikes": -1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8827,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-08-03T03:13:28.344Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAP ON THE TILES AS PER THE TASK GIVEN",
+      "webControlKeys": "KEEP CLICK ON THE TILES AS PERT THE TASK GIVEN"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
