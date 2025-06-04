@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb24",
+      "id": 4005,
+      "name": "Offroad Racer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "offroad-racer",
+      "image": "4005",
+      "url": "offroad-racer",
+      "description": "<div>Offroad driving is a big fun in itself and your pleasure gets double when you get a chance to drive a wonderful car on a stunning mountain track! Join Offroad Racer and be prepared to race exclusive and amazing rally cars around dirt tracks in multiple awesome locations! Do not take this race casually since you have to play against multiple AR car opponents in this 3D car racing game. Use the left or right turn timely and drive it until you complete your race!</div><div><br></div><div>Shred some rubber and get ready to push your vehicle to the limit in this brand new racing game! Be careful and try to cross the finish line first and become the best driver of your area! There are a large number of vehicles to race against different AI cars. Make sure to keep your eyes on the speed of your rivals otherwise you will soon see yourself finishing last. Common boys! You have the guts to become the ultimate rally driver by mastering various tracks.</div><div><br></div><div>You have 5 different car models to choose from, 1 offroad track and multiple AI car opponents to play through. Feel free to switch the view to another rival car anytime you want in this HTML5 driving game! Use the car steering with the help of arrow keys, handbrake using spacebar, nitro using left ctrl, switch camera views using C button and escape by toggling pause menu! Check out more funny and tricky free car race games and have fun without download on atmegame.com!</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/f5833900f0ec47f7a6769731eb778eb0/\r\n",
+      "metaTitle": "Offroad Racer, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Offroad Racer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Offroad Racer Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 58,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 24626,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2025-03-29T18:46:50.134Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "C-CHANGE THE CAR,W,A,S,D TO CONTROL"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
