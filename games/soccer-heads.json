@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aef5",
+      "id": 468,
+      "name": "Soccer Heads",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "soccer-heads",
+      "image": "468",
+      "url": "soccer-heads",
+      "description": "<div>Sports Heads is back with many amazing surprises and achievements, and this time you will have a chance to talk about the volleys, goals and headers. Test your soccer skills and put your best while playing this awesome sport in the browser of your computer and mobile phones! In this highly challenging and electrifying football game, you have given two modes ? one player and two players mode. Choose 2 Players mode as it is filled up with full of exciting surprises and strengthening.</div><div><br></div><div>You can easily put the ball in the back of the net and take an opportunity to select your favorite Premier League Club with the help of header, lob, left-root rocket or any other result-oriented soccer skills. Try to win as many games as you can to secure the maximum possible points that would help you to upgrade your player later and claim for the title of the championship in this cool flash game that is available for free to all online gaming enthusiasts.</div><div><br></div><div>Every team and country might use different tactics to win the game. Several teams choose to hypnotize their opponent, pass a lot as well as keep the ball down. Remember, there are also a few teams that might choose to play the \"long ball\" while looking forward to getting the ball in the least possible time. To make their mission successful, they will put every possible effort to create the chances for goals. Get ready to face them and ensure your victory over the opponent team. Have plenty of fun!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://play.famobi.com/soccer-heads/A-925FD",
+      "metaTitle": "Soccer Heads, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Soccer Heads at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Soccer Heads, Sports, Soccer Games, Soccer Heads Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 174,
+      "dislikes": 26,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 21129,
+      "ownGame": false,
+      "addDate": "2017-07-17T15:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.667Z",
+      "updatedAt": "2025-04-20T23:47:24.524Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICON TO MOVE L-R, RIGHT ICON TO JUMP AND HIT THE BALL",
+      "webControlKeys": "L-ARROW -LEFT RUN, R-ARROW-RIGHT RUN, UP ARROW- JUMP, M-KICK"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 14
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
