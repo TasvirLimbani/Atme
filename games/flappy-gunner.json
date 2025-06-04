@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0ec",
+      "id": 5517,
+      "name": "Flappy Gunner",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "flappy-gunner",
+      "image": "5517",
+      "url": "flappy-gunner",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The game flappy bird was a big hit of its time due to the difficulty it offers to the users. However, most people soon started losing their interest when it became too difficult to handle it. It was initially attempted by gamers in a seek for fun, but the fear of failure encouraged people to search for the other option in this domain. That created a gap which developers have beautifully filled with the advent of a brand new action packed challenge named Flappy Gunner. </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You have to take control of bird armed with a lot of ammo in this free online shooting game. There is no need to show sympathy even for the tree that comes on its way. Shoot all the hurdles that you see on the screen to create a clear way for the bird! Do not forget to pick up the useful items that will surely help to create a new effect for your bird! Your objective in this one of the best shooting games is to help this cannon fly high in flappy bird style and pull the trigger at the same time. </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The items you have accumulated during the way will help upgrade your bullet power and speed. Try to shoot away the white star blocks to grab the power ups in this gun shooter game! Let the bird cover as much distance as possible to be on the top of the leaderboards! Do not let the bird dying before achieving the satisfactory score! Get ready to earn scores after passing the obstacles in this endless bird flying game! Your game will be over if the bird gets crashed into an obstacle. Good luck to help the bird make flap its wings perfectly! Check out more addictive html5 gun shooter games! </span></div>",
+      "size": 750,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/faf59efa60db4504b36f99ce1492de04/\r\n",
+      "metaTitle": "Flappy Gunner, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Flappy Gunner at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Flappy Gunner Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453347.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8957,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2025-04-28T10:40:15.586Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEPTAPPING THE SCREEN TO BALANE , TRY TO MAKE THE PATH TO CONTINUE",
+      "webControlKeys": "KEEP CLICKING THE MOUSE TO BALANE , TRY TO MAKE THE PATH TO CONTINUE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
