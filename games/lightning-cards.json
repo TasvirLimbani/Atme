@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b389",
+      "id": 1902,
+      "name": "Lightning Cards",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "lightning-cards",
+      "image": "1902",
+      "url": "lightning-cards",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Lighting Cards is a beautifully-designed arcade game that is primary meant for boys and girls of all ages. In this awesome free online strategic game, you as a player have to draw cards as fast as you can. Make sure that you perform your job faster than your opponent does. It is undoubtedly a new, fast and fun card game where all you need to apply your logical thinking and cognitive skills. Your opponent will be the computer machine, which is very fast and cunning to perform any job.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Use your mouse and drag one card at a time that you will see at the bottom of the screen to one of the four discard piles that you will see in the middle area of the screen. Pointing the arrow up shows that you need to place a card that is actually one value higher on top. In case if you see the arrow pointing down, then get ready to place a card that has one value lower on top. Check if the next match is 1 when you get to 13 while going up. You will find out the next match 13 while going down from 1. Play safe in this cool html5 game!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Cards can be of 3 special kinds: The placement of wildcards can be done on any card and the placement of any card can be done on top of them. The direction of the deck can be reversed by the red cards with the circular arrow on them. The placement of lighting cards on top of other lighting cards can secure you a bonus in this brand new arcade game. Do not forget to click on the flip card if you find the computer getting stuck in order to put new cards on the four discard piles. Play this wonderful arcade game and have fun children!&nbsp;&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/6248cc415c3f4de2bdaefe544617a092/\r\n",
+      "metaTitle": "Lightning Cards, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Lightning Cards at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "Lightning Cards Game, Racing Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 12638,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2024-03-29T14:17:53.038Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON  CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "2.3",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
