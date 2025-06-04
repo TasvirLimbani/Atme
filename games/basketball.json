@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be56",
+      "id": 4832,
+      "name": "Basketball",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "basketball",
+      "image": "4832",
+      "url": "basketball",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You are a small robot and love playing basketball with your friends. However, things are different today as you will explore this brand new basketball game alone. So, there is no need to wait anymore. Join Basketball game now and be prepared to get as many score as you can in the limited time period! Your good performance will definitely depend upon how wisely you practiced ball hooping in the past. Be fast in shooting the basket before it is too late!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Do not take it easily as it is one of the leading basketball championships so you will score high score only if you put your best efforts in this html5 sports game. After a long time, you have got an opportunity to play this big tournament. Move your character through the pointer you see on the left bottom side of the screen and click ?A? to score a goal! Keep moving your player in a position from where he can hit the maximum score. Hoops with multiple scores like ?35?, ?100?, and ?150? will keep coming from left to right.Â </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Remember you would have only 90 minutes to create your score in this html5 basketball game. Try to hit the ball at the hoops with maximum points to score high score in the end! You can also seek for some cool bonuses such as a larger ball. No need to waste your time, friends! Step into the court and be prepared to score some baskets and become the biggest player of the sport! Grab power-ups to enjoy some amazing special effects in our other popular titles from the category of basketball games! Have fun online, no download required!Â </span></div><div><br></div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://games.atmegame.com/games/basketball/",
+      "metaTitle": "Basketball, Basketball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Basketball at atmegame.com ! We have selected this Basketball games for best excitement and thrill in you!",
+      "metaKeyword": "Basketball Game, Sports Games, Basketball Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546117752.xml",
+      "idealFor": "Man",
+      "likes": 675,
+      "dislikes": 44,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 90605,
+      "ownGame": true,
+      "addDate": "2018-12-30T02:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.742Z",
+      "updatedAt": "2024-12-21T05:17:55.859Z",
+      "__v": 0,
+      "mobileControlKeys": "CONTROL THE PLAYER BY JOYSTICK  AND PRESS A TO MAKE THE GOLE",
+      "webControlKeys": "CONTROL THE PLAYER BY JOYSTICK BY L CLICK OF MOUSE , AND PRESS A TO MAKE THE GOLE"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 36
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
