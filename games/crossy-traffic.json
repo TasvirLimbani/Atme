@@ -1,0 +1,57 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "6305622cf00e1a463fdb9b33",
+      "id": 6583,
+      "name": "Crossy Traffic",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "crossy-traffic",
+      "image": "6583",
+      "url": "crossy-traffic",
+      "description": "<p class=\"text_desc\">\nCrossy Traffic is a cool online adventure game in which you have to guide a cute and tiny character to navigate through perilous roads. It requires quick reflexes to help your character survive for as long as possible for a high score. </p>\n<p class=\"text_desc\">\nMake your tiny character jump timely to avoid the collision with any deadly obstacles. Its path is filled with rivers, railway tracks, tricky roads and hostile characters. </p>\n<h4>\nKey Features:</h4>\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\"><li><b>Dynamic Challenges:</b> Your character has to face off plenty of environments that are filled with new kinds of obstacles at every turn. Plan your move fast to navigate it through diverse settings like calm countryside roads and bustling cities. </li>\n<li>\n<b>Unlockable Characters:</b> Do not forget to grab coins that you see scattering everywhere to unlock a wide range of other cute characters. Each character features unique skills, adding variety and a kind of huge excitement to your gameplay experience.</li>\n<li><b>Power-Ups and Rewards: </b>Your good performance will help to discover power-ups along the way. Make sure to earn rewards and all the best to achieve high score. </li></ul></p>\n<p class=\"text_desc\">\nIn this one of the best adventure games for boys and girls, you have to put your strategic thinking and quick reflexes to the test. Difficulties will keep increasing as you move forward throughout the game. </p>\n<p class=\"text_desc\">\nDo you think that you have dare to overcome the dangers and lead your friend to top the leaderboard? Good luck to guide it for as long as possible and create your best high score!\n</p>",
+      "size": 640,
+      "height": 420,
+      "script": "https://games.atmegame.com/games/crossy-traffic/",
+      "metaTitle": "Crossy Traffic, Adventure games - Play Online Free : Atmegame.com",
+      "metaDesc": "Crossy Traffic that is the free online adventure game offered for gaming enthusiast under adventure is your best opportunity to improve your adventure skills.",
+      "metaKeyword": "Crossy Traffic, Adventure games, 3D Games, Play Games, Play Online, Play Free Games, Play Online Free Games",
+      "source": "",
+      "likes": 10790,
+      "dislikes": 7173,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 696704,
+      "ownGame": true,
+      "addDate": "2022-08-23T12:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:26:36.472Z",
+      "updatedAt": "2025-06-03T17:59:17.127Z",
+      "__v": 0
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 408
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": null
+  }
+}
