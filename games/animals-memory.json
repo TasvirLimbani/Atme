@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c03c",
+      "id": 5330,
+      "name": "Animals Memory",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "animals-memory",
+      "image": "5330",
+      "url": "animals-memory",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Every parent wants to make their kids intelligent. A good memory is a symbol of a smart kid. So it is always a nice idea to get your kids engaged in the memory games. We are highly excited today to introduce you with a brand new arcade challenge where not only kids, but teenagers and grown-ups also have a lot to learn and improve their memory. Join Animals Memory, complete various tasks and show the world that you are blessed with a cool mind!</span></div><div><span style=\"font-size: 13.3333px;\">Choose your theme out of dogs, cats, fishes, horses, and birds and get ready to dive into one of the best html5 memory games for kids! You will feel like being available in a big farm when you play this game in your mobile phone, PC, tablet or any other gaming device. Use your mouse to flip the tiles and be ready to match them in pairs! Remember you can only win once you pair up all the tiles. Apply as few moves as possible to complete your game and score higher in the end in this school puzzle game!</span></div><div><span style=\"font-size: 13.3333px;\">This mobile classic board game will help to develop memory skills of your children and also allow them improve the recognition of various types of animals. The lovely and cute images of various animals like dog, cat and lion will surely keep them engrossed for hours. Whether you have a baby, a preschooler, a school child or a teen, all love playing this game online for free. Use minimum finger taps to complete missions without a need to download app!!</span></div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/12d9a2f1079b42edad37b1b5984f2387/\r\n",
+      "metaTitle": "Animals Memory,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Animals Memory at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Animals Memory Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352827.xml",
+      "idealFor": "Man",
+      "likes": 47,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12479,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:17:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.749Z",
+      "updatedAt": "2024-11-08T12:47:42.332Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CARDS AND TRY TO MATCH THE SIMILER IMAGES BY L CLICK OF MOUSE",
+      "webControlKeys": "CLICK ON THE CARDS AND TRY TO MATCH THE SIMILER IMAGES BY L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
