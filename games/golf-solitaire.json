@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b382",
+      "id": 1895,
+      "name": "Golf Solitaire",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "golf-solitaire",
+      "image": "1895",
+      "url": "golf-solitaire",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Golf Solitaire is a worldwide recognized solitaire card game in which you will have to clear all the cards from the course before the deck cards run out. There are seven columns from where you will have to remove all the cards and move them up into the Waste pile. The movement of any card into the waste pile can be done by just clicking on it. And, you can move a card if it is one higher or one lower than the card that is presently available on the top of the waste pile.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The movement of a King into the waste pile is also possible if the card available on the top of the waste pile is an Ace. You can also move an Ace if the card currently available on the top of the Waste Pile is a King. Get ready to move other cards if you find out the waste pile empty. It requires to make wise decisions in order to make your win in this latest free online card game. Use your mind to determine which cards need to be moved in a correct numerical order from the table to stack.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Carrying the crown of a winner in this highly challenging and strategic arcade game is possible only if you place all the cards from the table to stack. No need to hesitate to click the stockpile if you get stuck and want to add another card to the top of Waste Pile. Keep playing this fun addictive card game unless you get the victory. All the best to become a Golf Solitaire master!&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/3e3cd3db32d6416eb0fe475aebc39d99/\r\n",
+      "metaTitle": "Golf Solitaire, Card  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Golf Solitaire at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "Golf Solitaire Game, Racing Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11851,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2024-12-19T07:39:05.712Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON  CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
