@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd45",
+      "id": 4557,
+      "name": "Hangman Animals",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "hangman-animals",
+      "image": "4557",
+      "url": "hangman-animals",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Everyone parent wants to get their kids closed to the activities that help them to improve their knowledge and build their brain. Today we have got you covered with a brand new arcade game where your kids will get a chance to learn the names of different animals. When you click the game, you would be entered in a puzzle world where you have to guess different animal related words. Be careful before answering otherwise you will be hanged! Take your time before replying to play safely!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your every right answer will reward you with a point. But, your every wrong answer will get your character ready closed to the death. Your good knowledge about multiple animals will help to solve out this puzzle challenge without being hanged. Click the submit button when you are done and ready to move to the next level! Over the right middle of the screen, you can see the letters you have ever used, while the left middle area of the screen will show the status of your character.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">There are many animals to guess in this easy-to-play html5 puzzle game. Keep your eyes on the screen to learn how your bad guesses are bringing your character closer to the death! Check out more word find games to help your kids to improve their animal vocabulary for free! The best part is that all most of education games are playable on multiple devices, including desktops, mobile phones and tablets.&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/cb87770730dd4b7fbb8dae69efb6772a/\n",
+      "metaTitle": "Hangman Animals, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hangman Animals at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Hangman Animals Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6864,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-03-25T15:03:54.604Z",
+      "__v": 0,
+      "mobileControlKeys": "GUESS THE CORRECT WORD AND TYPE TO FIND THE CORRECT ANSWER",
+      "webControlKeys": "GUESS THE CORRECT WORD AND TYPE TO FIND THE CORRECT ANSWER"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
