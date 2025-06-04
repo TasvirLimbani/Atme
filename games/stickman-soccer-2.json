@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b16b",
+      "id": 1256,
+      "name": "Stickman Soccer 2",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "stickman-soccer-2",
+      "image": "1256",
+      "url": "stickman-soccer-2",
+      "description": "<div>Soccer is one of the most loved spots all across the world. People from different age groups are crazy for the popular soccer players. If you are also a soccer fan, try out Stickman Soccer 2 at least once to take your football fantasy to a new level. The second version of Stickman Soccer has come with the smooth gameplay and improved animations. It is brilliant graphics and stunning audio and video effects are much capable of engaging you for hours. Tap on the play button and get ready to enter into the best free online soccer game!</div><div><br></div><div>In this brand new sports, you will see the golden stars spreading everywhere on the field. Kill the football you can see on the screen so that it can hit the golden star. Check out the obstacles properly and set the right angle before kicking the ball. Earn the best score by kicking perfectly and reach to the advanced level. Remember, you have a limited number of shots to play with. So, be careful while calculating the power and direction of each shot in this 20 levels soccer game.</div><div><br></div><div>Achieve your goal in this cool html5 game on your own since nobody is there to help you out. Face the obstacles set between you and your targets with confidently and show the world that you are an ultimate soccer champion! Reach your targets with the minimum possible targets! No need to give up if you fail in the first attempt. Use the mouse to interact, make a click on the ball to shoot and gather your yellow stars in this one of the best football games for boys!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=e059e7ecbbaa43ba88c11ffbc46b2be1\r\n",
+      "metaTitle": "Stickman Soccer 2, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stickman Soccer 2 at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Stickman Soccer 2 Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517222281.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 10707,
+      "ownGame": false,
+      "addDate": "2018-01-29T16:08:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.686Z",
+      "updatedAt": "2024-02-09T22:12:54.522Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "3.1",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
