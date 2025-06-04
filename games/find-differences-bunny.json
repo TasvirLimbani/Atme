@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd8f",
+      "id": 4631,
+      "name": "Find Differences Bunny",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "find-differences-bunny",
+      "image": "4631",
+      "url": "find-differences-bunny",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Welcome back to the highly-addictive and most challenging arcade challenge where fun level is found in an abundant amount! You can try out this cool and funniest puzzle game alone or with all your friends. You have to find out the differences in two pictures in Find Differences Bunny. Try to be as quick as you can to gain the maximum possible points! No hints, no time limit and there a great amount of entertainment to have in this special animal and differences game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">When you click the play button, you would see two bunny pictures on the screen. Put your fingers on your mouse or tap the screen of your mobile phone to help your favorite bunny to find all the differences to earn the maximum number of points in this cool html5 puzzle game! You cannot finish the game until you spot all the differences. Make sure to develop a high level of concentration to spot the differences in every picture and find some exciting surprises in the end.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The cute and lovely bunny has a plenty of wonderful gift items to share with you. So try to accomplish this puzzle as fast as you to wear the crown of being the biggest puzzle solver of your city. In each picture, there are 5 differences you have to spot. Give this cool mobile game a try to know if you are able to complete all challenges! All the best to play our more popular titles from the category of animal games for kids and have fun for free, no download required!</span></div><div><br></div>",
+      "size": 880,
+      "height": 550,
+      "script": "\nhttps://html5.gamedistribution.com/5e60cc45c6e1426fa051934591594b94/\n",
+      "metaTitle": "Find Differences Bunny, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Find Differences Bunny at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Find Differences Bunny Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8994,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-07-05T14:22:54.893Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO FIND THE DIFFRENCES",
+      "webControlKeys": "L CLICK OF MOUSE TO FIND THE DIFFRENCES"
+    },
+    "rating": {
+      "rating": "2.2",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
