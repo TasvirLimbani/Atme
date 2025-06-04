@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c104",
+      "id": 5543,
+      "name": "One Man Invasion",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "one-man-invasion",
+      "image": "5543",
+      "url": "one-man-invasion",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Your planet Earth is captured by an enemy spaceship with a horde of hostile aliens. Being a responsible citizen of your country you have decided to join the combat unit to eliminate all these deadly monsters from your beloved planet. Do you think you should be a part of this massive action-packed challenge? If yes, join One Man Invasion and get ready to control a single hero who has enough skill to help the planet get rid of these bad souls.</span></div><div><span style=\"font-size: 13.3333px;\">It takes only the fine shooting and concentration skills to wipe out the alien invasion area in this free online action game. The good news is that you will have a devastating bazooka all the time to stand strong against a group of blood-thirsty monsters. There is no need to show mercy on them and try to destroy all enemies that you see on the screen to clear each level of cool HTML5 logic game. It has similar storyline and elements of gameplay from the most popular physics shooter like Angry Birds.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This free online shooter includes different 21 levels where the level of difficulties rises. Get 3 stars by aiming your target perfectly using a limited number of shots! It is not easy to obtain all 63 stars in different levels. Make a perfect angle from the pole before releasing the bullet to aim your target. Come into action and blast off all green monsters by using your powerful bazooka! Do not forget to deflect your missiles to kill all Aliens by using various objects!&nbsp;</span></div>",
+      "size": 720,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/01d0e3bec38d4eb19b658c137a0c258d/\r\n",
+      "metaTitle": "One Man Invasion, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game One Man Invasion at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "One Man Invasion Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453347.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8274,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2023-05-22T08:09:41.576Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO ADJUST THE TARGET AND RELESE TO HIT",
+      "webControlKeys": "ADJUST THE TARGET AND HIT WITH LEFT CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
