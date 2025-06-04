@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3ab",
+      "id": 6425,
+      "name": "Tap Tank",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "tap-tank",
+      "image": "6425",
+      "url": "tap-tank",
+      "description": "<div>The easy and highly addictive arcade puzzle is here! We are damn sure that you would like to play this online for hours if you give it a single try. Are you ready to enter the matchless fun-filled gaming environment? Join Tap Tank game and be prepared to control a cute and small tank that on a special mission today! Hey friends! It takes only a few clicking on the screen through your mouse or tapping the screen in your mobile phone to change its direction.</div><div><br></div><div>There are three platforms to run for your character. Your character will keep running while avoiding the obstacles in the form of boxes. Try to change its directly timely to keep your game going in this HTML5 platform game! Be careful and make sure to put your eyes on the boxes to keep your tank away from them. Do not forget to collect as many diamonds as you can to finish each level with the maximum score. You have to start your game from the beginning in case if you hit any boxes along the way.</div><div><br></div><div>Track your level and how much diamonds you have collected for the present level by looking at your eyes on the top right corner of the screen! The top middle portion of the screen will also show your present score. In case of getting bored, do not forget to browse through our huge collection of free arcade games that will surely allow you to have fun without download. We try to cater all latest games that are meant for both girls and boys so there are lots of fun and entertainment possibilities here with us.</div>",
+      "size": 860,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/8b14ed490259495f9f33676d2bcd4fc6/\r\n",
+      "metaTitle": "Tap Tank Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Tap Tank at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Tap Tank Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842458.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7418,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2024-09-21T03:09:57.454Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO SAVE THE OBJECT",
+      "webControlKeys": "CLICK ON OBJECT TO SAVE"
+    },
+    "rating": {
+      "rating": "1.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
