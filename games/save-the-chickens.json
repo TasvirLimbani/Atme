@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b308",
+      "id": 1744,
+      "name": "Save The Chickens",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "save-the-chickens",
+      "image": "1744",
+      "url": "save-the-chickens",
+      "description": "Get to the end of each journey with as many chickens as possible in your truck. - Great B.S. - Nice graphics. - Easy and intuitive control. - Playable on any device. - Funny, very funny. - For all ages. - Ideal for childrens.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/f36939edd39f467c8916582006a03cdc/\r\n",
+      "metaTitle": "Save The Chickens Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Save The Chickens at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Save The Chickens Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629357.xml",
+      "idealFor": "Man",
+      "likes": 31,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11547,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.695Z",
+      "updatedAt": "2025-02-11T20:53:35.477Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON RIGHT SIDE OF THE SCREEEN TO SPEED UP, LEFT SIDE TAP TO REVERSE",
+      "webControlKeys": "UP ARROW SPEED, DOWN ARROW BREAK"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
