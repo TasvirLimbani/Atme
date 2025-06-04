@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b94e",
+      "id": 3500,
+      "name": "Pregnant Fashion Night",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "pregnant-fashion-night",
+      "image": "3500",
+      "url": "pregnant-fashion-night",
+      "description": "You received an exclusive invitation to a special fashion show.It is all about pregnant mommy fashion,where two beautiful pregnant princesses are competing to win the pregnant fashion show competition.You will help them pick the perfect outfits for the competition and with your help one of our two princesses will win!Have fun!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/816e1ac8d4624519a148abfecba984f4/\r\n",
+      "metaTitle": "Pregnant Fashion Night, Dressing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pregnant Fashion Night at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Pregnant Fashion Night Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536576566.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7195,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2023-05-21T11:26:34.163Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS TO DRESSUP",
+      "webControlKeys": "L-CLICK OF MOUSE TO SELECT THE ITEMS TO DRESSUP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
