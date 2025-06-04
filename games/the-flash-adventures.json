@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf59",
+      "id": 5095,
+      "name": "The Flash Adventures",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "the-flash-adventures",
+      "image": "5095",
+      "url": "the-flash-adventures",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a lover of html5 platform online games? Luckily, we have got you covered with a brand new adventure game that would surely serve you the best fun on your plate as you witnessed while tried out many popular platform titles like “Super Mario” and “Super Mario Maker”. Join The Flash Adventures game and be ready to become a part of yet another biggest fun challenge! Your objective in this cute side-scrolling game is to help your hero jump from one platform to another while avoiding obstacles.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">It will be amazing to guide a cute and little character who needs your help urgently. Your character has to run over multiple platforms that are full of different kinds of obstacles. The only way to overcome them is to help him jump over all the obstacles, including gaps and enemies. Do not forget to avoid the spikes to lead your character towards the highest score. You will have only three lives, so use all your lives carefully to set a new high score.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Be careful when you jump as some platforms also have spikes underneath in this cool skill-based boys game! Try to grab as much coins as you can to upgrade your character and give him some extra power to stand confidently against all the unexpected obstacles! Play wisely to survive as long as you can to create the highest score in our one of the best platformer games! Run, jump and avoid obstacles to become a champion of the platform games!&nbsp;</span></div>",
+      "size": 1280,
+      "height": 720,
+      "script": "https://m.shtoss.com/game/the-flash-adventures/index.html\r\n",
+      "metaTitle": "The Flash Adventures,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game The Flash Adventures at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "The Flash Adventures Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7499,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-02-21T01:47:33.466Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON RIGHT SIDE ICON -JUMP, L-R MOVE- LEFT SIDE ICONS",
+      "webControlKeys": "UP ARROW-JUMP, L-R ARROW TO LEFT RIGHT"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
