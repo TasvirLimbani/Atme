@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd1b",
+      "id": 4515,
+      "name": "Make 24",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "make-24",
+      "image": "4515",
+      "url": "make-24",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Everyone parent wants to see his child making fast math calculations. If you also want to help your child to improve his mathematic abilities, promoting your little one to play Make 24 game can be a nice bet. As the name of the game suggests, you have to make 24 with the help of numbers shown on the display in each level. This super arcade puzzle challenge is designed for all players who love playing with cards and want to improve their mathematics at their home.</span></div><div><span style=\"font-size: 13.3333px;\">The objective in each level will remain the same in this cute math card game. Click on a number and then click an operator and then your job will be of performing the calculation. Be careful and try to make 24 with the help of all the four cards to earn the gold card! Of course, you have to practice your strong mathematics skills to achieve the desired result as fast as you can. On the left screen, you would notice a streak where you can track your level.&nbsp; &nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Do not bother at all in case if you make a wrong move since you can undo it with the help of the button shown at the bottom left corner of the screen in this html5 puzzle challenge! At the bottom of the screen, you would find four mathematical operation, including addition, subtraction, multiplication and division. Use your brain and put your mathematical logic to the test to complete each level and become the biggest math puzzle solver! Try out more popular titles from the category of math games that are free to play online, no download required!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/3710b2b9bd554c54b2022fdc26cec42a/\n",
+      "metaTitle": "Make 24, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Make 24 at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Make 24 Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527121.xml",
+      "idealFor": "All",
+      "likes": 14,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8989,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-02-24T01:32:25.827Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE NUMBERS TO USE MATHS ADITORS TO FIND THE ANSWER",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE MATHS OPRATORS TO FIND THE CORRECT ANSWER"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
