@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af7e",
+      "id": 635,
+      "name": "Princess Fitness Diet",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "princess-fitness-diet",
+      "image": "635",
+      "url": "princess-fitness-diet",
+      "description": "<div>One of the latest free online cooking games for girls to play, Princess Fitness Diet is filled with awesome graphics, easy control and state-of-the-art gameplay. In this fabulous girls game, you will have a chance to play with the Disney princess. You will surely have huge fun while getting engaged in preparing a meal for fitness. Your mission in this exclusive yet impressive online gaming activity is to make an amazing recipe for a diet. A Princess will check your recipe and rate your dish as per its taste in the end of this cool online cooking game.</div><div><br></div><div>Pay attention to the instructions provided by the princess Snow White since this beautiful lady is there with you explaining what to do to get your task completed timely. Her instructions will surely help you to prepare a healthy yet delicious meal within the shortest time possible. Check all the details mentioned in the instruction box to complete your task step-by-step. Choose all the useful elements along with the necessary kitchen tools to make the best meal of your life. No one is there to scold you in case if you make any unwanted mistakes.&nbsp;</div><div><br></div><div>Restart your game if you are not able to complete it in the first attempt and beat your previous score in this latest online cooking game. Do not try to let the Princess Snow White down since she trusts on your cooking skills completely. A real fitness diet out of many diets available here that you will prepare for her will surely make her feel happy and satisfied. Use the fresh and low-fat ingredients for her healthy recipes. Good luck and have huge fun!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/f1dbb620526c42c4b4915c69892f6a7e/",
+      "metaTitle": "Princess Fitness Diet, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Princess Fitness Diet at atmegame.com ! We have selected this Cooking games for best excitement and thrill in you!",
+      "metaKeyword": "Princess Fitness Diet Game, Girls Games, Cooking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "",
+      "xmlFile": "Cooking_1513839135.json",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 11403,
+      "ownGame": false,
+      "addDate": "2017-12-21T12:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.670Z",
+      "updatedAt": "2024-03-25T02:00:22.393Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ITEMS TO SELECT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
