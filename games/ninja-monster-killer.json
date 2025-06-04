@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b91e",
+      "id": 3449,
+      "name": "Ninja Monster Killer",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "ninja-monster-killer",
+      "image": "3449",
+      "url": "ninja-monster-killer",
+      "description": "In this platform game called ninja monster killer, your job is to destroy all monsters and to pass all 5 levels to win the game. watch your self the monsters can hurt you, and you can loose your life. Watch out if you fall from platform the game will over and you need to start over again.\r\n",
+      "size": 640,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/03fbe46bd374404d934e973110e32717/\r\n",
+      "metaTitle": "Ninja Monster Killer, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ninja Monster Killer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ninja Monster Killer Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536575483.xml",
+      "idealFor": "Man",
+      "likes": 35,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 15688,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-09-30T02:44:47.712Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": "UP AROW-JUMP, Z/C- SHOOT, X- ATTACK, L-R ARROW,MOVE"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
