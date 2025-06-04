@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3d0",
+      "id": 6462,
+      "name": "Toto Double Trouble",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "toto-double-trouble",
+      "image": "6462",
+      "url": "toto-double-trouble",
+      "description": "<div>Wow! This time you have a chance to enjoy the double fun with Toto Double Trouble! Here in this brand new adventure game you have to control the double characters to reach your goal! Common boys! The highly exciting and engaging underground world is awaiting you. Put your fingers on your mouse or tap the screen of your mobile phone to get ready to help both Toto and Ninja solve the puzzles! Collect all the 3 keys and coins to clear each level successfully!</div><div><br></div><div>Your objective in this HTML5 platform game is to guide both of them to get to the stone exit. Hey! On the way, you also have to focus on collecting the bags of gold to keep you moving forward. Do not forget to press and fix the multi-colored buttons to open the door and make sure not to close it until your partner reaches a safe place. They both are not friends, not the rivals so try to act for the one thing.</div><div><br></div><div>It is wise if they help each other to sort out the multiple puzzles and deal with the obstacles that try to stop them from reaching their goal. These two lovely characters can move to the advanced levels only if they assist them reach the exit gate together. Their partnership is useful in allowing them to open all exits and unlock various paths to the advanced levels. Good luck to guide them both to get through all 24 unique and addictive levels and enjoy to the optimum level without download in your gaming devices!</div>",
+      "size": 1100,
+      "height": 720,
+      "script": "https://html5.gamedistribution.com/c6660dae680f419ab0a6eb534a8c542e/\r\n",
+      "metaTitle": "Toto Double Trouble Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Toto Double Trouble at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Toto Double Trouble Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7500,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2024-03-23T13:58:06.583Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICONS TO MOVE,RIGHT ICONS TO CHANGE AND JUMP",
+      "webControlKeys": "W,A,S,D AND ALLARROWS TO MOVE BOTH"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
