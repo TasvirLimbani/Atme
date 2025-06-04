@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf76",
+      "id": 5125,
+      "name": "Lambo Car Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "lambo-car-simulator",
+      "image": "5125",
+      "url": "lambo-car-simulator",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This time you are going to have a ride in your favorite car – Lamborghini! Are you ready to have the biggest fun of your life? Join Lambo Car Simulator and be prepared to perform the death-defying stuns and make some deadly drifts while sitting behind the steering wheel of Lamborghini! Common friends, no one can give you such a wonderful opportunity you will have today to enjoy the realistic physics and driving! Give it a single drive to wear the crown of being a professional drifter!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Lamborghini is one of the most popular and fastest cars in the world. And, driving and drifting it in your own style will surely bring quality fun hours to you during your vacant periods. Your every successful effort will help to add some points to your final score. It is up to you how wisely you apply your ability to drift and finish the game with the maximum number of points. You would have a full freedom to perform impressive acrobatics while avoiding obstacles.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This cool html5 car drift game features accurate physics, richly detailed car model, great physics and interactive gaming environment. Good luck to show off your cool drifting skills to become a professional drifter! Check out our free car race games to improve your driving and drifting abilities without downloading! The huge collection of online games makes sure that you will easily spot the one that can bring you hours of fun and entertainment.&nbsp;</span></div>",
+      "size": 800,
+      "height": 550,
+      "script": "https://html5.gamedistribution.com/dcdd95d805b74105bfe02cc0222fb1f4/\r\n",
+      "metaTitle": "Lambo Car Simulator,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Lambo Car Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Lambo Car Simulator Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545466.xml",
+      "idealFor": "Man",
+      "likes": 184,
+      "dislikes": 19,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 32569,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:14:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2025-05-23T06:48:41.125Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO CONTROL,C-CHANGE THE VIEW, SPACE-BREAK"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
