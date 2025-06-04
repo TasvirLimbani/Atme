@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b233",
+      "id": 1492,
+      "name": "ZomBears",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zombears",
+      "image": "1492",
+      "url": "zombears",
+      "description": "<div>Do you know where all the players are right away? They have all switched to one of our best action-packed games for boys named Zombears, which can take your breath away. In this brand new zombie game, you will see many zombears hanging around in a search for the blood in the base. You will be their next prey, so try to be very alert to defend you and all other people available in the area.&nbsp;&nbsp;</div><div><br></div><div>One of the most popular characters of the web has recently created a zombie outbreak in this free online action game. Now all people their eyes on you who have the guts to stop this massacre. These blood-thirsty zombies are going to take over the entire world. Apply your mouse and WASD keys to survive in the base. Aim and shoot using mouse, UP/Q/E to enter base, hold spacebar to repair base in this cool shooting game for boys!&nbsp;</div><div><br></div><div>Make sure to find out the proper place to hide yourself to replenish your health and get a cover against the sudden attack from the zombies. This will also help you to keep your gun safe from heating. Try to collect the random boxes to upgrade you with useful and necessary gun turrets, weapons and enjoy some exciting surprises. This one of the best fighting games is sure to make you feel proud on yourself when you free the base from all zombies. Atmegame.com features many more zombie games to help you challenge your shooting skills.&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=b3b5392ceba74f18984a7646bfdb5bb4\r\n",
+      "metaTitle": "ZomBears, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game ZomBears at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "ZomBears Game, Action Games, Zombie Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517899654.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7254,
+      "ownGame": false,
+      "addDate": "2018-02-06T12:17:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.690Z",
+      "updatedAt": "2023-12-14T21:11:30.620Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
