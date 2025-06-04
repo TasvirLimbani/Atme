@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682adc6",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbc7",
+      "id": 4172,
+      "name": "Ludo Legend",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "ludo-legend",
+      "image": "4172",
+      "url": "ludo-legend",
+      "description": "<div>Do you think that nobody can beat you in ludo games? Are you an unbeatable ludo player? If this is the case, Ludo Legend is an awesome arcade game where you should try your hands for sure. The realistic gameplay, intuitive controls and colorful graphics will create many instances when you realize like you are playing with the real players. Make sure to put your strategy and ludo playing abilities to the test to wear the crown of the winner every time when you play this free online game in your device.</div><div><br></div><div>Each player contains 4 figures which you can unlock only with rolling a six. You as a player have to run your 4 figures a whole round and reach the own stairs. Hey friends! It is not going to be easy at all since other 3 players will also follow the same strategy. Each player will try to beat the figure of other players by landing on the same spot as a current figure. The winner in this HTML5 billboard game will be the one who get all these figures to the stairs first.</div><div><br></div><div>You will be given the power to change each player to a person, computer or turn them off. Feel free to change the name of each player. Play this ludo game alone or with your friends and have fun in one of the coolest environments possible! Some people also call it ludu, Pachisi, Chaupur, Parcheesi or Pachis. Choose it now and get a chance to play with your lovely friends and millions of ludo fans around the globe anytime, anywhere!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/77dca51b66cf4800a245e00704029413/\r\n",
+      "metaTitle": "Ludo Legend,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ludo Legend at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ludo Legend Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543658660.xml",
+      "idealFor": "Man",
+      "likes": 531,
+      "dislikes": 37,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 84190,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.733Z",
+      "updatedAt": "2025-05-30T15:25:50.777Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO PLAY ",
+      "webControlKeys": "L CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 29
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682adc6",
+      "name": "board",
+      "slug": "board",
+      "icon": "icon-iconAsset-56"
+    }
+  }
+}
