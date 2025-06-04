@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1b1",
+      "id": 1337,
+      "name": "The Floor Is Lava Online",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "the-floor-is-lava-online",
+      "image": "1337",
+      "url": "the-floor-is-lava-online",
+      "description": "<div>Roll up your sleeves and get ready to try one of the best adventure games for boys named The Floor Is Lava. People from different age groups are getting crazy and talking about it. This brand new adventure game is suited for all, including children and families. Your primary objective is to jump across your living room while avoiding the obstacles that come to you when the floor turns into hot lava. Apply your focus skills to survive as long as you can in this free online adventure game!</div><div><br></div><div>Try to collect as many hearts as you can to boost your skill and keep jumping as long as possible! Make sure to jump from one platform to another to keep yourself safe from the rising lava. You will be ruined immediately by the red-hot lava if you try to jump fast and make a wrong jump. This way you will out from the game in this cute adventure game. Keep practising until you improve your skills and top the leaderboards!</div><div><br></div><div>You can use arrow keys to tap left and right to play this one of this cool HTML5 game. Keep your eyes opened all the time since the burning lava is steadily moving towards you. The speed of lava is not as fast as you thought of. However, their speed will increase when you reach at higher platforms. Do you think that you are capable enough to reach at the highest floor? Play this excellent platform game to challenge your skill! You can play it in all modern browsers. Check out our top games page to enjoy our even more engaging free adventure games!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/3e18405a02f84f2399d1b399abe345b8/\r\n",
+      "metaTitle": "The Floor Is Lava Online,  Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game The Floor Is Lava Online at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "The Floor Is Lava Online Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299559.xml",
+      "idealFor": "Man",
+      "likes": 30,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 10906,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.687Z",
+      "updatedAt": "2025-04-21T09:14:45.762Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO JUMP AND DOUBLE JUMP",
+      "webControlKeys": "L-CLICK OF MOUSE TO MOVE"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
