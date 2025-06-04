@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b552",
+      "id": 2408,
+      "name": "Super Cricket",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "super-cricket",
+      "image": "2408",
+      "url": "super-cricket",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The biggest and new cricket game is here! If you are really a diehard fan of this one of most popular sports game, nothing could be better than joining Super Cricket game right here on atmegame.com. We make sure that you will also recommend your friends and families to try it at least once in their preferred devices. It can be playable on PC, mobile phone, iPhone, iPad or any other gaming device. Put your fingers ready to hit as many balls as possible to score high and reach the next level!</span></div><div><span style=\"font-size: 13.3333px;\">Choose Quick Play, One on One or World Cup tournament as per your desires! Begin this funny and fascinating cricket game by selecting a country along with a team of 11 players! Challenge your batting skills to win 3 cricket matches in Leagues and then 7 matches in Super 8 league! Make sure you have also cleared the Semi-final to reach the Grand Finals where you also have to perform well to wear the crown of the World Championship.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your game will finish if you lose any of the matches. You are sure to have fun in a great proportion no matter which mode out of the three you will choose to play online for free. Enjoy it alone or invite your friends to get participated and explore your cricketing fantasy to the optimum possible level! The realistic graphics in the playground, seamless gameplay and easy controls are something that make this html5 cricket game favorite for all. Good luck to score higher and make some good records on your own name!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/a67f428d67b44208b0b5526210109fb5/\r\n",
+      "metaTitle": "Super Cricket Games - Online Cricket, Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Super Cricket at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Super Cricket Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524809617.xml",
+      "idealFor": "Man",
+      "likes": 2770,
+      "dislikes": 130,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 1105615,
+      "ownGame": false,
+      "addDate": "2018-12-13T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2025-06-02T09:40:09.460Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS TO MOVE L-R, RIGHT ICONS TO SHOT",
+      "webControlKeys": "L-R ARROWS TO MOVE L-R, L CLICK ON SCREEN ICON TO SHOT"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 540
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
