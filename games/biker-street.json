@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad75",
+  "category_name": "bicycle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad75",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb2a",
+      "id": 4011,
+      "name": "Biker Street",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "biker-street",
+      "image": "4011",
+      "url": "biker-street",
+      "description": "<div>Hey boys, the best racing game is going to hit your screen today! Are you ready to play it out right away to enter the highly engaging fun environment and say goodbye to your boredom? Join Biker Street and be prepared to ride your chosen motorcycle as far as you can to be a true biker of this planet! You would be stopped from moving forward by plenty of obstacles. Enjoy cool stunts in this amazing biking platform game with a steampunk theme!</div><div><br></div><div>Keep your eyes on the fuel bonuses that will help surely help to fill up your fuel tank! Your successful efforts will also guide you towards collecting more fuels and coins through which you can also upgrade your vehicles to make your gameplay extra engaging and challenging. Your objective in this HTML5 bike game is to progress your vehicle along the track as far as possible without being crashed. Get ready to face of a heap of deadly obstacles to find the way to the victory!</div><div><br></div><div>You can also upgrade your bike and its abilities using the gold coins you see on the way. Drive your bike safely and do not forget to perform the needful stunts like frontflips and backflips to reach at a defined place perfectly! Let see how far you can ride without crashing and set a new high score in this uphill bike racing game! It features awesome bike physics, upgradeable options and endless gameplay. We have plenty of other free bike driving games that are playable on multiple devices, no download required.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/5069b42f6f0542e7bf7386a1ac710500/\r\n",
+      "metaTitle": "Biker Street Cycle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Biker Street at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Biker Street Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10573,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2025-01-15T17:32:07.829Z",
+      "__v": 0,
+      "mobileControlKeys": "L-ICONS TO BALANCE ,R-ICONS TO MOVE",
+      "webControlKeys": "ALL ARROWS TO CONTROL THE BIKE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad75",
+      "name": "bicycle",
+      "slug": "bicycle",
+      "icon": "bicycle-racing-games"
+    }
+  }
+}
