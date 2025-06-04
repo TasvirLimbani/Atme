@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd0f",
+      "id": 4503,
+      "name": "Ballz",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "ballz",
+      "image": "4503",
+      "url": "ballz",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is time to relax your mind by trying out something new. If you are looking forward to refresh your mood, you have reached at right platform. Today we have got you covered with a brand action-packed challenge where you can keep your mind busy for hours. Break all the bricks by shooting the balls you have on your hand and have a blast in Ballz game! Your objective is to use the bouncy balls to remove all the square blocks from the screen.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Use mouse on PC or tap the screen to aim and shoot your ball to hit the square blocks in this html5 puzzle challenge! It feels like you are playing a very simple and easy brick breaker game, but you find it pretty addictive when you progress. Do not forget to grab as many gold circles as you can to unlock new balls while destroying those bricks. The collection of white circles will allow you to get the additional balls and continue with the endless ball chain.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Keep crushing as many bricks as possible before they touch the ground. You would lose the game if the square bricks touch the ground. Bricks will keep growing after your every move so the growing of bricks can stress your mind. Try to remove as many balls as possible from the board to create your new best record! Check out more fun puzzle target games for boys and girls and allow yourself to have the best gaming experience, no download required on atmegame.com!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/bb5c903d20fd40a0854f7141eda72c73/\n",
+      "metaTitle": "Ballz, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ballz at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Ballz Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544526946.xml",
+      "idealFor": "All",
+      "likes": 11,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8950,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-08-05T07:57:49.187Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK OF MOUSE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
