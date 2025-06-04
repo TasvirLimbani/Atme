@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b180",
+      "id": 1280,
+      "name": "Football juggle",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "football-juggle",
+      "image": "1280",
+      "url": "football-juggle",
+      "description": "<div>Football Juggle is one of the best soccer sports game in which you have to perform the unmatched soccer juggling tricks to collect the maximum possible points. It’s up to you how beautifully you perform the tricks to grab the attention of the crowd around you. The better you juggle the ball, the higher your audience will be impressed of you. Get the mastery in your skills and try to make as many advanced tricks as you can in order to win in this brand new soccer sport for boys.&nbsp;&nbsp;</div><div><br></div><div>Getting into this crazy football game will allow you to undergo the best football juggle training! Control a dummy to get the beautiful football over the field. Your football freestyle juggling tricks will be tested in this free online soccer game with ragdoll physics. Get the good command over the ball by practicing it again and again. This will definitely help to earn a high score in this one of the best soccer games for boys. Use those points to buy advanced tricks, including stall, pancake, mama’s juggler, bee’s knees, shoulder master, half-milkshake, header, milkshake and around the world.</div><div><br></div><div>The advanced tricks you collect in this cool soccer sport will allow you to win the hearts of more people across the world. You will become an elite soccer player with more applause points. Try to kick the ball harder with the closer position to ensure some good points. Hit the star and earn scores in this funny physics pixel art game! Avoid falling the ball on the ground or hitting the blocks. Have patience, keep calm and hit the star only when the opportunity really comes to you.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/ce4fafa73cb949ffb4518b74d80177e6/\r\n",
+      "metaTitle": "Football juggle, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Football juggle at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Football juggle Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517222754.xml",
+      "idealFor": "Man",
+      "likes": 33,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 18819,
+      "ownGame": false,
+      "addDate": "2018-01-29T16:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.686Z",
+      "updatedAt": "2025-02-11T20:58:46.496Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO HIT THE BALL",
+      "webControlKeys": "L CLICK OF MOUSE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "3.1",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
