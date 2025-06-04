@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd90",
+      "id": 4632,
+      "name": "Funny Doggy Hidden Bones",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "funny-doggy-hidden-bones",
+      "image": "4632",
+      "url": "funny-doggy-hidden-bones",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you love playing with dogs during your vacant hours?&nbsp; Today we have brought to you a brand new arcade challenge where you would meet with a cute dog who is a on a unique mission. Can help him to spot all the hidden bones in multiple levels? Join Funny Doggy Hidden Bones game and get ready to have fun with your favorite pets! The adorable puppies available in this cute online game have a lot to offer you irrespective of your age and gender.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this lovely HTML5 puzzle challenge is to help your puppies to find out every picture and spot the hidden bones in each picture. Do not forget to click the bones to complete the mission. The upper part of the screen will show you several stars that will keep filling up every time when you spot a bone. This will also give you an idea about how many are there to find out. There will be a timer to make it difficult, without offering you any hints.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">We are pretty confident that you are skilled enough to sort out the puzzle in this cool mobile animal game. Try to be focused nicely to find out the entire bones inn one photo and move to the advanced level! Your good performance will keep you to grab some coins through which you can purchase more adorable puppies. Good luck to find more dog and other animal games for kids that are free to play online, no download required on atmegame.com!</span></div><div><br></div>",
+      "size": 400,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/08d8fc2249fa4c7faa52684582bb1c0e/\n",
+      "metaTitle": "Funny Doggy Hidden Bones, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Funny Doggy Hidden Bones at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Funny Doggy Hidden Bones Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7529,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2023-12-03T07:32:03.249Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO FIND THE BONES",
+      "webControlKeys": "L CLICK OF MOUSE TO FIND THE BONES"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
