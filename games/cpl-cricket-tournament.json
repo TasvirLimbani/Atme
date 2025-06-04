@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c163",
+      "id": 5655,
+      "name": "CPL Cricket Tournament",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "cpl-cricket-tournament",
+      "image": "5655",
+      "url": "cpl-cricket-tournament",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a serious cricket fan? Do you have a dream of cracking the impeccable strike in a pitch that is full of cricket professionals? If yes, checking out CPL Cricket Tournament in your device could be a nice bet for you. Get ready to take your bat and surprise your opponents through your impressive short and long shots! Choose your Cricket Premier League (CPL) team and allow yourself to enjoy the realistic cricketing experience!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This free online game allows you to play different formats as per your need. Choose anyone among 2, 5, or 10 overs and give yourself a command to take a shot! It is also up to you that which team you want to play for. KKR, KXIP, DC, RR, SRH, CSK, MI and RCB are the team choices for you. Play any four matches to guide your team towards the quarterfinal! Prepare your team to chase a target of some specific balls in every cricket match!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You are sure to fall in love with this cool HTML5 online game with awesome sounds effects and awesome graphics. We know that you are capable enough to hit big sixes and make some good balls to make your country feel proud on you. Achieve your target without losing your three wickets in this one of the best cricket games for kids! There is no problem if you cannot hit the six at every ball, but try to save your wickets at any costs. All the best to bring the trophy of CPL tournament to your home!</span></div>",
+      "size": 1150,
+      "height": 660,
+      "script": "https://games.atmegame.com/games/gg/cpl-tournament/",
+      "metaTitle": "CPL Cricket Tournament Game, Cricket - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game CPL Cricket Tournament at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "CPL Cricket Tournament, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 26978,
+      "dislikes": 912,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 5000,
+      "totalPlayed": 5697320,
+      "ownGame": true,
+      "addDate": "2019-04-26T16:51:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.753Z",
+      "updatedAt": "2025-06-04T05:27:10.859Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO HIT THE BALL",
+      "webControlKeys": "LEFT CLCIK OF MOUSE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 1706
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
