@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c26f",
+      "id": 6028,
+      "name": "Penguin Battle",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "penguin-battle",
+      "image": "6028",
+      "url": "penguin-battle",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Shooting games always gives gamers a matchless thrill and fun. These games have today gained popularity worldwide among players of all ages and genders. We bring you the best free online game – Penguin Battle where you have to save the cute penguin to save his home from other bad penguins. It’s important to react timely to protect his house against the sudden attacks of the bad penguins. Use your cannon to fight against the other group penguins in this two-player mode game for free!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">The brutal duel has just started. It’s really getting difficult to stay outside due to the unbearable hot. You have taken the responsibility of cooling the situation down. Get into this cool action game and play the role of a penguin who also knows how to use the weapons to stand tough against their enemies! Implement your full gaming skills and know its full control to help the penguin to defend this tower! You will see the hordes of enemy snowmen roll directly coming to you.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">In each round, you have to defend his tower with extra care and attention since your enemy grows and improves with every level. Remember, your enemies are loaded with the armor, helmets, and shields. Hit them hard and improve the ways, like the damage you could make on them, rate of fire and more. Collect the coins that you find on the way to unlock different clothes. Try out this HTML5 game against your PC or explore it with your friend or family person in two-player mode!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/ae92bab6306341ae8b4d21fffbd0b2e1/\r\n",
+      "metaTitle": "Penguin Battle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Penguin Battle at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Penguin Battle Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1562507607.xml",
+      "idealFor": "Man",
+      "likes": 27,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13864,
+      "ownGame": false,
+      "addDate": "2019-07-07T19:23:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.757Z",
+      "updatedAt": "2024-11-06T17:44:17.957Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO SHOOT AND CONTROL TEH GUN",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO CONTROL THE GUN AND SHOOT"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
