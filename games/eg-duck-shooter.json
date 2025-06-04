@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2bf",
+      "id": 6123,
+      "name": "Duck Shooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "eg-duck-shooter",
+      "image": "6123",
+      "url": "eg-duck-shooter",
+      "description": "<div>Are you a biggest fan of angry birds or kind of other popular shooter challenges? If yes, we have got you covered with a brand new and fast-paced action game where you are allowed to practice your shooting abilities in a very cool and friendly environment. Would you like to try it out to have quality fun and kill your boring hours with much ease? Join Duck Shooter and be prepared to go on an amazing duck hunting! Your every successful hunting will reward you with some points.</div><div><br></div><div>All you need to put your fingers on LMB or tap the screen of your mobile phone to shoot all the yellow duck to earn points. Make sure not to push the trigger when the red ducks come on the screen. Of course, your final score would be penalised if you hit the red ducks. The best part is that you can progressively speed up your high score in this simple and easy-to-play endless carnival-style shooting gallery game.</div><div><br></div><div>Use your insane shooting and concentration skills to peg them all! Your best score depends on how expert you are at using your trigger finger. Try to keep your eyes on the screen so that you can kill as many ducks as possible before they disappear from the screen in this free shooter challenge! Avoid hitting an egg meanwhile. You would lose your game in case if you hit an egg mistakenly. Timer is on so be fast in killing and in creating your new best score. Good luck to beat your previous high score!</div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://games.atmegame.com/ag/games/duck-shooter/",
+      "metaTitle": "Duck Shooter, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Duck Shooter at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Duck Shooter Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442954.xml",
+      "idealFor": "Man",
+      "likes": 148,
+      "dislikes": 10,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 59349,
+      "ownGame": true,
+      "addDate": "2019-09-26T01:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-02-05T06:52:01.025Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON DUCK TO HIT",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO HIT THE DUCK"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
