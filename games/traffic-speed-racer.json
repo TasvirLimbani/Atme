@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbb7",
+      "id": 4156,
+      "name": "Traffic Speed Racer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "traffic-speed-racer",
+      "image": "4156",
+      "url": "traffic-speed-racer",
+      "description": "<div>Car game lovers always want something new and challenging! We respect your unique gaming needs and have tried to bring you a brand new racing game that is full of death-defying challenges and smooth driving simulations. Would you like to try your hands and challenge your utmost driving abilities? Join Traffic Speed Racer and be prepared to show off the world you are an expert driver! Driving is not going to be easy as it the road is full of vehicles.</div><div><br></div><div>However, you are a nice driver who knows how to avoid traffic and become a winner of the road. Your little mistake can get your car to collide with other vehicles. You can avoid collisions by changing lanes by clicking on the road. Not only this, you as a driver also have to deal with the other dangerous roadblocks on the road. Be careful and try to keep your vehicles away from all the obstacles that you see until you reach to your destination in this HTML5 car game!</div><div><br></div><div>Common friends! Reaching out to the destination will help to clear the present level. But, you would have other 5 levels to complete. In total, you would have 6 unique and challenging levels to complete. Overtake traffic, collect cash and unlock new vehicles to enjoy a real-time racing experience! Good luck to drive through the road full of traffic and once again prove your driving abilities in front of the world! Try out more popular titles from the category of free car games and have fun in your mobile phones, PCs, tablets and more without download!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/5c8cd6b8a75245698fdac58b2320763a/\r\n",
+      "metaTitle": "Traffic Speed Racer,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Traffic Speed Racer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Traffic Speed Racer Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543658566.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10245,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.733Z",
+      "updatedAt": "2024-03-07T14:44:53.574Z",
+      "__v": 0,
+      "mobileControlKeys": "UP DOWN OF SCREEN TO CONTROL THECAR",
+      "webControlKeys": "L CLICK ON LANE TO CONTROLR THE CAR"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
