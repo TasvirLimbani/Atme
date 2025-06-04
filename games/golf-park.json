@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6b",
+  "category_name": "golf",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0b0",
+      "id": 5452,
+      "name": "Golf Park",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "golf-park",
+      "image": "5452",
+      "url": "golf-park",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Finally, you have noticed the nice weather to practice your golf skills during this weekend! You do not want to miss out this opportunity, so you have decided to go to your nearest playground to enjoy your favorite sport, somewhere on a green meadow. The perfect relaxing way for you is only to play golf instead of watching the animals, going on a picnic or playing any other sport. So, what are you waiting for? Join Golf Park game now and be prepared to take your fantasy for the sport to the next level!</span></div><div><span style=\"font-size: 13.3333px;\">The best part of exploring this latest online golf game here on atmegame.com is that you do not carry any equipment and any amount of money in your pocket. All you need to do is just open up your favorite online sport on your PC or mobile phone and get yourself ready to dive into the unlimited fun. Explore it alone or play online for free with your whole family! Do not forget to practice a few good hits to create your best score!</span></div><div><span style=\"font-size: 13.3333px;\">It is up to you how wisely you apply your quick reflexes and concentration skills not to let anyone to beat you! Keep up the good work to become a champion of golf in this awesome html5 game! We have a wide array of free sports games on our leading online game portal. Give our all games a try to learn how easier it is to make a right game choice here on atmegame.com! Good luck everyone to enjoy the best games online without going anywhere else!!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/adf0a86358e8487bb6674af87ba4d2ed/\r\n",
+      "metaTitle": "Golf Park,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Golf Park at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Golf Park Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 53,
+      "dislikes": 9,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 19595,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-02-11T08:12:45.509Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP AND HOLD FOR POWER RELESE TO HIT THE BALL",
+      "webControlKeys": "KEEP L CLICK PRESS AND RELESE TO MAKE THE GOLE"
+    },
+    "rating": {
+      "rating": "2.2",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6b",
+      "name": "golf",
+      "slug": "golf",
+      "icon": "golf-games"
+    }
+  }
+}
