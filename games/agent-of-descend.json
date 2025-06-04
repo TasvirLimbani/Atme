@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b955",
+      "id": 3507,
+      "name": "Agent of Descend",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "agent-of-descend",
+      "image": "3507",
+      "url": "agent-of-descend",
+      "description": "You are the Agent of Descend. Each floor has enemies that you need to take out so prepare yourself by buying new weapons, gear and increasing your skills. Agent of Descend is a fun, challenging action turn based RPG game.\r\n",
+      "size": 900,
+      "height": 510,
+      "script": "https://html5.gamedistribution.com/355c222f3f58408e943c8ecf1faab0e7/\r\n",
+      "metaTitle": "Agent of Descend, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Agent of Descend at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Agent of Descend Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536577004.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9901,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:26:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2024-01-28T08:45:03.590Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP  TO UP/DOWN ICONS TO CHANGE THE FLOOR, ACTION ICONS TO HIT,GUN ICON TO CHANG E THE WEAPON",
+      "webControlKeys": "UP/DOWN ICONS TO CHANGE THE FLOOR, ACTION ICONS TO HIT,GUN ICON TO CHANG E THE WEAPON"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
