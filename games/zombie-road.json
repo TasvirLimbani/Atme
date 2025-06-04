@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb1a",
+      "id": 3995,
+      "name": "Zombie Road",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zombie-road",
+      "image": "3995",
+      "url": "zombie-road",
+      "description": "<div>Your fun of car driving can become double when it mixes with the zombie-killing! Yes, we have got you covered today with a brand new racing game where you have to deal with the biggest zombie apocalypse using your insane driving skills. Can you dare now to accept this unique action-packed driving challenge? Join Zombie Road and be prepared to swerve between the big rocks on the road! Be careful as the blood-thirsty zombies in different waves will also try to stop you from moving forward!</div><div><br></div><div>Do not forget to collect the coins while running over the brainless souls. Kill as many as you can while avoiding the rocks to survive for as long as possible in this brand new action game! Drive your vehicle through the openings between the rocks and make sure that your vehicle does not go out of view in this top-to-bottom scrolling game! It will be amazing to unlock new car models with the help of enough coins from the garage.</div><div><br></div><div>In this HTML5 zombie game, you would have a fight for space for your vehicle. Common boys! You are the only hope for all your fellow citizens. So clear the screen from the maximum number of zombies to get out of the town and make your country people feel proud on you. Smash through different waves of deadly zombies to build up your own high score in this endless driving game! Use your driving and concentration skills to create high score and dominate the leaderboard!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/285d217e0c5e4777a5aefd1ce352f7fd/\r\n",
+      "metaTitle": "Zombie Road,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zombie Road at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Zombie Road Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9695,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-05-10T22:38:09.843Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP L-R OF SCREEEN TO CONTROL THE CAR",
+      "webControlKeys": "L-R ARROWS TO CONTROL"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
