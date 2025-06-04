@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682adc7",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c43d",
+      "id": 6573,
+      "name": "Space Bubble Hero",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "space-bubble-hero",
+      "image": "6573",
+      "url": "space-bubble-hero",
+      "description": "<div>Your space area has been invaded by a horde of colourful bubbles. You as the most reliable astronaut of your planet have taken care of the responsibility of cleaning them all. Hold your seat belts and get ready to challenge your bubble shooting abilities in space in this brand new arcade game! Put your fingers on your mouse or tap the screen of your mobile phone to shoot and match the colour of the bubbles to create your score in Space Bubble Hero!</div><div><br></div><div>You can match 3 or more of the same colour bubbles and keep doing it until you clear the screen to complete the level. Common friends! It is easy for you to make the epic matches and clear the bubbles as fast as you can. Aim your target precisely before shooting your balls! Follow a proper strategy to blast all the bubbles away in this popular HTML5 Bubble shooter game! There are 70 unique and highly addictive levels to play through.</div><div><br></div><div>Spot a few planets in the background area and your shooter will be a spaceship! Go to the menu to pause the game or restart each round! Feel free to toggle the music and sound by going to the home screen! You will see a new row forming on the top of the screen after each 5 shots. There will be no progress bar so you can know about your final score once the game is finished. Good luck completing all the levels! Find such more interesting bubble games on atmegame.com and have fun, no download required!</div>",
+      "size": 500,
+      "height": 750,
+      "script": "https://games.atmegame.com/games/space-bubble/",
+      "metaTitle": "Space Bubble Hero Game, Arcade - Play Online Free Games: Atmegame.com",
+      "metaDesc": "Play the online free game Space Bubble Hero at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Space Bubble Hero, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 3540,
+      "dislikes": 613,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 549004,
+      "ownGame": true,
+      "addDate": "2020-11-28T17:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-06-03T09:18:41.089Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO HIT THE BUBBLES",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO HIT THE BUBBLE"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 233
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682adc7",
+      "name": "bubble-shooter",
+      "slug": "bubble-shooter",
+      "icon": "icon-iconAsset-56"
+    }
+  }
+}
