@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bcd9",
+      "id": 4448,
+      "name": "Double Guns",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "double-guns",
+      "image": "4448",
+      "url": "double-guns",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Oh! So you consider yourself as a nice shooter of your area. Here we have brought to you a brand new action-packed challenge where you would have two guns to shoot your target. Wow! Does not it sound pretty challenging? Join Double Guns game and show off the world that you are good at shooting no matter what kind of challenges you have given to take care of! Your target will keep coming from the bottom so you need to be very quick.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Make sure to shoot them at a perfect angle and do not let them fall down otherwise you will lose the game. Being a nice shooter, you know how to fire your bullet to clear your target from the screen. Try to last for as long as possible to secure the maximum number of points in the end in this html5 gun shooter! This time you do not have the real pistols in your hand, but a pair of water guns to break objects in the air.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You are sure to experience the different gameplay in this unique type of shooting challenge. There are no alien invaders, deadly enemies, dangerous explosions and other more death-defying challenges to face off. Your objective in this cool physics gun game is to shoot at multiple objects that you are thrown into the air. There are multiple interesting and engaging objects like a big watermelon, a potted flower, tasty French fries, and juicy hamburgers to break. Good luck to stay in the game for long to score big! All the best to enjoy your dream of being the best shooter of the city!&nbsp;</span></div>",
+      "size": 500,
+      "height": 790,
+      "script": "https://html5.gamedistribution.com/f120b84c309043feaadaaefe2afd0a06/\r\n",
+      "metaTitle": "Double Guns Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Double Guns at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Double Guns Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543992154.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11495,
+      "ownGame": false,
+      "addDate": "2018-12-05T12:12:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.736Z",
+      "updatedAt": "2024-02-17T03:02:18.861Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L-R ARROWS TO SHOOT THYE GUNS"
+    },
+    "rating": {
+      "rating": "2.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
