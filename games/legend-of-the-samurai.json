@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c108",
+      "id": 5550,
+      "name": "Legend of the Samurai",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "legend-of-the-samurai",
+      "image": "5550",
+      "url": "legend-of-the-samurai",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you ready to try your hands in something highly challenging and interesting adventure game? Join Legend of the Samurai and get yourself prepared to enter the adrenaline and fun-filled activity! We are damn sure that you will not stop yourself from recommending this brand new online game to your friends and families after trying it out once in your device. Play it on your desktop or use your mobile phone to pass your vacant periods when you are in a plane, park or in cafeterial!</span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this one of the most popular running games for boys is to help samurai to escape from the evil demon. The job is pretty challenging, but you can achieve your goal if you pay attention to details. Do not forget to avoid bottlenecking and destroy all bad things that you see on his path! Try to collect as much points as possible to complete the game with the highest score!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You will have 8 lives to use during the gameplay. Some obstacles cause most of your lives while leaving you to die soon. Do not forget to collect lives as well to increase the chances of your long survival in this fun survival game! Enjoy it in various browsers like chrome and safari! You are also allowed to explore it on your android phone and tablet (Samsung, iPad, iPhone, Windows phones and Android devices). Good luck to have a blast in our all games for free!</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/74d13cb3d8e749469d65c93000aae2bd/\r\n",
+      "metaTitle": "Legend of the Samurai,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Legend of the Samurai at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Legend of the Samurai Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1553920821.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9353,
+      "ownGame": false,
+      "addDate": "2019-03-30T10:10:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2024-03-28T11:40:08.991Z",
+      "__v": 0,
+      "mobileControlKeys": "SINGLE TAP TO JUMP,DOUBLE- JUMP HIGHER,JUMP ON BUBBLES TO KILL THEM",
+      "webControlKeys": "SINGLE CLICK TO JUMP,DOUBLE CLICK-JUMP HIGHER, JUMP ON BALOONS TO KILL THEM"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
