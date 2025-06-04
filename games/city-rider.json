@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b638",
+      "id": 2656,
+      "name": "City Rider",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "city-rider",
+      "image": "2656",
+      "url": "city-rider",
+      "description": "<div>City Rider is one of the best 3D car racing game where you will have to drive your four-wheeler in a fast-paced environment. Get ready to take your seat in a beautifully-crafted car and show off your best driving skills in a car simulation game. Hope you would love to have a high-octane ride in this free online car driving game for boys! Choose from one of exclusive 10 vehicles and drive it through one of three high-quality environments that vary from a beautiful city to a sunny desert area.</div><div><br></div><div>You would also get a chance to select from drifting, racing or simulator modes. In this brand new racing game, you would also have the freedom to completely change the way you play! It will take a few minutes to prove yourself as an elite driver in the town by racing through the streets or sandy roads.&nbsp; Three big maps, a huge variety of cars with unique physics and driving characters you have to be explored in this cool PC game.</div><div><br></div><div>The authentic destruction model, cool graphics, one countryside map, and two bustling cities will surely leave you wanting more to play.&nbsp; The huge variety of amazing cars and finest audio and video effects are a perfect addition to a fair gameplay. The controls of this best car racing game include arrow keys to drive your car, 1 and 2 number keys to change cars, C to change the view, F to use nitro, Space to use the handbrake and EQZ to control your lights.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/city-rider/index.php",
+      "metaTitle": "City Rider, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game City Rider at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "City Rider Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8254,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-09-01T09:35:57.999Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO DRIVE, SPACE- BREAK, C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
