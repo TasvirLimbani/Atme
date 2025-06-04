@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aeb1",
+      "id": 233,
+      "name": "Taxi Truck",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "taxi-truck",
+      "image": "233",
+      "url": "taxi-truck",
+      "description": "The online racing game as being constituted for mini vehicles has become too old, however, in this online racing game Taxi Truck, a major difference that has been showcased for the free online racing game. The Taxi Truck a vehicle that is too bulkier and heavier in comparison to other taxis can accommodate a good number of passengers and on the road can easily surpass other vehicles literally crush them.<br><br>The sole objective that you have to accomplish in this online Taxi Truck game is that you have to drop the passenger at the door of his home within the permissible time limit of one minute as mentioned in the game. The difficult part of this online racing game is to adjust the rough track on which you will have to drive your Taxi Truck. This makes the suitability of this online racing game to be as formula car racing type where a player gets involved into the downtown contests and competition.<br><br>As an expert car driver in free online car racing game, you are expected to drive expertly on a track that is made up of containers, waste cars and other objects to make this game really thrilling and enjoying. Though, the difficulty increases in the game as one level after another. Game control is offered by the means of arrow keys and AWSD keys.",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=89ed06497a89444f96ec9ab34731bfa0",
+      "metaTitle": "Taxi Truck, Truck Racing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "The Taxi Truck is online racing game as being constituted as a heavy Truck being used in a free online racing game.",
+      "metaKeyword": "Taxi Truck, Racing, Truck Racing, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 102,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 13427,
+      "ownGame": false,
+      "addDate": "2016-07-06T00:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.665Z",
+      "updatedAt": "2024-03-23T23:21:56.719Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
