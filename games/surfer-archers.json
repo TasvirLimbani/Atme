@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b39a",
+      "id": 1921,
+      "name": "Surfer Archers",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "surfer-archers",
+      "image": "1921",
+      "url": "surfer-archers",
+      "description": "<div>An epic battle between good versus evil is soon going to be happened on the ocean. Your objective in this challenging and electrifying shooting game is to collect a bow and kill all the evil skeletons before they initiate destroying you. Make sure that you get your surfboard, aim and shoot your arrows towards the enemies (skeletons) on time. The proper usage of bow will help you launch your arrows perfectly. You can use the mouse or touch controls to perform the shooting of arrows in this action game. </div><div>Surfer Archers is a fun-filled and beautifully-designed action game liked by both boys and girls from all across the world. Suitable for kids and grown-ups of all ages, this game features unique and fabulous graphics, easy control and excellent audio and video effects. Experience the fun of this flash game in your favourite browser! You as a hero in this cool shooting game will have to stand against the powerful skeletons on the waves. Destroy as many enemies as you can in order to make a huge score. </div><div>Killing of each enemy will give you a few gold coins as a reward. Remember your enemies will also have bows and arrows. So, just focus on what they are doing when you face them so that you can react first and destroy all of them to make your win in this one of the best brand new action games to play. You might be lost your game if you are hit. The force of your shot and the direction of the arrow can be customized on your own. Get ready to reply your enemies constantly while playing at higher levels. Apply your gold coins collected in each level to upgrade your bow, arrows and HP for the advanced levels. Shoot on the head of your enemies to kill them and have fun!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://play.famobi.com/surfer-archers/A-925FD",
+      "metaTitle": "Surfer Archers, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Surfer Archers at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Surfer Archers, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "Deactive",
+      "idealFor": "Man",
+      "likes": 176,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 46859,
+      "ownGame": false,
+      "addDate": "2018-03-14T15:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2025-02-17T15:59:58.873Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO AIM AND SHOOT",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO AIM, RELAESE TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 19
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
