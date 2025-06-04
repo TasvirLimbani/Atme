@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd32",
+      "id": 4538,
+      "name": "Candy Monster Eater",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "candy-monster-eater",
+      "image": "4538",
+      "url": "candy-monster-eater",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This monster looks very hungry and wants more candies to fulfill his craving for sweets! Do you want to help him out? Join Candy Monster Eater and get ready to guide him to eat as many candies as you can by matching 3 gems of the same candy! It is going to be amazing as he will have plenty of items to eat and enjoy. Your primary goal in this brand new arcade game is to swap adjacent candy tiles and make them remove from the screen.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Drab gems from left to right, right to left, upward to downward or download to upward to match them fast! There are multiple levels to play through and different achievements to enjoy. He is very hopeful and trusts on your swapping skills. Try to swap as fast as you can to make him eat as many candies as possible in this html5 puzzle challenge! You can track your present status on the top of the screen. Keep swapping until the yellow line reaches the end in this match3 game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Track your present score and best score by having a look at the top of the screen! Check out more match 3 puzzles on our website for free and have fun to the ultimate possible level! Play alone or compete against other players in your preferred device! Create your own new score and share it with your friends and families! Browse through our wider arcade challenges, unlock all levels and have a blast!</span></div>",
+      "size": 400,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/19c3abd515614803b9d28de1749940e9/\n",
+      "metaTitle": "Candy Monster Eater, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Candy Monster Eater at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Candy Monster Eater Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527222.xml",
+      "idealFor": "All",
+      "likes": 2,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7626,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:50:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2023-07-18T02:59:28.640Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO MATCH THE SAME IMAGES IN ROWS AND COLOUMS,CONNECT ATLEAST 3 IMAGES",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE ANS SWIPE TO MATCH THE SAME IMAGES IN ROW AND COLOMS, MATCH AT LEAST 3 IMAGES"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
