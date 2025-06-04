@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb20",
+      "id": 4001,
+      "name": "Mini Drift",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "mini-drift",
+      "image": "4001",
+      "url": "mini-drift",
+      "description": "<div>We have brought to you today a brand new racing challenge where you have to show off your drifting abilities. Do you think that you are the right candidate for this job? Join Mini Drift and be prepared to drift around the corners for as long as possible to create your own huge score! The super narrow turn radius, green checked environment and a grey colour road can keep you entertained for hours. This little spunky speedstar will allow you to drift like crazy.</div><div><br></div><div>The tap-and-release controls and a lovely &amp; simple â€œNascar-styleâ€ track makes its gameplay easy and worth playing. Your best score will depend upon how many laps you can cover by showing your drifting abilities. Be careful as the speed of car will increase with every lap you complete in this HTML5 car game! Yes, this amazing feature does not allow you to learn the gameplay finely. Keep improving your reaction speed and timing while drifting in this car drift game!</div><div><br></div><div>Make sure to avoid drifting too wide or so closely otherwise you would lose the game immediately. Do not lose hope! Keep challenging your timing and drifting abilities to play all the way through 10 unique and tricky levels! Track your present level by keeping your eyes on the top left corner of the screen! The middle portion of the screen will show your present score and top right corner of the screen will show your target score of the present level. Good luck to prepare your best score and become the best drifter of your city!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/50e457ba48f74a82a489fbe127c69940/\r\n",
+      "metaTitle": "Mini Drift, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mini Drift at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mini Drift Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12065,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-03-17T01:30:00.838Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH TO CONTROL THE CAR",
+      "webControlKeys": "L CLICK TO CONTROL THA CAR"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
