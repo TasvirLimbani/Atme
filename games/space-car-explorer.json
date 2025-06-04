@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b362",
+      "id": 1855,
+      "name": "Space Car Explorer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "space-car-explorer",
+      "image": "1855",
+      "url": "space-car-explorer",
+      "description": "Be adventurous and try to explore different planets up into space and collect rock samples while you are there. Drive a space car, watch out for the gravity, be fast and safe, always watch your health bar, NOS bar and timer. Collect power ups along the way and coins which you can use between levels to buy some cool upgrades. Each level is more challenging than the previous ones, so stay focused. You also get a fun mini-game to keep things interesting! Have an incredible time playing Space Car Explorer!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=30f8f6b940d1073d8b6a5eebc46dd6e5\r\n",
+      "metaTitle": "Space Car Explorer, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Space Car Explorer at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Space Car Explorer Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630386.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 6956,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:03:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2023-12-27T03:05:17.150Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
