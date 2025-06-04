@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b350",
+      "id": 1827,
+      "name": "Service Parking Mania",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "service-parking-mania",
+      "image": "1827",
+      "url": "service-parking-mania",
+      "description": "Drive around the city in your towing truck and pick up damaged cars so you can take them to the car service yard, where they will be fixed. Make sure you park correctly everywhere you are required to and drive carefully in order not to hit anything and crash your truck. Also be aware about time, because you have a limited amount in which to complete the mission and it will also be an important part of your score. Have an incredible time playing this exciting game!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=c57abe86de4e516e12dfa386053fbfe2\r\n",
+      "metaTitle": "Service Parking Mania, Parking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Service Parking Mania at atmegame.com ! We have selected this Parking games for best excitement and thrill in you!",
+      "metaKeyword": "Service Parking Mania Game, Games, Parking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630155.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8908,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2024-01-24T01:56:50.452Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
