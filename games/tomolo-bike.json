@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad75",
+  "category_name": "bicycle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad75",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c02d",
+      "id": 5315,
+      "name": "Tomolo Bike",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "tomolo-bike",
+      "image": "5315",
+      "url": "tomolo-bike",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You have a complete command over an awesome bicycle in Tomolo Bike. Are you ready to enter yourself in a unique and friendly gaming environment? Join this brand new racing game and forget all the bicycle challenges that you have ever tried! Your objective is nothing except to roll your bicycle on the yellow platforms that have plenty of gaps. Luckily, you as an expert racer know how to make the jump over these platforms and reach safely to your destination.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">We are pretty sure that you have the skill to control this fragile bike that does not have the brakes. May be you take some time initially to learn how to handle it. However, once you get the command over it you will forget all the bicycle race games tried previously. Manage the directions of your bicycle through the arrow keys on a sky road that is full of pits in this highly challenging html5 bike driving game! Try to reach it to the finish line without falling or being crashed with some other obstacles!</span></div><div><span style=\"font-size: 13.3333px;\">Click the play button and see yourself becoming a champion of the world of free racing games! You can play it in all modern browsers without wasting your time to download app or software. This helps keep some space free in your device for other important works. Due to being developed with the help of html5 technology, this online game is playable on android phone, iPhone or iPad apart from PC. Check out more bike race games here on atmegamecom!</span></div>",
+      "size": 1200,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/5111fc2086f4442abbe1a43bcfd5df5f/",
+      "metaTitle": "Tomolo Bike,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tomolo Bike at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Tomolo Bike Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352477.xml",
+      "idealFor": "Man",
+      "likes": 207,
+      "dislikes": 48,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 26779,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:11:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.749Z",
+      "updatedAt": "2025-02-20T10:22:56.367Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS RIGHT SCREEN TO MOVE, LEFT SCREEN TO BALANCE",
+      "webControlKeys": "L-R ARROW TO CONTROL THE CYCLE"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 18
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad75",
+      "name": "bicycle",
+      "slug": "bicycle",
+      "icon": "bicycle-racing-games"
+    }
+  }
+}
