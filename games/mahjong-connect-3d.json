@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd47",
+      "id": 4559,
+      "name": "Mahjong Connect 3d",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "mahjong-connect-3d",
+      "image": "4559",
+      "url": "mahjong-connect-3d",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The fairy loves with the highly-addictive and challenging Mahjong games. When she returns to her most favorite place forest, she decided to introduce a Mahjong puzzle in front of the gate of the forest. You have to complete all the levels to be included in the list of smartest friend of fairy. Are you able to help her out when she needs you the most? Join Mahjong Connect 3d and get ready to connect two same tiles to remove them from the board!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">When you click the play button, you would see cubes instead of tiles. Choose two 3D tiles or cubes of the same symbols to make them disappear from the board! Here the twist is that your task can only be completed if these similar tiles are on the edges. Turn the cubes around the screen with the help of your mouse on desktop or tapping the screen on mobile phone! Get ready to remember the pieces you want to connect while turning cubes! Track your time by having a look at the timer you see at the bottom of the screen!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Be careful and try to complete all 12 levels fast to grab some bonus points in this brand new arcade game! In case of being stuck, you can use some hints to know how to solve the puzzle and reach to the next level. A tile includes two adjacent free sides with symbols. Eliminate all the pieces from the board to win in this free solitaire game! Your calculation, strategy, skill and a certain degree of luck will work to find out matching pairs of images. Good luck to try our more Mahjong games and have blast with your friends without download!</span></div>",
+      "size": 800,
+      "height": 590,
+      "script": "\nhttps://html5.gamedistribution.com/82b56c8343d642cba472f76174c3112e/\n",
+      "metaTitle": "Mahjong Connect 3d, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mahjong Connect 3d at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Mahjong Connect 3d Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9337,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-06-28T18:29:50.854Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK OF MOUSE TO CONNECT THE IMAGES"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
