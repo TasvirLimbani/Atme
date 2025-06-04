@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b91a",
+      "id": 3444,
+      "name": "Slime Hunter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "slime-hunter",
+      "image": "3444",
+      "url": "slime-hunter",
+      "description": "Those slime are not cute monsters to pet. Come to play, so many slime to slay. Gotta slay em all!\r\n",
+      "size": 800,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/9324856cc9a6456197c8bfba7587e2e7/\r\n",
+      "metaTitle": "Slime Hunter, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Slime Hunter at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Slime Hunter Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536575483.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 13271,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-03-17T11:16:25.746Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS ON SREEN AND SWIPE TO MOVE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO MOVE"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
