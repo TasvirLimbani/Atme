@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfae",
+      "id": 5183,
+      "name": "EG RTS Battle",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "eg-rts-battle",
+      "image": "5183",
+      "url": "eg-rts-battle",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The highly addictive and challenging adventure challenge has reached your home today. You should not miss it out especially if you seek for extra thrill and entertainment. All it takes to click the play button on EG RTS Battle and see yourself fighting like a true warrior. Choose you character, grab your weapon and enter the battlefield as a brave heart! We can understand that you find it difficult initially to understand how to overcome your enemies. But, do not bother you will know everything after a few trials.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective is to help your team to deploy, choose and move multiple different units in real time in this cool html5 adventure game. It is not to be easy at all as your troops will have to fight against automatically spawned AI enemies. Come forward and do fights like a warrior as they are highly determined to destroy your castles! You have to be very fast to deploy your troops like knights, archers and giants and stop them from entering your places.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The team of your enemies is very strong. A right kind of strategy and your quick decision making skills will help get through all the hurdles and win this military strategy game. Hurry up, friends! It is time to send everybody from the courageous swordsmen to club-wielding monster into the battlefield.&nbsp; All players will respect your fighting skills and consider you as a true fighting champion if you mark your victory in each level. Have fun online without installing any other app or software!!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/7e6db75f627c4420bcf3d16a7e9124b9/\r\n",
+      "metaTitle": "EG RTS Battle,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EG RTS Battle at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "EG RTS Battle Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545866.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7863,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2024-09-10T14:02:11.862Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "CHOOSE THE CHARACTER AND CLICK THEM TO FIGHT "
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
