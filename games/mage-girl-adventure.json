@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c32d",
+      "id": 6252,
+      "name": "Mage Girl Adventure",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "mage-girl-adventure",
+      "image": "6252",
+      "url": "mage-girl-adventure",
+      "description": "<div>Wow! An exclusive 2D side-scroller challenge in the same style of most popular adventure game titles such as Sonic, Donkey Kong and Super Mario is out! Are you ready to challenge your jumping and quick reflexes skills again? Join Mage Girl Adventure and be prepared to help your character to cross the mystic valley where plenty of death-defying challenges are waiting for her! It is you who has taken the responsibility of finding the destiny of mage girl.</div><div><br></div><div>You have to fight against different types of creatures and beasts along the way. Make sure to collect all the stars to boost your score in this HTML5 platform game. Guide your brave girl through all unique and addictive 30 levels and prove the world that you are a real adventurer! Choose any option out of three World and get ready to control your witch when she is looking forward to cross the mystical valley! Put your fighting instincts to the test to survive through the 10 lovely stages!</div><div><br></div><div>Use the arrow keys or apply the touch buttons shown on the screen to move your character in this platform adventure game! Try it out on the bus station, on the metro, at work or at school or any other location you want! Create your best new score and do not forget to share it on leading social networking websites! If get bored or are stuck with this cool jumper, feel free to check out our wider collection of free adventure games that are available to play online without download. Good luck for a lovely gaming day with your friends!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/c582f54adb094bc18bfad71272dab31e/\r\n",
+      "metaTitle": "Mage Girl Adventure,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mage Girl Adventure at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mage Girl Adventure Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579513428.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 8893,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2024-03-07T04:29:37.384Z",
+      "__v": 0,
+      "mobileControlKeys": "UP ARROW TO JUMP, LEFT RIGHT ARROW TOO LEFT RIGHT, SHOOT ICON TO SHOOT",
+      "webControlKeys": "X TO HIT, UP ARROW TO JUMP, LEFT RIGHT ARROW TOO LEFT RIGHT,"
+    },
+    "rating": {
+      "rating": "2.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
