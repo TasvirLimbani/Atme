@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b513",
+      "id": 2319,
+      "name": "Road Safety",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "road-safety",
+      "image": "2319",
+      "url": "road-safety",
+      "description": "<div><span style=\"font-size: 13.3333px;\">People of this city do not know the traffic rules and are unable to cross roads without any help. Would you come forward and show them the right path to deal with the multiple traffic challenges? If yes, join Road Safety game and be prepared to lead the group of people across the street safely. It is now your responsibility to help them cross the road and reach its another side without hitting any vehicles that are running in good number.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Be careful as these people will fall down and start bleeding on the street if they collide with any vehicle on the road in this brand new adventure game! Keep your eyes on arrow buttons that are made on the starting of every road. Stop when these arrow buttons turn into red and click on the character to move when they turn into white! Avoid any mess that is available on the street and try to help all your characters to reach safely to earn all the stars in each level of this HTML5 platform game!</span></div><div><span style=\"font-size: 13.3333px;\">There are multiple levels to try out and keep you engaged during your fun time. These people have come to you with a big hope so do not get them disappointed. Pay attention to the details and let them cross at the right moment to finish all the levels! Do not forget to check out the other free adventure challenges that feature multiple engaging levels and engaging gameplay. Good luck to have the best fun online without download. This fun platformer is available for both boys and girls and playable on all the latest devices.&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/63a8f57de3114c7d86e5bd48ae9cf7fd/\r\n",
+      "metaTitle": "Road Safety, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Road Safety at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Road Safety Game, Action Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 8658,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-02-01T06:59:37.425Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO CROSS THE ROAD",
+      "webControlKeys": "TAP TO HELP TO CROSS THE ROAD"
+    },
+    "rating": {
+      "rating": "0.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
