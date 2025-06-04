@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad81",
+  "category_name": "animals",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad81",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8cb",
+      "id": 3345,
+      "name": "Ben and Kitty Photo Session",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "ben-and-kitty-photo-session",
+      "image": "3345",
+      "url": "ben-and-kitty-photo-session",
+      "description": "Ben and Kitty are having a photo session after their wedding.Help them change outfits for the photo session and help them look great.Pick the best outfits for Kitty and Ben and enjoy the photo session.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/7c2e20dab7fd4818a808d040387e0c6e/\r\n",
+      "metaTitle": "Ben and Kitty Photo Session Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ben and Kitty Photo Session at atmegame.com ! We have selected this girls games for best excitement and thrill in you!",
+      "metaKeyword": "Ben and Kitty Photo Session Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533533545.xml",
+      "idealFor": "Man",
+      "likes": 35,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 10105,
+      "ownGame": false,
+      "addDate": "2018-08-06T11:02:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.722Z",
+      "updatedAt": "2024-11-10T07:44:48.191Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS TO DRESSUP",
+      "webControlKeys": "L CLICK OF MOUSE TO DRESSUP"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad81",
+      "name": "animals",
+      "slug": "animals",
+      "icon": "Animals Games"
+    }
+  }
+}
