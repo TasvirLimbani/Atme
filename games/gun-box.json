@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b49c",
+      "id": 2191,
+      "name": "Gun Box",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "gun-box",
+      "image": "2191",
+      "url": "gun-box",
+      "description": "Gun Box is a crazy shooting game where all that really matters is to reach the highest scores with unlockable characters and multiple achievements becomes fun and challenging at the same time. ? Achieve 12 challenging achievements. ? Super simple controls. Swipe left, right & up is all you need to move around. ? Extremely addictive.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/78658632756249c1a75e9a45a84cfad6/\r\n",
+      "metaTitle": "Gun Box, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Gun Box at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Gun Box Game, Action Games, shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1523600544.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11551,
+      "ownGame": false,
+      "addDate": "2018-04-13T11:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2025-02-08T22:08:57.367Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO MOVE",
+      "webControlKeys": "ALL ARROWS TO MOVE, A-SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
