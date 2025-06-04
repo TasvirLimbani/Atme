@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b819",
+      "id": 3162,
+      "name": "Fat to Fit Princess Fitness",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "fat-to-fit-princess-fitness",
+      "image": "3162",
+      "url": "fat-to-fit-princess-fitness",
+      "description": "Hurry up! The princess needs you urgently; it is a matter of image and she could not attend to the big party that comes because lately, she was not in such a good shape, but now is your time to get her back on the feet. Take her to the gym and make sure she gets from fat to fit in few days because the ball is ahead and the perfect dress should suit her perfectly if she wants to impress.\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/d7a64a6138ae46d6808a39b7543ab4ce/\r\n",
+      "metaTitle": "Fat to Fit Princess Fitness,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Fat to Fit Princess Fitness at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Fat to Fit Princess Fitness Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533532485.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 10157,
+      "ownGame": false,
+      "addDate": "2018-08-06T10:44:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.720Z",
+      "updatedAt": "2024-01-04T19:51:21.800Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREN TO HELP PRINCESS DOING EXERCISE",
+      "webControlKeys": "L CLICK OF MOUSE TO HELP PRINCESS DOING EXRCISE"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
