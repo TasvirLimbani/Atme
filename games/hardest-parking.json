@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c15b",
+      "id": 5647,
+      "name": "Hardest Parking",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "hardest-parking",
+      "image": "5647",
+      "url": "hardest-parking",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The Hardest Parking game is ready to give you Goosebumps! Join this brand new car parking game and be prepared to learn how to park your vehicle on a particular place given to you! Make sure not to crush your four-wheeler and also remember that your car does not have any break to stop. Drive your car carefully until you park it safely in this free online parking game! One thing is sure that parking this crazy car will surely give you some fun and crazy hours.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You will be given 3 stars for crash limit. Your game will be over if you have touched anything on the platform three times. So, try not to hit other things while looking forward to park your vehicle! When the car parking is done perfectly, the green will be displayed on the right top of the screen. You can also get 3 stars with some good comment like “Wow!!” “Perfect!!” when you complete the task timely with the precision.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Finally, you will meet three options, including ‘retry’, ‘levels’ and ‘next’ that you will see on the screen. Retry the present level if you have failed to clear it or want to try it again or move to the advanced one! It is not pretty easy to play this cool HTML5 park game using the arrow keys. Our free online game website features a number of point and click games for kids. Feel free to play all free online games to surprise your gaming senses to the fullest</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/c78ac9b318e64201a4f2d87d6e6c1086/\r\n",
+      "metaTitle": "Hardest Parking,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hardest Parking at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Hardest Parking Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1555400796.xml",
+      "idealFor": "Man",
+      "likes": 20,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11275,
+      "ownGame": false,
+      "addDate": "2019-04-16T13:16:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.753Z",
+      "updatedAt": "2024-03-11T15:25:13.017Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICON TO HANDLE THE CAR,RIGHT ICON TO SPEED AND BACK",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
