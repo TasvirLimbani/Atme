@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b7fc",
+      "id": 3133,
+      "name": "Mini Skin Doctor",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "mini-skin-doctor",
+      "image": "3133",
+      "url": "mini-skin-doctor",
+      "description": "The crazy experiments in the laboratory have side effects on Mini and this is your chance to learn how to treat them! Explore the medical tools, some of them are really cool! You can use different lasers to treat the skin break outs, but also spa masks to calm down the skin. Discover all the tools and take care of Mini, he will certainly feel better after the treatment!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/7a03e0d807dc4bae840173b0cc01d928/\r\n",
+      "metaTitle": "Mini Skin Doctor,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mini Skin Doctor at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mini Skin Doctor Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533531766.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7547,
+      "ownGame": false,
+      "addDate": "2018-08-06T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.719Z",
+      "updatedAt": "2023-12-19T03:19:51.558Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SELCT THE ITEMS  FOR SKIN TREATMENT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS FOR SKIN TREATMENT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
