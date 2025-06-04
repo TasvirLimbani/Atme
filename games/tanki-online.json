@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8a",
+  "category_name": "best",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682adc2",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b45f",
+      "id": 2121,
+      "name": "Tanki Online",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "tanki-online",
+      "image": "2121",
+      "url": "tanki-online",
+      "description": "Tanki Online is the free-to-play MMO-shooter with real-time PvP-battles. Customize your futuristic tank by combining guns, hulls and protective modules, and face real players in four furious battle modes: Deathmatch, Team deathmatch, Capture the flag and Control points. Instant respawns, millions of players around the globe, loads of arenas, non-stop action and adrenaline await you in Tanki Online.",
+      "size": 1200,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/93a8298746454e9f8003c1b83c78cd0a/",
+      "metaTitle": "Tanki Online, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tanki Online at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Tanki Online, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "Deactive",
+      "idealFor": "Man",
+      "likes": 109,
+      "dislikes": 8,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 28984,
+      "ownGame": false,
+      "addDate": "2018-03-28T16:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.702Z",
+      "updatedAt": "2025-04-18T14:50:24.930Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "OFFLINE GAME"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682adc2",
+      "name": "tank",
+      "slug": "tank",
+      "icon": "icon-iconAsset-56"
+    }
+  }
+}
