@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad68",
+  "category_name": "pool",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad68",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af6d",
+      "id": 614,
+      "name": "Speed Pool King",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "speed-pool-king",
+      "image": "614",
+      "url": "speed-pool-king",
+      "description": "Speed pool king game is an ultimate treat for <a href=\"http://www.atmegame.com/online-pool-games\" title=\"Online Pool Games\" target=\"\"><font color=\"#0033cc\">pool game</font></a> enthusiasts. In this free online game, you as a player are authorized to play and win different game levels on a classic pool table. You can take the help of the finger or mouse to pot the balls. Once you are done with potting all the balls in the given time, you are allowed to reach the next level.<div><br></div><div>Playing this worldwide popular sports game is a fantastic way to show others how much capable you are to defend your title as the Speed Pool Game. You have to pot as many balls as you can do within the time frame in order to win this physical skills-based billiard game. It is really fun and cool to play this one of the top-rated free online games.<br></div><div><br></div><div><div><br></div><div>Referred to as the best billiard game in the <a href=\"http://www.atmegame.com/online-pool-games\" title=\"Free Pool Games\" target=\"\"><font color=\"#0033cc\">genre of pool games</font></a>, Speed Pool King Game ensures you to have participated in an unforgettable tournament and emerged as a champion. In this latest browser game, you have to clear the Rack 1, Rack 2, Rack 3 and so on to wear the cap of the winner.</div></div><div><br></div><div>Just focus on the mouse to take a cue. Click it to set power and drag the left mouse button away right from the direction. You must release the mouse and take your shot once you realize the mouse power is enough to give you a proper shot. Once the time is over, you will be able to check the score of your game along with the information on which Rack you are playing now, how many balls you have potted, and on the Max Potting Streak. This is one of the best free online games. Play this game and have fun unlimited!!<br></div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/235e596158f24fc38a0bb37f7b1a91fa/",
+      "metaTitle": "Speed Pool King, Pool Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Speed Pool King at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Speed Pool King, Play Free Games, Play Online Free Games, Pool Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 107,
+      "dislikes": 16,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 40700,
+      "ownGame": false,
+      "addDate": "2017-11-06T13:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.670Z",
+      "updatedAt": "2025-05-15T09:06:52.619Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS AND DRAG TO SELECT THE DIRECTION AND ADJUST THE FORSE, RELESE TO HIT",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SELECT TYHE DIRECTION AND ADJUST THE FORCE RELEASE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad68",
+      "name": "pool",
+      "slug": "pool",
+      "icon": "Pool-games"
+    }
+  }
+}
