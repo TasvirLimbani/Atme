@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3be",
+      "id": 6444,
+      "name": "Santa Gifts Rush",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "santa-gifts-rush",
+      "image": "6444",
+      "url": "santa-gifts-rush",
+      "description": "<div>The biggest celebration of the year Christmas is just around the corner and you have plenty of things to do. Is not a nice idea to celebrate the spirit of your favourite festival in advance by playing this brand new arcade challenge inspired by the popular Christmas themes? Join Santa Gifts Rush and be prepared to help Santa to grab all the gifts you see along the way and land safely to the Earth! Common friends! You have a plane to take him back to the planet.</div><div><br></div><div>Try to be fast as the cute children are waiting for him on the Earth for their gifts! Make sure to click on the gift you want to propel Santa to collect and then you will see that he will move his plane to the gift to grab it. Do not forget to click on the Earth to promote Santa return on the land and distribute them to the children in this HTML5 puzzle game. It sounds easy to play, but is full of multiple obstacles that are taken care of only when you challenge your brain power and puzzle-solving abilities.</div><div><br></div><div>This latest brain challenge helps to awake the Christmas spirit in all of us. Make sure to guide Santa return the land only after collecting all gifts from the universe. Try to avoid the crash to complete each puzzle before the time expires! Apply a specific trajectory to help your Santa get through all the obstacles and reach timely in 20 unique and addictive challenges! Good luck to finish all levels as fast as you can to create the highest score in the world! All the best to assist children of this planet have the best celebration ever in this cool Christmas game!</div>",
+      "size": 800,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/ae2fe47999604c8eb6e34e8edfc803fe/\r\n",
+      "metaTitle": "Santa Gifts Rush Game, Puzzle  - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Santa Gifts Rush at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Santa Gifts Rush Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 24,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9308,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2024-10-08T04:13:53.420Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON GIFTS TO MOVE SANTA",
+      "webControlKeys": "LEFT CLICK ON MOUSE ON GIFTS TO MOVE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
