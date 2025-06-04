@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c367",
+      "id": 6343,
+      "name": "Flying Car Driving Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "flying-car-driving-simulator",
+      "image": "6343",
+      "url": "flying-car-driving-simulator",
+      "description": "<div>It is always amazing to fly through the air with complete freedom! Our latest flying car simulator will give you the total freedom to drive your chosen vehicle on road while flying it high in sky like a pilot. Does not it sound, pretty challenging? Join Flying Car Driving Simulator and be prepared to fly different top car models and show the world that you are a pro pilot! Hurry up guys! You will have plenty of rescue missions to complete in this brand new racing game.</div><div><br></div><div>Choose your car and get ready to enter a world where you have to handle the challenges of both racing and flying! Drive your vehicle as fast as you can on road or fly it through the sky and avoid the obstacles like skyscrapers! Fly high, follow celebrities, catch thieves and take care of multiple rescue missions in this HTML5 car game! Do not forget to jump off the skyscrapers and do other vital stunts to earn cash.</div><div><br></div><div>Transform your sports vehicle into a futuristic flying car anytime whenever you want! It will be amazing to enter the sky and get your car ready to perform some aerial acrobatics through narrow gaps between skyscrapers. Doing some barrel rolls, flips, and jumping off rams will allow you to earn something extra in this flying car simulation. Enjoy the fun driving if you are stuck in flying cars and switch back to car mode and land it back on the road! Play more free-flying car driving simulators on our website and have a blast with your friends!</div>",
+      "size": 960,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/080f5ad406b642adb0853aaac9b20ad6/\r\n",
+      "metaTitle": "Flying Car Driving Simulator Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Flying Car Driving Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Flying Car Driving Simulator Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842210.xml",
+      "idealFor": "Man",
+      "likes": 75,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 12729,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:33:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-04-23T08:44:31.039Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO DIRECTION SPACE TO BREAK"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
