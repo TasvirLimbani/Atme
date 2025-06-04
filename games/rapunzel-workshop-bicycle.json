@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad75",
+  "category_name": "bicycle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad75",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b2b5",
+      "id": 1656,
+      "name": "Rapunzel Workshop Bicycle",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "rapunzel-workshop-bicycle",
+      "image": "1656",
+      "url": "rapunzel-workshop-bicycle",
+      "description": "Cycle games is best way to remember our old days but in this cycle game you can also enjoy the repairing of cycle too.",
+      "size": 800,
+      "height": 600,
+      "script": "<iframe src=\"https://flash.gamedistribution.com?game=76b7a3a5cf67f3c4fcde3a8b39dab7be\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+      "metaTitle": "Rapunzel Workshop Bicycle,  Cycle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Rapunzel Workshop Bicycle at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Rapunzel Workshop Bicycle, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 18,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 9518,
+      "ownGame": false,
+      "addDate": "2018-02-20T11:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.694Z",
+      "updatedAt": "2024-03-21T20:19:08.942Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad75",
+      "name": "bicycle",
+      "slug": "bicycle",
+      "icon": "bicycle-racing-games"
+    }
+  }
+}
