@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad81",
+  "category_name": "animals",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad81",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b80a",
+      "id": 3147,
+      "name": "Cute Bear Caring",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "cute-bear-caring",
+      "image": "3147",
+      "url": "cute-bear-caring",
+      "description": "Warning, cuteness overload! In this animal game you will be playing all day with a sweet teddy bear which needs your help in order to have fun and also to find his personal style. The party begins in the playground and you have got to use the things the little bear wants to make him happy. Get that job done and take him a nice bath to prepare his body for the clothing part that is next. Do not forget the accessories!\r\n",
+      "size": 800,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/9786a28583bf41b2aea87d19bfa484f2/\r\n",
+      "metaTitle": "Cute Bear Caring,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cute Bear Caring at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Cute Bear Caring Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533532485.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7520,
+      "ownGame": false,
+      "addDate": "2018-08-06T10:44:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.719Z",
+      "updatedAt": "2024-11-03T06:07:50.415Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE  ITEMS TO DRESSUP",
+      "webControlKeys": "L CLICK OF MOUSE TO DRESSUP"
+    },
+    "rating": {
+      "rating": "3.1",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad81",
+      "name": "animals",
+      "slug": "animals",
+      "icon": "Animals Games"
+    }
+  }
+}
