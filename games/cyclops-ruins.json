@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b505",
+      "id": 2303,
+      "name": "Cyclops Ruins",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "cyclops-ruins",
+      "image": "2303",
+      "url": "cyclops-ruins",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You are trapped today in a cyclops ruins and no one is there to help you. The only way to survive is avoid all the stones that are falling from the sky. Do not bother at all since you are a brave soldier who knows how to stay strong against the odds. Join Cyclops Ruins and be prepared to beat the furious cyclops like never before! Be careful and move around to collect the coins, bonus and power ups in this brand new adventure game!</span></div><div><span style=\"font-size: 13.3333px;\">Try to be as quick as you can to avoid the falling debris otherwise you will lose your energy! Defeating the mighty cyclops requires lots of patience and paying attention to the details! Your score will be increased when you grab the coins. Increase your chances at a high score by keeping your eyes on the falling power-ups! Try to avoid the rocks for as long as possible or until you die in this HTML5 puzzle game!</span></div><div><span style=\"font-size: 13.3333px;\">Remember avoiding each falling stone will reward you with an extra coin. Do not forget to collect the healing beverages and shield to make your character last long in this amazing cool avoiding game. The bad guy you see on the screen will keep making mess and dropping stones on you. It is impossible to fight back so dodge them to stay in the game. Good luck to beat the furious cyclops for long to create your best high score!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/fb59e2712b664e3d8c4d7decfcf419c9/\r\n",
+      "metaTitle": "Cyclops Ruins Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cyclops Ruins at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Cyclops Ruins Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 7397,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-02-01T06:45:11.679Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE L-R OF THE SCREEN TO CONTROL THE HERO",
+      "webControlKeys": "L-R ARROWS TO CONTROL THE HERO"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
