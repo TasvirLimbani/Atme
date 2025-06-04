@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad9b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c422",
+      "id": 6546,
+      "name": "Jump Jump",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "jump-jump",
+      "image": "6546",
+      "url": "jump-jump",
+      "description": "<div>This cute and little box has planned to go on a moving platform that is full of obstacles. Will you join him to make a way towards a long journey? Play Jump Jump game and be prepared to guide this box to cover the maximum possible distance over the platform! The problem is that this little character does not know how to avoid the deadly traps. You as her friend have decided to control him on the platform that is moving continuously.</div><div><br></div><div>Try to make him go under the obstacles or click the screen of your desktop or mobile phone to make him jump over the hindrances in this one of the best HTML5 jumping games! Do not forget to grab the dollar as you see on his way. The more money you collect; the higher score you would be able to make in the end. It is all about how much timely your character jumps over the obstacles to create your high score.</div><div><br></div><div>Keep your eyes on the screen to time his jump and create his best new score in this cool online jumper! Do not bother you have unlimited times to set your own high score. In case of getting bored, move to our wider category of free adventure games for boys that cater gaming needs to players from multiple age groups. Check out our extensive list of top games to find some popular titles and amazing long hours of fun for free without download!</div>",
+      "size": 450,
+      "height": 750,
+      "script": "https://games.atmegame.com/games/jump-jump/",
+      "metaTitle": "Jump Jump Game, Jumping - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Jump Jump at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Jump Jump, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 458,
+      "dislikes": 103,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 80352,
+      "ownGame": true,
+      "addDate": "2020-11-21T14:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-03-10T10:54:04.595Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO JUMP",
+      "webControlKeys": "LEFT CLICK OF M,OUSE TO JUMP"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 48
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad9b",
+      "name": "jumping",
+      "slug": "jumping",
+      "icon": "icon-iconAsset-47"
+    }
+  }
+}
