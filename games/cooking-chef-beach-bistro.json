@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5b9",
+      "id": 2525,
+      "name": "Cooking Chef Beach Bistro",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "cooking-chef-beach-bistro",
+      "image": "2525",
+      "url": "cooking-chef-beach-bistro",
+      "description": "<div>One of the best cooking games for girls – Cooking Chef Beach Bistro offers you a wonderful gaming experience even with a short gameplay. Play the role of a master chef of a popular beach fast food bistro in this brand new girl’s game! Every day lots of people come to your restaurant to enjoy some extremely delicious desserts, dishes, snacks, meals and drinks. Get into the action and try to serve all your customers with their desired meals! Are you capable of handling this job?</div><div><br></div><div>No need to worry since you will be provided with the proper instructions and details on how to prepare this scrumptious recipe. Remember you will get nothing for the recipe from the customers if you fail to add something useful to it. however, you will be awarded with a significant sum of money if you succeed in making everything right. Different customers have different patience level, so try to prepare your recipes as fast as you can to stay in this free online games for girls.</div><div><br></div><div>Collect all the relevant ingredients for your recipe in your beach restaurant. All you need to do is just combine all of them properly to prepare a perfect meal for your valued customers. Use the dustbin in case if you fail in making a complete recipe in this cool PC game. Try various types of recipes including pizzas, hamburgers, oriental recipes etc here. Have a lot of fun in this easy-to-play girl online game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/cooking-chef-beach-bistro/index.php",
+      "metaTitle": "Cooking Chef Beach Bistro,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cooking Chef Beach Bistro at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Cooking Chef Beach Bistro Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 9235,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.711Z",
+      "updatedAt": "2024-02-10T06:39:32.914Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK OF MOUSE TO CHOOSE THE ITEMS AS PER THE ORDER"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
