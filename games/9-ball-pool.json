@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad68",
+  "category_name": "pool",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad68",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb8f",
+      "id": 4114,
+      "name": "9 Ball Pool",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "9-ball-pool",
+      "image": "4114",
+      "url": "9-ball-pool",
+      "description": "<div>It is time to practice your billiard skills? Are you ready friends to accept this challenge and show off the world that you are the best billiard player? Join 9 Ball Pool and be prepared to play against a smart and extra intelligent AI opponent and put your pool expertise to the ultimate possible level! Common boys! You have the guts to shoot the 9 ball in the pocket wisely and beat your opponent every time you play against them.</div><div><br></div><div>Masse, sidespin, jump ball and do everything required to become the master of this brand new sports challenge! Put your finger on your mouse or tap the screen of your mobile phone to hit the lowest numbered ball using the white cue ball. Make sure then to pocket any colored ball or hit the cushion.&nbsp; The excellent shooting and intuitive aiming system will be enough to keep you glued to the screen for long in this HTML5 pool game.</div><div><br></div><div>Pocket all the 9 balls appropriately before your rival dares to attempt the same! The more appropriate your opponent takes his move, the higher the difficulty level you have to face in this cool billiards game. Use the mouse button to aim and set the power of your shot! Aim at specific points by putting English on the cue ball! Make sure to avoid fouls and pocket the balls through as much precision as you can to beat your opponent. Good luck to score as many points as you can within 5 minutes!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/eb8128b50dd74922ad4818dc0ece96b9/\r\n",
+      "metaTitle": "9 Ball Pool, Pool Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 9 Ball Pool at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "9 Ball Pool Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 57,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 35844,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2025-04-21T18:24:45.446Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE SCREEN TO TARGET, L ICON TO CONTROL THR FORSE AND HIT THE BALLS",
+      "webControlKeys": "MOUSE TO SELECT THE AIM, KEEP PRESS L CLICK TO ADJUST THE FORCE RELESE TO HIT THE BALLS"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad68",
+      "name": "pool",
+      "slug": "pool",
+      "icon": "Pool-games"
+    }
+  }
+}
