@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b96e",
+      "id": 3532,
+      "name": "Flappy Super Kitty",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "flappy-super-kitty",
+      "image": "3532",
+      "url": "flappy-super-kitty",
+      "description": "Flap your way through space, with Flappy Super Kitty! Play the ever famous game mechanic, with a superhero cat. How many obstacles can you clear? Features: - unlimited hours of gameplay - 6 different powerups ( shrink, shield, slow-motion, fast-forward, bigger gaps, and more!) - virtual goods to entice users to keep collecting\r\n",
+      "size": 480,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/8787678924dc4744a185b1e2d0eee4c6/\r\n",
+      "metaTitle": "Flappy Super Kitty,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Flappy Super Kitty at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Flappy Super Kitty Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537332385.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6908,
+      "ownGame": false,
+      "addDate": "2018-09-19T10:16:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2024-03-24T09:08:33.776Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPPING ON SCREEN TO JUMP THE CAT",
+      "webControlKeys": "KEEP  PRESS L-CLICK OF MOUSE TOTAPPING TO JUMP THE CAT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
