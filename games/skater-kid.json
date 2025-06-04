@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad63",
+  "category_name": "skating",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad63",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb9e",
+      "id": 4129,
+      "name": "Skater Kid",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "skater-kid",
+      "image": "4129",
+      "url": "skater-kid",
+      "description": "<div>No need to go outside to practice your skating skills when you have an awesome virtual platform to enjoy your favorite sport! We are talking about Skater Kid where you will play the role of a skater who loves participating in the biggest skating competition. But, this is a first time so he is confused how to handle this big competition on his own. Join Skater Kid and be prepared to help him to ride the town using his skateboard!</div><div><br></div><div>It is not going to be as easy as it sounds since the road is full of multiple obstacles that will try to stop him from moving forward. Get ready to put your skateboarding abilities to the test to guide him through all levels and impress his friends like never before in this HTML5 skating game! Do not forget to grab the golden coins that are scattering all around the town. Show him the path how to perform awesome stunts along the way and reach his final destination in each level!</div><div><br></div><div>Click the button shown on the screen to make your character jump timely to perform tricks and avoid obstacles in this cool skateboarding game! Your single miss can lead you towards failure so try not to miss once otherwise your game is over. Good luck to test your skills with your skateboard and show off the world you are champion on skateboarding! Try out more other popular titles from the category of free sports games and have fun with your friends without download!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/7bdf2caf9ecd45f883df18dd1bb5d135/\r\n",
+      "metaTitle": "Skater Kid Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Skater Kid at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Skater Kid Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 40,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 17323,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-09-21T12:14:17.576Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICON TO JUMP, R ICON- MOVE",
+      "webControlKeys": "UP ARROW TO JUMP, RIGHT ARROW - MOVE"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad63",
+      "name": "skating",
+      "slug": "skating",
+      "icon": "skating-games"
+    }
+  }
+}
