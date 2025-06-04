@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c14f",
+      "id": 5630,
+      "name": "Drive and Park",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "drive-and-park",
+      "image": "5630",
+      "url": "drive-and-park",
+      "description": "<div><span style=\"font-size: 13.3333px;\">People from all across the world are crazy about the racing games. And, the fun gets double when racing mixes with the parking activity. Luckily, the same is going to take place in this brand new car racing game. We hope that you will be able to take your gaming fantasy to a completely new height when you join Drive and Park game in your preferred device. Your objective in this free online parking game is to drift and park your four-wheelers safely into the empty parking space.?</span></div><div><span style=\"font-size: 13.3333px;\">Complete each level by parking the maximum number of cars! Keep your eyes on the screen and click the mouse to get the job done timely! You will have 10 different vehicle skins to unlock in this highly addictive and challenging online racing game. The maximum number of cars you will drift and park, the higher score you will be able to obtain to get your placer on the top of the leaderboards. Start your game by just clicking the play button on the screen! Show off the world that you are a best car parker!</span></div><div><span style=\"font-size: 13.3333px;\">Release your click to complete park in each level in this cool HTML5 game! Swipe up your mouse and park your vehicle to the empty space at the right time! Do not forget to avoid the collision with other vehicles, collect coins and upgrade your vehicle to improve your performance! Be focused only on simply parking your car, making money, collecting new cars and repeating the game! Play it alone or with your friends and get an opportunity to travel around the world and grab modified cars from each location!</span></div>",
+      "size": 740,
+      "height": 550,
+      "script": "https://html5.gamedistribution.com/e6f806594cce449fb55c69371f3ae3a6/\r\n",
+      "metaTitle": "Drive and Park,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Drive and Park at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Drive and Park Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1553921551.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8454,
+      "ownGame": false,
+      "addDate": "2019-03-30T10:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.753Z",
+      "updatedAt": "2024-03-02T15:13:45.770Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP LEFT CLICK ON CAR AND HOLD,WHEN THE PARKING SPACE COMES RELESE THE CAR TO PARK"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
