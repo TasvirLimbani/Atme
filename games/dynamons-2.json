@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4c6",
+      "id": 2234,
+      "name": "Dynamons 2",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "dynamons-2",
+      "image": "2234",
+      "url": "dynamons-2",
+      "description": "<div><span style=\"font-size: 13.3333px;\">In the second version of this brand new action game, your job will remain the same as the cute Dynamons are waiting for you to be trained once again. Will you be able to prepare them for the extremely challenging battle? If yes, join Dynamons 2 and be prepared to continue the saga set in the awesome Dynamons world with fabulous challenges and new creatures. Your objective is to grab and train the best army of Dynamons and make some victories in the epic battles.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">The best part is that you are not alone during this epic fight as the availability of special items and powerful skills will be enough to allow you a right candidate for this job. Grab your powerful tools and get ready to defeat strong captains and challenge difficulties in the daily arena! You cannot take your steps back since the cute Dynamons need your help. Show off some real action to win some epic battles!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This HTML5 fighting game features multiple unique Dynamons to evolve and explore, powerful tricks and awesome items, beautiful animations, super cool graphics, and addictive gameplay. You have the guts to win the epic battles against other deadly creatures with the help of a planned strategy. Catch rare Dynamons and beat Dynamons Captains to progress in this one of the best fight games for boys and girls that are playable on multiple devices without download! Good luck to have the best fun online!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/1fde1c67e20040dd8c53c2b75cf3d8d7/\r\n",
+      "metaTitle": "Dynamons 2, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dynamons 2 at atmegame.com ! We have selected this Fighting games for best excitement and thrill in you!",
+      "metaKeyword": "Dynamons 2 Game, Action Games, Fighting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524804977.xml",
+      "idealFor": "Man",
+      "likes": 128,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 36036,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:26:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2025-02-13T04:44:59.625Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO ATTACK",
+      "webControlKeys": "L CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 24
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
