@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af19",
+      "id": 505,
+      "name": "Hot Bikes",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "hot-bikes",
+      "image": "505",
+      "url": "hot-bikes",
+      "description": "<div>One of the highly recommended bike games to play, Hot Bikes is a wonderful racing for boys. In this cool free online game, you as a player have to drive your bike without blowing anything up. In order to finish each level of this racing game, all you need to do is to ride your BMX bike against all the obstacles that will come on your way and upgrade your bike timely to perform better in the next level. </div><div><br></div><div>In this free online flash game, you will have a chance to help a beautiful girl to drive a bike through the junkyards. Do not forget to earn money that you can use later to buy upgrades for your fast-paced bike. Known as a sequel to one of the highly popular trial <a href=\"http://www.atmegame.com/online-bike-games\" title=\"\" target=\"\">bike racing games</a>,  Hot Bikes game ensures you to enjoy the unlimited fun and thrill. Get ready to face obstacles, beat the clock and give your best while performing over the highly challenging tracks. Finish all 20 levels of this awesome bike racing game with confidence!</div><div><span style=\"background-color: transparent; font-size: 10pt;\"><br></span></div><div><span style=\"background-color: transparent; font-size: 10pt;\">Do not lose your control while riding your bike over the tough platform. Get as much achievements as you can to purchase new bikes when they are required. In this very challenging motorbike riding game,  your aim is to reach the endpoint in order to claim for the victory for that level and qualify for the advanced level. You can overcome all the obstacles and control your bike with the help of arrow keys. Use your riding abilities to ensure your win at the end of each level. Be quick, make flips as required and unlock all achievements in Hot Bikes. Good luck!</span><br></div>",
+      "size": 640,
+      "height": 480,
+      "script": "https://flash.gamedistribution.com?game=cac37daa93714943adc9b1e39541f7ba",
+      "metaTitle": "Hot Bikes, Bike Racing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hot Bikes at atmegame.com ! We have selected this Bike  games for best excitement and thrill in you!",
+      "metaKeyword": "Hot Bikes, bike games, bike racing games, Games, Online Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 110,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 14425,
+      "ownGame": false,
+      "addDate": "2017-07-23T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.668Z",
+      "updatedAt": "2024-05-03T12:53:03.699Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 20
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
