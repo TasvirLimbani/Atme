@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c39a",
+      "id": 6408,
+      "name": "Onet Connect",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "onet-connect",
+      "image": "6408",
+      "url": "onet-connect",
+      "description": "<div>Online matching games are known to offer the matchless fun and entertainment to players from all age groups. Today we have brought to you a brand new arcade challenge where you have to connect the similar two fruit tiles. Are you ready to enter the unique brain fun puzzle again? Join Tile Connect and be prepared to put your problem-solving and creativity skills to the test to complete all challenging levels! Make sure to create a connection between the two tiles.</div><div><br></div><div>This HTML5 puzzle challenge is different from match-3 games so you have to focus on spatial training and puzzle-solving abilities. Match as many two tiles of the same image as you can to create your best score! Be careful and try to play fast as the time will run out! Make sure to create the maximum possible matches to prove you as the best match maker online. The casual theme backed by the unlimited gameplay and simple controls is designed for all ages and families.</div><div><br></div><div>Match tiles in a horizontal and vertical line to eliminate them from the screen! So, what are you waiting for friends? Check it out right away to get the longer periods of gameplay and feel free to browse through our wider collection of free arcade games to find out some more suitable match-3 puzzles! You will have great fun to find out the same tiles to remove them in the limited time period. Stay tuned with us to find new gameplay and new joy!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/8f68df9007a545d3afb1252666688224/\r\n",
+      "metaTitle": "Onet Connect,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Onet Connect at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Onet Connect Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842458.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 9238,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2025-02-01T11:55:59.800Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SAME IMAGES TO CONNECT",
+      "webControlKeys": "CLICK ON THE SAME IMAGES TO CONNET"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
