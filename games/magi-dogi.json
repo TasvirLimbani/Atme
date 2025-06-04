@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b97a",
+      "id": 3549,
+      "name": "Magi Dogi",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "magi-dogi",
+      "image": "3549",
+      "url": "magi-dogi",
+      "description": "Going through wonderful adventure into the magical worlds of Magidogi! Evil powers are infesting the peaceful land, only your magical wand, magical paw, and your cuteness can save the world from them!\r\n",
+      "size": 500,
+      "height": 665,
+      "script": "\nhttps://html5.gamedistribution.com/d9a2aea22a164c5cbfb5a4dbbad02128/\n",
+      "metaTitle": "Magi Dogi Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Magi Dogi at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Magi Dogi Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537334365.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7175,
+      "ownGame": false,
+      "addDate": "2018-09-19T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2024-02-04T06:36:32.307Z",
+      "__v": 0,
+      "mobileControlKeys": "L-ICON TO MOVE,R-ICONS TO SHOOT/JUMP",
+      "webControlKeys": "UP ARROW TO JUMP,DOUBLE PRESS DOUBLE JUMP,,L-R TO MOVE, SPACE- HIT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
