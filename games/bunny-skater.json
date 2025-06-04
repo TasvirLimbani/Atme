@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad63",
+  "category_name": "skating",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad63",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbe4",
+      "id": 4201,
+      "name": "Bunny Skater",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "bunny-skater",
+      "image": "4201",
+      "url": "bunny-skater",
+      "description": "<div>Your favorite and cute bunny again needs your help when he wants to be the skater in the city! Would you like to be his helping hands? Join Bunny Skater and be prepared to guide him to shred through multiple obstacles to grab all the carrots using the skating board! You need to be very careful while controlling him in his most anticipated adventure ever. Try to pay attention to the game details to destroy all the obstacles that come on his way!</div><div><br></div><div>Remember the more carrots you collect for him, the highest score he will be able to make for you in the end in this brand new sports game. Grab your board and get ready to take him to his most loved and favorite dish carrots that would help him to grow more attractive! You are his only hope so put your every possible to guide him to be a Hollywood star. There are 30 unique and challenging levels and 3 stages to play through in this HTML5 skating game.</div><div><br></div><div>Make sure that your character reaches his destination in each level timely to secure the maximum points possible. You would see this little bunny on a skateboard. He loves skating, but unable to perform this sports activity in an environment that game features. Make your character jump by tapping the bottom right button and move him by taping the bottom left button! Try out more popular titles from the category of animal adventure games and skateboard games online on atmegame.com and have fun for free without download!</div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/fdba32177c174b30853b2ced8bb1918a/\r\n",
+      "metaTitle": "Bunny Skater Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bunny Skater at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Bunny Skater Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543659100.xml",
+      "idealFor": "Man",
+      "likes": 46,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13465,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:41:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.733Z",
+      "updatedAt": "2024-12-29T12:24:02.991Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "A/SPACE/UP ARROW- JUMP,D, RIGHT ARROW-RUN"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad63",
+      "name": "skating",
+      "slug": "skating",
+      "icon": "skating-games"
+    }
+  }
+}
