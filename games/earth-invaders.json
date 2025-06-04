@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c069",
+      "id": 5377,
+      "name": "Earth Invaders",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "earth-invaders",
+      "image": "5377",
+      "url": "earth-invaders",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The outer space was captured by the hordes of invading aliens in 1978. Experts sent one ship to protect Earth against the advancing menace. Meanwhile, a new threat has hit the planet during the time when the entire human beings are struggling with that problem. It is time to react quickly instead sitting comfortably on your couch. Join Earth Invaders and get ready to take control of your ship perfectly! The entire Universe relies on your skill to defeat the alien invaders.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Put your fingers on the left click of your mouse and be prepared to shoot and destroy all alien invaders as fast as you can in this cool html5 adventure game! Do not worry your ship is loaded with the unlimited missiles! So destroy all of your enemies before they reach Earth and kill all human beings. You have got a golden chance to defend your people and play the role of a space champion in this mobile space war game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Show off your fabulous shooting abilities to clear all 5 levels in this dodging-skills retro-styled game! Be prepared to move your spaceship across the screen to stop the invaders from entering your planet! Do not forget to collect power ups and win some different game prizes! We are sure that you will have great in our more classic space arcade games for boys and girls. Keep destroying all missiles to clear all levels to become a hero! Good luck to play online for free in our skill-based html5 shooter games, with no install required!&nbsp;</span></div>",
+      "size": 854,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/5f74f0a2019a4e559ac4f5e67ced7e0c/\r\n",
+      "metaTitle": "Earth Invaders, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Earth Invaders at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Earth Invaders Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1551093389.xml",
+      "idealFor": "Man",
+      "likes": 27,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9553,
+      "ownGame": false,
+      "addDate": "2019-02-25T16:46:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2025-05-20T20:54:22.678Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS TO M,OVE RIGHT ICON TO SHOOT",
+      "webControlKeys": "L-R ARROWS TO MOVE , L CLICK TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
