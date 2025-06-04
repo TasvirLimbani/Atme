@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b7f1",
+      "id": 3122,
+      "name": "Dotted Girl Vaccines Injection",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "dotted-girl-vaccines-injection",
+      "image": "3122",
+      "url": "dotted-girl-vaccines-injection",
+      "description": "You are Dotted Girls doctor and you need to make sure she gets her annual vaccines! Prepare Dotted Girl first by taking her temperature, giving her vitamins and checking her heartbeat. After that, make sure you have sterilized the area where you will make the injection and clean up after so that it does not get infected. Once you are done, repeat the check-up stage and see where the next vaccine will be!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/76d8dca00d2143b1bc9a2fb37e4f7e03/\r\n",
+      "metaTitle": "Dotted Girl Vaccines Injection, Doctor Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dotted Girl Vaccines Injection at atmegame.com ! We have selected this doctor games for best excitement and thrill in you!",
+      "metaKeyword": "Dotted Girl Vaccines Injection Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533531766.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 17106,
+      "ownGame": false,
+      "addDate": "2018-08-06T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.719Z",
+      "updatedAt": "2025-01-24T10:07:31.743Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SELECT THE ITEMS FOR VACCINES INJECTION TREATMENT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS FOR VACCINES INJECTION TREATMENT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
