@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba51",
+      "id": 3780,
+      "name": "Yeti&apos;s Adventure",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "yetis-adventure",
+      "image": "3780",
+      "url": "yetis-adventure",
+      "description": "Help the Yeti on his adventure&#33; Collect the items in the levels like keys and treasure chests, try to reach new parts by completing puzzles and finish the levels&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/yetis-adventure-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Yeti&apos;s Adventure, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Yeti&apos;s Adventure at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Yeti&apos;s Adventure Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7090,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2024-02-05T09:04:22.522Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICON TO MOVE RIGHT ICON TO SHOOT",
+      "webControlKeys": "CONTROLS NOT WORKING IN WEB]"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
