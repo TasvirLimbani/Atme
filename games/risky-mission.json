@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1cd",
+      "id": 1367,
+      "name": "Risky Mission",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "risky-mission",
+      "image": "1367",
+      "url": "risky-mission",
+      "description": "<div>All the dangerous pirates are against you and want to kill you! Luckily, you have got a massive gun, which could help you protect from them. Remember you will lose the game if try to sit in a relax mode. The ugly-looking pirates have already invaded some of your ports. Join Risky Mission and get ready to play the role of a coast guard! Roll up your sleeves and shoot down all the pirates in this brand new action-packed game for boys!</div><div><br></div><div>You are definitely going to have a lot of fun in this free online shooting game. Make sure to take full control of a coastal guard ship which is lashed with a non-deadly cannon. All the people of the city trust on your skills. Get your gun in your hand and keep shooting down all the pirates until you free the ports one by one! It is very easy to aim the cannon since its shots follow a completely straight line. Show off your dare and keep fighting until you win in this mobile-friendly shooting game!</div><div><br></div><div>With different levels, each level comes with unique challenges and obstacles. The more the advanced level is, the tougher competition will be. Even in several levels, you will see the boat moving on the water. You can play this cool HTML5 game even on any mobile device, including Android and iOS. The controls of the game include mouse to navigate and aim and LMB to select and shoot.&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/92654acb3b2948ad9a51f41154533a74/\r\n",
+      "metaTitle": "Risky Mission, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Risky Mission at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Risky Mission Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299559.xml",
+      "idealFor": "Man",
+      "likes": 44,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 14730,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.688Z",
+      "updatedAt": "2025-02-08T21:55:28.574Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP O SCREEN TO SHOOT",
+      "webControlKeys": "L C;LICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "2.6",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
