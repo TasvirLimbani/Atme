@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af85",
+      "id": 644,
+      "name": "Bake Time Pizzas",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "bake-time-pizzas",
+      "image": "644",
+      "url": "bake-time-pizzas",
+      "description": "<div>Cooking is a favorite activity of many of us. Bake Time Pizzas is one of the fabulous online cooking games for girls to play. In this free online gaming activity, you as a player have to bake different sorts of pizzas for the customers and keep your restaurant going for as long as possible. All you need to do is take their orders properly and deliver them time in order to earn high score in this cool cooking game for kids. The correct proportion of ingredients in the correct order ensures you to deliver the perfect pizza in the least possible time.&nbsp;</div><div><br></div><div>In this cool and interesting girls game, you will surely have huge fun while preparing your pizzas and getting them delivered to your customers. The better you will play, the higher your score will go in this flash game. Your better performance will help you to earn big tip that would help you to upgrade your restaurant and become rich. No one is there to scold you in case if you commit any mistake in this latest cooking game.&nbsp;</div><div><br></div><div>You would love all the characters you will see in this exciting and challenging recreational activity. Bake Time Pizzas features with classic gameplay, easy control and finest graphics. The kitchen is equipped with all the necessary tools and ingredients. Use them properly and try to make your every customer feel happy. All the best for a safe and fun-filled latest free online game for kids.</div>",
+      "size": 800,
+      "height": 550,
+      "script": "https://html5.GameDistribution.com/1fd6bf4a2b44460a90474adb615471de/",
+      "metaTitle": "Bake Time Pizzas, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bake Time Pizzas at atmegame.com ! We have selected this Cooking games for best excitement and thrill in you!",
+      "metaKeyword": "Bake Time Pizzas Game, Girls Games, Cooking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "",
+      "xmlFile": "Cooking_1513839135.json",
+      "idealFor": "Man",
+      "likes": 45,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 19879,
+      "ownGame": false,
+      "addDate": "2017-12-21T12:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.671Z",
+      "updatedAt": "2024-09-10T16:44:18.690Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ITEMS TO SELECT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
