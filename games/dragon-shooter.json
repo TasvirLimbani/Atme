@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c32b",
+      "id": 6250,
+      "name": "Dragon Shooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "dragon-shooter",
+      "image": "6250",
+      "url": "dragon-shooter",
+      "description": "<div>Oh no! These deadly dragons have decided to conquer the Earth through their intense superior power. They have a huge army to fight with you. Common boys! You are alone enough to face off them and protect the Earth. All you need to do is just join Dragon Shooter and be prepared to show off your intense fighting and shooting abilities. Your objective in this latest action-packed game is to shoot all the dragons that will try to come to you.</div><div><br></div><div>Make sure to click or tap the screen timely with accuracy to shoot the bullets to hit all of the deadly dragons. It is always important to take care of your moving character and help him to stay away from the dangerous dragons. Your game is over in case if a single dragon touches or reaches to your hero. Challenge your intense fighting and accuracy skills to hit as much creepy monsters as you can to score high score!</div><div><br></div><div>Be careful and try to react quickly as dragons will keep moving towards you in this HTML5 shooting game! Clear the present level and allow yourself to meet with even more tricky and challenging obstacles! Some dragons are killed with one bullet, while you have to use more 2 or more bullets to clear some more dangerous dragons. Good luck to participate in the unlimited sabotage of dragon shooting, collect points and use them to upgrade your character!</div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/8935bda716c84b33a212db2fac7f86b1/\r\n",
+      "metaTitle": "Dragon Shooter Game, Shooting - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Dragon Shooter at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Dragon Shooter Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579513428.xml",
+      "idealFor": "Man",
+      "likes": 157,
+      "dislikes": 16,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 60867,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2025-02-15T07:35:52.731Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH TO SHOOT",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "2.5",
+      "count": 21
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
