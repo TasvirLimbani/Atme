@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be51",
+      "id": 4827,
+      "name": "Clan Attack",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "clan-attack",
+      "image": "4827",
+      "url": "clan-attack",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Oh, great! It will be great to be a part of this amazing brand new shooting game where every moment is full of unlimited action and fun. Hope you would enjoy it and refer it to your friends and families! Many dangerous ninjas full of weapons keep coming on the screen time to time. The only way to avoid the danger is to kill as many ninjas as you can. You will also be lashed with multiple swords to deal with these monsters.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Are you ready to take up this unique action-packed challenge? Join Clan Attack game and be prepared to throw your sword to them when they land on the ground! Remember your enemies are very fast and will not show sympathy towards you. Your alertness and sharp reflexes will help get through all the hurdles and make you win in the end. Play like a champion till end to score the best score in this free online action game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The longer you survive in the game, the higher score you will hit the screen in the end. Atmegame.com features thousands of top titles under the category of action games that are free to play online, no download required. Play single player or multiplayer gun shooter games online and get a pleasure of becoming a true action hero in just a few clicks! We guarantee you to meet the best thrill and entertainment in our html5 action-packed challenges.&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://m.shtoss.com/game/clan-attack/index.html",
+      "metaTitle": "Clan Attack,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Clan Attack at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Clan Attack Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546117493.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10084,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.742Z",
+      "updatedAt": "2024-09-23T01:49:08.567Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ENEMIES TO KILL",
+      "webControlKeys": "L CLICK OF MOU8SE ON THE ENIMIES TO KILL "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
