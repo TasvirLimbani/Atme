@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9f7",
+      "id": 3679,
+      "name": "Space Mandala",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "space-mandala",
+      "image": "3679",
+      "url": "space-mandala",
+      "description": "In this awesome HTML5 Game Space Mandala, you have to create mandala&apos;s in the SPACE&#33; It is not as simple as it sounds, because you have to use the right figures to create this mandala. How far can you go in this puzzle space game?",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/space-mandala-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Space Mandala, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Space Mandala at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Space Mandala Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6871,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2023-08-23T11:20:06.075Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO FIT THE IMAGES IN THE SAME SPACE, L-R ICONS TO MOVE THE CIRCLE",
+      "webControlKeys": "L CLICK OF MOUSE TO FIT THE IMAGES IN THE SAME SPACE, L-R ICONS TO MOVE THE CIRCLE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
