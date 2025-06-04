@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c26a",
+      "id": 6023,
+      "name": "Stickman Peacekeeper",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "stickman-peacekeeper",
+      "image": "6023",
+      "url": "stickman-peacekeeper",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Out of countless action games for boys available over the web, Stickman Peacekeeper is possibly the most popular one. In this brand new free online, you have to help your character to defend his base against the invading stickman army. You will feel blessed to play the role of a soldier who has been called urgently by his country’s army to take care of the fighting that is performing on the border between two states. Hope you apply all your aggressive skills and fight like a real warrior in this fighting game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Make sure to upgrade the weapons and skills of your character when you clear the previous level and move to the advanced one. This ensures you to stand strongly against the deadly attacks. The better you play this free online game, the easier it will become for you to help your character survive as long as possible. People of two states rely on your skills, so help them to keep peace with one another. Be attentive all the time since a group of enemies attacks the border daily. There will be the chances of starting riots and reigning by the chaos if they succeed in crossing you.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Tap to shoot and use touch controls or W and S keys to move forward in this cool action game! Avoid shots and get ready to fight from your trench. It’s your responsibility to shot down all the enemies that you see on the border. Do you think that you are capable enough of stopping all the waves of bounty hunters? Common boys! We know that you can do it easily. Let’s play this top HTML5 fighting game online for free to have fun without downloading.</span></div>",
+      "size": 800,
+      "height": 550,
+      "script": "https://html5.gamedistribution.com/8a032695857f431ab53f240e42aed41a/\r\n",
+      "metaTitle": "Stickman Peacekeeper, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stickman Peacekeeper at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stickman Peacekeeper Game, Action Games, shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1562507607.xml",
+      "idealFor": "Man",
+      "likes": 55,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 17558,
+      "ownGame": false,
+      "addDate": "2019-07-07T19:23:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.757Z",
+      "updatedAt": "2025-03-05T09:32:59.116Z",
+      "__v": 0,
+      "mobileControlKeys": "WSWIPE UP DOWN TO MOVE, TOUCH THE TARGET TO SHOOT",
+      "webControlKeys": "W UP ARROW- MOVE UP,S DOWN ARROW -MOVE DOWN,LEFT CLICK MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
