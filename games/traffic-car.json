@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be37",
+      "id": 4801,
+      "name": "Traffic Car",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "traffic-car",
+      "image": "4801",
+      "url": "traffic-car",
+      "description": "<div><span style=\"font-size: 13.3333px;\">What a wonderful racing experience it will be? You have plenty of cars to control and help them not to crash with each other. Do you like to be enrolled in this exclusively brand new car race challenge? Join Traffic Car game and show off the world that you are the best driver in the world! When you click the play button, you see multiple cars coming from different directions. Make sure that they do not crash with each other at a point.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The speed of vehicles will keep increasing as you progress in the game. Be attention to the details and try to behave like a smart car driver in this fast-paced arcade game! Keep your eyes on the screen and click the car to increase its speed and let it cross the other vehicles fast on the road! Decide first which you want to click to avoid the crashing otherwise you will lose the game immediately in this html5 car race game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Race your chosen vehicle through oncoming traffic and survive for as long as possible to create the high score in this car race mobile game! Your good performance will help to unlock some cool and advanced car models in the future. We have plenty of traffic, free ride and car drifting games that you can play online, no download required on atmegame.com. All the best to perform better and upgrade your vehicle for a happy gaming experience!! Begin and show everyone what you have achieved!!</span></div>",
+      "size": 480,
+      "height": 720,
+      "script": "https://m.shtoss.com/game/traffic-car/index.html",
+      "metaTitle": "Traffic Car,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Traffic Car at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Traffic Car Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546117493.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11498,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.742Z",
+      "updatedAt": "2024-07-07T06:51:14.694Z",
+      "__v": 0,
+      "mobileControlKeys": "DOUBLE TAP ON THE CARS TO MOVE FAST",
+      "webControlKeys": "DOUBLE CLICK ON THE CARS TO MOVE FASTER"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
