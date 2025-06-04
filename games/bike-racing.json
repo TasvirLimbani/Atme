@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aee1",
+      "id": 442,
+      "name": "Bike Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "bike-racing",
+      "image": "442",
+      "url": "bike-racing",
+      "description": "<p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\">Bike Racing is the game that online bike racing game that, effectually, test your biking skill in one of the toughest terrain in all the circumstances and circumstances. To drive the bike in this mode of online gaming you can select from the three different gaming modes. Mountains, winter, and desert are three different gaming options that are required to be a win in this online game of biking to the best of adrenalin rush and enthusiasm in a zigzag manner.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\"><span style=\"background-color: transparent;\">And in each of the terrain of there are about ten levels and one after and another level. This particular adventurous game that is filled with great biking skills and tricks is the test to how better bike rider you are in <a href=\"https://www.atmegame.com/online-racing-games\" title=\"\" target=\"\">free online bike racing games</a>. The game in this bike opportunity is time bound and skill development purposes.   </span><br></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\"><span style=\"background-color: transparent;\">In this game, there it is to an extent is a massive form of <a href=\"https://www.atmegame.com/online-stunt-games\" title=\"\" target=\"\">stunt biking</a> too. For the game control, there are arrow keys that regulate the different directions. With the up and arrow key you can accelerate and pace up the speed and with other demeanor like turning around left and right arrow keys, there should be used.</span><br></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><span style=\"background-color: transparent;\"><font size=\"2\" face=\"verdana\" style=\"\" color=\"#000033\">However, in the game, speed and balance are very necessary in order to move ahead in the game without falling down.</font></span><br></p>",
+      "size": 640,
+      "height": 640,
+      "script": "<script type='text/javascript' id=266105>\r\n\t(function(d, gn,scriptId){\r\n\tvar prop = {'agent': 'pub-13471-13727', 'bgcolor':'#fff', 'wrapperwidth':'640px', 'wrapperheight':'640px', 'gamewidth':'100%', 'gameheight':'100%', 'game_fullscreen_on_mobile':'true', 'locale':'en'};\tjsid = 'sgEmbedJS';if( d.getElementById(jsid) ) {embed(d,scriptId,gn, prop); } else {\r\n\tvar s = d.createElement('script'); s.id = jsid; s.type = 'text/javascript'; s.onload = function(){embed(d,scriptId,gn, prop);};\r\n\ts.src='//dop3jnx8my3ym.cloudfront.net/embedder.js'; d.getElementsByTagName('head')[0].appendChild(s);}\r\n\t}(document,'bike-racing',266105));\r\n</script>",
+      "metaTitle": "Bike Racing Games - Play Online Bike Games Free : Atmegame.com",
+      "metaDesc": "Bike Racing is the most preferred online bike racing game preferred by the players to test their bilking skills in all the circumstances and situations.",
+      "metaKeyword": "Bike Racing, Racing, Bike, Mobile Games, Bike Racing Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 2623,
+      "dislikes": 318,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 290064,
+      "ownGame": false,
+      "addDate": "2017-07-12T12:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2024-06-15T05:14:02.129Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT LOADING",
+      "webControlKeys": "UP ARROW- SPEED , DOWN ARROW TO BREAK, L-R ARROWS TO TURN"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 164
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
