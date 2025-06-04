@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad92",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3ec",
+      "id": 6490,
+      "name": "Spider Zombie",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "spider-zombie",
+      "image": "6490",
+      "url": "spider-zombie",
+      "description": "<div>Hey guys! Get ready to play a challenging game with different levels. Just shoot the spider web by swinging your Spider Zombie to stand straight against a horde of dangerous obstacles! Your goal is to keep up maximum body parts and reach destination to get fully restored. In this game, you will be trying to surpass obstacles as Spider-Man and reach the final stage. Spider Web will let you do it with ease. But, it wonâ€™t be so easy because you need to avoid crashing into the hurdles and other structures.</div><div><br></div><div>When you get to crash at a great speed, some of your limbs may fly off.&nbsp; The best part is that you can climb hurdles with rope in this online game. Join spider zombie game to use ropes and jump over the obstacles. You are free to perform as many thrilling leaps as you can without getting injured in this remarkable sports game. When you click on the play button, you would find a boy holding the rope that have to jump onto different blocks which come across.</div><div><br></div><div>Just press and hold arrow keys to go down, up, right and left. Space key is used to detach the rope and again press the space bar key to shoot the rope. Ultimately, just reach the vertical line to finish the level and ensure that your body is safe and use ropes sparingly to earn high score. The fun-filled game will keep you entertained for long. This online-themed game is a great choice for players of all age groups. No download needed.</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/720d01676fc646e2b85a939be4e9e0a1/\r\n",
+      "metaTitle": "Spider Zombie Game, Hidden Object - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Spider Zombie at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Spider Zombie Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842581.xml",
+      "idealFor": "Man",
+      "likes": 20,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 8568,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2024-08-30T22:11:26.040Z",
+      "__v": 0,
+      "mobileControlKeys": "UP,DOWN ARROW TO STREACH THE ROPE,L-R ARROW TO HANG L-R,X TO CUT THE ROPE",
+      "webControlKeys": "ALL ARROWS TO ADJUST THE ROPE,SPACE-CUT THE ROPE"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad92",
+      "name": "hidden-objects",
+      "slug": "hidden-objects",
+      "icon": "Hidden Objects"
+    }
+  }
+}
