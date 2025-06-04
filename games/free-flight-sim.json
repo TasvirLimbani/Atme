@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b607",
+      "id": 2605,
+      "name": "Free Flight Sim",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "free-flight-sim",
+      "image": "2605",
+      "url": "free-flight-sim",
+      "description": "<div>A right type of aviation course is required to allow someone fly aeroplane in the real sky. However, getting into our highly interesting and engaging 3D flying game – Free Flight Sim will help you to do this without going through the boring hours and hours of aircraft training. You will be amazed to fly the beautifully-crafted, light weighted propeller airplane to the skies in an environment filled with realistic physics. Take your seat in your favorite vehicle and find out various gaps and places between the rocks and mountains that only a professional pilot can go through.</div><div><br></div><div>Apply your patience and ultimate flying skills to be a king of the skies! You are also allowed to fly around the hills and perform various types of twists and flips in this free online adventure game for boys. Do not forget to discover the hidden treasure to collect the maximum number of points. Use the earned points to buy enhanced planes and improve your various upgrades in this brand new flying game. Build up the power in the engines of the plane first before taking it off from the runaway!</div><div><br></div><div>Avoid crashing into any rocks, mountains and other unwanted obstacles in the air with the help of a decent altitude. Choose from different types of viewing modes to fly your vehicle. A third-person view will help you to explore the beauty of the scenery and surroundings. While choosing the cockpit view will be enough to give you a realistic flying experience. Also practice how to land your vehicle properly on the runaway and park it in of the ways in this one of the best flying games. Improve your plane flying skills and a have a lot of fun in the skies in this cool PC game! The controls of this racing game include WASD to fly, Q and E to tilt rear wing, Up and down arrow to control engine power, Hold I to start engine, B to brake,T to use air trails and C to change camera view.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/free-flight-sim/index.php",
+      "metaTitle": "Free Flight Sim, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Free Flight Sim at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Free Flight Sim Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 144,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 22670,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.712Z",
+      "updatedAt": "2025-03-24T20:10:12.827Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "I- START ENGIN, I=UP ARROW- LIFT UP, W,A,S,D TO CONTROL, C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 19
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
