@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b61b",
+      "id": 2626,
+      "name": "Brawlsio",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "brawlsio",
+      "image": "2626",
+      "url": "brawlsio",
+      "description": "<div>Brawls.io is a 3D multiplayer, action-packed street fighting game for boys. In this beautifully-crafted free online fighting game, you will have to play the role of a fighter who loves to show off his strength and muscles. It’s important for you to get participated in a training session in order to learn the basics of fighting. Once it’s done, get ready to go on the streets and challenge other powerful fighters. So, what are you waiting for boys? Join the brawls right away to show the tough muscles of your chosen fighter!</div><div><br></div><div>You are aware of various effective fighting techniques, so the time has come when you need to apply them to beat the maximum number of players. Your muscles and strength will only be your friend in this brand new 3D action game. Practice several basic moves before entering the streets where you will be treated as a solid brawl at every corner of the city! Respawn and continue the battle in case if you are knocked out. Hit the player down to receive some points!</div><div><br></div><div><span style=\"background-color: transparent; font-size: 10pt;\">Your experience in this field will help to beat your opponents with ease. Try to level up to enhance the strength of your chosen character. Fight against the powerful players from all across the world in this one of the best fighting games 3d. Select your character and begin brawling on unique various stages to level up. Don’t forget to undergo the training required to help you become a king of the ring. Game controls: WASD to move, mouse to aim/attack/block, Space to jump, Shift to sprint, C to crouch, T/G to take/drop </span>weapon<span style=\"background-color: transparent; font-size: 10pt;\">, E + Mouse to kick. Good luck to </span>have<span style=\"background-color: transparent; font-size: 10pt;\"> a blast in this best video game!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/brawls/index.php",
+      "metaTitle": "Brawlsio, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Brawlsio at atmegame.com ! We have selected this fighting games for best excitement and thrill in you!",
+      "metaKeyword": "Brawlsio Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 8610,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2025-04-28T12:59:23.081Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE, L- LOOK AROUND,SHIFT- RUN,C- DOWN, SPACE- JUMP, L CLICK- ATTACK"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
