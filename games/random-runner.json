@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bde3",
+      "id": 4716,
+      "name": "Random Runner",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "random-runner",
+      "image": "4716",
+      "url": "random-runner",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Gear up to be a part of a very funny and highly addictive arcade game that is designed in old-school style! Your awesome running and jumping abilities will guide you to show the path towards the victory soon. Are you ready friends to take this different challenge? Join Random Runner game and be prepared to guide a little girl to run and go as far as possible! All you need to do is just click or tap the screen to control your character.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Make sure to collect as many coins as you can to unlock other three playable characters.&nbsp; This html5 running game includes three amazing features. A random generation of levels will continue under the first feature.&nbsp; You can stay alive for long because of running into the wall under the second feature. When this feature gets activated, your character will enjoy some extra time to jump by allowing the camera to move slower. After that the speed of your character gets slow while reducing the distance between her and camera.</span></div><div><span style=\"font-size: 13.3333px;\">You would find a button in the right corner, which you can consider as a third feature. You can help your character fall faster by pushing this button. This endless running game includes soothing music, cool graphics, easy controls and seamless gameplay. Keep collecting coins and scoring the particular score to unlock other three lovely characters! All the best to check out more funny and engaging highscore platformer games for boys that are free to play, no download required!</span></div><div><br></div>",
+      "size": 860,
+      "height": 480,
+      "script": "https://gamegirl.co/game/random-runner/index.html",
+      "metaTitle": "Random Runner, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Random Runner at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Random Runner Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7111,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.740Z",
+      "updatedAt": "2024-05-03T22:00:47.486Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO JUMP",
+      "webControlKeys": "L CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
