@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd36",
+      "id": 4542,
+      "name": "Destroy The Eggs",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "destroy-the-eggs",
+      "image": "4542",
+      "url": "destroy-the-eggs",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Hey! Eggs are the best thing to break when you are in a fun mode. Are you ready to enter into a brand new arcade challenge where you would have multiple eggs to break to make fun? Join Destroy The Eggs and be prepared to destroy all eggs before they fall on the ground! Yes, the best part is that your every successful effort will reward you with some points and allow you to enter the next level. Click on the boxes to make them disappear from the screen!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Remember the only way to reach to the next level is to destroy all eggs since you will lose if any egg is left unbroken. Think ahead and click on the boxes logically to break eggs one by one! The single of your pink character can break eggs that you see on the screen. There are multiple levels to play through and soothing music of the gameplay will definitely help to keep you engrossed for hours. Be fast and try to click on the boxes timely to get the job done!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Breaking each egg will reward you with one point. Track your score and which level you are presently in by having a look at the top left corner of the screen in this html5 puzzle challenge! Give this 1player point and click game to have fun alone or with your friends! Check out more tricky and engaging arcade puzzles on our website for free and enjoy them without download in your preferred gaming device! All the best to score higher in each puzzle challenge!!</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "\nhttps://html5.gamedistribution.com/150c07d445ef44509def4a6286c1803c/\n",
+      "metaTitle": "Destroy The Eggs, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Destroy The Eggs at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Destroy The Eggs Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7440,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-01-24T20:04:12.915Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO BREAKE THA BOXES TO BREAKE THE EGGS",
+      "webControlKeys": "L CLICK OF MOUSE TO BREAK THE BLOCKS TO BREAK THE EGGS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
