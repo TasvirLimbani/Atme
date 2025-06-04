@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b662",
+      "id": 2707,
+      "name": "Scrap Metal 2",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "scrap-metal-2",
+      "image": "2707",
+      "url": "scrap-metal-2",
+      "description": "<div>Scrap Metal 2 is an ultimate 3D car racing game that features outstanding 6 classic race cars, including a Lamborgini Huracan, a Ferrari 250 GTO V12 from 1962, a Nissan GT, a Subaru Imprezza, an Audi S3, a Chevrolet Camaro and a Dodge Challenger. You are free to test them all. This brand new racing game will allow you to experience a lot ? the fantastic drifting, the high speeds and the surprising crashes. Play this amazing 3D driving game in any modern browser and have fun! Customize the scene, place the obstacles and enjoy both passion and speed! </div><div><br></div><div>In this free online car driving game for boys, you will get a chance to build your own different levels with various ramps and loops. Change the view using the 1-8 number keys. WASD or arrow keys are there to help you out while driving your vehicle and reaching the final destination. Use the enter key to reset the car, space key to apply the handbrake, F and V for the gearbox, shift key to use the clutch and T for slowing your car down. It will be exciting and thrilling to control multiple cars and creating your own stunk track. </div><div><br></div><div>Scrap Metal 2 is a brand new flash game that includes the amazing graphics, seamless gameplay and state-of-the-art audio and video effects. You can also send your car to the garage with Shift + R and move object with Ctrl + mouse. One of the best car racing games for boys, it will allow you to learn how to stand against all the other opponents that will try to drive as fast as you can do. Follow the instructions properly to let yourself allow to experience the best driving experience. Good luck kids!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/scrap-metal-2/index.php",
+      "metaTitle": "Scrap Metal 2, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Scrap Metal 2 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Scrap Metal 2 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 8188,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.714Z",
+      "updatedAt": "2022-08-23T23:21:30.104Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE, SPACE- BREAK"
+    },
+    "rating": {
+      "rating": "2.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
