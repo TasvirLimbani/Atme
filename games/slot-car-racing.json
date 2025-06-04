@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb33",
+      "id": 4020,
+      "name": "Slot Car Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "slot-car-racing",
+      "image": "4020",
+      "url": "slot-car-racing",
+      "description": "<div>This time we have brought to you a brand new racing game where you would get a chance to revive the best days of your childhood! Are you ready to accept this unique driving challenge? Join Slot Car Racing and be prepared to race against the other players, win the cup and gain popularity among all the major racers across the world! Choose any out of Quick Race and Challenge modes across four different difficulty levels including easy, medium, hard and extreme! Or you can also invite your friend and play against him in 8 tracks!</div><div><br></div><div>Make sure to put your finger on the button to keep your vehicle from flying off the racetrack in this html5 car game. There are possibilities of flying your car out of the bend in case if you try to jam down the accelerate button. Take control of your car by hitting the brakes at the right moments! Be careful and try to take care of two important points. First one is that slow down your vehicle on turnings and the second one is that decrease its speed at the points where you change lane.</div><div><br></div><div>In case if you fail in controlling your car on turnings and while it is changing lane, you would see your car going out from the lane and your opponent will leave you behind. Find the ways how to beat your opponent and show everyone that you are the best racer on this planet in this cool car driving game! There are many crossings over the track and you have to try to keep your vehicle away from being crashed with your opponents. Win the cup in each level to make your country people feel proud on you! Have fun without download games on your device!!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/2c1b3191fe3d4615921fc9de3bd50774/\r\n",
+      "metaTitle": "Slot Car Racing , Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Slot Car Racing  at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Slot Car Racing  Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951839.xml",
+      "idealFor": "Man",
+      "likes": 24,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 14632,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-10-16T15:23:53.863Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS L ICON TO MOVE THE CAR",
+      "webControlKeys": "L ALT TO MOVE THE CAR"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
