@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b911",
+      "id": 3433,
+      "name": "Bob The Robber 4 season 1 France",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "bob-the-robber-4-season-1-france",
+      "image": "3433",
+      "url": "bob-the-robber-4-season-1-france",
+      "description": "Bob is back for another great adventure, this time in the beautiful city of Paris!\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/f7f522cafad845d68fcddadbcb581087/\r\n",
+      "metaTitle": "Bob The Robber 4 season 1 France Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bob The Robber 4 season 1 France at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Bob The Robber 4 season 1 France Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536575276.xml",
+      "idealFor": "Man",
+      "likes": 33,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 17768,
+      "ownGame": false,
+      "addDate": "2018-09-10T15:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-02-24T19:51:49.164Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "UP ARROW, L-R ARROW- MOVE"
+    },
+    "rating": {
+      "rating": "2.7",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
