@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8d7",
+      "id": 3361,
+      "name": "Princesses Go Ice Skating",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "princesses-go-ice-skating",
+      "image": "3361",
+      "url": "princesses-go-ice-skating",
+      "description": "Elsa, Anna, Jasmine And Belle are ready to have fun in the winter. These great girls are going on a great ice adventure. They will skate and dance on ice. They need to look super cute, so help them now in this new and fabulous game called Princesses Go Ice Skating!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/3739d617b4074e64bec411d2b245c0f9/\r\n",
+      "metaTitle": "Princesses Go Ice Skating, Dressing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Princesses Go Ice Skating at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Princesses Go Ice Skating Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533533666.xml",
+      "idealFor": "Man",
+      "likes": 20,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7273,
+      "ownGame": false,
+      "addDate": "2018-08-06T11:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.722Z",
+      "updatedAt": "2022-08-23T23:21:30.118Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS TO DRESSUP AND SWIPE TO PICK THE ITEMS",
+      "webControlKeys": "L CLICK OF MOUS ETO DRESSUP AND PICK THE ITEMS"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
