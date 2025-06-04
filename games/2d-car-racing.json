@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c081",
+      "id": 5401,
+      "name": "2D Car Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "2d-car-racing",
+      "image": "5401",
+      "url": "2d-car-racing",
+      "description": "Speeding up with Nitrous gases, maces, missiles and more power-ups are waiting for you and for your friend in the racing tracks. To unlock different cars, you should have enough coins which you can earn from races. You can buy new cars with the golds you have. Call your friend and let the fun begin!\r\n",
+      "size": 1200,
+      "height": 720,
+      "script": "https://html5.gamedistribution.com/0231d5450b1e4d8290b28ee129ad7875/\r\n",
+      "metaTitle": "2D Car Racing,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 2D Car Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "2D Car Racing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552278458.xml",
+      "idealFor": "Man",
+      "likes": 115,
+      "dislikes": 21,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 24378,
+      "ownGame": false,
+      "addDate": "2019-03-11T09:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2025-02-23T15:05:37.661Z",
+      "__v": 0,
+      "mobileControlKeys": "CONTROLS NOT WORKING IN MOBILE",
+      "webControlKeys": "W,A,S,D AND T  TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 22
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
