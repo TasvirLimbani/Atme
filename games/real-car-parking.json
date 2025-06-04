@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b937",
+      "id": 3477,
+      "name": "Real Car Parking",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "real-car-parking",
+      "image": "3477",
+      "url": "real-car-parking",
+      "description": "You are about to enter a realistic simulation world. Even a little touch, will be restarted the game. Exercise your driving skills and unlock more and better cars and park them perfectly in the target parking space. Can you do that? Let try it.\r\n",
+      "size": 800,
+      "height": 590,
+      "script": "https://html5.gamedistribution.com/55687da035f245aeb3945e358fb3fd59/\r\n",
+      "metaTitle": "Real Car Parking, Parking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Real Car Parking at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Real Car Parking Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536576566.xml",
+      "idealFor": "Man",
+      "likes": 45,
+      "dislikes": 9,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 19184,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2024-03-04T15:39:31.090Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE, SPACE- BREAK"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
