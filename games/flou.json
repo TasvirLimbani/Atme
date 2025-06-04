@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4ea",
+      "id": 2274,
+      "name": "FLOU",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "flou",
+      "image": "2274",
+      "url": "flou",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The extremely challenging and mind-boggling puzzle challenge is waiting for you! Are you ready to challenge your puzzle-solving abilities in the world of coloured titles? If yes, join FLOU and be prepared to move the coloured tiles into a clockwise direction and complete multiple levels. Each level will be completed when all the tiles are filled up in the box shown on the screen. It is important to make the colours flow in the right direction to complete your level.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You cannot clear the present level and move to the advanced one until all the grey tiles are painted with the given colour. All it takes to swipe through the mouse to cover all the entire board with the given colour options in this very simple and addictive puzzle game. You would have 30 unique and engaging levels to play through. The uniqueness of the levels, seamless gameplay and challenging yet relaxing environment can keep you busy for hours, even for days.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This fun arcade puzzle challenge features 30 levels, simple and stylish graphics as well as unique and original gameplay. Apply your logical mind and brain power to move the coloured tiles into the direction they need to be! Hold the coloured tile and use your mouse to release it at any adjacent tile to start the flow! Remember tiles will turn into the clockwise direction if they reach the edge or collide with another tile with the different colour. Good luck to fill up all of the boards with the coloured tiles to become a pro of this amazing fun puzzle!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/88190e4c70604ab08bb25ed2a52e29c8/\r\n",
+      "metaTitle": "FLOU, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game FLOU at atmegame.com ! We have selected this puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "FLOU Game, Action Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7069,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-02-16T01:28:53.308Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON COLOR TILES TO PLAY",
+      "webControlKeys": "DRAG AND CLICK TO PLAY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
