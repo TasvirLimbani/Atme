@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be4a",
+      "id": 4820,
+      "name": "Stick Samurai",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "stick-samurai",
+      "image": "4820",
+      "url": "stick-samurai",
+      "description": "<div><span style=\"font-size: 13.3333px;\">We are happy to announce you a brand new adventure game where only a great proportion of fun and entertainment exist. Hope you would enjoy a lot in our highly addictive and challenging arcade challenge Stick Samurai! Your primary objective is to control a stick man who aims at crossing multiple objectives with the help of his stick. All it takes to hold your finger on the screen using your mouse or tap the screen on mobile phone to stretch out your stick.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This stick man has a dream of covering the long distance to create a high score. Would you think that you are capable enough to help him make his dream come true? Give this free online platform challenge and show off the world that you are a true adventure freak! Be careful while dropping your stick from one side to the other since your wrong decision can make your character fall in the hell and you would lose the game immediately!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The best way to avoid falling and create the high score in this html5 skill game is to determine the length of the stick. Your successful effort can also help you grab the bonus point. Good luck to achieve the best high score in this fun-filled online browsers game! Feel try to try out our other popular titles from the category of arcade games that are free to play online, no download required! It is our pleasure to serve you with the best PC games and mobile games!</span></div><div><br></div>",
+      "size": 720,
+      "height": 1280,
+      "script": "https://m.shtoss.com/game/stick-samurai/index.html",
+      "metaTitle": "Stick Samurai,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stick Samurai at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stick Samurai Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546117493.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8322,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.742Z",
+      "updatedAt": "2023-06-19T22:23:45.912Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS AND HOLD THE SCREE TO CREATE THE STICK, RELESE TO MAKE THE WAY",
+      "webControlKeys": "KEEP PRESS AND HOLD L CLICK OF MOUSE TO CREATE THE STICK, RELESE TO MAKE THE WAY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
