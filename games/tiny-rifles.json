@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af0a",
+      "id": 489,
+      "name": "Tiny Rifles",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "tiny-rifles",
+      "image": "489",
+      "url": "tiny-rifles",
+      "description": "<div>Tiny Rifles is an awesome platform game which can be played with the proper implementation of strategy and action. In this side-scrolling strategy game, you have to play the role of a commander who will lead his troops to a most wanted victory by defeating his enemy forces with the help of cannons and guns. Order your soldiers to protect your base and prevent your enemies from entering your area. In this free online challenging game, take full control of moving your soldiers across the entire battlefield.</div><div><br></div><div>Enter the bunkers of your enemies and kill all of them in order to enjoy the taste of victory in highly exciting and most interesting adventure game. Don?t forget to keep on advancing to progress in this thrill-filled recreational activity. The goal of this flash game is to send your troops on the mission of bursting your enemy?s camp and check them from moving forward to you. Collect the gold coins to purchase advanced firearms, riflemen and artilleries. In this mental exercise game, your strategic skills will be improved. </div><div><br></div><div>Deploy soldiers on the field like a brave commander. Each soldier costs some amount of cash, which will be regenerated over the time. Soldier?s classes will be of three types: Riflemen with low cost and low health, snipers known as one-man purchases and assault troops with high power and high cost. In this cool Tiny Rifles game, you also need to set an artillery fire on the battlefield to let your enemies down. Protect the freedom of your country using your bravest skills in this cool platform game!</div>",
+      "size": 800,
+      "height": 526,
+      "script": "https://play.famobi.com/tiny-rifles/A-925FD",
+      "metaTitle": "Tiny Rifles, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tiny Rifles at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Tiny Rifles, Adventure, Platform Games, Tiny Rifles Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 108,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 10837,
+      "ownGame": false,
+      "addDate": "2017-07-19T22:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.668Z",
+      "updatedAt": "2024-08-06T18:17:16.502Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE GUN ICONS TO CREATE THE ARMY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
