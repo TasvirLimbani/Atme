@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0ab",
+      "id": 5446,
+      "name": "Fat Soccer",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "fat-soccer",
+      "image": "5446",
+      "url": "fat-soccer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Hey! You are going to be entered an ordinary football game today. We have brought to you a brand new soccer game where the fight of your character takes place against the legend football players. Do not take them lightly. Your opponents are very quick and will not give you a single chance to lose a point. You have to use your quick reflexes and, of course, amazing soccer skills to ensure your win against the team you select to play against.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You have got your player trained hard. So, he is properly aware of various attacks and specials to flight on the ground. Now it is up you how beautifully you represent him against the other football player in Fat Soccer. There are various teams to be participated in a friendly match and a tournament. Choose from Argentina, Portugal, Spain, Uruguay, France, Brasil, Germany and more. Start this cool html5 football game by clicking the Ok button and then you will be allowed to drag button to help your player find the position you want on the ground!</span></div><div><span style=\"font-size: 13.3333px;\">&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Do not forget to click the confirm to enter the soccer field! Try to be very quick to daze your opponent by applying a flaming fist against them! Common friends! Many football fans will be there to encourage you in this cute html5 soccer game. Play a friendly match or get you participated in a tournament as per your needs! Go ahead and help this player find the way to the continuous victory! It is time to show the world that you are a soccer champion! Check out more amazing free ball sports games on atmegame.com!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/f980e51c7b91454cbf572c32b476f820/\r\n",
+      "metaTitle": "Fat Soccer,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Fat Soccer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Fat Soccer Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 51,
+      "dislikes": 9,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13214,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-05-05T08:52:16.831Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "WA,S,D TO PLAY "
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
