@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf95",
+      "id": 5157,
+      "name": "EG Neon War",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "eg-neon-war",
+      "image": "5157",
+      "url": "eg-neon-war",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Be prepared to witness the biggest war you have ever faced! We have brought to you a brand new adventure challenge where you have to fight like a pro to survive. Enemies will keep coming and attacking on you from all the directions. Your quick reflexes and sharp shooting skills will only be able to get through all the hurdles and become the winner at the end. Do you think that you are ready fight like a champion? Join EG Neon War game to be a part of the biggest fight in the space!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Be careful and keep releasing the bullets in this simple and easy-to-understand space shooting game!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">A huge group asteroids and opponents will try to invade your neon spaceship. All you need to do is just blast down all your enemies before the leave negative impact on your personal neon spaceship. There is no particular direction they choose to attack you. The only way to survive is to shoot down all your enemy spacecrafts and get ready to dodge meteor storms.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your every successful effort will bring some points to you. Do not forget to grab the stars that will keep appearing on the area time to time. Good luck to take down as many enemies as you can to be on the top of the leaderboards!! Fight like a real fighter to become the biggest space shooter! We have many other popular free 3D space games to play online for free. It is also our pleasure to keep our website updated on a regular basis to provide you with the best possible fun every time you visit to us.&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/6f6fd7b59f1545aebd7a92592de24d25/\r\n",
+      "metaTitle": "EG Neon War, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EG Neon War at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "EG Neon War Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545705.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7574,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2024-01-04T04:19:11.435Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS AND HOLD TO CONTROL THE ARROW TO SHOOT BY L CLICK MOF MOUSE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
