@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad9b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb51",
+      "id": 4051,
+      "name": "Knife Jump",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "knife-jump",
+      "image": "4051",
+      "url": "knife-jump",
+      "description": "<div>It is time to challenge your jumping abilities in a completely new environment! Do you like to try it out and show off the world that you are the best jumper of this planet? Join Knife Jump and be prepared to guide a cute knife jump from one platform to another! This time your character will jump from downward to upward. You have to simply tap and hold your mouse or tap the screen to set the power in this brand new knife flipping game.</div><div><br></div><div>Let us see how wisely you guide your knife to climb up to the top. Put your finger on your mouse and make your knife jump as high as possible to create your best score! Make sure that it lands safely on each new platform in this brand adventure game. Do not try to jump too low or too high otherwise you would lose the game immediately. Practice hard to make your blade jump enough times to get your place on the top of the leaderboard!</div><div><br></div><div>Our website is full of html5 jumping challenges that include seamless gameplay, easy controls, and colorful graphics. Hope you would have great fun no matter which age you belong to when you stay at our free online game website. Stay connected with us to find new adventure games that are playable on multiple devices like desktops, mobile phones, tablets, as well as iPhones and iPads! Good luck to have a blast online without download!</div>",
+      "size": 480,
+      "height": 720,
+      "script": "https://html5.gamedistribution.com/af336b83284348cc848dc7f90392f8ae/\r\n",
+      "metaTitle": "Knife Jump Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Knife Jump at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Knife Jump Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8285,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-12-31T08:51:21.161Z",
+      "__v": 0,
+      "mobileControlKeys": "HOLD AND RELESE THE SCREEN TO SHOOT THE KNIFE",
+      "webControlKeys": "L CLICK AND HOLD AND RELESE TO SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad9b",
+      "name": "jumping",
+      "slug": "jumping",
+      "icon": "icon-iconAsset-47"
+    }
+  }
+}
