@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aed9",
+      "id": 434,
+      "name": "Supers Cricket",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "supers-cricket",
+      "image": "434",
+      "url": "supers-cricket",
+      "description": "<p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\"><font color=\"#000033\">The game design of Super Cricket in the genre of </font><a href=\"http://www.atmegame.com/online-cricket-games\" title=\"\" target=\"\" style=\"\"><font color=\"#0033cc\">online cricket game</font></a><font color=\"#000033\"> is getting better niche and space due to the excitement and joy an online player gets while playing it. As the name suggests, Super Cricket apart from online cricketing extravaganza is about living moments of cricketing history live within the game.</font></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\"><span style=\"background-color: transparent;\">In the game, there are total six cricket playing nations that you can select according to your preference of team and choice. The top cricket playing nation comprising of India, South Africa, Australia, Pakistan, Sri Lanka and India are in the game that you can select. After selecting a team, the next thing you come across the game play is the most important cricket matches from the cricket history of the selected team.? There in the game, next, you can choose the match of the respective selected team to play on your own in the game.</span><br></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><span style=\"background-color: transparent;\"><font size=\"2\" face=\"verdana\" color=\"#000033\">There are matches in the game from all the world cup tournaments in the game to be enjoyed from the particular moments of the game as being left out there. Overall in Super Cricket game, there are three two options teams selection and match selections. To play the game, spacer bar is needed to be required to be pressed twice one, when, the ball pitches on the ground and second to hit the ball. However, in super cricket free online game, you are required to remain highly attentive towards the ball coming towards you to hit in a right direction.</font></span><br></p>",
+      "size": 800,
+      "height": 600,
+      "script": "434_swf.swf",
+      "metaTitle": "Supers Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Supers Cricket is the next level of online cricket game that represents the better niche and space of playing online game in the best of style and passion.",
+      "metaKeyword": "Supers Cricket, Sports, Cricket Games, Super Cricket Online Game, Play Free Games, Online Cricket Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 330,
+      "dislikes": 10,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 66860,
+      "ownGame": false,
+      "addDate": "2017-07-11T22:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2024-06-27T19:25:33.661Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED "
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 108
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
