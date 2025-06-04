@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad65",
+  "category_name": "hockey",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad65",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c09d",
+      "id": 5432,
+      "name": "Extreme Airhockey",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "extreme-airhockey",
+      "image": "5432",
+      "url": "extreme-airhockey",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Extreme Air Hockey is a cool brand new sports game that has already started gaining the attention from the lovers of popular game air hockey. Here your objective is to just hold the pod and try to move it around the white board you see the screen to counter the attacks of your opponent. It is very easy to get you prepared for this cool html5 hockey game. All you need to do is to whack the puck away from your area and score as many goals as you can to score big.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You will be given in three modes, including 5-goal, 10-goal, and 15-goals matches to prove your ultimate air hockey skills. Choose any of the four difficult setting system easy, medium, hard and extreme and enter the game as per your skills. Your successful track in this arcade hall classic will also help to improve your eye-hand coordination and sharp reflexes skills. Be prepared to click and drag your mallet across the board once you are ready to play online for free!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Plan your strategy to send the puck flying right into the goal box of your opponent in this classic arcade game online! You find it difficult to guide your mallet to pass the end rail if you think illogically. Beat the CPU in a 15-goal match with the extreme difficulty mode to become a champion of the air hockey tournament! Launch your puck right towards the goal box of your opponent to score points in this online air hockey game! Good luck to play like the Air Hockey Legend!!</span></div>",
+      "size": 400,
+      "height": 550,
+      "script": "https://html5.gamedistribution.com/6f2705df9f39465a9f668f925b1a2204/\r\n",
+      "metaTitle": "Extreme Airhockey,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Extreme Airhockey at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Extreme Airhockey Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12130,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-06-03T13:04:36.520Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO MOVE AROUND",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE  AND MOVE TO PLAY"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad65",
+      "name": "hockey",
+      "slug": "hockey",
+      "icon": "hockey-games"
+    }
+  }
+}
