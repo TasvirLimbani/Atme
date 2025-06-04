@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5e4",
+      "id": 2569,
+      "name": "Dead Roadkill Highway",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "dead-roadkill-highway",
+      "image": "2569",
+      "url": "dead-roadkill-highway",
+      "description": "Dead Roadkill Highway, Zombie Games<br>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/dead-readkill-highway/index.php",
+      "metaTitle": "Dead Roadkill Highway, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dead Roadkill Highway at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Dead Roadkill Highway Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 6917,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.712Z",
+      "updatedAt": "2023-05-29T04:21:04.320Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D - MOVE, L CLICK OF MOUSE TO SHOOT L-R SIDE"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
