@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6b",
+  "category_name": "golf",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9dd",
+      "id": 3651,
+      "name": "Cave Golf",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "cave-golf",
+      "image": "3651",
+      "url": "cave-golf",
+      "description": "Play an action packed game of prehistoric golf in Cave Golf!\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "\nhttps://html5.gamedistribution.com/6a1005ef145c4366a26fd2058c375e7b/\n",
+      "metaTitle": "Cave Golf Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cave Golf at atmegame.com ! We have selected this golf games for best excitement and thrill in you!",
+      "metaKeyword": "Cave Golf Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335554.xml",
+      "idealFor": "All",
+      "likes": 19,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9012,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2025-05-08T13:50:29.160Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP HOLD AND DRAG TO HIT",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SELECT THE DIRECTION, RELESE TO HIT"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6b",
+      "name": "golf",
+      "slug": "golf",
+      "icon": "golf-games"
+    }
+  }
+}
