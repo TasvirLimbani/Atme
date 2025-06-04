@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be00",
+      "id": 4745,
+      "name": "Neptune Journey",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "neptune-journey",
+      "image": "4745",
+      "url": "neptune-journey",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is always exciting and challenging to be on the Neptune planet! We are going to take you today to a brand new arcade challenge where you have to control a ball in a Neptune planet. There are multiple platforms to deal with and you have to focus on the ball and the platforms before moving your character to the opposite platform. Try to be quick and fast to complete your mission safely and successfully!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Click or tap the screen left or right to make your character jump in this free online jumping game! Your command over the character will help to clear all levels with 3 stars. You can explore this cute html5 skill game in android devices, tablets, windows phones and iPhones or iPads.&nbsp; When a level is completed, an icon “Continue” will be shown on the screen. Use your mouse to interact with game when you play it on your PC!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You can also interact with the game by touching on arrows button displayed on the screen when you want to enjoy it on your mobile phone. We are happy to offer a wider and fabulous collection of arcade puzzle challenges that are free to play online, no download required. Try them out one by one to spot the one that suits your interests and tastes!! Our website carries online games for kids, teenagers and grown-ups. Good luck to have a blast and enjoy a wonderful Neptune journey!</span></div><div><br></div>",
+      "size": 800,
+      "height": 640,
+      "script": "https://m.shtoss.com/game/neptune-journey/index.html\r\n",
+      "metaTitle": "Neptune Journey, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Neptune Journey at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Neptune Journey Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7321,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.741Z",
+      "updatedAt": "2023-05-19T00:04:03.230Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPPING L-R OF SCREEN TO MOVE",
+      "webControlKeys": "L-R ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
