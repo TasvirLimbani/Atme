@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb32",
+      "id": 4019,
+      "name": "Traffic Rush 2018",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "traffic-rush-2018",
+      "image": "4019",
+      "url": "traffic-rush-2018",
+      "description": "<div>It is time to polish your driving abilities and show off the world that you are the best racer of this planet! Do you think that your motor driving skills can challenge anyone? Join Rush Traffic 2018 and be prepared to drive your car carefully and avoid of being crashed with any other vehicles! Remember a single collision can cost you a life and you would be thrown out of the game. So make sure to put your fingers on the arrow keys of your keyboard or tap the screen to enjoy a realistic driving experience.&nbsp;</div><div><br></div><div>There are many unique and exciting challenges to face off in this brand new racing game. Make sure to focus on the screen and challenge your brain to keep your vehicle moving forward without collided with any other vehicles. Do not forget to collect cash through which you can also upgrade your car models and make your gameplay more interesting and challenging. Track how much cash you have earned so far, how much distance you covered and what score you have achieved now by looking at the top right corner of the screen!</div><div><br></div><div>It is a strategy game where you can only win if you face off the enemies confidently. We are pretty sure that you would be able to relieve your stress and beat your boredom in a safe environment. Try to keep your vehicle moving forward while making sure that it does not hit any other ones running on the road! Follow all the traffic rules as police cars will also be shown on the road! Practice your driving abilities by browsing through our extensive collection of free racing games and enjoy your day without download games!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/f38b3615d9474c00bf29c36adb8ded22/\r\n",
+      "metaTitle": "Traffic Rush 2018, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Traffic Rush 2018 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Traffic Rush 2018 Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951839.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12138,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2025-04-20T06:30:22.359Z",
+      "__v": 0,
+      "mobileControlKeys": "CONTROLS NOT WORKING",
+      "webControlKeys": "PRESS RIGHT ARROW TO MOVE RIGHT"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
