@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bc15",
+      "id": 4251,
+      "name": "Zombie Trigger",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zombie-trigger",
+      "image": "4251",
+      "url": "zombie-trigger",
+      "description": "<div>Oh no! Your area has been invaded by a group of blood-thirsty zombies and the only way to escape from there is to kill them all. Try to keep your character away from these deadly souls since they will kill you if they stay connected with him for only a few seconds!&nbsp; Here is an attack from the undead so be careful and grab your gun to clear the area from these bastards in this brand new epic action shooter game. Take charge of a zombie hunter in Zombie Trigger!</div><div><br></div><div>Choose your character, gun and item and enter the world where undead creatures are found in a great number! You have three dangerous missions to complete and two primary locations an abandoned warehouse of an industrial plant and a scrapyard to explore. You would also have a chance to collect some of the best lethal weapons to select from this HTML5 zombie game. Pull your trigger, slay all the dead souls and make your city clean and liveable once more!</div><div><br></div><div>You are presently on a marine Michonne where you find only the dead everywhere. Make sure not to escape a single zombie and try to strategize, assault and overcome their frontier by playing the role of an expert undead killer. There is no need to show mercy on anyone and do your best to save the entire world from this unexpected apocalypse in this zombie survival game. You have a wide array of powerful weapons to unlock, multiple zombies with distinctive abilities, electrifying music and SFX, stunning visuals and intuitive controls to explore.</div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/08304e9819414c76ac6894836ef571fc/\r\n",
+      "metaTitle": "Zombie Trigger Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zombie Trigger at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Zombie Trigger Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543659297.xml",
+      "idealFor": "Man",
+      "likes": 61,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12462,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:44:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.734Z",
+      "updatedAt": "2025-05-29T02:08:11.093Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE, SPACE/ L CLICK OF MOUSE- KILL"
+    },
+    "rating": {
+      "rating": "4.6",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
