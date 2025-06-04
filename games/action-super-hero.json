@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3c9",
+      "id": 6455,
+      "name": "Action Super Hero",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "action-super-hero",
+      "image": "6455",
+      "url": "action-super-hero",
+      "description": "<div>This time you are going to play the role of a flying brave cat whose area is invaded by a horde of deadly enemies! Would you accept this challenge and show off the world that you are the biggest animal lover? Join Action Super Hero and be prepared to clear the sky from all the dangerous enemies! No! You do not need to kill each and every enemy as sometimes avoiding them can also help you to save your power and move forward in this brand new action game.</div><div><br></div><div>Hitting with your enemies will cause lose your energy and, if it continues, you will lose your game as well. Try to grab as many coins as you can to boost your score and make sure to keep your hero away from the bad souls! Your enemies will also keep releasing fire and other deadly things to destroy your character in the air. Your score will increase each time when you collect the coins. Track your score by having a look at the top middle portion of the screen!</div><div><br></div><div>Keep your cat moving upward and downward, or you can also direct it in a left or right direction to avoid the collision! Good luck to guide her for the long stay in this HTML5 shooting challenge! Do not forget to browse through our extensive collection of free action-packed challenges to find some more engaging and addictive titles. We have tried here to capture the online games that serve the tastes of players from different age groups. All the best to have a blast with new characters every day!</div>",
+      "size": 720,
+      "height": 410,
+      "script": "https://html5.gamedistribution.com/8f2a4c27585a4197bf950f20c0a753d4/\r\n",
+      "metaTitle": "Action Super Hero Game, Shooting - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Action Super Hero at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Action Super Hero Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 121,
+      "dislikes": 33,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 31777,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-05-19T13:18:34.224Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS THE TRECK BALL TO MOVE ",
+      "webControlKeys": "KEEP PRESS THE TRECK BALL TO MOVE "
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 11
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
