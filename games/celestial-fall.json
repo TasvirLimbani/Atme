@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba85",
+      "id": 3835,
+      "name": "Celestial Fall",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "celestial-fall",
+      "image": "3835",
+      "url": "celestial-fall",
+      "description": "Celestial Fall is game which puts your reflexes and insight to the test&#33; Be fast to determine your path, try to evade the gaps and think twice before jumping on a blue block&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/celestial-fall-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Celestial Fall, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Celestial Fall at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Celestial Fall Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7055,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.728Z",
+      "updatedAt": "2022-08-23T23:21:30.128Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP L-R OF SCREEN TO MOVE L-R",
+      "webControlKeys": "L CLICK OF MOUSE TO MOVE L-R "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
