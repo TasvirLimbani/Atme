@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb5d",
+      "id": 4063,
+      "name": "Galactic Force",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "galactic-force",
+      "image": "4063",
+      "url": "galactic-force",
+      "description": "<div>Are you ready to show off your shooting abilities in the galaxy that is full of deadly obstacles? Join Galactic Force and be prepared to play the role of the best shooter! Select from Fighter, Tank and Scout and get ready to test all your fighting abilities and take care of your attacks to the next level! Each class comes with its own set of features and benefits and you are sure to have fun till the game finishes. This brand new action game is just for you if you always wanted to witness an extraordinary experience.</div><div><br></div><div>You as a fighter are capable enough to regenerate your health anytime when needed. Scouts can easily slide around if needed and you will see a dedicated shield around the tanks. Try not to die easily. There are multiple game modes that including Deathmatch, Team Deathmatch, Battle Royale and Coop Survival. You would also have player abilities and power-ups to use. Fight as aliens or remote planets and show off the world that you are an ultimate fighter in this multiplayer survival game!</div><div><br></div><div>Each class has their own set of exclusive weapons with customizable skins. Common boys! You know how to help maintain an edge and reply to your opponents. Work with your teammates as your rival monsters could come and attack you from any direction in this fighting game! Select from multiple game maps and modes to play online without download and get ready to enjoy an intense FPS experience!!</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/aa8cc6cd68794b00959bd133920c429a/\r\n",
+      "metaTitle": "Galactic Force, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Galactic Force at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Galactic Force Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 37,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13698,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-11-29T14:26:57.638Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALLA RROWS TO MOVE, SPACE-JUMP, R CLICK-AIM,MOUSE WHEEL- CHANGE THE WEAPON, L CLICK-SHOOT"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
