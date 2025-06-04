@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b548",
+      "id": 2396,
+      "name": "Euro Football Kick 2016",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "euro-football-kick-2016",
+      "image": "2396",
+      "url": "euro-football-kick-2016",
+      "description": "Play the Euro Championship 2016 in France. Can you score more than the other teams? Shoot past the keeper and make a goal!!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/b23deb025996424da64cf8f8cf986fd8/\r\n",
+      "metaTitle": "Euro Football Kick 2016, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Euro Football Kick 2016 at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Euro Football Kick 2016 Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524808838.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10264,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-08-03T14:44:32.826Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT LOADING",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND SWIPE TO GOLE"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
