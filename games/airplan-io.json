@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb4d",
+      "id": 4047,
+      "name": "Airplan IO",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "airplan-io",
+      "image": "4047",
+      "url": "airplan-io",
+      "description": "<div>We have good news for all the lovers of airplane flying games. Join the AIRPLAN.IO game and be prepared to control a little and cute airplane to fly for as long as possible in the sky! This plane is very easy to control and make sure that it does not collide with any other planes to stay in the game. All you need to do is just put your finger on your mouse in the desktop and tap the screen in your mobile phone to move your airplan around on the map.</div><div><br></div><div>The map will show you multiple energy points at different locations. Try to collect as many points as possible to make your plane stronger! Make sure to keep your plane away from the other planes since you will lose your game immediately in case of being hit anytime. This html5 flying game is suitable for gamers of all ages so you can give it a try no matter which age group you belong to. Keep your eyes on the screen to survive for long and create your best high score!</div><div><br></div><div>Our website covers a countless collection of free adventure games that are playable on multiple devices. In several online games, you can have the experience of operating a real flying simulator. There are flying games that can help you get trained in handling planes professionally. You are sure to get an unlimited amount of fun, thrill and entertainment when you stay connected with us.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/ac2607fab44d44c586e78a7cf807adba/\r\n",
+      "metaTitle": "Airplan IO, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Airplan IO at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Airplan IO Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9143,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-09-21T15:10:01.847Z",
+      "__v": 0,
+      "mobileControlKeys": "CONTROLS NOT WORKING",
+      "webControlKeys": "MOUSE TO CONTOL THE PLANE, L- CLICK TO SPEED UP"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
