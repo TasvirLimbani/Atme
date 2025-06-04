@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b615",
+      "id": 2620,
+      "name": "Extreme Drift",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "extreme-drift",
+      "image": "2620",
+      "url": "extreme-drift",
+      "description": "<div>You do not seek only for the rear-wheel-drive cars to execute different types of surprising stunts on a track especially if you are a real drifting professional. You have the abilities to perform the job to the utmost perfection with any car ranging from the beautifully-designed cars to powerful SUVs. Some drifting pros are on the road and seek for a young individual to join their team. Are you ready to take this challenge and surprise them with your ultimate drifting skills in this awesome 3D free online car racing game for boys?</div><div><br></div><div>Staying with these guys will help you to travel around the world and enjoy the wonderful rides along the way in Extreme Drift. You will have tons of tracks and customizable cars to unlock and hours of fun to explore. Common on boys! It will take a few minutes to get into action and put your driving skills to test in this brand new driving game. We believe that you have talents to become the next king of the drift. So, also prove it to the world that you deserve this title for this time.</div><div><br></div><div>Choose your car and get ready to drive and drift your first vehicle on tough, curvy tracks. The longer you will drift, the higher coins you will be able to earn in the end of this one of the best driving games for boys and girls. With the earned coins, you can buy various awesome upgrades and new beautiful cars to improve the performance of the gameplay, including police cars. Also, enjoy the customization of the exhaust and the rims with cool colors. Play this cool PC game and have a lot of fun kids!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/extreme-drift/index.php",
+      "metaTitle": "Extreme Drift, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Extreme Drift at atmegame.com ! We have selected this car games for best excitement and thrill in you!",
+      "metaKeyword": "Extreme Drift Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 34,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 14083,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2023-12-22T09:06:23.463Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE, C- CHANGE THE VIEW, SPACE- BREAK"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
