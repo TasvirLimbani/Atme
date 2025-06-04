@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0fa",
+      "id": 5531,
+      "name": "Shooting at Buddies",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "shooting-at-buddies",
+      "image": "5531",
+      "url": "shooting-at-buddies",
+      "description": "<div><span style=\"font-size: 13.3333px;\">We can understand that you have tried out many shooting games yet. However, this time we have brought to you a brilliant archery game that has the ability to keep you busy for long hours. We are talking about a brand new action-packed challenge named Shooting at Buddies where you have to shoot apple off of your buddies heads. Common friends! This is undoubtedly a unique fun challenge that you would not have tried yet. Give it a single try to learn why it is gaining popularity among gamers of all ages!</span></div><div><span style=\"font-size: 13.3333px;\">In each level you will see your buddy with an apple putting on his head. Take your time, adjust the direction of your arrow and release it to shoot the apple that you see on the head of your buddy. It is time to show your skill and prove the world that you are a real champion of the archery world. Aim your target perfectly to complete level and unlock practice mode in this one of the best shooting games for boys! Do not forget to hold your mouse to get the energy to release your arrow! Try not to hurt any of your friends with your wrong move!</span></div><div><span style=\"font-size: 13.3333px;\">Your game will be over if you hit your buddy. So, shoot the apple perfectly to reach to the next round. Challenge your archery skills in a practice mode before entering this arrow and bow game! Your winning will only be possible if you have the bull’s- eye of your target. You will move 5ft backwards for each successful hit. Let see how many apples you will be able to shoot in a row and set a higher score for your competitor! Good luck to have a blast in our all free online aiming games!</span></div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/9d4b95c1fdd546949e72db44adb86c30/\r\n",
+      "metaTitle": "Shooting at Buddies, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Shooting at Buddies at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Shooting at Buddies Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453347.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9035,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2024-05-05T21:26:18.914Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO ADJUSTB THE ANGLE,TAP ON SHOOT HOLD AND RELESE TO HIT THE APPLE",
+      "webControlKeys": "HOLD AND RELESE LEFT CLICK OF MOUSE TO SHOOT THE APPLE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
