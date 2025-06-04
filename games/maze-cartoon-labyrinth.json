@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5b8",
+      "id": 2524,
+      "name": "Maze Cartoon Labyrinth",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "maze-cartoon-labyrinth",
+      "image": "2524",
+      "url": "maze-cartoon-labyrinth",
+      "description": "<p class=\"text_desc\">\nMaze Cartoon Labyrinth is a cool arcade style online game that puts you in the shoes of a cartoon character that wants to navigate through 3D mazes. Your primary objective is to find the path to freedom while avoiding cube block obstacles. Each level comes with a new maze generated randomly, while ensuring endless challenges and excitement.</p>\n<h4>\nKey Features:</h4>\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\">\n<li><b>\nRandomly Generated Mazes:</b> It is amazing to explore unique labyrinths in each level, offering endless replay ability and excitement. Every maze presents a new challenge to overcome.</li>\n<li><b>\n3D Level Geometry:</b> Immerse yourself in fully three-dimensional environments, adding depth and complexity to your escape journey. Make sure to navigate carefully to avoid crashing into walls and progress to the next level.\n</li>\n<li><b>\nMap Assistance:</b> If you find yourself stuck throughout the game, do not forget to use the map to strategize your escape route. Plan your moves wisely to navigate through the maze and reach your goal without getting lost or trapped.</li></ul></p>\n<p class=\"text_desc\">\nIn this one of the best 3D arcade games for boys and girls, you will need to engage your brain cells to smoothly escape from each level without crashing into walls. The maze geometry is fully three-dimensional, adding depth and complexity to your escape journey. \n</p>\n<p class=\"text_desc\">\nAs you move forward, the mazes become increasingly complicated, requiring strategic thinking and careful manoeuvring to navigate successfully. The map given in the game will help you provides a bird's-eye view of the maze and guides you plan your route and avoid dead ends. Be alert friends, as time is of the essence, and every wrong turn could lead to failure.\n</p>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/maze-cartoon-labyrinth/index.php",
+      "metaTitle": "Maze Cartoon Labyrinth,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Maze Cartoon Labyrinth at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Maze Cartoon Labyrinth Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7552,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.711Z",
+      "updatedAt": "2024-07-10T09:42:48.419Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D TO MOVE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
