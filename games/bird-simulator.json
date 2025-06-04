@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3c6",
+      "id": 6452,
+      "name": "Bird Simulator",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "bird-simulator",
+      "image": "6452",
+      "url": "bird-simulator",
+      "description": "<div>A cute and stranded flying creature needs your help today! She has forgot how to fly in the sky. However, luckily she has found you and approached you for the assistance. Would you like to come forward to help her to fly over the beautiful landscapes? Join Bird Simulator and be prepared to enjoy a feel like a bird flying over the greenery environment surrounded by awesome forests and fields! Give your best to help her flying for long!</div><div><br></div><div>It will be amazing to control the flight of the bird who is pretty confused how to move forward. Make sure that the bird needs good space for living so try to make her fly for as long as you can to create your best score. Try to keep her away from the obstacles that you can find on the ground and in the sky as well! She will be happy for your great work and share your caring with her family and friends.</div><div><br></div><div>Pleasant music, colorful graphics, easy controls and seamless gameplay will be enough to keep you entertained for hours. It is easy and simple to play, but difficult to become the master of this cute flying challenge. Check it out on all the popular platforms like Windows, Android, iOs, Mac and even Linux and have fun with your friends without download! We are happy to offer a wider collection of free adventure games for boys and girls that are based on very interesting and challenging stories.</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/65d5cf85ffa945e1a23ad30190fc3d37/\r\n",
+      "metaTitle": "Bird Simulator Game, Flying - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Bird Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Bird Simulator Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 46,
+      "dislikes": 10,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 13216,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-03-25T08:24:01.918Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,S-PITCH,A,D-YAW,SPACE-FLAP,LEFT SHIFT-DOWN,TAB/ESC-PAUSE,TAKE OFF-SPACE,S-LAND"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
