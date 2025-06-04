@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bda9",
+      "id": 4658,
+      "name": "Emoji Ball",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "emoji-ball",
+      "image": "4658",
+      "url": "emoji-ball",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a lover of soccer games? Is it your hobby to spend most of time playing with footballs on the ground and now you want to enjoy it in your mobile phone? Join Emoji Ball game and get ready to cherish your favorite sport in your own style! You would see a large number of Emoji on the screen when you touch the screen to start. Your objective in this brand new soccer game is not to let ball fall on the bottom of the screen.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Pay attention to the details and try to hit the highest score with just a few clicks! Do not bother at all since the controls of the game are very simple and easy to understand. Your good performance will depend on how long you will be able to keep the ball in the air. You do not need to put the pressure on your fingers since you can control the ball with the soft hands on your mouse. Track your best score by keeping your eyes at the bottom of the screen in this html5 sports game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">All the best to enjoy this unique ball adventure! Our free online game portal features countless football games for boys that are free to play online, no download required on atmegame.com. Make sure to browse through our extensive collection of sports games and spot the one that caters the cool games of your choice. It is easy to navigate our wider game collection and have fun alone or with your friends while playing games on multiple devices, including mobile phones, desktops, tablets and iPads or iPhones.&nbsp;</span></div><div><br></div>",
+      "size": 720,
+      "height": 1280,
+      "script": "https://m.shtoss.com/game/emoji-ball/index.html",
+      "metaTitle": "Emoji Ball, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Emoji Ball at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Emoji Ball Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545720193.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10833,
+      "ownGame": false,
+      "addDate": "2018-12-25T12:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-08-02T16:03:34.545Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP ON SWIPE ON THE BALL TO JUMP",
+      "webControlKeys": "KEEP CLICK THE L CLICK OF MOUSE TO JUMP THE BALL"
+    },
+    "rating": {
+      "rating": "2.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
