@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b63a",
+      "id": 2658,
+      "name": "Army Pilot",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "army-pilot",
+      "image": "2658",
+      "url": "army-pilot",
+      "description": "<div>Powered by WebGL technology, Army Pilot is an ultimate treat to all flying game lovers. In this awesome 3D multiplayer adventure game, you will get an opportunity to train yourself to be an elite pilot. Use your creative mind, take up a charge of piloting your aircraft and manoeuvring through various deadly hindrances in this free online flying adventure game for boys. Try to cover up the long distance in order to collect the sufficient credits to purchase the advanced ship.</div><div><br></div><div>Go through a beautifully-designed 3D environment, avoid all the unwanted life-threatening obstacles and gather as many rings as you can to earn the maximum possible credits. Remember even a single wrong move can end up with facing a more complexed environment. Faster you unlock any one of the four extra ships, the better will be for you to win this fast-paced yet quite challenging endless driving game. Your aim in this best PC game is to fly an improved spacecraft and cover the optimum distance before crashing to one of the obstacles.</div><div><br></div><div>Buy enhancements that you find on your way to increase the speed double or even triple of receiving the amount of credits. Although the job is pretty difficult, getting focused on the instructions will help you to achieve the goal of this one of the best adventure games for boys. Earn 500 credits by going inside the loops and you can use these credits to purchase new and advanced power-ups and vehicles. Take care of moving objects, tall buildings and even moving buildings in this cute PC game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/army-pilot/index.php",
+      "metaTitle": "Army Pilot, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Army Pilot at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Army Pilot Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 8936,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2025-01-16T12:54:06.643Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "TAB- PAUSE MANU,P- FULL SCREEN,T CHAT,.C- CROUCH,L CTRL- PRONE,L CLICK- FIRE, R CLICK- AIM,R- RELOAD, L SHIFT- RUN"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
