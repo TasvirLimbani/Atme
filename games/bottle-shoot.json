@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4c4",
+      "id": 2232,
+      "name": "Bottle Shoot",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "bottle-shoot",
+      "image": "2232",
+      "url": "bottle-shoot",
+      "description": "<div><span style=\"font-size: 13.3333px;\">We have brought a good news for all the crazy bottle shooters! Are you one of amongst those who love to shoot bottles with a gun? If yes, playing Bottle Shoot can be a right choice for you. Your objective in this brand new action packed challenge is to shoot as many bottles as you can in the limited time period. It requires to put your ultimate shooting abilities to the test to be a real bottle hunt master. The level of complexities will keep advancing with each round.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Break the bottle while avoiding the obstacles like shells and bombs to reach out and enjoy the bonus level in this HTML5 shooting game! Challenging your hand-eye coordination abilities will help to break the maximum number of bottles to set your best score! Make sure to challenge your reflexes to get the job done. Shoot all the bottles you see coming out from the bottom of the screen until you run out of bullets! Try not to miss single shot to create your new best high score!</span></div><div><span style=\"font-size: 13.3333px;\">Use the arrow keys to control your gun and fire bullets using the spacebar! This gun shooter challenge features a single level to play through. Your game is over if you miss 3 bottles. The top left corner of the screen will show your remaining lives. Be careful as the dangerous grenades will also keep coming from the bottom during the gameplay! Try to be as quick as you can with a proper attention to create your high score possible! Good luck!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/cda5b68dd78444f8a6707ada1d70121e/\r\n",
+      "metaTitle": "Bottle Shoot,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bottle Shoot at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Bottle Shoot Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524804977.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 18801,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:26:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2025-04-16T22:35:18.399Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS TO MOVE THE GUN, RIGHT ICON TO SHOOT",
+      "webControlKeys": "UP DOWN ARROWS TO MOVE , SPACE - SHOOT"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
