@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b52a",
+      "id": 2345,
+      "name": "Forest Wars",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "forest-wars",
+      "image": "2345",
+      "url": "forest-wars",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The dangerous evil attackers are looking forward to occupy your forest and you have no other choice rather than fighting against them. Do not bother at all since your weapons are also ready to challenge them. They are also armed with the same weapons as you have. However, your skills in aiming your target will definitely help make your way to the victory. Do you want to go on this brand new action-packed challenge? If yes, join Forest Wars and gear up to help your new friend to shoot the arrows in the right target.&nbsp;</span></div><div><span style=\"background-color: transparent; font-size: 10pt;\">You have to complete this objective in each level. However, the number of enemies will keep increasing as you will keep moving. Take your time, aim your target and hit them all like a pro in this HTML5 shooting game! There are different unique and highly addictive levels to play through. Play alone or invite your friends to have fun together without download! You will have three lives to use so be careful when your enemies release their arrows.&nbsp;</span><br></div><div><span style=\"font-size: 13.3333px;\">Try to finish all these dangerous enemies before they attack you in this bow and arrow game! The left top corner of the screen will show how much lives you have available while you can see the menu and replay button at the top right corner of the screen. Make sure to play at least a few levels to know if this action-packed shooter is perfect for you. If you seek for extra fun, do not forget to give our huge collection of action games a try. It is free of cost, friends!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/b5ae2a1f293d4cf2af1fbe27c56a8682/\r\n",
+      "metaTitle": "Forest Wars, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Forest Wars at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Forest Wars Game, Shooting Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806916.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 10052,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2025-04-25T08:19:55.078Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO AIM, RELESE TO SHOOT",
+      "webControlKeys": "CLICK AND DRAG TO SHOOT BY L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
