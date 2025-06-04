@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c27c",
+      "id": 6043,
+      "name": "Grumpy Cat Runner",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "grumpy-cat-runner",
+      "image": "6043",
+      "url": "grumpy-cat-runner",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you an animal lover? Do you love in exploring the online games that feature a cute cat? If yes, you must try Grumpy Cat Runner, which is possible a popular 3D runner game in which you have to guide a famous grumpy cat who is very hungry. Your job in this free online game is to help cat to feed him with the leftovers of fish, which are the only items that are left to eat in the city. Pay attention to the details and play as fast as you can to collect the maximum possible fish while avoiding the obstacles.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Make sure to collect as many cool power ups as you can to cover the long distance in this endless running game for kids. Fish bones are one of the most favourite items of our beloved grumpy cat. Join the fabulous 3D race and get an opportunity to control her around the town! The cat relies on your skill, so try your best to collect some fishbones and look for the life-saving power-ups. Control him with the arrow keys on your keyboard in this one of the best adventure games! Open your eyes while moving him right and left and following the fish path!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Don’t forget to slide under the obstacles and jump above the others. Take the needful action on time to avoid stopping you from enjoying the fun in between. You have the guts to make the instant decisions under the pressure. Your game will be over when you use all three lives available in this brand new adventure game. Cover as much distance as you can to add more points to your score! Golden coins and the fish you collect are the two different currencies. Complete certain missions to reward you with the golden coins!&nbsp;</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/b47e60c1b75b4a8ba83c7d6cbceecbff/\r\n",
+      "metaTitle": "Grumpy Cat Runner Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Grumpy Cat Runner at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Grumpy Cat Runner Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1562507607.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7171,
+      "ownGame": false,
+      "addDate": "2019-07-07T19:23:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.758Z",
+      "updatedAt": "2024-01-09T20:41:52.975Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W UP ARRROW -JUMP,S DOWN ARROW TO SWIPE,A D L-R ARROW TO LEFT RIGHT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
