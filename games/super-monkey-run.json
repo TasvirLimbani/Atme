@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbf0",
+      "id": 4214,
+      "name": "Super Monkey Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "super-monkey-run",
+      "image": "4214",
+      "url": "super-monkey-run",
+      "description": "<div>This super monkey has left his home for his most awaited adventure and you are his only friend to guide him in multiple world! Would you like to be his helping hand and show him the path of success? Join Super Monkey Run and be prepared to have fun with this cute pet in a way like never before! He has a number of missions to complete in this challenging world. Make sure to control him perfectly when he runs and jumps and passes through deadly obstacles.</div><div><br></div><div>There are different and highly engaging levels to play through in this brand-new adventure challenge. Do not forget to guide this cute animal to grab a significant amount of coins. You can use those coins to upgrade your weapons and purchase new characters and find some cool outfits for them. Hey man! No need to be relaxed during your journey as many dangerous enemies are available on the path to deal with. Kill wild pigs, flying bugs and foxes to find the way to your destination in this HTML5 platform game!</div><div><br></div><div>You are the only who could help him to escape the monster of the post-apocalyptic city. All you need to do put your running, jumping and fighting abilities to the test to win in each level of each world. Common friends! Your monkey has the guts to survive under the supervision of your precious guidance. All the best to help him to survive in 3 endless worlds! There are 6 characters and 2 player mode to enjoy. Have a blast in our other most liked titles from the category of free jumper games and kill your time without download!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/1da0b3b9dc3f400fb4f5450e8590ad6e/\r\n",
+      "metaTitle": "Super Monkey Run Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Super Monkey Run at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Super Monkey Run Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543659100.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8277,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:41:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.733Z",
+      "updatedAt": "2024-05-22T08:24:23.916Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "X- HIT, SPACE- JUMP, L-R ARROW TO MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
