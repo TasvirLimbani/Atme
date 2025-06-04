@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c30f",
+      "id": 6212,
+      "name": "Zombinators",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "zombinators",
+      "image": "6212",
+      "url": "zombinators",
+      "description": "<div>Oh my God! The blood-thirsty zombies are everywhere on the road as the Earth is already exposed to the biggest global catastrophes. The problem is that people of the city have no choice except running here and there to save their lives. Now you have taken the responsibility of controlling the spread of the zombie virus through your cool truck. Would you be able to manage it properly? Join Zombinators and be prepared to kill as many zombies as you can while driving like a king!</div><div><br></div><div>Common man! People of your city have shown trust on you, do not break it anyway. The track is prepared in the underground laboratories where already many hurdles are waiting for you. When you move forward, you find no one else except the green zombies who are anxiously looking for a victim. It is really very difficult to reach out to the store with a full of your health. Use your jeep to reach the destination while shooting down the stray dead!</div><div><br></div><div>The only way to replenish the food supplies is to get into the stores under the cover of a car. Guide your car through the deadly streets and while keeping your character away from the blood-thirsty zombies! Kill these bloody monsters under the powerful wheels of your car and show off the world that you are a pro driver in this HTML5 truck game! Make sure not to lose or roll over the wheels. Remember even a small accident will cause your character the unwanted death.</div>",
+      "size": 854,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/f0ea997e0ddb4226b76fdde165ef642b/\r\n",
+      "metaTitle": "Zombinators Truck Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zombinators at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Zombinators Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1577255672.xml",
+      "idealFor": "Man",
+      "likes": 63,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 26342,
+      "ownGame": false,
+      "addDate": "2019-12-25T12:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2024-10-21T02:28:32.154Z",
+      "__v": 0,
+      "mobileControlKeys": "upper arrow to to speed,left right arrow to stable, down arrow to back",
+      "webControlKeys": "space to jump,left right arrows to stable, lower arrow to back , opper arrow to speed up"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
