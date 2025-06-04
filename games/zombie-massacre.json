@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af24",
+      "id": 516,
+      "name": "Zombie Massacre",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zombie-massacre",
+      "image": "516",
+      "url": "zombie-massacre",
+      "description": "<div>The Wild West has been invaded by a huge group of zombies. In this side-scrolling action <a href=\"http://www.atmegame.com/online-zombie-games\" title=\"\" target=\"\"><font color=\"#0033cc\">zombie game</font></a>, you have to survive against the zombie apocalypse and also help other people on the planet to maintain their survival. When you play Zombie Massacre, your task is to collect some dangerous weapons from the random create and take an instant action towards smashing several zombie heads. </div><div><br></div><div>The Wild West has witnessed the zombie apocalypse and you as a player of this game have to protect innocent people against the attacks of the evils and bring them to safe grounds. Do not forget to gather as much coins as you can to purchase new weapons and upgrade the existing ones. Choose the right companions and ensure to bring out a medkit to get yourself prepared against the horde of undead. In this cool action game, you have to withstand all the attacks made by the zombies and defeat all the walking dead.</div><div><br></div><div>This action-packed game is sure to provide you with a wonderful opportunity to grab the latest guns and send the undead back to hell. Do not forget to equip yourself with the highly useful medkits, adrenaline and ammunition to claim for the victory at each level of the game. In this flash action game, you would surely enjoy and have huge fun while helping the warrior to make the Wild West a little less wild. Your helping hand will definitely come as a great help for him while fighting against the undead. So, what are you waiting for? Play your favorite zombie game now!</div>",
+      "size": 1100,
+      "height": 587,
+      "script": "https://play.famobi.com/zombie-massacre/A-925FD",
+      "metaTitle": "Zombie Massacre, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zombie Massacre at atmegame.com ! We have selected this Zombie games for best excitement and thrill in you!",
+      "metaKeyword": "Zombie Massacre, action game, Zombie Games, action games free",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 304,
+      "dislikes": 29,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 33950,
+      "ownGame": false,
+      "addDate": "2017-07-25T12:41:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.668Z",
+      "updatedAt": "2024-11-21T21:53:19.759Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS- MOVE LEFT RIGHT, RIGHT ICONS - JUMP AND ATTACK",
+      "webControlKeys": "SPACE-  ATTACK, L-R ARROWS TO MOVE, UP ARROW TO JUMP"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 26
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
