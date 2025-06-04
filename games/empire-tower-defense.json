@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c021",
+      "id": 5303,
+      "name": "Empire Tower Defense",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "empire-tower-defense",
+      "image": "5303",
+      "url": "empire-tower-defense",
+      "description": "<div><span style=\"font-size: 13.3333px;\">We have tried our best today to bring you close to another highly engaging and challenging war challenge from our one of the most popular action games category. You are sure to fall in love with this adventure epic after trying it out in any of your chosen devices. The problem is that you are the only warrior in this beautifully-crafted castle. Do not worry you are lashed with the arrow and bow! Join Empire Tower Defense and get ready to control your archers to protect your castle against a horde of enemies!</span></div><div><span style=\"font-size: 13.3333px;\">Your enemies are very dangerous and also equipped with the deadly weapons. Try to put your archery skills to test and kill all of them as fast as you can! They will keep coming to your area so do not need to show sympathy on them. Move to the next enemy once you kill the previous one in this one of the best adventure games for kids! Keep your eyes on the health bar and clean the area before you lose all your health to the enemies to complete each level!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Play like a true warrior to collect enough coins to upgrade your weapons and character! The instructions of this brand new war game are pretty simple and easy to understand. Show off your intense fighting moves and do not let your enemies enter into your area in this cool html5 battle game! We have countless free tower games to play for kids that are playable on different devices. Give this new adventure game a try to become a true warrior of a castle!!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/e55746dbb3354072a4d0e57fa07a128a/\r\n",
+      "metaTitle": "Empire Tower Defense,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Empire Tower Defense at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Empire Tower Defense Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352477.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7537,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:11:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.749Z",
+      "updatedAt": "2024-02-17T07:02:43.511Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "CLICK ON THE ENEMIES TO KILL"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
