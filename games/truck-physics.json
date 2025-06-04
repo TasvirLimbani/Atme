@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bcf8",
+      "id": 4479,
+      "name": "Truck Physics",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "truck-physics",
+      "image": "4479",
+      "url": "truck-physics",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Racing games are full of thrilling and exciting moments that could help keep you glued to the screen for long. Today we have brought to you a brand new racing game where you have to help a truck to complete some most challenging tasks. Are you ready to drive the big trucks in the mountains? Join Truck Physics and be prepared to wear the crown of being the best truck driver on your planet! You need to put your utmost driving abilities to face off the tricky racing puzzles.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Put your finger on your mouse on desktop and tap the screen on your mobile phone and get ready to load your truck and help it to reach its destination! Only a few clicks on the screen will allow you to complete your mission one after another in this html5 truck game. Make sure not to load the junks on your truck and do not forget to change the colors of the traffic light to move to your destination. Initially, levels are easy, but their complexities will keep increasing as you progress in the game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">All the cargo must be loaded in the dump. Sometimes dynamite are useful and they can be dangerous on the other time. Take your entire load you see on the screen before clicking on the traffic light every time in each level! Complete your tasks and get a chance to collect more upgrades as you occupy a good position on the leaderboard! Good luck to secure high points in this mobile physics game! Play many other more truck games for boys and girls that are worth playing to kill your time, no download required!</span></div><div><br></div>",
+      "size": 850,
+      "height": 520,
+      "script": "https://html5.gamedistribution.com/2f3980e49f4840daad0e0b530028e8fe/\r\n",
+      "metaTitle": "Truck Physics, Truck Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Truck Physics at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Truck Physics Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543993964.xml",
+      "idealFor": "Man",
+      "likes": 64,
+      "dislikes": 11,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 21452,
+      "ownGame": false,
+      "addDate": "2018-12-05T12:42:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-08-23T07:25:43.492Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 12
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
