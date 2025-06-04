@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd82",
+      "id": 4618,
+      "name": "Unblock It",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "unblock-it",
+      "image": "4618",
+      "url": "unblock-it",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you think that you are the best puzzle solver? Are you a type of person who enjoys playing with the blocks? If yes, then you have come at the right place where you can help yourself busy for hours. Join Unblock It and get ready to help a blue colored block to find a way to escape from an area where it is stuck mistakenly! Do not bother as you can also use the hints to solve out the puzzle in each level. Be prepared to put your puzzle solving abilities and brain power to the test to win each level!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You can swipe or drag the wooden blocks to move them at your desired positions. Try to use as minimum moves as you can to finish each level with 3-stars rating in this html5 puzzle game! Take your time to clear a path for the blue colored block since it is not a time-based game. Feel free to slide the blocks out of the way and prove the world that you are the biggest puzzle solver! Try to clear enough space for your yellow block to find out the way to the exit gate!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You can see the exit gate at the right middle of the screen. Put your fingers on your mouse or tap the screen to move the blocks around and make it forward towards the exit gate! This tricky mobile game includes 24 unique and challenging puzzles, wooden block theme and interactive hint system. Your problem-solving and cognitive skills will be enhanced after completing its all levels. Let us join together to find out how many levels you can finish today! Enjoy these tricky fun challenges without download on atmegame.com!</span></div><div><br></div>",
+      "size": 640,
+      "height": 480,
+      "script": "\nhttps://html5.gamedistribution.com/5b4ee6d1601f43c1881c5923fd8a4d8d/\n",
+      "metaTitle": "Unblock It, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Unblock It at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Unblock It Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 20,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9248,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-03-25T23:40:56.185Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO MOVE THE BOXES TO MAKE THE WAY FOR BLUE  BOX",
+      "webControlKeys": "KEEP PRESS AND SWIPE TO MOVE THE BOXES TO MAKE THE WAY FOR BLUE BOXES"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
