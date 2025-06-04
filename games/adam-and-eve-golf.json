@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6b",
+  "category_name": "golf",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bba5",
+      "id": 4136,
+      "name": "Adam and Eve Golf",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "adam-and-eve-golf",
+      "image": "4136",
+      "url": "adam-and-eve-golf",
+      "description": "<div>Many of you do not know that golf is too old that even Adam played it during his free hours. Today we have brought to you a brand new sports game where you have to control the caveman Adam to play his favorite golf. Would you think that you are the right candidate for this job? Join Adam and Eve Golf and be prepared to help Adam to knock the ball into the hole marked by the flag! Your victory will depend upon how perfectly you choose the right amount of force and the appropriate angle for each swing.</div><div><br></div><div>It sounds easy to handle this but you have to face off various kinds of prehistoric obstacles pits and dinosaurs. When you click the play button, you would see Adam carrying a stick in his hand to hit a ball around with. Your job is to assist him to get the ball into the hole in as little hits as possible in this one of the best HTML5 golf games. Be careful and try to aim wisely and control your power before hitting the ball! The fewer shots you would take the higher score you will make in the end.</div><div><br></div><div>There are 48 unique and challenging levels to play through. You can adjust the aim and the power of the shot using the mouse. Try to collect all the 3 stars shown on the screen to boost your score in each level in this installment of the popular Adam and Eve series! The top left corner of the screen shows you the times you have hit the ball and the level you are presently in. Colorful 2D graphics and 8 different achievements to unlock in this online game! Get a chance to hit the field in our huge collection of free golf games without download!</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/7da93db50d6749d2877eb177a11ac3c3/\r\n",
+      "metaTitle": "Adam and Eve Golf Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Adam and Eve Golf at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Adam and Eve Golf Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226795.xml",
+      "idealFor": "Man",
+      "likes": 95,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9482,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:36:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2025-04-01T04:44:02.271Z",
+      "__v": 0,
+      "mobileControlKeys": "HOLD DRAG AND HIT TO MAKE THE GOLE",
+      "webControlKeys": "KEEP PRESS L CLICK OCF MOUSE TO SELECT T6HE DIRECTION AND RELESE TO SHOT"
+    },
+    "rating": {
+      "rating": "2.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6b",
+      "name": "golf",
+      "slug": "golf",
+      "icon": "golf-games"
+    }
+  }
+}
