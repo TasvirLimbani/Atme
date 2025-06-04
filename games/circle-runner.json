@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf6c",
+      "id": 5115,
+      "name": "Circle Runner",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "circle-runner",
+      "image": "5115",
+      "url": "circle-runner",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you ready to go on a unique adventure challenge? If yes, try out our brand new jumping game “Circle Runner” and be prepared to enjoy the best adventurous journey of your life. Your objective in this cool html5 adventure challenge is to help your character run on around the circle. It sounds easy to handle this task. However, you might have to face off a few unexpected obstacles on your way. Put your fingers on your mouse when on PC and tap the screen on mobile phone to move orbits and obstacles!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This cute and little man looks pretty confused to move forward. It will be in your hands how to help him cover the maximum possible distance over the circled platform. Make sure to move the obstacles under him to avoid the damage. Remember, there are multiple obstacles you meet and any obstacles will throw you out of the game if you hit them during the gameplay. Your best score will depend upon how many obstacles you dodge finely.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Timing matters a lot to make your way towards the victory in this wonderful html5 running game. Do your best to guide man explore the circle while avoiding as many obstacles as possible! We believe on your abilities. Take your chance and show the world that you are enough skill to guide a man to run as long as possible in this mobile endless runner game! You can play this free skill game online on atmegame.com, without download.&nbsp;&nbsp;</span></div>",
+      "size": 768,
+      "height": 600,
+      "script": "https://m.shtoss.com/game/circle-runner/index.html",
+      "metaTitle": "Circle Runner,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Circle Runner at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Circle Runner Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8033,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-04-16T12:33:31.178Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SPIKES TO LET THE RUNNER PASS",
+      "webControlKeys": " L CLICK OF MOUSE ON SPIKES TO LET T6HE RUNNER PASS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
