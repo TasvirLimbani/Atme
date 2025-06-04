@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd19",
+      "id": 4513,
+      "name": "Exotic Animals Jigsaw",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "exotic-animals-jigsaw",
+      "image": "4513",
+      "url": "exotic-animals-jigsaw",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a jigsaw puzzle lover and generally seeking for the puzzles featuring your favorite animals? Luckily, we have got you covered with a brand new arcade challenge where you would be allowed to meet different exotic animals that you love to see for hours. Are you ready to take on this favorite animal puzzle challenge? Join Exotic Animals Jigsaw, complete all of the puzzles and have your best time online! It is a wonderful opportunity to keep your brain sharp and get the perfect jigsaw puzzle experience.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">There are 12 photos and three modes including easy, medium and hard to play through in this html5 puzzle game. The best part is that there is no time and moves limit to complete your picture. There is no need to bother about missing the pieces of animal cards like with the real puzzles. When you choose any picture, click it on the screen to shatter it into multiple pieces. Now your job is to drag and drop each piece to place them into their correct places.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You would spot the fewer and biggest pieces in the easy difficulty level. The hardest option you move, the most and the smallest pieces you would spot there. If you make a correct move of the piece, you would notice snapping to each other. You can also move the attached pieces to move as a whole as per your desires. So, what are you waiting for? Enter the wild and beautiful world of animals and kill your boring time in your own style! Check out more popular jigsaw puzzle&nbsp;</span><span style=\"background-color: transparent; font-size: 13.3333px;\">challenges on atmegame.com for free to play and have fun with your friends without download!</span></div>",
+      "size": 800,
+      "height": 500,
+      "script": "\nhttps://html5.gamedistribution.com/69d06a6a60c04d1a886011acab151c60/\n",
+      "metaTitle": "Exotic Animals Jigsaw, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Exotic Animals Jigsaw at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Exotic Animals Jigsaw Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527121.xml",
+      "idealFor": "All",
+      "likes": 10,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7362,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-02-25T06:57:49.379Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE PIECES AND ADD TO MAKE THE COMPLETE IMAGE",
+      "webControlKeys": "L CLICK OF MOUSE TO JOIN THE JIGSAW PICES TO COMPLETE THE IMAGE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
