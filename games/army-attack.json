@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1b5",
+      "id": 5747,
+      "name": "Army Attack",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "army-attack",
+      "image": "5747",
+      "url": "army-attack",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You are sure to experience an immersive gaming experience in this brand new action packed 3D game ? Army Attack. Get yourself ready to defend your home from a horde of enemies who are very dangerous! Use a proper strategy to build and control a variety of army units! It takes patience and skill to take control of the world and advance into the enemy territory. Your objective in this 3D shooting game is to infiltrate further into camp. Be careful all the time since your enemies will attack you back shortly!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Army Attack is a wonderful shooting game where you will be given a helicopter through which you can fly with your SWAT unit to explore a remote base. This newest FPS game features multiple weapons and varied challenging missions. Don?t delay for a single second! Get you ready to charge your weapon right away before any more delays! Your enemies can come in front of you when you least expect them. Don?t worry your helicopter pilot will help land you at the best shooting position!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The entire area is full of the harmful enemies. Keep clearing all of them to continue to the next level in this one of the best action games for kids! Enemies will keep increasing and their attacks will be sharper with the time! Try to keep your eyes on how to stay away from the threatening security! Be fast and enter the base with a sharp mind! Good luck to have a blast in our top survival gams! We also carry more gun games on our free online game website.</span></div>",
+      "size": 960,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/c171a5c06b964781a47e75dee0f76869/\r\n",
+      "metaTitle": "Army Attack,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Army Attack at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Army Attack Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557761121.xml",
+      "idealFor": "Man",
+      "likes": 30,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9151,
+      "ownGame": false,
+      "addDate": "2019-05-13T20:55:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.755Z",
+      "updatedAt": "2025-03-13T13:24:09.935Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "SPACE-JUMP,L ALT-PAUSE, WA,S,D/ALL ARROWS -TO MOVE,L CLIOCK-SHOOT,RIGHT CLICK- AIM, WHEEL-CHANGE THE WEPON,R-RELOAD"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
