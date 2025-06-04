@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad66",
+  "category_name": "tennis",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad66",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb90",
+      "id": 4115,
+      "name": "Tennis is War",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "tennis-is-war",
+      "image": "4115",
+      "url": "tennis-is-war",
+      "description": "<div>Do you love playing tennis game? Is representing your country through a leading tennis tournament your dream? Join Tennis Is War game and be prepared to enjoy the same excitement a player gets while getting participated in the Davis Cup, Grand Slam and Wimbledon! Do everything like moving the pass ways and chasing your opponent until you taste the victory and make your country feel proud! This is a major tennis tournament so your preparation and strategy should also be big.</div><div><br></div><div>Move your tennis player by taping left or right of the screen in this brand new sports game! Try to switch lanes, and do not forget to chase every ball to send it back to your opponent and increase his trouble by playing some tricky shots! Be careful as you would also have to face many hindrances like double balls and bombs! Let the bar fill up and play some pro shots to secure some extra points in this HTML5 tennis game.</div><div><br></div><div>Switch sides and grab some coins to buy new cool tennis balls and practice your favorite sport in a friendlier environment! We are pretty sure that you would not get bored for a single minute while trying out this awesome sports challenge. In case of seeking some new fun opportunities; you can browse through our extensive variety of free sports games and spot some meaningful and interesting game titles to beat your boring hours. Good luck to have fun without download!</div>",
+      "size": 540,
+      "height": 960,
+      "script": "https://html5.gamedistribution.com/ce4bfb9794f44855bb1cf88d9c215f55/\r\n",
+      "metaTitle": "Tennis is War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tennis is War at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Tennis is War Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11421,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-09-02T14:47:52.836Z",
+      "__v": 0,
+      "mobileControlKeys": "L-R TAP TO HIT THE BALL",
+      "webControlKeys": "L-R ARROWS TO PLAY"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad66",
+      "name": "tennis",
+      "slug": "tennis",
+      "icon": "tennis-games"
+    }
+  }
+}
