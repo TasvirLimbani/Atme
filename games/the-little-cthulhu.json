@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1a6",
+      "id": 1325,
+      "name": "The Little Cthulhu",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "the-little-cthulhu",
+      "image": "1325",
+      "url": "the-little-cthulhu",
+      "description": "<div>The Little Cthulhu is an ultimate action-based, clicker-game designed for all ages, including children and families. In this brand new shooting game, you will have to control a winged monster. Get ready to fly with the cute monster and help him to return to Rlyeh before his father Cthulhu wakes up! Little Cthulhu is pretty excited to enter the world and sort out the challenges on his own. However, unfortunately, something wrong has happened, so he tries to return his home before his father comes out of his sleep and realizes the disaster.&nbsp;</div><div>He relies on your ultimate shooting skills, so only focus on giving your best to help your friend. Help him to fly as far as possible in this free online shooting game for boys! No need to worry about the screen since it will automatically run to the right. All you need to do is just focus only to fly continuously. Each click will help you to cover a bit distance upward. Keep clicking continuously otherwise you will fall again. Experience this action game for boys on your browser since it is a flash web!</div><div>Make sure to avoid the obstacles like planes, buildings and more. Touching any of them will make your game lose. You are sure to have unlimited fun and entertainment since here you will see the souls flying in the sky. Your energy bar will increase automatically when you consume them and secure 1 point. With the bar full of energy, you will be in a state of destroying an obstacle you touch. Hope you will enjoy your day with this latest action games! Check out more engrossing shooting games on our website!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/95621b927817490eb15e885f7c86378e/\r\n",
+      "metaTitle": "The Little Cthulhu, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game The Little Cthulhu at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "The Little Cthulhu Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299458.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9751,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.687Z",
+      "updatedAt": "2025-02-08T21:56:49.904Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPPING ON SCREEN TO FLY",
+      "webControlKeys": "L-CLICK OF MOUSE TO FLY"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
