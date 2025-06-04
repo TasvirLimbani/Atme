@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b610",
+      "id": 2614,
+      "name": "Toy Car Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "toy-car-simulator",
+      "image": "2614",
+      "url": "toy-car-simulator",
+      "description": "<div>This virtual world of toys offers a lot of fun to you. Play Toy Car Simulator and enter into a world where you do not need to follow the stupid rules and get bounded by any particular restrictions and limits. Choose from a virtual helicopter, a police car or a taxi and get into the unique atmosphere. This free online car racing game is equipped with several interesting modes that will keep you engaged for many of hours. The possibilities of entertainment and thrill are endless.</div><div><br></div><div>Choose the free ride option and get a chance to explore a huge map where you will have what you want to do. You can also opt for a highway mode where driving is only possible if you are able to avoid firetrucks, police cars and various types of other hurdles on the road. When you enter an arena – the old demotion derby where you survive only if you are equipped with ultimate driving skills. It is up to you hit or get hit in this brand new 3D driving game for boys.</div><div><br></div><div>Get a chance to play with dozens of toy ears in this one of the best car driving games. No matter which mode you like to play – it is important for you to collect the coins that you can use to buy new cars or improve various upgrades. The collection of good amount of coins also help you to unlock more stunning rides, including a tank and even a helicopter. Developed by BoneCracker, this cool PC game features very simple controls, including WASD or arrow keys to move, Space bar to handbrake, F to use nitro, I to start ignition and L to switch on/off lights. Good luck kids to have a blast today!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/toy-car-simulator/index.php",
+      "metaTitle": "Toy Car Simulator, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Toy Car Simulator at atmegame.com ! We have selected this car games for best excitement and thrill in you!",
+      "metaKeyword": "Toy Car Simulator Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7847,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2023-09-23T15:46:45.530Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NA"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
