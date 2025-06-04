@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c37d",
+      "id": 6375,
+      "name": "Extreme Car Driving Simulator Game",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "extreme-car-driving-simulator-game",
+      "image": "6375",
+      "url": "extreme-car-driving-simulator-game",
+      "description": "<div>It is time to be wild and perform some insane stunts to prove the world that you are a dynamic racer! We have got you covered today with a brand new racing challenge that is enough to give you long hours of fun especially if you love exploring deadly challenges. Your objective is to race through multiple missions and win the title of being the driver of the city in Extreme Car Driving Simulator. Collect checkpoints, escort VIPs, chase vehicles and unlock fast cars and complete all missions!</div><div><br></div><div>You would have 9 unique and challenging missions to clear in this HTML5 car game. Challenges and complexities will keep increasing as you progress in this car stunt driving simulator. Select your vehicle and get ready to join a wonderful and free-roaming 3D world where your only matchless driving abilities can save you against the odds. Try to complete all driving tasks as fast as you can to earn enough to cash to purchase new car models ranging from supercars to 4X4 off-roaders!</div><div><br></div><div>The entire road will be yours as there is no traffic and rival vehicles to face off in this car racing simulating game. You will have the full freedom of executing countless illegal stunt actions and race your vehicle at high speed without a fear of being chased by the police. Burn the asphalt, drift fast and do burnouts to show your dangerous driving moves! This free online car game features mini game checkpoint mode, Full real HUD, ABS, TC and ESP simulation, accurate physics, realistic car damage and a detailed open world environment.</div>",
+      "size": 960,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/96d83c85019047c0a98d43ab02a96e3f/\r\n",
+      "metaTitle": "Extreme Car Driving Simulator Game,  Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Extreme Car Driving Simulator Game at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Extreme Car Driving Simulator Game Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842334.xml",
+      "idealFor": "Man",
+      "likes": 46,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9237,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2025-04-22T10:16:05.271Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,UP ARROW TO SPEED, A,D L-R ARROW TO L-R,SPACE TO STOP,S,DOWN ARROW TO BACK,ALT-PAUSE"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
