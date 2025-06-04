@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1d8",
+      "id": 5792,
+      "name": "Commando Attack",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "commando-attack",
+      "image": "5792",
+      "url": "commando-attack",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Bad guys are spreading everywhere in the city! However, you are a commando who has given the role of protecting your city against the terrorists. The problem is that these arms lashed terrorists have robbed a number of people as of now. Join Commando Attack and get ready to fight against anyone who moves along the way! Choose from a wide array of guns and other useful weapons and get ready to stand against the dangerous terrorists in this brand new action game! </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Make sure to keep your eyes on a group of terrorists who can come and stand against any time since they are popping out of different windows. Try to obtain the highly powerful rocket launcher as soon as possible to increase your power in this one of the best shooting games! We know that you are capable enough to survive long in this challenging and addictive 3D shooter game. With 20 levels, amazing graphics, lovely sound track, and action packed gameplay, you will keep you occupied for hours. </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Use mouse to aim your target, click to shoot your enemies and R for reloads in this first person shooter (FPS) game! Keep your mind active since the entire city has turned into a full flash war zone over nightly! All the best for arming yourself with powerful weapons and replying all the terrorists with your intense power in this fun shooting game! Fight like a pro and show these cruel terrorists your power! Feel free to find more interesting snipper games over our free game website!!</span></div>",
+      "size": 960,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/38d96203a07244e8b5e5af386768ecd8/\r\n",
+      "metaTitle": "Commando Attack,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Commando Attack at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Commando Attack Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557761581.xml",
+      "idealFor": "Man",
+      "likes": 25,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8299,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:03:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.755Z",
+      "updatedAt": "2024-09-28T21:00:13.728Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L ALT-PAUSE,Z,X -SIT DOWN/UP,SPACE-JUMP,W,A,S,D ALL ARROWS TO MOVE, RIGHT CLICK- AIM,L CLICK-SHOOT,G- BOMB"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
