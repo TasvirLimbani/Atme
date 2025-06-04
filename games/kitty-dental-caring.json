@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad81",
+  "category_name": "animals",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad81",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b80e",
+      "id": 3151,
+      "name": "Kitty Dental Caring",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "kitty-dental-caring",
+      "image": "3151",
+      "url": "kitty-dental-caring",
+      "description": "Join this magnificent adventure in the world of dental care for cats in this new animal game where you will be taking care of a hurt little cat. Your job is to release the pain that was gathered in her mouth since she was the last time to a medical center. Offer her the treatment she is supposed to get and make sure all the dental problems are solved once you handled them. Move to the dressing part and be creative.\r\n",
+      "size": 800,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/6d7cb9fa596a4ecfbefce398681b3dd5/\r\n",
+      "metaTitle": "Kitty Dental Caring,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Kitty Dental Caring at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Kitty Dental Caring Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533532485.xml",
+      "idealFor": "Man",
+      "likes": 30,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8278,
+      "ownGame": false,
+      "addDate": "2018-08-06T10:44:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.720Z",
+      "updatedAt": "2024-09-11T08:51:21.979Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO PICK THE ITEMS FOR THEETH TREATMENT",
+      "webControlKeys": "L CLICK OF MOUSE TO PICK THE ITEMS FOR THEETH TREATMENT"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad81",
+      "name": "animals",
+      "slug": "animals",
+      "icon": "Animals Games"
+    }
+  }
+}
