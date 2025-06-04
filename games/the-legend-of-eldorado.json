@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba92",
+      "id": 3851,
+      "name": "The Legend of Eldorado",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "the-legend-of-eldorado",
+      "image": "3851",
+      "url": "the-legend-of-eldorado",
+      "description": "El Dorado is a legendary place full of secrets that are just waiting for you. Come to play one of the best match3 games&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/the-legend-of-el-dorado-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "The Legend of Eldorado, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game The Legend of Eldorado at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "The Legend of Eldorado Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 62,
+      "dislikes": 10,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 30629,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.728Z",
+      "updatedAt": "2023-12-30T12:03:58.132Z",
+      "__v": 0,
+      "mobileControlKeys": "COLLECT ALL THE GOLDEN PLATES BEHIND THE SUN DISCS TO COMPLETE THE LEVEL BY TAP ON THE SCREEN",
+      "webControlKeys": "COLLECT ALL THE GOLDEN PLATES BEHIND THE SUN DISCS TO COMPLETE THE LEVEL BY LEFT CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
