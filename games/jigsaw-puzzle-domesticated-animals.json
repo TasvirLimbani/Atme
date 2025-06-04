@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd4c",
+      "id": 4564,
+      "name": "Jigsaw Puzzle Domesticated Animals",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "jigsaw-puzzle-domesticated-animals",
+      "image": "4564",
+      "url": "jigsaw-puzzle-domesticated-animals",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Animals are the best creatures to play with. Many of us have some good time while getting a chance to be participated in an activity where animals are included. Today we have brought to you to a brand new arcade game where you would find plenty of pictures featured different types of cute animals. Join Jigsaw Puzzle Domesticated Animals and get ready to enjoy an opportunity of hanging out with some cute domesticated animals! The lovely laid village atmosphere can keep you engrossed for hours.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">When you click the play button, you would see 16 images to enjoy in this html5 jigsaw puzzle game. These images will turn into the jigsaw challenges and you would have to arrange them one by one. Select the size of puzzle and then opt for the picture you want to play with! There are three different sizes 6X5, 8X6 and 12X10 to select from. Get ready to meet the unique and exciting challenges as you progress in the game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to complete all your puzzles as fast as you can to finish each game with 3 stars rating in this cool animal game! Track your time by having a look at the right bottom of the screen! Do not bother in case if you are stuck or get confused since you can click on the hint button. Click on the eye button to see the actual look of your current image! The minimum time you would take the higher stars you would be able to obtain in the end. Good luck to have a blast with your friends without download on atmegame.com!</span></div>",
+      "size": 800,
+      "height": 450,
+      "script": "\nhttps://html5.gamedistribution.com/8f51de1fc9f944afa73ea274eacdd739/\n",
+      "metaTitle": "Jigsaw Puzzle Domesticated Animals, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jigsaw Puzzle Domesticated Animals at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Jigsaw Puzzle Domesticated Animals Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7401,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-02-21T22:25:17.741Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO JOIN THE PIECES TO MCOMPLETE THE IMAGE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND JOIN THE PICES TO COMPLETE THE IMAGE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
