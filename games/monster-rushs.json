@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c425",
+      "id": 6549,
+      "name": "Monster Rush",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "monster-rushs",
+      "image": "6549",
+      "url": "monster-rushs",
+      "description": "<div>This monster looks very hungry and he only wants yummy candy to make his tummy satisfied. Would you like to help him to get all the candy shown on the screen? Join Monster Rush and be prepared to help the monster rush to reach out to their favourite sweets! Do not bother you would have enough time to guide him on the way in this brand new arcade game. Try to make him attack on the candy once it pops up on the screen!</div><div><br></div><div>Make sure to put your eyes on the spikes and try to keep your monster away from them to save his life. Common guys! You have the skill to grab all those candies in the shortest possible time and get your name registered to the top of the leaderboard. Your successful efforts will also help to unlock the other 3 lovely monsters in this HTML5 online game. Remember each monster is blessed with different abilities so work hard to get them all.</div><div><br></div><div>Beat the level and do not forget to grab as much coins as you can to upgrade your character later! With amazing fun level, adorable characters, innovative physics game-play and outstanding graphics, you are sure to keep you entertained for hours. Our exclusive range of free arcade games makes it easier for you to find out a suitable fun challenge. We cover all ranging from the engaging puzzles to the interesting archery games. Good luck to have a blast with your friends, no download required!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/monster-rush/",
+      "metaTitle": "Monster Rush Game, Arcade - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Monster Rush at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Monster Rush, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 169,
+      "dislikes": 61,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 50959,
+      "ownGame": true,
+      "addDate": "2020-11-21T14:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-04-16T10:10:43.376Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON LEFT SCREEN TO HIT LEFT TAP RIGHT TO HIT RIGHT",
+      "webControlKeys": "CLICK ON LEFT TO HIT LEFT CLICK ON RIGHT SCREEN TO HIT RIGHT "
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
