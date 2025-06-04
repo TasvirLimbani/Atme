@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1d5",
+      "id": 1376,
+      "name": "Crazy Craft",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "crazy-craft",
+      "image": "1376",
+      "url": "crazy-craft",
+      "description": "<div>Crazy Craft is a physics-based adventure game for boys of all ages. Your mission in this cute brand new platform game is to create vehicles that are perfect enough to successfully get to the end of each level. It takes your patience and logical skills to complete the task in a friendly environment. Conquer course after traitorous course by harnessing the physics of engineering in this free online adventure game! Build a wonderful craft and then drive it to the destination point!</div><div><br></div><div>Are you able to build a sound vehicle that will run on the platform at death-defying speed? Join us to show off your creative skills in a less time! See the Parts Assembly Window right in front of you from where you will have to drag all the vehicle parts in each level. Put them together to create your vehicle. Collect wheels, body and an engine. Hold all parts together using the joints. Make sure to equip it with weapons to get ready to fight against bad guys.&nbsp;</div><div><br></div><div>Once you move parts around the Assembly Window, you will have the freedom to place it wherever you want. Put the engine right inside the body while the placing of tires will be done right at the centre of the body! Start over with building with the help of blue buttons. When you are in a ready mode, click the green button to initiate the level. Making your vehicle to the finish flag will give you a signal of passing the level. Do some needful adjustments to the vehicle by clicking the thumbs down button! Seek for hints to complete the level!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=3fa340af4bb74d388414405055a6a370\r\n",
+      "metaTitle": "Crazy Craft, Adventure Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Crazy Craft at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Crazy Craft Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489143.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7542,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.688Z",
+      "updatedAt": "2024-02-13T09:19:09.911Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
