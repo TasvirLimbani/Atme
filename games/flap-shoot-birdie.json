@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c380",
+      "id": 6379,
+      "name": "Flap Shoot Birdie",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "flap-shoot-birdie",
+      "image": "6379",
+      "url": "flap-shoot-birdie",
+      "description": "<div>Hey! Where are you gamers? Your favourite birdie has again come to you for help to survive through multiple deadly obstacles. Would you like to guide her when she needs you the most? Join Flap Shoot Birdie and be prepared to help a cute bird fly high in the sky for long! Your flying abilities will help get her through all the dangerous obstacles and avoid them timely for a long survival. Choose anyone out two options the classic mode and the villain mode!</div><div><br></div><div>Be careful and try to make your bird fly without touching any obstacles otherwise you will lose immediately in this HTML5 flappy bird game! Keep your bird flying by simply clicking through mouse or tapping the screen of your mobile phone! Do not forget to collect the coins, but make sure not to make any mistakes due to this distraction. Your higher score will depend upon how long you fly while avoiding the obstacles. There are 4 birdies to select from in this cool bird tapping game.</div><div><br></div><div>If you die, start from Zero or you will also get an option to continue from the same score by watching an AD. Try to grab as many coins as you can to allow your bird shoot the obstacles to make your way easier in this free online adventure challenge! Huh! It looks pretty simple to attempt, but hard to become a master and score big in this puzzle! Good luck to play arcade games online for free and have a good day with your friends without installing any other apps or software.</div>",
+      "size": 450,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/071899b13b934ed29d865dfe0c741793/\r\n",
+      "metaTitle": "Flap Shoot Birdie Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Flap Shoot Birdie at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Flap Shoot Birdie Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842334.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7431,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2024-04-21T06:38:57.506Z",
+      "__v": 0,
+      "mobileControlKeys": "DOUBLE TAP TO FLY THE BIRD",
+      "webControlKeys": "DOUBLE CLICK TO FLY THE BIRD"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
