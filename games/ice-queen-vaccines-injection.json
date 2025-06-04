@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b7e9",
+      "id": 3114,
+      "name": "Ice Queen Vaccines Injection",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "ice-queen-vaccines-injection",
+      "image": "3114",
+      "url": "ice-queen-vaccines-injection",
+      "description": "Make sure the Ice Queen does not catch a cold this winter! Get ready for a new fun ride to the doctors office and find out how to get your patient ready before a vaccine. Give the Ice Queen the proper vitamins and check her heartbeat to check if everything is ok. Now it is time for the injections! Use the alcohol to destroy any possible bacteria and after the shot is taken, make sure the little sting does not get infected.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/d3d4814cf05e4f11a9dbdcba46d114ec/\r\n",
+      "metaTitle": "Ice Queen Vaccines Injection, Docotr Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ice Queen Vaccines Injection at atmegame.com ! We have selected this doctor games for best excitement and thrill in you!",
+      "metaKeyword": "Ice Queen Vaccines Injection Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533531766.xml",
+      "idealFor": "Man",
+      "likes": 40,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 19321,
+      "ownGame": false,
+      "addDate": "2018-08-06T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.719Z",
+      "updatedAt": "2025-03-10T15:10:53.519Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SELECT THE ITEMS FOR VACCINES INJECTION TREATMENT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS FOR VACCINES INJECTION TREATMENT"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
