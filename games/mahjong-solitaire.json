@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd76",
+      "id": 4606,
+      "name": "Mahjong Solitaire",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "mahjong-solitaire",
+      "image": "4606",
+      "url": "mahjong-solitaire",
+      "description": "<div><span style=\"font-size: 13.3333px;\">One of the best things you are going to try today is to play Mahjong Solitaire! The simple controls coupled with the seamless gameplay and colorful graphics can help keep you engrossed for hours. Make sure to put your eyes to the test to clear all the matching tiles from the board to complete all the levels in this brand new arcade challenge. Timer is running very fast, so try to achieve the mission as fast as you can to complete the game with the highest score!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Use your brainpower and puzzle-solving abilities to clear tiles by matching two free tiles together! You do not need to bother at all since you can click the hint button in case if you are stuck. Keep shuffling all the tiles to clear as many as you can and make new pairs available to be clicked on! You would see different characters and images on different tiles. When you look with the opened eyes, you would see that some tiles have the same picture.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This cute html5 puzzle challenge includes flower series and season series. Each series has 4 tiles, and all of which you can see once in each game. Feel free to match the tiles in all the series including winter and autumn or spring and summer! You can select any tile if it does not have any other tiles on top of it. A tile can only be removed if it is free on at least on one side. Good luck removing all the 144 tiles in this classic tile-matching puzzle game! Check out more straight-forward arcade challenges and have fun with your friends for free, no download required!</span></div>",
+      "size": 480,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/33ddf5d3c63a4bde9db2185de9bb8a07/\r\n",
+      "metaTitle": "Mahjong Solitaire, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mahjong Solitaire at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Mahjong Solitaire Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527483.xml",
+      "idealFor": "Man",
+      "likes": 44,
+      "dislikes": 10,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10279,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2025-05-23T05:16:39.815Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L-CLICK OF MOUSE ON THE SAME CARDS"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
