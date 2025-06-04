@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aeb2",
+      "id": 234,
+      "name": "Nitro Ninjas",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "nitro-ninjas",
+      "image": "234",
+      "url": "nitro-ninjas",
+      "description": "Imagine a game, combining the skills of ferociousness and fighting skills of Ninja and speed and balance of grand prix biker in the Nitro Ninjas online bike racing game. In this multi level online racing game you just not as a Ninja but also as a biker tries to successfully accomplish your mission in an amazing free bike racing game for the kids.<br><br>The game play of this online racing game is being set in an urban environment where you as a biker have to jump as well ride the bike in top speed at different landscape. Sometimes, you are required to even flip in order to balance using left and right arrow keys; otherwise, you will be going to be crashed badly and will have to restart the game once again.<br><br>However, what makes the biking even more crazy some in this free online racing game is the difficulty levels to be more lethal one whether impending obstruction before a biker becomes impossible to cross over. In meantime, when playing this free online bike racing game for every successful level completion points are rewarded that are used for the upgrades for handling tasks in the successive levels of the game. <br><br>For the speed and movement to play the online racing game use arrow keys and for the jump press space bar accomplish missions in the game.",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=89865b7156d14dbbb4c2690882b161dd",
+      "metaTitle": "Nitro Ninjas, Bike Racing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the game of speed racing with Nitro Ninjas an online bike racing game that is meant for checking out the rapid speed of Ninja riding on a bike.",
+      "metaKeyword": "Nitro Ninjas, Racing, Bike Racing, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 119,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 20815,
+      "ownGame": false,
+      "addDate": "2016-07-06T00:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.665Z",
+      "updatedAt": "2024-03-14T05:30:36.500Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 20
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
