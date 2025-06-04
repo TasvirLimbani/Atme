@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2ef",
+      "id": 6176,
+      "name": "Pro Cricket Champion",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "pro-cricket-champion",
+      "image": "6176",
+      "url": "pro-cricket-champion",
+      "description": "<div><span style=\"font-size: 13.3333px;\">One of the most popular free online games is Pro Cricket Champion where fun and entertainment possibilities are countless. The enrolment in this new hypercasual cricket series game will allow you to challenge your ultimate cricketing skills. Try to be focused since it is important to time your swings to make sure that your batsman hits the ball perfectly. Playing good continuously can help win the game and bring trophy to your home!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">As soon as this cool cricket game progresses, the challenges become bigger. Several major features of this free online cricket game are user-friendly controls on both desktop and mobile, fast &amp; hypercasual theme and a challenging gameplay. You will keep playing it regularly if you try it at least once. Your engagement in this game will surely help beat your boring hours and refresh your mind to the fullest.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Common boys! It is a wonderful opportunity to show the entire world that you are crazy for the sport and ready to accept any challenge to win over your opponents. Show off your matchless cricketing skills to be the world champion in this one of the best cricket games for kids!</span></div>",
+      "size": 500,
+      "height": 890,
+      "script": "https://html5.gamedistribution.com/610516946eee45ecb37540d2aec7df85/",
+      "metaTitle": "Pro Cricket Champion, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pro Cricket Champion at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Pro Cricket Champion, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 4752,
+      "dislikes": 555,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 1738447,
+      "ownGame": false,
+      "addDate": "2019-10-15T18:02:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2025-06-03T09:01:54.913Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH THE KEY IN SCREEN TO HIT THE BALL",
+      "webControlKeys": "LEFT CLICK OF MOUSE ON BATTING ICON TO HIOT THE BALL"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 576
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
