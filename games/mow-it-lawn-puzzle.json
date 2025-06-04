@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd61",
+      "id": 4585,
+      "name": "Mow it Lawn puzzle",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "mow-it-lawn-puzzle",
+      "image": "4585",
+      "url": "mow-it-lawn-puzzle",
+      "description": "<div><span style=\"font-size: 13.3333px;\">We have brought to you a kind of unique and brand new arcade game where you have to play the role of a lawnmower. Is not exciting for you? Join Mow It! Lawn Puzzle and be prepared to mow all the lawns without being tapped in the electric cable! Many tricky and mind-boggling challenging are waiting for you at the further level. You have to control one or sometimes two lawn mowers at the same time. Give it a try and solve out the ultimate lawn mowing challenge!</span></div><div><span style=\"font-size: 13.3333px;\">Move your character by using the arrow keys of your keyword on PC or tapping the screen on mobile phone in this html5 puzzle game! Press R to undo last move and avoid crossing the electric table! Make sure to mow all the lawns on current level to move to the advanced one. When you move to the advanced level, get ready to experience a unique and mysterious twin that is enough to copy all your movements! Now if you press R or backward button, you would see that both of lawnmower men will start doing undo their last moves.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Remember none of you can dare to cross the deadly electric cables that you can see on their fields. The complexities and difficulty level will keep increasing as you progress in the game. In the advanced levels, both of lawnmower will start moving together, so you have to put your brain and showcase your intelligence to create their moves in a way so that they both can reach their destination together. May be you get confused or are stuck in further level of this cute arcade lawn game. So in such a case, use the hint shown at the right bottom of the screen.&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/982df1a8a4f741709d3422e9dc32e75e/\n",
+      "metaTitle": "Mow it Lawn puzzle, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mow it Lawn puzzle at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Mow it Lawn puzzle Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527483.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6764,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-02-06T09:08:55.357Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": "USE ARROWS TO MOVE, R- UNDO,"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
