@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba70",
+      "id": 3813,
+      "name": "zBall Christmas",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "zball-christmas",
+      "image": "3813",
+      "url": "zball-christmas",
+      "description": "Warning: this online HTML5 game is frustrating! zBall is an arcade style game that requires timing and skill. You need to steer the red ball over a platform that collapses behind you. The controls are super simple, every click makes the ball go left or right, but scoring more than 100 points is something else. Start rolling!",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/zball-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "zBall Christmas, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game zBall Christmas at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "zBall Christmas Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 16,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8838,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.728Z",
+      "updatedAt": "2024-02-17T04:47:44.323Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO TURN L-R",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO TURN THE BALL"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
