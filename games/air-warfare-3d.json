@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3e8",
+      "id": 6486,
+      "name": "Air Warfare 3D",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "air-warfare-3d",
+      "image": "6486",
+      "url": "air-warfare-3d",
+      "description": "<div>This air combat needs more aggression and excitement. Are you ready to accept this unique challenge? Join Air Warfare 3D game and be prepared to control a range of modern jet fighters! In this brand-new adventure game, you would be allowed to enjoy a real and authentic flying experience. Make sure to apply all the weapons available for you at the disposal. You are sure to experience hours of fun and entertainment without download.</div><div><br></div><div>The graphics of this HTML5 game are surrounded by the 3D environment that allows the players to move their planes in three dimensions. You can easily handle the planes and, in many instances, you will feel like having a realistic air warfare simulation. It will be amazing to enjoy the wonderful fighting and dog fights when you enter this cool air battle. You need to have great skill to compete against the trained fighters in this action game.</div><div><br></div><div>Each plane comes with machine guns, deadly missiles and special missiles too. Use all the weapons and make sure to take care of the reloading times in this air fighting challenge! Brilliant graphics and sounds, smooth flying controls, AI enemy airplanes, realistic air warfare simulation, intense dog fights and the use of historical planes will keep you entertained for hours. If you enjoy piloting a plane, you should definitely try out Air Wars 2 and 3D Flight Simulator. Do not bother you would have three missions and multiple weapons to use.</div>",
+      "size": 950,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/51ccbeb4c46f4fd7a6f783ea634fd433/\r\n",
+      "metaTitle": "Air Warfare 3D Game,  Flying - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Air Warfare 3D at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Air Warfare 3D Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842581.xml",
+      "idealFor": "Man",
+      "likes": 162,
+      "dislikes": 28,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 18624,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-06-03T05:39:29.643Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W-ACCELERATION,S-DECELERATION,A-ROLLLEFT,D-ROLL RIGHT,I/UPAROW-PITCH DOWN,K/DOWN ARROW-PITCH UP,J/LEFT ARROW-YAW LEFT,L/RIGHT ARROW-YAW RIGHT,Q-SWITCH MISSILE,E-SWITCH TARGET,LEFT SHIFT-OPEN FIRE,SPACE-SWITCH TARGET,R-SWITCH MINI MAP,V-CHANGE VIEW"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 25
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
