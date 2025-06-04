@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0d4",
+      "id": 5490,
+      "name": "Halloween Archer",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "halloween-archer",
+      "image": "5490",
+      "url": "halloween-archer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Halloween is just on its way and people have already started making their own celebration plans. Among people there are rumours that the revolt of pumpkins as well as other disgusting like human ears and eyes will take place at midnight. It is time to take the command and get you ready to face off their attack with your ultimate shooting skills. Being a fearless shooter, you are the only one who can prevent it all. Join Halloween Archer and get ready to play the role of Stickman Archer who has expertise on how to control bow!</span></div><div><span style=\"font-size: 13.3333px;\">Experts say that you have been skilled in managing arrow and bow since your childhood. They do not let him feel down. Aim and shot perfectly to prove the world that you are still a champion in archery in this fun html5 game! Try to hit all the objects that you see coming from the bottom of the screen and penetrate to our world! Put your best to finish each level with the best score!</span></div><div><span style=\"font-size: 13.3333px;\">You will have the arrow and bow to destroy all the Halloween elements. Test your shooting and arrow ability to the maximum to ensure your win in this excellent Halloween themed archery game! Try to hit all of the creepy crawlers and pumpkins flying in the sky before they disappear from the screen! Complete all 18 levels with 54 stars to become a champion of archery! Browse our top game portal to play more games online for free! Feel free to check out other top Halloween based games!</span></div>",
+      "size": 760,
+      "height": 460,
+      "script": "https://html5.gamedistribution.com/cc9be4e05ddb42ac8caa36ca3f21c867/\r\n",
+      "metaTitle": "Halloween Archer, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Halloween Archer at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Halloween Archer Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449595.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8994,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-04-21T11:25:16.192Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH AND DRAG TO AIM,RELESE TO SHOOT",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO AIM,RELESE TO SHOOT THE ARROW"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
