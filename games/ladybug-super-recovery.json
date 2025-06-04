@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b99b",
+      "id": 3583,
+      "name": "LadyBug Super Recovery",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "ladybug-super-recovery",
+      "image": "3583",
+      "url": "ladybug-super-recovery",
+      "description": "LadyBug is in hospital, she was injured during catching of the bad guy. Help her recover as soon as possible!\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "\nhttps://html5.gamedistribution.com/39a691fca7d34dd4b7689bba4ddd3bd7/\n",
+      "metaTitle": "LadyBug Super Recovery, Doctor Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game LadyBug Super Recovery at atmegame.com ! We have selected this doctor games for best excitement and thrill in you!",
+      "metaKeyword": "LadyBug Super Recovery Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335123.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7913,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:02:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.725Z",
+      "updatedAt": "2024-03-22T11:31:05.282Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS AND FOLLOW THE INSTRUCTIONS",
+      "webControlKeys": "LEFT CLICK OF MOUSE AND FOLLOW THE INSTRUCTIONS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
