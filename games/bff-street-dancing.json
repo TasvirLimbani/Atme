@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9a2",
+      "id": 3590,
+      "name": "BFF Street Dancing",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "bff-street-dancing",
+      "image": "3590",
+      "url": "bff-street-dancing",
+      "description": "What if... the princess loves street dance? Meet Aurora, who wants to make posters for a Street Dancer Show. With her friends, Jasmine, Elsa, and Rapunzel, help them mix and match clothes and hairstyles, and make the best background stage for them to show that, Street Dance is a very awesome show and skills!\r\n",
+      "size": 800,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/ffc37aeefa084755ade4610734c71f82/\r\n",
+      "metaTitle": "BFF Street Dancing, Dressing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game BFF Street Dancing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "BFF Street Dancing Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335123.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6799,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:02:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.725Z",
+      "updatedAt": "2024-03-08T05:00:16.967Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS TO DRESSUP AND SWIPE TO ADD THE PICES OF PUZZLE ",
+      "webControlKeys": "L CLICK OF MOUSE TO DRESSUP AND SWIPE TO ADD THE PIECES"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
