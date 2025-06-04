@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c233",
+      "id": 5942,
+      "name": "Classic Solitaire",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "classic-solitaire",
+      "image": "5942",
+      "url": "classic-solitaire",
+      "description": "<div>Also known as Klondike Solitaire, Classic Solitaire is a brand new fun game where you get a chance to challenge your card playing skills. Your role in this one of the most popular and widely recognized versions of Solitaire is to sort out the cards. Put your cards in order into four piles of cards separated by the suit after moving them between the columns! Remember, your suit piles should be built in the ascending order right from Ace to King, while the descending order and alternating colours are advised to re-arrange face-up cards. Hope you enjoy every minute when you explore this addictive arcade game in your device!</div><div><br></div><div>With wonderful music, relaxed theme, beautiful graphics, you will be able to keep you busy with it for hours. You will have 28 cards to place into the columns. See the top right area of game screen where you have to move your cards from the columns into the foundations. Players also call the columns area as the tableau. Build each foundation by a card suit and sequence that ranges from Ace to the King! Make sure to turn the face of your card up to let it allow to move it into the column.&nbsp;</div><div><br></div><div>Before turning card face up, check if it has been turned into the bottom card available in the column. This helps you to move all the cards (that have below the face down) can be moved into the unique column. Make sure to turn up the card beneath it every time when you attempt to move a face up card. Don’t forget to reset the stock pile once you have got the success in dealing out with the cards! You can win this HTML5 free card game only when you build all the cards to foundation area that is available at the top of your screen.&nbsp;</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/5a549c45973245fcb6df95896712b849/\r\n",
+      "metaTitle": "Classic Solitaire,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Classic Solitaire at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Classic Solitaire Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762523.xml",
+      "idealFor": "Man",
+      "likes": 44,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13625,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.756Z",
+      "updatedAt": "2025-03-24T20:51:40.155Z",
+      "__v": 0,
+      "mobileControlKeys": "CLICK THE DECK ON THE TOP LEFT CORNER TO DEAL NEW CARDS,,REARRANGE FACE UP CARDS IN DECENDING ORDER AND ALTERNATING COLORS",
+      "webControlKeys": "CLICK THE DECK ON THE TOP LEFT CORNER TO DEAL NEW CARDS,,REARRANGE FACE UP CARDS IN DECENDING ORDER AND ALTERNATING COLORS"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
