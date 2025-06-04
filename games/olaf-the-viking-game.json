@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8a",
+  "category_name": "best",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad9b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4cd",
+      "id": 2242,
+      "name": "Olaf The Viking Game",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "olaf-the-viking-game",
+      "image": "2242",
+      "url": "olaf-the-viking-game",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Olaf the adventure man has again decided to go on a new mission! Although he is a brave man, still needs your help to complete his adventure this time. Would you like to show him the path of victory and make him believe that you are his best friend? Join Olaf The Viking and be prepared to guide this brave soul on this one of the most awaited adventures through burning volcanoes, mountains and glaciers! Be careful and avoid falling between the gaps to stay alive!</span></div><div><span style=\"font-size: 13.3333px;\">Make sure that you grab the coins as you see along the way while avoiding all the sharp spikes in this brand new adventure game. Pay attention to the details and try to make him jump over the gaps on time! Do not forget to make him slide under all of the obstacles that want to stop him from moving forward. Try to collect as coins and do not forget to use them to upgrade your character! The longer you survive your higher score will be in the end of this HTML5 jumping game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Guide Olaf through 10 unique and addictive levels and show him that you really care for your friendship! During the gameplay, you can track your level by looking at the top left corner of the screen while the middle portion of the screen will show your present score. When your game finishes, your best will also be shown on the screen along with present one. The gap between the two glaciers varies. Put your fingers on the mouse and time your jump to complete all of the levels and have a blast without download! We have plenty of other engaging adventure challenges available on our website for boys and girls. Good luck!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/e06168b9c0b846d6b787b78eadd7a13f/\r\n",
+      "metaTitle": "Olaf The Viking Game, Running Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Olaf The Viking Game at atmegame.com ! We have selected this Running games for best excitement and thrill in you!",
+      "metaKeyword": "Olaf The Viking Game Game, Action Games, Running  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524804977.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 12305,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:26:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2024-03-31T00:58:08.876Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO JUMP",
+      "webControlKeys": "L CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad9b",
+      "name": "jumping",
+      "slug": "jumping",
+      "icon": "icon-iconAsset-47"
+    }
+  }
+}
