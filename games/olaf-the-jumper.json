@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad9b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf56",
+      "id": 5092,
+      "name": "Olaf the Jumper",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "olaf-the-jumper",
+      "image": "5092",
+      "url": "olaf-the-jumper",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Olaf is back with a task that you have not tried out before! Do you want to get participated to be a part of this completely new challenging adventure? Join Olaf the Jumper and get ready to show off the world that you can face off any challenge with Olaf! Your objective in this cute free adventure game is to help your character walk through volcanoes and glaciers that are worth watching. All it takes to judge how much power you need to make him jump from one platform to another.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">There will be the sea at the bottom. So, be careful while helping your character leap with the appropriate amount of force not to get him plunged into the sea. Make sure that he will land safely on the ice in this addictive and fun jumping game. It is up to you how to build up his jump strength by clicking and hold left mouse button on computer or tapping the screen when you play on mobile phone and release it to make your character jump properly.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your right decision will help him to travel far enough in a wonderful background that keeps changing every time you start a new game. Try to avoid falling off into the water and of the edges and set the higher score by passing the tiny platforms to secure a top position of the leaderboard! Good luck to make more successful jumps to become a champion of skill-based jumping games for boys! Feel free to give our free online games a try on atmegame.com, no download required!</span></div>",
+      "size": 768,
+      "height": 1024,
+      "script": "https://m.shtoss.com/game/olaf-the-jumper/index.html\r\n",
+      "metaTitle": "Olaf the Jumper,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Olaf the Jumper at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Olaf the Jumper Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8110,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-05-28T09:22:43.055Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP AND HOLD TO INCRESE THE JUMP STRENGHT, RELESE TO BOUNCE",
+      "webControlKeys": "CLICK AND HOLD TO INCRESE THE JUMP STRENGHT, RELESE TO BOUNCE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad9b",
+      "name": "jumping",
+      "slug": "jumping",
+      "icon": "icon-iconAsset-47"
+    }
+  }
+}
