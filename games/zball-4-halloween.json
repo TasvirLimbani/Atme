@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba89",
+      "id": 3839,
+      "name": "Zball 4 Halloween",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "zball-4-halloween",
+      "image": "3839",
+      "url": "zball-4-halloween",
+      "description": "Just one aim: SURVIVE&#33; zBall 4 it&apos;s the new super cool version of the classic zBall and it&apos;s full of candles and frightening surprises&#33; Don&apos;t waste your time and enjoy the moonlight&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/zball4-halloween-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Zball 4 Halloween, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zball 4 Halloween at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Zball 4 Halloween Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8715,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.728Z",
+      "updatedAt": "2024-03-11T14:01:21.551Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE UP ON SCREEN TO FLIP THE BOTTLE",
+      "webControlKeys": "SWIPE THE BOTTLE BY L CLICK OF MOUSE TO FLIP "
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
