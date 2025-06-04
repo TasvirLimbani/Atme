@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b38b",
+      "id": 1904,
+      "name": "Freecell Solitaire 2017",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "freecell-solitaire-2017",
+      "image": "1904",
+      "url": "freecell-solitaire-2017",
+      "description": "<div>Finding all Ace cards and stacking them up in a correct order is the primary responsibility you have to play in Freecell Solitaire 2017. In order to store your card, you can opt for the free cells. Make sure that you are quite aware of all the basic card playing rules before starting this free online arcade game. You will be given the proper instructions and indications to complete the mission of this cool html5 game. Are you able to beat every challenge you may face in different levels of this classic card game? Earn the maximum number of points while matching up the cards as fast as you can.&nbsp;</div><div><br></div><div>Your intellectuality and logical thinking will definitely help to conquer the clock by making a huge score in the end. One of the most popular and beautifully-designed card games to play, Freecell Solitaire 2017 feature high definition graphics and simple gameplay. This brand new arcade game can be played in PCs, mobile phones and gaming consoles. Make sure that you pay attention to the needful details to make your victory in all the levels ranging from 1-1000000. There are 8 piles in which all cards from 1 deck are dealt. You will see the four free cells on the top left and the top right area will feature four foundation piles.&nbsp;</div><div><br></div><div>Building all 52 cards on foundation right from Ace to King by suit is the primary objective of this highly challenging arcade game. You can use the cards of the free cells and top cards of the piles to play. Build piles down using the alternating colours. You can only move one card at a time, but the group cards can also be moved in a proper sequence if you maintain sufficient piles and/or free cells. Most importantly, you can also move the top card of any pile to any Free Cell. There are possibilities of finding only one card in each Free Cell or reserve space. It will be good if you can move the cards in the cells to the piles or back to the tableau piles.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/9ff7dcfb58974b72a0f4b3b0257594b7/\r\n",
+      "metaTitle": "Freecell Solitaire 2017, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Freecell Solitaire 2017 at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "Freecell Solitaire 2017 Game, Racing Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630590.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 10987,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2025-05-31T15:53:04.682Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON  CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
