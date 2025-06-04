@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 0,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b493",
+      "id": 2182,
+      "name": "Arena Fu",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "arena-fu",
+      "image": "2182",
+      "url": "arena-fu",
+      "description": "Try your martial arts skills in this addictive game!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/b53cc3d12a9c4e71813e8cbcbe7ac6b5/\r\n",
+      "metaTitle": "Arena Fu Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Arena Fu at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Arena Fu Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1523600544.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7395,
+      "ownGame": false,
+      "addDate": "2018-04-13T11:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.704Z",
+      "updatedAt": "2023-11-28T16:07:00.697Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "default backend - 405"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
