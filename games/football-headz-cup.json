@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae40",
+      "id": 104,
+      "name": "Football Headz Cup",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "football-headz-cup",
+      "image": "104",
+      "url": "football-headz-cup",
+      "description": "Among the good number of online football games around, the most interesting and the unique one happens to the <b>Football Headz Cup</b> that is being played in the two different playing mode including 2-2 players grouping and 1-1 player grouping too. In the category of free sports games online, the game begins with 16 vs 16 modes and 8 vs 8 player mode. And after playing the semi-final, you finally reach the last stage of the game finals in this free soccer games.<br><br>In order to make a game even more interesting and crazy some from the very start of the game, some interactive features have been introduced in this online football soccer game. First of all, from total 24 teams, you will have to choose a team of your preference and choice and then next selection will be of players according to their jersey name and number. As well according to players convenience, in the game, you choose between qwerty or arrow key playing controls.<br><br>To upgrade the game and adding power to your football skills after each game their certain coins are provided and offered to the players, so, you can change your team and attitudes. Not only this you would also unlock new teams as well to move ahead in the tournament. To play this soccer games online go for the right and left arrow key and space bar to jump in this amazing online free sports game.",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/3c0cf852685949ddb2f3dea2ca32d907/",
+      "metaTitle": "Football Headz Cup, Online Football Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Football Headz Cup is one of the best soccer games in online sports category to be enjoyed and played in different modes and arrays.  ",
+      "metaKeyword": "Football Headz Cup, Sports, Soccer , Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 362,
+      "dislikes": 33,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 38001,
+      "ownGame": false,
+      "addDate": "2016-07-03T06:26:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2025-05-23T09:31:29.792Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICON- KICK, RIGHT ICONS- JUMP, MOVE LEFT RIGHT",
+      "webControlKeys": "SPACE- KICK, UP ARROW - JUMP, L-R ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 28
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
