@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c022",
+      "id": 5304,
+      "name": "Sky Fighters",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "sky-fighters",
+      "image": "5304",
+      "url": "sky-fighters",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Your wait for the best airplane game has just come to an end! We have brought to you today a brand new adventure game where you have to control a small aircraft lashed with enough weapons in a space that is full of enemies. It is amazing to play the role of an ace pilot and help your plane spot the way towards the highest score. Put your ultimate aeroplane flying skills to test to cover as much distance as you can in this space war game!</span></div><div><span style=\"font-size: 13.3333px;\">Your objective is to shot and avoid all the enemies that you see on the screen while moving upward. Make sure to run as fast as you can until you reach the finish line. This sky battles will surely help you connect with the best dogfighting action you have ever seen. Your long survival rate will depend on how wisely you defend your base and clean the space from the deadly enemies. We are pretty sure that you are enough talented to fight like a wing commander through your intense shooting skills.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">When your game finishes, you will also be able to see your final score along with the details about how many enemies you have killed so far. Remember your successful efforts will help your plane sail through all the challenging puzzles and clear each level with a three stars performance. Check out more html5 fighter games for kids on our website and play games online for free without download! You can try out our aeroplane games on mobile phones, tablets, PCs or any other gaming devices.&nbsp;</span></div>",
+      "size": 500,
+      "height": 750,
+      "script": "https://html5.gamedistribution.com/d4213348eea74770b6ee60995666eebb/",
+      "metaTitle": "Sky Fighters,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sky Fighters at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Sky Fighters Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352477.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11230,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:11:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.749Z",
+      "updatedAt": "2024-06-19T07:35:33.313Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "CLICK AND HOLD THE PLANE TO MOVE"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
