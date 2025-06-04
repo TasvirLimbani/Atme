@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5a1",
+      "id": 2500,
+      "name": "Soldiers 3  Honor  Duty",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "soldiers-3-honor-duty",
+      "image": "2500",
+      "url": "soldiers-3-honor-duty",
+      "description": "Soldiers 3  Honor  Duty, War Games<br>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/soldiers-3-honor-and-duty/index.php",
+      "metaTitle": "Soldiers 3  Honor  Duty, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Soldiers 3  Honor  Duty at atmegame.com ! We have selected this War games for best excitement and thrill in you!",
+      "metaKeyword": "Soldiers 3  Honor  Duty Game, Action Games, War Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 6720,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.711Z",
+      "updatedAt": "2025-04-11T19:45:29.147Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "NOT CONNECTING TO SERVER"
+    },
+    "rating": {
+      "rating": "1.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
