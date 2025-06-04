@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b92c",
+      "id": 3465,
+      "name": "Blocky Sharpshooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "blocky-sharpshooter",
+      "image": "3465",
+      "url": "blocky-sharpshooter",
+      "description": "Challenge your sniper skill in Blocky Sharpshooter! Wipe all the enemies out of your sight bee you get killed! A great sharpshooter never miss a single target!\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/a536733b2e8e4771b3dfe74c1113d7ae/\r\n",
+      "metaTitle": "Blocky Sharpshooter, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Blocky Sharpshooter at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Blocky Sharpshooter Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536575483.xml",
+      "idealFor": "Man",
+      "likes": 33,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 15278,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-02-08T12:44:47.755Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO AIM, L-R ICONS TO SHOOT",
+      "webControlKeys": "MOUSE - MOVE, L CLICK TO ATTACK"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
