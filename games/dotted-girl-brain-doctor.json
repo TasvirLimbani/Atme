@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b7d3",
+      "id": 3092,
+      "name": "Dotted Girl Brain Doctor",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "dotted-girl-brain-doctor",
+      "image": "3092",
+      "url": "dotted-girl-brain-doctor",
+      "description": "Dotted Girl needs brain surgery right away! Have fun learning how to use all the fun medical tools from the emergency room and operate on the superhero brain. Inside her head you will find the most crazy things, but once you have eliminated them your patient will feel great! Have fun playing the doctor in this game!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/2eece259557849f2aeb8e4f7643d6f46/\r\n",
+      "metaTitle": "Dotted Girl Brain Doctor, Doctor Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dotted Girl Brain Doctor at atmegame.com ! We have selected this doctor games for best excitement and thrill in you!",
+      "metaKeyword": "Dotted Girl Brain Doctor Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533531440.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 11473,
+      "ownGame": false,
+      "addDate": "2018-08-06T10:27:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.719Z",
+      "updatedAt": "2024-08-23T13:36:07.552Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS FOR MEDICAL TREATMENT",
+      "webControlKeys": "L CLICK OF MOUSE TO PICK THE ITEMS FOR MEDICAL TREATMENT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
