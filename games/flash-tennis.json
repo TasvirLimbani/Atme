@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad66",
+  "category_name": "tennis",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad66",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae50",
+      "id": 122,
+      "name": "Flash Tennis",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "flash-tennis",
+      "image": "122",
+      "url": "flash-tennis",
+      "description": "This amazing game of the Flash Tennis is one of the best crazy games for the gaming enthusiasts that are die-hard fans of Wimbledon and French open tennis match. In this online tennis series match, it is the Flash Tennis tournament in which, where, you either can participate in the game or an entire tournament or can play in this sports play online to become an overall tennis game champion.<br><br>In this flash <a href=\"http://www.atmegame.com/online-tennis-games\" title=\"\" target=\"\"><font color=\"#0033cc\">tennis game online</font></a>, the entire game play is surrounded and co-ordinate in three game types as First one is Tournament, Second is exhibition and the third one is arcade. The arcade game unlocks only, when, to tournament task is being accomplished successfully.<br><br>In the tournament mode in this sports game online, after, selecting the player you need to compete with seven other players. And in competition with player is required to win 2 rounds out of seven rounds. In the exhibition mode of the game, there, are most wanted 2 player games is available and also doubles and singles are also available there. If you are sitting along with your friend you and can play in the double player mode in this online flash tennis free game.<br><br>Playing the game is very simple and crazy some, to play the game to the next level includes for player one include press arrow keys right, left, up, down to move and space bar to hit ball. For two it is even simpler as to press arrow keys to move and enter.",
+      "size": 640,
+      "height": 0,
+      "script": "<!-- Place this code where you'd like the game to appear -->\r\n<div class=\"miniclip-game-embed\" data-game-name=\"flash-tennis\" data-theme=\"0\" data-width=\"640\" data-height=\"480\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/flash-tennis/\">Play Flash Tennis</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/flash-tennis/\" target=\"_blank\">Play Flash Tennis</a> / More <a href=\"https://www.miniclip.com/games/genre-3/\" target=\"_blank\">Sports games</a></p>\r\n\r\n<!-- Insert this code before your </body> tag -->\r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "Flash Tennis, Tennis Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Flash Tennis is one of the outstanding versions of online Tennis game that could be played online for best of the gaming enthusiasm and joy in athletic game.",
+      "metaKeyword": "flash tennis, Sports, Tennis, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 109,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 20660,
+      "ownGame": false,
+      "addDate": "2016-07-03T07:07:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2024-09-02T18:43:56.864Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT FOUND"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 11
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad66",
+      "name": "tennis",
+      "slug": "tennis",
+      "icon": "tennis-games"
+    }
+  }
+}
