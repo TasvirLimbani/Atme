@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b439",
+      "id": 2083,
+      "name": "Kitty Hospital Recovery",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "kitty-hospital-recovery",
+      "image": "2083",
+      "url": "kitty-hospital-recovery",
+      "description": "Kitty got injured while roller-skating in the park! Take care of our lovable kitten in the hospital and help her recover. You have all the needed equipment to treat your patient, so start off by changing her clothes into a comfortable robe to find the cure. Give her the right amount of medicine, get rid of the sticks and disinfect the wounds. Fix her broken bones and after you`ve placed the casts Kitty will get better right away!",
+      "size": 800,
+      "height": 600,
+      "script": "//cdn.witchhut.com/html5/games/kitty-hospital-recovery/190.html",
+      "metaTitle": "Kitty Hospital Recovery, Dcotor Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Kitty Hospital Recovery at atmegame.com ! We have selected this doctor games for best excitement and thrill in you!",
+      "metaKeyword": "Kitty Hospital Recovery Game, Girls Games, Dcotor Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.newvendor.com/",
+      "xmlFile": "multi_item_1521610088.xml",
+      "idealFor": "Man",
+      "likes": 75,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 20334,
+      "ownGame": false,
+      "addDate": "2018-03-21T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.702Z",
+      "updatedAt": "2024-04-01T19:24:40.678Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SELECT THE ITEMS TO TREAT THE KITTY",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS TO TREAT THE KITTY"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
