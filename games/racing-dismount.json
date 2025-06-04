@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbb5",
+      "id": 4154,
+      "name": "Racing Dismount",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "racing-dismount",
+      "image": "4154",
+      "url": "racing-dismount",
+      "description": "<div>This time you have completely new driving challenges to face off! Would you like to accept them and see yourself becoming an expert driver? Join Racing Dismount game and be prepared to drive your car on the hills that are full of death-defying challenges! Your objective in this brand new racing game is to control your lovely car to climb hills. We are pretty sure that your utmost driving abilities will make it easier for you to deal the challenges of uphill &amp; downhill environments.</div><div><br></div><div>Make sure to apply simple tricks and stunts to clear all the challenging levels of this cute HTML5 car game. Your nice performance will also help bring some gifts, rewards, items, and bonuses to increase your fun rate. Take your seat behind the wheel and get ready to drive you car while avoiding all the obstacles that you see on your way until you reach to the destination! Be careful as some tricky challenges can disturb your car balance and you would lose the game!</div><div><br></div><div>You will surely get a chance to go through a number of super cool tracks that you find nowhere else in the world of car racing games. All it takes to drive safely when you race your car on difficult terrain. Try to give it only the needful acceleration since driving it at high speed will lead you to failure! Check out more popular tiles from the category of free driving simulator games and have fun alone or with your friends, no download required!</div>",
+      "size": 1245,
+      "height": 750,
+      "script": "https://html5.gamedistribution.com/b723b0acb98e4728a32d04e3c505ff7a/\r\n",
+      "metaTitle": "Racing Dismount Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Racing Dismount at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Racing Dismount Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543658566.xml",
+      "idealFor": "Man",
+      "likes": 57,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 17365,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.733Z",
+      "updatedAt": "2024-10-12T01:18:46.988Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS TO MOVE, L ICONS TO BALANCE",
+      "webControlKeys": "UP ARROW- MOVE, DOWN-BREAK, L-R ARROW- BALANCE"
+    },
+    "rating": {
+      "rating": "1.3",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
