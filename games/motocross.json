@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb98",
+      "id": 4123,
+      "name": "MotoCross",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "motocross",
+      "image": "4123",
+      "url": "motocross",
+      "description": "<div>Are you are an ultimate bike racer? Do you love riding sports bikes on challenging tracks? If so, then choosing MotoCross can prove to be a nice bet for you. Choose your favorite background and then select a bike model you like before entering the real bike racing fun! Get ready to perform 720-degree backflips and make your bike jump over the obstacles to score the maximum possible points in the end in this brand new racing game!&nbsp;</div><div><br></div><div>It is time to push your driving abilities to the ultimate level, win all the levels and become a bike champion! Climb on hills, overcome multiple death-defying challenges and drive safely until you reach to your destination in this HTML5 bike game! Grab your helmet and get ready to put your bike driving abilities to the test to complete all levels! Keep your rider away from the bombs and other hindrances! You have to be on the track until you clear your level.</div><div><br></div><div>There are multiple levels to play through in this cool motorcycle driving game. All the controls are shown on the screen. Be careful as you have to race your chosen bike on sandy terrain safely to win this cool bike competition! Make some needful jumps and perform some spectacular stunts to taste the victory in each level. Only expert bike riders can drive on the hilly terrains. Take control of realistic motorbikes and witness the awesome graphics in this motorbike simulator!</div>",
+      "size": 1068,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/18fb65537d9f45e289a5596d0d214798/\r\n",
+      "metaTitle": "MotoCross Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game MotoCross at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "MotoCross Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 48,
+      "dislikes": 11,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 25985,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2025-05-23T05:01:43.272Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS TO MOVE, L ICONS TO BALANCE",
+      "webControlKeys": "A,D TO MAKE THE BALANCE, L-R ICONS TO MOVE"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
