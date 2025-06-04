@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b980",
+      "id": 3555,
+      "name": "Viking Brawl",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "viking-brawl",
+      "image": "3555",
+      "url": "viking-brawl",
+      "description": "Play against AI or your friend in 2 Player mode. Battle using swords with easy one-touch controls to attack and jump with well animated cartoon graphics\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/d40cfebeb61e4373b395466301c00356/\n",
+      "metaTitle": "Viking Brawl, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Viking Brawl at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Viking Brawl Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537334365.xml",
+      "idealFor": "All",
+      "likes": 48,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8169,
+      "ownGame": false,
+      "addDate": "2018-09-19T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2024-09-01T13:01:48.036Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO JUMP AND THROW THE SORD",
+      "webControlKeys": "L CLICK OF MOUSE TO JUMP AND THROW THE SORD"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
