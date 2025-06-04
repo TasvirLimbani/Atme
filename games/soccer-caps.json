@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb9b",
+      "id": 4126,
+      "name": "Soccer Caps",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "soccer-caps",
+      "image": "4126",
+      "url": "soccer-caps",
+      "description": "<div>This time is for practicing your favorite sport! Are you ready friends to become the champion of the International Football World Cup? Join Soccer Caps and show off the world that you have the needful skills to lead a football team! Common friends! This is a mini soccer game and you would play on the mini table in the virtual world so do not bother about being injured. Choose your soccer team, and then plan out your strategy to win in this brand new sports game!</div><div><br></div><div>You are going to participate in the best soccer league championship so maybe you lose some games at the initial levels. But, you are an expert soccer player so practice your sport hard to win all the remaining matches. Guide your team on how to use the green field to score the maximum possible goals in the chosen time frame! When the game begins, you need to evaluate the situation and then allow yourself to make the first blow. Learn the fight of the round element through the arrow!</div><div><br></div><div>Be careful since your opponent will try to put every possible effort to score goals in your gate throughout the allotted time in this HTML5 soccer game! Strikes will keep rotating so you have only limited moves to use. Coordinate with your partner and hit as many goals as you can to be the winner in each game! Select single player or double player and then choose the min out of the three options including 3, 5, and 8 before entering the game! Good luck to win this Online Football Championship and bring glory to your home!</div>",
+      "size": 800,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/c18c79633b7f4ad4982818ad528ee3fc/\r\n",
+      "metaTitle": "Soccer Caps Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Soccer Caps at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Soccer Caps Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 137,
+      "dislikes": 12,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 21140,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-10-25T17:06:28.734Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS L-CLICK OF MOUSE ON PLAYER AND DRAG TO ADJUST THE FORCE AND RELEASE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 15
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
