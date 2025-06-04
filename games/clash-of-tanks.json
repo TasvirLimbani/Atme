@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1b6",
+      "id": 5748,
+      "name": "Clash of Tanks",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "clash-of-tanks",
+      "image": "5748",
+      "url": "clash-of-tanks",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Get ready to witness the biggest war you have ever experienced in the virtual world! We have brought to you a brand new war game Clash of Tanks where you have to put your battle skill to test. It will be amazing to play the role of a commander in this free online adventure game. Try to react fast since your opponents are very clear and don’t show pity on you for a single second! Your objective in this real time strategy tank game is to destroy the opponent base and deploy your tanks.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Remember each tank comes with its unique strength and weakness. So, try to choose the right tanks at the right time to ensure your win in this epic battle. Here you will get a chance to fight against players around the world. Don’t forget to enter your name since this will help your enemy to recognise you immediately! Apply the best fighting and war tricks to conquer your enemy base in this one of the best tower defense strategy games!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">It’s up to you what kind of tactics you want to opt for during the battle! Go with saving on a secret weapon that is your super strong tank or sending many of the weaker tanks to the offensive! Use your brain to identify which of your enemy destroy you with less powerful combat vehicles. We know that you have the guts to win this ruthless war shortly. Try not to being caught out or out-maneuvered in this awesome RTS tank game! Play this free online game wisely to upgrade each tank and generate a strong army!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/aed4be9510b84d9d8540ccdb4c6d0269/\r\n",
+      "metaTitle": "Clash of Tanks,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Clash of Tanks at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Clash of Tanks Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557761121.xml",
+      "idealFor": "Man",
+      "likes": 160,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 24944,
+      "ownGame": false,
+      "addDate": "2019-05-13T20:55:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.755Z",
+      "updatedAt": "2025-04-27T02:28:57.716Z",
+      "__v": 0,
+      "mobileControlKeys": "CLICK ON TANKS KEEP PRESS AND OUT THEM IN THE WAR FIELD TO STOP THE ATTACK",
+      "webControlKeys": "CLICK ON TANKS KEEP PRESS AND OUT THEM IN THE WAR FIELD TO STOP THE ATTACK"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 26
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
