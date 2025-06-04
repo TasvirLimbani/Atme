@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0f0",
+      "id": 5521,
+      "name": "Untamed",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "untamed",
+      "image": "5521",
+      "url": "untamed",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The Untamed is a brand new action packed challenge featuring an interesting story of the adventurous lives of two brave and popular cultivators who are known to go from place to another to sort out a series of murder mysteries. Their primary objective was to search the main culprits, fight and defeat them in the best way possible. You have to control the character Shaman here in this free online shooting game. Check out the story first before entering the battle!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your planet has been invaded by a cruel and heartless alien warlord. However, you are lucky enough to save your life. Remember the further life is not going to be easy at all. The only way to survive is to fight against the bad souls with your gun equipped with the limited ammo. Do not forget to bring a large stone totem into use to protect you against a range of incoming bullets in this html5 mobile game! The good news is that your totem is stored away automatically when you are on your shooting mission.?</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to collect the coins that you can use further at the end of each level to buy skills, upgrades and items for your character! Their states can also be improved and you can also buy battlefields like health potions using coins. Keep collecting upgrades to enhance the power of your character to stay confident and perform well in the advanced levels! Use up and down arrow key or W or S key to move up and down your character and LMB to shoot your enemies! It is just a trailer. Enjoy more addictive & engaging skill survival games for boys that are available to play for free!?</span></div>",
+      "size": 650,
+      "height": 490,
+      "script": "https://html5.gamedistribution.com/96f8f89e99de466899a1de781894850c/\r\n",
+      "metaTitle": "Untamed, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Untamed at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Untamed Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453347.xml",
+      "idealFor": "Man",
+      "likes": 29,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8921,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2024-04-22T09:37:00.738Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO SAVE AND HIT THE ENEMIES",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO MOVE AND SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
