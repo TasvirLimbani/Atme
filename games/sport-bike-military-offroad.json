@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5a9",
+      "id": 2508,
+      "name": "Sport Bike Military Offroad",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "sport-bike-military-offroad",
+      "image": "2508",
+      "url": "sport-bike-military-offroad",
+      "description": "Sport Bike Military Offroad, Bike Games<br>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/sport-bike-military-offroad/index.php",
+      "metaTitle": "Sport Bike Military Offroad, Bike Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sport Bike Military Offroad at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Sport Bike Military Offroad Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 10473,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.711Z",
+      "updatedAt": "2024-03-29T03:35:14.044Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL  ARROWS TO MOVE, C TO LAST CHECKPOINT, R- RESTART"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
