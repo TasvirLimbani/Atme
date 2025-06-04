@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b199",
+      "id": 1312,
+      "name": "Nugget Seeker",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "nugget-seeker",
+      "image": "1312",
+      "url": "nugget-seeker",
+      "description": "<div>If you and your kid are an adventure lover, then Nugget Seeker Adventure is the best free online game for both of you. If your baby boy is fond of collecting lots of nuggets, then you can get him involved in this brand new adventure game. The main goal in this game is to dig all your nuggets. But, all you need to do is to beware of the surrounding enemies. Just avoid them, do not be afraid and keep digging your nuggets until you collect them all!</div><div><br></div><div>Among the free online escaping games for kids, Nugget Seeker Adventure is the most famous and loved online kids game. You can play this game on all types of smartphones or even tablets. If you have iPhone, iPad, Samsung and other Apple and Android system, this cool mobile phone game can be very easily downloaded and played. Just type play free online games in the Google and there you will have Nugget Seeker Adventure on the top.</div><div><br></div><div>It is an HTML 5 arcade game and can be played in varied browsers, such as safari and chrome. This online kids game is playable in Android devices and windows iPhone too. After downloading it, you can put it on your favourite games list. Guide your digger through the mine underground collecting gold nuggets. However, avoid the mean bullies! Nearly 80% of 400 players like this mobile game. If your kid is an adventure lover, he is gonna be a total fan of Nugget Seeker Adventure. So, what are you waiting for? Hurry; dig out your nugget from the mine!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/d7e3be73a64a4a2386530478d3573b6a/\r\n",
+      "metaTitle": "Nugget Seeker, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Nugget Seeker at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Nugget Seeker Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299458.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8349,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.687Z",
+      "updatedAt": "2024-07-25T02:38:30.443Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE TO MOVE",
+      "webControlKeys": "ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
