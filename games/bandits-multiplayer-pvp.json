@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8a",
+  "category_name": "best",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb67",
+      "id": 4073,
+      "name": "Bandits Multiplayer PVP",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "bandits-multiplayer-pvp",
+      "image": "4073",
+      "url": "bandits-multiplayer-pvp",
+      "description": "<div>The real action-packed challenge has just begun! Are you ready to play the role of a brave bandit? Join Bandits Multiplayer PVP and be prepared to face off the deadly and blood-thirsty zombies! Grab your horse and get ready to kill a horde of zombies and fight against other players that you see on the screen! Remember only the best can survive so get ready to put your utmost fighting abilities to the test. This new horse riding game includes a range of advanced features.</div><div><br></div><div>Choose any of the six modes and select from three uniquely designed and graphically improved maps in this brand new action game! It will also be your choice how many players you want to play with or against you. Remember you do not have any friend on this planet. Your horse is waiting for you. Take your seat over there and fight directly using your dangerous weapon! Use your arrows or bow to shoot at your enemies from far! Show off your fighting abilities to control one of the deadliest cowboys!</div><div><br></div><div>There are six unique and challenging modes including battle royale, team deathmatch, arcade, survival, zombie, and battle royale, 3 interesting maps, 3 horses to ride, and 3 weapons to use. Come into action and ride your reliable horse around the landscape! There is no need to show mercy on any other bandits that come into your path. Use pistol, sword, or bow to attack on your competitor bandits in this 3D multiplayer horse riding battle game!</div>",
+      "size": 1000,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/a17e0ceaf95f4313af022a4ca044e0f8/\r\n",
+      "metaTitle": "Bandits Multiplayer PVP,  Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bandits Multiplayer PVP at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Bandits Multiplayer PVP Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7957,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-03-21T07:50:25.042Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALLA RROWS TO MOVE,SPACE-JUMP, L SHIFT-SPRINT, 1,2 -WEAPON, L-R CLICK-ATTACK"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
