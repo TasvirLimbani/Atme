@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c41f",
+      "id": 6543,
+      "name": "Jungle Treasure",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "jungle-treasure",
+      "image": "6543",
+      "url": "jungle-treasure",
+      "description": "<div>The brave guy Jack is already in the jungle where many hungry and deadly animals want to attack him. These evil creatures will try to put every possible effort to stop him from moving forward and escape the jungle. Now it is up to you how to guide him to go as far as possible without being caught by even a single animal. Join Jungle Treasure and be prepared to help him to run through the jungle and go as long a distance as possible!</div><div><br></div><div>Make sure that he jumps over all the living things that you see on his way. Be careful otherwise he might be risked falling into the first abyss in his path. Try to keep him away from the poisonous frog in this one of the best HTML5 running games for kids! Try to grab as many coins and jewel as you can to boost your score! Click the LMB or tap the screen of your mobile phone to make your character jump and avoid the obstacle!</div><div><br></div><div>The top left corner of the screen will show you how much distance you have covered as of now. That area will also show you the points based on how many jewel and gold items you have grabbed. The unique challenges and tons of bosses to battle, stunning graphics, power-ups and achievements and easy controls &amp; attractive sound will be enough to offer the long hours of fun and entertainment. It is easy to play, but hard to master in this cool jumper. Good luck to challenge your friends, make your best new high score and have a blast online for free, no download required!</div>",
+      "size": 1180,
+      "height": 630,
+      "script": "https://games.atmegame.com/games/jungle-treasure/",
+      "metaTitle": "Jungle Treasure Game, Running - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Jungle Treasure at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Jungle Treasure, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 233,
+      "dislikes": 40,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 54280,
+      "ownGame": true,
+      "addDate": "2020-11-21T01:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-06-01T14:27:32.263Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP THE SCREEN TO JUMP THE HERO",
+      "webControlKeys": "LEFT CLICK TO JUMP THE HERO"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
