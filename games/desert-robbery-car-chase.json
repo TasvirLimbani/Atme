@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2d2",
+      "id": 6143,
+      "name": "Desert Robbery Car Chase",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "desert-robbery-car-chase",
+      "image": "6143",
+      "url": "desert-robbery-car-chase",
+      "description": "<div>The police of the entire city have already started chasing you. They have kept their eyes on your every activity. Hey! The good news is that you also have a wonderful car to ride to escape from them. Fasten your seat and get ready to ride your car like never before to conduct the best escape you have ever done in your life! Here the biggest problem is that you do not have an option to slow down your vehicle.</div><div><br></div><div>Gear up to escape from the cops while making money in Desert Robbery Car Chase! You can also use that money to buy new vehicles and weapons to make your gameplay more interesting and challenging. Common friends! Many powerful cars are waiting for you to unlock in this brand-new racing game. Try to make U-turn fast to get the vehicles of cops crashed with each other! Make sure to grab as much money as you can that you see along the way.</div><div><br></div><div>Remember the longer you stay in the game the higher score you will be able to make. Track your present score by keeping your eyes at the top middle portion of the screen! Your current score and best score will also be shown on the display when your game finishes. Drive your car at top speed to make the most successful escape today while earning a lot of money to purchase more powerful cars! Many more addictive funny racing titles are waiting for you on atmegame.com. Hurry up! Get the best fun in just a few clicks without download and keep you busy for hours!</div>",
+      "size": 900,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/3e349d68423148099ec387de98e59f2d/",
+      "metaTitle": "Desert Robbery Car Chase, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Desert Robbery Car Chase at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Desert Robbery Car Chase Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569524127.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7770,
+      "ownGame": false,
+      "addDate": "2019-09-27T00:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2024-09-20T18:44:22.719Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "A,D LEFT RIGHT ARROWS TO CONTROL CAR"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
