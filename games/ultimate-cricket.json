@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af22",
+      "id": 514,
+      "name": "Ultimate Cricket",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "ultimate-cricket",
+      "image": "514",
+      "url": "ultimate-cricket",
+      "description": "<p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font face=\"arial\" size=\"2\"><font color=\"#000000\">There is no better way to enjoy cricket online than playing Ultimate Cricket game, the free online cricket game atmegame.com. The </font><a href=\"http://www.atmegame.com/online-cricket-games\" title=\"\" target=\"\" style=\"\"><font color=\"#0033cc\">cricket game</font></a><font color=\"#000000\"> to be played at the ultimate cricket is being in two modes, respectively, to be enjoyed is consisted of two modes, single match, and the world cup mode. Whether it is the single mode match or world cup mode, the game is divided into the slot of overs depending upon a player?s choice to choose from the 5 overs, 10 overs, 15 overs and other options.</font></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font color=\"#000000\" face=\"arial\" size=\"2\">As far as the matter of playing this game is concerned, there, is no better choice than playing the game by pressing the space bar that is the most popular option to play cricket while existing in the current game as well as in others too. In the free online cricket game to play you are required to activate the bowler by pressing the space bar, you next press A or S to make a normal shot or the super shot in the game.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><span style=\"color: rgb(0, 0, 0); font-family: arial; font-size: small; background-color: transparent;\">To make a decision about the direction of the shot, in the game, the option of left, right or the up arrow keys could be pressed.  In case, if you have opted to bowl after winning the toss, you are required to choose the bowling style respectively, fast, swing or spin. Anyway, this is a great cricket game to be played and enjoyed. </span><br></p>",
+      "size": 800,
+      "height": 600,
+      "script": "514_swf.swf",
+      "metaTitle": "Ultimate Cricket, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Ultimate Cricket is the best choice and opinion for playing the online cricket game in passion and style in two modes single match and world cup mode.",
+      "metaKeyword": "Cricket Games, Ultimate Cricket, Sports, Play Free Games, Online Cricket Games, cricket game,  play cricket games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 303,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 96716,
+      "ownGame": false,
+      "addDate": "2017-07-25T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.668Z",
+      "updatedAt": "2024-08-29T11:16:55.862Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 110
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
