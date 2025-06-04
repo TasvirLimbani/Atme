@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aed4",
+      "id": 429,
+      "name": "Real Freekick 3D",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "real-freekick-3d",
+      "image": "429",
+      "url": "real-freekick-3d",
+      "description": "<p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\">Soccer, the most constructive game of the times is that is being played across the globe without any derision and discrimination is the favorite sport of the youth, internationally. Many online soccer games have been developed to live up that amazing spirit of football to be played on either on desk top computer or the much popular smart phones that are the latest mode of the communication and entertainment at present.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\"><span style=\"background-color: transparent;\">One such amazing free online soccer game is Real Freekick 3D in which one?s capacity to perform kick at the goal gets being tested and points are offered to the team that successfully accomplish the task of kicking the ball straight into the goal. In the game, that is in a tournament mode there are total 32 teams in eight groups overall. And you have to select your team and play the match against the opponent team. After the successful completion of the game, you will proceed ahead in order to reach the final to finally emerge the winner in the online soccer game.</span><br></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><span style=\"background-color: transparent;\"><font size=\"2\" face=\"verdana\" color=\"#000033\">The Real Freekick 3D game is designed to either kick the ball or as a goalkeeper to defend the goal.? When kicking the ball the shooter first is required to set the direction of the goal where, he wishes to kick, next to it is defining an angle of the ball that too is a terrific job. Finally, click on the ball to put it into the goal, successfully.</font></span><br></p>",
+      "size": 640,
+      "height": 640,
+      "script": "https://games.softgames.de/real-freekick-3D/?p=pub-13471-13727",
+      "metaTitle": "Real Freekick 3D, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Real Freekick is that favourite online cricket game that is being played across the globe without any discrimination and being loved for massive cricketing joy.",
+      "metaKeyword": "Real Freekick 3D, Sports, Soccer Games, Real Freekick 3D Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 740,
+      "dislikes": 102,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 56021,
+      "ownGame": false,
+      "addDate": "2017-07-11T13:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2025-05-18T03:38:29.175Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN AND SWIPE TO SELECT THE DIRECTION, THEN TAP ON THE PLAYER  ICON TO ADJUCT THE FORCE, TAP ON THE BALL TO HIT THE GOLE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SELET THE  DIRECTION, L CLICK TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 55
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
