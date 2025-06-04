@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c15a",
+      "id": 5646,
+      "name": "Ghost Knight Rider",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "ghost-knight-rider",
+      "image": "5646",
+      "url": "ghost-knight-rider",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Does bike riding excite your senses? Are you amongst the ones who love driving bikes on the platforms that are full of obstacles? If your answer is yes to the above two questions, playing Ghost Knight Rider is a perfect choice for you. This brand new bike game allows you to be a mysterious motorbike rider you have been heard about in stories only. The eye-popping background, easy controls, seamless gameplay and fabulous graphics can keep you entertained the whole day &amp; night.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Night ghost and Silent Hill are the highly addictive and attractive themes the game is available for you. Let your player help to choose from any of the three most appealing and enticing bikes to go on his most awaited ride! Do not forge to collect fuel you see on the platform to reach to your destination! Many dangerous obstacles like bridges or spiky objects will try to stop you from moving forward in this one of the best bike driving games for kids. Feel free to perform some death-defying stunts on the bridges to become a perfect ghost rider!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Keep driving and jumping your bike to reach to your destination fast! Also, try making a flip forward and flip backward to pass through all levels confidently! Use A for the back flip and D for the front flip in this cute HTML5 bike game! Ride your motorbike wisely while avoiding the hindrances and maintaining the balance to achieve your goal! Press the right arrow key to move your bike forward and left arrow key to stop it! Play like a pro and stand tough against the deadly traps and dangerous ramps! Let us see how far your bike will go.</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/0837f2f2480a4dd9aa608b4590238ea2/\r\n",
+      "metaTitle": "Ghost Knight Rider,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ghost Knight Rider at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ghost Knight Rider Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1555400796.xml",
+      "idealFor": "Man",
+      "likes": 24,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12198,
+      "ownGame": false,
+      "addDate": "2019-04-16T13:16:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.753Z",
+      "updatedAt": "2024-08-31T11:21:20.601Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "LEFT ARROW=-BREAKS,RIGHT ARROW-MOVE,A- BACK FLIP,D FROUNT FLIP"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
