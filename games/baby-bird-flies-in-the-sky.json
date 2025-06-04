@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b20e",
+      "id": 1443,
+      "name": "Baby Bird flies in the Sky",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "baby-bird-flies-in-the-sky",
+      "image": "1443",
+      "url": "baby-bird-flies-in-the-sky",
+      "description": "<div>Baby Bird Flies In The Sky is a brand new adventure game which has the resemblance to the very popular Flappy Bird. Here you will meet with a very cute bird who wants to learn fly high in the sky. Since the bird is quite little so she is not able to do it on her own. Do you want to help this nice bird? Join us to help the little bird during her fly learning mission! She would be very happy to get your valuable assistance.&nbsp;</div><div><br></div><div>Your goal in this free online platform game is to tap on the screen timely while avoiding the obstacles like pipes and collecting the bonuses. The highly addictive nature of the game will encourage you to play it again and again in your browser. Easily understanding CAPX and customized gameplay keeps you engaged for hours. There are plenty of things you can do on your own like personalizing the font, changing the space between pipes, setting the gravity and increasing/decreasing the speed of the bird.&nbsp;</div><div><br></div><div>Begin this cool HTML5 game with tapping on the screen and you will see a bird trying to fly in the sky! You can play it by just using your mouse. Apply the left mouse button to click and drag to draw the path in this really addictive multi-platform game! Compatible with almost all screen sizes, Baby Bird Flies In The Sky is very easy to understand and reskin. Keep clicking to fly your bird and having a lot of fun in this cute online flying game! All the best for exploring more interesting fun adventure games for boys at atmegame.com!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/3cfcffa4cadd49959f2f77aef704d4bf/\r\n",
+      "metaTitle": "Baby Bird flies in the Sky, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Baby Bird flies in the Sky at atmegame.com ! We have selected this platform games for best excitement and thrill in you!",
+      "metaKeyword": "Baby Bird flies in the Sky Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489364.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8169,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.689Z",
+      "updatedAt": "2024-03-22T14:38:53.754Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO FLY",
+      "webControlKeys": "L CLICK OF MOUSE TO FLY"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
