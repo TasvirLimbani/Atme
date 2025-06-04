@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd95",
+      "id": 4637,
+      "name": "Sweet Candy Match",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "sweet-candy-match",
+      "image": "4637",
+      "url": "sweet-candy-match",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a sweet candy lover? Do you love trying out match 3 games online when you have some free time to enjoy? If yes, Sweet Match-3 Game is an html5 online game that you are searching for. In this brand new arcade game, you have to click on a group of 3 or more objects or exchange two pieces to match 3 or more object. This cool and funniest puzzle challenge is pretty similar to candy crush and has the ability to keep you engrossed for many hours.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Keep matching up the cute and colorful candies to finish the game and create the best score! When you click the play button, you would see some pieces of candy which you have to grab. Make sure to prepare columns or rows of three of more of the same candies to achieve your mission. All the paired candies will be vanished from the grid and the other items will take their place to fill the open cells. Try to be very fast to collect all the candy with the help of the available moves!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This candy adventure is filled with tons of levels, multiple obstacles and unlimited fun and thrill to impress you. Make smart match moves to create super power boosts to create a bigger blast in this html5 candy game. The faster you break the candies the higher score you will be able to hit on the score in the end. Good luck to enjoy the super cute, nice and colorful candy graphics of this lovely kids game! Have a blast in more candy adventure for free on our website without download!</span></div>",
+      "size": 496,
+      "height": 800,
+      "script": "\nhttps://html5.gamedistribution.com/cba558a6c6ab450ea4b6d3ec1bd1f650/\n",
+      "metaTitle": "Sweet Candy Match, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sweet Candy Match at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Sweet Candy Match Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8329,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-06-11T21:02:03.747Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCEEN  AND CONNECT AT LEAST 3 SAME CANDIES TO  BRUST",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND CONNECT AT LEAST 3 SAME CANDIES TO  BRUST"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
