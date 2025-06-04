@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b195",
+      "id": 1307,
+      "name": "Avoider",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "avoider",
+      "image": "1307",
+      "url": "avoider",
+      "description": "<div>Are you ready to play one of the best shooting games you have ever witnessed? Join Avoider game and become a part of the community that is full of fun and entertainment! In this brand new action game, you will surely be able to put your concentration skills to test. Plan strategically to avoid all the obstacles that you see on the screen! Make sure to challenge your reflexes in this highly challenging and beautifully-designed puzzle game.&nbsp;</div><div>Touch the screen to move “You” icon and stay away from different arrows! Try not to get the arrows in your knee to keep your game going and allow you earn a higher score! Keep your eyes on the screen to get through different levels across various stages in this free online shooting game! You are definitely going to be challenged here. It is easy to learn and difficult to be master in this cool HTML5 game. Tap anywhere and get ready to have fun for hours and hours!</div><div>Within a play of a few minutes, you will know how to control red, blue and yellow coloured avoiders. Grab the green colour avoider to recover your loss in this super addictive shooting game! Get red and blue coloured squares to opposite sides of the screen! This adventure game features the neon graphics that will be enough to dazzle your senses and a bumpiN electronic soundtrack to raise Goosebumps and get your blood pumpin! Explore more shooting games on our website to treat your ultimate gaming senses!&nbsp;</div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/fd780a41b40e419dbca1ba8f8dcfaa8f/\r\n",
+      "metaTitle": "Avoider, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Avoider at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Avoider Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299458.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9569,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.687Z",
+      "updatedAt": "2025-02-08T22:07:58.193Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO MOVE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO MOVE "
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
