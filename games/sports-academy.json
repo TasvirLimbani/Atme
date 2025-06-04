@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad62",
+  "category_name": "performing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad62",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae64",
+      "id": 143,
+      "name": "Sports Academy",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "sports-academy",
+      "image": "143",
+      "url": "sports-academy",
+      "description": "This is an exciting and crazy some sports game online for girls excitingly that can be easily enjoyed in a multi player mode. In this particular online game, you can choose across from the five players consisted of Cissi, Kim, Liz, Luna, Sally and many other interesting players as well. The game of sports academy, which is a much cooler and retrospective performance game is known and liked by all.<br><br>The first level of the game is swimming play with right and left arrow of the game are used and space bar is there to move back in the game. After completing the swimming in the stipulated time frame, the next task that you have to do is winning the game of running and jumping with the frequent pressing of left and right button and jumping by pressing space bar. The control on left and right key is very important in this sports game online.<br><br>To play sports academy game as an expert you need to go up in the game again and again to come up as a winner. The rigorous practice there is required, though; it is a game for girls. So, this is the time to have a competition against the girls. Enjoy the game for the best results of time.",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=d34fc24fb27d4273bd40e2b4ba1d149a",
+      "metaTitle": "Sports Academy, Performing Games - Play Online Free : Atmegame",
+      "metaDesc": "Sports Academy is one of the best known crazy performing games for the girls to be played in the multi player mode as well too. It is much cooler game liked by all.",
+      "metaKeyword": "Sports Academy, Sports, Performing games, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 95,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 11385,
+      "ownGame": false,
+      "addDate": "2016-07-03T08:17:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.664Z",
+      "updatedAt": "2024-03-24T06:54:27.073Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 15
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad62",
+      "name": "performing",
+      "slug": "performing",
+      "icon": "performing-games"
+    }
+  }
+}
