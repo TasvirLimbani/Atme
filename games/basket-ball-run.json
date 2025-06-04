@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bba0",
+      "id": 4131,
+      "name": "Basket Ball Run",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "basket-ball-run",
+      "image": "4131",
+      "url": "basket-ball-run",
+      "description": "<div>It is time to show your amazing basketball abilities! Are you ready friends? Join Basket Ball Run and be prepared to score as many points as you can by throwing the ball into the baskets! Put on your shoes and move towards the basketball court! No, there is no opponent here to compete. You are the only one who will play against yourself. Set your own high score and play again to break it and become a champion at basketball in this brand new sports game!</div><div><br></div><div>You are already a basketball star and the entire audience is cheering at you. Use your mouse to throw ball from one basket to another. You can adjust the aim and the power of your shot by clicking and holding down the left mouse button. Another basket will appear above for you to reach when you are able to get the basketball in the next basketball. Remember you would lose the game in case if you miss any shot. You would earn the points with every successful basket reach.</div><div><br></div><div>The top portion of the screen will show your high score, while you can track your present score right below that. Take your time to decide before aiming and shooting in this html5 basketball game! In the advanced levels, you would see the target ring moving. Good luck to shoot as many balls as you can to complete all levels and become a champion of basketball! Try out more free basketball games on our website and have fun without download!</div>",
+      "size": 624,
+      "height": 1040,
+      "script": "https://html5.gamedistribution.com/20b101441dba4b56842aa5a10c31df22/\r\n",
+      "metaTitle": "Basket Ball Run Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Basket Ball Run at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Basket Ball Run Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9660,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-04-15T15:20:32.757Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE SCREEN TO SELECT THE DIRECTION AND RELEASE TO MAKE A GOLE",
+      "webControlKeys": "L CLICK OF MOUSE AND PRESS TO AIM, RELESE TO MAKE THE GOLE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
