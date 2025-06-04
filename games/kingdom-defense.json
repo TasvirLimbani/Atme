@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb58",
+      "id": 4058,
+      "name": "Kingdom Defense",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "kingdom-defense",
+      "image": "4058",
+      "url": "kingdom-defense",
+      "description": "<div>The epic battle has just begun and you are going to lead your team towards the victory! It does not make a sense to wait anymore. Join Kingdom Defense and be prepared to build towers along the road and protect your kingdom against a horde of trolls, orcs and evil wizards! Make sure to apply your sharp reflexes and strategy skills to win in each level and guide your team wisely. Kill enemies to earn coins and use those coins to upgrade your heroes and towers!</div><div><br></div><div>You as a main soldier of your unit have taken the responsibility of defending your city from a group of wild men. Choose from multiple characters and types of weapons in this HTML5 war game! With powerful weapons, they will try to attack on the people of your city. Grab your bow and arrow and challenge your enemies in a way like never before! Destroy all the enemies you see coming on your way and complete all missions to become a true fighter!</div><div><br></div><div>Your enemies are known to be aggressive. Use all the weapons available at the disposal to defend the attack made by your opponents! Get ready to crush your enemies into a pulp and protect your kingdom like a champion! Grab magic items like healing ward, frost gem, meteor strike and more to help you taste the victory in this one of the best tower defense games for boys! Good luck to try out other free action-packed challenges and have fun without download!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/a3682197eae7490aa99c9d735f5793c3/\r\n",
+      "metaTitle": "Kingdom Defense, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Kingdom Defense at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Kingdom Defense Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10028,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-10-27T05:05:46.680Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS ON THE OPTIONS TO CREATE THE DEFENDERS FROM L- CORNER OF SCREEN"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
