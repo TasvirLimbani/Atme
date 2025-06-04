@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba68",
+      "id": 3804,
+      "name": "King Soldiers 4",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "king-soldiers-4",
+      "image": "3804",
+      "url": "king-soldiers-4",
+      "description": "Attention soldier! King Soldiers 4 is the next mission for you. Use your different weapons to take out the enemies and try to do so with as few shots as possible! Some of you enemies can jump and others are behind walls so watch you shots carefully!",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/king-soldiers4-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "King Soldiers 4, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game King Soldiers 4 at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "King Soldiers 4 Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 31,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12891,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.728Z",
+      "updatedAt": "2024-01-28T14:20:59.648Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP AND HOLD TO AIM RELESE TO SHOOT",
+      "webControlKeys": "MOUSE TO SELECT THE DIRECTION, L CLICK TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
