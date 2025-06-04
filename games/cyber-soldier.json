@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c11a",
+      "id": 5569,
+      "name": "Cyber Soldier",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "cyber-soldier",
+      "image": "5569",
+      "url": "cyber-soldier",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The biggest action challenge has just begun and you have decided to be a part of it. This battle is going to be bigger than you have ever faced. Many deadly and blood thirsty metal monsters are waiting for you. They will not show mercy on you, so it is important for you to be alert on the time when you move from one platform to another in this brand new sci-fi adventure platform game. Try to jump carefully through the platforms.?</span></div><div><span style=\"font-size: 13.3333px;\">There is no need to bother in case of being hurt since you will find plenty of items to refill your bullets and recover your health. The only way of escaping from there is to kill all the monsters. We know you have the ultimate fighting skills to be applied. Join Cyber Soldier now and prove the world that you are actually a big shooter of the city. This free online shooting game includes 12 episodes in total. Collect as many coins and red stars as you can while avoiding enemies.?</span></div><div><span style=\"font-size: 13.3333px;\">Your primary objective in this HTML5 online shooter game is to blast your way and enjoy the victory over a horde of metallic and clunky enemies. Get ready to run and jump through dangerous environments to eliminate all of them. Use your gun and keep trying to collect more power cells to make it more powerful. Good luck to have a blast in this one of the best action games for boys. Check out more warrior platform games on our free game website.</span></div>",
+      "size": 1050,
+      "height": 600,
+      "script": "https://games.atmegame.com/games/cyber-soldier/",
+      "metaTitle": "Cyber Soldier, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cyber Soldier at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Cyber Soldier Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1553920821.xml",
+      "idealFor": "Man",
+      "likes": 172,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 49577,
+      "ownGame": true,
+      "addDate": "2019-03-30T10:10:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2025-04-05T05:46:30.689Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICONS TO MOVE AROUND,RIGHT ICONS TO JUMP,SHOOT, HIT WITH KNIFE",
+      "webControlKeys": "W,UP ARROW-JUMP, A,D L-R ARROW TO MOVE LEFT RIGHT,DOWN ARROW ,S TO HIT WITH KNIFE"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
