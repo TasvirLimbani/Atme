@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2d1",
+      "id": 6142,
+      "name": "Police Chase",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "police-chase",
+      "image": "6142",
+      "url": "police-chase",
+      "description": "<div>Do you love playing police escape games? Are you a type of gamer who likes driving cars in a limited area? If yes, we have got you covered with something special that has the ability to make your dream come true without download games. All you need to do is just join our brand new racing game where you have to escape from the cops while keeping your eyes on the diamonds. Your objective is to grab all the diamonds while beating the cops in Police Chase.</div><div><br></div><div>We can understand that it requires precise concentration and excellent controls over driving. The police cars will keep chasing you, but you have to make sure that your driver will not get caught by them. Try to maintain a proper distance from the cop cars. However, do not forget to eliminate them with the help of rockets if they come close to your car. Drive, shoot and grab all the set diamonds timely to clear each level with 3 stars rating!</div><div><br></div><div>The timer is on and shown on the top left corner of the screen. The minimum time you will take to achieve your goal the higher score you will be able to make in the end. The number of diamonds you have to grab in the present level will be shown on the top middle portion of the screen. Good luck collecting all the diamonds to complete all the levels and become the best car chaser of your city! Check out more addictive and free car escape titles on atmegame.com and have a blast with your friend, no download required!</div>",
+      "size": 854,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/d276d1211dc343e2995f6c594e5f8cba/\r\n",
+      "metaTitle": "Police Chase, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Police Chase at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Police Chase Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569524127.xml",
+      "idealFor": "Man",
+      "likes": 902,
+      "dislikes": 39,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 548406,
+      "ownGame": false,
+      "addDate": "2019-09-27T00:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-05-02T01:48:12.200Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICONS TO SHOOT AND L-R, RIGHT ICONS TO MOVE ON,MOVE BACK",
+      "webControlKeys": "ALL ARROWS-MOVE, SPACE TO HIT"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 108
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
