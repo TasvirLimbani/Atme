@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd9f",
+      "id": 4647,
+      "name": "Swipe Car",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "swipe-car",
+      "image": "4647",
+      "url": "swipe-car",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You as a speed lover cannot wait if you get to know about a brand new car game. We are damn sure that you will fall in love with this unique and highly-addictive racing challenge if you try it out at least once. The easy controls combined with the colorful graphics and fabulous gameplay are not going to leave you for long. Are you ready to practice your driving abilities? Join Swipe Car and get ready to prove the world that you have all the necessary skills a race has!</span></div><div><span style=\"font-size: 13.3333px;\">You would spot multiple types new and lovely cars to drive in this classic html5 racing game. Take your speed fantasy to the extremely new level on snow, desert and forest roads! All you need to do is just swipe left or right to control your vehicle. Make sure to stay away from other vehicles around your four-wheeler since you would be out of the game if it hits any other vehicles. Your present score and new best will be shown on the screen when your game is finished.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Put your fingers on the mouse or tap the screen to give your vehicle a right track to run without being collided with other vehicles! The faster you react during the gameplay the highest score you will be able to make in the end. Challenge your driving and focus skills to become a true racer in this car mobile game! Enjoy this funny arcade swipe challenge in any device whenever you want! Try out new car games that are free to play online, no download required on atmegame.com!</span></div><div><br></div>",
+      "size": 720,
+      "height": 1280,
+      "script": "https://html5.gamedistribution.com/9a3a2cfee4084ea781363497d5762ace/\r\n",
+      "metaTitle": "Swipe Car, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Swipe Car at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Swipe Car Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544705010.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10493,
+      "ownGame": false,
+      "addDate": "2018-12-13T18:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-05-28T17:08:52.471Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE L-R ON SCREEN TO MOVE",
+      "webControlKeys": "SWIPE L-R THE CAR BY L CLICK OF MOUSE TO MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
