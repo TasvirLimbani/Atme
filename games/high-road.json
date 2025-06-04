@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf84",
+      "id": 5139,
+      "name": "High Road",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "high-road",
+      "image": "5139",
+      "url": "high-road",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Racing is always a great fun especially for boys who are obsessed with speeding. Although it can be risky when you take a chance to drive fast at highway or crowded streets in the real life, you will have the full freedom to perform as many death-defying stunts as you can when you choose the virtual world. Today we have brought to you a wonderful and latest racing game where you can make your dream of driving a car at breakneck speed true in just a few minutes.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Join High Road game and allow you to dive into the ultimate fun and thrill. This cool free online is a must try attempt especially if you are a speed enthusiast or want to be a super driver. Begin your game by clicking the start button and then select a beautifully-designed sports car! We are damn sure that you would not forget to appreciate the environment when you take a chance to drive. Choose any mode between Tiny Cars and Aphex. Four players can play in Aphex mode and you have to focus on taking the first position.</span></div><div><span style=\"font-size: 13.3333px;\">There is more to explore when you try out this car mobile game in your device, be it desktop or laptop computer, android phone, gaming console and iPhone or iPad. Do not bother in case of you failing at initial attempts as you will have plenty of opportunities to try it out. Challenge your sharp driving skills and reflexes to taste the victory in each mode!! Good luck to browse through our website for free to spot some more complicated and engaging race games!!</span></div>",
+      "size": 960,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/e3c2873410a14580b1a61d4bebbf1126/\r\n",
+      "metaTitle": "High Road,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game High Road at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "High Road Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545466.xml",
+      "idealFor": "Man",
+      "likes": 36,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12204,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:14:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2025-01-18T18:55:08.072Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "SPACE-SPEED, ALL ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
