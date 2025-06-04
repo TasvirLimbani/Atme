@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b44f",
+      "id": 2105,
+      "name": "Superhero Doll Hospital Recovery",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "superhero-doll-hospital-recovery",
+      "image": "2105",
+      "url": "superhero-doll-hospital-recovery",
+      "description": "Super Doll is on her way to fight another crime with her cute sidekick, but while they were flying our heroine crashed into a billboard. Hurry to the super secret hospital and heal Barbara! Super Doll got hurt really bad, so change her into a comfy robe and begin the treatment. Become Barbara`s superhero by disinfecting her wounds, getting rid of nasty sticks and placing casts, and she will be ready to save the day.",
+      "size": 800,
+      "height": 600,
+      "script": "//cdn.witchhut.com/html5/games/superhero-doll-hospital-recovery/190.html",
+      "metaTitle": "Superhero Doll Hospital Recovery, Doctor Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Superhero Doll Hospital Recovery at atmegame.com ! We have selected this Doctor games for best excitement and thrill in you!",
+      "metaKeyword": "Superhero Doll Hospital Recovery Game, Girls Games, Doctor Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.newvendor.com/",
+      "xmlFile": "multi_item_1521610088.xml",
+      "idealFor": "Man",
+      "likes": 44,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 26348,
+      "ownGame": false,
+      "addDate": "2018-03-21T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.702Z",
+      "updatedAt": "2024-04-23T05:50:15.039Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS TO TREAT",
+      "webControlKeys": "L-CLICK OF MOUSE TO TREAT"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
