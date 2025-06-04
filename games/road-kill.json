@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b378",
+      "id": 1879,
+      "name": "Road Kill",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "road-kill",
+      "image": "1879",
+      "url": "road-kill",
+      "description": "<div>Road Kill is an awesome and beautifully-designed car racing death game where you will have to complete the level while keeping your vehicle away from the other traffic that will try to slow you down. Use your driving skills and reach to the destination before the time runs out. You as a player have to perform different missions to progress through the storyline of the game. Is not exciting to commit several useful actions to increase your criminal ranks like creating a havoc in the town, destroying enemy vehicles and attacking rival gangs. </div><div><br></div><div>This free online car racing game starts with allowing you to choose a car of your choice. The speed of your vehicle increases as it passes other vehicles on the road. You would be given 60 seconds to complete the round of the game. Do not forget to collect the fuel on the way in order to keep going in this cool racing game for girls and boys. As the game progresses, you as a player will get a chance to face more challenges and hurdles on the road before reaching your final destination. </div><div><br></div><div>In this racing-packed game for kids, you are definitely going to have fun and thrill in unlimited amount. The more you play it, the bigger addict you will become of this brand new car racing game. Every level comes with unique challenges and surprises, so do not panic if the current round does not offer fun and entertainment as expected. You will get some extra surprised in the remaining rounds. Give your 100% and beat your previous score in this easy-to-play racing game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/de23bf702b70462f8d09770e7dd5599e/\r\n",
+      "metaTitle": "Road Kill, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Road Kill at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Road Kill Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 216,
+      "dislikes": 19,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 58157,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2025-02-11T20:50:43.927Z",
+      "__v": 0,
+      "mobileControlKeys": "L-R ICONS TO CONTROL THE CAR",
+      "webControlKeys": "L-R ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 24
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
