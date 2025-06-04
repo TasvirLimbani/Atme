@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b541",
+      "id": 2387,
+      "name": "Foosball",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "foosball",
+      "image": "2387",
+      "url": "foosball",
+      "description": "Foosball is a HTML5 Sport Game. Play against the CPU or challenge your friend and score the greatest number of goals! Two game’s mode: Scrimmage and Championship! Let’s get this match started!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/0f38da229ce44294b5aeaa52771b1608/\r\n",
+      "metaTitle": "Foosball, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Foosball at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Foosball Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524808838.xml",
+      "idealFor": "Man",
+      "likes": 42,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 12678,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-07-31T13:48:23.565Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS TO PLAY",
+      "webControlKeys": "W,S TO STOP THE BALL"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
