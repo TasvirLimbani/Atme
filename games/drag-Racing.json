@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9eb",
+      "id": 3665,
+      "name": "Drag Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "drag-racing",
+      "image": "3665",
+      "url": "drag-Racing",
+      "description": "Car games",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/drag-racing-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Drag Racing Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Drag Racing at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Drag Racing, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 77,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 25158,
+      "ownGame": false,
+      "addDate": "2018-10-16T17:26:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2024-12-02T09:48:35.257Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE BLUE ARROW TO ACCELRATE THE CAR WHEN THE SPEED NEEDLE REACHES TO THE BLUE OR GREEN INDICATOR",
+      "webControlKeys": "L CLICK OF MOUSE ON THE BLUE ARROW TO ACCELRATE THE CAR WHEN THE SPEED NEEDLE REACHES TO THE BLUE OR GREEN INDICATOR"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 14
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
