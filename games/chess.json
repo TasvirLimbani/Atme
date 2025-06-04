@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682adc6",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c43c",
+      "id": 6572,
+      "name": "Chess",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "chess",
+      "image": "6572",
+      "url": "chess",
+      "description": "<div>Do you think that you are a wonderful player of a chess? Are you a non-beating chess player in the group of your friends? If yes, you have come at the right place. We have brought to you brand new arcade challenge where you can practice your board playing abilities to the optimum possible level. Play alone against the computer or invite your friends to know who is the better player! Put your brain power and logical skills to the test to win each game!</div><div><br></div><div>When you click the play button, you can choose between the single player or multiple mode. In the single player mode, you will be assigned with the white pieces and your competitor computer will have the black pieces. Each player includes 16 pieces to begin the challenge: eight pawns, two knights, two bishops, two rooks, one queen, and one king. Plan a strategy to capture the king of another player to win in this HTML5 two-player game!</div><div><br></div><div>You will win the game when you capture the king of another player in a way so that he does not have any path to avoid the capture or exit. This condition will be called as the checkmated and game will be finished immediately. There are no time restrictions so you will have enough time to take your move. You can play this 8x8 grid board game online without download in your device. Good luck to beat your rivals in each mode and become the true chess champion!</div>",
+      "size": 450,
+      "height": 750,
+      "script": "https://games.atmegame.com/games/chess-game/",
+      "metaTitle": "Chess Game, Board - Play Online Free Games: Atmegame.com",
+      "metaDesc": "Play the online free game Chess at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Chess, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 3857,
+      "dislikes": 341,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 786515,
+      "ownGame": true,
+      "addDate": "2020-11-28T17:55:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-06-03T15:21:43.497Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO MOVE ",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO MOVE "
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 240
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682adc6",
+      "name": "board",
+      "slug": "board",
+      "icon": "icon-iconAsset-56"
+    }
+  }
+}
