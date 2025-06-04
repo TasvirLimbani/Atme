@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1aa",
+      "id": 5734,
+      "name": "Cat Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "cat-run",
+      "image": "5734",
+      "url": "cat-run",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you have a big crush on animal running games? Luckily, you have come at the right place since we have brought to you a brand new adventure challenge that can keep you entertained for hours. This beautiful cat will be more than happy if you give your helping hand to him. Join Cat Run and get ready to help this cute and lovely cat to run as fast as possible! Your objective in this cool endless running game is to control a street cat in your own way. We are sure that you will have a great fun while playing with this appealing animal. </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You will see him running rampage through the busy streets trying to grab some lovely fish bones to eat. Don?t forget to collect gold stars you see on the screen in this highly addictive fun animal game! Try to be extra careful while taking care of the deadly obstacles along the road! Move your cat using the left and right arrow keys on your keyboard or tapping the screen when you are playing it in your mobile phone or tablet. </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Use the coins to buy new different cat characters and other useful items to add more fun and excitement to your game! Do your best to hit the best score in this fun endless running game! There are various cat characters, new items, themes and accessories to explore. Hope you will help cat to cover the maximum possible distance! Try out more animal games here to excite your gaming senses to the fullest! Good luck to explore all games from where you can easily spot the one that suits your needs!</span></div>",
+      "size": 800,
+      "height": 590,
+      "script": "https://html5.gamedistribution.com/a2d44375d23b4c688a517beb83f875ba/\r\n",
+      "metaTitle": "Cat Run,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cat Run at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Cat Run Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557564016.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10649,
+      "ownGame": false,
+      "addDate": "2019-05-11T14:10:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2024-03-22T12:50:55.005Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W/UP ARROW/SPACE-JUMP,A/D/L/R ARROWS- LEFR RIGHT MOVE,S/DOWN ARROW TO ROLL"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
