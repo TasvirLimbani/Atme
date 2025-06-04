@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c386",
+      "id": 6386,
+      "name": "FZ Color Ball",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "fz-color-ball",
+      "image": "6386",
+      "url": "fz-color-ball",
+      "description": "<div>This green colour ball needs your help urgently! Would you give your helping to this needy cute and small green ball? Join FZ Color Ball and be prepared to help it to jump through the multiple obstacles! Your objective in this brand new arcade game is to control this jumping ball to avoid the spikes and make sure not to hit with any such obstacle otherwise you will lose the game. Try to land it only on the white colour rounded platform!</div><div><br></div><div>On the screen, you will see the green colour ball that will keep jumping automatically from one platform to another. Your job is to make sure that it does not touch any red colour rounded platform with spikes otherwise you will get out of the game. Make sure to practice your quick reflexes and sharp hand-eye coordination skills hard to set your best score. Track your present score by having a quick look at the top middle portion of the screen in this HTML5 jumping game!</div><div><br></div><div>Your every successful jumping from one platform to another will reward you with 1 point. So try to make your ball jump as many times as you can to set a high score and create your top position on the leaderboard. Track your present and best high score on the screen when your game is finished! In case if you get bored, feel free to check out our extensive collection of free arcade games to keep you busy for hours. We cater online games to play for gamers from all age groups.</div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/dd935e6d5df54077a089047a8723406f/\r\n",
+      "metaTitle": "FZ Color Ball Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game FZ Color Ball at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "FZ Color Ball Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842334.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9054,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2025-01-14T08:49:33.649Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS THE SCREEN AND RELESE TO JUMP TO AVOID PINS",
+      "webControlKeys": "PRESS AND RELESE THE LEFT CLICK TO JUMP AVOID THE PINS"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
