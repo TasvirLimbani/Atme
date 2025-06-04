@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5c2",
+      "id": 2534,
+      "name": "Highway Speed Moto Bike Driver",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "highway-speed-moto-bike-driver",
+      "image": "2534",
+      "url": "highway-speed-moto-bike-driver",
+      "description": "Highway Speed Moto Bike Driver, Bike Games<br>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/highway-speed-moto-bike-driver/index.php",
+      "metaTitle": "Highway Speed Moto Bike Driver, Bike Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Highway Speed Moto Bike Driver at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Highway Speed Moto Bike Driver Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 44,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 14591,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.711Z",
+      "updatedAt": "2024-03-08T04:22:13.409Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO DRIVE"
+    },
+    "rating": {
+      "rating": "4.7",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
