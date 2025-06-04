@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3f1",
+      "id": 6495,
+      "name": "Beachball Fun",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "beachball-fun",
+      "image": "6495",
+      "url": "beachball-fun",
+      "description": "<div>Do you want to challenge your brain and logical abilities during your stay at home or a lunch break at work? If yes, trying out Beachball Fun game can be a nice bet for you. We have brought to you a brand new arcade game where you have to drop all of the coloured balls into the bucket with the same colour. Uh! It sounds easy to handle, but difficult to become a master. Give this a try right away to know why people from across the world have fallen in love with it!</div><div><br></div><div>Your objective is to cut the chain in a way so that the ball reaches to its same colour bucket. Challenges keep getting difficult and complex as you progress in the game. Use your logical mind and puzzle-solving abilities to clear all the levels and become the best puzzle solver of your city! There are 20 unique and highly addictive levels to play through. Track your level by looking at the top corner of the screen! Track your time that is shown next to the level!</div><div><br></div><div>Drop all the balls in their right bucket as fast as possible to clear the level with the maximum score possible! Our website is also full of multiple mind-boggling and challenging arcade games that are available online for free to play. Choose any one that suits your interests and preferences and allow yourself to have high-quality fun without download! Browse through our extensive list of online games to pass your time at home, office or any place you are presently in!</div>",
+      "size": 940,
+      "height": 530,
+      "script": "https://html5.gamedistribution.com/578dff7852364c05a0e1b23147c08db3/\r\n",
+      "metaTitle": "Beachball Fun Game, Arcade - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Beachball Fun at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Beachball Fun Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842581.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 8643,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-01-18T15:45:12.207Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO CUT THE ROPE",
+      "webControlKeys": "LEFT CLICK TO CUT THE ROPE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
