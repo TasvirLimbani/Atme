@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2aa",
+      "id": 6101,
+      "name": "Knife Dart",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "knife-dart",
+      "image": "6101",
+      "url": "knife-dart",
+      "description": "<div>The best fun-filled action game is here to give you the optimum entertainment with the least possible clicks! But it needs insane shooting abilities and sharp focus skills to complete tasks. Would you think that you are able to take care of this job, perfectly? If yes, Knife Dart and gear up to play with the knives and test your shooting skills to the optimum possible level. In this latest action-packed challenge, you have to aim at the tree bark and throw your knives one by one.<br><br></div><div>Maybe it sounds that you can easily achieve your task. But, there are lots of complexities and problems you have to face during the gameplay. All you need to do is just get your fingers ready to throw knives at the empty spots. Make sure that each knife finds an empty space since you will lose your game immediately if it hits the previous knife. Try to use all the available knives to complete each level in this HTML5 shooter challenge!</div><div><br></div><div>Take your time and practice more to make your aim perfect! There are no chances of getting you bored since you would have multiple levels to play through, endless gameplay, easy controls, and cool graphics. Complete levels to earn coins and do not forget to buy new cool knives from the store to make your game more interesting! This fun arcade-like theme-based game is perfect for all irrespective of age and gender. Good luck to reach the boss in each level and unlock new knives and other goodies!</div>",
+      "size": 540,
+      "height": 960,
+      "script": "https://html5.gamedistribution.com/3299dbc531f440e4b4aeedf672b4714d/\r\n",
+      "metaTitle": "Knife Dart, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Knife Dart at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Knife Dart Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442796.xml",
+      "idealFor": "Man",
+      "likes": 272,
+      "dislikes": 8,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 81344,
+      "ownGame": false,
+      "addDate": "2019-09-26T01:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-04-21T10:53:11.910Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP SCREEN TO HIT THE KNIFE",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO HIT THE KNIFE"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 57
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
