@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c089",
+      "id": 5410,
+      "name": "Motorbike Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "motorbike-racing",
+      "image": "5410",
+      "url": "motorbike-racing",
+      "description": "<div><span style=\"font-size: 13.3333px;\">What could be better than getting you engaged in bike racing on a suburban road at thrilling speed? The racing track is absolutely unpredictable and features countless obstacles and unexpected turns. And, the most important thing is that you have to compete against the best racers of the world. Your opponents look very energetic and are not going to show sympathy on you as their primary goal is to win the race at any costs. Join Motorbike Racing game, win all races held during the gameplay and prove the world that you have a mastery in this task!</span></div><div><span style=\"font-size: 13.3333px;\">Get you ready to put your 100 percent efforts and bring the trophy of this popular motorbike competition to your home in this latest cool racing game! You have the guts to beat the professional bikers and win the grand prize. Over the main menu, a box will be displayed mentioning the options like race selection, vehicle selection and settings. Click the start button and dive into the biggest motorbike racing platform! The final result will be displayed on the screen once the race finishes.</span></div><div><span style=\"font-size: 13.3333px;\">No need to bother if you grab the last position in this html5 car racing game! Play it again and again to learn how to control your motorbike and secure the first positon in each competition! This 3D motorbike mobile game allows you to put your driving and concentration skills to test. Control your bike on a racing track perfectly to beat your opponents and grab the grand prize to surprise your friends! Play this car race game online on our website as many times as you want, without download app!&nbsp;</span></div>",
+      "size": 1000,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/54513f7cc4804177b899332d1a6d1a0d/\r\n",
+      "metaTitle": "Motorbike Racing,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Motorbike Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Motorbike Racing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552278458.xml",
+      "idealFor": "Man",
+      "likes": 85,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 18298,
+      "ownGame": false,
+      "addDate": "2019-03-11T09:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2024-09-07T11:07:55.238Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L ALT-PAUSE,W,A,S,D ALL ARROWS TO MOVE, C-CHANGE THE VIEW, "
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 25
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
