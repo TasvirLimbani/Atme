@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682adc2",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb62",
+      "id": 4068,
+      "name": "Tanko.io",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "tankoio",
+      "image": "4068",
+      "url": "tankoio",
+      "description": "<div>This brand new multiplayer IO game is full of action and thrill. Join Tanko.io and be prepared to control a tank and lead you to team towards victory and show off the world that no one fights like you do when it comes to the pride of your country! Select your side between the Soviet Union and Allies and get ready to enter this dangerous battlefield! Put your fingers on your mouse or tap the screen to shoot down all your enemy tanks to grow the size of your tank and become more indestructible!&nbsp;</div><div><br></div><div>Win each match by destroying the base of others team in this HTML5 tank game! Use your artillery strikes to deplete the health of the opposing teams base! The team that destroys the enemy base first will win the match. There are two teams of 5 players who will go head to head in this unique kind of warfare. Work as a team and do not forget to plan your strategy to win each level! Make sure to put your attacking and defense tactics to fight like a true hero.</div><div><br></div><div>Destroy the base of other one while defending your own base in this cool strategy game! With the successful destroying the base of other players, you would be able to earn upgrades. With MOBA-style gameplay, plenty of tank models to explore, multiple players and amazing power-ups, you can keep you busy for hours. Check out other free action-packed challenges that are available on our website and playable on different devices including desktops, mobile phones, tablets and iPads or iPhones, no download required!</div>",
+      "size": 1200,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/0096623d22314e98ac7af01cbd5dfeca/\r\n",
+      "metaTitle": "Tanko.io,  Adventure Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tankoio at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Tankoio Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 60,
+      "dislikes": 8,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12566,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2025-05-13T11:30:38.067Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARRROWS TO MOVE, L CLICK-SHOOT"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682adc2",
+      "name": "tank",
+      "slug": "tank",
+      "icon": "icon-iconAsset-56"
+    }
+  }
+}
