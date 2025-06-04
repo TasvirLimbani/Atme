@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8f5",
+      "id": 3403,
+      "name": "Tower Defense Super Heroes",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "tower-defense-super-heroes",
+      "image": "3403",
+      "url": "tower-defense-super-heroes",
+      "description": "Tower Defense: Superheroes is an arcade game in which a succession of superheroes from all corners of the Earth follows a specific path, at the end of which is your reserve of health points. Each enemy who reaches it will take some of your health points away. You?ve got a small team of super-villains with their own characteristics. Use them and give them a position on the field to take down as many superheroes as you can before they knock you out.\r\n",
+      "size": 600,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/417ed01156c744129768106f6e3cc555/\r\n",
+      "metaTitle": "Tower Defense Super Heroes, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tower Defense Super Heroes at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Tower Defense Super Heroes Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533887535.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 14276,
+      "ownGame": false,
+      "addDate": "2018-08-10T13:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-12-19T13:36:11.316Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
