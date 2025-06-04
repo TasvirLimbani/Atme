@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be58",
+      "id": 4834,
+      "name": "EBasket Ball",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "e-basket-ball",
+      "image": "4834",
+      "url": "e-basket-ball",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you ready to become the king or queen of the hoops? Join E Basketball game and be prepared to wear the crown of being the best basketball player in the world! Your primary objective in this brand new basketball game is to score as much as possible. Whether you are a lover of NBA, FIBO, Euro league or any other popular basketball tournaments, you can live out your dream of this sport to the fullest. Try to leave the ball at a perfect angle to get it through the hoop!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You can see the score and balls you have available as of now on the right side of the screen of this sports game. It is a wonderful time to become the master of balls and become a champion of physics. Exercise your finger muscles as much as you apply your brain by applying a proper hand-eye coordination skill in this html5 basketball game! Choose all the 10 balls to practice the best ball hooping and prove the world that you are a true sports champion!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Remember you would also have 15 different and colorful balls to unlock by hitting a targeted score in this free online shooting game. Click the menu button to pause your game! You can also go to the menu from there and click the play button to start your game again. The finest playground, lovely colorful background and awesome gameplay will keep you engrossed for hours. Good luck to have more fun and entertainment in our more online games that are free to play, no download required!</span></div><div><span style=\"font-size: 13.3333px;\">&nbsp;</span></div>",
+      "size": 800,
+      "height": 480,
+      "script": "https://m.shtoss.com/game/e-basket-ball/index.html",
+      "metaTitle": "EBasket Ball, Basketball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EBasket Ball at atmegame.com ! We have selected this Basketball games for best excitement and thrill in you!",
+      "metaKeyword": "EBasket Ball Game, Sports Games, Basketball Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546117752.xml",
+      "idealFor": "Man",
+      "likes": 32,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12193,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.742Z",
+      "updatedAt": "2025-01-19T01:51:47.518Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE AND HOLD TO SLEELCT THE DIRECTION ,AND RELEASE TO MAKE THE GOLE",
+      "webControlKeys": "KEEP PRESS L; CLICK OF MOUSE TO SELECT THE DIRECTION, RELESE TO MAKE THE GOLE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
