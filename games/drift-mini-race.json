@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb25",
+      "id": 4006,
+      "name": "Drift Mini Race",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "drift-mini-race",
+      "image": "4006",
+      "url": "drift-mini-race",
+      "description": "<div>It is time to challenge your drifting abilities! We are pretty sure that this brand new racing game will allow you to put your drifting skills to the test while having fun to the fullest. You would not be alone in this unique car racing challenge so get ready to complete against popular racers of the city. Join Drift Mini Race and be prepared to perform some wicked drift manoeuvres! Jump behind the wheel and grab your seat on the cute mini truck!</div><div><br></div><div>Hurry up friends! The track is already open and your enemy racers are waiting for your arrival. Try to make as sharp drifts as possible to create your own high score in this HTML5 car game! Checking out this unique racing challenge will help to make you think fast even in the dangerous situations. Get ready to drive your vehicle and race on your own and win the contest against another car! Do not waste your time as your drift skills will also be sharpened amazingly by playing this mini race game.</div><div><br></div><div>Make sure to leave all your rivals behind without crashing. Be careful since the difficulty level will keep on increasing with your stay in the game! Track your score on the top of the screen! Good luck to put your best to create your own new high score! Our website is full of multiple free car and truck racing games that you can enjoy and play on multiple devices including desktops, mobile phones, tablets and more, no download required.</div>",
+      "size": 1920,
+      "height": 1080,
+      "script": "https://html5.gamedistribution.com/b813f92f0d90402d822358bdf80b4e28/\r\n",
+      "metaTitle": "Drift Mini Race, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Drift Mini Race at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Drift Mini Race Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 29,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12551,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-03-25T15:17:06.625Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP L-R OF CAR TO CONTROL",
+      "webControlKeys": "L-R ARROWS TO CONTROL(NOT FITTING IN SCREEN)"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
