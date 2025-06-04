@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bc60",
+      "id": 4326,
+      "name": "Pumpkin Find Odd One Out",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "pumpkin-find-odd-one-out",
+      "image": "4326",
+      "url": "pumpkin-find-odd-one-out",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Hey guys! Are you a Halloween lover like us? We respect your feelings and have tried to get you covered today with a brand new arcade game where you can enjoy the spirit of the darkest night of the year in a unique style. Do you think that you are ready enough to tackle this task? Join Pumpkin Find Odd One Out and be prepared to find out the odd one from a huge collection of symbols! Keep your eyes on the screen to spot a little different from the other haunted Jack Oâ€™Lantern pumpkins!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to spot one pumpkin out of 24 to clear level and move towards the next level in this HTML5 puzzle challenge! There are 100 unique and challenging levels to play through and get you engaged for hours. The faster you find out all the odd pumpkins, the higher score you will be to make in the end. Remember it is a time based game so try to spot the odd pumpkin before the time runs out to stay in the game.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Completing each level fast will also help you to secure high score with 3 stars rating in this time-based puzzle game! In each level, you have to perform the same job so it can be tried out by anyone else. Make sure to spot the right pumpkin before the time runs out and clear all levels with 3 stars performance. We are happy to bring you closer to the top liked Halloween games for girls and boys and allow you to celebrate the spirit of your favorite festival while sitting comfortably at your home. Have quality fun together with us without download games on your device!&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/927f71ec53ae41f9bb4c2fb22a156509/\r\n",
+      "metaTitle": "Pumpkin Find Odd One Out,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pumpkin Find Odd One Out at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Pumpkin Find Odd One Out Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543990996.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8385,
+      "ownGame": false,
+      "addDate": "2018-12-05T11:53:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.735Z",
+      "updatedAt": "2024-01-19T02:50:39.812Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO FIND THE PUMKIM",
+      "webControlKeys": "L CLICK OF MOUSE TO FIND THE PUMKIN"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
