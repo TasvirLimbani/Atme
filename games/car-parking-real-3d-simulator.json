@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5d7",
+      "id": 2555,
+      "name": "Car Parking Real 3D Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "car-parking-real-3d-simulator",
+      "image": "2555",
+      "url": "car-parking-real-3d-simulator",
+      "description": "<p class=\"text_desc\">\nCar Parking: Real 3D Simulator is a 3D engaging racing game in which you have to drive and park your car to complete each level. Choose from two different sport cars and drive them through multiple checkpoints to park them safely on the given spot without hitting the obstacles before time goes away.<p>\n<p class=\"text_desc\">\nUse the map to navigate your vehicle through checkpoints and park it accurately while avoiding the crash through 25 unique and amazing levels.\n</p>\n<h4> \nKey Features:</h4>\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\"><li>\n<b>Multiple Car Options: </b>Go through several good options and choose a turbo sports coupe or a drift-capable 4x4 SUV and get yourself ready to explore the open game map with a freely mind.</li>\n<li><b>\nNavigate Different Checkpoints:</b> There are different checkpoints to navigate through so drive your vehicle precisely to reach the parking spot while improving your steering and parking abilities. </li>\n<li><b>\n25 Amazing Levels to Play:</b> Drive through 25 diverse and challenging levels packed with various environments, encompassing a tricky hill climb and a fast highway. </li></ul></p>\n<p class=\"text_desc\">\nThis free online 3D car driving simulator is good for all those individuals who want to improve their skills in a fun yet engaging environment. The realistic mechanics, intuitive controls and cool graphics of the game will be enough to keep you busy throughout the day. </p>\n<p class=\"text_desc\">\nNavigate through the city, climb a steep hill or speed down a highway as you meet with the new challenge of the level. Accept each challenge, put your driving abilities to the test and get yourself ready to become a parking pro in this one of the best 3D simulation games for boys and girls!\n</p>\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/car-parking-real-3d-simulator/index.php",
+      "metaTitle": "Car Parking Real 3D Simulator, Parking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Car Parking Real 3D Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Car Parking Real 3D Simulator Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 8854,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.712Z",
+      "updatedAt": "2024-07-25T12:39:07.951Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "SPACE- BREAK, C- CHANGE VIEW, WA,S,D ALL ARROWS - MOVE"
+    },
+    "rating": {
+      "rating": "3.1",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
