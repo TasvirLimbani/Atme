@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c024",
+      "id": 5306,
+      "name": "KOGAMA Reach The Flag",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "kogama-reach-the-flag",
+      "image": "5306",
+      "url": "kogama-reach-the-flag",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The best adventure fun we have come today for you, friends!! All you need to do is just put your fingers on your keyboard, mobile or tablet and get ready to enter the battlefield where you have to fight against the dangerous players from all across the world. Kogama Reach the Flag is going to prove to be a wonderful treat for all serious KoGaMa games lovers. Of course, your quick reaction and good control on the keys will guide you towards the victory.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this one of the best adventure games for kids is to reach the flag in the shortest possible time. Try to challenge your ultimate running skills, reach the destination first and hold the top of the scoreboard! Enemies will try to stop you from moving forward. Plenty of flags across the map will be there to explore in this cool html5 platform game. Do not run in a hurry! Focus on reaching all of them step by step!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Lots of deadly obstacles are waiting for you on the large terrain. These hindrances can be in the form of moving walls, pits, or slippery paths. Compete the worldwide popular players and find your way to reach the flag first! This one of the best 3D multiplayer games includes Parkour-style gameplay and various platforms with a unique function. Move your character using arrow keys or WASD, jump with space bar or suicide through K. Good luck to help your character to complete this adventurous journey!!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/c97a575d05b44b34ba7b1ca46b7aa78b/\r\n",
+      "metaTitle": "KOGAMA Reach The Flag,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game KOGAMA Reach The Flag at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "KOGAMA Reach The Flag Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352477.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7194,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:11:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.749Z",
+      "updatedAt": "2023-08-30T06:04:18.270Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D,AOR ARROWS TO MOVE, SPACE-JUMP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
