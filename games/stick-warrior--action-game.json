@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c317",
+      "id": 6222,
+      "name": "Stick Warrior Action Game",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "stick-warrior--action-game",
+      "image": "6222",
+      "url": "stick-warrior--action-game",
+      "description": "<div>How the world will look like if you find stickmen everywhere? Today we have got you covered with a brand new action-packed challenge where you will plenty of bad stickmen to deal with. Are you ready to go on this amazing, fun-filled crazy adventure? Join the Stick Warrior Action game and be prepared to play the role of a brave fighting champion! Hit your opponents by just taping on the left or the right side of the screen! There are countless warriors to beat and blast for you, champion.</div><div><br></div><div>Make sure to tap at the exact and perfect moment to clear as many rivals as you can. The larger number of opponents you will kill the higher score you will be able to make in the end. Do you have a dare to get a top score until you meet your death? Common friends! All it takes to challenge your enemy-facing abilities to attack you from multiple sides to score high in this HTML5 fighting game.</div><div><br></div><div>Tune your reflexes and try out to take your combat skills to the new level to win each fight confidently! Get you ready to participate in epic fights with the extremely popular stick characters in this cool fight game! Be careful and try to react fast to make them explode in the air! Make sure to destroy all your rivals that you see along your way to reach a higher score. Attack multiple enemies after choosing your avatar and powerful weapons! Do you have enough cold blood to survive in this stickman fighting puzzle?</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/1a9ae5e8d82a4486a9189d887043c31e/\r\n",
+      "metaTitle": "Stick Warrior Action Game Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stick Warrior  Action Game at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stick Warrior Action Game Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579513428.xml",
+      "idealFor": "Man",
+      "likes": 158,
+      "dislikes": 56,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 14494,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2025-05-26T03:33:46.250Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH LEFT AND RIGHT TO THE SCREEN TO HIT",
+      "webControlKeys": "NOT RUNNING IN WEB VERSION"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
