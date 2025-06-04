@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae92",
+      "id": 196,
+      "name": "Singh Is King",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "singh-is-king",
+      "image": "196",
+      "url": "singh-is-king",
+      "description": "The adventure online Singh is King <span style=\"font-size: 13.3333px;\">game </span>is a witty and fun filled answer that India politics can be topic of a fun filled online free adventure game as well. The humorous stake of Indian politics has been touched through the different games and activities here. The turbulent situation of the former prime minster has been stated here, who, always had been at the tirades of the opposition parties.<br><br>The game play of Singh is King is set in an environment within the free adventure game as it appears that you as an advisor to Manmohan singh sort out his all trouble and problems. The ManMohan Singh running towards the crowd as his saviour to his post is facing a number of obstacle primarily socio-political like farmer suicide, growing inflation, opposition from other parties, the Indo-USA nuclear deal and so on<br><br>To overcome these obstacles, you will have to guide Manmohan Singh with the help of keyboard controls. However, in offering the protection from the problem you must be wary of the chasing opposition parties. Failure in tacking the issue ahead or the opposition party will cost the PM dearly as resulting into the loss of power and majority in parliament in this latest free adventure game online.<br><br>The controls of this adventure game are very easy and simple in this fun adventure game contrary to Indian politics. Employ arrow keys to run, jump and duck the obstacles. Use the right arrow key to run, the Up arrow key to jump and the down arrow key to duck the hurdles.",
+      "size": 650,
+      "height": 0,
+      "script": "<object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0\" id=\"g2wgame1\" width=\"650\" height=\"487.5\">\r\n                                <param name=\"movie\" value=\"https://static.inviziads.com/games/arcade-games/singh_is_king.swf;\"></param>\r\n                                <param name=\"quality\" value=\"high\"></param>\r\n                                <param name=\"menu\" value=\"false\"></param>\r\n                                <param name=\"allowScriptAccess\" value=\"always\"></param>\r\n                                <embed quality=\"high\" pluginspage=\"https://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" menu=\"false\" src=\"https://static.inviziads.com/games/arcade-games/singh_is_king.swf\" height=\"487.5\" width=\"650\" allowScriptAccess=\"always\"></embed></object>",
+      "metaTitle": "Singh Is King, Running Games - Play Online Free : Atmegame",
+      "metaDesc": "The running game Singh is King is a fun filled online free adventure game that in a form of game is a satire on the Indian political scenario and its activites.",
+      "metaKeyword": "Singh Is King, Adventure, Running, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 88,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 14091,
+      "ownGame": false,
+      "addDate": "2016-07-05T08:36:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.665Z",
+      "updatedAt": "2024-01-12T19:56:10.337Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 12
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
