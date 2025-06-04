@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c068",
+      "id": 5376,
+      "name": "High Hills",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "high-hills",
+      "image": "5376",
+      "url": "high-hills",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is time to try out the best car racing games online where nothing exists except lots of fun and thrilling hours. Trying out High Hills game can be a nice bet especially if you want to give your gaming senses some twist and extra pleasure! Your objective in this brand new car game is to drive up and down while also focusing on collecting as many coins as possible. Make sure to grab the fuels to keep you moving forward and clear level successfully.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">The best thing is that you can also play this game on any of your favorite game devices, be it a PC, an android phone, gaming console or an iPad and iPhone. It takes putting your utmost driving abilities to challenge to become a master of a track that is full of dangerous spikes, tricky obstacles and steep hills. Be prepared to make a flip if needed to collect the bonus and add more coins to your final score. You can use those coins to buy new vehicles in this cool html5 car game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Do not forget to avoid sharp objects or roll in a ball to continue your thrill in this hot car race game for boys! You might end up with losing your game if make the flips wrongly. Drive your car without crashing it on your way to cover the maximum distance during your journey! Play this super addictive driving game again and again to beat your high score and become a champion of car racing! Play more cool stunts games on our website to make the most out of your free hours!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://play.famobi.com/high-hills/A-925FD",
+      "metaTitle": "High Hills, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game High Hills at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "High Hills, Play Free Games, Play Online Free Games, Car Games, Car Racing Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 119,
+      "dislikes": 12,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 20892,
+      "ownGame": false,
+      "addDate": "2019-02-19T12:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2024-12-06T12:56:07.816Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP OR SWIPE ON SCREEN TO MOVE",
+      "webControlKeys": "UP ARROW,SPACE, L-R CLICK OF MOUSE TO RUN"
+    },
+    "rating": {
+      "rating": "2.6",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
