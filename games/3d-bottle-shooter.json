@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0d9",
+      "id": 5496,
+      "name": "3D Bottle Shooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "3d-bottle-shooter",
+      "image": "5496",
+      "url": "3d-bottle-shooter",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Not every bottle shooter offers such kind of fun and thrill as you are going to have with this brand new action packed puzzle! Victory will only be yours if you try to challenge your precision and quick reflex skills! Believe us; you cannot stop yourself from checking all its levels after entering 3D Bottle Shooter once in your lifetime! It features an excellent gameplay combined with cool graphics and soothing music. You will be amazed by aiming and shooting glass bottles in different levels.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This html5 shooting game is highly engaging and addictive. Joining this gun shooter will allow you to listen to the harmonic sounds of glass shattering! Your objective is to aim your target precisely to compete each level with 3 stars. The stunning 3D graphics and addictive gameplay will be enough to keep you engrossed for hours and hours. Hit all bottles and try to become an expert in this 3D first person shooter!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">There are 30 unique yet exciting levels to explore in this html5 game. Complete your target before you run out of bullets! Challenge your accuracy to earn more stars. Pay attention to details and focus on the screen to small all of the bottles in this one of the best bottle games for kids! Do not wait anymore! It is time to show your shooting ability to the entire world. We wish you to hit the best score on the board today in this mobile game. Keep your fingers tight on your keyboard or mobile phone to check our new action games right away!</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/f1075595baab420f9a9aab3e0d62c71f/\r\n",
+      "metaTitle": "3D Bottle Shooter, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 3D Bottle Shooter at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "3D Bottle Shooter Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453232.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11506,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2024-10-02T02:13:03.043Z",
+      "__v": 0,
+      "mobileControlKeys": "DRAG THE SCREEN TO AIM FOR THE TARGET",
+      "webControlKeys": "PRESS LEFT CLICK OF MOUSE TO MOVE, RELESE TO SHOOT"
+    },
+    "rating": {
+      "rating": "1.8",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
