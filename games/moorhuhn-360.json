@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b507",
+      "id": 2306,
+      "name": "MOORHUHN 360",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "moorhuhn-360",
+      "image": "2306",
+      "url": "moorhuhn-360",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Luckily we are living in a world where there is no shortage of the online fun activities for kids and grown-ups. Today we have brought to you a brand new action-packed challenge that is designed for all irrespective of their age group. If this is the case, then it does not make sense to wait anymore. Join MOORHUHN 360 game right away to get you involved in an environment that is filled up with unlimited fun and entertainment!</span></div><div><span style=\"font-size: 13.3333px;\">In this immersive HTML5 shooting game, you would have plenty of birds to play with. Keep your fingers on the mouse or tap the screen to shoot down the birds in any direction! These Moorhuhn birds are very fast and can fly from left to right and vice-versa. The entire village depends on your shooting skills so make sure to shoot a good number of flying chickens to feed all of them. Be careful and try to kill as many chickens as you can since you have only 90 seconds to use in this shooter!</span></div><div><span style=\"font-size: 13.3333px;\">Do not forget to reload your bullets when you run out of them. The left top corner of the screen will show your time while the right top corner of the screen will show how many birds you have been shot so far. Killing the nearest birds will give you 5 points while the furthest ones will worth 10 points. The scenery background, soothing birds whistling sound, easy controls and seamless gameplay will be enough to provide you with the unlimited fun hours. Our website covers countless free arcade games that are playable on multiple and latest browsers and devices.&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/e882702b27904e4e967d9bf589324461/\r\n",
+      "metaTitle": "MOORHUHN 360, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game MOORHUHN 360 at atmegame.com ! We have selected this shooting games for best excitement and thrill in you!",
+      "metaKeyword": "MOORHUHN 360 Game,  Games, shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 8756,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-04-06T00:09:36.803Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": "L CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
