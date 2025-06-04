@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbbe",
+      "id": 4163,
+      "name": "Christmas Vehicles Jigsaw",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "christmas-vehicles-jigsaw",
+      "image": "4163",
+      "url": "christmas-vehicles-jigsaw",
+      "description": "<div>The combination of your favorite festival and tricky puzzle challenges could be enough to keep you entertained for hours. Here today we have brought to you a brand new arcade game where you can celebrate the spirit of your favorite festival by solving the Christmas-based jigsaw-puzzles. Are you ready to try your hands in this unique online game? Join Christmas Vehicles Jigsaw and be prepared to be surrounded by all the lovely festive things like Santa Claus, Christmas tree and more!</div><div><br></div><div>Different lovely puzzles feature wonderful pictures of Christmas gifts, decorations, gingerbread people and more. There are easy, medium and hard modes to choose from when you click the play button and enter this HTML5 jigsaw puzzle game. In easy mode, you have a few picture pieces to connect while you would have a good number of pieces to connect with each other in the hard mode. No need to worry if you get confused or stuck since you can click the hint button to see the picture again during the gameplay.</div><div><br></div><div>The easy mode features 25 pieces, while the medium mode includes 49 pieces and hard mode will have 100 pieces to connect. Start with the easy mode first and then move to the advanced level in this cool Christmas challenge! Change difficulty setting, play wisely and enjoy some fun rewards in each puzzle! Browse through our wider array of free arcade games to find some more interesting and engaging titles in case if you seek for extra fun and thrill and celebrate the spirit of this holiday in another way!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/6d1b37ee0484475ea573b8831a233b4c/\r\n",
+      "metaTitle": "Christmas Vehicles Jigsaw Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Christmas Vehicles Jigsaw at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Christmas Vehicles Jigsaw Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543658660.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7567,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.733Z",
+      "updatedAt": "2024-07-23T04:30:58.961Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SCREEEN TO SOLVE THE PUZZLE",
+      "webControlKeys": "L CLICK OF MOUSE TO SOLVE THE PUZZLE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
