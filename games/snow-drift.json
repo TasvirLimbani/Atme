@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c22d",
+      "id": 5928,
+      "name": "Snow Drift",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "snow-drift",
+      "image": "5928",
+      "url": "snow-drift",
+      "description": "<div>Snow is spreading everywhere. And, you have also forgotten to carry the shovel during that time. Luckily, your car is with you, so get ready to take chances and challenge the snow and complete the mission of the game without being collided with anywhere else. We are sure that you are having lots of fun in this one of the best racing games for kids. Read all the instructions carefully to take full control of your car and knock out all the snow monsters! Join us today to become a drift master!</div><div><br></div><div>Snow Drift is a brand new car drifting game where your mission is to clear up all of the snow. Choose from different car models and practice your car drifting skills. It will be amazing to get into multiple cool levels and beat then with your full of concentration and focus. Complete the course by drifting your vehicle in this free online car game! Also, shovel the snow to clear the level and move to the advanced one. Get ready to meet with a challenge in this classic drifting challenge where driving and physics are realistic!</div><div><br></div><div>With 40 challenging levels, you have lots of chances to improve your car driving skill and keep you engrossed for hours. In this realistic HTML5 physics-drifting game, you will have different nine car models to choose. Enjoy exploring this new racing game in your full screen in different platforms, including web browsers and android phones! Our website features countless top car games for boys. Feel free to play them one by one to give yourself a true car driving challenge!</div>",
+      "size": 475,
+      "height": 850,
+      "script": "https://html5.gamedistribution.com/a5a200be3f4c482a89187eb0fc22b279/\r\n",
+      "metaTitle": "Snow Drift,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Snow Drift at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Snow Drift Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762523.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13701,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.756Z",
+      "updatedAt": "2024-03-02T11:25:41.958Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ALL ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "2.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
