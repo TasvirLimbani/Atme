@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af14",
+      "id": 500,
+      "name": "Sprint Club Nitro",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "sprint-club-nitro",
+      "image": "500",
+      "url": "sprint-club-nitro",
+      "description": "<div>Sprint Club Nitro game is an exclusively-designed and easy-to-operate free fun 3D online racing game. In this latest Formula 1 car racing game, you need to control your car while accelerating your vehicle using the arrow keys. Get up and compete in one of the most popular races against 19 other expert drivers who are from various leading locations across the world. This flash game features a wide variety of different challenging tracks, some awesome vehicles to choose from and brilliant 3D graphics</div><div><br></div><div>In this exclusively-designed free online game, you have to start each race right from the last position. Take your seat, and drive your vehicle like a pro in order to achieve the first position. All you need to accelerate your vehicle until you reach the top of the Sprint Club. The fun and excitement will surely be very high when you get a chance to face with nine increasingly challenging levels all across 3 various landscapes. Do not forget to use the nitro to boost your speed and overtake your rivals on the racing track.</div><div><br></div><div>With the points you collect in this highly popular flash game, you can upgrade your car to enjoy the top speed and better grip to make your way towards the victory. You can also save your game progress for the further plays. Run your beautifully-designed car until you reach the finish line. Sprint Club Nitro game will allow you to travel through the desert, city and forest. So, what are you waiting for? Get ready to burn your tires to secure your first position in this high-speed car racing game.</div>",
+      "size": 800,
+      "height": 457,
+      "script": "https://play.famobi.com/sprint-club-nitro/A-925FD",
+      "metaTitle": "Sprint Club Nitro, Car Racing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sprint Club Nitro at atmegame.com ! We have selected this Car Racing games for best excitement and thrill in you!",
+      "metaKeyword": "Sprint Club Nitro, car racing, car racing game",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 369,
+      "dislikes": 29,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 48806,
+      "ownGame": false,
+      "addDate": "2017-07-23T14:03:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.668Z",
+      "updatedAt": "2025-02-11T20:52:09.490Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R OF SCREEN TO CONTROL THE CAR",
+      "webControlKeys": "L CLICK OF MOUSE TO CONTRL THE CAR"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 28
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
