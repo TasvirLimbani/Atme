@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4b8",
+      "id": 2220,
+      "name": "Jetpack Rusher",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "jetpack-rusher",
+      "image": "2220",
+      "url": "jetpack-rusher",
+      "description": "Strap on a bullet-powered jetpack! Strap on a bullet-powered jetpack to dodge lasers, electric fields and all the missiles that come your way. Get a boost along the way. Collect coins and buy new suits for Clarry\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/fa2ecd1d2d18473b96b9103e564117ec/\r\n",
+      "metaTitle": "Jetpack Rusher, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jetpack Rusher at atmegame.com ! We have selected this Flying games for best excitement and thrill in you!",
+      "metaKeyword": "Jetpack Rusher Game, Action Games, Flying Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524804862.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 8227,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:24:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2024-03-21T16:06:46.775Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRES ON THE SCREEN TO FLY, RELESE TO DOWN",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO FLY, RELESE TO DOWN"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
