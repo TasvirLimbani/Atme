@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c35e",
+      "id": 6327,
+      "name": "City Taxi Driver Sim",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "city-taxi-driver-sim",
+      "image": "6327",
+      "url": "city-taxi-driver-sim",
+      "description": "<div>Are you ready to take care of the responsibilities of a taxi driver? If so, you have reached at the right place. Today we have got you covered with a brand new racing challenge where you have to play the role of a decent taxi driver. Your objective is to pick up a passenger from a one place and drop him or her to another location in City Taxi Driver Sim. Controls are very simple and gameplay looks very smooth and seamless.</div><div><br></div><div>Drop your each passenger on time to complete each level! You will be given 4 minutes to complete your task in each level. Make sure to keep your eyes on the screen and do not forget to disobey any traffic rules otherwise you will lose. Remember the US government has set very stringent rules for those who drink and drive. So take care of it otherwise you will get caught by their police. Deal with every passenger softly till the time he or she stays with you.</div><div><br></div><div>Every successful passenger drop will reward you with some money. Do not forget to use that money to buy a new taxi for you in this HTML5 car game. Common boys! We know that your insane driving abilities will help you through all the hurdles and become a professional city taxi driver. Play this thrilling taxi game on multiple gaming devices without download! Give it a try on full-screen to avoid any distractions!</div>",
+      "size": 960,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/141347d552514222a953e0d2c7b4257d/\r\n",
+      "metaTitle": "City Taxi Driver Sim Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game City Taxi Driver Sim at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "City Taxi Driver Sim Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579523644.xml",
+      "idealFor": "Man",
+      "likes": 50,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11294,
+      "ownGame": false,
+      "addDate": "2020-01-20T18:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2024-11-06T19:13:42.104Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO CONTROL THE CAR, SPACE TO BREAK"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 14
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
