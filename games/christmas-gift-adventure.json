@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3b7",
+      "id": 6437,
+      "name": "Christmas Gift Adventure",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "christmas-gift-adventure",
+      "image": "6437",
+      "url": "christmas-gift-adventure",
+      "description": "<div>Both winter and festive season come at a same time when Christmas occurs! You hardly would like to miss out any opportunity that keeps you away from enjoying the spirit of your favourite holiday. So why do not you avoid playing out this brand new adventure challenge? Join Christmas Gift Adventure and be prepared to enter an environment where there will be no space for anything rather than lots of presents, fun and the most in-demand Santa! The intuitive controls and simple gameplay will keep you glued to the screen for long.</div><div><br></div><div>Do not waste your time anymore! The lovely and charming Santa is waiting for your immediate help. All you need to do is just guide him to shift from one platform to another while collecting a good amount of gift items. Try to grab as many presents as you can to increase your score in this HTML5 platform game! Make sure not to stay at the top of the screen for long otherwise you will lose. Also try not to make him fall of the screen to stay in the game.</div><div><br></div><div>Be careful and complete your task as soon as you can since the cute and charming children are deliberately waiting for Santa! The platforms will keep moving from downward to upward so try to make him jump fast before he touches to the top of the screen. The longer you stay, higher score you will create. Good luck to challenge your quick-reflexes and jumping abilities to prepare your best new high score! There is no need to download this Christmas puzzle challenge to enjoy during your free hours. Play it online for free to get unlimited fun!</div>",
+      "size": 480,
+      "height": 854,
+      "script": "https://html5.gamedistribution.com/6781ecc89e5e44a68a3f025a6f0c98bb/\r\n",
+      "metaTitle": "Christmas Gift Adventure Game, Platform - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Christmas Gift Adventure at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Christmas Gift Adventure Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842458.xml",
+      "idealFor": "Man",
+      "likes": 39,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 20161,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-01-17T04:39:25.880Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SANTA TO CONTROL FROM FALLING ",
+      "webControlKeys": "CONTROL THE DIRECTION OF SANTA BT LEFT CLICK "
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
