@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf86",
+      "id": 5141,
+      "name": "Cars Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "cars-simulator",
+      "image": "5141",
+      "url": "cars-simulator",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The biggest fun and thrill is here with this 3D Car Simulator! Are you ready to experience it in a more immersive racing environment? Join Cars Simulator and get ready to test all your knowledge and skills you have learnt about how to operate a car! In this brand new racing game, you will have to control 3 beautiful cars. There are 3 wonderful environments you will have to explore in a way you have not experienced before.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to test and show off your intense driving skills in this one of the best fast-paced car driving simulator! Select from one of the three wonderful maps you will be given and also make a decision which car you want to choose between an old car, a police car or a rally car! Once you finalize your decision, get ready to introduce you with the clean roads and show off your death-defying stunts at breakneck speeds. It will be amazing to explore the exceptionally detailed 3D environments in this one of the best car games for kids.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Prove the world that you are skilled enough to dominate the roads through your intense car driving skills. This html5 car stunts games features three unique cool car models, smooth handling, smooth graphics for Mac users and 3D realistic graphics and effects. Browse through our wider collection of racing games to spot some more interesting and challenging tracks to take your fantasy for speed to the next level! Enjoy our all car drifting games for free to play without downloading!</span></div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/eac1f4dcd8f649f4af383863c3f4c199/\r\n",
+      "metaTitle": "Cars Simulator,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cars Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Cars Simulator Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545466.xml",
+      "idealFor": "Man",
+      "likes": 119,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 27845,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:14:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2025-01-24T03:23:48.283Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D, ALL ARROWS TO MOVE,SPACE-BREAK,C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
