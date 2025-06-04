@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb48",
+      "id": 4042,
+      "name": "Skid Cars",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "skid-cars",
+      "image": "4042",
+      "url": "skid-cars",
+      "description": "<div>Do you think that you have amazing car driving abilities?&nbsp; Can you skid car in a way like no else does? Join Skid Cars and be prepared to driving a cute and little car on a round-shaped track! Make sure to avoid the crash with mad cars that will keep moving and running on the opposite direction of your car. The only way to keep your vehicle away from these mad vehicles is to keep our eyes on the screen all the time!</div><div><br></div><div>Just click the screen through your mouse when you explore it on your desktop or tap the screen while trying it in your mobile phone to change the track of your vehicle! Try to click the screen timely to help your car complete the circle! Your highest score will depend upon how many circles you complete. Grab the clock to let your car move at slow speed in the circle! The speed of the game will keep increasing when you progress in this html5 racing game.</div><div><br></div><div>Also keep your eyes on the keys to boost your score in the end! Drive your car like a true racer to create your best high score! Collect all the good things on your way to buy new models and make your gameplay quite challenging and interesting! Our website is full of free racing games that are worth playing on multiple devices without download. Give them a try one by one to find out the best car racing challenge!</div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/b6113256b5bd40ed959c072643aef275/\r\n",
+      "metaTitle": "Skid Cars, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Skid Cars at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Skid Cars Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951839.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9789,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-03-17T04:32:42.081Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE SCREEN TO CHANGE THE DIRECTION OF CAR",
+      "webControlKeys": "L-R CLICK TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
