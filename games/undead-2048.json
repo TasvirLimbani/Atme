@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd46",
+      "id": 4558,
+      "name": "Undead 2048",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "undead-2048",
+      "image": "4558",
+      "url": "undead-2048",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Halloween is a big celebration to have fun and make your mood fresh. Today we have got you covered with a brand new arcade game where a scary horror castle is waiting for you. Surround yourself with lots of courage and get ready to face off some scary moments like never before! Your goal is to combine pairs of demons, ghost and monsters and solve puzzles for as long as possible in the latest version of the 2048 classic puzzle.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Make sure to merge the monsters of the same look to make them evolve and create some empty space before these blood-thirsty souls attack you to finish your life. Be careful and try to mix all the pumpkins and send all of them to the Hell itself! This spooky Halloween theme game is full of ghoulish and creepy characters that would make the environment scarier than you thought of. Keep combining creatures together to prepare a more powerful version of the monsters!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">There are two highly challenging and addictive modes including normal and survival to play through. Use the coins to upgrade your creature instantly in case of being stuck or get confused at any point during the gameplay in this html5 puzzle challenge! Enjoy two game modes and undead creatures like witch and skeleton! You can try out this Halloween monster game on multiple devices, including desktops, mobile phones and tablets. Have a wonderful gaming experience on atmegame.com without download!</span></div>",
+      "size": 360,
+      "height": 640,
+      "script": "\nhttps://html5.gamedistribution.com/57dae79781e740afb9b8bab342a75003/\n",
+      "metaTitle": "Undead 2048, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Undead 2048 at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Undead 2048 Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7211,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-02-06T23:53:37.822Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "MERGE TO IMAGES OF SAME TYPE TO  UPGRADE "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
