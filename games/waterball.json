@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfd0",
+      "id": 5219,
+      "name": "Waterball",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "waterball",
+      "image": "5219",
+      "url": "waterball",
+      "description": "<div><span style=\"font-size: 13.3333px;\">A unique type action-packed challenge is ready to please you and give you some priceless fun hours. We can say that you should not miss it out especially if waterball fight appeals you the most. The best part is that you can play with a ball in water without going outside. So, what are you waiting for? Join Waterball game and make this summer the most memorable with some cool fun hours! It is not as tricky as you thought of.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">All you need to do is just shoot your enemies with the water balloons available in your inventory. You will have ten lives to fight against your enemy animals. Keep shooting one by one with the available 10 balloons. Do not worry you can reload your balloon again if they are finished in this one of the best shooting games for kids! When the game finishes, a screen will be displayed showing your present score, game playing accuracy and best score.&nbsp;</span><span style=\"background-color: transparent;\">You can click the home button to go the home page directly or also start playing it again by clicking the replay button.</span></div><div><span style=\"background-color: transparent;\">&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your enemy can appear anywhere on the screen. Sometimes they look very close to you, while other times at the far distance. You will have a short time to aim your target. So, try to do it fast before enemy animals shoot you. Be prepared to put your shooting and brain skills to challenge to win this cool html5 balloon game! We have plenty of other free games to play to cheer up your mood and deliver a great amount of pleasure. Good luck to have a blast online without download!!</span></div>",
+      "size": 550,
+      "height": 400,
+      "script": "https://html5.gamedistribution.com/bfcd0b79ae33416f80328a9dc9c0e1e3/\r\n",
+      "metaTitle": "Waterball,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Waterball at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Waterball Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352188.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8345,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2023-12-18T01:14:10.283Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON BALLONS TO HIT",
+      "webControlKeys": "CLICK ON THE BALLON TO HIT"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
