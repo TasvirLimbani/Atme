@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1a9",
+      "id": 1328,
+      "name": "Boat Rush",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "boat-rush",
+      "image": "1328",
+      "url": "boat-rush",
+      "description": "<div>Roll up your sleeves and get ready to try your hands in one of the best adventure games for boys! We are talking about Boat Rush, which has already made a big sensation in the world of online gaming. Be it a kid, a teenager or an adult – everyone wants to play this brand new escaping game. Join it right away to get the pleasure of becoming a part of the world’s most played and interesting adventure game! Use your skill and create a new record this time!</div><div><br></div><div>In this free online fun skill game, you will be given a seat in a supercharged boat. Ride it through the twisting rivers and canals full of obstacles! Your aim in this game is to travel as much distance as you can to score the maximum points. Right from riding your boat at death-defying speeds to beating the life-threating obstacles – you will get a chance to do a lot more in this fun online reaction game. Speed, stunts and skills will be your best allies to overcome the hurdles and reach the destination point.&nbsp;</div><div><br></div><div>Also take care of collecting the coins and stars that you see on your way to add some extra points to your final score. Make sure to grab the bullets and power-ups to clear your way. Focus on the game and dodge all the hindrances right from pirates and rocket launchers to mines and rocks! Use your driving skill to race around the water while leaving the bad boats behind. Feel free to increase your speed around the river to collect more stars! Enjoy a global and friend’s leader board where you can compete for high scores!&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/dcba8096486947a8a27243b965cdae30/\r\n",
+      "metaTitle": "Boat Rush, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Boat Rush at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Boat Rush Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299458.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 8273,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.687Z",
+      "updatedAt": "2024-09-30T05:29:17.777Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP L-R SIDE SCREEN TO MOVE AND ICONS TO SHOOT",
+      "webControlKeys": "L-CLICK OF MOUSE/L-R  ARROWS TO MOVE,SPACE TO SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
