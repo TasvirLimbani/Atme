@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad9b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c430",
+      "id": 6560,
+      "name": "Stack Jump",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "stack-jump",
+      "image": "6560",
+      "url": "stack-jump",
+      "description": "<div>This boy has a dream of jumping and reaching to the highest place and explore the wonderful scenery of this awesome city. Would you like to help him out to achieve his dream goal? Join Stack Jump and be prepared to control a boy to jump on stacks of bricks perfectly! Make sure that your boy does not hit any platforms otherwise you would lose your game immediately. Challenge your quick reflexes to be the ultimate stack jumper in this brand new adventure game!</div><div><br></div><div>Try to time your jumps perfectly to make hi land safely on the next platform in this one of the best HTML5 jumping game! Your multiplier will be increased if you succeed in making a perfect jump. This will help you to get a top score fast and prove you as a nice jumper of the city. Stay focused to make a jump at the correct time, score some points and unlock new characters in this free online game! Your good performance will also help to earn another jumper to jump on stacks.</div><div><br></div><div>Click or tap the screen to make your boy jump on each stack of bricks in this cool jumping game! Good luck to make him climb high to create your best new high score! We are pretty sure that you will guide him to build the biggest tower imaginable. Put your sharp reflexes and hand-eye coordination skills to the test to clear through all 6 levels in this endless jumper! Check out our wider HTML5 skill game range to find out the best funny and entertainment platform!</div>",
+      "size": 425,
+      "height": 750,
+      "script": "https://games.atmegame.com/games/stack-jump/",
+      "metaTitle": "Stack Jump Game, Jumping - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Stack Jump at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Stack Jump, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 4807,
+      "dislikes": 311,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 1361486,
+      "ownGame": true,
+      "addDate": "2020-11-21T17:14:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-04-30T10:51:58.780Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO JUMP ON THE BOXEX",
+      "webControlKeys": "CLICK LEFT TO JUMP"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 423
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad9b",
+      "name": "jumping",
+      "slug": "jumping",
+      "icon": "icon-iconAsset-47"
+    }
+  }
+}
