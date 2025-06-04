@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad69",
+  "category_name": "bowling",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad69",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aef8",
+      "id": 471,
+      "name": "Classic Bowling",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "classic-bowling",
+      "image": "471",
+      "url": "classic-bowling",
+      "description": "<div>One of the best sports to play for boys, Classic Bowling is a wonderful treat to all bowling game enthusiasts. Whether you are a boy or a girl ? this awesome free online game ensures you to give a complete package of fun and entertainment. In this highly challenging and interesting flash game, your goal is to hit all the pins in order to score a strike. The key to maximize your score is to attempt the three strikes in the last round of this exciting recreational activity.?</div><div><br></div><div>This HTML5 game will provide you with a wonderful opportunity to improvise your bowling skills. Playing bowling game online will allow you to perform better in your local bowling alley. The more concentration and patience you will use while playing this sport, the better score you will be able to get in the end. All you need to take care of the mechanics and rules of bowling when you play this bowling simulation game. You can hit all the pins and get them down by just adjusting your position, time your angle and speed properly.?</div><div><br></div><div>Do not forget to earn bonus points in order to get as many strikes as you can. The amazing graphics, easy control and cool gaming environment are enough to give you the same fun and enjoyment as you experience in the real bowling. Try to score perfect 300 to ensure your memorable victory. All the best to set a new bowling alley record in this extremely challenging sports game! Set your bowler starting position first before each roll. Select the power then and make sure that you have made a right spin angle for a strike!</div>",
+      "size": 600,
+      "height": 800,
+      "script": "https://play.famobi.com/classic-bowling/A-925FD",
+      "metaTitle": "Classic Bowling, Bowling Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Classic Bowling at atmegame.com ! We have selected this Bowling games for best excitement and thrill in you!",
+      "metaKeyword": "Classic Bowling, Sports, Bowling Games, Classic Bowling Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 296,
+      "dislikes": 24,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 42511,
+      "ownGame": false,
+      "addDate": "2017-07-17T16:31:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.667Z",
+      "updatedAt": "2025-05-13T21:14:33.977Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R ICONS TO MOVE, TAP TO THROW THE BALL",
+      "webControlKeys": "L CLICK OF MOUSE TO ADJUST THE FORCE AND THROW THE BALL"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 31
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad69",
+      "name": "bowling",
+      "slug": "bowling",
+      "icon": "bowling-games"
+    }
+  }
+}
