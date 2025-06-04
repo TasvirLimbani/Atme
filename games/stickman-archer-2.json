@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b502",
+      "id": 2300,
+      "name": "Stickman Archer 2",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "stickman-archer-2",
+      "image": "2300",
+      "url": "stickman-archer-2",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is time to win some battles and show off the world that you are truly the best fighter in the stick universe! Keep your fingers on your most favourite weapon bow and quiver and get ready to enter the highly challenging and addictive battlefield! The only way to win is make some accurate shots and use your sharp hand-eye coordination skills in this Stickman Archer 2. You cannot show pity on your enemies as they will bring you to the hell shortly.&nbsp;</span></div><div><span style=\"background-color: transparent; font-size: 10pt;\">Drag and drop your finger for attack and destroy all your enemies as fast as you can in this brand new action game! You would not like to come out of this never-ending battle of deadly archery. Wave after wave of other stickmen will keep coming to you, but you do not need to get puzzled. Make sure to take some precious shorts from your bow to complete your mission. Aim your target and release your arrow to shoot your enemies in this HTML5 shooting game!</span><br></div><div><span style=\"font-size: 13.3333px;\">You would be able to earn extra money by making headshots. Try to kill your enemies with only one shot to collect extra cash. Remember two hits are required when you try to kill your enemies by hitting on their body. The number of stickmen will increase when you progress in this HTML5 shooting game. Use the money to buy new characters and level backgrounds to make your gameplay more challenging and engaging! Your accuracy and skill will help get you through multiple levels and defeat wave after wave of enemies. Good luck to score as many headshots as you can in a row to earn extra money and fun</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/0456e9546b6b43ce892c11da41630d12/\r\n",
+      "metaTitle": "Stickman Archer 2, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stickman Archer 2 at atmegame.com ! We have selected this shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Stickman Archer 2 Game, Action Games, shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 54,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 22802,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-03-25T11:38:36.751Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO AIM, RELESE TO SHOOT",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND DRAG TO AIM, RELESE TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
