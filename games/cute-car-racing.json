@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bc7b",
+      "id": 4354,
+      "name": "Cute Car Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "cute-car-racing",
+      "image": "4354",
+      "url": "cute-car-racing",
+      "description": "<div>Hey boys! You do not need to imagine of being surrounded by the gloomy and depressing hours when the huge world of funny racing games are around. Wow! This time we have got you covered with a brand new racing game where you can kill your boring hours while driving the amazing and cute cars on the beautiful track. Does not it excite you and give you the needful Goosebumps? Join Cute Car Racing game and be prepared to rule the road like never before with your intense driving skills!</div><div><br></div><div>The best thing is that you would have an option to select from multiple vehicles. Put your fingers on the one you like the most and get ready to race your car like a professional driver while avoiding other vehicles that are running in the opposite direction this HTML5 car game! This competition is not as small as you thought of as you will be thrown out of the game immediately if you hit any of cars on the road.&nbsp;</div><div><br></div><div>Keep your eyes on the dollars and try to grab as many as you can while keeping your vehicle away from your competitors! Track your score on the middle right side of the screen and dollars on the middle left side of the screen! You can also see your final score along with the update on how much dollar you have collected so far when your game ends. Do you like more race games like this? Browse our vast collection of free car games and enjoy alone or with your friends without download!</div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/a2fc22eb3be2400da6d9ae036fea6e9d/\r\n",
+      "metaTitle": "Cute Car Racing, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cute Car Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Cute Car Racing Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543990996.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10435,
+      "ownGame": false,
+      "addDate": "2018-12-05T11:53:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.735Z",
+      "updatedAt": "2024-08-26T08:13:24.808Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R ICONS TO CONTROL THE CAR",
+      "webControlKeys": "L CLICK OF MOUSE OR L-R ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
