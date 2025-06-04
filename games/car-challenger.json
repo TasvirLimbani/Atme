@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b611",
+      "id": 2615,
+      "name": "Car Challenger",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "car-challenger",
+      "image": "2615",
+      "url": "car-challenger",
+      "description": "<div>Car Challenger offers you a completely unique gaming experience and sightseeing tour you have got so far. Each track in this beautifully-crafted 3D car racing game comes with its own time limit and characteristics. With the successful completion of each level, you will be given some exclusive points, which could help you to buy new vehicles and various exciting upgrades. Invest this money in order to improve the performance of steering wheel, tyres, brakes or engine. You can also use them to enhance the ability of drifting.</div><div><br></div><div>In this free online driving game, you will have the freedom to adjust the performance of your vehicle by changing its various spare parts. Collect the points and make the improvements either in drifting or steering! Configure all of those properties on the basis of your choices and the important particulars of a particular track. Enjoy your ride at high speeds and unlock upgrade points and new track while beating the time limit in this brand new car driving game for boys!</div><div><br></div><div>It features sharp and curvy turns and roads filled with a huge amount of obstacles. So, test your ultimate driving skills in order to achieve the goal of this one of the best car driving games. Enjoy the best car riding experience without any guard rails! With seamless gameplay, ultimate graphics and state-of-the-art audio and video effects, it also comes with very simple and easy-to-understand controls, including WASD or arrow keys to steer, Space bar to handbrake and R to restart race. All the best kids to have a lot of fun in this 3D driving simulation game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/car-challenger/index.php",
+      "metaTitle": "Car Challenger, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Car Challenger at atmegame.com ! We have selected this car games for best excitement and thrill in you!",
+      "metaKeyword": "Car Challenger Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8977,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2023-10-27T12:00:53.061Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO DRIVE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
