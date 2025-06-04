@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b36c",
+      "id": 1867,
+      "name": "STOP Trump vs Kim JongUn",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "stop-trump-vs-kim-jong-un",
+      "image": "1867",
+      "url": "stop-trump-vs-kim-jong-un",
+      "description": "This little alien is going to try along with your help to save the Earth.The last war for humanity has begun TRUMP VS KIM JONG-UN.Where there are no winners just lose GOOD LUCK ! :) Este pequeno alien va a intentar junto con tu ayuda salvar la Tierra.Ya comenzo la ultima guerra para la humanidad TRUMP VS KIM JONG-UN .donde no hay ganadores solo perdedMUCHA SUERTE ! :)\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/658f085887f346f0bcf6ce6cbec40e80/\r\n",
+      "metaTitle": "STOP Trump vs Kim JongUn, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game STOP Trump vs Kim JongUn at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "STOP Trump vs Kim JongUn Game, Racing Games, shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 31,
+      "dislikes": 11,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 9897,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2024-10-12T23:48:51.420Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
