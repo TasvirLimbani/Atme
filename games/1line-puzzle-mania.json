@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd50",
+      "id": 4568,
+      "name": "1LINE Puzzle Mania",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "1line-puzzle-mania",
+      "image": "4568",
+      "url": "1line-puzzle-mania",
+      "description": "<div><span style=\"font-size: 13.3333px;\">We have got you covered with a brand new arcade challenge where only drawing 1 line can bring more fun and thrill during your free hours. Are you ready to dive into this unique type of fun challenge? Join 1LINE Puzzle Mania and be prepared to train your brains in an exclusive and fabulous new line challenge! Here you would get a chance to sharpen your wits and boost your puzzle-solving abilities in just a few clicks. Give it a try to know how efficient you are at dealing with brain training puzzles!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this cute html5 puzzle game is to draw a track to complete the drawing of the graphic. It is very easy to interact with and reach to the end levels, but it looks pretty difficult to become the master of the game. You can find out more than 300 levels to explore. Dive into the ultimate fun of line draw puzzle game to test how many levels you can pass on your own! Put drawing and color skills to the test to get through the complex stages!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Anyone irrespective of their age or gender can attempt this mobile logic game in any device he or she wants. The difficulty level will keep increasing as soon as you progress. Get ready to prepare the more challenging graphs by showing your wisdom to the entire world! We have plenty of arcade games for kids to play online on our website that feature easy controls, colorful graphics and seamless gameplay. All the best to have the best fun online without download games in your PC or mobile phones!</span></div><div><br></div>",
+      "size": 500,
+      "height": 800,
+      "script": "\nhttps://html5.gamedistribution.com/2d447b24312d46a3bb630a7a55cf160a/\n",
+      "metaTitle": "1LINE Puzzle Mania, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 1LINE Puzzle Mania at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "1LINE Puzzle Mania Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7869,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-04-20T06:34:02.920Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS AND SWIPE TO CONNECT THE DOTS TO MAKE THE COMPLETE IMAGE"
+    },
+    "rating": {
+      "rating": "2.6",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
