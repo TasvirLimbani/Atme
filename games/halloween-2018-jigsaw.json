@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd4e",
+      "id": 4566,
+      "name": "Halloween 2018 Jigsaw",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "halloween-2018-jigsaw",
+      "image": "4566",
+      "url": "halloween-2018-jigsaw",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Halloween is a big celebration of the year to enjoy and have fun with your friends! But you do not need to wait for its coming when you are in the virtual world. There are plenty of ways to celebrate the occasion and cherish the beautiful moments of the festival. Today we have brought to you a brand new arcade game where you can enroll into easy and complex jigsaw puzzles based on Halloween. Are you ready to take on this challenge? Join Halloween 2018 and be prepared to memorize the lovely moments of this big occasion of the year in a unique style!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">In this cute html5 puzzle game, you would find a total of 12 pictures based on Halloween. Begin from the first picture and complete the puzzle to unlock the next one! You can only move to the next picture if you clear the previous one. Each picture will allow you to enjoy three unique and challenging models. For example, in easy mode, you would have 25 pieces to connect with each other. While, in the medium mode, you would have 49 pieces and in the hard mode, you would have 100 pieces to connect.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Click on the hint button shown on the right bottom of the screen to see the complete picture during the gameplay in case if you get confused or are stuck. Click the back button to try out any previous version as per your desires! There is no time limit to complete the puzzle. So take your time and think twice to connect any piece with the other one. Enjoy many more challenging and engaging puzzles for free on atmegame.com that you can play without download on multiple devices, including mobile phones, desktop, iPhones or iPads!</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "\nhttps://html5.gamedistribution.com/6772a0fd9ec94857b5df9cd6c3d3b76d/\n",
+      "metaTitle": "Halloween 2018 Jigsaw, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Halloween 2018 Jigsaw at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Halloween 2018 Jigsaw Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 26,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8966,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-02-24T10:53:00.492Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO JOIN THE PIECES TO COMPLETE THE IMAGE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND JOIN THE PICES TO COMPLETE THE IMAGE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
