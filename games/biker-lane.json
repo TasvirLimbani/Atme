@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c16d",
+      "id": 5665,
+      "name": "Biker Lane",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "biker-lane",
+      "image": "5665",
+      "url": "biker-lane",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a bike game lover who have been seeking a nice platform to live up your motorbike racing fantasy to the fullest? If yes, Join Biker Lane game today and get ready to treat your bike racing desires in the best way possible. In this brand new bike racing game, you have to control a character sitting on a bike and help him to reach the flag. Do not worry about the obstacles that you meet during your way! Driving a bike is undoubtedly fun here in this realistic bike challenge!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Roads are pretty tricky, so you are free to speed up, brake and tilt your motorbike to reach your destination safely. Try to complete the level in record time to earn stars. Whether you are a motto X3M enthusiasts or any other bike race lover – you will surely fall in love with this free online game if you have tried it only once in your preferred device. The stars you collect can also be used to unlock some new cool characters like pro biker, punk biker, traffic police biker and grandma biker.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This motorcycle driving game features 20 highly challenging and addictive levels where nothing except fun and thrill exist for the game lovers. Get ready to put your ultimate driving skills to challenge to beat your previous score and create the highest one! Use X to boost and Z to brake your vehicle. You can also lean your bike backward and forward through the right and left mouse button. Play bike game online for free and have fun to the fullest!</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/c5f8858c2007484a929a39c99527c2f9/\r\n",
+      "metaTitle": "Biker Lane,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Biker Lane at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Biker Lane Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1556791949.xml",
+      "idealFor": "Man",
+      "likes": 1548,
+      "dislikes": 146,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 428070,
+      "ownGame": false,
+      "addDate": "2019-05-02T15:42:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2025-05-23T05:01:30.974Z",
+      "__v": 0,
+      "mobileControlKeys": "KEYWORDS ARE GIVEN IN SCREEN",
+      "webControlKeys": "X- SPEED UP,L-R ARROWS TO BACKWARD FORWARD,Z BREAK"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 134
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
