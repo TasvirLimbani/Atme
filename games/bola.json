@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3cd",
+      "id": 6459,
+      "name": "Bola",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "bola",
+      "image": "6459",
+      "url": "bola",
+      "description": "<div><span style=\"font-size: 13.3333px;\">A cute black ball with yellow football has decided to do something different. Will you be able to guide though multiple unique and challenging levels? Join Bola game and be prepared to help this soccer ball to get all his favourite carrots! Your objective in this brand new arcade game is to move left and right and make it jump to change the platform and reach safely to its destination. Try to keep it away from the obstacles to achieve its goal!</span></div><div><span style=\"font-size: 13.3333px;\">This ball has come to you with a huge hope so do not say no to make it disappoint. Make sure to collect all the three stars to get a boost in your final score. The right bottom portion of the screen will show you the instructions of the gameplay. You can see how many carrots you have to collect on the top left corner of the screen. Track the time of the completion of a particular challenge to the next that place!</span></div><div><span style=\"font-size: 13.3333px;\">There are 60 new and addictive levels to play through so you cannot get bored for a single minute at least for the time until you finish all its levels. The status of stars you collect along the way will be shown on the top right corner of the screen! Good luck to complete your task while protecting your ball against all the hurdles in each level and have fun without download! You can play this cool HTML5 jumping game on multiple latest browsers and devices.&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/6653551233f442c7868c06f849198439/\r\n",
+      "metaTitle": "Bola Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Bola at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Bola Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 8656,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2024-08-22T11:12:09.981Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT KEYS TO JUMP AND JUMP HIGH,LEFT KEYS TO MOVE",
+      "webControlKeys": "L-R ARROW TO MOVE,UP TO JUMP,DOWN TO HIGH JUMP"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
