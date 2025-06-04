@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b33f",
+      "id": 1810,
+      "name": "Lava Car Escape",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "lava-car-escape",
+      "image": "1810",
+      "url": "lava-car-escape",
+      "description": "You are driving your car down a volcano which has just erupted and the hot lava is right behind you, so use all the power your car has to boost up its speed and make it safely to the end of the road. Collect coins along the way which you can use in the end to buy some awesome upgrades and improve your vehicle and your performance. There will also be some lava monsters which you can shoot, and flames falling down which you will just have to avoid, otherwise they will damage your car. Enjoy playing this exciting game!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=69b09198d4248b8f24494f27a01367b9\r\n",
+      "metaTitle": "Lava Car Escape, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Lava Car Escape at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Lava Car Escape Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630155.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9013,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.696Z",
+      "updatedAt": "2024-03-21T05:29:39.263Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
