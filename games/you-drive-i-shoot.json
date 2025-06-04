@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c316",
+      "id": 6221,
+      "name": "You Drive I shoot",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "you-drive-i-shoot",
+      "image": "6221",
+      "url": "you-drive-i-shoot",
+      "description": "<div>Are you ready for a post-apocalyptic action-packed driving challenge? If yes, we have brought to you a brand new racing game where the handsome Mark and beautiful Kate are planning to go for a romantic drive. Oh no! But the problem is that self-driving cars and blood-thirsty zombies are available everywhere on the road. Would you help this cute couple to enjoy a safe and pleasurable driving experience? Join You Drive I Shoot and be prepared to become a part of a romantic drive through this post-apocalyptic world!</div><div><br></div><div>You would have only chance to drive forward while keeping your eyes on the other vehicles as well as the deadly zombies. Try to keep your vehicle away from these dangerous monsters as each hit can cause a loss in your health! You would have only 60 hearts to lose so be careful while driving your vehicle and work hard to survive through each wave in this fun online driving game. Use your quality driving abilities through all 15 unique and challenging levels!</div><div><br></div><div>Dodge all the dangerous monsters and do not forget to shoot all that you see on the road! Guide this lovely couple to take a memorable romantic drive and reach their destination safely before the time expires in this cool car game! Take your desired shots by clicking the left mouse button and drive your vehicle with the help of W, A, S, and D! There are plenty of free car games online to play for boys and girls on atmegame.com.</div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/ad3a907843ad473294fbdefe913164a1/\r\n",
+      "metaTitle": "You Drive I shoot Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game You Drive I shoot at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "You Drive I shoot Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579513428.xml",
+      "idealFor": "Man",
+      "likes": 148,
+      "dislikes": 12,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 41785,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2025-02-17T09:44:58.904Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT UPPER ARROW TO SPEED, DOWN ARROW TO STOP, LEFT SIDE KEYS TO LEFT RIGHT DIRECTION",
+      "webControlKeys": "W,A,D UP ARROW LEFT RIGHT ARROW TO DIRECTION S, DOWN ARROW TO BREAK"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
