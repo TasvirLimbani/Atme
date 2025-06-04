@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c32a",
+      "id": 6247,
+      "name": "Jumpers Isometric",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "jumpers-isometric-html5",
+      "image": "6247",
+      "url": "jumpers-isometric-html5",
+      "description": "<div>Isometric environment has its own fun and challenge to offer to the players. We have today got you covered with a brand new arcade challenge where you have to help your character to cover a long distance over a moving platform in the sky. Would you be able to try this challenge right away? If yes, join Jumpers and be prepared to guide your character to jump, avoid obstacles and collect money. The more money you earn the higher score or points you will be able to make.</div><div><br></div><div>With the help of money earned along the way, you can also change your character for more fun and excitement. Track your score by having a sharp look at the top right corner of the screen in this endless runner game! All you need to do is just make it jump to gather coins and avoid obstacles when running. It sounds easy to handle, but mastery will take a significant time for the players. There are many new and lovely characters to be locked further.</div><div><br></div><div>Timing jump and sharp reflexes will help you to create high score in this Isometric game. No worries if you miss to collect money, but make sure to keep your character away from all the hurdles like spikes. Your game is over if you hit any obstacles and you have to restart all from the beginning. We welcome gamers with multiple gaming needs so you can also visit to our game website to find even more challenging and tricky free action-packed challenges.</div>",
+      "size": 500,
+      "height": 800,
+      "script": "https://games.atmegame.com/games/jumpers/",
+      "metaTitle": "Jumpers Isometric HTML5 Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Jumpers Isometric HTML5 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Jumpers Isometric HTML5 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579513428.xml",
+      "idealFor": "Man",
+      "likes": 114,
+      "dislikes": 11,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 42169,
+      "ownGame": true,
+      "addDate": "2020-01-20T15:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2024-10-13T21:12:06.985Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SCREEN TO JUMP",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
