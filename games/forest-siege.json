@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aece",
+      "id": 268,
+      "name": "Forest Siege",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "forest-siege",
+      "image": "268",
+      "url": "forest-siege",
+      "description": "Game Description Updating...",
+      "size": 700,
+      "height": 0,
+      "script": "<!-- Place this code where you'd like the game to appear -->\r\n<div class=\"miniclip-game-embed\" data-game-name=\"forest-siege\" data-theme=\"0\" data-width=\"700\" data-height=\"440\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/forest-siege/\">Play Forest Siege</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/forest-siege/\" target=\"_blank\">Play Forest Siege</a> / More <a href=\"https://www.miniclip.com/games/genre-523/\" target=\"_blank\">Strategy games</a></p>\r\n\r\n<!-- Insert this code before your </body> tag -->\r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "Forest Siege, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Meta Description Updating...",
+      "metaKeyword": "Forest Siege, Adventure, War games, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 85,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 12401,
+      "ownGame": false,
+      "addDate": "2017-03-09T00:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2024-08-03T13:42:35.192Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT FOUND"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 11
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
