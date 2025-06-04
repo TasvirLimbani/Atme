@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad9b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf61",
+      "id": 5104,
+      "name": "Baby Cat Adventure",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "baby-cat-adventure",
+      "image": "5104",
+      "url": "baby-cat-adventure",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Playing with cute and little is a dream of many boys and girls. Luckily, we have got you covered here a brand adventure challenge where you can spend some quality time with a lovely kitten. Your goal is to help the baby cat to reach his final destination while avoiding the obstacles. Does not sound it pretty interesting? Join Baby Cat Adventure and be prepared to guide a cute kitten to reach his house safely. Manny moving and non-moving obstacles are waiting for you on the way.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This cute kitten has forgotten the way to his house, but he trusts on your skill. So, do not let him feel down and show him the right path to his most awaited place. You have to face off multiple angry blobs and mushrooms. Try to make a jump on them to clear them immediately from the screen in this free online jumping game! Do not forget to grab as many stars, smileys and lemons as you can to complete each level with the higher score.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">These monsters are very tricky and would destroy you as you touch them for a single second. So, try to maintain a distance from them when you are planning to make a jump over them. Play wisely, beat all deadly enemies and avoid traps to clear all six levels of this cool html5 animal kids game! Good luck to play like a champion and become the biggest action hero of your area! Check out more kids games for free online, no download required!&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 597,
+      "script": "https://m.shtoss.com/game/baby-cat-adventure/index.html\r\n",
+      "metaTitle": "Baby Cat Adventure,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Baby Cat Adventure at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Baby Cat Adventure Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 27,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12147,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-09-12T13:58:17.035Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICON- LEFT RIGHT,RIGHT ICON-JUMP",
+      "webControlKeys": "UP ARROW-JUMP, L-R ARROW TO LEFT RIGHT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad9b",
+      "name": "jumping",
+      "slug": "jumping",
+      "icon": "icon-iconAsset-47"
+    }
+  }
+}
