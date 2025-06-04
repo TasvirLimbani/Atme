@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c29e",
+      "id": 6085,
+      "name": "Watermelon Shooting 3D",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "watermelon-shooting-3d",
+      "image": "6085",
+      "url": "watermelon-shooting-3d",
+      "description": "<div><span style=\"font-size: 13.3333px;\">An amazing shooter challenge has come in the market to allow you to practice your insane shooting abilities to the maximum possible level. Would you like to try your hands in this cool brand new shooting game? Join Watermelon Shooting 3D and be prepared to use your gun to shoot the lovely watermelons and splatter gooey red juice that you see spreading all over the screen! The best part is that you would have different types of handguns to use to improve your fun.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">There are no chances of getting bored since you would have 100 unique and addictive levels to play through with multiple guns to unlock. Your good efforts will also help you to buy new secret watermelon. Do not forget to unlock a huge bonus each time when you complete level with the highest possible score. Blast as many watermelons as you can to create a havoc in this one of the best action games for boys!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You would not like to miss this awesome shooter challenge especially if you are a true fun and thrill seeker. Aim carefully to smash the objects that you see on the screen into a thousand pieces. The challenging gameplay, stunning 3D graphics, smooth and easy controls, as well as a wide range of hand guns to select from will be enough to keep you engrossed for hours. Check out more free action-packed games for kids on atmegame.com to make the most out of the digital world!</span></div>",
+      "size": 900,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/1b49b80db73e4805b29340ac7a660c5b/\r\n",
+      "metaTitle": "Watermelon Shooting 3D, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Watermelon Shooting 3D at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Watermelon Shooting 3D Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442796.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7265,
+      "ownGame": false,
+      "addDate": "2019-09-26T01:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.760Z",
+      "updatedAt": "2025-03-22T13:48:06.587Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "LEFT CLICK OF MOUSE-SHOOT,L-LOCK TARGET,RIGHT CLICK-ZOOM IN,L ALT-PAUSE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
