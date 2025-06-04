@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd48",
+      "id": 4560,
+      "name": "Domestic Animal Memory Challenge",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "domestic-animal-memory-challenge",
+      "image": "4560",
+      "url": "domestic-animal-memory-challenge",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you think that your memory is strong enough to remember the pictures of anything you see for long? Are you a lover of domestic animals? Join Domestic Animal Memory Challenge and prove the world that nobody can beat you in identifying the animal cards as fast as you can! Your objective in this brand new arcade game is to spot all the matching images and finish all the levels with the highest possible score. Put your memory and brain power to the test to complete level fast!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Choose level from easy, medium, hard and expert and dive into the unlimited fun of animal puzzle challenge! Make sure to put your finger on the mouse or tap the screen to memorize the positions of different kinds of animals. Do not forget to click the images of the same animal to match them then. Try to bring the minimum possible moves to complete your game with your best score! Be careful and try to match all the same animal cards before time expires in this html5 puzzle game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The number of images will keep increasing as you progress in the game. Get all the identical cards fast to collect the maximum possible points! Focus on the screen and pay attention to the details to find out all the matching images in this one of the best memory and animals games for kids! There are different domestic animals including cow, dog, pig, chick, cat, sheep and horse to play with. When you correctly match the two identical cards, they would not flip back. Check out more funny and engaging matching games on our website and have fun alone or with your friends on atmegame.com without download!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/7daf0d62c6064ce78996d0b2b6ed38ef/\n",
+      "metaTitle": "Domestic Animal Memory Challenge, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Domestic Animal Memory Challenge at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Domestic Animal Memory Challenge Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7340,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2023-03-30T05:37:51.242Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CARDS TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE ON CARDS TO MATCH THE SAME IMAGES"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
