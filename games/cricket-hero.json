@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb0f",
+      "id": 3984,
+      "name": "Cricket Hero",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "cricket-hero",
+      "image": "3984",
+      "url": "cricket-hero",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Does the bat of cricket excite you every time you see it? Do you want to see the fans cheering for ultimate batting skills? Join Cricket Hero and learn the art how to make both your team and fans happy! You do not need to go anywhere to get that pleasure. All you need to do is just grab your favorite bat and get ready to enter the cricket pitch to show off your batting skills. Try to be very quick to wow your audiences at this huge cricket ground!</span></div><div><span style=\"font-size: 13.3333px;\">No need to waste your time as the balls will keep coming at you. The only way to make your way to the victory is keep hitting all of those balls in this action packed cricket themed game. Your objective in this cool html5 sports game is to hit as many balls as possible before consuming all your three strikes. Try to avoid hitting the eggs and bombs to stay in the game! Prepare a strategy to grab more points and score higher to be on the top of the leaderboards!</span></div><div><span style=\"font-size: 13.3333px;\">Your opponent bowlers are very sharp and try to knock all your wickets. Play wisely to defend them and become a true cricket hero in this sports game! You will have a broad cricket bat, so switch sides timely to block the ball and send it for the maximum score. Block the path of the ball the time as it enters the outer circle to sweep in using your heavy wooden bat! You will get late if the red ball enters the inner circle. Practice hard to smash out of the park in this mobile cricket game!</span></div>",
+      "size": 480,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/a306603563ad4170b0056f443041652e/",
+      "metaTitle": "Cricket Hero, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cricket Hero at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Cricket Hero, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 1566,
+      "dislikes": 162,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 361437,
+      "ownGame": false,
+      "addDate": "2018-12-13T18:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2025-06-03T13:12:18.399Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO HIT THE BALL",
+      "webControlKeys": "L CLICK OF MOUSE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 159
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
