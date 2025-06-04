@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb4c",
+      "id": 4046,
+      "name": "Samurai Fighter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "samurai-fighter",
+      "image": "4046",
+      "url": "samurai-fighter",
+      "description": "<div>Are you ready to go on a journey in ancient Japan? Do you love replying to the attacks of dangerous endless enemies? Join Samurai Fighter and be prepared to find yourself in a wonderful Japanese samurai town where your enemies are available in a great number! We would suggest you to enter this brand new action-packed challenge only if you can dare to see the blood of your enemies on the floor and dripping &amp; splashing out of their bodies.</div><div><br></div><div>Grab your sword and get ready to control the skillful samurai to keep you away from all the attackers! Make sure to perform combos and get them sliced into pieces to taste the victory in this amazing html5 fighting game. Do not underestimate your power and try to face every danger confidently without looking back. Let the levers work for you to open your way to advanced levels and clear checkpoints. Fight hard and make them regret meeting with you in this cool battle challenge!</div><div><br></div><div>Defeat the waves of blood-thirsty enemies to complete each level and move to the next one! Select any character between Arashin and Bei and enter the amazing battleground and fight like never before! Make your punches and kicks fly towards your enemies and do not forget to use the C key to block an attack! Get a chance to spot a weapon to destroy a crate! Press yourself with a weapon when needed! Use any weapon from swords to guns, win the battle and claim your position amongst the master samurai!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/53534e807159457692a2153c32e16e39/\r\n",
+      "metaTitle": "Samurai Fighter, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Samurai Fighter at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Samurai Fighter Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 61,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 14171,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2025-05-05T02:55:49.921Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ALL ARROWS TO MOVE, SPACE-JUMP, Z,X SAY ATTACK"
+    },
+    "rating": {
+      "rating": "4.6",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
