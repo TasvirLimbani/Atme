@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9bc",
+      "id": 3618,
+      "name": "Gunblood Remastered",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "gunblood-remastered",
+      "image": "3618",
+      "url": "gunblood-remastered",
+      "description": "\nGun down opponents in the western world of Gunblood Remastered! A modernized version of the immensely popular Gunblood.\n",
+      "size": 900,
+      "height": 510,
+      "script": "\nhttps://html5.gamedistribution.com/8c3299ab011a47279ab35e9b741d25d5/\n",
+      "metaTitle": "Gunblood Remastered,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Gunblood Remastered at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Gunblood Remastered Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335387.xml",
+      "idealFor": "All",
+      "likes": 27,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10740,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.725Z",
+      "updatedAt": "2025-04-18T14:20:46.637Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SELECT THE DIRECTION AND SHOOT",
+      "webControlKeys": "MOUSE TO SELECT THE DIRECTION, L CLICK TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
