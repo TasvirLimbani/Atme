@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b381",
+      "id": 1894,
+      "name": "Spider Solitaire Original",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "spider-solitaire-original",
+      "image": "1894",
+      "url": "spider-solitaire-original",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Have you tired of playing an online Solitaire card game? Try out Spider Solitaire Original at least once to enjoy the unique card playing experience. In this free online classic column based game, you will have to pull all the cards into columns from King to Ace. You can ignore suit in this popular arcade game. Get a column that contains 13 cards going right from Lord to Ace. Your winning in this cool html5 game will depend on how quickly you will remove all the cards from the board.  </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Click the deck that you see at the bottom of the screen to add extra 10 cards to the game in case if you notice that you run out of the potential moves. Each column should have a single card, so all you need to be very focused and concentrated while playing this brand new arcade game. It will take a minute to download Spider Solitaire Original that is one of the finest versions of Solitaire games. Do it right away and get ready to have the fun that you have been waiting for long. </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">It?s absolutely free to play this cool flash game on your computer. Enjoy it alone or share it with your friends to take your card gaming fantasy to a new level. You can also get a pleasure of exploring this latest card game for boys and girls both online or offline. Just removing all the cards from the columns will allow you to become the winner of it. Running out of legal moves may result in losing the game immediately. Use your logical thinking and play like a star in this one of the best card games! </span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/354f9b8f79a745a0ae1de147c1e4f50c/\r\n",
+      "metaTitle": "Spider Solitaire Original, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Spider Solitaire Original at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "Spider Solitaire Original Game, Racing Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 38,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 17027,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2024-09-13T16:39:04.997Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON  CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
