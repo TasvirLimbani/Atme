@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0f4",
+      "id": 5525,
+      "name": "Desert Skeet",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "desert-skeet",
+      "image": "5525",
+      "url": "desert-skeet",
+      "description": "<div><span style=\"font-size: 13.3333px;\">We can understand that many individuals across the world seek for the opportunities where they can challenge their shooting skills. If you are the one amongst those who want to take their shooting fantasy to a completely new level, nothing could work better than joining Desert Skeet game right away. In this brand new action game, your objective is to shoot all of the clay skeets in all four stages. There are more things to do, including racking up points, shooting clay targets and winning awards.</span></div><div><span style=\"font-size: 13.3333px;\">Your quick reaction time and focus skills will definitely help to hit more flying clays in this epic 3D skeet shooter game. Try to pay attention to details to clear all four different levels! Remember each level has 20 shots to use. So, get your eyes glued to the screen to shoot more and more flying clays. You will automatically move to the advanced level once ammo is finished. Racking up a high score only needs the hitting of all of the clay targets.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Try to accomplish the goal of the game to unlock different types of awards in this free online shooting game! You will be able to submit your high score to the leaderboard once you finish all 4 levels. The background of the game keeps changing stage to stage. Shoot all the clay pigeons when they sail through the air in this fun and challenging shooter game! Hit your targets by tapping or clicking the screen! Good luck to show your finger talents on your keyboard or mobile phone in our other most popular free online games!</span></div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/0b54705ec8cf47b8a377713b77efadb6/\r\n",
+      "metaTitle": "Desert Skeet, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Desert Skeet at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Desert Skeet Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453347.xml",
+      "idealFor": "Man",
+      "likes": 25,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 14154,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2025-05-02T01:49:59.178Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO ADJUST AND HIT THE TARGET",
+      "webControlKeys": "LEFT CLICK OF MOUSE ADJUST AND HIT THE TARGET"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
