@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c38c",
+      "id": 6392,
+      "name": "Airplane Fly Simulator",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "airplane-fly-simulator",
+      "image": "6392",
+      "url": "airplane-fly-simulator",
+      "description": "<div>Do you dream to become a pilot? Are flying different planes online is your biggest hobby? If so, join Airplane Fly Simulator and get ready to enjoy the best flight simulating experience you have ever got. Hey! You are lucky enough to take off with your commercial jet into the wonderful sky. Does not it sound pretty exciting? Your job is pretty challenging as well because you have to fly around the city to your destination and drop your passengers on time.</div><div><br></div><div>The best part is that you will have a minimap to use to accomplish your mission in each level in this brand new adventure game. Take your seat and gear up to steer a 3D plane through the multiple waypoints or you can say checkpoints and reach the proper destination! In your team, you are the only pilot who could dare to attempt these tricky and challenging missions. It requires confidence and skill to take flight in real airplanes across an exclusively detailed open-world flight simulator.</div><div><br></div><div>There are true volumetric clouds, weather conditions, air traffic, runways, 3D buildings, and satellite maps to explore the scenery and airports in high resolution. Be careful as you have to accomplish a plenty of deadly missions to be a professional airplane pilot in this 3D flight simulator! Guide your plane in multiple free levels to play online! Enjoy the realistic day and night cycle with turbulence, wind, thunderstorms, snow, tropical rain, clear skies and true 3d volumetric clouds! Check out other popular HTML5 flying games and have a blast with your friends!</div>",
+      "size": 960,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/a8e0a62e4f194ee8b343596c2043b152/\r\n",
+      "metaTitle": "Airplane Fly Simulator Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Airplane Fly Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Airplane Fly Simulator Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842334.xml",
+      "idealFor": "Man",
+      "likes": 54,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9989,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2025-02-07T15:18:10.995Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,UP ARROW-TAKE OFF(TO FLY DOWN),S DOWN ARROW-FLY UP,A,D L-R ARROW TO L-R, F TO FLOATING"
+    },
+    "rating": {
+      "rating": "4.7",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
