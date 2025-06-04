@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1ac",
+      "id": 1331,
+      "name": "Fantasy Heroes",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "fantasy-heroes",
+      "image": "1331",
+      "url": "fantasy-heroes",
+      "description": "<div>Your wait is over now since the highly challenging and interesting action game is available here for you to play online! The entire world is getting crazy about this brand new fighting game due to its thrilling soundtrack and realistic visuals. Do you want to be a part of this unlimited fun? Join Fantasy Heroes and get ready to show off your ultimate action moves that you are hidden ever! The job is a pretty difficult, paying attention to important details will help you get through all hurdles with ease.</div><div><br></div><div>In this free online action-based game for boys, you will have to put your reflexes and skill to test to fight against the evil hordes of trolls. Make sure to apply your fast reaction time to defend the castle with the 3 heroes. You will see yourself surrounded by the trolls in the game. When it happens, you need to launch the powerful attack immediately without wasting a single minute. This cool online game is suited for all ages with high-quality graphics.&nbsp;</div><div><br></div><div>It will be amazing to match the heroes with needful orcs to help them come into action. Your enemy is very advanced and not going to leave you when you face them. Decide which type of hero or is perfect for your enemies to win the fight in this one of the best action games for boys! Select the right one for the task and avoid letting the orcs get to your side of the screen. You will lose lives if you send the wrong heroes. Be focused to have a full-throttle gaming experience!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/2cf8bb9dde454899b274d03f8e44c496/\r\n",
+      "metaTitle": "Fantasy Heroes, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Fantasy Heroes at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Fantasy Heroes Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299458.xml",
+      "idealFor": "Man",
+      "likes": 49,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 11032,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.687Z",
+      "updatedAt": "2025-02-08T20:45:35.066Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ICONS TO FIGHT",
+      "webControlKeys": "L-CLICK OF MOUSE TO FIGHT"
+    },
+    "rating": {
+      "rating": "2.4",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
