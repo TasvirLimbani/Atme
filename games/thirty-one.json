@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd30",
+      "id": 4536,
+      "name": "Thirty One",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "thirty-one",
+      "image": "4536",
+      "url": "thirty-one",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a lover of card games? Do you also enjoy playing cards in a virtual world? Today we have got you covered with a brand new arcade game where you can enjoy the ultimate gambling experience in a completely friendly environment. Yes, we are talking about the most popular and highly addictive car game that is known by the name of Thirsty One. Your objective in this cool online game is to assemble a hand which totals 31. It is played with the help of four players.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">When you enter the game, you would be asked that do you want to keep the cards showing on the screen hand, or swap it with the extra hand. If you click on Keep then your cards will remain the same, otherwise all your three cards will be changed. Take your turn then. Choose a card from your hand and from the extra hand to swap them! It is up to you whether you want to pass all 3 or swap. Invite a friend or a big group of people ask them to enjoy this fun points-based game!</span></div><div><span style=\"font-size: 13.3333px;\">Try to get as close as possible to the number 31 with the help of 3 cards! There is no worry if you get confused or are stuck initially since you would get the expertise by trying it out several times in your device. Every player obtains 3 cards in hand and 3 cards are shown on the table. One card can be exchanged by every player on each turn. It uses the piket cards (7 to Ace). Ace has the value similar to 11 points while face cards count 10 points and the other cards worth face value. Player who loses all his lives will be out of the game.&nbsp;</span></div><div><br></div>",
+      "size": 456,
+      "height": 810,
+      "script": "https://html5.gamedistribution.com/28d6aa080d0248bd85ed9b974400be4e/\r\n",
+      "metaTitle": "Thirty One, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Thirty One at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Thirty One Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527222.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 15196,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:50:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2025-03-22T03:48:28.696Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CARDS TO PLAY",
+      "webControlKeys": "L CLICK MOF MOUSE TO PLAY THE CARDS "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
