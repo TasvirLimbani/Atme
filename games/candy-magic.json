@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad89",
+  "category_name": "kids",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae8e",
+      "id": 191,
+      "name": "Candy Magic",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "candy-magic",
+      "image": "191",
+      "url": "candy-magic",
+      "description": "Across the range of a good number of games as offered through and across in the range of free action games online, Candy Magic, is the most unique game set across the range and aptitude of online action gaming enthusiasts, where, you will lead a wizard to take on evil forces across the line and range of action to lead to next level for much better and engrossing gaming level.<br><br>In the multi level shooting game as a wizard you a move ahead, there are differing powers from the other side in the best action game online approaches toward attacking you. You have by pressing the mouse reversely countered them. As many enemies you kill as much points you score in this free action game online. However, when, you feel enemies too terrifying in this action games online, you straight way can attack them by pressing X that has power to leash the especial power attacks on the enemies.<br><br>However, there are many bars in the game that guide you through the progress of the game. Like blue dots for the number of special attacks left with you, green bar on the lift top indicating the wizard&#146;s health. Blue bar at bottom in this game indicates about the overall progress of the game around in the best online action game.",
+      "size": 700,
+      "height": 0,
+      "script": "<!-- Place this code where you'd like the game to appear -->\r\n<div class=\"miniclip-game-embed\" data-game-name=\"candy-magic\" data-theme=\"0\" data-width=\"700\" data-height=\"500\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/candy-magic/\">Play Candy Magic</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/candy-magic/\" target=\"_blank\">Play Candy Magic</a> / More <a href=\"https://www.miniclip.com/games/genre-5/\" target=\"_blank\">Shoot 'Em Up games</a></p>\r\n\r\n<!-- Insert this code before your </body> tag -->\r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "Candy Magic, Shooting Games - Play Online Free : Atmegame",
+      "metaDesc": "A unique online action game Candy Magic, you as wizard powered with a good number of magic spell take on evil forces across the line and range of action across the game.",
+      "metaKeyword": "Candy Magic, action, Shooting, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "ALL",
+      "likes": 96,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 12222,
+      "ownGame": false,
+      "addDate": "2016-07-05T04:53:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.665Z",
+      "updatedAt": "2024-11-10T12:36:50.329Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT FOUND"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
