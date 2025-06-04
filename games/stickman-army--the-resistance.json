@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b978",
+      "id": 3544,
+      "name": "Stickman Army  The Resistance",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "stickman-army--the-resistance",
+      "image": "3544",
+      "url": "stickman-army--the-resistance",
+      "description": "A crowd of renegade stickman have started to invade the jungle and kill people. The last hope of the region is its best army team !!! You are a team of 2 super well trained soldiers. You are in command of a number powerfull weapons that can stop the revolutionaries. You can end this war... But this is going to be an epic battle. You must protect your position. Whatever happens !\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "\nhttps://html5.gamedistribution.com/2ad9db90679c4f2581024ffd07710579/\n",
+      "metaTitle": "Stickman Army  The Resistance, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stickman Army  The Resistance at atmegame.com ! We have selected this war games for best excitement and thrill in you!",
+      "metaKeyword": "Stickman Army  The Resistance Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537333370.xml",
+      "idealFor": "All",
+      "likes": 68,
+      "dislikes": 11,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 24613,
+      "ownGame": false,
+      "addDate": "2018-09-19T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2025-02-21T15:48:17.250Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO KILL THE ENEMIES",
+      "webControlKeys": "L-CLICK OF MOUSE TO KILL THE ENEMIES"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 11
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
