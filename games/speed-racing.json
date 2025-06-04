@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c158",
+      "id": 5644,
+      "name": "Speed Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "speed-racing",
+      "image": "5644",
+      "url": "speed-racing",
+      "description": "<div><span style=\"font-size: 13.3333px;\">We are proud to introduce you to a brand new racing game that is full of entertainment and fun. You will surely love it if you are an ardent fan of car games. So, are you ready to go on this highly exciting car race journey of your life? Join Speed Racing game and get ready to show off your intense driving skills on a track where other vehicles will also be there to stop you. Try not to be crashed with other cars to go as far as you can in this free online bike game!</span></div><div><span style=\"font-size: 13.3333px;\">Make sure to control your vehicle perfectly and evade other vehicles with the precision. Do not forget to collect coins that you see on the screen! The coins you collect from there will help to buy new skin car in the future in this cool HTML5 car game. Racing on different tracks in this game will also allow you to explore various beautiful cities! Customize your car looks and increase its speed when needed to become a champion in the latest car race game!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">The easy game controls, fabulous graphics and excellent gameplay are sure to take you to a platform where no one except the unlimited thrill and entertainment exist. Your present score along with the high score will be displayed on the screen. No need to bother in case if you get bored with this car game as our free online game website has countless cool racing games to explore during your fun hours! All you need is just browse through our complete range of top race games to spot the desired fun activity!&nbsp;</span></div>",
+      "size": 450,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/73f12db1bc6f492784f7e2ee2a139e1e/\r\n",
+      "metaTitle": "Speed Racing,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Speed Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Speed Racing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1555400796.xml",
+      "idealFor": "Man",
+      "likes": 29,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12037,
+      "ownGame": false,
+      "addDate": "2019-04-16T13:16:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.753Z",
+      "updatedAt": "2025-02-21T11:52:02.980Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R SIDE OF SCREEN TO CONTROL THE CAR",
+      "webControlKeys": "L-R ARROWS,A,,D TO MOVE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
