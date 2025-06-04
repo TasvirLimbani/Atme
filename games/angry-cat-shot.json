@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad9b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bcc4",
+      "id": 4427,
+      "name": "Angry Cat Shot",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "angry-cat-shot",
+      "image": "4427",
+      "url": "angry-cat-shot",
+      "description": "<div>This brand new adventure challenge is definitely for you if the gameplay of one of the most popular titles â€œAngry Birdsâ€ attracted you a lot in the past. This time you have met with a cute angry cat that has a different mission to complete. Do you want to help this cute animal to accomplish its life goal? Join Angry Cat Shot and be prepared to practice your shooting abilities in a more funny and friendly environment! Put your fingers on your mouse or tap the screen to shoot an angry cat to the sky and get it through the circle targets!</div><div><br></div><div>Make sure that your cat passes all the circles in the middle so that it can grab all the stars. No need to bother in case if you fail in the initial attempts since you would have other two chances to get the job done. You will only clear the level if you jump through all the rings while collecting the stars and avoiding the edges of the rings. There are 30 unique and highly engaging levels to play through in this HTML5 jumping game. Aim at the star before launching your cat!</div><div><br></div><div>Use the slingshot perfectly to launch your cat successfully through all the rings you see on the screen! You can lose a life if you hit the hoops or fail in collecting all the stars. Track your lives by looking at the top of the screen! The number of rings or hoops will keep increasing as you advance in the game. Retry when all your lives are lost. In this way, you would lose 100 points from your total score. Check out more tricky and challenging animal games and have a blast with your friends no download required on atmegame.com!</div>",
+      "size": 1160,
+      "height": 640,
+      "script": "https://games.atmegame.com/games/angry-cat-shot/",
+      "metaTitle": "Angry Cat Shot Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Angry Cat Shot at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Angry Cat Shot Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543992154.xml",
+      "idealFor": "Man",
+      "likes": 563,
+      "dislikes": 50,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 109665,
+      "ownGame": true,
+      "addDate": "2018-12-05T12:12:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.736Z",
+      "updatedAt": "2024-11-15T18:05:35.548Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE AND DRAG TO SELECT THE DIRECTION AND RELEASE TO JUMP",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND DRAG TO SELECT THE DIRECTION RELEASE TO JUMP"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 34
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad9b",
+      "name": "jumping",
+      "slug": "jumping",
+      "icon": "icon-iconAsset-47"
+    }
+  }
+}
