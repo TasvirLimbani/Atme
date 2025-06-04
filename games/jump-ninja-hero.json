@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf58",
+      "id": 5094,
+      "name": "Jump Ninja Hero",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "jump-ninja-hero",
+      "image": "5094",
+      "url": "jump-ninja-hero",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Your favorite ninja is back with some unique challenges and fun to offer! Do you want to stay with him and explore all new fun and thrilling opportunities? Join Jump Ninja Hero now and get ready to guide your favorite warrior towards the victory in an endless cave! Obstacles are pretty challenging, but the ultimate power of Ninja will definitely help you to sail through all the hurdles that you see on your way. Play like a pro and make your character jump timely to go as far as you can!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The entire cave is full of multiple darts that would try to hurt you. You have to run and jump timely to avoid the fires or stars that keep coming to you at different heights. To avoid them, you can duck and jump your character. These flying ninja stars are very dangerous and will take your life immediately if you hit them. Creating your higher score will depend on how long you will survive. Keep exploring this addictive running avoid game until you are able to attract many through your best score!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Make your ninja jump and slide using the left mouse button on PC or tapping the screen when you try out on mobile phone! Try to be as fast as possible in this cute html5 running game! Be careful and avoid the hidden weapons that will come to you anytime. You can make him jump, double jump and duck as per your wish. Play more games that are based on skills and abilities and show the world that you are skilled enough to face off any difficult challenge!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://m.shtoss.com/game/jump-ninja-hero/index.html\r\n",
+      "metaTitle": "Jump Ninja Hero,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jump Ninja Hero at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Jump Ninja Hero Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9944,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-02-14T21:46:08.098Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE DOWN- TO SLIDE, TAP TO JUMP ",
+      "webControlKeys": "CLICK TO JUMP,SWIPE ,AND DOUBLE JUMP"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
