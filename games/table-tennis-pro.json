@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad66",
+  "category_name": "tennis",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad66",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c09c",
+      "id": 5431,
+      "name": "Table Tennis Pro",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "table-tennis-pro",
+      "image": "5431",
+      "url": "table-tennis-pro",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The time has come when you should practice some difficult tennis moves in our brand new sports game! We are talking about Table Tennis Pro that we brought to you today with awesome sound FX, effects and superb gameplay. The graphics of the game is so clear that you feel like playing it as in real life against the AI or your friends. No download, no installation of any app is need to get into this amazing table tennis challenge.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Show off your virtual tennis skills by spinning, swinging, or smashing the ball in this cool html5 sports game! Your good performance in the game will guide you to climb your way up in career mode. Begin your game journey by playing against your friend in a friendly match! Keep beating players and making your win over different popular team to improve your ranks in this exciting tension game tournament! You have to compete against the top players to secure first place in this ping pong game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Choose from various modes and see yourself becoming a champion of your favorite online sport! In the World Cup Mode, you can decide on your own which country you want to represent before entering the game to stomp your enemies. Give yourself a needful training to reach to the finale and make your win in a renowned super table tennis tournament! Try to throw the ball to the reverse corners of your rival or use the curveball to get your victory over him/her! Good luck to try more 3D table games online for free on atmegame.com!</span></div>",
+      "size": 950,
+      "height": 680,
+      "script": "https://html5.gamedistribution.com/45aade9b6c15481ab6c0e449b4440f40/\r\n",
+      "metaTitle": "Table Tennis Pro,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Table Tennis Pro at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Table Tennis Pro Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 59,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 16385,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-05-13T11:36:44.954Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS THE TENNIS RACKET AND HIT THE BALL"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad66",
+      "name": "tennis",
+      "slug": "tennis",
+      "icon": "tennis-games"
+    }
+  }
+}
