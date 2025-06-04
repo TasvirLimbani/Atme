@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c40c",
+      "id": 6524,
+      "name": "Duck Hunter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "duck-hunter",
+      "image": "6524",
+      "url": "duck-hunter",
+      "description": "<div>The highly addictive and engaging action-packed challenge has hit your device today! Would you like to try it out to challenge your shooting abilities? Join Duck Hunter and be prepared to help a stray dog to find some fresh duck meat! He trusts on your skill so grab your gun and get ready to clear all the ducks that you see flying in the sky. These ducks are very fast so your job is to shoot them before they disappear from the screen.</div><div><br></div><div>Try to hit the ducks with the three bullets available at your side in this HTML5 shooting game! If you miss it, they will fly away and your dog will have to sleep with a hungry stomach again. You cannot move to the next level until you get the success in shooting at least 6 ducks. There are multiple levels to play through and different bullets to use. This cute dog will give you a smiling face on your every successful shot.</div><div><br></div><div>However, you will also be get ready to watch his sad face in case of being failed in shooting the duck properly. Track your bullets and round by looking at the bottom left corner of the screen in this duck shooter challenge! The right bottom of the screen will show your present score. The middle bottom part of the screen will show how many ducks are left to be shot. Enjoy the best shooting experience with a wonderful dog in this cool single player action game! Browse our huge collection of complex and interesting free action games on our website and have fun alone or with your friends, no download required!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/duck-hunter/",
+      "metaTitle": "Duck Hunter Game, Shooting - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Duck Hunter at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Duck Hunter, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 1882,
+      "dislikes": 335,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 353589,
+      "ownGame": true,
+      "addDate": "2020-07-12T15:27:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-06-04T03:22:11.848Z",
+      "__v": 0,
+      "mobileControlKeys": "USE JOYSTICK TO MOVE THE SCOPE, AND GUN ICON TO SHOOT",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE THE SCOPE , SPACE- SHOOT"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 171
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
