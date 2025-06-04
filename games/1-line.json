@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd2f",
+      "id": 4535,
+      "name": "1 Line",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "1-line",
+      "image": "4535",
+      "url": "1-line",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you think that you have amazing drawing and puzzle-solving abilities? If yes, join 1 Line and show the world that you can clear any brain-training puzzle challenge. Your objective in this brand new arcade game is to draw a line and create a figure without going through another line. Does it sound pretty challenging for you? Many more fun and thrill opportunities are waiting for you. Give it a try to and allow yourself to draw different figures by connecting multiple points!</span></div><div><span style=\"font-size: 13.3333px;\">Remember it is a one way line so it is wise to think twice before connecting those dots. Get ready to sharpen your wits and wisdom to complete all 50 levels and unlock all amazing 6 packages! Begin from any point you want or are comfortable with in this html5 puzzle challenge! The difficulty level increase as you progress. So be prepared to experience extra challenges and difficulties in the advanced levels of puzzle. Move your finger on your mouse on PC or tap the screen to draw a line!</span></div><div><span style=\"font-size: 13.3333px;\">It will be amazing to know that how many points you would be able to pass! There are multiple shapes and designs to meet with in each level with 1 line. Try to be patient and spot the key point to help you complete the level! It is time to show your talent to the entire world by solving these problems in the shortest possible time. Play some more highly addictive and engaging puzzle games for boys and girls and have fun without download!</span></div><div><br></div>",
+      "size": 500,
+      "height": 790,
+      "script": "\nhttps://html5.gamedistribution.com/0eaa588aab56428fa77d82bf178ad345/\n",
+      "metaTitle": "1 Line, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 1 Line at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "1 Line Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527222.xml",
+      "idealFor": "All",
+      "likes": 469,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7296,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:50:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2025-03-28T09:26:34.119Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND SWIPE TO CONNECT THE DOTS TO COMPLETE THE IMAGE"
+    },
+    "rating": {
+      "rating": "1.4",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
