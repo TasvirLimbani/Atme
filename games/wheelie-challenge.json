@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad75",
+  "category_name": "bicycle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad75",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb19",
+      "id": 3994,
+      "name": "Wheelie Challenge",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "wheelie-challenge",
+      "image": "3994",
+      "url": "wheelie-challenge",
+      "description": "<div>The extremely addictive and challenging fun bicycle racing challenge is here! We bet you cannot survive for a single minute. Would you still want to try and prove your worth as a pro bicycle driver to the entire world? Join Wheelie Challenge and be prepared to help your driver to maintain the balance of his vehicle at only 1 tyre for long! It is up to your impressive controls that how long you can hold a wheelie in this brand new racing game!</div><div><br></div><div>Use your fingers on your mouse or tap the screen of your mobile phone and hold it to begin the riding and to pop a wheelie! Make sure that its front wheel does not hit the ground otherwise your game will be over. This character wants to ride for long on this bicycle. But he needs your help to drive his vehicle on the back wheel only. Remember you will lose your game immediately in case if the front wheel hits the ground or your character falls back.</div><div><br></div><div>There are multiple obstacles like the challenging ramps to deal with in this cool HTML5 bicycle game. Focus on your bicycle and do not forget to keep its wheel in the air to keep your character alive! Practice your balancing and driving abilities to survive for long, create your best new score and top the leaderboards! We are pretty sure that your good gaming skills will help you to become the best wheelie player. Give it a try now and challenge some of your best friends and family members!&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/c9a74071ed624a17969e517844b65a0d/\r\n",
+      "metaTitle": "Wheelie Challenge,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wheelie Challenge at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Wheelie Challenge Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10958,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-10-06T11:19:46.936Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP AND HOLD THE WHEELIE TO MOVE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO MOVE"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad75",
+      "name": "bicycle",
+      "slug": "bicycle",
+      "icon": "bicycle-racing-games"
+    }
+  }
+}
