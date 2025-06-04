@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad9b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf5d",
+      "id": 5099,
+      "name": "Jump Kitty",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "jump-kitty",
+      "image": "5099",
+      "url": "jump-kitty",
+      "description": "<div><span style=\"font-size: 13.3333px;\">A very unusual kitten is waiting for you in our brand new adventure game where only funny challenges exist. Do you want to meet her and become a part of her most awaited adventure journey? Join Jump Kitty game and get ready to guide her to jump from one platform to another and complete his adventurous and thrilling journey in a friendly environment! She has decided to go for a walk in a dense forest and, for this purpose, kitten needs your help.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This little and cute cat is on a mission to jump higher and go farther than any male cat has ever done. She believes on your skills, so do not let her feel down and be prepared to stay with her for as long as you can. Your objective in this cute html5 jumping game is to control kitten and help him stay strong all the obstacles that come on her way. It will be your responsibility now not to let any obstacle harm the kitten.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to be alert and jump over all the obstacles as fast as you can to avoid slipping, failing and losing! The entire words is full of obstacles, so try to be relaxed and keep your eyes on the screen all the time right from the moment when cat starts jumping. Aim perfectly and launch a perfect jump from box to box and set your highest score in this classic super-casual endless runner game! Avoid all the obstacles including platforms, rocks and more and collect coins to boost your score</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://m.shtoss.com/game/jump-kitty/index.html",
+      "metaTitle": "Jump Kitty,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jump Kitty at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Jump Kitty Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7608,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2023-08-26T23:34:55.768Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP CTAPPING THE KITTY TO JUMP TO NOT TO LET HER FALL ",
+      "webControlKeys": "KEEP CLICKING THE KITTY TO JUMP TO NOT TO LET HER FALL "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad9b",
+      "name": "jumping",
+      "slug": "jumping",
+      "icon": "icon-iconAsset-47"
+    }
+  }
+}
