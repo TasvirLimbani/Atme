@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b370",
+      "id": 1871,
+      "name": "Solitaire Fortune",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "solitaire-fortune",
+      "image": "1871",
+      "url": "solitaire-fortune",
+      "description": "Easy and fun solitaire game. The goal is to move all cards to the four foundations at the top. On the tableau cards are build down in suit.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/b9949a79e08f4cedb6981acda209e6eb/\r\n",
+      "metaTitle": "Solitaire Fortune, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Solitaire Fortune at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "Solitaire Fortune Game, Racing Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 32,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 17713,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2025-04-27T17:57:55.064Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "4.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
