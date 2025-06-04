@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6a",
+  "category_name": "baseball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae72",
+      "id": 158,
+      "name": "Allstar Baseball",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "allstar-baseball",
+      "image": "158",
+      "url": "allstar-baseball",
+      "description": "Among the games that are popular for and among Americans around, the most interesting one for online visitors is the Allstar baseball game that is one of the most popular baseball games online so far. In this cool and fun base ball game you will be guided by differing gaming options like help, option high score, etc, related in the game.<br><br>For selecting the team in this sports game online, you are offered with a very better targeted choice of selection between square and turkeys. In addition of selection of the team, next you are offered with a good number of bats to play with and being enjoyed with in this amazing game of baseball. In the game, you can choose from a good number of bats available and provided to the gamers.<br><br>As better will be the bat as easy for you to shoot in the game. Timing of the bat is another important aspect of the game. When user is bowling from his team throw the ball to retire the opposition better strike then time. The Allstar Baseball game also has many options to play as resume, option and quit. Shot selection depends upon what is your preceding about what had been your performance should be in the next game.",
+      "size": 800,
+      "height": 600,
+      "script": "<!-- Place this code where you'd like the game to appear -->\r\n<div class=\"miniclip-game-embed\" data-game-name=\"miniclip-allstar-baseball\" data-theme=\"0\" data-width=\"800\" data-height=\"600\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/miniclip-allstar-baseball/\">Play Miniclip Allstar Baseball</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/miniclip-allstar-baseball/\" target=\"_blank\">Play Miniclip Allstar Baseball</a> / More <a href=\"https://www.miniclip.com/games/genre-3/\" target=\"_blank\">Sports games</a></p>\r\n\r\n<!-- Insert this code before your </body> tag -->\r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "Allstar Baseball, Baseball Games - Play Online Free : Atmegame",
+      "metaDesc": "Allstar Baseball is one of the popular Americans Game Baseballs online versions that is being enjoyed by players for the real life fun and joy.",
+      "metaKeyword": "Allstar Baseball, Sports, Baseball, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 108,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 19802,
+      "ownGame": false,
+      "addDate": "2016-07-04T02:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.664Z",
+      "updatedAt": "2025-03-04T14:23:00.455Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT FOUND"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6a",
+      "name": "baseball",
+      "slug": "baseball",
+      "icon": "baseball-games"
+    }
+  }
+}
