@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c167",
+      "id": 5659,
+      "name": "Human Runner 3D",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "human-runner-3d",
+      "image": "5659",
+      "url": "human-runner-3d",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Adventure games can be a wonderful activity to kill your boring hours! So, if you are searching for something really adventurous and thrilling, you should immediately join Human Runner 3D. All your doubts will be cleared after playing this brand new platform game in your device. In this free online arcade puzzle challenge, you will have to control a character that looks like the human. Cross the finish line first after competing against the yellow humans!</span></div><div><span style=\"font-size: 13.3333px;\">This race is not easy as it looks, so make sure to put your concentration and hand-eye coordination to challenge to win in the biggest challenge. Try to use the realistic running physics and movement in this awesome endless runner game! It is up to you how perfectly you control your character and leave other racers behind in a race competition! Do not forget to avoid the obstacles when you are in a running mode towards your destination!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Be prepared to test out your running skills in several different levels in this one of the top 3D adventure games for kids! Do you think that you have the guts to become the master of physics and are sufficient enough to be a perfect human runner? Give this cool HTML5 platform game a try to prove your running skills! Try to reach your destination first while skilfully hitting the obstacles on the way of your opponents! Do your best and earn points to race and unlock new level in different 10 levels to play one for free!&nbsp;</span></div>",
+      "size": 440,
+      "height": 790,
+      "script": "https://html5.gamedistribution.com/6a20c2ef5ff945d39c4fd658703cae58/\r\n",
+      "metaTitle": "Human Runner 3D,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Human Runner 3D at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Human Runner 3D Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1556791949.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7944,
+      "ownGame": false,
+      "addDate": "2019-05-02T15:42:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.753Z",
+      "updatedAt": "2024-03-14T22:16:11.369Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,D UP L-R ARROW TO MOVE"
+    },
+    "rating": {
+      "rating": "0.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
