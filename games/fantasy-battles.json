@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb60",
+      "id": 4066,
+      "name": "Fantasy Battles",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "fantasy-battles",
+      "image": "4066",
+      "url": "fantasy-battles",
+      "description": "<div>It is always difficult to become a true action hero. Do you think that you that your ultimate fighting abilities can help to tackle up any tricky and difficult challenges? Join Fantasy Battles and be prepared to simulate the epic battles against the undead! Hey! You are not alone as the wide array of weapons will be there to support you. Choose you unit shown on the left and then tap the grid to place your chosen unit in this brand new action game!Wow! You can also use the 3D view to check your formation.</div><div><br></div><div>Click on Start The Battle and get ready to enter the virtual battlefield where your enemies are available in a great number! Select a unit and spawn it on the battleground using the left mouse button, rotate the camera by holding the right mouse button and move your camera by pressing arrow keys or WASD! Each unit includes particular weaknesses and strengths. Achieve your victory by applying the strategic formations! Fight your battle against a horde of 2000 soldiers that can spread more than 40 different units and can be from 4 different factions that include Orcs, Undead, Elves and Humans).</div><div><br></div><div>Create your army manually or let faction will work to prepare it automatically! Do not forget to select your company captains and army general before entering the fighting zone. Place your army of soldiers at the right place to destroy all your enemies that will try to enter your area! Good luck to clear all the deadly enemies before they attack you in each level! Play more engaging and interesting fighting challenges in our free action games that are playable on multiple devices without download!</div>",
+      "size": 1000,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/c6dd1c86ad0a47d9b8c4923029e97a60/\r\n",
+      "metaTitle": "Fantasy Battles, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Fantasy Battles at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Fantasy Battles Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 67,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9742,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2025-03-23T22:44:25.532Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK TO CREATE THE ARMY TO FIGHT THE ENEMY"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
