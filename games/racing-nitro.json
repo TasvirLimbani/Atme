@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b305",
+      "id": 1741,
+      "name": "Racing Nitro",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "racing-nitro",
+      "image": "1741",
+      "url": "racing-nitro",
+      "description": "Overtake your racing opponents and go for the win! Collect nitro to boost and spend your winnings on upgrades\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/6e9ab21045724159896c61c529095795/\r\n",
+      "metaTitle": "Racing Nitro, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Racing Nitro at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Racing Nitro Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629357.xml",
+      "idealFor": "Man",
+      "likes": 109,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 30315,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.695Z",
+      "updatedAt": "2025-02-11T20:43:25.656Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R SIDE OF SCREEN TO MOVE L-R",
+      "webControlKeys": "L-R ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "1.9",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
