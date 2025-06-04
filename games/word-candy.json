@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb04",
+      "id": 3973,
+      "name": "Word Candy",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "word-candy",
+      "image": "3973",
+      "url": "word-candy",
+      "description": "<div>Do you want to improve your vocabulary? Are you a lover of sweet candies? Is playing fun-filled brain puzzles your biggest hobby? No matter whatever the case is with you, this brand new arcade game can be your final fun destination. Learn new words, and get you entertained for hours in Word Candy! When you click the play button, some letters printed on different colour candies will be shown on the screen. Your job in this HTML5 puzzle game is to use them to prepare a meaningful word to collect candies.</div><div><br></div><div>It will be great fun to make words with the given letters and earn candy for you. Hey! Be careful and challenge your word power to create the longest word possible to get the bigger and sweeter award. Let us see how many words you will be able to make. Put your fingers on the mouse or tap the screen of your mobile phone to click the letters to prepare a word! Do not forget to hit the enter button to grab a candy when your word is made.</div><div><br></div><div>There are multiple words and levels to play through in this brand-new arcade game. Remember you would have a particular target to achieve within a time limit in each level. Track all the words you have guessed on the top half on the screen! Get a clue from the colours to complete each level on time! This cool word puzzle game features free undo and hints, multiple of levels, different game modes and objects to play with. Create your best score to be on the top of the leaderboards, have fun without download and do not forget to share your best times with your friends!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/word-candy-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Word Candy, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Word Candy at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Word Candy Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8532,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-07-17T06:44:29.591Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO MAKE THE WORDS ",
+      "webControlKeys": "L CLICK OF MOUSE TO MAKE THE WORDS "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
