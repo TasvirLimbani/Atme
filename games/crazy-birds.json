@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aee2",
+      "id": 443,
+      "name": "Crazy Birds",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "crazy-birds",
+      "image": "443",
+      "url": "crazy-birds",
+      "description": "<p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font face=\"verdana\"><span lang=\"EN-IN\" style=\"line-height: 115%;\"><font color=\"#000000\" size=\"2\">The online </font></span><span style=\"text-align: left;\"><font color=\"#000000\" size=\"2\">Crazy Birds </font></span><span style=\"color: rgb(0, 0, 0); font-size: small;\">puzzle games\r\nhappen to be the most patience full online games to the core objective of\r\ngetting the optimum level of gaming satisfaction and enjoyment. What makes the\r\nfree online puzzle games so unique from a player?s perspective is the endless\r\nlevel of quest and mystery involved in the game that keeps a player hanging on\r\ntill the last moment in wait about the next sudden activity in the game.</span></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><span lang=\"EN-IN\" style=\"line-height: 115%;\"><font color=\"#000000\" size=\"2\" face=\"verdana\">Therefore to get the best\r\nenjoyment and craze from the play online puzzle games, the game of crazy birds\r\nhas been introduced that has become one of the most popular online game for the\r\npuzzle game seekers and enthusiasts. The multiplayer online puzzle game Crazy\r\nBirds is the game that is known to be the best one for the serious gamers that\r\ncan enjoy it in a 28 level games starting from the level one.</font></span></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\">\r\n\r\n\r\n\r\n<span lang=\"EN-IN\" style=\"line-height: 115%;\"><font color=\"#000000\" size=\"2\" face=\"verdana\">In\r\nthe game, it is the crazy birds that are required to target the pigs and\r\ndevastate them using the rubber band and hit them. For killing the pigs in the\r\ngame, it is very necessary to hit straight them or make a mark upon the pillars\r\nupon which they use to stay quietly and calmly. However, when hitting the pig,\r\nthere a balance of marking is too necessary so that the bird may not run away\r\nfrom the goal absolutely and strikingly.</font></span></p>",
+      "size": 640,
+      "height": 640,
+      "script": "https://games.softgames.de/crazy-birds/?p=pub-13471-13727",
+      "metaTitle": "Crazy Birds, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Crazy Birds at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Crazy Birds, Arcade, Puzzle, Mobile Games, Crazy Birds Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 585,
+      "dislikes": 87,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 48339,
+      "ownGame": false,
+      "addDate": "2017-07-12T12:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2025-05-23T04:58:55.665Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT LOADING",
+      "webControlKeys": "NOT LOADING"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 32
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
