@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1df",
+      "id": 5799,
+      "name": "EG Zombies City",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "eg-zombies-city",
+      "image": "5799",
+      "url": "eg-zombies-city",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Blood thirsty zombies are everyone! EG Zombies City is a brand new action game where your job is to build your own city that will be full of dangerous zombies. Make sure to spot other human beings and convert them into the zombies. Don?t forget to attack other zombies who want to kill you! Be attentive and find people who are still living a human life! It will be difficult to approach them, but it?s your job to not show the pity on them.?</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This one of the highly addictive zombies games is perfect for all people who are passionate for exploring the virtual world of action-based thrill and adventure. In every moment, you will get a chance to meet with a kind of new fun and adventure. You can play this cool HTML5 game in your PC, smartphone or tablet when you have some free time. Enjoy it on your computer using the mouse, while you can tap or touch the screen when you play it on your mobile phone.?</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Use your brain and try to be very fast when you are on the mission in this one of the best action games! It is important to build up a proper strategy to survive till the end and ensure your win with a confidence. Make sure to bring a strong zombie strategy to deal with a remote attack. The cool sound, ultimate graphics and special effects of zombie attacks will help get you entertained for a number of hours.?</span></div>",
+      "size": 800,
+      "height": 620,
+      "script": "https://html5.gamedistribution.com/80522c95f7ee458d9399c988358e84a7/\r\n",
+      "metaTitle": "EG Zombies City,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EG Zombies City at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "EG Zombies City Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557761581.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7806,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:03:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.755Z",
+      "updatedAt": "2024-11-24T07:52:24.139Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
