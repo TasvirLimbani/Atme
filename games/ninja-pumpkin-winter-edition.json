@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfdb",
+      "id": 5232,
+      "name": "Ninja Pumpkin Winter Edition",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "ninja-pumpkin-winter-edition",
+      "image": "5232",
+      "url": "ninja-pumpkin-winter-edition",
+      "description": "There are many coins in each level and by collecting 30 coins, you will get an extra life. This game is not easy, so I strongly suggest that you try to catch these coins because you will probably need these extra lives later! There are 10 levels in total and your score is based on the amount of time that you spent on finishing each level.\r\n",
+      "size": 800,
+      "height": 525,
+      "script": "https://html5.gamedistribution.com/69965c16397b48bdad1754a20e224b16/\r\n",
+      "metaTitle": "Ninja Pumpkin Winter Edition,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ninja Pumpkin Winter Edition at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ninja Pumpkin Winter Edition Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352188.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6811,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.748Z",
+      "updatedAt": "2022-08-23T23:21:30.161Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "S/DOWN ARROW TO DOWN, UP ARROW/W- JUMP"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
