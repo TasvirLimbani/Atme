@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd73",
+      "id": 4603,
+      "name": "Aqua Pipes",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "aqua-pipes",
+      "image": "4603",
+      "url": "aqua-pipes",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The best puzzle challenge has just reached out to your home today! Join this brand new arcade game right away and get ready to finish the highly addictive and tricky challenges by playing the role of a plumber! The best part is that the controls of the game are very easy to understand. It can be played by players from all age groups so enter this cool puzzle pipe game and prove the world that you can sort out any challenge with the least possible moves.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Choose a difficulty level from Easy, Casual, Challenging, Expert and Extreme in this cute html5 puzzle challenge! Put your brain to the challenge and help the purified water flow to the blue pipes as fast as you can! Take your time and connect the right road for your pipes since there are no time limits! On the left side of the corner, you can see the minimum gold pipes to use. Click the watch solution to use the hint for solving puzzle! See at the bottom of the screen to know how many moves you have used till now!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You can click the quit button show at the bottom of the screen to see the home page and change your difficult level anytime. Your every successful effort will reward you with some points. Keep focusing on the screen and connecting all the pipes to complete all levels and become the champion of a cool puzzle challenge! Give it a try to check out the status of your wisdom and intelligence! Have fun alone or with your friends in multiple devices, no download required!</span></div>",
+      "size": 1200,
+      "height": 800,
+      "script": "\nhttps://html5.gamedistribution.com/9705ec8c469b4d97a0ed9d9bcf8f1702/\n",
+      "metaTitle": "Aqua Pipes, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Aqua Pipes at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Aqua Pipes Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527483.xml",
+      "idealFor": "All",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7734,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-02-07T20:27:47.641Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO JOIN THE PIPE",
+      "webControlKeys": "KEEP L-CLICK PRESS AND SWIPE TO JOIN THE PIPE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
