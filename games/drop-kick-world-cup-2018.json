@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b46e",
+      "id": 2145,
+      "name": "Drop Kick World Cup 2018",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "drop-kick-world-cup-2018",
+      "image": "2145",
+      "url": "drop-kick-world-cup-2018",
+      "description": "Time for another football challenge! It is World Cup and you are the one to lead your squad to the trophy. Pick your team and crash the opponent with your precise volleys.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/6cfc9336c25b45eb8232d11719d2bddc/\r\n",
+      "metaTitle": "Drop Kick World Cup 2018, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Drop Kick World Cup 2018 at atmegame.com ! We have selected this soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Drop Kick World Cup 2018 Game, Action Games, soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1522756682.xml",
+      "idealFor": "Man",
+      "likes": 53,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 16730,
+      "ownGame": false,
+      "addDate": "2018-04-03T17:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.703Z",
+      "updatedAt": "2025-02-11T20:55:42.322Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THYE PLAYER TO CONTROL",
+      "webControlKeys": "KEEP PRESS L CLICK 0F MOUSE AND SWIPE TO CONTROL THE PLAYER."
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
