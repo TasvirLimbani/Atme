@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af08",
+      "id": 487,
+      "name": "Cricket Master Blaster",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "cricket-master-blaster",
+      "image": "487",
+      "url": "cricket-master-blaster",
+      "description": "<div>One of the most in-demand sports for boys to play, Cricket Master Blaster game is an ultimate treat to cricket enthusiasts. Playing this free cricket game online in your browser makes sure that you will have all the fun you missed out in your last cricket match played on the ground. When you play this popular flash game, you will feel that you are on the playground in real and ready to hit the coming ball. Remember that you are the last player, so don’t lose your wicket to the opposition team. Hit every ball hard you face scoring the maximum possible score!&nbsp;&nbsp;</div><div><br></div><div>You can also enjoy this free online cricket game for kids alone and with your friends. Read all the instructions properly and roll up your sleeves to become the cricket master blaster by smashing the ball towards the boundary in order to ensure the victory of your team.&nbsp; Complete the target of every over confidently to move towards the advanced level.&nbsp;</div><div><br></div><div>You can press the space key when you get ready to face the ball of the opponent team in this exclusively-designed flash game. Select your shot with the help of directional arrow keys. A great timing is required to score a six. In the first level, you are given two overs to cover the score of 12 runs. With every level, your target score increases in this mind-blowing and most challenging free sports game. Thus, use your best cricketing skills to make the best use of every ball you face. Good luck to play well and take the trophy to your home!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "487_swf.swf",
+      "metaTitle": "Cricket Master Blaster, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cricket Master Blaster at atmegame.com ! We have selected this Cricket  games for best excitement and thrill in you!",
+      "metaKeyword": "Cricket Master Blaster, Sports, Cricket Games, Cricket Master Blaster Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 108,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 40683,
+      "ownGame": false,
+      "addDate": "2017-07-19T21:55:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.668Z",
+      "updatedAt": "2024-02-22T11:19:24.810Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.2",
+      "count": 28
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
