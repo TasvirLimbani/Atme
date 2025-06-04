@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c101",
+      "id": 5539,
+      "name": "Gun Zombies",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "gun-zombies",
+      "image": "5539",
+      "url": "gun-zombies",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Deadly zombies are back with more aggression than ever before! The only way to survive in this scary environment is to eliminate all of these blood-thirsty souls. Are you ready to go on this unique and challenging mission? Join Gun Zombies and get ready to face a horde of dangerous zombies who will keep coming at you! This brand new action game guarantees you to offer thrill and entertainment in the optimum possible way. Your ultimate shooting skills and quick reaction time will help to ensure your victory in the end.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this free online shooting game is to shoot all zombies before they cross the line you can see on the screen. Try to hold the line for as long as you can do to overcome the situation! Make sure to keep your eyes open all the time since the zombie horde rushes towards you regularly. Cycle through guns, grenades and various other different weapons to survive in this cool zombie survival game! Remember there are also chances of running out of ammo so use your bullets wisely.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Do not let your face become their dish for tonight. Show off your intense fighting moves and prevent zombies from moving forward to cross the line in this physics based shooting game! Many other levels are there to unblock in case of earning enough stars. Aim and shoot with your mouse when you play it on your desktop! Tap the screen when you enjoy this HTML5 game on your mobiles! This fps gun shooter game is suitable for users with 13 years of age or older. Good luck to check out more free online zombie games on atmegame.com!</span></div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/b9e6a749e7bd4f1b9ec2f5e4229581eb/\r\n",
+      "metaTitle": "Gun Zombies, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Gun Zombies at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Gun Zombies Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453347.xml",
+      "idealFor": "Man",
+      "likes": 84,
+      "dislikes": 9,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 29450,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2025-06-04T05:21:45.573Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO SHOOT THE ZOMBIES, LEFT ICON TO RELOAD THE GUN AND THROW THE BOMB",
+      "webControlKeys": "LEFT CLICK OPF MOUAS ETO SHOOT THE ZOMBIES,R- FROUNT TARGET"
+    },
+    "rating": {
+      "rating": "3.1",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
