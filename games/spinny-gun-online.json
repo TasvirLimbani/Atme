@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfd4",
+      "id": 5223,
+      "name": "Spinny Gun Online",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "spinny-gun-online",
+      "image": "5223",
+      "url": "spinny-gun-online",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Out of countless action-packed challenges, games featuring shooting are one of the most popular ones. Today we are proud to introduce you a brand new action game where you find nothing, but fun and thrill in a greater proportion. Are you ready to accept a challenge to prove yourself one of the best shooters of your city? Join Spinny Gun Online and show off the world that you have the skill to destroy every target in the shortest possible time! Controls of the game are very easy and simple to understand.</span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this cool shooting game is to destroy all yellow targets while avoiding the red ones to complete every stage. Grab your gun and be prepared to destroy many targets in different stages! Your successful efforts will also help you collect some extra and unlock new and advanced weapons. Use rifles, machineguns, pistols, shotguns and more as per the requirements! Apart from purchasing new guns, you can also buy more bullets and weapons in shop.&nbsp; Do your best to reach the highest score and wear the crown of being the best spinner gun!</span></div><div><span style=\"font-size: 13.3333px;\">Try to complete each target without running out of ammunition! You find your gun at the center of the screen and you see your targets revolving. Use the LMB to fire and you will see your gun starts moving after each shot. Take some time before releasing the fire to avoid missing your shot! Keep your eyes at the below screen to see how many bullets you have to use now! Your game will end as you run out of ammo or shoot a red target. Good luck to grab good money and invest in better guns!!</span></div>",
+      "size": 450,
+      "height": 750,
+      "script": "https://html5.gamedistribution.com/e14698719f3946f0b74444a00bf46e8e/\r\n",
+      "metaTitle": "Spinny Gun Online,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Spinny Gun Online at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Spinny Gun Online Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352188.xml",
+      "idealFor": "Man",
+      "likes": 20,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9620,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.748Z",
+      "updatedAt": "2024-08-15T11:16:44.149Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO SHOOT",
+      "webControlKeys": "L CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
