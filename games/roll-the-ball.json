@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd8b",
+      "id": 4627,
+      "name": "Roll the Ball",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "roll-the-ball",
+      "image": "4627",
+      "url": "roll-the-ball",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Oh wow! This time we have come up with a brand new arcade challenge where you can play with a cute ball in multiple blocks. Your objective is to help the ball to unblock the path for its goal by moving the wooden tiles in Roll The ball. Is not quite interesting and challenging? All you need to do is just put your fingers on your mouse or tap the screen and allow yourself to enter the real fun of highly challenging puzzle challenge. The controls of the game as simple as you find in other games.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Lots of difficulties will be there on the way of your ball. Feel free to move any block you want to make a way for the steel ball to reach the goal in this cool html5 puzzle game! This beautifully-designed sliding block game is prepared for everyone so you can enjoy it no matter which age you belong to. You have to join it to find out whether it is a jigsaw puzzle, a maze or a plumber. Put your logical abilities and brain skills to the test to guide your ball to roll into the goal location!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to apply the least possible moves to get the job done to complete each level with the maximum amount of stars! There are 60 unique and engaging levels to play online in this modern challenging twist. Keep moving your blocks until your ball starts rolling from the start location to the end point! No time limits and no penalties and there are so many hints and rewards to guide you! Try it out brain teaser right away to enhance your hand-eye coordination and agility! Good luck to kill the time and practice your brain with ease in our blocks games that are also free to play, no download required!</span></div>",
+      "size": 800,
+      "height": 480,
+      "script": "\nhttps://html5.gamedistribution.com/ef86dc1bc2724eae941452a2f5822966/\n",
+      "metaTitle": "Roll the Ball, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Roll the Ball at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Roll the Ball Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 63,
+      "dislikes": 9,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 15252,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2025-06-01T03:11:20.329Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "SWIPE THE BOX BY L CLICK OF MOUSE TO MAKE THE WAY FOR BALL"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
