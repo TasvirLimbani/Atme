@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c354",
+      "id": 6314,
+      "name": "Moto Real Bike Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "moto-real-bike-racing",
+      "image": "6314",
+      "url": "moto-real-bike-racing",
+      "description": "<div>We have good news for all the bikers! Would to make your dream of riding an exclusively-designed and expensive bike come true? Join Moto Real Bike Racing and be prepared to ride one of the finest motorbikes in the virtual world! Only those who love challenging their bike riding abilities and going beyond their limits should try out this latest racing game. You would have multiple motorbikes to drive, modification options, different missions and maps to explore.</div><div><br></div><div>Choose from any out of two options free mode and missions and get ready to blow you away to the optimum level possible! In the mission mode, you would have 10 unique and challenging levels to play through. Hey friends! There are many more to come in the coming time so do not get disappointed. Try to complete checkpoints within the limited time period to complete each level in this HTML5 bike game! Complete levels, earn coins and use that money to purchase new and faster motorbikes!</div><div><br></div><div>However, in some missions, your objective may differ from the previous ones. Grab keys, race for time and show off the world that you have the skill of becoming a best biker all across the world! This bike driving simulator features realistic speed and motor sound, various simple and easy points and controls, different types of motorbikes, and bike customizing options. Complete all races on time and break the record through your ultimate bike driving abilities!</div>",
+      "size": 960,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/0418077834c04165806f432b5d4b2117/\r\n",
+      "metaTitle": "Moto Real Bike Racing Game, Bike - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Moto Real Bike Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Moto Real Bike Racing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579523644.xml",
+      "idealFor": "Man",
+      "likes": 127,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 20532,
+      "ownGame": false,
+      "addDate": "2020-01-20T18:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-03-03T03:22:17.564Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D AND ALL AAROWS TO DIRECTION CONTROL, SPACE TO BREAK"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 23
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
