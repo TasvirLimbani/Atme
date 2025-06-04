@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbc6",
+      "id": 4171,
+      "name": "1010 Block Puzzle",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "1010-block-puzzle",
+      "image": "4171",
+      "url": "1010-block-puzzle",
+      "description": "<div>The highly addictive and fun-filled engaging block puzzle challenge is out! Join 1010! Block Puzzle and be prepared to fit the shapes into rows of ten by clearing the blocks! Build and destroy the full liens both horizontally and vertically by connecting shapes together! Hey friends! The best part is that that there will be no match 3 repetition, no color matching and no time limit. Put your brain and puzzle-solving abilities to have a great amount of fun in this brand new arcade game!</div><div><br></div><div>Your game will continue only if you keep creating enough space for new blocks. Make sure to place the blocks onto the 10x10 board strategically to eliminate the old blocks and adjust the new ones. You would also get a chance to earn some extra points by filling up rows to remove the blocks from play. Be careful and try to drag and drop the new block pieces until you create enough space for another move!</div><div><br></div><div>Hey friends! Your final score will be added to the global leaderboards once you lose your game. Joining this addicting brain teaser allows you to train your brain and help you enter the unique puzzle world! Create lines by combing blocks, building and destroying structures in this cool HTML5 brain teaser! The gameplay is very simple and controls are very intuitive. Stay connected with us to find some new free arcade puzzle games and have a blast without download!</div>",
+      "size": 500,
+      "height": 790,
+      "script": "https://html5.gamedistribution.com/7603768da9df4e1eb3849a88af32be84/\r\n",
+      "metaTitle": "1010 Block Puzzle,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 1010 Block Puzzle at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "1010 Block Puzzle Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543658660.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8743,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.733Z",
+      "updatedAt": "2024-01-26T13:09:47.032Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS ON ON THE BLOCKS AND DRAG IT TO THE BOX TO COMPLETE THE ROW AND COLOM"
+    },
+    "rating": {
+      "rating": "1.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
