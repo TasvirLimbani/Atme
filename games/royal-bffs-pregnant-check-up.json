@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b7fa",
+      "id": 3131,
+      "name": "Royal BFFs Pregnant Check up",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "royal-bffs-pregnant-check-up",
+      "image": "3131",
+      "url": "royal-bffs-pregnant-check-up",
+      "description": "Two pregnant princesses are going together to the doctors for one last check-up before having their babies! Step into the medical room and learn how to use an ultrasound machine or a stethoscope. After you were made sure everything is going well with the babies, prepare a delicious fruit shake for the mommies and play with colorful belly tattoos!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/b3e29295cbb84732945f3581352e1e72/\r\n",
+      "metaTitle": "Royal BFFs Pregnant Check up,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Royal BFFs Pregnant Check up at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Royal BFFs Pregnant Check up Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533531766.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8065,
+      "ownGame": false,
+      "addDate": "2018-08-06T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.719Z",
+      "updatedAt": "2024-03-24T05:34:01.511Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SELCT TYHE ITEMS FOR PREGNATE LADIES CHECKUP",
+      "webControlKeys": "L CLICK 0F MOUSE TO PICK THE ITEMS FOR PREGNATE LADIES CHECKUP"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
