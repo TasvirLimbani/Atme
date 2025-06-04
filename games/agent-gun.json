@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0e9",
+      "id": 5512,
+      "name": "Agent Gun",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "agent-gun",
+      "image": "5512",
+      "url": "agent-gun",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Deadly men are everywhere. You are surrounded by a horde of evil souls that would take your lives in just a few seconds after spotting you. They are determined to find and kill you easily. The only way you can survive is to get yourself ready for the biggest battle of your life. Grab your shotgun and be prepared to hunt for these bloodthirsty criminals in Agent Gun! Try to put your ultimate shooting skills to test to eliminate all these bad souls! It is time to take all your enemies down as you play the role of a secret agent.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your quick timely reaction will help to overcome these bad guys who you find above you on the stairs. Do not take your steps back and get ready to climb to the top of each building to gun down before they do the same against you. Try to collect as many coins as possible to unlock various useful items in this free online action game! Your ultimate shooting skills will successfully guide you towards unlocking new levels!?</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The coins you have accumulated on your way will help to unlock new hats in this addictive gun shooter. No policemen will be there to assist you on your way. You will be the only one who is sufficient enough to stand strong against these outlaws. Keep your finger on the trigger and get ready to kill at least 8 enemies to clear each level! Your very successful killing will help you get gold coins that you can use to buy hats for your character. Check out more free html5 shooting games here!</span></div>",
+      "size": 340,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/152dc04d97ca47b88bf84915b216ba0f/\r\n",
+      "metaTitle": "Agent Gun, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Agent Gun at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Agent Gun Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453232.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9081,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2023-10-25T20:28:53.020Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO HIT",
+      "webControlKeys": "LEFT CLICK OF MOUSRE TO SHOOT THE TARGET "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
