@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bc17",
+      "id": 4253,
+      "name": "Car Mayhem",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "car-mayhem",
+      "image": "4253",
+      "url": "car-mayhem",
+      "description": "<div>Hey boys! Are you ready to enter the biggest racing track you have ever played online? If yes, join Car Mayhem game and be prepared to control a van shooting ward with an objective of blowing up as many cars as you can in the sky. This crowded highway is full of obstacles where your smart driving abilities and excellent hand-eye coordination can only help make your way towards victory. Cover the longer distance to earn enough money to upgrade your vehicles!</div><div><br></div><div>Lots of barriers are lying on the road to increase the complexities for you. Your car will be stopped immediately when it will try to slam into them. Be careful and try to avoid these deadly obstacles perfectly on the road to cover the maximum possible distance! Your vehicle will be crashed into the wreckage if you put your eyes off the screen for a single second or give your vehicle the wrong direction to move on. Performing well will help secure enough money to buy upgrades and new weapons for your car in this road rage rampage!</div><div><br></div><div>Give that cash to your mechanic or the mad scientist who will be happy to provide you with the needful assistance in this car racing game! Ask him to make car modifications you want with the help of money you earn! Be careful since a police barricade will be shown at a little distance. Grab the weak spot and get your vehicle through the barrel safely to your destination in this cool car race game! Ty out free car games on atmegame.com and have fun alone or with your friends no download required!</div>",
+      "size": 900,
+      "height": 680,
+      "script": "https://html5.gamedistribution.com/73bc44f230a543df90af34907f5dc3b0/\r\n",
+      "metaTitle": "Car Mayhem Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Car Mayhem at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Car Mayhem Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543659297.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10386,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:44:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.734Z",
+      "updatedAt": "2024-03-03T02:08:24.273Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "A,D, L-R ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "0.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
