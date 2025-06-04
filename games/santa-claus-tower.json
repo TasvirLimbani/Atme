@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd33",
+      "id": 4539,
+      "name": "Santa Claus Tower",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "santa-claus-tower",
+      "image": "4539",
+      "url": "santa-claus-tower",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This time Santa has come to build the longest tower of the city! But he needs your help to complete this highly challenging task. Would you come forward and guide him to build a sky touching tower? Join Santa Claus Tower and get ready to help him to build as high tower as possible! The main problem is that he wants to construct a sky rocketed building with the help of gifts not with the help of houses or other objects.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">When you click the play button, you would see a Santa standing at the bottom of the screen. Sky is the only limit for you. Get ready to play the role of an architect in this cool html5 puzzle challenge! His children are waiting for this kind of unique gift from the hands of Santa. No need to have knowledge about the construction world to complete your task. You would notice a gift handing from a crane at the top of the screen when you enter a level of this brand new arcade game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This gift keeps moving back and forth on the screen. Click on the screen to make each gift release and create a balanced tower! Your every successful placing of the gift will help you to earn 1 point. Track your score on the top left corner of the screen! You would have three lives to use. Dropping a gift on the ground takes your each life from you. Avoid making too many mistakes and stack gifts on top of each other! Check out more online building towers and play for free without download app or software!</span></div>",
+      "size": 400,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/435eb5f6d3e74d22be4b5a784099e8ab/\n",
+      "metaTitle": "Santa Claus Tower, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Santa Claus Tower at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Santa Claus Tower Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527222.xml",
+      "idealFor": "All",
+      "likes": 4,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6912,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:50:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-01-27T15:33:16.463Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO DROP THE GIFT BOXES",
+      "webControlKeys": "L CLICK OF MOUSE TO DROP THYE BOX PERFECTLY "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
