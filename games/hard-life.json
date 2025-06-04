@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1b2",
+      "id": 5744,
+      "name": "Hard Life",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "hard-life",
+      "image": "5744",
+      "url": "hard-life",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a big fan of adventure games? If yes, you must join Hard life game right away to provide you with an opportunity to have matchless fun and thrill. This brand new platform game will take you to a world where your survival will depend on running. Your job objective is to control different unlucky characters who want to want to walk on the platform that is packed with a number of torture tools and horrible traps. Make sure to use the arrow keys or tap controls to move your characters and complete each level.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">When you control the characters during their survival through the obstacles, hazards and dangers of hard life, also keep your eyes on the stars that you see on the screen. Complete each level with 3 stars to unlock new characters! Try to simply run forward and avoid all the deadly objects in this intense deadly action game! Many new characters like Mr. Donald Trump, a creepy alien or your favourite Ninja are there to unlock.</span></div><div><span style=\"font-size: 13.3333px;\">It will be fun to see how many times you will die tragically before touching the end line! Your focus and running skill will surely promote you to complete all levels successfully. Remember, the platform is full of life-threatening incidents and obstacles. Join this fun physics-based game and prove the world that you have the skill to conquer Hard Life in once piece! The 15 tricky levels will surely keep you engrossed for hours. Good luck to have a blast in our all games that feature unmatched adventure and entertainment!</span></div>",
+      "size": 1200,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/9433b7ab07ae44389cdd9f62eb70b5e7/\r\n",
+      "metaTitle": "Hard Life,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hard Life at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Hard Life Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557761121.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8628,
+      "ownGame": false,
+      "addDate": "2019-05-13T20:55:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.755Z",
+      "updatedAt": "2024-07-26T18:23:29.107Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICON TO JUMP,LEFT ICONS TO MOVE THE MAN",
+      "webControlKeys": "ALL ARROWS TO CONTROL THE MAN, R- RESTART THE GAME"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
