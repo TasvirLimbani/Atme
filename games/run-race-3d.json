@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1ae",
+      "id": 5739,
+      "name": "Run Race 3D",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "run-race-3d",
+      "image": "5739",
+      "url": "run-race-3d",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Here is a good news for all the racing game lovers! We have brought to you a brand new adventure challenge that will surely keep you entertained for hours! Join Rune Race 3D and get ready to show off your intense racing skill in a friendly and realistic environment! It will be amazing to compete with others and enjoy the real parkour experience. Your objective in this free online running game is to flip to jump higher, slide to get faster, climb ropes and jump from wall to wall.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Make sure to grab to swing and use the monkey bars to not fall. In this cool racing game, you will get a chance to play the role of a little character who will run by its own. The problem is that you don’t get to turn, speed up or stop. The better you will control its jumps, the higher score you will be able to make in the end. You can easily reach the higher platforms by bouncing off walls and making the coloured runner jump. This will also help you to mark your presence on the finish line first.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Three laps are a part of every race. Hence, do your best to finish the complete race faster than other participants. The key mantra of winning this 3D running game is to never stop running. You will have dozens of maps to explore. Apply the different set of skills to ensure your win. Beat your opponents to improve your ranking. Customization of different things related to your character is also possible. As a response, you can change her skin, dance, clothing and many more. Avoid falling into water in this fun new run race game! Good luck to have a blast with your friends!!</span></div>",
+      "size": 440,
+      "height": 790,
+      "script": "https://html5.gamedistribution.com/4ac8ddb483bc42e09d1655bd90073b18/\r\n",
+      "metaTitle": "Run Race 3D,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Run Race 3D at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Run Race 3D Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557564016.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8056,
+      "ownGame": false,
+      "addDate": "2019-05-11T14:10:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2024-03-16T07:08:12.841Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "SPACE-JUMP ,KEEP CLICK ON THE HERO TO MOVE UP CONSTANTLT"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
