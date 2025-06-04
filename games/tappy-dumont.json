@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbed",
+      "id": 4210,
+      "name": "Tappy Dumont",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "tappy-dumont",
+      "image": "4210",
+      "url": "tappy-dumont",
+      "description": "<div>The highly challenging and extremely entertaining adventure challenge is out! Would you like to stay with it to have the best time online? Join Tappy Dumont and be prepared to help your favorite character Santos Dumont to reach his destination location in the sky without being crashed! The best part is that you can control his plane with just a few simple touches. Do not take your eyes off from the screen as the sky is full of deadly obstacles that would try to prevent from moving forward.</div><div><br></div><div>Try to keep your plane away from the tree trunks that will keep appearing on the screen time to time! Guide your plan pass through the maximum trucks possible to hit your best score on the screen in this brand new adventure game! Your plane would get crashed into the trunks if it blows untimely. It will be amazing to control a popular pilot who has a dream of flying his plane across Paris in this HTML5 flying game. Get ready to witness the awesome view and fabulous architecture of the city when you control him to fly his plane!</div><div><br></div><div><br></div><div>He has a full faith on your flying abilities so it is up to how to help him to deal with the multiple barriers you see on his way like the broke trees. You can keep his plane in the air with the help of LMB. Focus on the details and guide him to progress as far as possible to complete the game with the maximum score possible in this endless 2D arcade game! The beautiful Paris city in the background, the gameplay inspired by Flappy Bird and intuitive controls will surely be able to keep you glued to the screen for long.</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/33f23190859d4fdf87b414e1607aa02e/\r\n",
+      "metaTitle": "Tappy Dumont Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tappy Dumont at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Tappy Dumont Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543659100.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7668,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:41:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.733Z",
+      "updatedAt": "2023-12-26T10:37:15.859Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPPING ON SCREEN TO FLY",
+      "webControlKeys": "KEEP CLICK L CLICK OF MOUSE TO FLY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
