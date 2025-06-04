@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1a8",
+      "id": 1327,
+      "name": "Goal Champion",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "goal-champion",
+      "image": "1327",
+      "url": "goal-champion",
+      "description": "<div>Here is a good news to all the soccer game lovers especially to those who are fond of spending good time over the web! We have got covered a brand new soccer game for you, which you can explore in your device anytime anywhere you want. Are you ready to try it once in your device? Join Goal Champion and get ready to forget the world around you! In this free online sports, you will have to score a goal to collect points and ensure your win.&nbsp;</div><div>Fill yourself with the gaming spirit to kick the ball and score your goal! Avoid the defending player and goalie to achieve your mission in this one of the best soccer games for boys! Use the mouse to change the kicking direction of your ball by dragging the target! Then tap the ball to kick it hard. Powered by HTML5, this exciting football game will run smoothly on all modern browsers. The cute graphics, seamless gameplay and easy control make it suitable for all.&nbsp;</div><div>Developed by Tempa Labs from Indonesia, Goal Champion is a first-rate soccer game that you can explore alone or with your friends. It includes three major tournaments, including Local Cup, Serie1 and Championship league. First tournament will be played between level 1 to level 8, second falls between level 9 to level 16 and you can enjoy the third between level 17 to level 24. You have to shoot the ball in each level. Score 3 points to complete each level. Your will lose if goal keeper catches your ball 3 times. Keep scoring the goal and dodging the obstacles!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/f39819dd2c0d4ffb88b02a6c1b3187ec/\r\n",
+      "metaTitle": "Goal Champion, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Goal Champion at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Goal Champion Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299458.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 12196,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.687Z",
+      "updatedAt": "2024-08-27T05:24:40.236Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO MAKE A GOAL",
+      "webControlKeys": "L-CLICK OF MOUSE TO GOAL"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
