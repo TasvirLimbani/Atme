@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b98d",
+      "id": 3569,
+      "name": "Fun Girls Night",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "fun-girls-night",
+      "image": "3569",
+      "url": "fun-girls-night",
+      "description": "Aurora, Rapunzel, and Ariel are having a girls night. They played fun games and challenges together. What a fun girls night! Let's join their games!\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "\nhttps://html5.gamedistribution.com/4119ecc134c74362a60b95b05e7d8886/\n",
+      "metaTitle": "Fun Girls Night, Dressing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Fun Girls Night at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Fun Girls Night Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335025.xml",
+      "idealFor": "All",
+      "likes": 18,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8233,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.725Z",
+      "updatedAt": "2024-08-27T02:06:27.182Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": "L CLICK OF MOUSE TO DRESSUP"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
