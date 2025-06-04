@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad73",
+  "category_name": "horse",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad73",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4ae",
+      "id": 2210,
+      "name": "Jhansis Ride",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "jhansis-ride",
+      "image": "2210",
+      "url": "jhansis-ride",
+      "description": "Jhansi ki Rani is on her horse ride session. You control the ride with the arrow keys. You should avoid incoming horse riders as well as the local people who are passing by and crossing the road. You can either avoid them by moving away or jumping over them. If you see some Army officers walking by crash onto them and sent them flying.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/b80ae8f04c83464ab09f3fce30203257/\r\n",
+      "metaTitle": "Jhansis Ride, Racing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jhansis Ride at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Jhansis Ride Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1523600544.xml",
+      "idealFor": "Man",
+      "likes": 101,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 37050,
+      "ownGame": false,
+      "addDate": "2018-04-13T11:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2024-11-24T08:59:20.935Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE HORSE ICON TO JUMP",
+      "webControlKeys": "SPACE-JUMP, UP/DOWN ARROWS TO UP/DOWN MOVE"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 12
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad73",
+      "name": "horse",
+      "slug": "horse",
+      "icon": "Horse Riding"
+    }
+  }
+}
