@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c413",
+      "id": 6531,
+      "name": "Funny Animals Match3",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "funny-animals-match3",
+      "image": "6531",
+      "url": "funny-animals-match3",
+      "description": "<div>Hey friends, we have a good news for all the match-3 lovers! We have brought to you a brand new arcade challenge where your objective is to match 3 or more funny animal images to create your score. Use your brain and puzzle-solving abilities to clear as many lines of animals as possible as fast as you can! Feel free to move 3 similar animals to a column or row! Put your finger on your mouse or tap the animal to drag it to the space you want it to go!</div><div><br></div><div>The identical animals will be removed from the screen when you match them in this HTML5 puzzle game. Do not forget to continue your dream mission to level up. Common boys and girls! You have the skill of creating the longest chain of similar pets in this extremely funny and challenging free match 3 game. The best thing is that you would have multiple levels, bonuses and achievements to cherish. Chain will be destroyed if a stone tile comes under the pet.</div><div><br></div><div>Your every successful animal matching will reward you with some bonus time. So keep matching 3 or same funny animals to get going in this highly addictive hyper-casual match3 game. You can find out countless lovable pets of all varieties, eye-catching graphics and colorful gameplay, and spectacular bonuses. It is easy to play, but difficult to master of this cute animal game. Good luck to play more terrific match 3 puzzle games for free on our website and have fun without download!</div>",
+      "size": 450,
+      "height": 800,
+      "script": "https://games.atmegame.com/games/funny-animals-match3/",
+      "metaTitle": "Funny Animals Match3 Game, Puzzle - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Funny Animals Match3 at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Funny Animals Match3, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 237,
+      "dislikes": 45,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 68961,
+      "ownGame": true,
+      "addDate": "2020-07-12T19:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-04-29T13:29:03.600Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO MAKE THE MATCH OF THREE ANIMALS",
+      "webControlKeys": "TRY TO MAKE THE PAIR OF 3 ANIMALS TO KILL THEM BY LEFT CLICK"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 22
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
