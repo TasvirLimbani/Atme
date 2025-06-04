@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6b",
+  "category_name": "golf",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6b",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aec8",
+      "id": 262,
+      "name": "Maya Golf",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "maya-golf",
+      "image": "262",
+      "url": "maya-golf",
+      "description": "Generally, considered as a game of generosity and excellence, in the game of Maya Golf, you play in the great celebrity game while shooting ball into the holes to achieve the expertise of throwing the ball into the marvellous 16th hole to emerge as a champion in the game of Maya Golf.<br><br>This particular free golf game is consisted of 8 level and you have to score as much as maximum holes in minimum possible time in this particular game of Golf.<br><br>While playing the game, you will come across a massive number of difficulties and problems while reaching into the last hole in the game. As better, you perform in a game as much score in the forms of the point.<br><br>In the golf games online in the series of sports games online, you would have to face difficulties like water ponds, trees and boulders, etc, that are very natural and very keen and existing part in the game of golf.<br><br>The role of mouse in the game is paramount and maximum advantage. Left click the mouse and drag, rotate and push according to the power stored by the stretched length of the arrow in this amazing online golf games. As better you adjust the mouse as excellent your performance would be in the game.",
+      "size": 800,
+      "height": 600,
+      "script": "https://cdn.htmlgames.com/MayaGolf/",
+      "metaTitle": "Maya golf, Golf Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Maya Golf is learnt to be the best online golf playing option for the players that love to go for the practicing golf before getting into the golf court.",
+      "metaKeyword": "Maya golf, Sports, Golf, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 101,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 17080,
+      "ownGame": false,
+      "addDate": "2017-03-08T23:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2025-03-18T15:40:06.472Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L-CLICK OF MOUSE TO DRAG AND HIT"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6b",
+      "name": "golf",
+      "slug": "golf",
+      "icon": "golf-games"
+    }
+  }
+}
