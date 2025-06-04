@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c210",
+      "id": 5875,
+      "name": "Fancy Birds Puzzle",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "fancy-birds-puzzle",
+      "image": "5875",
+      "url": "fancy-birds-puzzle",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Kids can enjoy this lovely brand new arcade game a lot due to its gameplay and the availability of the pictures of their several cute birds. Suitable for the players of all ages, Fancy Birds Puzzle is a highly addictive challenge where various types of jigsaw puzzles are available to entertain you. Your goal in this free online puzzle game is to create a complete picture of a bird that is seen on the screen for a few seconds with the help of its pieces. Get ready to challenge your brain and memory power to win!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You will have three modes for each picture to explore. Choose from easy, medium and hard as per your wish in this most popular kids puzzle! In easy mode, you will be given only a few pieces to connect with each other to complete the picture. On the contrary, you will have comparatively more pieces to get connected with each other to create a bird when you choose medium and hard mode. The beauty of this cool HTML5 game is that you will have no time limit to complete the puzzle.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Click on the home page button given at the top on the left side of the screen! The hint button given at the bottom on the right side of the screen will help you get an idea how to complete the puzzle. So, no need to bother if you are confused and not able to solve the puzzle. You can also check out our more games to explore the puzzle world in your own way! We are sure that you will definitely get something that can catch your attention once you explore our all games page. Good luck to complete this birds kids puzzle fast to hit the best score!</span></div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/cc7cc1b413624ca4a5961304aec1bb28/\r\n",
+      "metaTitle": "Fancy Birds Puzzle,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Fancy Birds Puzzle at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Fancy Birds Puzzle Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762208.xml",
+      "idealFor": "Man",
+      "likes": 31,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8560,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.756Z",
+      "updatedAt": "2025-01-13T02:30:42.592Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP  TO JOIN THE PUZZLE OF PICTURE",
+      "webControlKeys": "LEFT CLICK TO JOIN THE PUZZLE OF PICTURE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
