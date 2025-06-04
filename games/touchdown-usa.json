@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad61",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae49",
+      "id": 115,
+      "name": "Touchdown Usa",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "touchdown-usa",
+      "image": "115",
+      "url": "touchdown-usa",
+      "description": "The most popular game of American football has come to your doorstep to entertain and rejoice you in one of the most competitive and thrilling free rugby game online. In the version of sports game for free there are two modes to enjoy the game. The college and pro are the two mediums of the game. First of all in the game, you need to play college mode as a tutorial and learning activity and then move next to professional medium.<br><br>When you start the game the toss can be done and toss winner can start the game by running and reach till end there is total 4 quarters and there is total 8 offensive plays are double corner blitz, standard, cover 2, zone blitz, contain 1, prevent, power dog, contain 2 etc. this is game which you need to reach till the target goal and when you reach till you will get a chance of to get double point and extra point. In the game, there are total three powers ups; bonus speed, untouchable and bonus energy. The game control is very simple and easy. In the game move with arrow keys and use space bar to dodge, c for sprint and b for pass.",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=d601e3dee13a40fcaf22ffb57c300912",
+      "metaTitle": "Touchdown USA, Rugby Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Touchdown USA one of the most renowned game of American Football offer you an opportunity to you get entertained and rejoiced at the same time.",
+      "metaKeyword": "Touchdown USA, Sports, Rugby, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 101,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13286,
+      "ownGame": false,
+      "addDate": "2016-07-03T06:42:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2024-07-16T12:36:13.407Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad61",
+      "name": "rugby",
+      "slug": "rugby",
+      "icon": "rugby-games"
+    }
+  }
+}
