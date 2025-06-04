@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0d8",
+      "id": 5494,
+      "name": "Soldier Legend",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "soldier-legend",
+      "image": "5494",
+      "url": "soldier-legend",
+      "description": "<div><span style=\"font-size: 13.3333px;\">We have come today with one of the greatest action packed challenges of all the time. This brand new action game guarantees you to enter an environment filled with unlimited fun and thrill. Join Soldier Legend game right now to be a part of the awesome adventure world! Your objective in this cool html5 game is to fight against millions of monsters, aliens and various other dangerous opponents. Show off your shooting ability to clear all levels of this one of the best shooting games!</span></div><div><span style=\"font-size: 13.3333px;\">It takes a few minutes to become a top military legend. Your favorite planet Earth is attacked by a great number of aliens. The primary objective of these deadly monsters is to kill all people lived on Earth. You are the only one who is sufficient enough to face them and send them to the hell. Grab your gun and get ready to save the world by killing all these blood-thirsty souls! Do not forget to reload all your weapons on time to give your enemies a great fight in this latest fighting game!</span></div><div><span style=\"font-size: 13.3333px;\">Kill your enemies, jump over the platform, avoid bombs and grab money that you see falling from enemies! Use that money to purchase ammunition and advanced weapons in the shop! Your higher score will depend upon how long you survive in this mobile gun game. Be attentive as your enemies will increase from level to level! Do your best to overcome all the waves of oncoming invaders and complete all 30 levels of this one of the top strategy games for boys! Try more new boys action games for free!</span></div>",
+      "size": 800,
+      "height": 420,
+      "script": "https://html5.gamedistribution.com/c99cab53c92a47f8acf461b967dfedc9/\r\n",
+      "metaTitle": "Soldier Legend, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Soldier Legend at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Soldier Legend Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453232.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9270,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2024-08-13T14:01:41.718Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICONS TO MOVE ,RIGHT ICON TO SHOOT",
+      "webControlKeys": "A,D, ALL ARROWS TO MOVE, L CLICK OF MOUSE TO AIM AND SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
