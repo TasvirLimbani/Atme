@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3d6",
+      "id": 6468,
+      "name": "Fury Road Rampage",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "fury-road-rampage",
+      "image": "6468",
+      "url": "fury-road-rampage",
+      "description": "<div>The biggest car adventure challenge has hit your home today! Why are you waiting for someone else to tell you about this unique challenge to play? Join Fury Road Rampage and be prepared to guide your chosen vehicle through the most exciting journey! Surviving in this road that is full of deadly obstacles requires intense driving abilities. You have to shoot continuously to clean the area from a horde of dangerous enemies and survive. Make your way by putting your intense shooting abilities!</div><div><br></div><div>Your enemies will attack through both air and ground so you will not have a single second to relax until you clean them all. Your impressive performance will depend upon how long you will survive. Keep your brain active all the time and do not forget to move the range of your gun upward and downward to kill as many enemies as you can! The more you kill and survive, the higher points you will be able to make in the end.</div><div><br></div><div>With the coins you earned throughout your journey, you can upgrade your vehicles to Viper, Lance and more in this HTML5 running game. Try to stay for as long as possible to create your best new score and top the leaderboards! You would not be asked to download game in your device. Our free adventure games are playable on multiple browsers and can be accessible without download anytime anywhere. Good luck to have a good time with your friends and families while staying safe at your home!</div>",
+      "size": 850,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/931a1312685b4e1fb8ac0db5e330e60f/\r\n",
+      "metaTitle": "Fury Road Rampage Game, Running - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Fury Road Rampage at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Fury Road Rampage Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 30,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9358,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-02-04T18:18:47.714Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "CONTROL THE GUN BY LEFT CURSER"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
