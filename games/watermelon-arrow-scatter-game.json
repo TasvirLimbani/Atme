@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0ef",
+      "id": 5520,
+      "name": "Watermelon Arrow Scatter Game",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "watermelon-arrow-scatter-game",
+      "image": "5520",
+      "url": "watermelon-arrow-scatter-game",
+      "description": "Watermelon Arrow scatter will give you great tricky arrow shooting experience throughout all the levels of the game. Use Keyboard Left and right arrow keys to shoot the watermelon. Have a great shooting Experience!\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/0f17fbb168dc4650aa589f6a103d9558/\r\n",
+      "metaTitle": "Watermelon Arrow Scatter Game, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Watermelon Arrow Scatter Game at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Watermelon Arrow Scatter Game Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453347.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8920,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2024-05-08T12:12:38.142Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "PROBLEM LOADIND GAME IN ALL MODES"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
