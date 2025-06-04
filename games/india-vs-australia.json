@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae4d",
+      "id": 119,
+      "name": "India Vs Australia",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "india-vs-australia",
+      "image": "119",
+      "url": "india-vs-australia",
+      "description": "There could be no attracting and mind blowing game in India than the cricket. As cricketer in India are treated and tempted as demigods. In the free sports game series, in this particular game, there India and Australia are portrayed as a die-hard cricket opponents teams. In this very interesting online cricket game, teams can be selected by you either India or Australia.<br><br>The entire game of cricket between two teams of India and Australia is of the five over in all as the temperament fit to be of fast paced of twenty-twenty environment. After winning the toss, first all, you have to decide whether you need to go for batting or letting your opponent to be bat first.<br><br>Now, it comes the turn of playing. For a batsman to move around the wicket, it you can use left and right arrow key. After the batsman become positioned before the wicket, press arrow keys for the direction of the shot while pressing A for smooth shot and S for the power shot. At the same times press space bar for bowler to bowl in the game of cricket.<br><br>To play this online cricket game, effectively, the combination and timing of pressing the arrow keys in combination of A and S key is very essential and unique to make full of five over and win the full games.",
+      "size": 800,
+      "height": 600,
+      "script": "119_swf.swf",
+      "metaTitle": "india vs australia, Cricket Games - Play Online Free : Atmegame",
+      "metaDesc": "Cricket: India vs Australia is the most favourite cricket game that is preferred by the gamers for a massive rivalry and sense of competition in the game.",
+      "metaKeyword": "india vs australia, Sports, Cricket, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 536,
+      "dislikes": 23,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 102682,
+      "ownGame": false,
+      "addDate": "2016-07-03T06:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2024-04-09T05:58:15.129Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 203
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
