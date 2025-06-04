@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b60a",
+      "id": 2608,
+      "name": "NASCAR Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "nascar-racing",
+      "image": "2608",
+      "url": "nascar-racing",
+      "description": "<div>Nascar is a home to crazy speeds, roaring engines and outstanding vehicles. The world popular Nascar series have been witnessed the surprising and thrilling vehicles. The snarling engines used in the vehicles run in the Nascar rally allow the Nascar drives to ride the vehicles at insane speeds. The special metallurgy used by the Nascar teams today allow them to survive even in the unexpected 10,000-rpm operations. The hard surface coatings like diamond-like carbon and titanium nitride enables the engines run like this. There are chances of exploding the engines without making these special adjustments.</div><div><br></div><div>Special drivers are needed to ride these types of vehicles. Are you capable of controlling different types of beautifully-crafted Nascar rally vehicles? With smooth gameplay and brilliant graphics, you are sure to enjoy the never seen gaming experience in this brand new 3D car racing game for boys - NASCAR Racing. Drive your vehicle like a pro and keep unlocking faster cars with the completion of each level. Make your win in races, collect your earned money and visit your garage to purchase new super Chevrolets</div><div><br></div><div>Keep the steering wheel of your car straight and be careful while making a turn in this cool PC game. Winning races will be possible only if you apply your driving skills and patience during the rally. Avoid cutting into the infield – there will be higher chances of getting you penalized and returning back to the starting grid. Common on boys! Use your unmatched talent to become a NASCAR legend for this year! Conquer the track and show the world that you have amazing racing skills in this one of the best car driving games!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/nascar-racing/index.php",
+      "metaTitle": "NASCAR Racing, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game NASCAR Racing at atmegame.com ! We have selected this car games for best excitement and thrill in you!",
+      "metaKeyword": "NASCAR Racing Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 9358,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.712Z",
+      "updatedAt": "2024-03-08T08:18:08.479Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE, SPACE- BREAK, C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
