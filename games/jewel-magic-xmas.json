@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd2e",
+      "id": 4534,
+      "name": "Jewel Magic Xmas",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "jewel-magic-xmas",
+      "image": "4534",
+      "url": "jewel-magic-xmas",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you in a mood of celebrating Christmas? If this is the case, what better could be than enjoying the festive spirit by matching Christmas gifts, bells, candy canes and more? Join Jewel Magic Xmas and get ready to match 3 or more items by swapping to adjacent gems or jewels! Put your quick hand-eye coordination and matching abilities to the test to create the more impressive combos to earn a bonus piece! Each level of this brand new arcade challenge includes multiple Christmas-themed jewels.</span></div><div><span style=\"font-size: 13.3333px;\">It will be amazing to solve the complicated puzzles in different challenging levels and secure some highly attractive points for your each successful effort. The ultimate combo will definitely be yours if you obtain the level goal with 3 stars rating.&nbsp; Matching 3 of the same items rewards you with something good, but the matching 4, 5 or more of the same Christmas items will reward you with better points and, of course, score. Put your fingers on your mouse or tap the screen to spin the lucky wheel daily to get the boosters!</span></div><div><span style=\"font-size: 13.3333px;\">Complete available levels to unlock the rest one that is seen on the next screen in this Christmas-based match 3 game! Click and drag multiple items and prepare a row or column of the 3 or more same items to make them disappear from the board! Track your score by looking at the progress bar shown at the bottom of the screen! Check out another popular title from our extensive collection of Christmas games for boys and girls and have fun with your friends, no download required!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/e10d5cadae2544b6889403722f7b354a/\n",
+      "metaTitle": "Jewel Magic Xmas, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jewel Magic Xmas at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Jewel Magic Xmas Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527222.xml",
+      "idealFor": "All",
+      "likes": 5,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7273,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:50:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-03-09T21:27:41.133Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO MATCH THE SAME IMAGES IN ROWS AND COLOUMS,CONNECT ATLEAST 3 IMAGES",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE ANS SWIPE TO MATCH THE SAME IMAGES IN ROW AND COLOMS, MATCH AT LEAST 3 IMAGES"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
