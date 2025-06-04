@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2f7",
+      "id": 6185,
+      "name": "Traffic Run Christmas",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "traffic-run-christmas",
+      "image": "6185",
+      "url": "traffic-run-christmas",
+      "description": "<div>People seem to get very busy since Christmas is quite close and they have a very short period of time to make the preparations for the celebration. But, what will happen when this festival will pass by. Hey! We have got you covered with a brand new racing game that will help you to enjoy the spirit of your favorite festival whenever you have free time to use. Are you ready to get that kind of fun? Join Traffic Run Christmas and be prepared to control a cute small car properly!</div><div><br></div><div>Your objective in this HTML5 car game is to drive a vehicle to the finish line while avoiding all the hurdles including traffic. Your level will be completed only if your car reaches to the destination point without hitting with any of the obstacles. Fasten your seatbelt and get ready to guide your blue color car through 30 unique and addictive levels! Make sure to keep it away from the trains and moving candy. Keep your eyes on the candy canes and try to collect as many as you can to unlock new cars!</div><div><br></div><div>This Christmas-themed festive game features seamless gameplay, easy controls and nice cool graphics to enjoy. Be careful and do hard work to reach the finish line without crashing your car otherwise you will lose your game immediately! Make your vehicle stop anytime by pressing the LMB! When you are here with us, why do not you check other popular free racing mobile games to have the best quality fun and entertainment?</div>",
+      "size": 470,
+      "height": 750,
+      "script": "https://html5.gamedistribution.com/729ff49222174df5a9e0648214acf896/\r\n",
+      "metaTitle": "Traffic Run Christmas, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Traffic Run Christmas at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Traffic Run Christmas Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1577254675.xml",
+      "idealFor": "Man",
+      "likes": 220,
+      "dislikes": 15,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 80704,
+      "ownGame": false,
+      "addDate": "2019-12-25T11:47:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2025-04-05T17:08:50.911Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO HOLD THE SCREEN  TO MOVE, RELESE THE SCREEN TO BREAK",
+      "webControlKeys": "TAP TO HOLD THE LEFT CLICK OF MOUSE TO MOVE, RELESE THE  MOUSE TO BREAK"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 35
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
