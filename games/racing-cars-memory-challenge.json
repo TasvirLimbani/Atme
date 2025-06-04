@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1fc",
+      "id": 5846,
+      "name": "Racing Cars Memory Challenge",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "racing-cars-memory-challenge",
+      "image": "5846",
+      "url": "racing-cars-memory-challenge",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Playing memory games online can be a fun activity for many gamers. If you want to improve your memory by exploring a new designs of racing cars, checking it out this brand new puzzle game can be a nice idea for you. We are sure that this free online arcade challenge doesn’t only help to enhance your memory, but the exploration of this activity can help keep you occupied for hours. All you need is to check out the instructions and rules that many other brain games include.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Racing Cars Memory Challenge is cool fun HTML5 game designed for kids, teenagers and grown-ups. Your primary objective in this lovely kids puzzle game is to match all car images that you see on the screen of your game screen. Begin this racing game with selecting the level mode and get ready to enter into a pool full of unlimited fun and pleasure! You have to challenge your memory and cognitive skill to win this game. Use your mouse to play it on your computer or you can explore it on your mobile device or tablet by swiping or tapping!</span></div><div><span style=\"font-size: 13.3333px;\">Make sure to rotate your tablet or phone to make the improvements on the proper orientation of your screen. The faster you complete your objective; the higher score you will obtain in the end of this free online brain game. This memory game includes simple controls with cool graphics, and seamless gameplay! No need to bother if you don’t like this puzzle challenge! Feel free to check out the page of more games to spice up your fun time to the ultimate level!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div>",
+      "size": 854,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/6485b2a3cdcd495091258cf64a7e95f0/\r\n",
+      "metaTitle": "Racing Cars Memory Challenge,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Racing Cars Memory Challenge at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Racing Cars Memory Challenge Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762208.xml",
+      "idealFor": "Man",
+      "likes": 41,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11800,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.756Z",
+      "updatedAt": "2025-05-23T14:24:28.500Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE IMAGES TO MATCH THE SAME IMAGES",
+      "webControlKeys": "CLICK ON THE IMAGES TO MATCH THE SAMME IMAGES"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
