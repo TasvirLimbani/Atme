@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad89",
+  "category_name": "kids",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad92",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3a7",
+      "id": 6421,
+      "name": "Balloon Protect",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "balloon-protect",
+      "image": "6421",
+      "url": "balloon-protect",
+      "description": "<div>A cute white and small white balloon needs your help. Would you like to help it out right away? Join Balloon Protect and be prepared to provide your balloon with the full protection against the moving objects! It looks very easy to handle, but find difficulty in becoming the master of the gameplay. Guide the shield in different directions to protect it from multiple types of moving objects in this brand new arcade game! It is up to you now to rise it up in peace.</div><div><br></div><div>This lovely balloon relies on your abilities a lot so try to stay in the game for long to bring a huge smile on its face. Remember you will lose the game immediately if any of the obstacles hits your balloon along the way. Hold your mouse or swipe your finger on the screen of your mobile phone to move the shield from left to right in this HTML5 hidden-objects game! It requires challenging your quick reflexes and hand-eyes coordination skills to get the top score.</div><div><br></div><div>Track your score by checking the top left corner of the screen while the top right corner of the screen will show the level you are presently playing in! Your achievements will be shown on the top middle part of the screen when the game is finished. Complete all levels and create your best score and do not forget to share it with your friends and families in this cool balloon game! Enjoy it without download and get a chance to bring the glory to your home by setting your own highest score! There are 5 Unlock-Able Balloons to grab &amp; protect and it is a free to play option to have fun.</div>",
+      "size": 330,
+      "height": 590,
+      "script": "https://html5.gamedistribution.com/0a1b5f4c85d14f52b45cc089a2a50995/\r\n",
+      "metaTitle": "Balloon Protect Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Balloon Protect at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Balloon Protect Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842458.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 6990,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2024-04-08T09:38:15.311Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS SCREEN ON POWERTO SAVE THE BALOON",
+      "webControlKeys": "KEEP PRESS LEFT CURSUR ON POWERTO SAVE THE BALOON"
+    },
+    "rating": {
+      "rating": "3.2",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad92",
+      "name": "hidden-objects",
+      "slug": "hidden-objects",
+      "icon": "Hidden Objects"
+    }
+  }
+}
