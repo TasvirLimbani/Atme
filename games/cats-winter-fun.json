@@ -1,0 +1,64 @@
+{
+  "category_id": "630560b2a0677a23c682ad81",
+  "category_name": "animals",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad81",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b895",
+      "id": 3288,
+      "name": "Cats Winter Fun",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "cats-winter-fun",
+      "image": "3288",
+      "url": "cats-winter-fun",
+      "description": "Our favorites cats are here on this winter dress-up fun game. Outside is snowing and they think is the best time to go and play. Help them pick the best out fit for playing in the snow. Have fun!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/66133dbbbee944df9dbf5603e335a435/\r\n",
+      "metaTitle": "Cats Winter Fun, Animal Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cats Winter Fun at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Cats Winter Fun Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533533253.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8597,
+      "ownGame": false,
+      "addDate": "2018-08-06T10:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.721Z",
+      "updatedAt": "2025-03-09T02:54:35.342Z",
+      "__v": 0
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad81",
+      "name": "animals",
+      "slug": "animals",
+      "icon": "Animals Games"
+    }
+  }
+}
