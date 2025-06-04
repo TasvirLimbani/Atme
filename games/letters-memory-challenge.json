@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd38",
+      "id": 4544,
+      "name": "Letters Memory Challenge",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "letters-memory-challenge",
+      "image": "4544",
+      "url": "letters-memory-challenge",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you think that your kids do not have a good understanding of letters? Do you want to help your child to get connected with an easy-to-understanding letter puzzle challenge that also boosts their memory? If yes, help them to join Letters Memory Challenge and get ready to notice the difference in their habit of recognizing the letters fast. Playing this brand new arcade game would also improve your memory amazingly! Find all the matching images of the letters to complete all levels!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Choose any out of easy, medium, hard and expert and click on a new game button to enter the fun challenge! When you are done, a screen will be displayed showing your final score you have obtained out of 100. Put your letter recognition and fast clicking abilities to the test to complete your game with the best possible score! No worries if you score lower initially since you can use as many attempts as you can to create your new best score!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The best part is that our website maintains a wide range of highly-engaging and addictive letter and word puzzle games that are designed for kids, teenagers and grown-ups. Browse through our wider arcade game collection to decide which game suits your needs the most! All games are available to play online for free and playable on multiple devices, including desktops, mobile phones, and tablets. You can also try them out on iPads or iPhones. Good luck to play the best matching memory games and have fun with your friends, no download required!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/d414118fead340708438d18b13fe0543/\n",
+      "metaTitle": "Letters Memory Challenge, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Letters Memory Challenge at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Letters Memory Challenge Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7263,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2023-06-06T01:47:21.459Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE TILES TO MATCH THE SAME IMAGES",
+      "webControlKeys": "L CLICK OF MOUSE ON THE CARDS TO MATCH THE SAME IMAGE"
+    },
+    "rating": {
+      "rating": "2.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
