@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bcfd",
+      "id": 4484,
+      "name": "Chicken Invaders",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "chicken-invaders",
+      "image": "4484",
+      "url": "chicken-invaders",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This time your galaxy has been invaded by a horde of dangerous chickens. Do you think that you are skilled enough to let your space free from these alien invaders? Join Chicken Invaders and prove the world that you can fight hard to protect your space from blood-sucking enemies! These chickens are very bad and try to put every possible effort to destroy your plane. The problem is that they are good in numbers and the only way to protect you is to eliminate them from the screen.</span></div><div><span style=\"font-size: 13.3333px;\">The good thing is that every chicken killing will reward you with 1 coin. Try to kill as many chickens as possible to collect the maximum possible coins! The more coins you have, the better power you can purchase from the in-house shop. There are multiple levels to play through in this html5 shooting game. You can also track your coins and achievements by looking at the bottom left corner of the screen. Keep your eyes on the bottom right corner to know your present level and power!</span></div><div><span style=\"font-size: 13.3333px;\">Destroy all the chicken you see on the screen using your spaceship and weapons in this space shooter game! Take out the chickens with a continuous stream of lasers by moving left to right! Challenge your quick reflexes and flying abilities to take them down all! Do not forget to grab the various power-ups to improve your firepower. Fight like a champion in the sky to save the universe like never before! Enjoy to the fullest in many other top titles from the category of space shooter games, no download required on atmegame.com!</span></div><div><br></div>",
+      "size": 500,
+      "height": 790,
+      "script": "\nhttps://html5.gamedistribution.com/c0dfc3c50d5748d7b83931de5e2fa849/\n",
+      "metaTitle": "Chicken Invaders, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Chicken Invaders at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Chicken Invaders Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544526946.xml",
+      "idealFor": "All",
+      "likes": 26,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11245,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2025-05-19T10:30:38.217Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOSE ON SHIP TO MOVE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
