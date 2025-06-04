@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0ac",
+      "id": 5447,
+      "name": "Stunt Planes",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "stunt-planes",
+      "image": "5447",
+      "url": "stunt-planes",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Stunt Planes is a cool flying game designed for games of all ages. You have to fly your plane through different hoops while avoiding difficulties to clear each level. It will test how good you are to fly aeroplane in a realistic virtual world. Make sure to reach your destination as fast as possible to get a max of points while crossing to hoops with booster. There are thousands of levels to play online for free here. So, do not worry about getting bored for a single minute.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to fly your plane safely through the hoop and avoid hitting any of its sides to a nearby area in this one of the best adventure games for boys! We know that you are capable enough to fly up and down and take care of all the hurdles to complete each level. Once you lose all of your lives you have given, your final score will be submitted to the leaderboards in this html5 plane game. It will be amazing to control a small airplane in an open blue sky.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Fly through all of the circles to get you rewarded with some golden coins! Your game will come to an end if you miss any of them. Your difficult will increase as you progress in this free flying game. You can buy yourself out with the coins that you have accumulated during the gameplay. Enjoy this game on your mobile phone or desktop computer! Begin this ultimate online flight game and show the world that you are an excellent pilot! Go through more acrobatic flight maneuvers in our more pilot games!</span></div>",
+      "size": 550,
+      "height": 400,
+      "script": "https://html5.gamedistribution.com/5b50396960bb45a5a28843524820e11a/\r\n",
+      "metaTitle": "Stunt Planes,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stunt Planes at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stunt Planes Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12623,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2024-10-10T00:09:47.647Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS LEFT ICONS TO CONTROL THE PLANE",
+      "webControlKeys": "UP DOWN ARROW TO CONTROL THE PLANE "
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
