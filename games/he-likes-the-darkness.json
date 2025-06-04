@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bdd6",
+      "id": 4703,
+      "name": "He Likes The Darkness",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "he-likes-the-darkness",
+      "image": "4703",
+      "url": "he-likes-the-darkness",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Not everyone loves to be in the dark, but today we have got you covered with a brand new arcade challenge where you would find a character that likes darkness very much. He alone finds it difficult to stay alive in this place. You are his only hope. Do you like to guide him to safely navigate to this dark portal? Join He Likes The Darkness and be prepared to help the little monster to stay in the dark! Use your brain and puzzle-solving abilities to clear each level!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to avoid all the dangerous enemies and deadly objects while looking forward to grabbing all the stars in this html5 platform game! The coins you collect would help you to unlock new and improved characters and unlock the gate to the next level. Choose from seven different worlds and get ready to participate in highly engaging and fun activities! There are 100 challenging levels to explore and you can move your character left, right, and make him jump to grab all the items.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">In this cute Halloween side-scroller, your objective is to grab enough stars to open the door. Do not bother friends! The controls of the game are very simple and easy. Make sure to make your cute little monster jump across to multiple platforms in this cool platform jumping game. There are many complex challenges to deal with when you progress through the different worlds. Use coins to purchase new characters and increase your fun! Enjoy it in desktop browsers, mobile browsers, iOS apps and android apps!</span></div>",
+      "size": 1920,
+      "height": 1080,
+      "script": "https://m.shtoss.com/game/he-likes-the-darkness/index.html\r\n",
+      "metaTitle": "He Likes The Darkness, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game He Likes The Darkness at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "He Likes The Darkness Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7154,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.740Z",
+      "updatedAt": "2024-02-06T10:59:43.367Z",
+      "__v": 0,
+      "mobileControlKeys": "L-ICON TO L-R MOVE,R-ICON TO JUMP",
+      "webControlKeys": "NOT FITTING IN SCREEN"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
