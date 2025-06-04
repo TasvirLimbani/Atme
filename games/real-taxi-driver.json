@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2de",
+      "id": 6158,
+      "name": "Real Taxi Driver",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "real-taxi-driver",
+      "image": "6158",
+      "url": "real-taxi-driver",
+      "description": "<div>Driving on the streets can be a big fun especially when you have some tasks to complete. Today we have got you covered with a brand new online game where you have to challenge your racing abilities to accomplish a particular task. Join Real Taxi Driver and gear up to live a life of a passionate and highly professional taxi driver! Your objective in this cool taxi simulator is to pick up your customers and drop them on their target destination on time.</div><div><br></div><div>Make sure to put the satisfaction of your customer on the priority basis. In this one of the best HTML5 racing games, you will get an opportunity to live to the end of an awesome taxi simulator excitement. Common, friends! This a very big city where you have to drive multiple car models while browsing their multiple car modes. Choose a taxi driver as a career option, practice your car parking skills or allow yourself to drive your vehicle in the city freely!</div><div><br></div><div>Select any option out of four modes including mission mode, free mode, park mode and multiplayer in this cool car game! Complete your missions, get points and do not forget to purchase new cars with the money you earn to improve your taxi career. This multiple car game features night and day modes, fun visual and sound effects, a navigation system, realistic vehicle physics, navigation system, realistic animation passengers and systematic city and 3D graphics.</div>",
+      "size": 900,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/8fd0acd1ab5f4422b96b60c9deb10659/\r\n",
+      "metaTitle": "Real Taxi Driver, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Real Taxi Driver at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Real Taxi Driver Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569524127.xml",
+      "idealFor": "Man",
+      "likes": 24,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8854,
+      "ownGame": false,
+      "addDate": "2019-09-27T00:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2024-09-17T21:13:41.708Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE,SPACE-BREAK,C-CHANGE VIEW"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
