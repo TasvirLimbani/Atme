@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd86",
+      "id": 4622,
+      "name": "Flappy Unicorn",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "flappy-unicorn",
+      "image": "4622",
+      "url": "flappy-unicorn",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Like many others, you love to play the role of a cute and magical unicorn. If yes, then you should not miss out an opportunity on trying out this brand new adventure challenge where you have to guide a little and cute unicorn. Are you ready to take on this challenge, friends? Join Flappy Unicorn and be prepared to guide your character to fly through the rainbow sky while avoiding the crystal pillars! Lots of obstacles will be there on his way to deal with.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your nice efforts will not go in vain since clearing every obstacle will help you reward with a gem. Try to clear as many obstacles as you can to grab the maximum number of gems in this cool html5 flying game! Put your fingers on your mouse when you play it on your desktop or tap the screen if you try it out in your tablet or mobile phone! Be careful while looking forward to make your character jump at the right time to cross as many crystal pillars as possible to score higher!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This lovely dragon swipe game has countless features, including 6 different power-ups as well as bigger gaps, fast-forward, slow-motion and shield. It will be a great fun to control good-looking magical unicorn and help it to survive as long as possible to hit the best score. Keep avoiding all the obstacles you see on his way and beat the highscores through your focused and quick reflexes! Let us see how many levels you will clear! Check out more flying games for boys that are free to play online, no download required!</span></div><div><br></div>",
+      "size": 480,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/a78a73e5f84840788269e76daaa2f1d4/\r\n",
+      "metaTitle": "Flappy Unicorn, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Flappy Unicorn at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Flappy Unicorn Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7581,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-03-17T16:31:31.255Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPPING ON SCREEN TO FLY UNICON",
+      "webControlKeys": "KEEP CLICKING L CLICK OF MOUSE TO FLY UNICON"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
