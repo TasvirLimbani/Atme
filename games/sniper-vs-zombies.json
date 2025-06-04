@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0fe",
+      "id": 5536,
+      "name": "Sniper vs Zombies",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "sniper-vs-zombies",
+      "image": "5536",
+      "url": "sniper-vs-zombies",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is a dark night today when a huge horde of zombies has decided to walk around the city. These deadly zombies are not going to show pity on you since blood of humans is their favorite dish. All the people of your building are highly dependent on you as you are the only person who knows how to shoot down these blood-thirsty souls. So, what you are waiting for? Join Sniper Vs Zombies game and get ready to help people get rid of these evil souls! Remember you will have only 10 seconds to find and shoot them.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"background-color: transparent;\">Try to be very quick as the group of zombies are continuously your way! Search them in the darkness by using the scope available on your sniper rifle! We know that it takes skills to find and kill all zombies in this free online zombie game. The clock will reset to 10 seconds every time you shoot a zombie. Do not show pity on them as very soon you will see a new zombie coming to you! It is time to show your professional sniper skill to challenge in this brand new action game.&nbsp;</span></div><div><span style=\"background-color: transparent;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Avoid being worried about the black pitch there. Use the scope to find them and clear the area with your utmost shooting skills! Do your best and try to stay as long as possible to create a high score in the end! It is up to you how bravely you save a group of people who stay with you in the building in this one of the best HTML5 games for kids! Good luck to have a blast in this zombie killing game! Feel free to browse more action games for boys here to keep you busy for long!</span></div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/cede49b730094c53bd61198c2f6dc3c4/\r\n",
+      "metaTitle": "Sniper vs Zombies, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sniper vs Zombies at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Sniper vs Zombies Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453347.xml",
+      "idealFor": "Man",
+      "likes": 41,
+      "dislikes": 8,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10829,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2025-05-02T18:21:07.593Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT JOYSTICK TO SEARCH THE ZOMBIES, RIGHT ICONS TO RELOAD AND SHOOT",
+      "webControlKeys": "SCROLL WITH MOUSE TO FIND THE ZOMBIES, LEFT CLICK TO HIT"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
