@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bc0e",
+      "id": 4244,
+      "name": "Mad Scientist",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "mad-scientist",
+      "image": "4244",
+      "url": "mad-scientist",
+      "description": "<div>Are you ready boys to go a highly engaging and entertaining adventure of your life? Do you like scientists? We have got you covered with a brand new adventure game where you have to control a scientist who is on a different mission to complete rather than making experiments in the lab. This scientist loves killing people with his current weapon and has today entered a unique planet in a search for upgrading his weapons. Join Mad Scientist and be prepared to help him go as far as possible!</div><div><br></div><div>This is the first time when he will have multiple enemies wearing the same dresses to deal with. They can attack him when they pass by him so try to help him operate his weapon timely to kill his enemies. Try to make him jump and run and cover the maximum distance possible to create the highest score in this one of the best HTML5 platform games for boys! Do not forget to grab all 10 types of weapons and multiple items to improve his inventory of secret improvements.</div><div><br></div><div>Track his health status by looking at the top left corner of the screen! The middle part of the screen will show your present score while the top right corner of the screen will tell you that how many weapons you have collected yet. Use the electric shock to destroy all your enemies and become a champion of this cool war puzzle! This runner shooter is playable on desktops, mobile phones and tablets and can be played without download.</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/mad-scientist/",
+      "metaTitle": "Mad Scientist Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mad Scientist at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mad Scientist Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543659297.xml",
+      "idealFor": "Man",
+      "likes": 284,
+      "dislikes": 37,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 83366,
+      "ownGame": true,
+      "addDate": "2018-12-01T15:44:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.734Z",
+      "updatedAt": "2025-05-29T14:59:44.465Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING CORRECTLY IN PHONE(L ICON- JUMP, R ICON- SHOOT)",
+      "webControlKeys": "W, UP ARROW TO JUMP, SPACE- SHOOT"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 47
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
