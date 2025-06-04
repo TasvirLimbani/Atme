@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf51",
+      "id": 5087,
+      "name": "Traffic Driver",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "traffic-driver",
+      "image": "5087",
+      "url": "traffic-driver",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Another masterpiece from the extensive and wonderful category of racing games, this brand new car game has everything that you want to have fun. So, what are you waiting for? Join Traffic Driver and get ready to sit behind the steering wheels of a beautiful motor vehicle! You have to keep driving to set your high score while avoiding the other vehicles. Make sure to maintain a proper distance from other cars to go for as long as possible.</span></div><div><span style=\"font-size: 13.3333px;\">Trying out this html5 driving challenge will definitely allow you to add new fun and thrill of your racing experience! The real life recorded car sounds, improved graphics and exclusive first person perspective will surely be enough to keep you glued to the screen for hours. Drive your car in the smooth and fabulous arcade racing platform and take your fantasy for speed to the next level! Move your car left and right using the arrow keys on computer or tapping the screen on mobile phone!</span></div><div><span style=\"font-size: 13.3333px;\">Play like a racing champion, break some records and collect enough points to purchase new car models! Your fabulous performance will depend on how to beat your previous records and create a new high score. Good luck to play car racing game online for free where you do not have to install app or software, no download required! Feel free to browse our wider racing category to find some more interesting and engaging game titles!</span></div><div><span style=\"font-size: 13.3333px;\">Traffic Rider takes the endless racing genre to a whole new level by adding a full career mode, first person view perspective, better graphics and real life recorded bike sounds. The essence of smooth arcade racing is still there but in the shell of the next generation. Ride your bike in the endless highway roads overtaking the traffic, upgrade and buy new bikes to beat the missions in career mode.</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://m.shtoss.com/game/traffic-driver/index.html\r\n",
+      "metaTitle": "Traffic Driver,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Traffic Driver at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Traffic Driver Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546118979.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10140,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-03-01T17:16:16.125Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP MON LEFT RIGHT OF SCREEN TO CONTROL THE CAR",
+      "webControlKeys": "L-R ARROW TO0 CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "1.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
