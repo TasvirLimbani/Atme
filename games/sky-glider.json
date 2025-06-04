@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b95c",
+      "id": 3514,
+      "name": "Sky Glider",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "sky-glider",
+      "image": "3514",
+      "url": "sky-glider",
+      "description": "Very atmospheric game, where you need to fly in the skyes above the water, collect coins to upgrade your wing glider and avoid other gliders.\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/b95d571460d94e179b792ed9d614a67c/\r\n",
+      "metaTitle": "Sky Glider, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sky Glider at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Sky Glider Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536577004.xml",
+      "idealFor": "Man",
+      "likes": 29,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 20117,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:26:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2024-07-25T08:06:24.144Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON GLIDER TO FLY",
+      "webControlKeys": "KEEP PRESS L-CLICK OF MOUSE AND SWIPE TO GLIDER TO FLY"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
