@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb1d",
+      "id": 3998,
+      "name": "Mini Drift 2",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "mini-drift-2",
+      "image": "3998",
+      "url": "mini-drift-2",
+      "description": "<div>Do you think that you are a nice car drifter? Is turning your vehicle at a steep turn your biggest hobby? If so, you have reached out at a right platform where you will get a chance to enjoy both things in a friendly environment. Your primary objective is to drift mini car vehicles in a rounded track with the red lining boundaries in Mini Drift 2. No extra specific traffic rules and regulations you need to follow. Make sure to drift more to unlock new cars and tracks in this latest racing game.</div><div><br></div><div>Be careful when you drift around the corners as you will have a very limited time to take action! Do not forget to collect the coins when you are on the way and try not to crash into the walls. These coins will help you to buy new vehicles and tracks and make your gameplay a quite interesting and engaging. Common guys! We know that you have the skill to create the best score and get your name on the top of the leaderboards in this highly addictive HTML5 car drifting game.</div><div>&nbsp;</div><div>Keep making as many drifts as you can to gain a lot of points! Timing will matter to put you in the game. Check out other popular car racing games on our website for free, play them online without download and get ready to have fun to the optimum level possible! Our cool drifting games are sufficient enough to keep you busy for hours and meant for players of all ages. Stay connected with us to find new fun racing challenges and have a blast!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/4befb163d65d42088c5cf673a94dbb1f/\r\n",
+      "metaTitle": "Mini Drift 2,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mini Drift 2 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mini Drift 2 Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11171,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-02-25T09:49:42.526Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO TAKE TURN ",
+      "webControlKeys": "L CLICK OF MOUSE TO TAKE THE TURN"
+    },
+    "rating": {
+      "rating": "2.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
