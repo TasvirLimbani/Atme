@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3ea",
+      "id": 6488,
+      "name": "Boy Adventurer",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "boy-adventurer",
+      "image": "6488",
+      "url": "boy-adventurer",
+      "description": "<div>Have you played the popular adventure platformer â€œMarioâ€? If yes and you liked it very much, then you should not miss out this brand new adventure challenge. A great package of fun and entertainment is waiting for you in Boy Adventurer. We are delighted to serve you with a unique and cool running challenge where you have to control a boy who are on a special mission. Guide him to grab all the 3 keys in different levels!</div><div><br></div><div>Kill jumps by jumping on their head and do not forget to spike, collect coins, avoid spikes and climb on walls in this HTML5 platform game! Feel free to protect yourself against the monsters and bombs with the help of a magic potion! There are 12 challenging and highly addictive levels to play through and in each level you would have 6 lives to use. Try to keep your character away from the falling rocks! Stay alive by making double jump!</div><div><br></div><div>Play your favorite game using the keyboard or you can also tap the screen while trying it out to explore in your mobile phone! We cover countless free adventure games for boys that are designed to help you out when you are seeking the ways to have fun online at your home or on the way. Play them out one by one and decide which platformer challenge will fit into your gaming needs the most! Good luck to have a blast alone or invite your friends to make it double without download!</div>",
+      "size": 854,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/da4690ef400a42279e83b10d45eb8d14/\r\n",
+      "metaTitle": "Boy Adventurer Game - Platform, Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Boy Adventurer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Boy Adventurer Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842581.xml",
+      "idealFor": "Man",
+      "likes": 20,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 8164,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2024-09-13T14:00:37.672Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS TO MOVE,LEFT TO JUMP AND SWIPE",
+      "webControlKeys": "L-R ARROWS TO LEFT RIGHT ,DOWN-SWIPE,UP-JUMP"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
