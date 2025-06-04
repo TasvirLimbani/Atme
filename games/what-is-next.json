@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3db",
+      "id": 6473,
+      "name": "What is Next",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "what-is-next",
+      "image": "6473",
+      "url": "what-is-next",
+      "description": "<div>In this one of the highly addictive adventure games for boys, your job is to guide a fat looking soldier character who is on a mission to save the people of his country. A horde of deadly enemies has invaded your country and you are the only hope for your people. You are already injured and cannot run in a single attempt to your camp. Make sure to keep taking a break time to time to maintain your stamina in What is Next game.</div><div><br></div><div>Keep your eyes on your stamina bar and try to stay for a moment during the gameplay before it runs out! Be careful friends, you are not a hero so try to avoid the missiles and reach alive to your army camp in this HTML5 platform game! This is a violent war and the government of your country has shown their trust on you. Fight against all the things that will try to stop you from moving forward!</div><div><br></div><div>Remember you would have four lives to lose in this cool fighting game. Reach your camp safely as a super-trained soldier to complete the present level! In the next level, you will play the role of an UFO that also has to avoid the missiles. Put your fingers on the spacebar to abduct as many cows as you can to clear the level! You would have multiple missions to complete and keep you entertained for hours. Good luck to complete all the assigned missions to be a champion player in this free soldier game!</div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/222867c8fee4477691f0d46ce7b5b426/\r\n",
+      "metaTitle": "What is Next Game, Platform - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game What is Next at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "What is Next Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7683,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2024-03-25T20:04:47.037Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING IN MOBILE MODE",
+      "webControlKeys": "A,D,L-R ARROW TO MOVE"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
