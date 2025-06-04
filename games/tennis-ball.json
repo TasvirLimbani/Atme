@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad66",
+  "category_name": "tennis",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad66",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb88",
+      "id": 4107,
+      "name": "Tennis Ball",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "tennis-ball",
+      "image": "4107",
+      "url": "tennis-ball",
+      "description": "<div>It is time to get participated in the biggest tennis tournament! Would you like to become a part of this and prove yourself as a great tennis player like Novak Djokovic, Rafael Nadal and so on? Grab your racket and be prepared to eliminate all the rivals from the court in Tennis Ball! There is no need to show mercy on anyone who meets you in the court. Keep your eyes on the screen as the rally counter will count your shots regularly!</div><div><br></div><div>Your objective in this brand new sports game is to beat all your rivals and try to earn as many points as you can in the single set. Make sure that your performance will help bring trophy to your home by challenging your highscores. Common friends! You have the guts to challenge these big names of the tennis field and make your country feel proud. The speed of the game will keep increasing as you progress. Track your speed by looking at the top middle portion of the screen!</div><div><br></div><div>Be careful as you have only three lives to use and lose so try to break your previous high score by defending your player and sending balls on the other side of the net! You can see your present score and high score on the screen when the game finishes. Play some more popular titles from the category of free sports games that you can play and enjoy on different devices, including PCs, smartphones, tablets as well as iPhones or iPads!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/baf54d0a7a9b41c6957fcaf1ead56381/\r\n",
+      "metaTitle": "Tennis Ball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tennis Ball at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Tennis Ball Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 124,
+      "dislikes": 14,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 30680,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2025-04-29T13:09:59.031Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS THE TENIS RACKET TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad66",
+      "name": "tennis",
+      "slug": "tennis",
+      "icon": "tennis-games"
+    }
+  }
+}
