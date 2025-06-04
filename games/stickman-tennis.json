@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad66",
+  "category_name": "tennis",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad66",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bba7",
+      "id": 4138,
+      "name": "Stickman Tennis",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "stickman-tennis",
+      "image": "4138",
+      "url": "stickman-tennis",
+      "description": "<div>Your most loved stickman player is ready to play his favorite sport. He is going to compete against the CPU, which is very fast and active in playing table tennis. Would you like to help him out? Join Stickman Tennis game and be prepared to defeat the CPU and win the trophy at its top difficulty level! Common friends, your stick figure character is waiting for you in the court!&nbsp; Grab your racket, play some cool shots and show your opponents that you are the best table tennis player!</div><div><br></div><div>When you click the play button, you would see two players standing at the opposite sides. One player is you and the other one is CPU. Click the screen and the table tennis ball starts bouncing from one side to the other side! Get ready to challenge your sharp reflexes to click the left or right side of the screen after watching the shot your opponent delivers! Facing your opponent perfectly will depend upon how wisely you time your move in this HTML5 tennis game!</div><div><br></div><div>This brand new sports challenge allows you to enjoy the thrill of this fast-paced game without releasing your sweat. Practice first and then come forward to win every match you participate in! Choose any options out of male and female and get ready to show off your intense table tennis playing abilities! You have to face the ball thrown by your opponent either on the left side or the right side. Return the ball to your opponent by clicking on the right side! Track your score by looking at the bottom of the screen! Earn 5 points first to become the winner! Beat all your opponents to be true table tennis player in other popular titles from the category of free sports games that are free to play online without download!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/eb5d6ed752e241519e37da7e5aa520a9/\r\n",
+      "metaTitle": "Stickman Tennis Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stickman Tennis at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stickman Tennis Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226795.xml",
+      "idealFor": "Man",
+      "likes": 29,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11516,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:36:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2025-03-10T04:24:34.244Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP L-R OF SCREEN TO HIT THE BALL",
+      "webControlKeys": "L CLICK ON L-R OF SCREEN TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad66",
+      "name": "tennis",
+      "slug": "tennis",
+      "icon": "tennis-games"
+    }
+  }
+}
