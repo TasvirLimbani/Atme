@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0e8",
+      "id": 5511,
+      "name": "Stickman Archer",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "stickman-archer",
+      "image": "5511",
+      "url": "stickman-archer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">There is no more fun than competing in a shooting competition where the one who reacts fast with accuracy will win. Do you think that such kind of activity also excites you? Join Stickman Archer and get ready to take down the other archers to gain the popularity in the archery world! Precision and quick reaction are the two most important factors that will help to ensure your win in the end in this brand new action game. Give it a try to challenge your sharp shooting skill now!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this fast paced archery game is to kill the opposing archer as fast as you can. Your opponents will keep firing arrows at you. Try to focus on the screen and aim carefully for the head for the extra damage towards your enemies in this deadly battle! Keep your eyes on the power bar and try to release your arrow when it gets maximum green to hit your enemies harder! You can increase the power bar by holding your finger on your mouse.?</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Hit your enemies in the head to keep the arrows released from your opponents away from you! Your long survival will help you to hit the maximum score on the leaderboard in this one of the best arrow shooter games. Try to kill as many opponents as you can to boost your score! Make sure not to affect your life bar and kill them before they deplete yours. Arrow charging system, straightforward gameplay and physics element are the major traits of this stickman edition. Good luck to play more free battle games for boys here!</span></div>",
+      "size": 720,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/2a5440e4f5a14564a60aa5fe2d6f2a6d/\r\n",
+      "metaTitle": "Stickman Archer, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stickman Archer at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Stickman Archer Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453232.xml",
+      "idealFor": "Man",
+      "likes": 27,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11030,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2025-02-09T07:06:37.278Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN SWIPE HOLD AND RELESE TO SHOOT THE ARROW",
+      "webControlKeys": "CLICK AND HOLD THE ARROW AND RELESE TO SHOOT THE TARGET"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
