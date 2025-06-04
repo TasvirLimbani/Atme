@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1b6",
+      "id": 1343,
+      "name": "Ouch Finger",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "ouch-finger",
+      "image": "1343",
+      "url": "ouch-finger",
+      "description": "<div>Ouch, Finger is an awesome adventure game for boys from different age groups. You should definitely try out this game in case if you think that your finger is strong enough to use the mouse. In this brand new escaping game, you will have to focus only to make the highest score with the help of your single touch. Although the task is not as easy as you thought of, concentrating on the screen will help you achieve your goal successfully.&nbsp;</div><div><br></div><div>In order to survive in this game, all you need to keep moving forward while avoiding all the obstacles you see on your way. Try to go as long as you can to make your win in the game. Also try to grab all the stars on your way to upgrade your power-ups. This exclusively-designed online HTML5 game features thrilling soundtrack and marvellous graphics to keep you engrossed for hours. Play it alone or with your friends to enjoy during your vacant time!</div><div><br></div><div>Developed by Dob5, Ouch Finger is sure to keep your finger alive once again. You can enjoy this fun-filled and cute arcade game on PC, smartphones and tablets including Android devices, Windows iPhones, iPad and iPhones. Play this cool adventure game using your mouse! We maintain a wide range of top adventure games on our free online website. Explore them one by one to have the best fun of your life! Good luck, friends!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/a64afeaa64834f9d9615c35d0ad63eba/\r\n",
+      "metaTitle": "Ouch Finger, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ouch Finger at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ouch Finger Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299559.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7150,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.687Z",
+      "updatedAt": "2024-08-03T11:23:40.818Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO MOVE THE BALL",
+      "webControlKeys": "KEEP PRESS L-CLICK OF MOUSE TO L-R MOVE AND AVOID ENENIES"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
