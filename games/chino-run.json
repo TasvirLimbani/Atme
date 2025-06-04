@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b19c",
+      "id": 1315,
+      "name": "Chino Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "chino-run",
+      "image": "1315",
+      "url": "chino-run",
+      "description": "<div>Are you and your kid love to explore running game during your spare time? Join Chino Run right away to give your vacant periods an ultimate treat! Inspired by My Mathematics Teacher, this free online adventure game will provide you with a wonderful platform where you will have to run as far as you can to ensure your win. Try to cover as much distance as you can to beat your previous scores and set a new one! It takes a few minutes to fill you with ultimate fun and entertainment by just playing this brand new running game!&nbsp;</div><div><br></div><div>Tap the screen to play this game! Focus on the screen and help your character to take a jump timely in order to make a huge score! Collect all the yellow colour parcels to upgrade your skill. No need to worry if you lose your upgraded skill meanwhile since you will also be able to improve it further. Keep running while avoiding the obstacles in this endless running game! You can check out your score on the right side of the screen, whereas you will see the replay or back button on the left side of the screen.&nbsp;</div><div><br></div><div>There will be two score options on the right side of the screen. The first one will show your highest score in the game, whereas the second one will denote the score of your present game. Keep jumping over the obstacles and running in this one of the best adventure games for boys! Feel free to try out our more running games on our website to add more fun and excitement to your glooming hours! We hope you enjoy all games available here and surely recommend some to your friends or family to also allow them pass their spare time!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/f894b5b5860241c3a81c5f9913a8130f/\r\n",
+      "metaTitle": "Chino Run, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Chino Run at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Chino Run Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299458.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 10673,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.687Z",
+      "updatedAt": "2025-02-06T19:56:40.503Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO JUMP",
+      "webControlKeys": "L-CLICK OF MOUSE/UP ARROW TO JUMP"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
