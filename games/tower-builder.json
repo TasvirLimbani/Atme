@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd3c",
+      "id": 4548,
+      "name": "Tower Builder",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "tower-builder",
+      "image": "4548",
+      "url": "tower-builder",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you want to become a successful architect in future? Is building towers in the virtual world your favorite pass time? Join Tower Builder and get ready to build the longest tower of your city while polishing your architectural abilities in a friendly environment! All you need to do is just put your finger on the mouse on PC or tap the screen to release the blocks and create a balanced sky rocket building. Begin the fun building challenge with releasing the block on a house in this brand new arcade game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Make sure to release your each block at the right time to balance the stack. Your each proper placement will make it a little bit higher. Every wrong block placement will lose you a life so try to think twice before making a final decision. No one is showing courage in building towers. You have accepted this challenge so give your best to become the most talented architect of the city by changing the skyline of the city with your high buildings. This city is already equipped with sky touching buildings, but residents now find something different.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Build your tower as high as you can to score the highest points possible in this html5 puzzle challenge! No need to learn the construction work to complete your task. Put your fingers on the mouse or tap the screen to finish one by one with a new best score every time! When you start this fun building game, you would see a building block hanging from a crane. Be alert as the block will keep moving back and forth and you would have only 3 lives to lose! Try to place each block on top of each other to build a balanced tower! See your track in the top right corner of the screen! Check out more online tower building games and play for free without download on atmegame.com!</span></div>",
+      "size": 960,
+      "height": 720,
+      "script": "\nhttps://html5.gamedistribution.com/80b465e12d3f4508b102835c4a51a0bc/\n",
+      "metaTitle": "Tower Builder, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tower Builder at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Tower Builder Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8812,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2025-05-26T05:31:54.955Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO DROP THE BOXE",
+      "webControlKeys": "L CLICK OF MOUSE TO DROP THE BOX PERFECTLY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
