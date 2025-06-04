@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c19e",
+      "id": 5721,
+      "name": "Snow Driftio",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "snow-driftio",
+      "image": "5721",
+      "url": "snow-driftio",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Playing cool racing games online is always a great fun for many gaming freaks! Whether you are a beginner or an experienced player ? a beautifully-designed car race game can give you the Goosebumps. If you are not sure on what?s we are saying here, give this brand new car racing game at least a try to understand our thought. We are pretty sure that you will fall in love with the huge world of car racing world after trying out this free online adventure challenge.?</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Everywhere snow is spreading and your luck is also not into your favour since you have lost your shovel recently. However, luckily, you have your own car that can be drivable on the snow. Join this arcade fun game and challenge the snow to the ultimate level! Your racing adventure is going to be highly challenging and memorable since lots of big challenges are coming on your way in the future. Show off your ultimate driving and focus skill to clear all levels and become the biggest drift champion of your city!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Choose from a number of car models and dive into a completely new action arena! You will get a chance to practice your all driving moves in multiple cool levels. Shovel the snow and drift your car to accomplish the course during each level in this 3D racing adventure! With realistic driving and physics in different 40 levels, this highly additive car game will keep you busy for hours. Drive your car using the arrow keys or WASD in this physics based racing challenge! Good luck to play this free HTML5 game in different platforms!?</span></div>",
+      "size": 450,
+      "height": 520,
+      "script": "https://html5.gamedistribution.com/19f43774c80a47079dc459a81a5bb01b/\r\n",
+      "metaTitle": "Snow Driftio,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Snow Driftio at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Snow Driftio Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557564016.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7979,
+      "ownGame": false,
+      "addDate": "2019-05-11T14:10:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2024-09-04T10:21:58.827Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ALL ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
