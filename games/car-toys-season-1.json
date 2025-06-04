@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb3d",
+      "id": 4030,
+      "name": "Car Toys Season 1",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "car-toys-season-1",
+      "image": "4030",
+      "url": "car-toys-season-1",
+      "description": "<div>Being a nice car driver can help gain the limelight anytime you want especially when you are on a racing track! However, what would happen if you have to drive your car to protect citizens from bandits and other malicious vehicles? Join Car Toys Season 1 and be prepared to park your toy cars and finish all unique and amazing 48 levels! Some mad vehicles have rushed your town and are trying to disturb the peace. You have taken the responsibility of dealing with them on your own hand.</div><div><br></div><div>Begin this fun challenge by moving your toy ambulances, police wagons and fire trucks and drive them to save your town beautifully! Drive them to the parking sings and make sure to you have reached timely to the stop in the green area! Try not to race right off the platforms and into the abyss in this HTML5 car game! Do not hesitate in driving into the bad guys and bump them over the edge of the platform in case you meet with any bad buy cars.</div><div><br></div><div>All the concerned authority of the town looks very angry at the ingenuity of the rush drivers. Park your assigned vehicles on the given place in each level while also taking care of getting rid of other vehicles by bouncing them off or throwing them away in this car parking game! Look into the sequences openly and try to fulfill all the objectives before time expires to complete all 48 levels!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/386a8e5493a14e8aab2e6ad882946601/\r\n",
+      "metaTitle": "Car Toys Season 1, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Car Toys Season 1 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Car Toys Season 1 Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951839.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9265,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-03-12T02:24:54.231Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ICON TO PARK THE CAR",
+      "webControlKeys": "L CLICK OF ICON TO PARK THE CARS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
