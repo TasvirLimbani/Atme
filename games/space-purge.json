@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2c1",
+      "id": 6126,
+      "name": "Space Purge",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "space-purge",
+      "image": "6126",
+      "url": "space-purge",
+      "description": "<div>The biggest space has already begun and your country has asked you to handle your spaceship to take care of this massacre. No need to be lenient for your enemies as they keep busy in sending the dangerous asteroids and small planets to your planet Earth. They are only determined at destroying your planet, but you as a brave soul are ready to do every possible effort to stop them from entering your area. Grab your seat on your spaceship and get ready to protect the Earth against your enemy planets and asteroids in Space Surge!</div><div><br></div><div>All you need to do is move your spaceship up and down. Do not worry at all since you will have sufficient ammo to deal with increasing number of hits. Fight for as long as possible to gear the extra score and ammo before completing each level in this HTML5 shooting game! Also keep your eyes on three types of laser, three types of your spaceship as well as protection spaceship life improvements. The entire world trusts you today when it comes to saving the Earth from a terrible demise.</div><div><br></div><div>Fly your spaceship through different areas of space using your rocket with an objective to destroy all the deadly meteorites! If they hit the Earth, it will be exploded and you will lose the game immediately. Let the meteorites not enter the planet to survive for long. Blast as many asteroids as you can and do not forget to fire up those lasers to increase your survival in this latest and fast-paced action game! Keep avoiding the endless rain of meteorites and using the shields to last long in this one of the best survival games for boys and girls!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/space-purge/",
+      "metaTitle": "Space Purge, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Space Purge at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Space Purge Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442954.xml",
+      "idealFor": "Man",
+      "likes": 2944,
+      "dislikes": 397,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 962382,
+      "ownGame": true,
+      "addDate": "2019-09-26T01:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-05-19T08:50:55.292Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS THE SPACE SHIP TO HIT AND SAVE THE EARTH",
+      "webControlKeys": "LEFT CLICK OF MOUSE KEEP PRESS THE SPACE SHIP TO SAVE EARTH"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 357
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
