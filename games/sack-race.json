@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad89",
+  "category_name": "kids",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c165",
+      "id": 5657,
+      "name": "Sack Race",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "sack-race",
+      "image": "5657",
+      "url": "sack-race",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Play Sack Race game online and forget all other racing games you have tried so far! You can only win this brand new arcade challenge by putting your brain and math skills to test. As a response, experts consider it as a finest combination of sports and maths. Here in this free online fun game, you have to participate in a traditional sack race competition. Do not bother about being sacked since other opponents have also got within a sack!</span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this cool math game is to cross the finish line as fast as you can. The person who crosses the line first will win the race for sure. The major twist here is that you can move forward if you solve a math puzzle. You will be able to take a step forward if you give the correct answer to each question that appears on the screen. Remember you do not have enough to sort out the puzzle in this HTML5 race game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your every wrong answer gives your opponents a chance to get ahead. It will be amazing to put the development skills to challenge in this classic party game. Designed for a wider range of ages and stages, this addictive game features an easy-to-understand mathematic gameplay, simple 2D graphics and comprehensive controls. Your every correct answer helps your character jump forward, but he will drop off if you give incorrect answer. Good luck to have a blast in our more kids games!</span></div>",
+      "size": 1200,
+      "height": 700,
+      "script": "https://html5.gamedistribution.com/4656c8b0170a4af999aba2fca4865f80/\r\n",
+      "metaTitle": "Sack Race,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sack Race at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Sack Race Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1556791949.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9472,
+      "ownGame": false,
+      "addDate": "2019-05-02T15:42:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.753Z",
+      "updatedAt": "2024-07-18T13:39:06.652Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON UP ARROW TO GENRATE THE QUESTION, TAP ON TRUE OR FALSE TO MOVE ",
+      "webControlKeys": "CLICK ON UP ARROW TO GENRATE THE QUESTION, CLICK ON TRUE OR FALSE TO MOVE "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
