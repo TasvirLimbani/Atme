@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd92",
+      "id": 4634,
+      "name": "The Hangman Game Scrawl",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "the-hangman-game-scrawl",
+      "image": "4634",
+      "url": "the-hangman-game-scrawl",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You have some free times to enjoy, but unable to find out where to occupy your hands. Do you love scrawls, doodles and you are an ardent enthusiast of Hangman? If yes, you have reached out at a right place. You are going to meet with a little and cute Hangman whose adorable expression will definitely bring some huge smile on your face. Join The Hangman Game Scrawl and get ready to guess all the letters of a word and help your hangman prevent from dying!</span></div><div><span style=\"font-size: 13.3333px;\">&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">It will be in your hands to save his life now in this brand new arcade challenge! Try to put your strong vocabulary and brilliant brain abilities to find out more words! Choose a topic and guess the letters that prepare the word! Your every unsuccessful attempt will keep your hangman closer to the death. Timely guessing a word with the minimum possible moves will keep your hangman free to complete each with 3 stars performance! He will start keep dancing when you guess a right word.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Hurry up friends! There are multiple levels with many exciting words will be there to guess. This cool HTML5 educational puzzle challenge can be a nice choice for your kids, teenagers and grown-ups. Whether you are in the office, in your home feeling bored, or in a park waiting for your friend – this mobile education game can keep you entertained exclusively. Click the replay button in case of missing your chance! Try out more challenging and addictive puzzle games on atmegame.com and have fun with your friends without download!</span></div><div><br></div>",
+      "size": 600,
+      "height": 800,
+      "script": "\nhttps://html5.gamedistribution.com/00db99bb5c4846a4bfc1e3ef103b41be/\n",
+      "metaTitle": "The Hangman Game Scrawl, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game The Hangman Game Scrawl at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "The Hangman Game Scrawl Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6523,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-03-18T17:22:58.388Z",
+      "__v": 0,
+      "mobileControlKeys": "GUESS THE CORRECT  WORD AND TAP TO TYPE",
+      "webControlKeys": "GUESS THE CORRECT WORD AND TYPE BY L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
