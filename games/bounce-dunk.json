@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0a9",
+      "id": 5444,
+      "name": "Bounce Dunk",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "bounce-dunk",
+      "image": "5444",
+      "url": "bounce-dunk",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The whole world is getting crazy for the baskeball games. We are damn sure that you will also fall in love with this cool html5 basketball game “Bounce Dunk”. Your objective is to bounce the basketball right off the platform into the hoop that you see on the right side of the screen. Take your time and try to hit the rim as lesser time as you can! Do your best to pass your ball as many times as possible to earn some points!</span></div><div><span style=\"font-size: 13.3333px;\">Each of your successful shot will help you to earn some points. And, you will be able to earn a big high score if you succeed in making a successful shot regularly in a row. Do not forget to collect stars that you see near the basket to multiply your score in this fun based arcade sports game. You will see the ball coming from different directions. No need to get puzzled. Make the ball bounce by just using the clicker on your mouse and get ready to score into the basket.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Test your timing and basketball skills to make a successful projectory of the ball! Be prepared to dunk as many balls as possible to get your place on the top 10 players of the leaderboard in this fun arcade physics game! Plenty of unique challenges to face off. Focus on improving your skills to unlock 24 new and awesome basketballs and get you participated in unique challenges! These new awesome balls will help to upgrade your power and style as well. This physics-based ball game is free and ready for everyone to play online. Get on a streak and become a ball champion!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/da2f5c853ec34c86b513e9b831b0bb11/\r\n",
+      "metaTitle": "Bounce Dunk,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bounce Dunk at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Bounce Dunk Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 89,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 16349,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-02-02T17:18:04.743Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO HIT THE BALL",
+      "webControlKeys": "KEEP PRESS L CLICK TO SELECT THE DIRECTION ,RELESE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.9",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
