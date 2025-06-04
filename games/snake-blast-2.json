@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1c0",
+      "id": 1353,
+      "name": "Snake Blast 2",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "snake-blast-2",
+      "image": "1353",
+      "url": "snake-blast-2",
+      "description": "<div>With a neon theme, Snake Blast 2 is a beautifully-designed adventure game for boys and girls. Your job is to help the snake eat up all the food items scattered around the screen. It is also your responsibility to keep your snake away from the other snakes who are also roaming in the field. Getting in touch with them will make you their prey. Keep eating more and more food until you get a bigger size than the other snakes in this free online platform game!&nbsp;</div><div><br></div><div>This single-player game will allow you to put your patience and quick reaction skill to test. Make sure to eat as many dots as you can to grow into a big snake. Try to avoid all your enemies to achieve the goal of the game! Although it sounds easier to clear its levels, it is necessary for you to be focused to win the game. Powered by HTML5, this cool kids game can be played in all modern browsers. Tap controls or arrow keys to move your snake!</div><div><br></div><div>In this one of the best online skill games, you will get a chance to experience ultimate graphics and seamless gameplay. Simply click the play button to help yourself allow into a pool of unlimited fun and entertainment! Do you want to explore more games like this? Feel free to go through huge list of adventure games and spot a game you like the most! Good luck to have the best time of your life online!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/121effd7fe8a4652b3e6848d04891744/\r\n",
+      "metaTitle": "Snake Blast 2,  Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Snake Blast 2 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Snake Blast 2 Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299559.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9784,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.688Z",
+      "updatedAt": "2024-08-16T07:12:56.997Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICON TO SPEED UP, L ICON TO MOVE L-R",
+      "webControlKeys": "ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
