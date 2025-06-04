@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd5d",
+      "id": 4581,
+      "name": "Construct A bridge",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "construct-a-bridge",
+      "image": "4581",
+      "url": "construct-a-bridge",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you want to become an engineer in your life? Or you are someone who wants to polish his construction skills? No matter what reason you have to come here, this brand new arcade challenge is sure to improve your knowledge about the construction world. The simple controls coupled with the engaging environment and colorful graphics will keep you glued to the screen for hours. So what are you waiting for? Join Construct A Bride and get ready to create your engineering marvel!</span></div><div><span style=\"font-size: 13.3333px;\">Your job does not complete with the bridge construction. But, you also have to make sure that your constructed bridge is capable enough to withstand the weight of a heavy truck. Once bridge is created, click the play button shown at the top left corner of the screen and see if a truck can pass across it. If your truck passes the bridge and reaches to the finish point, you would clear the level. If your bridge is not strong enough, then it will be collapsed and the vehicle falls down under the river. <span style=\"white-space:pre\">\t</span></span></div><div><span style=\"font-size: 13.3333px;\">Get ready to put your engineering brain to the test to clear all 10 levels in this cool physics-based game! When you click the play button, you would find multiple anchor points over there. Draw lines between them to create the original structure of the bridge! Keep trying out as many designs as you can until the strongest structure of the bridge comes into play in this html5 puzzle challenge! This funny bridge building game features soothing music and nice background as well as money earning system. Enjoy deleting portions of your bridge and editing it anytime you want! Have fun without no tension of downloading games!</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "\nhttps://html5.gamedistribution.com/eaaf7e01c9ac48dbb4c169141c7ad959/\n",
+      "metaTitle": "Construct A bridge, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Construct A bridge at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Construct A bridge Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527483.xml",
+      "idealFor": "All",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8006,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-10-01T03:01:44.818Z",
+      "__v": 0,
+      "mobileControlKeys": "CONNECT TWO DOTS TO CONNECT THE LINE",
+      "webControlKeys": "CONNECT TWO DOTS TO DRAW A LINE BY L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
