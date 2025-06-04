@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfed",
+      "id": 5251,
+      "name": "Pixel Survival",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "pixel-survival",
+      "image": "5251",
+      "url": "pixel-survival",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The biggest survival game has today come on your way. Are you ready to accept this new challenge? Join Pixel Survival game and get ready to fight like a true fighter who is skilled enough to shoot all his enemies down. All you need to do is just know all the useful controls and be prepared to show off your intense shooting moves in this brand new action game. This battle might be more brutal than you thought of. The only way to make your win is to clean the area from the uninvited enemies.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Choose from any of the 4 characters that include Police, Farmer, Salaryman, and Sport Girl. Poiceman comes with gun and ammunitions, Farmer comes with all farming tools, Salaryman comes with a secret survival kit and Sport Girl comes with everything necessary. This pixel world is full of deadly zombies who can attack without giving you any prior warning. Grab your gun and enter the battlefield with your first aid and meal. Try to survive as long as possible to make your win this one of the best zombie games.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This pixel themed 3D shooter game features multiple weapons to use, 4 characters to play and 3 maps. Find your enemies inside and near the buildings. Remember zombies may appear and come to you from any direction. Your quick reflexes and sharp shooting skills will save you from their attack in this html5 pixel survival game. Nobody would come here to support you, so collect resources, build traps and be prepared to fight for survival. You can use pick axe to chop stones and wood. Slay zombies online and have fun online, no install required.&nbsp;</span></div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/08d36fbf20e04a6ba2d89e50935d99c7/\r\n",
+      "metaTitle": "Pixel Survival,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pixel Survival at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Pixel Survival Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352188.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7926,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.748Z",
+      "updatedAt": "2023-12-29T04:54:43.260Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "E-ENVENTROY, W,A,S,D ALL ARROWS TO MOVE, SPACE-JUMP, L CLICK- SHOOT, R CLICK-AIM"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
