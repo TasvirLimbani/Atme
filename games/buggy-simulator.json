@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b62c",
+      "id": 2643,
+      "name": "Buggy Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "buggy-simulator",
+      "image": "2643",
+      "url": "buggy-simulator",
+      "description": "<div>There are only a few driving games where you are given a total freedom. Here in Buggy Simulator, you are going to have a lot fun while driving your vehicle in a way you always wanted. Enjoy the complete driving freedom in this free online 3D car racing game. Just focus on the roads while roaming around the vast and popular city. Choose one from the four exclusively designed buggies. Each buggy comes with new and exciting driving model with ultimate sound effects and visual effects.</div><div><br></div><div>This brand new car game offers you an exceptional driving experience with very lesser efforts. Enjoy the strong sounds of the beautiful monster truck engine and have an idea how it can wonder on the city streets when operated perfectly. You have to drive it on asphalt roads which are not good for buggies. So, it is very challenging to manage this vehicle. Your driving skills and patience will definitely help to gain an advantage in this cool PC game for boys.</div><div><br></div><div>Show off your skills and become a real pro driver. No need to bother if the expected result does not come in the first attempt since you have a plenty of chances to explore your car racing gaming fantasy. Behave like a boss and prove the world that you are not going to lose any chance of driving a beautifully-crafted car. It features the ultimate graphics, finest gameplay and fabulous audio and video effects. Driving your car at high speed and get ready to witness the fun that you have not experienced ever! Good luck children to have a blast today!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/buggy-simulator/index.php",
+      "metaTitle": "Buggy Simulator, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Buggy Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Buggy Simulator Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 32,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 16020,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-02-04T16:16:06.263Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO DRIVE, SPACE- BREAK, C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
