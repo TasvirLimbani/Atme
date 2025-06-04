@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0a3",
+      "id": 5438,
+      "name": "Dude Basket",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "dude-basket",
+      "image": "5438",
+      "url": "dude-basket",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Dude Basket is a cool and highly addictive online sports where you have to show off your skills to have fun. Get you ready to enter one of the best basketball games with many different and exciting levels to complete! All you need to do is challenge your basketball skills to allow yourself to get you entertained for long. Practice hard online and be prepared to become a real basketball champion in this awesome html5 ball game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Avoid resting for a single minute in case if you perform good in the present level! Try to keep doing best until you clear all levels and bring the trophy of this biggest basketball championship to your home! Hit the target that you see on the left side of the screen to clear the present level and move to the advanced level in cute adventure game! Test your ability and skill to strike the goal! Do not forget to train your players before hitting the playground!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">There are 30 unique and challenging levels to play online for the players to pass in this cool mobile basketball game. Use all your 5 turns to release basketballs to complete your mission fast! Try to bring the best force to use to complete each level! Do miss out our other top basketball games to give you a never ending fun and thrill treat! Our exclusive and engaging collection of popular online sports games will take to you to a new world of entertainment in just a few clicks.&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/2731daf8e1a343c2b5a4e45edd0ff673/\r\n",
+      "metaTitle": "Dude Basket,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dude Basket at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Dude Basket Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 44,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10977,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-05-02T21:22:42.036Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE SCREEN TO SELECT THE DIRECTION PRESS BALL ICON TO HIT THE BALL",
+      "webControlKeys": "L CLICK TO SELECT THE DIRECTION, CLICK ON BALL ICON TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "3.2",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
