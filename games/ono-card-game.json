@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b93c",
+      "id": 3482,
+      "name": "ONO Card Game",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "ono-card-game",
+      "image": "3482",
+      "url": "ono-card-game",
+      "description": "Play super fun and popular card game ONO online! ONO Card Game is a very addictive and fun card game to play as famous UNO &amp; Friends. Enjoy fun ONO with friends and with family. ONO includes 2 game modes: offline and multiplayer. Uno has simple rule: Match cards by color and number!\r\n",
+      "size": 800,
+      "height": 550,
+      "script": "https://html5.gamedistribution.com/1b914f3e43ca4a77899cf481e88664d9/\r\n",
+      "metaTitle": "ONO Card Game, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game ONO Card Game at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "ONO Card Game Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536576566.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 10015,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2024-12-06T04:18:57.287Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK OF MOUSE TO PLAY CARDS"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
