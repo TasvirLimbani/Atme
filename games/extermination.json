@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4b4",
+      "id": 2216,
+      "name": "Extermination",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "extermination",
+      "image": "2216",
+      "url": "extermination",
+      "description": "Exterminate your foes! Buy powerful guns and amor! Use the level editor to share challenging levels with your friends!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/b950431f9ece422189e0f0dcfa794eb1/\r\n",
+      "metaTitle": "Extermination, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Extermination at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Extermination Game, Action Games, shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524804862.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7835,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:24:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2024-08-13T04:34:46.019Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
