@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aed3",
+      "id": 428,
+      "name": "T20 Super Overs",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "t20-super-overs",
+      "image": "428",
+      "url": "t20-super-overs",
+      "description": "<p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\">The most popular and dashing mode of playing contemporary cricket is T20 that have changed just retrospective of playing cricket in reality, but, it has also changed the manifestation of virtual cricket as well. In the category of the online cricket game, it is the T-20 that has spread a real feeling of enjoying the cricket to the utmost joy and passion.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font size=\"2\" face=\"verdana\" color=\"#000033\"><span style=\"background-color: transparent;\">The free online cricket games T20 Super Overs can be played in the online as well as off line mode on the desktop is a limited one over a game that you can enjoy in the exhibition and knock out mode. The exhibition mode of the game is attributed to the one over game between two teams, whereas, in the knockout game it is the intensity of the game that is heated among eight teams of which the only one wins the game knocking out others from the race.</span><br></font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><span style=\"background-color: transparent;\"><font size=\"2\" face=\"verdana\" color=\"#000033\">In this T20 Super Overs cricket game, whether, to be played in exhibition or knock out mode you will have to opt between from the batting or bowling mode. In the game, there, is an important segment that is learnt to be a confidence level, as better the confidence as better the player will play the game, otherwise, you will lose the game out there. For the game control, the option of arrow keys and space bar to hit the ball is offered.</font></span><br></p>",
+      "size": 800,
+      "height": 600,
+      "script": "428_swf.swf",
+      "metaTitle": "T20 Super Overs, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "T20 Super Overs is the rapid and advanced version of online cricket games that offer an utmost feeling of playing cricket in the best mode and opportunity.",
+      "metaKeyword": "T20 Super Overs, Sports, Cricket Games, T20 Super Overs Online Game, Play Free Games, Online Cricket Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 358,
+      "dislikes": 11,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 82806,
+      "ownGame": false,
+      "addDate": "2017-07-11T12:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2024-08-09T16:41:32.432Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 131
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
