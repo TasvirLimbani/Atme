@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c421",
+      "id": 6545,
+      "name": "Joee Adventure",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "joee-adventure",
+      "image": "6545",
+      "url": "joee-Adventure",
+      "description": "<div>Joee is ready to go on his new adventure that cannot be completed without your support! Why do not you join him right away to show him the path to the victory in each level? Play Joee Adventure and be prepared to guide him to find out the exit gate fast! Make sure that he collects the maximum possible gems by applying the best tricks. Put your finger on your mouse or tap the screen to click on the miner to make him jump over the barrier!</div><div><br></div><div>Do not get relaxed until you grab the stones and help him find out the right direction to go. Your character can go down and reach to the lower level only if you timely delete the green and blue sections of the path. Keep doing it until he gets to the exit gate! Joee has a long history of mining. His great grandfather and grandfather also spent rich years serving the mining industry. He also wants now to focus on extracting the valuable rubies.</div><div><br></div><div>Be careful and try to make him move quickly without lingering in one place in this HTML5 platform game! There are 24 unique and challenging levels to play through so you are sure to keep you entertained for hours. It is playable in all the latest browsers and works across the latest HTML5 browsers. With easy controls, innovative physics gameplay, and outstanding graphics, you can get long hours of fun and entertainment at one place. Guide him through all the levels and have a blast with your friends, no download required!</div>",
+      "size": 420,
+      "height": 750,
+      "script": "https://games.atmegame.com/games/joee-adventure/",
+      "metaTitle": "Joee Adventure Game, Adventure - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Joee Adventure at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Joee Adventure, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 297,
+      "dislikes": 87,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 63629,
+      "ownGame": true,
+      "addDate": "2020-11-21T14:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2024-11-07T14:10:40.590Z",
+      "__v": 0,
+      "mobileControlKeys": "PICK THE COLOR OF BRICK FROM THE LEFT DOWN CORNER TO MOVE THE HERO.",
+      "webControlKeys": "PICK THE COLOR OF BRICK FROM THE LEFT DOWN CORNER TO MOVE THE HERO."
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 27
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
