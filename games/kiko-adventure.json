@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3e0",
+      "id": 6478,
+      "name": "Kiko Adventure",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "kiko-adventure",
+      "image": "6478",
+      "url": "kiko-adventure",
+      "description": "<div>It looks like Kiko is very hungry and you are the only one who can help him to eat his favourite fruits. Will you like to go with him on this amazing adventure? Join Kiko Adventure and be prepared to guide him grab as much fruits as you can while avoiding the obstacles! Hey friends! This creature is very small so cannot complete his task his own. You as his best friend have decided to guide him travel through multiple levels and find all the items he wants.</div><div><br></div><div>His entire path is filled with the deadly enemies so try to beat them by making him jump on their heads in this brand new adventure game. Grab all the bottles and try to keep your character away from the deadly creatures and zips that you see along the treacherous terrain! Collect all the fruits while taking care of all the other vital tasks to make him move to the next level in this HTML5 platform game! There are different kinds of platforming elements to explore.</div><div><br></div><div>Enemies you see on the screen are very dangerous and the only way to beat them all is to avoid them. Use your sharp reflexes and intense jumping abilities to guide him through the beautifully designed levels! Find out all the fruits and bottles and make him jump timely over the enemies in this cool jumper challenge! Click the LMB of your keyboard or tap the screen of your mobile phone to play! There are 15 unique and addictive levels to play through. Stay connected with us to go on the unique and exciting adventure with other popular characters!</div>",
+      "size": 640,
+      "height": 360,
+      "script": "https://html5.gamedistribution.com/87264383883d4842a116b607c30a3c7f/\r\n",
+      "metaTitle": "Kiko Adventure Game, Platform- Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Kiko Adventure at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Kiko Adventure Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842581.xml",
+      "idealFor": "Man",
+      "likes": 103,
+      "dislikes": 27,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 14247,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-03-24T13:27:56.415Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ARROW TO JUMP,LEFT ARROWS TO MOVE",
+      "webControlKeys": "UP ARROW TO JUMP,L=R ARROW TO MOVE"
+    },
+    "rating": {
+      "rating": "2.0",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
