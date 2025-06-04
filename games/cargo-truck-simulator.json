@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c339",
+      "id": 6267,
+      "name": "Cargo Truck Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "cargo-truck-simulator",
+      "image": "6267",
+      "url": "cargo-truck-simulator",
+      "description": "<div>Your cargo truck is ready to pick and drop luggage from one point to another. Where are you guys? Join Car Truck Simulator and be prepared to control your truck to deliver its luggage on time in multiple levels! It looks easy to handle, but you might multiple hindrances when you enter this latest racing simulator. Go through the details first before choosing your truck and level to make sure that you complete tasks timely in each level!&nbsp;</div><div><br></div><div>When you move your vehicle, make sure that you give it the right or left direction timely to help it to stay on track. If it loses track, and you enter the sea, then you will lose your game immediately. Guide your truck find the way in all 15 unique and tricky levels and become a pro driver in this one of the best HTML5 truck games for kids! Complete task, level, earn money, and use that money to buy new trucks for the next level!</div><div><br></div><div>Try to follow every traffic rule with an open mind and drive your truck around the city like never before to deliver all shipments on time! You can change the camera view anytime whenever you want by clicking the video icon shown on the left top portion of the screen. This cool truck driving simulator features good colorful graphics, multiple levels, easy controls, and seamless gameplay. Enjoy more free 3D simulation driving games on your device for free and have a blast online like never before!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/4bf41a285deb41e78e229fe4df0b1f36/\r\n",
+      "metaTitle": "Cargo Truck Simulator Game, Truck - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Cargo Truck Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Cargo Truck Simulator Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579515784.xml",
+      "idealFor": "Man",
+      "likes": 43,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 8881,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:53:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2024-07-27T13:35:43.580Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D AND ALL AAROWS TO DIRECTION CONTROL, SPACE TO BREAK, C TO CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
