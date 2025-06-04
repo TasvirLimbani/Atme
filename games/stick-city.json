@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4d8",
+      "id": 2253,
+      "name": "Stick City",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "stick-city",
+      "image": "2253",
+      "url": "stick-city",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Many cops are roaming around the streets of your city. Do you still dare to steal money from the fellow citizens? If yes, joining Stick city can be a nice bet for you. Your job in this brand new action-packed challenge is not going to be as easy as you thought of since cops will keep their eyes on you every time. Make sure to put your quick reflexes to the test to steal the maximum amount of money while avoiding cops and cars.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You need to punch your fellow citizens so that they can throw their money on the road. Your job in this HTML5 fighting game is to steal their hard-earned cash. Try to keep your character away from the police since they will punch you down and you will lose your game! It is also important for you to maintain a proper distance from the car and other vehicles to keep your character alive. Play wisely to put as many dollars in your pocket as possible!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You need to explore the entire city to collect as much as money as possible while dodging all the cars and policy available on the road. Common boys! It is a wonderful chance to become a successful thief in your city. Police officers keep chasing you so you need to be cautious all the time. Control the stickman with LMB and get ready to challenge your hand-eye coordination skills in the optimum way possible! No download requires to enter the amazing world of fun and entertainment!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/aefe2086d6324431b20562a014e0fda3/\r\n",
+      "metaTitle": "Stick City, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stick City at atmegame.com ! We have selected this Fighting games for best excitement and thrill in you!",
+      "metaKeyword": "Stick City Game, Action Games, Fighting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 54,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 20924,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2024-09-02T11:29:21.041Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO MOVE",
+      "webControlKeys": "KEEP PRESS L-CLICK OF MOUSE TO HOLD AND RELEASE"
+    },
+    "rating": {
+      "rating": "2.9",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
