@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c356",
+      "id": 6316,
+      "name": "Car Eats Car Dungeon Adventure",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "car-eats-car-dungeon-adventure",
+      "image": "6316",
+      "url": "car-eats-car-dungeon-adventure",
+      "description": "<div>Do you love controlling a vehicle and venturing the underground caverns and dungeons? If so, you have reached at the right place. We have today got you covered with a brand new racing game where you will see yourself fighting against some amazing competitors in a race on the highway. Common boys! It is a big opportunity to practice your driving abilities while boosting your fighting skills. Join Car Eats Car Dungeon Adventure and be prepared to overtake your rivals and make your own car in the incubator!</div><div><br></div><div>Many of your friends have mistakenly reached behind the bars so do every possible effort to make some evil cars free from the prison. Use your insane driving skills to make your police chase successful in this HTML5 car game! Do not miss out this opportunity as you have already decided to become a car tycoon. Fight against the bosses to survive in this one of the best ultimate crazy races! Avoid traps and other obstacles, complete levels, earn money and upgrade your cars to stay strong against the cops!</div><div><br></div><div>Think differently and control your cars wisely to make your way through a big dungeon! Forget the ordinary cars and get ready to meet the living machines in this amazing car driving simulator! Police will chase you continuously so do not hesitate in hitting them with your vehicle or throwing bombs at them! Boost your speed by grabbing some boosts that will also help you to make some high jumps! Earn gems and use them to purchase new cars or modify the existing ones! Collect eggs in the dungeon and do not forget to hatch them to get a brand new car!</div>",
+      "size": 800,
+      "height": 550,
+      "script": "https://html5.gamedistribution.com/89fd625905004ee2a85082c20c9d2c0b/\r\n",
+      "metaTitle": "Car Eats Car Dungeon Adventure Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Car Eats Car Dungeon Adventure at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Car Eats Car Dungeon Adventure Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579523644.xml",
+      "idealFor": "Man",
+      "likes": 25,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7063,
+      "ownGame": false,
+      "addDate": "2020-01-20T18:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2024-06-06T07:50:00.236Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W, UP ARROW TO SPEED A,D, LEFT RIGHT ARROW TO DIRECTION, SPACE TO BOMB, X TURBO"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
