@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb66",
+      "id": 4072,
+      "name": "Sky Wars",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "sky-wars",
+      "image": "4072",
+      "url": "sky-wars",
+      "description": "<div>You are going to lead the biggest airspace war of your life. We have got you covered with a brand new simulation shooter challenge where you would get a chance to become a space hero. Are you ready friends to accept this unique kind of challenge? Join Sky Wars and be prepared to fight for earth and show off the world that you are a true airspace fighter! Enter the game and get ready to fly your plane through a storm of bullets and missiles!</div><div><br></div><div>Pilot your plane and take down your enemies using your weapons in the sky and the ground! Common boys! You have the skills to control a fierce warplane through intense aerial battles. Enemies will appear in the sky in multiple waves and an increased number of enemies display on the screen in each wave. Tanks on the ground, other aircraft and flack cannons in the sky will be treated as your enemies. Outflank your rivals with the help of your quick maneuvers while avoiding damage!</div><div><br></div><div>Your aircraft will be disappeared from the screen in case if your amount of health is finished. Once a wave finishes, you can opt for the cash you have gathered to buy the improved aircrafts with advanced engine power and weapons. Eliminate as many enemies as you can in the survival mode to keep you alive apart from going through the standard wave mode in this fighter challenge!</div>",
+      "size": 480,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/fd86439517774592adc77410795393c4/\r\n",
+      "metaTitle": "Sky Wars, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sky Wars at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Sky Wars Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 70,
+      "dislikes": 19,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 23480,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-12-10T09:50:08.794Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO CONTROL THE PALNE"
+    },
+    "rating": {
+      "rating": "2.7",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
