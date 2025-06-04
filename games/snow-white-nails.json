@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad8f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b44a",
+      "id": 2100,
+      "name": "Snow White Nails",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "snow-white-nails",
+      "image": "2100",
+      "url": "snow-white-nails",
+      "description": "The sweet and gentle Snow White is going to the nails spa for the very first time and she needs your help with a new manicure. Join her in a professional salon, apply the relaxing hand treatment, repair the nails and get ready to create beautiful nail art. Finish your masterpiece with cute bracelets and rings to add more elegance to her style.",
+      "size": 800,
+      "height": 600,
+      "script": "//cdn.witchhut.com/html5/games/snow-white-nails/190.html",
+      "metaTitle": "Snow White Nails, Make-Up Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Snow White Nails at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Snow White Nails Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.newvendor.com/",
+      "xmlFile": "multi_item_1521610088.xml",
+      "idealFor": "Man",
+      "likes": 224,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 50217,
+      "ownGame": false,
+      "addDate": "2018-03-21T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.702Z",
+      "updatedAt": "2024-09-02T05:12:05.979Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO DECORATE THE NAILS",
+      "webControlKeys": "L-CLICK OF MOUSE TO DECORATE THE NAILS"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 28
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad8f",
+      "name": "make-up",
+      "slug": "make-up",
+      "icon": "Make Up"
+    }
+  }
+}
