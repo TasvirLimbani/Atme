@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4d0",
+      "id": 2245,
+      "name": "Aim Clash",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "aim-clash",
+      "image": "2245",
+      "url": "aim-clash",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You have already entered the extremely challenging and engaging action world. There is no way to look backward. Why do not grab your gun and get ready to show off your insane shooting abilities to the entire world? Join Aim Clash and be prepared to crush your opponents to create your best score! Make sure that your eyes are kept on the screen on time to use your turn timely. It is time to test yourself against other deadly rivals in this brand new action game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">There are countless different levels to play through in this HTML5 skill game. To win each level, make sure that you are using your cunning and trying to be a bit creative with your trick shots. No need to shy since the direct hit seems to be impossible for the players. Enter the name of your choice and gear up to blow up your opponents before they shoot you in this multiplayer shooting game! Difficulties will keep increasing as you progress.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Every time you need to think beyond your imagination before using your turn. The bullet and missile can bounce several times before reaching the destination. So, make sure that you can hit at the angle that helps to kill your opponent. Let us see who will win between you and your competitor! We cover other some extra engaging and addictive action-packed games for boys that are playable on multiple devices and browsers without download. Give them a try one by one to know what suit your action needs the most!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/1f88646370cc47deb9b39eb8ac698566/\r\n",
+      "metaTitle": "Aim Clash,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Aim Clash at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Aim Clash Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524804977.xml",
+      "idealFor": "Man",
+      "likes": 48,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 17079,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:26:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2025-04-24T13:08:55.558Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP O SCREE TO SHOOT",
+      "webControlKeys": "L-CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
