@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1ca",
+      "id": 1364,
+      "name": "Floor Jumper Escape",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "floor-jumper-escape",
+      "image": "1364",
+      "url": "floor-jumper-escape",
+      "description": "<div>Are you among those kids or adults who always search for trying out new adventurous activities? Do you love to spend most of your time playing games online? Well, then you should definitely join us in this brand new adventure game for boys we have got covered especially for you. Our team has invested good time in bringing to you this special treat for you on our free online game website. Get into this to enjoy one of the most popular fun activities!</div><div><br></div><div>Your primary job in this free online escaping game is to help the girl thief escape from the police. Try to assist her make a right jump and climb to the top of the building, which is actually a goal of the game! Here you will meet Clarice, a girl thief who has recently robbed a renowned bank of the town and now all the policemen are seeking for her. Remember she will also be caught by police in lights.?</div><div><br></div><div>It will be in your hands to help Clarice how to make a proper jump from one floor to another while also keeping the uncovered corner of the floor in mind. Several floors do not have a wall, while others might surprise you other dangerous. The girl relies on your skill, so just focus on giving your 100% efforts to make a win in the end. Join this awesome HTML5 game to find out how far can you make her go! Keep jumping and collecting stacks of money!?</div>",
+      "size": 530,
+      "height": 800,
+      "script": "https://games.atmegame.com/games/floor-jumper-escape/",
+      "metaTitle": "Floor Jumper Escape Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Floor Jumper Escape at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Floor Jumper Escape Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299559.xml",
+      "idealFor": "Man",
+      "likes": 105,
+      "dislikes": 18,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 50711,
+      "ownGame": true,
+      "addDate": "2018-01-30T13:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.688Z",
+      "updatedAt": "2024-11-19T07:35:55.845Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO JUMP",
+      "webControlKeys": "L CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 17
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
