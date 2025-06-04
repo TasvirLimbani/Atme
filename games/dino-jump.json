@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c437",
+      "id": 6567,
+      "name": "Dino Jump",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "dino-jump",
+      "image": "6567",
+      "url": "dino-jump",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you love dinosaurs? Are you a kind of person for whom getting enrolled in the virtual jumping world is the biggest fun activity? If yes, we have something special for you. Just put your fingers on your mouse or tap the screen of your mobile phone and get ready to control a cute and little dinosaur in Dino Jump! We are pretty sure that you will fall in love with this funny dinosaur once you give it a try.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">In this one of the best arcade games for kids, you will play the role of a child of a dinosaur who wants to cover a long distance in water. Different types of platforms have been scattered in water. And, you have to help this dino to jump from one platform to another to reach safely to his destination. Try to time his jump perfectly and make sure that he does not fall in water otherwise he will die and you will lose your game!</span></div><div><span style=\"font-size: 13.3333px;\">Be careful and focus on going for as long as you can to score high in this cute HTML5 jumper! Choose either a single jump or a double jump as per the requirements! Reach the watch fast to get a time booster of 2 minutes! In case if you reach the clock and die while reaching or crossing it, you will also be given a one more chance to play. Do not forget to get a new look for your dino to explore the customization options. Good luck to go long, unlock new dinos and eras and customize your character in your favourite skin!</span></div><div><br></div>",
+      "size": 1150,
+      "height": 660,
+      "script": "https://games.atmegame.com/games/gg/dino-jump/",
+      "metaTitle": "Dino Jump, Arcade Games- Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dino Jump at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Dino Jump, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 287,
+      "dislikes": 124,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 50409,
+      "ownGame": true,
+      "addDate": "2020-11-28T16:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-01-31T10:21:43.329Z",
+      "__v": 0,
+      "mobileControlKeys": "PRESS RIGHRT ICON TO JUMP 2 BOXES PRESS LEFT ICON TO JUMP SINGLE BOX",
+      "webControlKeys": "PRESS RIGHT ARROW TO JUMP 2 BLOCKS, PRESS LEFT ARROW TO JUMP SINGLE BLOCK"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 26
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
