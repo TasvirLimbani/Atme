@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0f8",
+      "id": 5529,
+      "name": "Bottle Shooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "bottle-shooter",
+      "image": "5529",
+      "url": "bottle-shooter",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Does the sound of shooting and broken glass gives you a reason to smile? If yes, trying out this free online html5 game can prove to be a nice bet for you. Bottle Shooter is a brand new action packed game designed to all those gamers who love to challenge their shooting skills whenever they get an opportunity to do so. It will be really exciting to blast bottles and compete players from all across the world! Click the play button and get ready to enter the thrill and fun you were crazy for!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this one of the best shooter games is to shoot all the sensitive bottles before they reach at bottom and get cracked. Try to be alert all the time and avoid shooting the bombs otherwise you will lose your game immediately! Remember your sore will be submitted if you mistakenly shoot a grenade or miss three bottles consequently. Do your best to unlock all of the great achievements of the game by improving your bottle shooting skills on the regular basis!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to shoot as many bottles as you can by using your gun and hit the best score on the leaderboard! It is important to react fast throughout the game to earn more points in this free target shooting game. Feel free to move your gun upward and downward for better precision! Use arrow keys to move your gun and shoot bottles using the spacebar key in this reaction game! Join us today to practice your shooting skills in the fixed amount of time! Play more challenging and addictive games for free on atmegame.com!</span></div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/15334cac3918418baf2327e286ec266a/\r\n",
+      "metaTitle": "Bottle Shooter, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bottle Shooter at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Bottle Shooter Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453347.xml",
+      "idealFor": "Man",
+      "likes": 34,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13548,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2024-09-02T08:25:43.580Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO SHOOT THE BOTTLES",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.2",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
