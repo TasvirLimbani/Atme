@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c395",
+      "id": 6403,
+      "name": "4x4 Offroad Simulator 2020",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "4x4-offroad-simulator-2020",
+      "image": "6403",
+      "url": "4x4-offroad-simulator-2020",
+      "description": "<div>The best 4x4 off-road car driving simulator we have brought to you to allow you kill your free hours during stay and enjoy the matchless fun and thrill without download. This brand new racing challenge could be not less than a big treat for all car driving enthusiasts. Choose from multiple 2x4 and 4x4 cars/jeeps and enter the biggest driving challenge available online for free! Explore your chosen map, take your seat on your vehicle and get ready to drive your vehicle on the amazing off-road tracks!</div><div><br></div><div>There are three different map options including dessert, snow and forest to play through. This HTML5 car driving simulator will offer you the best entertainment and is enough to blow your mind off in a way like never before. Keep your eyes on the screen and drive your cars or jeeps through various maps and grab coins! Try to complete your missions as fast as you can to earn the maximum cash possible in this offroad racing simulation game!</div><div><br></div><div>This free car race game features realistic physics, easy controls, coins systems, beautiful graphics, and seamless gameplay that are enough to keep you stick to the screen for long. You will also have a chance to purchase and unlock new vehicle models with the help of coins you earn along the way. Stay connected with atmegame.com and allow yourself to play new racing games every day as our website gets updated regularly!</div>",
+      "size": 960,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/6997fa7055904700b6820e7f6b1cd8e7/\r\n",
+      "metaTitle": "4x4 Offroad Simulator 2020 Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game 4x4 offroad simulator 2020 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "4x4 offroad simulator 2020 Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842458.xml",
+      "idealFor": "Man",
+      "likes": 72,
+      "dislikes": 17,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 10041,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2025-04-13T08:04:35.213Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,UP ARROW TO SPEED, L-R ARROW,A,D TO L-R, S, DOWN ARROW- BACK,SPACE -BREAK,C-CHANGE THE VIEW,L ALT-PAUSE"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
