@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8a",
+  "category_name": "best",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b368",
+      "id": 1861,
+      "name": "Super Rally 3D",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "super-rally-3d",
+      "image": "1861",
+      "url": "super-rally-3d",
+      "description": "Race the Rally circuit in awesome new rally cars that are super fast. Travel the world in Championship mode or test your skills in Time Trials. Do well and unlock new cars and tracks. Race around the world Rally style! Choose your rally car and select your track. Start in the UK and travel the world as you win races against tough opponents. Play championship or time trial mode and submit your high scores!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=7437d136770f5b35194cb46c1653efaa\r\n",
+      "metaTitle": "Super Rally 3D, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Super Rally 3D at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Super Rally 3D Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630386.xml",
+      "idealFor": "Man",
+      "likes": 68,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 13246,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:03:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2024-06-18T12:46:45.208Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
