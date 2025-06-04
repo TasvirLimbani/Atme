@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad61",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb85",
+      "id": 4104,
+      "name": "Rugby Extreme",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "rugby-extreme",
+      "image": "4104",
+      "url": "rugby-extreme",
+      "description": "<div>Do you think that you are a nice rugby player? Is it your hobby to trick the goalkeeper and score goals for your team? If so, playing Rugby Extreme can prove to be a nice bet for you. Your objective in this brand new sports game is to flick the ball into the goal post and make your team feel proud on you. The problem is that you would not have only a single opponent to face off, but a flying capemen will also be there to block your shots.</div><div><br></div><div>A large number of audiences are waiting for you on the ground to cheer you up. You would definitely fall in love with this cool html5 rugby challenge especially if you are a true fan of American football, flick kick rugby or rugby world cup. Put your finger on your mouse or tap the screen of your mobile phone to throw or kick the ball right into the goal post! Do not forget to challenge your precision and speed skills to score as many goals as you can to create your best high score using 3 balls.</div><div><br></div><div>Make sure to release the ball at the right angle and right speed to score the maximum number of goals to make your team win in every rugby match. Beat all your rivals and become a rugby champion in this cool online game! Stay connected with us to find some new sports games and enjoy with your friends without download! All you need to do is just arrange a system, and tablet with a nice internet connection or play your favorite sport challenge in your mobile phone on the go.</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/646ef1ca78414d88acb3d87546f38b9a/\r\n",
+      "metaTitle": "Rugby Extreme, Rugbi Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Rugby Extreme at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Rugby Extreme Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 39,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12728,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2025-04-20T23:45:30.980Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE UP ON SCREEN TO PLAY",
+      "webControlKeys": "KEEP PRESS LESF CLICK OOF MOUSE TO AIM RELESE TO HIT THE TARGET"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad61",
+      "name": "rugby",
+      "slug": "rugby",
+      "icon": "rugby-games"
+    }
+  }
+}
