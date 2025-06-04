@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad81",
+  "category_name": "animals",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad81",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae6f",
+      "id": 155,
+      "name": "Midnight Canine",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "midnight-canine",
+      "image": "155",
+      "url": "midnight-canine",
+      "description": "Game Description Updating...",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=b69cf0808aa14f04b38a4d82ff03e8ad",
+      "metaTitle": "Midnight Canine, Animals Games - Play Online Free : Atmegame",
+      "metaDesc": "Meta Description Updating...",
+      "metaKeyword": "Midnight Canine, Girls, Animals Games, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 87,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9314,
+      "ownGame": false,
+      "addDate": "2016-07-04T02:11:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.664Z",
+      "updatedAt": "2024-11-03T16:39:34.218Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad81",
+      "name": "animals",
+      "slug": "animals",
+      "icon": "Animals Games"
+    }
+  }
+}
