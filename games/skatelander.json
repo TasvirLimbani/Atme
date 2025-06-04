@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1f5",
+      "id": 1413,
+      "name": "Skatelander",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "skatelander",
+      "image": "1413",
+      "url": "skatelander",
+      "description": "<div>One of the excellent free online platform games ever produced, Skateland is treated to boys of all ages. In this brand new endless distance game, you as a player have to ride along the street on your skateboard. Take your board and get ready to perform different stunts while riding through the ocean shore of a pixelated world! Join this cute pixelated boy and forget all the limits and boundaries! Try to cover as much distance as possible to keep your game going.&nbsp;</div><div><br></div><div>In this beautifully-designed endless runner game, you will have to avoid obstacles like construction props and traffic cones to achieve the goal of the game. Make sure to collect the money along the way to boost your score. Different cityscapes and landscapes you see on the screen will give you a like-life experience. In every stage, you have to ride on your cool skateboard while avoiding the deadly obstacles. Use your mouse to play this mobile-friendly pixel-style distance game!</div><div><br></div><div>Skateland is a diagonal-scrolling endless running game in which you have to control a boy who loves riding on a skateboard. Try to reach as many checkpoints as possible to improve your score. Choose from four selectable characters in the beginning of the game! Every character comes with different music and background and world. Get the power-up to enjoy the ability to jump over the obstacles! Good luck to set your high score, boys!&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/892a9b7a4cd94cc0a62179b9ad373b9d/\r\n",
+      "metaTitle": "Skatelander, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Skatelander at atmegame.com ! We have selected this platform games for best excitement and thrill in you!",
+      "metaKeyword": "Skatelander Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489309.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8647,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.689Z",
+      "updatedAt": "2024-08-28T07:41:50.733Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO JUMP",
+      "webControlKeys": "L-R  ARROWS TO MOVE, SP[ACE TO JUMP"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
