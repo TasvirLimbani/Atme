@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd15",
+      "id": 4509,
+      "name": "Maths Challenge",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "maths-challenge",
+      "image": "4509",
+      "url": "maths-challenge",
+      "description": "<div><span style=\"font-size: 13.3333px;\">There is no shortage of online game options to all those who want to improve their mathematical abilities. If you are also one of those who like playing math games online, Maths Challenge can prove to be a nice bet to try. There are multiple mathematics puzzles to play through in this brand new arcade game. Give it a try for sure to improve your knowledge of mathematics and boost your brain in a beautiful friendly environment! Your objective is to solve the problems to get your high score.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You can explore multiple mathematical operations, including Addition, Multiplication, Subtraction, Division and Mix in this html5 puzzle game. Select mode and enter the exciting math challenge in just a few clicks! See your puzzle on the top of the screen and you would spot four objective answers below the puzzle!&nbsp; Choose the correct answer and secure 1 point for it! Track your score on the top right corner of the screen! Be careful and try to select your option before the time expires!</span></div><div><span style=\"font-size: 13.3333px;\">Click the button shown on the bottom left corner of the screen to visit the home page and choose another mathematical operation in this unique maths puzzle! We are damn sure that your kids mathematical skills will be enhanced for sure if he or she tries out all the puzzles based on different operations. All the best to complete as many maths puzzles as you can to become a master of it and setting a new high score! Stay connected with us to find new maths games since we keep our website updated with new arcade and puzzle challenges!</span></div><div><br></div>",
+      "size": 850,
+      "height": 480,
+      "script": "\nhttps://html5.gamedistribution.com/8e5e5f3b0e2b455fa4bcd53ddcf90fd0/\n",
+      "metaTitle": "Maths Challenge, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Maths Challenge at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Maths Challenge Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527121.xml",
+      "idealFor": "All",
+      "likes": 26,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7807,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-07-14T12:57:27.802Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK OF MOUSE TO CHOOSE THE CORRECT ANSWER"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
