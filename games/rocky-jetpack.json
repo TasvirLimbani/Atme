@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c42b",
+      "id": 6555,
+      "name": "Rocky Jetpack",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "rocky-jetpack",
+      "image": "6555",
+      "url": "rocky-jetpack",
+      "description": "<div>This unique adventure challenge has got you covered with a brave boy named Rocky who is known for his matchless tool creating abilities. People also call him as the protector of the forest. However, a horde of dangerous monsters has invaded the forest and he has nothing option, but fighting with them to clean the area. He knows how to fly. Join Rocky The Jetpack Boy and be prepared to help him clear the area from all the evil souls!</div><div><br></div><div>Your objective in this HTML5 side-scrolling endless runner game is to shoot as many monsters as you can. Keep moving your character up and down to handle the job perfectly! Do not forget to grab the coins since they will help you to improve the power of your character. Use the arrow keys or tap the screen of your mobile phone to move your character! Track your coins by looking at the top middle portion of the screen and you can also know about your power by keeping your eyes at the bottom!</div><div><br></div><div>You can move to the home page by clicking the menu button shown on the top right portion of the screen. Guide your character through all the challenging difficulties to make him stay for as long as possible to create your new best score in this free flying game! At our website, you can also find many other popular titles from the category of adventure games for boys and get a chance to get the fun and entertainment of long hours.</div>",
+      "size": 1180,
+      "height": 665,
+      "script": "https://games.atmegame.com/games/rocky-jetpack/",
+      "metaTitle": "Rocky Jetpack Game, Flying - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Rocky Jetpack at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Rocky Jetpack, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 275,
+      "dislikes": 110,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 62685,
+      "ownGame": true,
+      "addDate": "2020-11-21T15:36:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-26T05:04:48.487Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON TRACK BALL TO MOVE",
+      "webControlKeys": "ALL ARROWS TO MOVE "
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 31
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
