@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b902",
+      "id": 3416,
+      "name": "Night Watchmen Stories Zombie Hospital",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "night-watchmen-stories-zombie-hospital",
+      "image": "3416",
+      "url": "night-watchmen-stories-zombie-hospital",
+      "description": "You are working as Night Watchman in the Hospital. You Fall Asleep... Strange Sound Wake You Up! Soon you realise that reality and nightmare are the same... Features: - Good Horror story, like in Classic Horror Movies. - Six Weapons: Bottle, Colt 45, Grenade, Bazooka, Minigun and Shotgun! - Smooth Controls. - High quality 3D environment graphics. - Awesome Gameplay.\r\n",
+      "size": 960,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/dfa9aeb72ea84d95879efd697c9d931a/\r\n",
+      "metaTitle": "Night Watchmen Stories Zombie Hospital, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Night Watchmen Stories Zombie Hospital at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Night Watchmen Stories Zombie Hospital Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533887535.xml",
+      "idealFor": "Man",
+      "likes": 48,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 15168,
+      "ownGame": false,
+      "addDate": "2018-08-10T13:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2025-05-03T20:28:27.478Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "WA,S,D ALL ARROWS TO MOVE,MOUSE - MLOOK AROUND,L CLICK- FIRE, RIGHT CLICK- AIM,MOUSE WHEEL- CHANGE THE WEAPON, G- GRANED, R- RELOAD, F- PICK UP THE ITEMS,L SHIFT- RUN, L CTRL- CROUCH, C- PRONE, SPACE- JUMP"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
