@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c152",
+      "id": 5636,
+      "name": "Circle Crash",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "circle-crash",
+      "image": "5636",
+      "url": "circle-crash",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Car racing offers plenty of fun opportunities to players of all ages. However, the fun possibilities along with the challenges look pretty different in this brand new racing game. Are you still ready to take up the driver seat? Join Circle Crash game and become a master of a unique racing track that is in the circle shape! Your objective in this free online game is to control the speed of the car to avoid crashing. We hope that you have the skills to handle the steering wheel of this fastest moving car.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Try to be careful on the track and rev up or slow down your car timely to avoid the collision against the other hastily-moving vehicles! Do not forget to collect coins that you see on the track to unlock new cool car models in this one of the best car games for kids! Concentrate hard and try to make as many circles as you can on the road to secure the highest points! You will immediately be thrown out of the game if you hit other moving cars.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">There is no need to think twice to use the brake to slow down your car and apply the gas pedal to speed it up if required. Easy and Hard are the two different modes that you can explore in this cool HTML5 game. Try easy mode if you are a beginner and feel free to check out the hard mode to test your skills in case if you are an avid driver! All you need is just get your fingers tight on the accelerator and control a cute car around the circle. Explore all tracks to enjoy a new experience in our popular car games</span></div>",
+      "size": 850,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/5712c5243f1940d9b81c380a67f11a37/\r\n",
+      "metaTitle": "Circle Crash,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Circle Crash at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Circle Crash Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1555400796.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7018,
+      "ownGame": false,
+      "addDate": "2019-04-16T13:16:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.753Z",
+      "updatedAt": "2024-09-04T10:11:06.630Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "SLOW THE CAR WITH LEFT CLIOCK OF MOUSE SO THAT IT MAY NOT COLAPSE WITH OTHER CAR, SPEED CAN BE INCREASE WHEN IT CROSSES THE WAYS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
