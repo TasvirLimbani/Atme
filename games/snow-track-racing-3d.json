@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2cb",
+      "id": 6136,
+      "name": "Snow Track Racing 3D",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "snow-track-racing-3d",
+      "image": "6136",
+      "url": "snow-track-racing-3d",
+      "description": "<div>Racing can make your heart pump out and take you to the new level of fun and entertainment. Today we have brought to you a brand new racing game that has the ability to keep you engrossed for hours. Would you like to take a pleasure of putting your fingers on the best fun-filled racing challenge? If yes, join Snow Track Racing 3D and gear up to drive your chosen vehicle at high speed through multiple deadly snow-covered tracks.</div><div><br></div><div>This cool HTML5 car game makes sure that you would have a highly exciting and extremely addictive racing simulation experience. It is not about driving, but you will also be taken to the world where you are also allowed to drift over the heavily snowed car racing tracks. Drive new and expensive formula four-wheelers on asphalt tracks when you are on the drifting mode! Choose any option between practice mode and career mode and enable yourself to experience the amazing car racing battle!</div><div><br></div><div>Be careful and do not forget to use your driving skill as your vehicle can skid anytime when you speed up! Driving does not look easy in this weather. So try to slow your speed when any sharp turn comes. Try to keep your vehicle away from the side of the road since it can stop you from moving forward! Good luck completing all levels to become a driving champion in 3D car driving simulator!</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/3d24cc0ebc5e4d4fac043ad4e6302bbd/\r\n",
+      "metaTitle": "Snow Track Racing 3D, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Snow Track Racing 3D at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Snow Track Racing 3D Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569524127.xml",
+      "idealFor": "Man",
+      "likes": 80,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 22316,
+      "ownGame": false,
+      "addDate": "2019-09-27T00:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2024-09-16T06:46:54.410Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS-MOVE, SPACE-BREAK,ALT-PAUSE"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
