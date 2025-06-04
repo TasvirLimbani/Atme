@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b326",
+      "id": 1784,
+      "name": "Super Ball DZ",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "super-ball-dz",
+      "image": "1784",
+      "url": "super-ball-dz",
+      "description": "Enter the world of dragon ball in this platform game revive the epic battles of the saga of sayajins you can pass the 24 levels full of action\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/727be9c7ddf6474c8efe6e5935b5662b/\r\n",
+      "metaTitle": "Super Ball DZ, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Super Ball DZ at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Super Ball DZ Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629580.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8196,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.696Z",
+      "updatedAt": "2025-01-09T11:10:19.215Z",
+      "__v": 0,
+      "mobileControlKeys": "L-ICONS TO L-R OVE, C-KICK ,B-SHOOT, A-JUMP",
+      "webControlKeys": "A-KICK,D- SHOOT, UP ARROW- JUMP, L-R ARROWS- L-R MOVE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
