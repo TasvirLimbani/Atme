@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd0b",
+      "id": 4499,
+      "name": "Turkey Shooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "turkey-shooter",
+      "image": "4499",
+      "url": "turkey-shooter",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You are a nice shooter and now want to practice your shooting abilities. So why do you need to think anymore? Join Turkey Shooter and get ready to challenge your gun handling skills to the ultimate possible level! We are pretty sure that you would also recommend this action game to your friends and families even after giving it a single try. You have got into the habitat of one of the farmers and now you have no other option than grabbing a gun to clear all the turkeys from the screen.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">The fun level is going to be matchless since the game will be over when you stop shooting the gobbling turkeys. Grab your gun and gun down as many of the turkeys as you can to create your best high score! Be careful and try to finish the maximum possible turkeys as you have only 60 seconds in this html5 shooting game! Try to implement the best strategy to boost your score and prove the world that you are the best shooter of your city!</span></div><div><span style=\"font-size: 13.3333px;\">Use the mouse on PC or tap the screen on mobile phone to kill a good number of turkeys in this unique and funny shooter challenge! Although you would have 60 second time limit, but there is no fun limit to explore. Good luck to prove your abilities to scare away all the turkeys in this funny sniper like challenge! Our website has a plenty of popular titles from the category of action-packed games for boys and girls that are free to play online on atmegame.com.&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/d7b04b7a97684226bca8abb5657553de/\n",
+      "metaTitle": "Turkey Shooter, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Turkey Shooter at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Turkey Shooter Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544526946.xml",
+      "idealFor": "All",
+      "likes": 16,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10043,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-06-30T16:04:55.820Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO MOVE R ICON TO SHOOT",
+      "webControlKeys": "MOVE MOUSE TO AIM, L CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
