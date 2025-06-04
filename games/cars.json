@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b658",
+      "id": 2697,
+      "name": "CarS",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "cars",
+      "image": "2697",
+      "url": "cars",
+      "description": "<div>Did you remember the old multiplayer racing games with two windows in a computer screen? The experience offered by those games is quite different from the current ones. Thanks to our advanced car driving gaming world! CarS is an amazing brand new racing game where you will able to compete against your friends or play it alone by opting for a different gaming mode. Show off your driving abilities to win this free online car racing game!</div><div><br></div><div>Get yourself enrolled in a race for time and look into the time of other players and also compare it with yours. You are free to ignore this mode and choose single player mode which offers freedom ride. There are three racing cars you will have to choose from. Out of them, two can be balanced easily at the speed of 300 km/h. This cool flash game includes a map featuring a city where you will have a handy 4X4 drive during urban spree. </div><div><br></div><div>Let?s see which car you choose as your favorite! Good luck kids to have a blast in this best fun car driving game! One of the best driving games to play, CarS is a single player activity designed to boys and girls from all age groups. It includes seamless gameplay, fabulous graphics, easy control and marvellous audio and video effects. Hope you will enjoy it a lot and definitely recommend it to your friends. Show off your intensive driving moves to become a master in a world-class car driving game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/cars/index.php",
+      "metaTitle": "CarS, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game CarS at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "CarS Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 29,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 12227,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.714Z",
+      "updatedAt": "2024-11-01T16:29:43.884Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS - DRIVE, SPACE- BREAK, C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
