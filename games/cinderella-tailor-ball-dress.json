@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad90",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b452",
+      "id": 2108,
+      "name": "Cinderella Tailor Ball Dress",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "cinderella-tailor-ball-dress",
+      "image": "2108",
+      "url": "cinderella-tailor-ball-dress",
+      "description": "The Fairy Godmother has an important task to complete and that is to make Cinderella a ball gown, but the studio is messy. Clean up the room by finding the lost objects and start the transformation. Take measurements, cut the material, apply sparkly accessories, create a new hairstyle and our princess will be ready for the ball.",
+      "size": 800,
+      "height": 600,
+      "script": "//cdn.witchhut.com/html5/games/cinderella-tailor-ball-dress/190.html",
+      "metaTitle": "Cinderella Tailor Ball Dress, Make-Up Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cinderella Tailor Ball Dress at atmegame.com ! We have selected this Make-Up games for best excitement and thrill in you!",
+      "metaKeyword": "Cinderella Tailor Ball Dress Game, Girls Games, Make-Up Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.newvendor.com/",
+      "xmlFile": "multi_item_1521610088.xml",
+      "idealFor": "Man",
+      "likes": 330,
+      "dislikes": 17,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 56794,
+      "ownGame": false,
+      "addDate": "2018-03-21T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.702Z",
+      "updatedAt": "2025-05-29T09:26:39.063Z",
+      "__v": 0,
+      "mobileControlKeys": "FIND THE MISSING OBJECTS AND CLEAN THE ROOM AND DRESSUP BY TAP ON THE SCREEN",
+      "webControlKeys": "FIND THE MISSING OBJECTS AND CLEAN THE ROOM AND DRESSUP BY L CLICK O0F MOUSE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 94
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad90",
+      "name": "decoration",
+      "slug": "decoration",
+      "icon": "Decoration"
+    }
+  }
+}
