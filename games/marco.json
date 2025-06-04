@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c02f",
+      "id": 5317,
+      "name": "Marco",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "marco",
+      "image": "5317",
+      "url": "marco",
+      "description": "<div><span style=\"font-size: 13.3333px;\">We are sure that many of you didn’t have forgot the most popular platform game named “Mario” the gaming industry has ever produced. Another brand new adventure challenge “Marco” has come today to surprise and keep you busy for hours. We believe that this world of fun and thrill will take you to a new world of fun possibilities. Keep your fingers ready on your keyboard or the screen of your mobile phone and be prepared to get you board on the most challenging and highly addictive adventure journey!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You will have to control a very cute and lovely character in this fast-paced platform game. Your objective is to help him to move forward on different platforms while avoiding different kinds of obstacles on his way. Do not forget to collect coins to improve your character. Be alert when you make him jump from one platform to another. You will die immediately in case if you fall between the platforms. However, you will also have a chance to increase the number of lives during the gameplay.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This one of the best 2d html5 adventurer games for boys features multiple levels, power-ups and in-game shop outlet. Try to collect as many coins as you can to buy more accessories for your character! Give this new adventure game a try in your PC, android phone, iPad or iPhone to have fun to the utmost level! We are highly committed to keep you entertained with the latest and popular series of platformer games. Stay tuned with us to play new games online for free without downloading app or software!</span></div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/33bafc0eca5042ed915584e04fdd27ec/\r\n",
+      "metaTitle": "Marco,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Marco at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Marco Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352699.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8738,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:14:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.749Z",
+      "updatedAt": "2024-03-26T10:34:43.921Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
