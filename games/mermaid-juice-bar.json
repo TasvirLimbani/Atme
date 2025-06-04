@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b269",
+      "id": 1578,
+      "name": "Mermaid Juice Bar",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "mermaid-juice-bar",
+      "image": "1578",
+      "url": "mermaid-juice-bar",
+      "description": "This jazzy juice bar is the most happening place under the sea!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=13ac46aa60124f368211b81cfd7c7fb9\r\n",
+      "metaTitle": "Mermaid Juice Bar, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mermaid Juice Bar at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mermaid Juice Bar Game, Cooking Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517901921.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7120,
+      "ownGame": false,
+      "addDate": "2018-02-06T12:55:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.691Z",
+      "updatedAt": "2024-02-12T13:15:40.274Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "2.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
