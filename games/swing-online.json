@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be4b",
+      "id": 4821,
+      "name": "Swing Online",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "swing-online",
+      "image": "4821",
+      "url": "swing-online",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You will meet today with a professional robber who always gets ready to take extra step in stealing the money. Today he has a big plan to steal the money from the biggest bank of the city. Would you help him out in this difficult challenge? Join Swing Robber and be prepared to help him cross the platforms that are full of obstacles by swing so he can finish his task! Your quick reflexes and good command over the mouse would help to create the best score in the end.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">There are gaps between the two platforms and your objective is to get through all of the hurdles to help your character reach the finish line in this brand new adventure game for boys. Focus on the details and try to swing this robber at a right angle! Make sure to shoot your web at the right time to complete your aim successfully. Your difficulties keep increasing as you progress in this html5 platform game.&nbsp;</span></div><div><br></div><div><span style=\"font-size: 13.3333px;\">It will be in your hands now to help this sneaky thief swing perfectly from one building to another! Keep your eyes open as you also have to grab the gold bags for bonus points! Secure a high score to be a popular robber in this funny and addictive physics based skill game! Avoid the depths below and various other obstacles by using the rope to move from one platform to another! Good luck to create the best score in this adventure skill game!&nbsp;</span></div>",
+      "size": 640,
+      "height": 960,
+      "script": "https://m.shtoss.com/game/swing-online/index.html",
+      "metaTitle": "Swing Online,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Swing Online at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Swing Online Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546117493.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8175,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.742Z",
+      "updatedAt": "2024-03-03T07:30:33.523Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO CREATE THE ROPE , TAP TO SWING",
+      "webControlKeys": " L CLICK OF MOUSE TO CREATE THE ROPE, L CLICK TO SWING"
+    },
+    "rating": {
+      "rating": "1.3",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
