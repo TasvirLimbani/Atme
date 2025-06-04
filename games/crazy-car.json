@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad9b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf6a",
+      "id": 5113,
+      "name": "Crazy Car",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "crazy-car",
+      "image": "5113",
+      "url": "crazy-car",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Playing with cube games online is always a great fun. With an objective to help cube game lovers keep occupied for hours, we have today come up with a brand new arcade game that is simple to play, but highly addictive in nature. So, it does not make a sense to wait anymore. Join Cubies and get a chance to enter a platform where you will have to play with flappy cubies! It will take a few clicks to have fun while beating your high score!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this cute skill game is to hold your left mouse button or tap the screen to help your balloon fly in the sky. You can release the mouse to release your balloon to go own. Try to keep your eyes on the spikes as they can hit your balloon anytime and throw you out of the game immediately! You can also destroy them by clicking groups of 2 or more cubies. Your high score will depend on how more cubies you will destroy.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You can play this fun skill games for boys in multiple latest browsers including chrome and safari. Also get a chance to enjoy it on PCs, smartphones, tablets, and iPhones &amp; iPads. This free responsive avoid game is created with the help of html5 technology, so you can enjoy it in any mobile phone. Check out more skill games from the category of arcade puzzles to keep you glued to the screen for hours! We are happy to take you to an environment where passing free hours looks a very easy affair.&nbsp;</span></div>",
+      "size": 1280,
+      "height": 720,
+      "script": "https://m.shtoss.com/game/crazy-car/index.html",
+      "metaTitle": "Crazy Car,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Crazy Car at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Crazy Car Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 20,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 14399,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-08-07T09:22:35.851Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO JUMP THE CAR",
+      "webControlKeys": "L CLICK TO JUMP THE CAR"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad9b",
+      "name": "jumping",
+      "slug": "jumping",
+      "icon": "icon-iconAsset-47"
+    }
+  }
+}
