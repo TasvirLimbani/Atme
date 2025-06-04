@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba5e",
+      "id": 3794,
+      "name": "Tasty Tale",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "tasty-tale",
+      "image": "3794",
+      "url": "tasty-tale",
+      "description": "Tasty Tale brings match-3 cooking fun to you! Put on your chef hat and dive into the colorful world of delicious dishes combined with fun and addictive match-3 puzzle adventure gameplay. Meet well-known fairy tale characters, like Snow White, Pinocchio or the Three Little Pigs as clients in your restaurant and serve them with their favorite dishes. Complete recipes to unlock more restaurants and show your cooking skills to even more fairy tale costumers. Experience over 100 levels of different tasty challenges!",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/tasty-tale-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Tasty Tale, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tasty Tale at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Tasty Tale Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9752,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2023-10-20T10:45:10.806Z",
+      "__v": 0,
+      "mobileControlKeys": " SWIPE THE SAME OBJECTS TO MAKE A MATCH OF TREE ",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND SWIPE THE SAME OBJECTS TO MAKE A MATCH OF TREE "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
