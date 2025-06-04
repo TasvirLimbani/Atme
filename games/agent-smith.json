@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c10f",
+      "id": 5557,
+      "name": "Agent Smith",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "agent-smith",
+      "image": "5557",
+      "url": "agent-smith",
+      "description": "<div><span style=\"font-size: 13.3333px;\">A horde of bad guys has already taken people hostage at the skyscraper. All people of that area are in a big trouble and seek for help. Luckily, you have joined the place as an agent who wants to save the hostages and help them to get their happiness back. Do not try to let you down if you fail in a few initial attempts. All you need to do is just get up again and show the world that you are an honest and brave police agent who can even give his life to save the humanity.?</span></div><div><span style=\"font-size: 13.3333px;\">Mission is full of challenges as kidnappers are big in number. Your primary objective in this free online shooting game is to help agent Smith to accomplish his mission. Pay attention to details and get ready to guide him when he enters inside the building to protect the hostages against the cruel kidnappers. Kill bad guys as you see on your way and sneak in the building to save all hostages! Your enemies will try to stop you from moving forward. Shoot them down and collect energy and cash from them!</span></div><div><span style=\"font-size: 13.3333px;\">You can use that cash to purchase upgrades through which you can complete your mission shortly in this one of the best shooter games for boys. Move your agent through left and right arrow keys or A and D and release fire through X or K. Use first air kit through S or down arrow key. Use elevator/ladder using W or Up arrow key and avoid bullets through C or L key. Put your shooting skills to challenge to become the best agent of your city! Play more 3D action shooting games for boys to have a blast online for free!</span></div>",
+      "size": 950,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/3265ab26b6594a71b9aaad7078391ffc/\r\n",
+      "metaTitle": "Agent Smith,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Agent Smith at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Agent Smith Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1553920821.xml",
+      "idealFor": "Man",
+      "likes": 64,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 16187,
+      "ownGame": false,
+      "addDate": "2019-03-30T10:10:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2025-05-02T01:45:24.344Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "SPACE- JUMP,W,A,S,D ALL ARROWS TO MOVE,RIGHT CLICK- BOMB,L CLICK- SHOOT,L ALT-PAUSE,C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
