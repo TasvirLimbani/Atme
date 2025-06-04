@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad8a",
+  "category_name": "best",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba79",
+      "id": 3823,
+      "name": "Going Nuts",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "going-nuts",
+      "image": "3823",
+      "url": "going-nuts",
+      "description": "Going Nuts is a HTML5 Physics Game. This cute squirrel is starving! Feed him with acorns and nuts, then drop him into the basket to make him happy!",
+      "size": 530,
+      "height": 800,
+      "script": "https://games.atmegame.com/games/going-nuts/",
+      "metaTitle": "Going Nuts, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Going Nuts at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Going Nuts Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": "Man",
+      "likes": 388,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 126993,
+      "ownGame": true,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.728Z",
+      "updatedAt": "2024-09-23T11:36:58.400Z",
+      "__v": 0,
+      "mobileControlKeys": "MOVE THE SQUIREL BY SWIPE L-R OF THE SCREEN",
+      "webControlKeys": "L CLICK OF MOUSE TO JUMP, MOUSE TO MOVE"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 41
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
