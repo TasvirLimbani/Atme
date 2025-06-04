@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b45d",
+      "id": 2119,
+      "name": "Pilot Heros",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "pilot-heros",
+      "image": "2119",
+      "url": "pilot-heros",
+      "description": "This aeroplane game is very interesting game so take on missions ranging from fighting fires to chasing jets in this non-stop flight adventure! ",
+      "size": 450,
+      "height": 700,
+      "script": "https://html5.gamedistribution.com/982da94f9cfb4b0c86b5216b3f384509/",
+      "metaTitle": "Pilot Heros, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pilot Heros at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Pilot Heros, Play Free Games, Play Online Free Games, Aeroplane Games",
+      "source": "",
+      "xmlFile": "Deactive",
+      "idealFor": "Man",
+      "likes": 43,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 19207,
+      "ownGame": false,
+      "addDate": "2018-03-27T11:08:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.702Z",
+      "updatedAt": "2024-12-01T04:18:21.641Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP  ON THE L-R OF THE SCREEN TO CONTROL THE PLAIN",
+      "webControlKeys": "L CLICK OF MOUSE ON THE L-R OF THE SCREEN TO CONTROL THE PLAIN"
+    },
+    "rating": {
+      "rating": "4.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
