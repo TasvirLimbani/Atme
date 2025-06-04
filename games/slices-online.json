@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd1e",
+      "id": 4518,
+      "name": "Slices Online",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "slices-online",
+      "image": "4518",
+      "url": "slices-online",
+      "description": "<div><span style=\"font-size: 13.3333px;\">We have got you covered today with a brand new arcade game where different kinds of food slices are waiting for you. Are ready to enter this unique kind of fun challenge? Join Slices Online and gear up to fill up the circles with your favorite food slices to solve the puzzles! When you click the play button, you would notice a few circles that require to be filled up with multiple food slices. All you need do is just click with your mouse on PC or tap the screen on your mobile phone on one of the six circles to place the slices from the center.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Slices will keep coming on the center circle. So try to keep your eyes on the next move to place each slice on the right position. Put your strategically approach and brainpower to the test to complete the maximum possible circles! All the slices that are filled up in a circle and its adjacent circles will also be removed from the screen. There are 50 unique and challenging levels to complete and play through in this fun online puzzle game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You would definitely get a chance to train your mind while trying to place the food slices on the right positions in different 6 circles. Keep filling up as many circles as you can to score high in each level! You can track your progress by looking at the top of the screen. This cool food game will continue until there are no circles left where you have not placed the food slices. Finish all the circles to blow up your mind and enjoy a brainstorming puzzle! Let us see how many levels you will be able to complete!! Good luck to try more fun brain teasers for free on atmegame.com without download!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/d12f0da8fbc74babbc818b04f115f3c0/\n",
+      "metaTitle": "Slices Online, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Slices Online at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Slices Online Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527121.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7904,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-03-08T11:04:43.024Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON PIZZA PIECES TO MAKE THE COMPLETE PIZZA",
+      "webControlKeys": "L CLICK OF MOUSE ON THE PIZZA PIECES TO MAKE THE COMPLETE PIZZA "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
