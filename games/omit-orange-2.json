@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba36",
+      "id": 3753,
+      "name": "Omit Orange 2",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "omit-orange-2",
+      "image": "3753",
+      "url": "omit-orange-2",
+      "description": "Omit Orange 2 is now out! It is a challenging game that puts your intelligence to the test! In Omit Orange 2 you have to clear the screen of certain blocks, while keeping the right ones in.",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/omit-orange-2-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Omit Orange 2 Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Omit Orange 2 at atmegame.com ! We have selected this puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Omit Orange 2 Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7486,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2022-12-10T07:24:32.290Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO BREAK THE PERTICULAR COLOR AS PER THE PUZZLE",
+      "webControlKeys": "L CLICK OF MOUSE TO BREAK THE PERTICULAR COLOR AS PER THE PUZZLE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
