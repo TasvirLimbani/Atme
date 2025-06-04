@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd3a",
+      "id": 4546,
+      "name": "Halloween Slide Puzzle",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "halloween-slide-puzzle",
+      "image": "4546",
+      "url": "halloween-slide-puzzle",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You are a Halloween lover and keep waiting for the day to celebrate this scary festival. We have got you covered today with a brand new arcade challenge where you enjoy your favorite festival anytime any day whenever you want. The best part is that you can also practice your puzzle-solving abilities. Would you like to try it out right away? Join Halloween Slide Puzzle and get ready to solve the highly addictive and challenging puzzles while realizing the beautiful things of your favorite day of the year!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your main goal in this html5 puzzle challenge is to navigate the gold to get to the exit gate by sliding objects you see on the screen. Choose any out of the easy, normal and hard level and enter the real puzzle challenge! Try to sort out each puzzle with the maximum gold to complete each level with the maximum possible score! There are 3 images and 3 different and challenging modes to play through. Choose any mode and then get ready to take any challenge like 3X3, 4X4 and 5X5! The more gold you collect, the complex and harder the level will be.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Try to slide different Halloween things with the help of as few moves as possible in this brain sliding-puzzle game! Put your brain to the test and focus on surviving until you collect the gold in each level! There are multiple levels and a beautifully Halloween environment to enjoy and have fun. Make sure that you slide the puzzle pieces on the right spots to complete puzzle fast. Good luck to play more brain teaser and strategy games for kids and grown-ups that are free to play online, no download required!</span></div><div><br></div>",
+      "size": 500,
+      "height": 790,
+      "script": "\nhttps://html5.gamedistribution.com/7d4f58deb6e241b6977a900746b8db50/\n",
+      "metaTitle": "Halloween Slide Puzzle, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Halloween Slide Puzzle at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Halloween Slide Puzzle Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7023,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-02-20T03:40:32.090Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND SWIPE TO CONNECT THE SAME IMAGES "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
