@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd41",
+      "id": 4553,
+      "name": "Wordy Night",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "wordy-night",
+      "image": "4553",
+      "url": "wordy-night",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Trying out tricky puzzles can boost your concentration and improve your brain power. We are pretty excited to introduce you a brand new arcade challenge where you can improve your vocabulary while giving you some amazing relaxing hours. Choose one of three languages including English, Japanese and German and allow yourself to play with multiple words in each language! There are more than 200 words in total to play through. Use all of these shapes covered in the random letters to create words!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this html5 puzzle game is to use the letter blocks you see on the screen and put them in a way to create all the possible words. Apply your language knowledge and put them into the right area to complete each tricky level! There are 40 unique and challenging levels with different tiles to explore and you find a hint feature in case of being stuck or get confused during the gameplay. The best part is that you would have no pressure and no time limit to relax your mind.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Drag and drop letters on the board to form words in this cool mobile words game! You would earn points by creating every word. Try to gain the maximum possible points to complete each level with the best score! Use your mouse click on PC and tap the screen on mobile phone and play alone or with your friends! Check out more engaging and interesting word games to have a blast on atmegame.com, no download required!</span></div>",
+      "size": 1920,
+      "height": 1080,
+      "script": "\nhttps://html5.gamedistribution.com/8bd375d4c16e4271a7a3b1c2ddcdacab/\n",
+      "metaTitle": "Wordy Night, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wordy Night at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Wordy Night Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7669,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-02-12T12:04:51.825Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO MAKE THE COMPLETE WORD",
+      "webControlKeys": "GAME NOT FITTING IN SCREEN"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
