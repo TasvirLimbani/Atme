@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bae0",
+      "id": 3936,
+      "name": "Element Puzzle",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "element-puzzle",
+      "image": "3936",
+      "url": "element-puzzle",
+      "description": "<div>It is time to try out something different and addictive puzzle challenge! We have got you covered with a brand new arcade game where you have to control a small character and help it to complete several levels. Make sure that it collects earth, water, air and fire tokens timely to change the form of element. Do not forget to change the form of element before moving it since the wooden obstacles can be destroyed by the fire but water saves it.</div><div><br></div><div>Your element can easily move inside the water after collecting the water element. Hey! But, in that case, you need to keep it away from the fire otherwise it gets evaporated. Remember the Earth element can stand straight against the fire and water but it is drawn in water. Obstacles can stop the air element from moving forward but allows your character to fly in any direction. Keep your element away from the wandering void manifestations as it can affect the element badly no matter which form it carries!</div><div><br></div><div>Use your brain and help the element to find the way to reach the exit gate as fast as you can in this HTML5 puzzle game! Overcome all the obstacles that you see along the way by using the elements like air, fire and water! Each element has its own significance so you need to challenge your wits to cope up with different challenges in each level of this retro styled arcade puzzle mix. Good luck to complete all levels to become a champion puzzle solver!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/element-puzzle-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Element Puzzle, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Element Puzzle at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Element Puzzle Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6819,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2024-03-25T05:02:36.861Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON WHEEL TO ROTATE THE WHEEL, PRESS GO ICON TO THROW THR DIAMOND",
+      "webControlKeys": "SPACE-  SHOOT NTHE DIAMOND, L-R ARROWS TO ROTATE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
