@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad65",
+  "category_name": "hockey",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad65",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b179",
+      "id": 1272,
+      "name": "Hockey Shootout",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "hockey-shootout",
+      "image": "1272",
+      "url": "hockey-shootout",
+      "description": "<div>Hockey Shootout is an ultimate HTML5 sport game that can be played by both boys and girls from different age groups. In this brand new hockey game, you will have to shoot the puck with the optimum possible precision and strength to beat the goalkeeper. Choose your team and start playing this fun-addicting cool sports game in your device. How many goals you will be able to score? Be focused, use your patience and swipe the puck in the right direction!</div><div><br></div><div>Although the goalkeeper of your opposite team is very fast, you are even faster. Take your time and shoot the puck into the corners of the net. Take a proper look on the screen and aim between the keepers legs to defeat him and score goals. You can only win this free online sport game if you apply your hockey skills. Remember you have only the limited amount of tries, so shoot the puck only if you are 100% sure. Control your game with the help of the mouse!</div><div><br></div><div>Shooting the puck at the right angle will ensure to past the goalie to score some points and ensure your win in this one of the best sports games for boys. Try to achieve the goal of the game within 90 seconds. Your final score will be added to the leaderboard once the timer expires. Tap or click to shoot in this free online hockey game. Give your best and surprise the cheerleaders with your fabulous performance! It features a global as well as a friend<span style=\"background-color: transparent; font-size: 10pt;\">s leaderboard where you also get a chance to </span>complete<span style=\"background-color: transparent; font-size: 10pt;\"> for high scores. Good luck kids!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/f8ad9281a926476ca008b9ad86253831/\r\n",
+      "metaTitle": "Hockey Shootout, Hockey Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hockey Shootout at atmegame.com ! We have selected this Hockey games for best excitement and thrill in you!",
+      "metaKeyword": "Hockey Shootout Game, Sports Games, Hockey Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517222754.xml",
+      "idealFor": "Man",
+      "likes": 88,
+      "dislikes": 11,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 31773,
+      "ownGame": false,
+      "addDate": "2018-01-29T16:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.686Z",
+      "updatedAt": "2025-02-24T12:41:04.805Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE UP ON THE SCREEN TO MAKE A GOAL",
+      "webControlKeys": "KEEP PRESS AND SWIPE UP TO MAKE A GOAL"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad65",
+      "name": "hockey",
+      "slug": "hockey",
+      "icon": "hockey-games"
+    }
+  }
+}
