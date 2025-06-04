@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba64",
+      "id": 3800,
+      "name": "Basket Fall 2",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "basket-fall-2",
+      "image": "3800",
+      "url": "basket-fall-2",
+      "description": "Basket Fall 2 is a game which put your timing and reflexes to the test! This is a great, and very addicting, new game where you have to let the balls fall through the basket to score points! You can customize your ball and the basket with the points you have collected.",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/basket-fall2-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Basket Fall 2, Baskeball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Basket Fall 2 at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Basket Fall 2 Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 22,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9186,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.728Z",
+      "updatedAt": "2024-08-26T13:50:45.223Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO DROP THE BALL IN THE NET",
+      "webControlKeys": "L CLICK OF MOUSE TO DROP THE BALL IN THE NET"
+    },
+    "rating": {
+      "rating": "2.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
