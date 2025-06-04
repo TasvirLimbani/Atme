@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bda6",
+      "id": 4654,
+      "name": "Monster Truck Soccer",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "monster-truck-soccer",
+      "image": "4654",
+      "url": "monster-truck-soccer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Fun would be double when racing is combined with soccer sports! Are you ready to experience this unique fun challenge? Join Monster Truck Soccer game and be prepared to control a soccer ball with the help a cute monster truck! Choose your team and get ready to lead them to the victory in this brand new monster-truck game! Take your position on the seat of your favorite truck and put your best driving abilities to score as many goals as you can against your opponent!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Remember you would have only 60 second to make goals so try to be fast once to attack on the ball once you click the play button. You have to outscore the computer opponent by defending and bumping against each other in this wacky physics soccer game. Try to drive your truck back and forth while hitting the soccer ball towards your goal! The top area of the screen will show you the scores of both the players. Your amazing football and racing skills will help you earn the crown in every match.?</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Make sure to activate your boost while looking forward to push your enemy back and send the ball right into their goal. But, remember that it comes with a cooldown and you do not use it regularly. Choose your truck and step into it to begin the real soccer fun in this one of the best racing games for boys! Do not forget to purchase some fancy hats with the help of points you score during the gameplay. Enjoy some more popular titles from the category of fun arcade games and have an awesome gaming experience with your friends, no download required on atmegame.com!</span></div><div><br></div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://games.atmegame.com/games/monster-truck-football/",
+      "metaTitle": "Monster Truck Soccer, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Monster Truck Soccer at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Monster Truck Soccer Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545718562.xml",
+      "idealFor": "Man",
+      "likes": 1048,
+      "dislikes": 8,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 479474,
+      "ownGame": true,
+      "addDate": "2018-12-25T11:46:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2025-02-03T20:09:25.960Z",
+      "__v": 0,
+      "mobileControlKeys": "R ICON- HIT, L ICONS TO MOVE",
+      "webControlKeys": "UP ARROW- HIT, L-R ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 72
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
