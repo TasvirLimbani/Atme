@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad63",
+  "category_name": "skating",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad63",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba23",
+      "id": 3730,
+      "name": "Santa on Skates",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "santa-on-skates",
+      "image": "3730",
+      "url": "santa-on-skates",
+      "description": "Christmas is coming, and the Santa has changes his reindeer&apos;s for ice skates&#33; Now Santa needs your help to collect all the presents and candy for the kids.",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/santa-on-skates-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Santa on Skates, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Santa on Skates at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Santa on Skates Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 26,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9661,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2025-05-15T11:25:18.464Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO JUMP SANTA",
+      "webControlKeys": "W,UP ARROWS , SPACE, L CLICK OF MOUSE TO JUMP SANTA"
+    },
+    "rating": {
+      "rating": "4.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad63",
+      "name": "skating",
+      "slug": "skating",
+      "icon": "skating-games"
+    }
+  }
+}
