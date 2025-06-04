@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c292",
+      "id": 6065,
+      "name": "KOGAMA SHOTS",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "kogama-shots",
+      "image": "6065",
+      "url": "kogama-shots",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The cruel action world is calling you! Where are you, friends? Join Kogama Shots and be prepared to fight against your friends or other players from all across the world! Grab your gun and gear up to clean the area like a pro fighter in this two-teamed, parkour-based arena! Your objective in this one of the best action-packed challenges is to destroy all the things that you see along the way. Try to create your terror in a way so that your enemies will start running away from you!</span></div><div><span style=\"font-size: 13.3333px;\">Do not forget to collect as many coins and ammunition as possible to boost your power. Get a boost of HP, speed, ammo and gamecoins through your successful efforts in this HTML5 shooting game! You can also buy Santa Hat, Little Helper, Diablo Horns, Crown and more items with the help of money you earn throughout the way. There are three addictive and challenging levels to play through and lots of new weapons and character skins to use in this cool 3D multiplayer shooter.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This fine action-packed fun arcade game features enjoyable gameplay, colourful graphics and easy controls. Remember you will also be thrown out of the game if you stay idle for more than 10 minutes in the game. Keep playing, completing mission and showing your insane fighting abilities to the world! Check out other free multiplayer action games for boys on atmegame.com to practice your fighting skills without making a damage to any human beings and objects! Good luck to have an immersive gaming experience!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/0c4febd3fcdc4e78a20bfd79fa0f8ac4/\r\n",
+      "metaTitle": "KOGAMA SHOTS Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game KOGAMA SHOTS at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "KOGAMA SHOTS Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1562507887.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6699,
+      "ownGame": false,
+      "addDate": "2019-07-07T19:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.760Z",
+      "updatedAt": "2024-12-26T05:11:44.838Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS-MOVE, LEFT CLICK OF MOUSE-HIT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
