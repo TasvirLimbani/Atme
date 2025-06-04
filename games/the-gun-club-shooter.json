@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b964",
+      "id": 3522,
+      "name": "The Gun Club Shooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "the-gun-club-shooter",
+      "image": "3522",
+      "url": "the-gun-club-shooter",
+      "description": "Put your reflexes, aim, and speed to the test and hit the moving targets in this fast-paced shooting game! Test tons of weapons in this awesome simulator shooter the targets, earn money and buy new deadly weapons, from old to the future. Complete tons of levels and challenges to be the gunclub master\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/07f0ae8413fa45c8805ccee247b23642/\r\n",
+      "metaTitle": "The Gun Club Shooter, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game The Gun Club Shooter at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "The Gun Club Shooter Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536577197.xml",
+      "idealFor": "Man",
+      "likes": 45,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 17500,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2024-02-05T15:39:24.908Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE UP AND DOWN TO MOVE THE GUN ,TOUCH TO SHOOT",
+      "webControlKeys": "KEEP PRESS L-CLICK OF MOUSE SWIPE UP AND DOWN TO MOVE THE GUN ,TOUCH TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
