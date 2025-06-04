@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfb7",
+      "id": 5192,
+      "name": "Christmas Five Differences",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "christmas-five-differences",
+      "image": "5192",
+      "url": "christmas-five-differences",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The biggest puzzle game has come on your way today! We are highly excited to bring you today and allow you to take a platform where you can not only put your logical skills to test, but explore some exclusive fun possibilities to the ultimate level. So, what are you waiting for? Join Christmas Five Differences and show the world that you are enough smart to spot any differences between the two pictures! This cute and exclusive arcade challenge can keep you glued to the screen for hours.</span></div><div><span style=\"font-size: 13.3333px;\">No matter what age you belong to, it makes sure that you will kill your boring hours in just a few clicks. Your objective in this cool html5 puzzle game is to spot all the differences to become a winner of the level. Different levels come with different pictures along with different puzzles. On the top middle of the screen, you will see the stars that show you the status of how many differences you have spotted as of now. Once you find all, all stars shine again and you will be forwarded to the next level.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Colorful graphics and easy controls can entertain kids, teenagers and even grown-ups. Solving Christmas games puzzles for kids will also improve your brain skills and make your mind stronger than before! Do not bother it is not a time-based game, so you can take your time to complete the puzzle. All the best to find the differences fast and have fun in this one of the best mobile games for boys!! Play this brain-challenging game on android devices, computers, iPads and IPhones without download!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/5ac92183e48849bfbd4ee1cd2f9c3d58/\r\n",
+      "metaTitle": "Christmas Five Differences,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Christmas Five Differences at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Christmas Five Differences Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545866.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7836,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2024-03-25T14:08:20.135Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO FIND THE DIFFRENCES",
+      "webControlKeys": "LEFT MOUSE CLICK TO FIND THE DIFFRENCES TO MOV EUPPER LEVEL"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
