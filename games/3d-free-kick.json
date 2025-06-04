@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf74",
+      "id": 5123,
+      "name": "3D Free Kick",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "3d-free-kick",
+      "image": "5123",
+      "url": "3d-free-kick",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The football World Cup has just begun and you have decided to practice your soccer skills in our brand new sports game. Your objective is to make more and more goals and obtain the highest score in 3D Free Kick game. Do not bother friends! You would get a chance to perform all the things that you can do in a real soccer match. Choose your team and enter the beautiful green soccer field where many strong opponents are waiting for you!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Swipe to shoot your ball and focus only on earning the optimum possible points before you are thrown out of your game! Put your football playing abilities to test and try to introduce new shooting techniques combined with the improved kicks to defeat the goal keeper of your opponent team! It is easy to score bonus points by aiming for your target or the corners. Do your best to score higher, win the cup and bring the glory for your country in this fast-paced 3D soccer game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">A huge crowd from the audiences is waiting for your amazing efforts. Shoot exactly towards the goal and make perfect shots to score a good number of points in this cool html5 football game! You are only a few clicks away from the ball. So, what are you waiting for, friends? Give your best efforts to enjoy the result-oriented free kicks! Make sure that keeper does not get his hands on the ball. You would be out of the game if you miss times. Good luck to score more goals to win cup in our more free soccer games!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://play.famobi.com/3d-free-kick/A-925FD",
+      "metaTitle": "3D Free Kick, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 3D Free Kick at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "3D Free Kick, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 87,
+      "dislikes": 11,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 21744,
+      "ownGame": false,
+      "addDate": "2018-12-31T23:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2025-05-10T09:59:22.724Z",
+      "__v": 0,
+      "mobileControlKeys": "HOLD AND SWIPE ON NSCREEN TO MAKE THE GOAL",
+      "webControlKeys": "KEEP L CLICK PRESS HOLD AND RELESE TO MAKE A GOAL"
+    },
+    "rating": {
+      "rating": "2.1",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
