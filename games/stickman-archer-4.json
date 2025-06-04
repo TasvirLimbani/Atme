@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8f7",
+      "id": 3405,
+      "name": "Stickman Archer 4",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "stickman-archer-4",
+      "image": "3405",
+      "url": "stickman-archer-4",
+      "description": "Destroy the Enemies with your bow before they kill You. Wrest the heads and limbs of body using accurate shot. Use the new guns in MRgun mode and blow the enemy heads with pistol, and machineguns. Earn diamonds and upgrade your arsenal, the Stickman Archer 4 is here.\r\n",
+      "size": 800,
+      "height": 440,
+      "script": "https://html5.gamedistribution.com/b43111f268814b26bf2fb4fcbaf2f536/\r\n",
+      "metaTitle": "Stickman Archer 4, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stickman Archer 4 at atmegame.com ! We have selected this shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Stickman Archer 4 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533887535.xml",
+      "idealFor": "Man",
+      "likes": 67,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 19302,
+      "ownGame": false,
+      "addDate": "2018-08-10T13:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-08-26T05:09:07.469Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREE TO SELECT THE DIRECTION RELSE TO SHOOT",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SELECT THE DIRECTION, RELESE TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
