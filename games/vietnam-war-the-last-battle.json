@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b620",
+      "id": 2631,
+      "name": "Vietnam War The Last Battle",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "vietnam-war-the-last-battle",
+      "image": "2631",
+      "url": "vietnam-war-the-last-battle",
+      "description": "<div>Vietnam War: The Last Battle is a fabulous 3D multiplayer action-packed game where you will have a wonderful chance to become a war hero ever again. This free online shooting game will allow you to rewrite the history of Vietnam war in your own style. Viet Cong forces are ready to be participating in their last attack on Saigon. Anything can happen in this last war – either Saigon falls or Vietnam tastes the loss. Take the responsibility of changing the history.</div><div><br></div><div>Choose allied forces and get yourself prepared to protect the city against the opposing soldiers. Rewriting events of the past can only be possible if you have the guts to keep the city safe and secure from Viet Cong forces. This legendary battle is going to offer unlimited fun and thrill for sure. While exploring the levels of this brand new shooting game, you will also get in touch with the brutal atmosphere where many innocent people lost their lives. We know that every war comes with bad memories, but you have the skills to rise from ashes.</div><div><br></div><div>In this cool PC game, you will also have an opportunity to select your side and get into this first-person shooter. With a detailed environment of the city, cool graphics, seamless gameplay and fabulous audio and video effects, it allows you lead your troops to the victory. Put your shooting skills to test and show the world that you are an ultimate player of an action-packed war! This one of the best fighting games 3d features easy controls, including WASD or arrow keys to move, left click to shoot, 1 or 2 key to change weapon, tab to show statistics or buy, space bar to jump, R to reload, ctrl to prone, C to crouch, and B to call an air strike. Good luck to having fun in this addictive and WebGL built shooting game for boys!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/vietnam-war-the-last-battle/index.php",
+      "metaTitle": "Vietnam War The Last Battle, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Vietnam War The Last Battle at atmegame.com ! We have selected this war games for best excitement and thrill in you!",
+      "metaKeyword": "Vietnam War The Last Battle Game, Action Games, war Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7505,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-03-15T05:00:14.027Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE, SPACE- JUMP, C-PRONE, R- RELOAD,L CLICK- SHOOT, RIGHT CLICK- AIM"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
