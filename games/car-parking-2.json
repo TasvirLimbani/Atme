@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b618",
+      "id": 2623,
+      "name": "Car Parking 2",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "car-parking-2",
+      "image": "2623",
+      "url": "car-parking-2",
+      "description": "<div>A lot of confusion and you have assigned a job to park a car in next sixty seconds. If you fail in doing so, a bomb in its trunk will explode with a big sound and you will be out of the game immediately. Are you ready to accept this challenge? Get ready to test your ultimate driving and parking skills in a beautifully-crafted 3D car parking game!&nbsp; This browser-based free online racing game will offer a lot of fun and thrill to all those who love driving games. Play it right away to explore the different challenges of maneuvering!</div><div><br></div><div>Car Parking 2 is a brand new parking game in which you are allowed to change the color of your car, customize it and buy various new upgrades to enhance the performance of the gameplay. The controls of the game are very easy and it comes with dynamic graphics and excellent audio and video effects. The gameplay is located in a beautiful 3D rendered cityscape where you will have to show your parking abilities to ensure your victory in this one of the challenging car driving games.</div><div><br></div><div>Park your car in the shortest time possible to collect the optimum money and stars. Spot the right way to park your car precisely. This cool flash-based game can be played in all modern browsers without facing any trouble. Have a quick look at its easy-to-understand controls, that include W/Up key to accelerate, A/D or left/right keys to turn left and right, R/Down key to reverse, C to change the camera view, and Space Bar to apply the handbrake. Have a blast today in this one of the most popular adventure games for boys!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/car-parking-2/index.php",
+      "metaTitle": "Car Parking 2, Parking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Car Parking 2 at atmegame.com ! We have selected this parking games for best excitement and thrill in you!",
+      "metaKeyword": "Car Parking 2 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9709,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-06-17T09:31:55.756Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE, C- CHANGE THE VIEW, SPACE- BREAK"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
