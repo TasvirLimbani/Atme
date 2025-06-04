@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b300",
+      "id": 1736,
+      "name": "Car Rush",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "car-rush",
+      "image": "1736",
+      "url": "car-rush",
+      "description": "Car Rush is a HTML5 Racing Game. Start the engine and drive through three words with three different tracks of increasing difficulty each. Avoid obstacles and complete all the laps before the time runs out!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/8d415ce5fb3e4456be9ef2d1f95a2167/\r\n",
+      "metaTitle": "Car Rush Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Car Rush at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Car Rush Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629357.xml",
+      "idealFor": "Man",
+      "likes": 259,
+      "dislikes": 28,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 62887,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.695Z",
+      "updatedAt": "2025-02-11T20:42:06.925Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS TO SPEED AND BREAK, L ICONS -MOVE L-R",
+      "webControlKeys": "UP ARROW TO SPEED UP, DOWN ARROW TO STOP, L-R ARROWS TO MOVE L-R"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 26
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
