@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2e6",
+      "id": 6166,
+      "name": "Uphill Jeep Driving",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "uphill-jeep-driving",
+      "image": "6166",
+      "url": "uphill-jeep-driving",
+      "description": "<div>Your driving experience can become pretty challenging and interesting when it comes with several difficult missions. Can you dare to accept it and complete all missions with full honesty and diligence? If yes, join Uphill Jeep Driving and gear up to drive the extreme SUV 4x4 jeep on the uphill mountain area. Common, friends! Many gamers like you have already tried it out and got the pleasure of taking the matchless racing adventures. Where are you? The gameplay requires a bit of expertise in driving and sharp concentration.</div><div><br></div><div>Show off your insane driving moves and prove to the world that you are skilled enough to ride the off-road jeep on any racing track! There are multiple levels and missions to go through. Landslide on a mountain road, perform some awesome mega ramp jumps, and drive through the deadly loops to complete different missions fast! Pick up people who are waiting for you on the stand and drop them to their destination while avoiding the obstacles!</div><div><br></div><div>Be fast as each mission comes with a time limit frame in this Offroad 4x4 jeep car driving simulator! Collect coins and use them to purchase new 4x4 vehicles car for an offroad drive! There are different car models like Prado, Pickup Truck, Hummer, and Hilux to explore. Train your mind on how to land sliding safely in different difficult weather conditions to become a stunt master with heavy speed! We have plenty of offroad driving simulation games for boys and girls to play online without download.</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/3a74566772f446ebb5056edde543e946/\r\n",
+      "metaTitle": "Uphill Jeep Driving, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Uphill Jeep Driving at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Uphill Jeep Driving Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569524127.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": -1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7453,
+      "ownGame": false,
+      "addDate": "2019-09-27T00:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2024-08-16T22:55:34.467Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ALL ARROWS W,A,S,D TO MOVE,C- CHANGE THE VIEW,ALT-PAUSE"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
