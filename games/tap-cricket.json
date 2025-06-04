@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfc5",
+      "id": 5207,
+      "name": "Tap Cricket",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "tap-cricket",
+      "image": "5207",
+      "url": "tap-cricket",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is time to take your cricket fantasy to the next level. You will find it pretty easier to practice your favorite short and prove the world that you are the ultimate cricket fan. Are you ready to enjoy this brand new sports game? Join Tap Cricket and allow yourself to play against the most popular cricket teams in the world! Get ready to hit the ball timely to deliver the best shot from your bat! Do not bother if the ball hits the stump! Other batsman of your team takes his seat immediately.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Various in-data challenges are awaiting you in this one of the funniest and coolest cricket games. You have to put your quick reaction and ultimate cricket skills to challenge to secure an exciting cricket rank. Keep tapping the cricket objects and grabbing the necessary points through your mouse when you play it on PC or tapping the screen when you try this on mobile phone. You are sure to explore all the fun aspects of cricket during the gameplay of this cool sports game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Show off your fine batting skills to smash the ball out of the park and bring the glory to your country! We are sure that the fast paced gameplay, great physics, realistic animations, and single tap controls can keep you entertained for hours. Remember your success will depend upon how timely you deliver your shot. Judge the pitch of the ball fast to chase fast or aim for the highest possible score with 5 wickets in hands! Good luck to have a blast in fun filled and addictive cricket game!</span></div>",
+      "size": 520,
+      "height": 790,
+      "script": "https://html5.gamedistribution.com/69612e557c3d427a85fb92c73cc7950f/",
+      "metaTitle": "Tap Cricket, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tap Cricket at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Tap Cricket, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 6675,
+      "dislikes": 795,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 1963915,
+      "ownGame": false,
+      "addDate": "2019-01-25T18:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2025-06-02T09:11:12.600Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SCREEN TO HIT THE BALL",
+      "webControlKeys": "TAP TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 730
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
