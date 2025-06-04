@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad63",
+  "category_name": "skating",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad63",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bada",
+      "id": 3930,
+      "name": "Groovy Ski",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "groovy-ski",
+      "image": "3930",
+      "url": "groovy-ski",
+      "description": "<div>One of the most challenging and addictive titles you have ever played, Groovy Ski includes everything that you need to keep you occupied for hours. Are you ready to challenge your skiing skill to enjoy the most important sport of the winter? Join this brand new sports game and be prepared to hit the slopes like never before to create your best score! Your timing and skill can make a huge difference to help you steer the skier through multiple fences.&nbsp;</div><div>Play like a champion to make it to the bottom of the mountain and prove you as the best skier of your city! Do not forget to grab the stars that are scattered along the way. These stars will help to boost your score. Use your quick reflexes and hand-eye coordination skills to perform well on the tracks and secure the enough points to buy new hats, masks and some other useful equipment! Avoid avalanches and other obstacles when you ride down the snowy hill in this HTML5 skating game!</div><div>With the help of accessories, you unlock through the points you earn, you can help your character get an awesome groovy look. Play this wonderful sport of the winter single or invite your friends to have extra fun! Do not lose hope if you are lost in a few initial attempts. Mastery will take several magical attempts. Good luck to ski down the hill until you secure a top position in the leaderboards! Check out even more funny and addicting winter sports game on atmegame.com to keep you glued to the screen for long!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/groovy-ski-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Groovy Ski, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Groovy Ski at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Groovy Ski Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 17,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8134,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2025-03-12T06:34:30.744Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO MOVE THE SAME COLOR BEAR AND REMOVE THEM",
+      "webControlKeys": "KEEP PRESS ANS SWIPE TO CONNECT THE SAME COLOR OF BEARS BY L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad63",
+      "name": "skating",
+      "slug": "skating",
+      "icon": "skating-games"
+    }
+  }
+}
