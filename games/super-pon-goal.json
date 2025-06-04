@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c435",
+      "id": 6565,
+      "name": "Super Pon Goal",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "super-pon-goal",
+      "image": "6565",
+      "url": "super-pon-goal",
+      "description": "<div>Are playing soccer in your nearby playgrounds is the biggest hobbies of your life? Do you like exploring the huge category of free online soccer games in your device during your free time? Yes, you have reached at the right place where you can satisfy your cravings for this popular sport to the maximum level. We have got you covered with a brand new sports challenge in which you have to control the ball that bounces across the field.</div><div><br></div><div>Hey! You are not alone in the ground, but the fast and sharp computer will be there to challenge you. Compete against the PC or another player to create points in this HTML5 soccer game! Begin it by clicking or tapping One Player or Two Player! Then you will be moved to the screen where you have to make your selections as per your choice. Choose your ball, field, ball speed and round time out of multiple options shown on the screen!</div><div><br></div><div>When you choose the One Player mode, you have to get yourself ready to tap and hold the net while you slide the Blue goal up and down the screen. Your competitor is very fast so be careful to move your goal point fast. Make sure that the ball does not hit their goal when you bounce the ball to the other side. Try to make as many points as you can to win by racing against the clock! In the Two Players Mode, rules will remain the same, but both goals will be blue. Do not forget to bounce the ball twice in this mode.</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/supe-pon-goal/",
+      "metaTitle": "Super Pon Goal Game, Soccer - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Super Pon Goal at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Super Pon Goal, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 1844,
+      "dislikes": 368,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 351531,
+      "ownGame": true,
+      "addDate": "2020-11-21T17:40:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-21T06:19:10.103Z",
+      "__v": 0,
+      "mobileControlKeys": "PRESS ON NET AND SWIPE TOWARDS CORNERS TO STOP THE GOLE",
+      "webControlKeys": "CLICK ON NET AND SWIPE TOWARDS CORNER TO STOP THE GOLE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 168
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
