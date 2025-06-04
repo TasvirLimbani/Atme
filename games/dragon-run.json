@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aec6",
+      "id": 260,
+      "name": "Dragon Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "dragon-run",
+      "image": "260",
+      "url": "dragon-run",
+      "description": "\n<p class=\"text_desc\">\nDragon Run is a free online running game in which you have to protect your friend against a deadly dragon during his most awaited adventure. Being the only hope for his survival, you have to focus on how to navigate him through a dangerous desert landscape that is filled with many menacing monsters and harmless obstacles. \nGrab diamonds and coins along the way to improve your score while navigating your character through the perilous terrain. </p>\n\n<h4>\nKey Features:</h4>\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\">\n<li>\n<b>Engaging Adventure: </b>Nothing, but an exciting journey awaits you in this cool online jumper challenge where your every decision matters to help your friend escape the pursuing dragon.</li>\n<li>\n<b>Dynamic Gameplay: </b>Make him jump and slide across the platforms if need. Work your way to strategize to avoid enemies and overcome challenges along the way.</li>\n\n<li><b>Endless Running Fun:</b> In this one of the best HTML5 running games, you aim to test your reflexes and endurance, while looking forward to achieve the highest score possible.</li>\n</ul></p>\n<p class=\"text_desc\">\nDragon Run is a mix of matchless thrill and excitement that helps players keep hooked for hours. Jump at the right angle and with the enough power to reach one platform to another and avoid being taken by the red Dragon. Try to make him jump twice to jump higher and longer. Run, slide and jump your way across the desert packed with different monsters.</p>\n<p class=\"text_desc\">\nDo you think that you are ready to face the dragon, challenge the unexpected obstacles and guide your friend to make a way to a safe place? So, what are you waiting for? Join this free online endless runner game, prove your jumping skills he will run himself to make him survive for long and create your best high score today!</p>\n\n\n\n</body>",
+      "size": 800,
+      "height": 600,
+      "script": "https://cdn.htmlgames.com/DragonRun/",
+      "metaTitle": "Dragon Run, Running Games - Play Online Free : Atmegame",
+      "metaDesc": "Play the online free game Dragon Run atmegame.com ! We have selected this running games for best excitement and thrill in you!",
+      "metaKeyword": "Dragon Run, Adventure, Running, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 149,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 24028,
+      "ownGame": false,
+      "addDate": "2017-03-08T22:43:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2025-05-09T04:26:19.278Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICON- SLIDE, RIGHT ICON TO JUMP",
+      "webControlKeys": "UP ARROW/SPACE/L-CLICK OF MOUSE-JUMP, DOWN ARROW-SLIDE,"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 18
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
