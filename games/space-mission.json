@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c147",
+      "id": 5621,
+      "name": "Space Mission",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "space-mission",
+      "image": "5621",
+      "url": "space-mission",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This time you are going to be witnessed the biggest war of your life! The Earth is hit by a few groups of enemies. The stakes are pretty high and time is running out very fast! The only solution for this problem will be of hiring a team of brave and cold-blood fighters. Do you think that you are aggressive and smart enough to handle the project on your own? Join Space Mission and get ready to face off a horde of enemies and show the world that you are the biggest fighter of the century!</span></div><div><span style=\"font-size: 13.3333px;\">You will surely be welcomed with the unforgettable adventure when you dare to enter the deep sides of the space. Enjoy this brand new war game either in single player or two player mode as per your desires! The use of new HTML5 gaming technology and retro gaming graphics can help you to keep entertained on the go. Choose anyone amongst these game modes, including ?Campaign?, ?Battle vs CPU?, ?Player vs Player?. Check our more shooting games for boys on atmegame.com!</span></div><div><span style=\"font-size: 13.3333px;\">In the ?Campaign? game mode, there are 12 levels to explore in both single player and two player modes. When you choose ?Battle vs CPU?, you will have two options: Survival and Deathmatch to explore. Do not forget to decide either you want to select a space area or play with a maze area! In the ?Survival mode?, you have to survive at last with 3 lives. Here you can also choose between the single player and double player. ?Space Trap? guns are there in a good number. Be attentive and focus on how to protect your space ship from them in this one of the best battle games for kids! </span></div>",
+      "size": 1065,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/ceaebcb9412f46519b21f0fc57d3822d/\r\n",
+      "metaTitle": "Space Mission,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Space Mission at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Space Mission Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1553921551.xml",
+      "idealFor": "Man",
+      "likes": 24,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13713,
+      "ownGame": false,
+      "addDate": "2019-03-30T10:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.753Z",
+      "updatedAt": "2024-09-02T02:03:05.664Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT SIDE JOYSTICK TO MOVE,RIGHT ICON TO SHOOT",
+      "webControlKeys": "W,A,S,D TO MOVE, G-SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
