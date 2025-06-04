@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8e3",
+      "id": 3382,
+      "name": "Barbie Becomes An Actress",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "barbie-becomes-an-actress",
+      "image": "3382",
+      "url": "barbie-becomes-an-actress",
+      "description": "Barbie, your favorite doll, has a great career idea. She wants to become a famous and successful actress and she is got an audition. Help her look super cute and amazing in this new game called Barbie Becomes An Actress! She will need a perfect look for the audition with a great dress and a simple makeup. Can you do it for her? Check her closet or buy new items and mix and match for the best possible result for your doll, Barbie.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/06af5a55ab584ebf8cd381d9352f6ae2/\r\n",
+      "metaTitle": "Barbie Becomes An Actress, Dressing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Barbie Becomes An Actress at atmegame.com ! We have selected this girls games for best excitement and thrill in you!",
+      "metaKeyword": "Barbie Becomes An Actress Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533533666.xml",
+      "idealFor": "Man",
+      "likes": 25,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 13435,
+      "ownGame": false,
+      "addDate": "2018-08-06T11:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.722Z",
+      "updatedAt": "2023-12-12T15:35:04.173Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS TO DRESSUP AND MAKEUP",
+      "webControlKeys": "L CLICK OF MOUSE  TO DRESSUP AND MAKEUP"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
