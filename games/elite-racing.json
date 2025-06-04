@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c08c",
+      "id": 5413,
+      "name": "Elite Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "elite-racing",
+      "image": "5413",
+      "url": "elite-racing",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The best car racing game has already hit the market with an advent of Elite Racing. We are sure that you will fall in love with this brand new race challenge in just a few minutes of your gameplay. Be prepared to get all right from multiple game modes and AI opponents to Car Color customization, you need to keep you engrossed for long. With a wonderful shop with 13 unique and amazing car models and 4 different tracks, this cool html5 car driving game can make your heart rate faster.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Choose any of car out of the two models available at the initial level and push yourself to go the track you have not gone before! It is all about defeating your opponents and allow yourself to be a top driver. Try to reach the destination first to win each level and secure a reward for yourself! You should know that your good performance gives you the authority of purchasing new vehicles. Give them a color you want and then see yourself operating a four wheeler on the racing track like a professional driving does!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The freedom you get and the realistic physics of freedom can give you Goosebumps in your body. You are sure to forget all the things around you when you keep yourself busy in this 3D mobile game. See your dream making come true after winning the award of a top racer! When you open the game, a main menu will be displayed allowing you to make a race selection, vehicle selection and settings. In the track selection, you can make changes in race type, laps, the number of AI racers and AI difficulty level. Click the Start Race and you will get into the fun amazing car racing environment where many top racers from across the world are waiting you! Good luck to have a blast in our more car games, with no installation required!&nbsp;</span></div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/6dd9e68da30b4b5ca7ad7ed8d866f032/\r\n",
+      "metaTitle": "Elite Racing,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Elite Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Elite Racing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552278458.xml",
+      "idealFor": "Man",
+      "likes": 35,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10054,
+      "ownGame": false,
+      "addDate": "2019-03-11T09:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2024-03-30T07:11:37.459Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L ALT-PAUSE,W,A,S,D ALL ARROWS TO MOVE, C-CHANGE THE VIEW, "
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
