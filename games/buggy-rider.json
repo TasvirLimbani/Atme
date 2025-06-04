@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b629",
+      "id": 2640,
+      "name": "Buggy Rider",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "buggy-rider",
+      "image": "2640",
+      "url": "buggy-rider",
+      "description": "<div>Buggy is a beautiful yet light-weighted automobile, which is capable enough to provide you with a wonderful driving experience at both road and off-road track. They are also perfect for having the unforgettable races in different weather conditions – be it a rainy day, a sunny hot season or a heavy snowing environment. Take your seat in a buggy and get ready to travel across the world. Make sure that you do not panic while combating with other drivers in highly challenging and exciting racing battles.</div><div><br></div><div>Buggy Rider is an awesome fun-packed 3D free online car racing game where your mission is to win the reputed races, collect as many points as you can and unlock up to cool and exclusively-designed buggy cars. Remember each car is known for exhibiting different performance in terms of power, braking and speed. Use your best driving skills and win the trophy to obtain the honour in buggy racing community. Your surprising performance will definitely help to become a living legend in this brand new car game for boys.</div><div><br></div><div>Just come out from your comfort zone and get participated in a high-speed 3D driving game. Choose your car from various options, track and difficulty level and have a lot of fun. You will plenty of new cars and tracks to explore along the way in this best video game. It features fabulous graphics and outstanding audio and video effects and comes with easy controls, including using arrow keys or WASD to control your car. All the best kids to have a blast in this awesome buggy-racing video game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/buggy-rider/index.php",
+      "metaTitle": "Buggy Rider, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Buggy Rider at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Buggy Rider Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8651,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2023-12-31T07:22:40.699Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO DRIVE, SPACE- BREAK, C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
