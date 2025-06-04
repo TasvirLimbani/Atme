@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5ff",
+      "id": 2597,
+      "name": "ZomboiZ",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zomboiz",
+      "image": "2597",
+      "url": "zomboiz",
+      "description": "<div>Oh no! Another horde of bloodthirsty zombies is coming to you again! You have already lost your friends, who were a part of the special anti-zombie squad. Luckily, you and a few soldiers are still safe and busy in searching for the effective survival ways during the bad time. Remember, your enemies are bigger and even stronger than you and never going to sit on their knees until they kill their target and suck all blood out of your body. Things are getting worsen minute by minute and imaging a peaceful and happy life with your family is mere a dream now.</div><div><br></div><div>Overcome the situation as fast as you can and turn all the things into your favour in this brand new 3D action-packed game! This, at least, could help you to obtain a plane to visit Bali where you will have a full freedom of enjoying an unforgettable summer vacation with your family. Stop dreaming now and get back to the largest battlefield of your life! The longer you survive; the higher points you will be able to collect through which you can purchase advanced weapons to lead yourself to the longer survival time.</div><div><br></div><div>This free online zombie game features ultimate graphics, a wide range of automatic weapons, piles of enemies, and different types of explosive grenades. So, join it today and say good bye to the feeling of boredom. Choose the way of killing all your enemies as per your choice. Whether you opt for a ranged weapon or a dragger – one thing you will for sure i.e. a huge amount of fun and thrill. Good luck kids to be engaged in one of the best PC games!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/zomboiz/index.php",
+      "metaTitle": "ZomboiZ Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game ZomboiZ at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "ZomboiZ Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7882,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.712Z",
+      "updatedAt": "2024-03-03T18:15:28.919Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE, SPACE- JUMP, RIGHT CLICK- AIM, L CLICK - SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
