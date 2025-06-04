@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b62e",
+      "id": 2645,
+      "name": "DEAD",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "dead",
+      "image": "2645",
+      "url": "dead",
+      "description": "<div>Do you have a fear for the darkness? If it happens, nothing to worry since most of the people have such kind of fear. Different people have different fear, but almost all of us afraid of the bloodthirsty zombies. DEAD is a perfect zombie survival game where you can only survive if you have the skills to kill all the zombies you see on the screen. Run as fast as you can and avoid being contacted with these deadly zombies who aim to kill humans and suck all the blood from their bodies.</div><div><br></div><div>The key of your surviving is to utilize special upgrades like an armor vest or a head start. No need to panic if you have suddenly started realizing the sounds of the ferocious zombies near you. Try to collect as much money as you can progress through the game. You will have a plenty of weapons to unlock in this brand new action-packed single person game. This cool PC game features the utilization of WebGL technology that allows the users to run it without facing trouble in all modern browsers.</div><div><br></div><div>With fabulous graphics, seamless gameplay and unmatched audio and video effects, this best zombie game for kids will definitely double your fun. Cover the maximum possible distance to make the best score. No need to bother if you fail in the first attempt since you can play it as many times as you want to achieve the set target on your mind. Common on kids! Roll up your sleeves and get ready to go on an unforgettable zombie killing journey!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/d-e-a-d/index.php",
+      "metaTitle": "DEAD, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game DEAD at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "DEAD Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9057,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-01-11T11:33:30.371Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE, SPACE- JUMP, L CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
