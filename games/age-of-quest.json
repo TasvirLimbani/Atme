@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb64",
+      "id": 4070,
+      "name": "Age of Quest",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "age-of-quest",
+      "image": "4070",
+      "url": "age-of-quest",
+      "description": "<div>Skeleton monsters are everywhere in this battlefield. They keep walking around all over the castle in a search for your blood. Are you skilled enough to fight against these monsters and save your castle from these blood-thirsty enemies? Join Age of Quest and be prepared to kill all the endless skeletons using your magic skills, sharp sword or even super frame! It is up to you how fast you destroy your castle otherwise they will kill you! Most of other heroes have already lost, but you dared to survive.</div><div><br></div><div>Common boys! You are not alone in this brand new action-packed challenge. Grab your weapon and get ready to clear the area from these deadly monsters and skeletons! Do not forget to keep your eyes on the coins and gems. The more you collect, the higher score you will be able to make in the end of each mission. Buy more powerful and useful ammunition using those coins in this HTML5 fighting game! There are 3 unique and challenging missions to be accomplished and you have to face off a different numbers of skeletons in each mission.</div><div><br></div><div>Be fast as the enemies are very quick and start attacking on you as they appear on the screen! With every successful killing of the monsters, you would receive a coin. Kill all the targeted skeletons before time runs out in this cool tower defense game! Our website is full of multiple free action games that you can play online on our website and have fun without download. Stay connected with us to find new battle challenges to keep you busy for hours!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/8eae59ceff614668918feefb83bc8c79/\r\n",
+      "metaTitle": "Age of Quest, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Age of Quest at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Age of Quest Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 20,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9655,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-10-11T20:51:24.320Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "Q /R CLICK-CHANGE THE WEAPON, SPACE/ L CLICK- TO ATTACK, WA SD ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
