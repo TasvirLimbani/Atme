@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7d",
+  "category_name": "mining",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c436",
+      "id": 6566,
+      "name": "Gold Miner",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "gold-miner",
+      "image": "6566",
+      "url": "gold-miner",
+      "description": "<div>The biggest adventure is in your town today! Would you like to try it out to give you a treat of the most wanted fun and entertainment? Join Gold Miner and be prepared to control a crane to collect the gold nuggets and jewels of different types! Make sure to avoid the barrels, stones and other obstacles with gunpowder. You can use that money to purchase new upgrades like explosives through which you can mine more efficiently. There are multiple levels to play through in this cool online game.</div><div><br></div><div>All you need to do is just click the screen and you will see the hook of the crane swinging back and forth. Your hook will plunge down into the ground and return with some treasure if it goes into the right direction. Take your time and make sure that it hits a piece of gold or jewel! Remember you would get more money for the jewel as compared to the gold items. However, the smaller your piece of jewel or gold is, the faster it can be pulled to the surface.</div><div><br></div><div>The upper left corner of the screen will show you how much money you have raised as of now. You can check out the upper right corner of the screen to know how much you need to raise in this HTML5 mining game. Try to gather all of the jewels and gold items before time expires in order to clear the present level! Keep your eyes on the dynamite as well! Your will lose your money if hit it mistakenly. Good luck to dig up a sufficient amount of gold to pass all levels and have fun without download!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/gold-miner/",
+      "metaTitle": "Gold Miner Game, Arcade - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Gold Miner at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Gold Miner, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 3638,
+      "dislikes": 372,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 851866,
+      "ownGame": true,
+      "addDate": "2020-11-21T17:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-06-02T10:32:40.975Z",
+      "__v": 0,
+      "mobileControlKeys": "CLICK ON THE JEWELS TO PICK THEM",
+      "webControlKeys": "CLICK ON THE JEWELS TO PICK THEM"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 352
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7d",
+      "name": "mining",
+      "slug": "mining",
+      "icon": "Mining"
+    }
+  }
+}
