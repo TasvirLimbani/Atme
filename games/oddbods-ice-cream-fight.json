@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2a7",
+      "id": 6098,
+      "name": "Oddbods Ice Cream Fight",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "oddbods-ice-cream-fight",
+      "image": "6098",
+      "url": "oddbods-ice-cream-fight",
+      "description": "<div>We are happy to bring you today to a platform where an unlimited amount of fun and entertainment awaits you. Are you ready friends to dive into this relaxing environment? If yes, join Oddbods Ice Cream Fight right away and gear up to keep you busy for hours in the most challenging and entertaining atmosphere. Oh no! You have mistakenly entered a place where some mischievous Oddbods are available to challenge your shooting skills. They are very fast in doing the assigned tasks, so try to be quick.</div><div><br></div><div>It is not going to be easy at all since you can only win if you are skilled enough to throw the scrumptious ice cream at these dangerous souls before they throw back at you. As soon as you progress in this brand new action game the fight becomes a bit wild. Be careful since the Oddbods have the ability to duck, and run left and right when you go further! These enemies can do anything to attack you and throw out of the game.</div><div><br></div><div>This HTML5 shooting game allows you to enjoy the battle against the multiple Oddbods like Slick, Zee, Pogo, Bubbles, Fuse, Jeff and Newt. It will be amazing to be appeared in the boss fight where you have to face off the deadly Fuse. You, of course, have to put your best to crack this one. You cannot a rest for some time since each Oddbod in the improved level will be faster and smarter than the previous one. Good luck completing your job in the shortest possible time to score higher in the end!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/3abec49435664a1a8ead67c5bbebbd2d/\r\n",
+      "metaTitle": "Oddbods Ice Cream Fight, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Oddbods Ice Cream Fight at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Oddbods Ice Cream Fight Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442796.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10252,
+      "ownGame": false,
+      "addDate": "2019-09-26T01:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-05-11T03:28:00.190Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH TO HIT , RELOAD ICON TO RELOAD ICECREAM",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO HIT,KEEP RELOADING ICE CREAM"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
