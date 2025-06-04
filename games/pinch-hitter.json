@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aeda",
+      "id": 435,
+      "name": "Pinch Hitter",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "pinch-hitter",
+      "image": "435",
+      "url": "pinch-hitter",
+      "description": "<p class=\"MsoNormal\" style=\"text-align: left;\"><font size=\"2\" face=\"verdana\" color=\"#000033\">Pinch Hitter game are for those who likes to hit the ball hard. Hitting is an important exploit in the game of cricket to win a game either for posing a massive score against the opponent team or chasing a score that has to meet with only a few limited ball spared to play. The free online cricket game is once again that exclusive showcase of hitting the ball with immense power to make a match or getting the game in your favor. Pinch Hitter is the game that offers a long due practice session for what you are being lined up for a long time.</font></p><p class=\"MsoNormal\" style=\"text-align: left;\"><font size=\"2\" face=\"verdana\" color=\"#000033\"><span style=\"background-color: transparent;\">As it is the multi level game where you have to hit the ball with left click of the mouse and has to throw a ball away from over the rope. In the pinch hitter online sports game, at the initial level of the game, there is target remains to be very short and easily available. As, in this free game online, you are required to score thirty runs in three overs, while 10 wickets are in your hand.</span><br></font></p><p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"background-color: transparent;\"><font size=\"2\" face=\"verdana\" color=\"#000033\">As the direction for the game is set, whenever, a ball is pitched on the ground and touches the green circle, it is your time to hit the ball. Once you have correctly hit the ball it goes straight away from the ground into the spectator?s area. But, in this online game, it is not as much simpler and straight to hit the ball. As any wrong selection and miscalculation in judging the ball will not cost you the game but also opportunity to reach at the next level of the game.</font></span><br></p>",
+      "size": 800,
+      "height": 600,
+      "script": "435_swf.swf",
+      "metaTitle": "Pinch Hitter, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Pinch Hitter is the most amazing online cricket game known to make an impressive huge against the opponent team or chasing a score that is too difficult to score.",
+      "metaKeyword": "Pinch Hitter, Sports, Cricket Games, Pinch Hitter Online Game, Play Free Games, Online Cricket Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 201,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 80981,
+      "ownGame": false,
+      "addDate": "2017-07-11T23:36:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2024-03-20T23:13:33.219Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED "
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 55
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
