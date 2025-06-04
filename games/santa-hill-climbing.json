@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c359",
+      "id": 6319,
+      "name": "Santa Hill Climbing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "santa-hill-climbing",
+      "image": "6319",
+      "url": "santa-hill-climbing",
+      "description": "<div>This year Santa has decided to distribute gifts through a car! However, he has to collect them before distributing to his favourite children. Now your job in this brand new racing game is to control a car on the hill and mountain tracks. Will you be able to assist him to tackle this challenging task? Join Santa Hill Climbing game and be prepared to drive with cute and lovely Santa while travelling and collecting multiple gift boxes along the bumpy road!</div><div><br></div><div>Keep your fingers on the screen and make sure to use the acceleration and speed properly! Maintain speed and acceleration to save the fuel to help him go for long! Do not forget to grab the fuel during the way in this HTML5 car game. Try to collect as many gift items as you can to make your own huge record! Your insane driving abilities will help get him through the hilly landscape and grab the gifts that are scattered at different locations on the track.</div><div><br></div><div>The controls of this cool driving simulator are very easy and graphics are also fabulous. Good luck to control the acceleration and brake wisely to go as far as possible and set your own new high score! Play this Christmas game online for free without download to enjoy the spirit of your favourite festival in advance! Our website features countless top adventure-packed games that are designed on the Christmas theme. Have a blast with your friends!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/c93c365c0c9146ed99988bdae20ba83e/\r\n",
+      "metaTitle": "Santa Hill Climbing Game, Car  - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Santa Hill Climbing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Santa Hill Climbing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579523644.xml",
+      "idealFor": "Man",
+      "likes": 457,
+      "dislikes": 97,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 119958,
+      "ownGame": false,
+      "addDate": "2020-01-20T18:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-05-19T05:20:25.309Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICON TO SPEED, LEFT TO GO BACK",
+      "webControlKeys": "RIGHT ARROW TO MOVE ON,LEFT TO GO BACK"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 59
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
