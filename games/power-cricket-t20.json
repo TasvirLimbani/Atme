@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae5a",
+      "id": 133,
+      "name": "Power Cricket T20",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "power-cricket-t20",
+      "image": "133",
+      "url": "power-cricket-t20",
+      "description": "In the Indian sub continent, when, you speaks about the playing sports game online, there, is no better option than playing the game of cricket that is one of the most popular game in online genre. Power Cricket T20 game is the version of the <a href=\"http://www.atmegame.com/online-cricket-games\" title=\"\" target=\"\"><font color=\"#0033cc\">game of cricket</font></a> that is most popular and noticeable one by the new generation of online gamers.<br><br>The game is equally divided into three levels of gaming, the first level of the game is fair play cup tournament that is for simple and low scoring game chase and second one is champions cup tournament of this game and the third level of the game is power cup that is for the players having the good grasp on the power cricket games when trying their hands on online cricket.<br><br>In any level of <span style=\"font-size: 13.3333px;\">Power Cricket T20 </span>sports game, first of all, you have to win 10 matches straight away of the game. In each of the game, using arrow keys for the shot selection you are required to overtake set by the opponent team. For power play, press the space bar that is very essential need of the game as assure the exact six. You?re, timing, in this online free cricket game is very essential and necessary to enjoy its fullest excitement.",
+      "size": 800,
+      "height": 600,
+      "script": "133_swf.swf",
+      "metaTitle": "Power Cricket T20, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Power Cricket T20 is the game that is liked by the gamers to a greater extent by the online cricket player that loves it to be fast paced environment.",
+      "metaKeyword": "power cricket t20, Sports, Cricket, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 666,
+      "dislikes": 42,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 171863,
+      "ownGame": false,
+      "addDate": "2016-07-03T07:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2024-08-26T21:09:34.386Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 260
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
