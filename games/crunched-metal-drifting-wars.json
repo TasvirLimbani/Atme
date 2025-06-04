@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b646",
+      "id": 2677,
+      "name": "Crunched Metal Drifting Wars",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "crunched-metal-drifting-wars",
+      "image": "2677",
+      "url": "crunched-metal-drifting-wars",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Hey boys where are you! Are you not able to hear the sounds of roaring engines? The real fun has just begun and you have a great chance to prove yourself as the toughest driver around! Your ultimate driving and shooting skills will be tested in this brand new 3D multiplayer racing game: Crunched Metal Drifting Wars. Play single player to have a free ride or get into multiplayer mode to enjoy car battles against other players from all around the world! Join it today and enjoy the freedom of trying out many vehicles! </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Head to the plain area or roam around the city to find your first enemy. Shoot him down immediately with your sharp gun as you encounter him. Make your tires burn and start drifting like a pro in this free online car driving game for boys. Let yourself equip with rocket missiles and attack on your opponents like never before. You have to aim and shoot the vehicle of your opponents. Get him crunched to the ground in this action-packed driving madness.  </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">A little bit of damage is required to get the vehicle of your enemies demolished in front of your eyes. Choose a car, enter a room and begin combating other players by shooting them down with your perfect shot. Here are the controls of this cool PC game: Use the arrow keys to drive your car, X to use rockets, C to change the camera, Ctrl to shoot, shift to use nitro, and spacebar to use your handbrake. </span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/crunched-metal/index.php",
+      "metaTitle": "Crunched Metal Drifting Wars, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Crunched Metal Drifting Wars at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Crunched Metal Drifting Wars Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 6793,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2022-08-23T23:21:30.104Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "WA,S,D, ALL ARROWS - MOVE, SPACE- BREAK, C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
