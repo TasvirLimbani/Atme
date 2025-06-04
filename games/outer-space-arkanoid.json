@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba80",
+      "id": 3830,
+      "name": "Outer Space Arkanoid",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "outer-space-arkanoid",
+      "image": "3830",
+      "url": "outer-space-arkanoid",
+      "description": "Classic Arkanoid or Breakout game in HTML5. Shoot all bricks with the ball and keep the ball in the game with your paddle.",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/outer-space-arkanoid-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Outer Space Arkanoid, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Outer Space Arkanoid at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Outer Space Arkanoid Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8110,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.728Z",
+      "updatedAt": "2024-07-11T05:22:27.708Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE SURFACE  TO HIT THE BALL",
+      "webControlKeys": "SWIPE THE SURFACE WITH MOUSE , HIT THE BALL WITH L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
