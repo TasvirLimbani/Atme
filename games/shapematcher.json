@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9d9",
+      "id": 3647,
+      "name": "ShapeMatcher",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "shapematcher",
+      "image": "3647",
+      "url": "shapematcher",
+      "description": "Shape Matcher is a fun jewel match-3 game. Match 3 or more of the same shape. Make the ultimate jewel combinations, in this amazing jewel game!\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "\nhttps://html5.gamedistribution.com/054bf2e6cb4a46afb3fca913cc74d643/\n",
+      "metaTitle": "ShapeMatcher, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game ShapeMatcher at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "ShapeMatcher Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335465.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10026,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:07:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2024-03-14T01:58:35.631Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO SWAP ADJACENT SHAPES TO MAKE MATCH OF 3",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SWAP ADJACENT SHAPES TO MAKE MATCH OF 3"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
