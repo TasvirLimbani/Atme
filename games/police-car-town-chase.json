@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf7f",
+      "id": 5134,
+      "name": "Police Car Town Chase",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "police-car-town-chase",
+      "image": "5134",
+      "url": "police-car-town-chase",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Police Car Town Chase game is a latest and wonderfully-designed racing game where you have to drive a mini car on a rampage through the town. Your focus will be on going through all the streets and locations of the town while collecting the cash and avoiding the police cars which are only determined to gun you down. It is important to show off your drifting abilities to get their cars crashed and escape from there safely. Avoid all the objects you see on your way as they can destroy your vehicle!</span></div><div><span style=\"font-size: 13.3333px;\">Keep your eyes on all the cash and gold scattered everywhere on the road and try to collect as much as you can to purchase new car models in the future in this cool html5 3D car game! Your quick reflexes and good control over driving will surely show you path towards the victory. It is time to prove the world that you are skilled enough to outwit the police and complete your mission shortly. These cops will do their best to stop you. Drive properly their tries to crash into you and protect you from them as long as you can!</span></div><div><span style=\"font-size: 13.3333px;\">Cops consider you as lawbreaker. So, they are not going to leave you if they catch you. Use the control keys to drive your car around like a truly action hero! Feel free to check what other vehicles are available to unlock by having a look at the in-game shop before clicking the go button! Do not worry; you can purchase any of the car models available in the in-game store through the cash you grab during the gameplay. Use arrow keys to make sure that your car does not hit with any other vehicles or obstacles! Good luck to check out more car games online, no download required on atmegame.com!</span></div>",
+      "size": 640,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/c46d67b48c79415dad33c02aee86a8f0/\r\n",
+      "metaTitle": "Police Car Town Chase,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Police Car Town Chase at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Police Car Town Chase Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545466.xml",
+      "idealFor": "Man",
+      "likes": 24,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11237,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:14:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-09-03T09:07:42.623Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "A,D, L-R ARROW TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
