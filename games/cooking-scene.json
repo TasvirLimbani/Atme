@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb73",
+      "id": 4085,
+      "name": "Cooking Scene",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "cooking-scene",
+      "image": "4085",
+      "url": "cooking-scene",
+      "description": "<div>Hey girls! Are you a kind of gamer who loves playing with kitchen tools? We have got you covered with a brand new girls game where you can practice your cooking abilities in a friendly environment.&nbsp; Would you like to try it out and explore your kitchen skills? Join Cooking Scene and be prepared to become the best Michelin chef! Try to complete your job fast and try to make all your customers feel happy!</div><div><br></div><div>On the screen, you would find out a plenty of ingredients through which you can prepare delicious meals for your customers. Remember you have to serve your customers before the time runs out. The possibility is that your customers will leave your restaurant immediately if you fail in completing your order on time. Look into the screen and discover all the possible recipes and cook them fast in this HTML5 cooking game! Try to prepare all the delicious meals for your customers!</div><div><br></div><div>The faster you will try to complete your goal, the higher money you would be able to make in the end. Customers who left your restaurant with a smile will reward you with some extra money. There is no chance to get you bored since our website is full of multiple girls games where you can have fun while improving your skills a lot. Make sure to keep visiting us again and again to find new cooking games. Good luck to find your best girls games to have fun without download!!</div>",
+      "size": 1024,
+      "height": 576,
+      "script": "\nhttps://html5.gamedistribution.com/fbe62af0cac6442f89f4f006f57186d2/\n",
+      "metaTitle": "Cooking Scene, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cooking Scene at atmegame.com ! We have selected this Cooking games for best excitement and thrill in you!",
+      "metaKeyword": "Cooking Scene Game, Girls Games, Cooking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226366.XML",
+      "idealFor": "All",
+      "likes": 65,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 14872,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-08-20T11:56:09.034Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP THE COOK AND DRAG TO COMPLETE ",
+      "webControlKeys": "L CLICK TO COOK, DRAG TO COMPLETE THE ORDER"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 23
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
