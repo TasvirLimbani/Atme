@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf55",
+      "id": 5091,
+      "name": "Ninja Run Adventure",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "ninja-run-adventure",
+      "image": "5091",
+      "url": "ninja-run-adventure",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Your favorite Ninja is just back with some more cool stunts and exciting missions to complete. Would you dare now to accept this unique challenge? Join Ninja Run Adventure and get ready to guide this popular warrior to reach to his destinations in multiple levels! Your objective in this brand new adventure challenge is to help Ninja run, jump and avoid all the obstacles that you seen on his way. These obstacles can be mushrooms, spikes and stones.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Ninja is undoubtedly a very powerful warrior who can fight against any enemies, but this he needs your support. Try to make him jump timely to beat all the obstacles and do not forget to grab as many shurikens as you can during the gameplay in this free online running game! You will get a wonderful opportunity to train the legend Ninja here in this fabulous adventure. Be careful when he jumps from one platform to another as you will lose if he falls between the gaps!</span></div><div><span style=\"font-size: 13.3333px;\">There are multiple 21 challenging and engaging platforms to play online free in this cool html5 avoid games for boys. Enter this unlimited runner challenge to become a champion of the ninja world! We have plenty of highly addictive kids games on our website, which make sure that boring hours would not come to you for a single minute. Stay connected with us to spot new adventure games that are playable on multiple old and modern browsers, no download required!</span></div><div><br></div>",
+      "size": 1056,
+      "height": 594,
+      "script": "https://m.shtoss.com/game/ninja-run-adventure/index.html\r\n",
+      "metaTitle": "Ninja Run Adventure,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ninja Run Adventure at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ninja Run Adventure Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 44,
+      "dislikes": 12,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 24371,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-07-09T05:04:16.747Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO JUMP",
+      "webControlKeys": "LEFT CLIUCK OF MOUSE OR UP ARROW TO JUMP"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
