@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf80",
+      "id": 5135,
+      "name": "EG Mini Car",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "eg-mini-car",
+      "image": "5135",
+      "url": "eg-mini-car",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You have got a chance once again to take your seat behind the steering wheel of cool car models in EG Mini Car game. No, you are not alone in this fun, friend! There are plenty of pro drivers you have to compete with. Click the play button and prove the world that nobody can beat you in the car race competition! We are pretty sure that you are capable enough to become the fastest driver around. All you need to do is test your best driving abilities to unlock multiple kinds of fun cars.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your rivals have already taken their seat on their vehicles in this one of the best racing games. Choose your car and get ready to face off the biggest car race challenge you have ever seen! Select from any mode between arcade and time trial! When you play the arcade mode, you have to focus on leaving your competitors behind and reaching the finishing line first. Enjoy this mode alone while playing against the computer or get ready to share your keyboard with your friend by inviting him as your rival in this html5 car game!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">The objective in the second mode, also known as solo mode, is to complete the race as fast as possible. Select your favorite car from several options, finalize a track you want to race your car and then make a decision over the difficulty level! There are 3 laps to accomplish in each race. The top left corner of the screen will show which lap you are currently in. Challenge multiple racing modes and different race tracks in our one of the top car games online for free, no download required!!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/13e4190a66304f96811c22ff5d14ddc2/\r\n",
+      "metaTitle": "EG Mini Car,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EG Mini Car at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "EG Mini Car Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545466.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8072,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:14:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2022-08-23T23:21:30.159Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ALL ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
