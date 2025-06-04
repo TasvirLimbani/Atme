@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c169",
+      "id": 5661,
+      "name": "City Car Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "city-car-simulator",
+      "image": "5661",
+      "url": "city-car-simulator",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Welcome to a world where no one exists except the beautifully-designed racing cars! It will be amazing to explore the exclusive eight Golf car models in this brand new free online game! Join City Car Simulator game by purchasing your favourite vehicle in the garage! No bother about the money since you have enough to get the desired car models! Get ready to pay higher for the off-road car! So, check out first whether you want to go with the one strong car or opt for the older models! </span></div><div><span style=\"font-size: 13.3333px;\">Move towards the garage to improve your vehicle before introducing it to the track in this one of the best racing games for kids! You can modify the label descriptions (front and back side) along with the color. Choose from three different modes including Test Area and Entertainment, Mission and Events and Free Time! Perform death-defying stunts, do missions and collect money or take a pleasure to drive your car in the city ? the final choice will be yours in this realistic car simulation game!</span></div><div><span style=\"font-size: 13.3333px;\">Customize the steering and car wheels to create your own perfect ride! You might face a little bit traffic on the road, but do not need to bother about the presence of pedestrians. You have a lot to do right from changing the traffic setting and making the car customization to experiencing the beautiful night view and awesome 3D environment. Play well and earn some points through you can buy new upgrades for your car! Drive it through arrow keys or WASD and use nitro through F in this one of the finest simulator games for kids!</span></div>",
+      "size": 960,
+      "height": 580,
+      "script": "https://html5.gamedistribution.com/40c8374129e74cdab7aa3262be546ff3/\r\n",
+      "metaTitle": "City Car Simulator,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game City Car Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "City Car Simulator Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1556791949.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10063,
+      "ownGame": false,
+      "addDate": "2019-05-02T15:42:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2024-10-23T10:08:22.291Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L ALT- PAUSE,SPACE-BREAK-W,A,S,D ALL ARROWS TO MOVE,C-CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
