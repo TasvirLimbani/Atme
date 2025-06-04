@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9f5",
+      "id": 3677,
+      "name": "Witch Crossword",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "witch-crossword",
+      "image": "3677",
+      "url": "witch-crossword",
+      "description": "Walk through the dark witch&apos;s forest and solve the crossword puzzle&#33; Do you dare?",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/witch-crossword-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Witch Crossword, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Witch Crossword at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Witch Crossword Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 13,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7344,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2024-03-11T09:16:18.789Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE BLOCKS TO HINT, USE L CLICK OF MOUSE TO TYPE THE CORRECT WORD",
+      "webControlKeys": "SWIPE ON THE BLOCKS TO HINT, USE L CLICK OF MOUSE TO TYPE THE CORRECT WORD BY L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
