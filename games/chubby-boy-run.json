@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba00",
+      "id": 3691,
+      "name": "Chubby Boy Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "chubby-boy-run",
+      "image": "3691",
+      "url": "chubby-boy-run",
+      "description": "Survive as long as possible in the three landscapes with the chubby boy. Use all your speed to avoid the obstacles and set the highest score&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/chubby-boy-run-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Chubby Boy Run, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Chubby Boy Run at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Chubby Boy Run Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 19,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9441,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2025-02-06T19:57:53.701Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT WORKING"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
