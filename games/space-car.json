@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb44",
+      "id": 4037,
+      "name": "Space Car",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "space-car",
+      "image": "4037",
+      "url": "space-car",
+      "description": "<div>The combination of space and racing is enough to keep you entertained for hours. Are you ready friends to drive your vehicle on a circle (space) to create your high score? Join Space Car game and be prepared to enjoy driving at a unique round-shaped track! Make sure to avoid all the obstacles that you see attached with the space to drive for as long as possible. Be careful as some of your enemies will also keep releasing fires on your vehicle!</div><div><br></div><div>The longer you drive your vehicle, the higher score you would be able to make in the end of this cool HTML5 car game. Avoid obstacles, get a bonus and drive for as long as possible to create your best score! Use arrow keys or A and D button of the keyboard to move your car left and right when you try it in your desktop or tilt the screen left and right when you play it in your mobile phone! It will keep moving forward automatically.</div><div><br></div><div>Keep your eyes on the screen continuously to know when to make it left or right in this amazing car game! The speed of your vehicle will keep increasing as you progress in the game. Good luck to drive your space car for as long as possible and become a racing champion! At our website, we cover a wide collection of free racing games that are playable on both desktop and mobile phones and available for players of all ages without download.</div>",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/81c7dcbccfee4162b74c323d1c5cb33b/\r\n",
+      "metaTitle": "Space Car, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Space Car at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Space Car Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951839.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11332,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-07-30T13:59:15.270Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "A,D AND ALL ARROWS TO CONTROL THE PLANET"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
