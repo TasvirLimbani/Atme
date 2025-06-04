@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b617",
+      "id": 2622,
+      "name": "Zombie Dead Race",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "zombie-dead-race",
+      "image": "2622",
+      "url": "zombie-dead-race",
+      "description": "<div>Your ride on this highway is not going to be easy at all since many bloodthirsty zombies are waiting for you. Take your seat in a beautiful car and get ready to drive through all those pools of blood. Highway is the only way to reach to the other side of the town. However, luckily you spot a car loaded with several useful gadgets. Learn how to deal with nitro, shields and automatic weapons to battle with the cruel zombies for whom you are a favourite dish for tonight.</div><div><br></div><div>Zombie Dead Race is a 3D free online car racing game that features the awesome zombie survival gameplay. You are in a car and surrounded by a horde of deadly zombies who are ready to jump on your vehicle to kill you immediately as they see you. Use your fully equipped car to ram through the hordes of the undead to destroy them completely. Drive your car as fast as you can in order to avoid these local monsters in this brand new driving game for kids.</div><div><br></div><div>Shoot these monsters from the window of your car apart from using the ram in this one of the best driving games for boys. Complete the task fast and collect as much cash as you can to buy various awesome upgrades as well as new and powerful weapons. Smooth graphics, easy controls and seamless gameplay, Zombie Dead Race provides you with a huge amount of fun and entertainment. Do you think that you are capable enough of surviving the zombie apocalypse? Play this web browser game on an Android app and as an iOS app as well!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/zombie-dead-race/index.php",
+      "metaTitle": "Zombie Dead Race, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zombie Dead Race at atmegame.com ! We have selected this car games for best excitement and thrill in you!",
+      "metaKeyword": "Zombie Dead Race Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 7920,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2023-10-22T23:06:30.828Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS - MOVE, L CLICK OF MOUSE ON L-R SIDE OF SCREEN TO SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
