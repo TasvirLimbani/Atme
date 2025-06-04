@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b379",
+      "id": 1880,
+      "name": "Blackjack King",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "blackjack-king",
+      "image": "1880",
+      "url": "blackjack-king",
+      "description": "<div>Blackjack King is an exclusively-designed and very popular card game that features seamless play, great graphics, and hours of fun. In this free online classic casino game, you will have to perform various activities, including standing, hitting, splitting or doubling to challenge the dealer and increase your chances of winning. Keep your eyes on your two cards and also look at the dealer&nbsp;face up card and choose the optimum possible strategy to stand or hit. The condition may also come when you have to double your bet or split your cards to make you win. Making a right call on the right time ensures your victory in the end.&nbsp;</div><div><br></div><div>The closer you will be to 21, the higher chances will be of your winning in this cool arcade game for boys and girls. Are you able of making a score that could beat the score of the dealer? Keep your eyes on your cards and the cards of a dealer who is sitting in front of you. Make a call at the right time to stand or hit, double down or split. We hope that you will apply your best card playing skills in order to become a master of Blackjack King.</div><div><br></div><div>This cool arcade game features the stylish avatars, 8 standard decks, seamless gameplay and enhanced graphics. It is undoubtedly the best blackjack game that you have ever seen. You will definitely witness the improved casino experience when you play this brand new card game in your browser. We believe that you can easily outsmart the dealer on a number of daily challenges and enjoy your achievements in this best arcade game for boys and girls.&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/62315c8a5ddd47219a31b54149abceec/\r\n",
+      "metaTitle": "Blackjack King, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Blackjack King at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "Blackjack King Game, Racing Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8503,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2024-12-21T18:18:51.189Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
