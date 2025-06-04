@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b524",
+      "id": 2337,
+      "name": "Bob the Robber 3",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "bob-the-robber-3",
+      "image": "2337",
+      "url": "bob-the-robber-3",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Your favourite character leaves his home to go on a new adventure in the 3rd instalment of Bob The Robber. Would you like to join him and guide him to perform the task timely? Join Bob The Robber 3 and be prepared to guide him on multiple dangerous missions! Your objective in this brand new adventure game is to help him to fight against the bad guys to stop an international conspiracy. Visit dozens of dangerous locations in this stealth-based, action-packed challenge!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The completion of each level depends upon how expert you are in sneaking through the smart guards and breaking open safes while picking locks. Try not to be caught by these guards to make your look successful. Get ready to hide in the shadows, render your foes unconscious, cut fuse boxes and avoid the security cameras available on the different floors of the building to achieve your ultimate goal in this HTML5 platform game! Keep your character away from the guards to sneak through all the challenging missions!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Pass through a number of buildings while keeping your eyes on the loot as well! These rich guys have arranged lots of camera and other safety precautions to stop the thieves from stealing their hard-earned cash. Try to reach the vault by uncovering all the secret documents hidden and scattered on the different floors in each level! These buildings are full of instruments and tools that are prepared to keep all the intruders out. Implement a different approach to open electronic doors! Find different gadgets to open certain doors and sort out several new puzzles!&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/16eb5eb6f9b841688478eb635fde78b5/\r\n",
+      "metaTitle": "Bob the Robber 3 Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bob the Robber 3 at atmegame.com ! We have selected this platform games for best excitement and thrill in you!",
+      "metaKeyword": "Bob the Robber 3 Game, platform Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806916.xml",
+      "idealFor": "Man",
+      "likes": 31,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9835,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-07-16T10:17:37.388Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT FITTING IN THE SCREEN",
+      "webControlKeys": "A,D/L-R ARROWS TO MOVE, W - OPEN THE LOCK"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
