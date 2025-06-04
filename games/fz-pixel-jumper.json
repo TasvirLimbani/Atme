@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad92",
+      "status": 0,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3a3",
+      "id": 6417,
+      "name": "FZ Pixel Jumper",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "fz-pixel-jumper",
+      "image": "6417",
+      "url": "fz-pixel-jumper",
+      "description": "FZ Pixel Jumper as high as possible and try not to fall, many obstacles, colorful graphics and many characters with individual abilities. Foxzin.com with tons of games for all ages and bringing fun to player Play free online games.\r\n",
+      "size": 422,
+      "height": 750,
+      "script": "https://html5.gamedistribution.com/897c096e6304445c9441d51b9cb60be3/\r\n",
+      "metaTitle": " FZ Pixel Jumper,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game  FZ Pixel Jumper at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": " FZ Pixel Jumper Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842458.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 5205,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2025-01-28T20:59:14.942Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO CONTROL THE BALL",
+      "webControlKeys": "L-R CLICK TO CONTROL"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad92",
+      "name": "hidden-objects",
+      "slug": "hidden-objects",
+      "icon": "Hidden Objects"
+    }
+  }
+}
