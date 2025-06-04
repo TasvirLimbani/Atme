@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b533",
+      "id": 2373,
+      "name": "Kick Trick",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "kick-trick",
+      "image": "2373",
+      "url": "kick-trick",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Things become difficult when nothing works to keep you entertained. Here we have tried out level best to bring you close to something that will keep you busy for hours, even for some days without going outside. Will try your hands in the most popular and highly entertaining free online game? Join Kick Trick and gear up to practice your soccer playing abilities to the optimum level best while getting the fun dose! Hurry up! A nice football player is waiting for you on the ground!</span></div><div><span style=\"font-size: 13.3333px;\">When you click the play button of this brand new sports game, you will see a football player who needs your help to control a ball. Your objective is to guide this soccer start keep the ball up in the air. Yes, the more time he will be able to control this ball in the air the higher score you can make for him. Use his head, knees and feet to help him bounce the ball off. Making high score depends upon how nicely you kick the ball.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Keep kicking the ball at just the right moment to create a highscore in this challenging HTML5 soccer game! We are happy to maintain a huge collection of free sports games that you can play and have fun with your friends without download. You can find some cool and popular cricket, chess, hockey and other sport titles and play them for free. Our multiplayer soccer games are playable on multiple latest browsers and devices.&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/456a302114514b8d8686979f2cec94f4/\r\n",
+      "metaTitle": "Kick Trick, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Kick Trick at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Kick Trick Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524808723.xml",
+      "idealFor": "Man",
+      "likes": 30,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10186,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-08-27T05:31:59.241Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "2.9",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
