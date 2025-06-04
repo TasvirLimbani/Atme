@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1c2",
+      "id": 5763,
+      "name": "Funny Faces Match3",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "funny-faces-match3",
+      "image": "5763",
+      "url": "funny-faces-match3",
+      "description": "<div><span style=\"background-color: transparent;\">Join Funny Faces Match3 and get ready to show off your ultimate concentration and brain skill to solve this brand new puzzle challenge! The level will only be finished when you match all coloured balls that you see on the screen. Click using your mouse in Your PC or tap on your mobile screen on groups of 3 or more of the same coloured animals to get points! Also watch out on the screen since time will begin as soon as you make your first move. Every matching move will also help you to earn some seconds.?</span><br></div><div><span style=\"background-color: transparent;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Don?t forget to make a combo match to grab the extra time! You can exchange two pieces to match 3 or more objects in this one of the best arcade games for kids. There are plenty of funny faces, photos and pics to explore. This match 3 game features funny animals, unique-artwork as well as spectacular and upbeat graphics. It will be highly exciting to challenge your inner gamer skill when you explore various missions and make the higher scores. Keep the fun going until you come at the stage of running out of time!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Don?t hesitate yourself in blowing up those funny faces you see on the screen to earn points and extra time! Put your focus and matching skill to challenge to get the high score in this highly addictive and matching game! At our website, there is no shortage for the top match3 games. So, if you don?t it much interesting, feel free to check out more games that feature the same gameplay. Also check out the category of our other popular games for boys and girls!</span></div>",
+      "size": 337,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/474e48e6b2be4c198c9ecaa1a9119110/\r\n",
+      "metaTitle": "Funny Faces Match3,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Funny Faces Match3 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Funny Faces Match3 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557761121.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7327,
+      "ownGame": false,
+      "addDate": "2019-05-13T20:55:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.755Z",
+      "updatedAt": "2024-03-20T11:51:06.450Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE ANIMALS BY SCREEN TO M,AKE THE 3 ANIMALS MATCH",
+      "webControlKeys": "SWIPE THE ANIMALS WITH L CLICK OPF MOUSE, TRY TO MATCH AT LEAST 3 IMAGES"
+    },
+    "rating": {
+      "rating": "2.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
