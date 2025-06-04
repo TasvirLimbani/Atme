@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b313",
+      "id": 1760,
+      "name": "Wild Race 3D",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "wild-race-3d",
+      "image": "1760",
+      "url": "wild-race-3d",
+      "description": "How far can you go? Make the best score as possible, unlock all cars, challenge your friends and be the king at the top of the leaderboards!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/a59ab883ceb04660a4ea393fe1025bec/\r\n",
+      "metaTitle": "Wild Race 3D, Car Racing Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wild Race 3D at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Wild Race 3D Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629357.xml",
+      "idealFor": "Man",
+      "likes": 167,
+      "dislikes": 47,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 39410,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.696Z",
+      "updatedAt": "2025-03-13T04:58:15.108Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "3.2",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
