@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aead",
+      "id": 229,
+      "name": "Cricket Umpire Decision",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "cricket-umpire-decision",
+      "image": "229",
+      "url": "cricket-umpire-decision",
+      "description": "Among many a numbers of cricket games, the cricket umpire decision is the most illustrious and out of the box cricket game for the professionals, who, apart from a cricketer wishes to become an umpire as well. In this online cricket game, there requirement for a fitting umpire has been addressed by imparting knowledge about some most common signals used in the game of cricket.<br><br>In this free cricket game, efforts are being made to facilitate some cricket practicing for some fans of cricket that have been entire have good knowledge of cricket. Do you prefer this game from the core of your heart then this game is exactly for you.<br><br>The entire game of cricket is conducted by the decisions taken by the umpires; in this your cricket knowledge is being checked by dressing you in a role of umpire. The game play of this umpire based online cricket game is around a pitch where a bowler is bowling to the batsman.<br><br>As cricket umpire decision game progresses, you have to make some pending cases in the game as set in the game memory. As many as right decisions you will make in the game as better there would be your score there. You have to elect between from a number of decisions including dead ball, wide ball and for boundaries and over boundaries. Use mouse to select and click the right decision in the game.",
+      "size": 800,
+      "height": 600,
+      "script": "229_swf.swf",
+      "metaTitle": "Cricket Umpire Decision, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Cricket Umpire Decision is the game for the cricket lovers that get into the coat of umpire as common signals used in the game of cricket.",
+      "metaKeyword": "Cricket Umpire Decision, Sports, Cricket, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 267,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 72838,
+      "ownGame": false,
+      "addDate": "2016-09-13T08:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.665Z",
+      "updatedAt": "2024-05-03T08:43:53.736Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 111
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
