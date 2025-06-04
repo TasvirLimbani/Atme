@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b544",
+      "id": 2390,
+      "name": "PlayHeads Soccer AllWorld Cup",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "playheads-soccer-allworld-cup",
+      "image": "2390",
+      "url": "playheads-soccer-allworld-cup",
+      "description": "Play physics soccer with PlayHeads teams from the world of monsters and humans\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/3cf08908af2d44f59e98edd269763417/\r\n",
+      "metaTitle": "PlayHeads Soccer AllWorld Cup, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game PlayHeads Soccer AllWorld Cup at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "PlayHeads Soccer AllWorld Cup Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524808838.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 10869,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-04-07T15:04:29.866Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS TO MOVE, RIGHT ICONS TO JUMP AND KICK",
+      "webControlKeys": "W,A,D TO MOVE, SPACE TO KICK FOR RORBOT, UP , L-R ARROWS AND P FOR MAIN PLAYER"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
