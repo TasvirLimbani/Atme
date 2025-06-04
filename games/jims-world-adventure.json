@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf9f",
+      "id": 5167,
+      "name": "Jims World Adventure",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "jims-world-adventure",
+      "image": "5167",
+      "url": "jims-world-adventure",
+      "description": "<div><span style=\"font-size: 13.3333px;\">I think you many of you remember the most popular “Mario” games that grabbed the eyeballs of many video gamers worldwide. Today we have brought to you a brand new platform game that has the resemblance to that adventure challenge. We are pretty sure that you would not like to miss it out at any cost. So, what are you waiting for, friends? Join Jims World Adventure game and get ready to enjoy the same adventurous experience over the platforms that have plenty of obstacles!</span></div><div><span style=\"font-size: 13.3333px;\">&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You will meet today with a lovely and cute Jim who has decided to start his world adventure. This cute boy has a huge dream of becoming a treasure hunter. However, he does not know how to use the platform to run. Luckily, he has found you who have planned to help him out. This classic platformer game would surely help you to remind your childhood memory. Your objective is to guide him to grab coins and stars to get points. Make sure to pass so many threats by smashing all his enemies.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Put all your platformer and running skills to test to clear all 100 levels! You can use the WASD or arrow keys to move your character and space bar key to shoot his enemies. Good luck to have a blast in this super adventure game! The colorful graphics, easy controls and seamless gameplay supported by the lovely storylines will surely help to keep you glued to the screen for hours. It is our endeavor to serve you with the best entertainment in just a few clicks where no download required.&nbsp;</span></div>",
+      "size": 900,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/896654c824d8486c857c60ad7ac4fcd3/\r\n",
+      "metaTitle": "Jims World Adventure,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jims World Adventure at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Jims World Adventure Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545866.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8572,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2024-09-27T14:36:53.849Z",
+      "__v": 0,
+      "mobileControlKeys": "CONTROL NOT WORKING IN MOBILE",
+      "webControlKeys": "W-JUMP,A,D TO MOVE"
+    },
+    "rating": {
+      "rating": "3.2",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
