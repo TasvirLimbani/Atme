@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb71",
+      "id": 4083,
+      "name": "Sky Invasion",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "sky-invasion",
+      "image": "4083",
+      "url": "sky-invasion",
+      "description": "<div>The biggest adventure challenge is here! Are you ready to try it out and show off the world that you are expert in piloting a spaceship? Join Sky Invasion and be prepared to destroy all enemy spaceships and rule the space world! Do not take it easily as this is an alien threat and you are the only one who could handle this job perfectly. It is a wonderful chance to explore the galaxy and deliver your excitement in a way like never before.</div><div><br></div><div>This galaxy does not seem to be yours now. Deadly enemies have captured it and are looking forward to take you out from this place. Your job in this action-packed flying game is to clear the galaxy from all your enemy ships and let the world show that you are a true space fighter. Common boys! We are pretty sure that you have the guts to repel the alien invasion through your spaceship equipped with a sharp missile.</div><div><br></div><div>Shoot all your enemies level up and get ready to unlock more dangerous and powerful fighter jets in this cool shooting game! Wipe out all your opponents by applying your intense shooting abilities and space flying skills! Work out hard to take down all your enemies and rein the galaxy like a true fighter in the sky! Click Tab to pause, right click to launch a missile and left click to shoot in this space game!</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/9ac5c195d88e4b35ae7e650e4038412c/\r\n",
+      "metaTitle": "Sky Invasion Games, Aeroplane Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sky Invasion at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Sky Invasion Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game, Aeroplane Games",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 62,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 15344,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2025-03-14T10:38:44.613Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB  ONLY",
+      "webControlKeys": "P-PAUSE, SPACE- FLY HIGH, W,A,S,D ALL ARROWS TO CONTROL , L CLICK/R CLICK- SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
