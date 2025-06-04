@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae61",
+      "id": 140,
+      "name": "Saloon Brawl 2",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "saloon-brawl-2",
+      "image": "140",
+      "url": "saloon-brawl-2",
+      "description": "The amazing 3D action <a href=\"http://www.atmegame.com/online-fighting-games\" title=\"\" target=\"\"><font color=\"#0033cc\">game Fighting</font></a> Saloon Brawl 2 says it all about the putting the land of the order in force and teach lesson to the rowdy elements in this action game online. You as a Sheriff gets directly involved into the fight to teach lessons to law forgetting crooks.<br><br>As you are playing as a role of a Sheriff, therefore, you don?t need to be merciful towards anyone. The only thing that you have to keep in your mind, it is all about putting things in the city in order. In the game play of this action game play, you have the full liberty to make brawlers weak by hitting the knees with an impressive and good punch. Break bottles, barrels and tables over their heads. Throw opponents into other brawlers. Even you are charged for other special attacks to kill down many a numbers of brawlers at a time.<br><br>As fighting the most unscrupulous guys in the city, you are even required to have reenergized that is presented with better health in the game. The points scored in the game even let you upgrade fighting style for the subsequent levels and stages in the game.<br><br>The game control in this best action game online for movements is offered by keys, however, for Block the opponent Z key can be used for punching the key is X and picking and throwing one must use the C key.",
+      "size": 680,
+      "height": 510,
+      "script": "<!-- Place this code where you'd like the game to appear -->\r\n<div class=\"miniclip-game-embed\" data-game-name=\"saloon-brawl-2\" data-theme=\"0\" data-width=\"680\" data-height=\"510\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/saloon-brawl-2/\">Play Saloon Brawl 2</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/saloon-brawl-2/\" target=\"_blank\">Play Saloon Brawl 2</a> / More <a href=\"https://www.miniclip.com/games/genre-519/\" target=\"_blank\">Fighting games</a></p>\r\n\r\n<!-- Insert this code before your </body> tag -->\r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "Saloon Brawl 2, 3D Fighting Games - Play Online Free : Atmegame",
+      "metaDesc": "As a sheriff in this online action game you get into action against the rogues in the city to calm down their rowdism and brawling behaviour in an intensive fight inclusive war.",
+      "metaKeyword": "Saloon Brawl 2, Action, Fighting, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 114,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 20080,
+      "ownGame": false,
+      "addDate": "2016-07-03T08:07:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.664Z",
+      "updatedAt": "2025-01-19T17:48:40.094Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D,ALL ARROWS TO MOVE, C- PICK THE ITEMS, X- HIT"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 17
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
