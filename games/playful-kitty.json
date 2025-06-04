@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad81",
+  "category_name": "animals",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad81",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b462",
+      "id": 2129,
+      "name": "Playful Kitty",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "playful-kitty",
+      "image": "2129",
+      "url": "playful-kitty",
+      "description": "Playful Kitty is a HTML5 physic game. This cute kitty wants to play! Take the wool ball to the cat to pass the level. Tap breakable objects to destroy them and get the ball to the kitty, collect coins maximum 3 for level, make movable objects fall to get to next level!\r\n",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/playful-kitty/",
+      "metaTitle": "Playful Kitty, Animals Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Playful Kitty at atmegame.com ! We have selected this animals games for best excitement and thrill in you!",
+      "metaKeyword": "Playful Kitty Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://h5.4j.com",
+      "xmlFile": "multi_item_1522404983.xml",
+      "idealFor": "Man",
+      "likes": 123,
+      "dislikes": 8,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 47149,
+      "ownGame": true,
+      "addDate": "2018-03-30T15:46:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.702Z",
+      "updatedAt": "2025-02-25T10:32:45.722Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO PLAY WITH KITTY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY WITH KITTY"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad81",
+      "name": "animals",
+      "slug": "animals",
+      "icon": "Animals Games"
+    }
+  }
+}
