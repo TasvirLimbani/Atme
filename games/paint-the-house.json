@@ -1,0 +1,62 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "6305622cf00e1a463fdb9b32",
+      "id": 6582,
+      "name": "Paint The House",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "paint-the-house",
+      "image": "6582",
+      "url": "paint-the-house",
+      "description": "\n<p class=\"text_desc\">\nPaint The House is a free online arcade style city-building game where you have to unleash your creativity by painting houses using different colors. With a simple premise and addictive gameplay, this brand new puzzle game is perfect for those looking for a relaxing yet engaging gaming experience.\n</p>\n<h4>\nKey Features:</h4>\n\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\"><li><b>\nCustomizable City:</b> Your primary job in this color game is to design and build your own cityscape by painting houses with the colors you like the most. Feel free to challenge your creativity and make your city truly unique with multiple vibrant hues and patterns.\n</li><li><b>\n\nProgression System:</b> Complete the tasks of painting houses to earn money, which will be further used in expanding and improving your city. You can also use it to purchase new brushes, which will help to finish your painting more efficiently in the advanced levels.\n</li><li></b>Endless Creativity:</b> The availability of a wide range of colors will allow you to explore endless design possibilities. Feel free to make as many color combinations and patterns as you can to prepare the stunning visuals and bring your city to life. \n\n</li></ul></p>\n\n<p class=\"text_desc\">\nIn this cool online colorful game, you will get a chance to go on a wonderful journey of creativity and city-building. There are multiple things to do like paint houses, earning money, and watching your city grow from a blank canvas to a vibrant metropolis. \n</p>\n<p class=\"text_desc\">\nHey! Endless creative possibilities and simple but addictive gameplay have something to keep you busy for long. So, what are you waiting for? Get your brush and gear up to paint your way to a beautiful yet bustling cityscape!\n</p>",
+      "size": 640,
+      "height": 420,
+      "script": "https://games.atmegame.com/games/paint-the-house/",
+      "metaTitle": "Paint The House, Puzzle games - Play Online Free : Atmegame.com",
+      "metaDesc": "Paint The House that is the free online arcade game offered for gaming enthusiast under arcade is your best opportunity to improve your arcade skills.",
+      "metaKeyword": "Paint The House, Puzzle games, 3D Games, Play Games, Play Online, Play Free Games, Play Online Free Games",
+      "source": "",
+      "likes": 17610,
+      "dislikes": 9582,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 677063,
+      "ownGame": true,
+      "addDate": "2022-08-23T12:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:26:36.472Z",
+      "updatedAt": "2025-06-03T06:57:58.380Z",
+      "__v": 0
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 514
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
