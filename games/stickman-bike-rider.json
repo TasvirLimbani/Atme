@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad75",
+  "category_name": "bicycle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad75",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb27",
+      "id": 4008,
+      "name": "Stickman Bike Rider",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "stickman-bike-rider",
+      "image": "4008",
+      "url": "stickman-bike-rider",
+      "description": "<div>A wonderful bike riding adventure has just begun! Would you like to enter it and guide the stickman the bicycle rider on the mountains and hills? Join Stickman Bike Rider and be prepared to control a courageous stick figure that has a dream of cycling through the tracks that are full of multiple obstacles! In this brand new racing game, you would get a chance to perform some death-defying stunts with a world-popular cyclist. Hold your handlebar properly to help your biker to reach to his destination safely!</div><div><br></div><div>Make sure to control and maintain the balance of your rider firmly on highs, lows and jumps. Be careful and try to get the stickman to the finish line without crashing on the way in this html5 bicycle game! You can only unlock the first level of the first chapter initially. Move your bike with the help of left and right arrow keys! The up and down arrow keys can help you to ensure the safe landing of your motorbike. Hurry up! Try to reach as far as possible until you lose all your energy!</div><div><br></div><div>Do not forget to grab as much energy drinks as you can on your way to keep moving forward and create your own high score! Ride, flip, crash and jump through 30 unique and challenging levels in this cool motorbike driving game! Put your driving and physics abilities to complete each level with the maximum possible score! Let us see how far you go on these extremely tricky hilly grounds! Have fun without download in this stickman bike riding stunt game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/ab7d3179a429433aab11e267aaa52916/\r\n",
+      "metaTitle": "Stickman Bike Rider Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stickman Bike Rider at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stickman Bike Rider Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 85,
+      "dislikes": 10,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 23183,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2025-02-16T10:11:59.523Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "D,R ARROW TO SPEED,A/ L ARROW TO BREAK"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad75",
+      "name": "bicycle",
+      "slug": "bicycle",
+      "icon": "bicycle-racing-games"
+    }
+  }
+}
