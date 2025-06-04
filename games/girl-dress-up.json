@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c41b",
+      "id": 6539,
+      "name": "Girl Dress Up",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "girl-dress-up",
+      "image": "6539",
+      "url": "girl-dress-up",
+      "description": "<div>The awesome girls dressing challenge has hit your home today! A beautiful girl needs your fashion advice to get an inspiring look. Would you come forward to guide her to pick up an adorable outfit? Join Girl Dress Up game and be prepared to help a lovely girl to get a complete makeover! She needs your guidance in everything right from finalizing an excellent dress to combining it with a matching hairstyle and makeup. Get ready to challenge your fashion and make-up sense to the optimum!</div><div><br></div><div>Start with giving her a nice lip, body colour and nails and then come to the other things like hair and eyes colour, and dresses in this brand new girls game! Give your girl a curly or a boy cut hairstyle and then dye it with a suitable colour! Make sure to give her eyes a lovely colour and cover them with a nice pair of glasses. You can also change the colour of her glasses whenever you want. Now it is time to dress her up with an awesome outfit.</div><div><br></div><div>Choose a plain black skirt with a pair of cheetah printed leggings, a swimsuit, a light grey full sleeve sweater with a white shirt and a pair of cream jeans! You can also finalize a sleeveless magenta frock with a note on the waist in this HTML5 dressing game! Once the dress is finalized, you can also change the colour of her dress. Combine her dress with a lovely pair of sandals or shoes! Your girl is ready now for a needful photoshoot. Good luck to try out other top dress-up games and have fun for free with your friends, no download required!</div>",
+      "size": 1150,
+      "height": 647,
+      "script": "https://games.atmegame.com/games/girl-dress-up/",
+      "metaTitle": "Girl Dress Up Game, Dressing - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Girl Dress Up at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Girl Dress Up, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 2586,
+      "dislikes": 433,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 373524,
+      "ownGame": true,
+      "addDate": "2020-07-25T20:12:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-31T07:59:42.459Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ARROWS TO SELECT THEE ITEMS TO DRESS UP",
+      "webControlKeys": "BY LEFT CLICK OF MOUSE TO CHOOSE THE ITEMS TO DRESS UP"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 207
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
