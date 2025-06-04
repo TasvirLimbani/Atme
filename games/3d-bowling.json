@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad69",
+  "category_name": "bowling",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad69",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf75",
+      "id": 5124,
+      "name": "3D Bowling",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "3d-bowling",
+      "image": "5124",
+      "url": "3d-bowling",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a fan of free online bowling games? If yes, join 3D Bowling and get ready to throw the ball like a professional and satisfy your intense desires for the bowling games. Try to release the ball at perfect directions to score as many strikes as possible! We are damn sure that you would cherish the ultimate bowling experience after trying it out this brand new sports challenge in your device. Choose the solo mode, play against the computer or invite your friends to train your skills in this highly engaging and addictive 3D sports game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Take your time and roll the ball down towards the pins that you see in front of your eyes! Try to knock over all the pins to score extra points and make your win. There are three unique and challenging difficulty modes to play against computer. Play wisely and get a strike in each frame to score the maximum number of points to become a bowling alley champion! Keep rolling the ball right down towards the pins and bowling until you taste the victory in each stage!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your successful record in this cool html5 ball game would depend on how wisely you beat your competitors every time with the maximum number of points after bowling 10 frames. Choose to play single player or opt for a two player mode to challenge your bowling skills! Good luck to score as many strikes as you can to bring victory to your home! This epic 3D bowling game features HD 3D graphics, three game modes and smooth ball physics. All the best to beat your score in our more free bowling games, no download required!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://play.famobi.com/3d-bowling/A-925FD",
+      "metaTitle": "3D Bowling, Bowling Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 3D Bowling at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "3D Bowling, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 163,
+      "dislikes": 18,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 32091,
+      "ownGame": false,
+      "addDate": "2018-12-31T23:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2025-06-02T18:41:00.822Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS AND HOLD THE BALL AND SWIPE DOWN TO TO LIFT THE BALL, SWIPE L-R TO MOVE IN LEFT RIGHT,SWIPE UP TO HIT THE BALL",
+      "webControlKeys": "KEEP PRESS AND HOLD THE BALL AND SWIPE DOWN TO TO LIFT THE BALL, SWIPE L-R TO MOVE IN LEFT RIGHT,SWIPE UP TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 35
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad69",
+      "name": "bowling",
+      "slug": "bowling",
+      "icon": "bowling-games"
+    }
+  }
+}
