@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bccf",
+      "id": 4438,
+      "name": "Shoot The Box",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "shoot-the-box",
+      "image": "4438",
+      "url": "shoot-the-box",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Hey boys! Do you think yourself a nice shooter? It is time to prove your shooting abilities here with us! Join Shoot the Box and be prepared to destroy everything that you see on the screen with the unique type of bullets you have! We are damn sure that this action-packed challenge will bring you more fun and thrill that you have been waiting for long. Be careful since even your single miss will throw you out of the game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this html5 shooting game to shoot all the moving blocks before they hit you or pass you. The more time you will stay in the game, the higher score you would be able to hit on the screen. You can track your present score by having a look at the top of the screen. When game finishes, your present and best score will be shown on the screen. You can also make the modifications in the setting here. Click the sound button to enjoy your game with or without music!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">No need to bother in case if you fail in scoring bigger in just a few initial attempts since you have unlimited move to try and set your highest score! If you get bored, browse through our exclusive and wider collection of arcade-packed challenges and find a game that suits your interests. The best part is that our cool shooter challenges are meant for both boys and girls, so you can enjoy them despite of your location and age group. These fun challenges are also playable on multiple devices and can be enjoyable without download.</span></div>",
+      "size": 640,
+      "height": 1136,
+      "script": "https://html5.gamedistribution.com/e81d132c4e8045ebb0a4ee97e409dd1f/\r\n",
+      "metaTitle": "Shoot The Box Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Shoot The Box at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Shoot The Box Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543992154.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8518,
+      "ownGame": false,
+      "addDate": "2018-12-05T12:12:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.736Z",
+      "updatedAt": "2023-11-18T11:19:14.599Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO SHOOT",
+      "webControlKeys": "L CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
