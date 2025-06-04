@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b994",
+      "id": 3576,
+      "name": "Geometry neon dash Subzero",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "geometry-neon-dash-subzero",
+      "image": "3576",
+      "url": "geometry-neon-dash-subzero",
+      "description": "The new geometry neon dash Subzero is here! Jump in, brace yourself, and get ready for a real challenge! This won't be easy... Tap the screen and jump, fly and evade all objects, collect some balls and unlock the new characters! Try the new graphics and new Levels, new characters and more challenge than ever\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "\nhttps://html5.gamedistribution.com/1f37997f4c6845519807e0a335ed1c75/\n",
+      "metaTitle": "Geometry neon dash Subzero Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Geometry neon dash Subzero at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Geometry neon dash Subzero Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335025.xml",
+      "idealFor": "All",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6964,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.725Z",
+      "updatedAt": "2024-07-07T18:48:06.796Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO JUMP",
+      "webControlKeys": "L CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
