@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd9b",
+      "id": 4643,
+      "name": "Fill The Gap",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "fill-the-gap",
+      "image": "4643",
+      "url": "fill-the-gap",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Nothing could be crazy than solving puzzles and hitting the best score on the screen! Sometimes you enjoy it alone while other time challenging your friends will make your mood fresh. Today we have brought to you a brand new puzzle challenge that will make you fun a lot whether you explore it alone or with your friends. Join Fill The Gap and get ready to experience the biggest fun of your life in 10x10 blocks area! The endless gameplay and colorful environment will not get you bored for a single moment.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this cool html5 arcade game is to drag and drop different shaped blocks to fill the gaps. The completion of every row or column will reward you with some points. Try to complete 2 or more rows or columns in an attempt to score bonus points! Put your space management and concentration abilities to the test to become a champion in this one of the best brick games! You would definitely love this concept if you enjoyed tetris and trixology previously.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">There are three different shape blocks you will have to deal with in this Tetris style puzzle game. Try to fill as many rows and columns with the help different shapes that will keep coming over and over again! Remember the shapes shown on the screen will not necessarily fit perfectly each time. Use your puzzle solving and logical abilities to fill as much of area as possible! The more area you fill, the higher points you will earn in the end. Check out more free and online blocks games and have fun with your friends, no download required</span></div><div><br></div>",
+      "size": 540,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/e0b0863ef09140c0bb41ead9b0f3db5c/\n",
+      "metaTitle": "Fill The Gap, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Fill The Gap at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Fill The Gap Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8892,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2025-04-30T06:12:36.355Z",
+      "__v": 0,
+      "mobileControlKeys": "DRAG AND DROP THE PIECES INTO EMPTY SLOTS ON THE BORD, CREATE FULL ROWS TO ELIMENATE TILES YOU SCORE WHEN A ROW IS CLEARED",
+      "webControlKeys": "DRAG AND DROP THE PIECES INTO EMPTY SLOTS ON THE BORD BY L CLICK OF MOUSE , CREATE FULL ROWS TO ELIMENATE TILES YOU SCORE WHEN A ROW IS CLEARED"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
