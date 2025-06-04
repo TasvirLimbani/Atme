@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bae7",
+      "id": 3943,
+      "name": "Basketball Master",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "basketball-master",
+      "image": "3943",
+      "url": "basketball-master",
+      "description": "<div>It is time to shoot some hoops and show off the world that you are a nice basketball player! We have got you covered with a brand new sports game where you would have a nice basketball and a playground to enjoy with. Are you ready to make some smart aiming decisions and playing as a rooky? If yes, join Basketball Master and aim your ball towards the hoop. It sounds easy to play, but mastery will come only by giving it some good hours.</div><div><br></div><div>Be careful as you would have only try for each goal in this latest basketball HTML5 game! The difficulty levels will keep increasing as you progress in the game. In the further levels, you would see the moving boy picture and hoop. Smash through all the obstacles that you see on the screen, avoid defenders and try to get the ball safely into the net in this cool basketball game! Your successful efforts will also help you to hit all the stars on the way to the backboard.</div><div><br></div><div>Take your time to shoot your ball into the hoop as this is not a time-based game! Keep touching and dragging the ball for a nice shot! Make sure to practice basketball shooting skills to create your best score. There are 25 unlockable ball options to play with. Good luck to become the master of basketball in this addictive sports game! Need more fun and thrill on the basketball playground? Check out our extensive variety of free sports games that are available to play online, no download required for the players!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/basketball-master-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Basketball Master, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Basketball Master at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Basketball Master Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 15,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9070,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2024-07-10T18:06:45.092Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAP ON THE PLANE TO ROTATE, RELESE TO MOVE ",
+      "webControlKeys": "KEEP PRESS ON THE PLANE TO ROTATE , RELESE TO MOVE "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
