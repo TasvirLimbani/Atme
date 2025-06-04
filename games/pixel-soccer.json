@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b536",
+      "id": 2376,
+      "name": "Pixel Soccer",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "pixel-soccer",
+      "image": "2376",
+      "url": "pixel-soccer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Is playing soccer match your primary fun source? Do you also prefer to explore different types of football matches in the virtual world? If yes, we have got you covered with a brand new soccer challenge where you can practice your favourite sport in a cool friendly environment. This retro style easy and simple football match will definitely help you to revive all the moments that you lived up on the real playground. And, you would like to try it out in your nearby ground if you are a kid who is trying this game first time.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">There are three unique and challenging modes to master in this HTML5 soccer game. Score 3 goals first to make your country win and feel proud on you! Play alone or against your friend as per your desires! Use the â€˜Wâ€™ and â€˜Up Arrow Keyâ€™ of the mouse or touch the screen of your mobile phone to play this cool football match game! Your command over how you control your players will help to win the match. Play some exciting matches against your computer or invite your friends to have fun!</span></div><div><span style=\"font-size: 13.3333px;\">Play wisely to earn points to move to the next level and allow yourself to play with multiple balls! This amazing soccer game features variety of balls, simple and addictive gameplay, a variety of modes like 1vs1, 2vs2, 1vsAI, 2vsAI other! Good luck to make some good records on the table to become the number 1 player in the world! Check out some more free sports games on atmegame.com to keep you engrossed for hours!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/d05b5fb9fd8441f7b2b240017100ad89/\r\n",
+      "metaTitle": "Pixel Soccer, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pixel Soccer at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Pixel Soccer Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524808838.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10474,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-10-27T06:26:35.335Z",
+      "__v": 0,
+      "mobileControlKeys": "ICONS IN THE SCREEN TO MOVE",
+      "webControlKeys": "ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
