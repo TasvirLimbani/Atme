@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c261",
+      "id": 6014,
+      "name": "Puppy Blast",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "puppy-blasts",
+      "image": "6014",
+      "url": "puppy-blasts",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Puppy Blast is an awesome fun-filled arcade game with hundreds of challenging puzzles. In this brand new free online game, you will have to get a chance to play with a cute puppy. Keep solving different puzzles, tapping the same color blocks to remove them, finding some bombs to have a have blast. Each level comes with unique challenges and rewards. Play this puzzle-based game with full of attention and show the world that you are a champion of solving any kind of complex puzzles! Challenges increase as soon as you move to the advanced level of the game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Tap at least 2 same color blocks to remove them. Once it’s done, remove 10 same color blocks to attain the target. In the second level, you have to tap 5 adjacent same color blocks and see what will happen. When you are done, feel free to try out the power of Missile. You can also combine 5 or 6 same-color blocks into a Missile. You can remove a row or column of blocks using a missile. Tap to skip and move to the advanced level. Use your puzzle-solving skill to complete each level with a score of 3 stars.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your good performance in this cool puzzle game will allow you to receive different rewards meanwhile. Keep accepting and unlocking them and get ready to attain some gold and power-ups! Make sure to complete each level with 3-star performance to secure more rewards in the future. In the third level, you will have to tap 7 same color blocks. Once you are done, a bomb will be made for you. Tap on it to clear all the near-by blocks in this addictive HTML5 game. Reach 10 level and boost your energy performance for 2h.&nbsp;</span></div>",
+      "size": 480,
+      "height": 850,
+      "script": "https://html5.gamedistribution.com/9693bf0e73cb4e29a1ead7ddfc5274b6/",
+      "metaTitle": "Puppy Blast, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Puppy Blast at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Puppy Blast, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 289,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 100465,
+      "ownGame": false,
+      "addDate": "2019-07-06T11:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.757Z",
+      "updatedAt": "2025-01-04T23:39:30.580Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE MATCHING TILES TO BRUST",
+      "webControlKeys": "LEFT CLICK ON M,ATCHING TILES TO BRUST"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 70
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
