@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd20",
+      "id": 4520,
+      "name": "Bloxorz Roll the Block",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "bloxorz-roll-the-block",
+      "image": "4520",
+      "url": "bloxorz-roll-the-block",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you think that your puzzle-solving abilities are matchless? Are you a lover of blocks and platform games? Join Bloxorz: Roll the Block and get ready to help a red block to find out a way to its destination by rolling on the platforms! It sounds easy to navigate the block to the red color destination, but will find it pretty challenging to complete all the tricky puzzles. The higher level you reach, the more difficult the game will become.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this brand new arcade game is to move the wood blocks to the designated location. Take your brain power to move your block forward, back and forth! Rotate it until you find out the right position for your block while making sure that it does not fall off the edge! Guide your block to spot the best possible route with the help of your spatial skills! Your only a few successful efforts can reward you with some cool block skins along the way.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Use the hints to solve out the puzzles in case if you are stuck or get confused during the gameplay! There are 100 unique and engaging levels to play through and a variety of block skins to grab. The stunning colorful 3D graphics and seamless gameplay will be enough to keep you engrossed for hours. Check out more 3D puzzles games for boys and girls that are free to play online, no download required!&nbsp;&nbsp;</span></div>",
+      "size": 800,
+      "height": 590,
+      "script": "\nhttps://html5.gamedistribution.com/aa0711ee3f784e54b6c5008bf9fac337/\n",
+      "metaTitle": "Bloxorz Roll the Block, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bloxorz Roll the Block at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Bloxorz Roll the Block Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527121.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8882,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-04-02T11:33:22.885Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ALL ARROWS TO MOVE , SPACE- NEXT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
