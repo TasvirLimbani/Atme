@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b219",
+      "id": 1462,
+      "name": "NSR Thanksgiving Day 2017",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "nsr-thanksgiving-day-2017",
+      "image": "1462",
+      "url": "nsr-thanksgiving-day-2017",
+      "description": "New Escape Games Play now",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=0b817144a8bf4a24982e6f261e92f40c\r\n",
+      "metaTitle": "NSR Thanksgiving Day 2017, Escaping Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game NSR Thanksgiving Day 2017 at atmegame.com ! We have selected this escaping games for best excitement and thrill in you!",
+      "metaKeyword": "NSR Thanksgiving Day 2017 Game, Action Games, Escaping Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517899654.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7422,
+      "ownGame": false,
+      "addDate": "2018-02-06T12:17:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.689Z",
+      "updatedAt": "2023-11-08T12:43:34.540Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
