@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3ce",
+      "id": 6460,
+      "name": "Police Car Chase",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "police-car-chase",
+      "image": "6460",
+      "url": "police-car-chase",
+      "description": "<div>Escaping from police is something that could stimulate the production of adrenaline in some people! Hey! You are not going to do it in the real world, but our brand new adventure challenge will allow you to practice it in the virtual without hurting yourself and other people around you. Grab your car and be prepared to witness the biggest cop vehicle chase in the history ever done in Police Car Chase! Do anything you can do to keep your vehicle away from the police cars!</div><div><br></div><div>Make sure to collect as much cash as you can while driving in this HTML5 running game. The collection of enough cash will help you to purchase new car. Keep your eyes on the screen and try to avoid other vehicles and obstacles like stones to drive continuously! If you hit any vehicle directly, a collision will take place and you will lose the game immediately. Take proper control of your lovely vehicle in a wider driving environment to explore it perfectly.</div><div><br></div><div>There will not be a track to drive, but you will find a ground to race your vehicle. The higher money you will collect and the longer you will stay; higher score you will be to make in the end. It is time to practice driving and drifting skills to create your high score in this cool police game. Check out other popular best police car simulators and allow yourself to enjoy a matchless car escaping experience!</div>",
+      "size": 850,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/baddd0393bb549daa2a6230533a881e5/\r\n",
+      "metaTitle": "Police Car Chase Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Police Car Chase at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Police Car Chase Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7273,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2024-03-17T15:57:33.240Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "LEFT RIGHT ARROW TO CONTROL"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
