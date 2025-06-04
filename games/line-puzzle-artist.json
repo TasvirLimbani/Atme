@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c22c",
+      "id": 5926,
+      "name": "Line Puzzle Artist",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "line-puzzle-artist",
+      "image": "5926",
+      "url": "line-puzzle-artist",
+      "description": "<div>Line Puzzle is a beautifully designed brand new arcade game where you will be allowed to move the lines to prepare different fun shapes. This free online HTML5 game is meant for players of all ages. Take as much time as you want and play it anywhere you want. There will be no device limits, no place limits and no time limits when you choose this fun puzzle game. Your job is to draw the pattern as per the mission shape by dragging the lines shown in front of the screen while avoiding the overlapping of any lines.&nbsp;</div><div><br></div><div>Start your free online puzzle game with the tutorial before getting into it. You have to drag the lines and try to make same shapes as shown on the top of your game screen. Feel free to get the support from the hint when you feel that you are stuck in the game! You can go to the previous level by clicking the left arrow button shown at the bottom of the game screen. You can also see there a sign of question mark. Click on that sign to go to the tutorial page where you will learn how to complete the puzzle!&nbsp;</div><div><br></div><div>You will be able to draw different shapes in this free online puzzle game. Once you clear 5 levels, a circle, known as the bonus spinner, will be seen on the screen. Spin the wheel to claim your reward fast. You can also zoom in and zoom out your picture. Click the replay button to play the current level again in your computer, mobile phone or gaming console! Join this widely recommend shapes making game and get ready to create the never ending fun in your own style!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/963b76da55104c8db1eacc6a0ad6121a/\r\n",
+      "metaTitle": "Line Puzzle Artist,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Line Puzzle Artist at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Line Puzzle Artist Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762523.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8751,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.756Z",
+      "updatedAt": "2024-08-21T10:31:45.116Z",
+      "__v": 0,
+      "mobileControlKeys": "DRAG THE LINE TO MAKE THE SAME SHAOPE GIVEN IN PUZZLE BY SWIPE ON SCREEN",
+      "webControlKeys": "DRAG THE LINE TO MAKE THE SAME SHAOPE GIVEN IN PUZZLE BY LEFT CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
