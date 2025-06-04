@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba01",
+      "id": 3692,
+      "name": "Walkrazy",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "walkrazy",
+      "image": "3692",
+      "url": "walkrazy",
+      "description": "This pedestrian is crazy and the only thing that keeps him from being hit is you. Come on, help our Walkrazy survive as much as possible.",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/walkrazy-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Walkrazy, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Walkrazy at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Walkrazy Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7211,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2023-05-12T21:55:33.644Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP RIGHT TO MOVE SLOW,  LEFT TO MOVE FAST",
+      "webControlKeys": "L CLICK OF MOUSE ON  RIGHT SIDE OF SCREEN  TO MOVE SLOW,  LEFT TO MOVE FAST"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
