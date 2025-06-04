@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad68",
+  "category_name": "pool",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad68",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c427",
+      "id": 6551,
+      "name": "Pool 8 Ball",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "pool-8-balls",
+      "image": "6551",
+      "url": "pool-8-balls",
+      "description": "<div>It is time to play something relaxing and exciting! Why do not you try this brand new sports challenge to test your billiards abilities while finding some fun time for you? This is absolutely free and skilled enough to keep you entertained for hours. We are talking about a most played sports game named Pool 8 Ball where your objective is to all balls that you see on the billiard board. Be fast and try to complete your task within the allotted time to score high!</div><div><br></div><div>Grab your cue ball, aim your target and sink all the balls into the hole one by one! Choose from Player Vs Timer or Player Vs Player and get ready to enter the challenging pool environment! Enter the biggest billiard tournament of the city, win some matches and show of the world that you are a champion pool player! Wow! Your every win will reward you with some coins that could help you to make your game more interesting and challenging. Go to the pool shop to customize your cues and cloths with coins!</div><div><br></div><div>Try not to score the cue ball in the pocket in this HTML5 pool game! However, in case if you do it mistakenly, do not bother at all as you would have three chances to stay in the game. Scoring a cue ball causes you one foul pint and you would be out of the game if you make such 3 fouls. Make sure to send the eight-number ball in the last to the pocket to get the maximum score! Good luck to be an expert in no time using several customizable features!</div>",
+      "size": 1180,
+      "height": 665,
+      "script": "https://games.atmegame.com/games/pool-8-ball/",
+      "metaTitle": "Pool 8 Ball Game,  Pool - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Pool 8 Ball at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Pool 8 Ball, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 926,
+      "dislikes": 138,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 256642,
+      "ownGame": true,
+      "addDate": "2020-11-21T15:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-19T06:26:42.360Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO HIT THE BALL",
+      "webControlKeys": "KEEP HOLD AND RELESE THE STICK TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.6",
+      "count": 87
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad68",
+      "name": "pool",
+      "slug": "pool",
+      "icon": "Pool-games"
+    }
+  }
+}
