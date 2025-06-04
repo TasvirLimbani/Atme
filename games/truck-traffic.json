@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b393",
+      "id": 1914,
+      "name": "Truck Traffic",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "truck-traffic",
+      "image": "1914",
+      "url": "truck-traffic",
+      "description": "<div>Truck Traffic is an extremely challenging and interesting truck racing game that is especially known for providing a complete new meaning to the defensive driving. In this exclusively-designed free online racing game, you will have to drive your truck right from start to finish line without crashing. Be focused on what you are doing since plenty of green cars are there to restrict you from moving forward. Use your ultimate driving skills to become a master in this brand new truck driving challenge. </div><div>Avoid all the vehicles that come on your way and drive your vehicle through the busy streets. Make sure that you keep your eyes open while shifting your lane and passing the other vehicles run by the crazy drivers who will try to let you down. Your aim in this best truck racing game is to deliver the goods to the finish line in each level. You can tap controls and arrow keys to drive your vehicle safely. Get ready to rush down the traffic highway and make sure that no one green car can?t get in your way.</div><div>Speed up your truck to the limit in order to have fun dodging the green cars and other unwanted obstacles. High speed drives, overtakes and upgrades are the major features of this popular racing game for boys and girls. Different trucks are there to choose from. Choose the best one to enhance your road performance. We know that clearing all the levels, you will proud on yourself and feel like becoming a king of the road. </div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/b848199d14fa4155b6dda301eb8860c2/\r\n",
+      "metaTitle": "Truck Traffic, Truck Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Truck Traffic at atmegame.com ! We have selected this Truck games for best excitement and thrill in you!",
+      "metaKeyword": "Truck Traffic Game, Racing Games, Truck Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630590.xml",
+      "idealFor": "Man",
+      "likes": 85,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 39967,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2024-04-06T14:52:17.664Z",
+      "__v": 0,
+      "mobileControlKeys": "L-R ICONS TO CONTROL THE CAR",
+      "webControlKeys": "L-R ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 11
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
