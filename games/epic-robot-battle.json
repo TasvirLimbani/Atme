@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4d3",
+      "id": 2248,
+      "name": "Epic Robot Battle",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "epic-robot-battle",
+      "image": "2248",
+      "url": "epic-robot-battle",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is time to try out an action-packed game where you also need to put your brain power to solve the challenge! We have today brought to you a brand new logic game where you have to assemble the most dangerous robots of your city. Do you think that you have the ability to take care of this difficult task right now? Join Epic Robot Battle and be prepared to create your own battle robot that can destroy the whole world on its own!</span></div><div><span style=\"font-size: 13.3333px;\">Be careful and try to complete your task before enemies invade your city! Create a robot by applying your logical mind and get ready to destroy all your enemies like never before in this HTML5 action game! Your enemies are already in a mood of full destruction so do not wastes your time anymore. You are a most important person in the robotic facility where different killing machines are produced regularly. You have again got a chance to create another deadly machine.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">There are two levels to explore through in this cool battle game. In the first level, you have to assemble your own robot by applying your robotic and logical skills. While, the second level welcomes with the most furious battle against AI or your friends. Go through the instructions properly and try to hit your rival as hard as possible! Make sure to keep hitting your opponent until he falls down on the ground. It is up to you whatever you get in the end â€“ victory or death! Good luck!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/37a6dc3464b54f348cb0e37c71234e2a/\r\n",
+      "metaTitle": "Epic Robot Battle, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Epic Robot Battle at atmegame.com ! We have selected this Shooting  games for best excitement and thrill in you!",
+      "metaKeyword": "Epic Robot Battle Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524804977.xml",
+      "idealFor": "Man",
+      "likes": 42,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 16770,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:26:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2024-04-09T05:59:25.065Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE AND DRAG THE ITEMS TO COMPLETE THE ROBOT",
+      "webControlKeys": "KEEP PRESS L-CLICK OF MOUSE AND DRAG TO JOIN THE PIECES"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
