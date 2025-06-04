@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8df",
+      "id": 3375,
+      "name": "Barbie Winter Glam",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "barbie-winter-glam",
+      "image": "3375",
+      "url": "barbie-winter-glam",
+      "description": "Winter is here, and your favorite girl Barbie can not wait to go on a really amazing shopping spree around town to make the most out of the Winter sales. In our new dress up game called Barbie Winter Glam, we have gathered all the best fashion we could find in one place, for you to check out. Barbie loves all the amazing glittery outfits and accessories and is eager to mix and match all of them until she find the perfect combination. In our exciting new Capy.com game called Barbie Winter Glam, you are going to have the power of selecting a really cute Winter outfit for Barbie to wear. Have fun!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/9b993b8b5e6f4281b6f3da0c05c5880c/\r\n",
+      "metaTitle": "Barbie Winter Glam, Dressing Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Barbie Winter Glam at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Barbie Winter Glam Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533533666.xml",
+      "idealFor": "Man",
+      "likes": 94,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 29332,
+      "ownGame": false,
+      "addDate": "2018-08-06T11:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.722Z",
+      "updatedAt": "2023-06-26T01:52:11.679Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS TO MAKEUP , DRESSUP, AND DECORATION",
+      "webControlKeys": "L CLICK OF MOUSE TO MAKEUP , DRESSUP AND DECORATION"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
