@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aefa",
+      "id": 473,
+      "name": "Jungle Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "jungle-run",
+      "image": "473",
+      "url": "jungle-run",
+      "description": "<div>Kiba and Kumba are much eager to explore the jungle and seeking for their favorite dish ? bananas. In this highly exciting and electrifying platform game, your goal is to help these two cute monkeys to find lots of yummy bananas. You will surely have huge fun and feel proud of yourself when you join these two brave monkeys to make their dream come true. Avoid obstacles, dangerous critters and jump over the gaps in this cool adventurous platformer game ? Jungle Run.</div><div><br></div><div>One of the best adventure games to play for both boys and girls, Jungle Run is meant for those who are looking for something unique to try. This free online game features amazing graphics, excellent gameplay and finest controls. Accept the challenge and go farther than any other traveler. In order to clear the golden totems and plans, all you need to do is jump at the right moments. There are higher chances of running out of steps in case if you make too many unnecessary mistakes. Do not forget to gather the compasses along the way to score the higher points.</div><div><br></div><div>In this long adventurous journey of these two monkeys, you are sure to have the unlimited fun and adventure that you have not experienced before. In this fast-paced endless runner game, use your hand-eye coordination skills to go out of the forest before the sun fades away and the dark comes. Do everything right from flying, rolling and jumping over the obstacles through the jungle. Gather items like might power-ups, stars and bananas to make your journey simpler and easier. You can play this incredible platform adventure game for many hours.</div>",
+      "size": 640,
+      "height": 640,
+      "script": "https://play.famobi.com/jungle-run/A-925FD",
+      "metaTitle": "Jungle Run Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jungle Run at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Jungle Run, Adventure, Platform Games, Jungle Run Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 129,
+      "dislikes": 14,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 13052,
+      "ownGame": false,
+      "addDate": "2017-07-17T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.667Z",
+      "updatedAt": "2024-10-26T12:28:51.431Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE UP ON THE SCREEN TO JUMP , SWIPE DOWN TO ROLL",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE "
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
