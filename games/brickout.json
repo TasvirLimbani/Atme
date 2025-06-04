@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1b4",
+      "id": 1341,
+      "name": "BrickOut",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "brickout",
+      "image": "1341",
+      "url": "brickout",
+      "description": "<div>Try to brick out game. Move your paddle back and forth to catch the ball and power-ups as they drop down. Once your destroy all of the lego themed bricks you will move to the next level. Try to complete all 10 fun levels.How to play: Move paddle with finger or mouse</div><div>We have brought you an awesome, beautifully-designed online game suited for both children and families. Join this brand new arcade game and get ready to show off your intense puzzle moves! Your goal in this game is to move the paddle using your mouse to create a bounce of the ball and destroy all the bricks! Try to collect any falling power-ups to get more points in this free online puzzle game! This will also help you move to the advanced level.</div><div>One of the best arcade games for kids, Brick Out includes you want to explore during your free time. To become a master in this game, all you need to do is just play it in your device again and again. There is no chance of getting bored since this cool HTML5 game includes 10 different levels with amazing background and gameplay. Each level is aimed at providing you with the matchless fun and entertainment. You have to use mouse or finger to move paddle.?</div><div>Apply your focus and quick reacting time skill to smash all of the bricks with the help of your paddle and balls in this new aged puzzle game! You can see a global and friends leaderboard where you will be allowed to compete for high scores. Do your best and make your own huge score! You can also check out our all-time top games page in a search for more free arcade games. We hope that all games available on our website are capable enough to kill your boring hours.?</div>",
+      "size": 1160,
+      "height": 640,
+      "script": "https://games.atmegame.com/games/brickout/",
+      "metaTitle": "BrickOut, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game BrickOut at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "BrickOut Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299559.xml",
+      "idealFor": "Man",
+      "likes": 2294,
+      "dislikes": 182,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 775510,
+      "ownGame": true,
+      "addDate": "2018-01-30T13:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.687Z",
+      "updatedAt": "2025-05-01T17:26:03.646Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO DESTROY THE BALL",
+      "webControlKeys": "KEEP PRESS L-CLICK OF MOUSE TO DESTROY THE BALLS"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 258
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
