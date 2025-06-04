@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4bd",
+      "id": 2225,
+      "name": "Speed Rush",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "speed-rush",
+      "image": "2225",
+      "url": "speed-rush",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The best driver in your city and you have no other option than challenging him to prove your driving abilities! It is not going to be as easy and simple as you thought of since this racing competition is going to take place in a very complex rounded track that is surrounded by the mud and other difficulties. Would you think that you are a right candidate for this job? Join Speed Rush and prepared to take a control of a car and ride it through the challenging track!</span></div><div><span style=\"font-size: 13.3333px;\">Multiple obstacles are also waiting for you on the track so make sure to avoid them timely to stay in this brand new racing game. Make sure to complete your laps in the as shortest time as possible to create your best score. Try to keep your car away from the corner area otherwise it will be slow down if it reaches to the mud! You would also start losing control on your car if you come near to the oil.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Remember your car will also get slower in case if it hits the cones in this HTML5 car game. There are multiple unique and challenging levels to play through and different car models to ride. The top left corner of the screen will show you which level you are playing right now. While you can see how many laps you have to complete in this level by keeping your eyes on the bottom left corner of the screen and your time will be showed on the bottom right corner of the screen. Good luck to complete all of the levels to prove yourself again as the best driver of the city!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/3214e50e820c40c9a761ffe398c7273a/\r\n",
+      "metaTitle": "Speed Rush, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Speed Rush at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Speed Rush Game, Action Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524804862.xml",
+      "idealFor": "Man",
+      "likes": 20,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 11965,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:24:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2024-03-31T13:26:30.729Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS- MOVE , RIGHT ICON- CONTROL",
+      "webControlKeys": "ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "1.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
