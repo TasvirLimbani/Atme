@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0c8",
+      "id": 5477,
+      "name": "Moon Defender",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "moon-defender",
+      "image": "5477",
+      "url": "moon-defender",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The meteorites of all sizes have started bombarding the moon. It is important to stop them from falling on the ground. The moon will be destroyed if they collide with the lunar crust of the moon and cause a dangerous lava leak. Being a sharp shooter, you know how to restrict them from reaching the surface of the moon. So, are you ready now to take up this intense challenge? Join Moon Defender and get ready to defend the moon from the deadly lava leak!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this action packed challenge is to destroy all meteorites before they cause any damage on the lunar crust. Use your cannon to accomplish the goal of the game! Try to be very careful since the excessive use of the cannon can cause the barrel heat up! You will only be able to release the fire until the barrel cools down. Make sure to calculate your shots perfectly to ensure your win in this free shooting game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Keep destroying all the waves of enemies and collecting the power-ups to make you powerful to save the entire humanity! You will have the very less time to attack as every enemy will get you closer to the very next wave. Do not waste your ammo when you are on your way to shoot toward aliens, asteroids and various other deadly objects! Collect coins and use them to buy upgrades to get you equipped with advanced wheels and guns! Good luck to save the moon in our cool html5 action puzzle!&nbsp;</span></div>",
+      "size": 500,
+      "height": 700,
+      "script": "https://html5.gamedistribution.com/c9dd7ebd6554428fb6b4d1da83066e7c/\r\n",
+      "metaTitle": "Moon Defender, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Moon Defender at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Moon Defender Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449471.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7507,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:27:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2024-02-07T20:13:11.125Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE STEROIDS TO BRUST",
+      "webControlKeys": "L CLICK OF MOUSE TO HIT AND AIM"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
