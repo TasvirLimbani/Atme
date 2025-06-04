@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c37c",
+      "id": 6374,
+      "name": "City Furious Car Driving Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "city-furious-car-driving-simulator",
+      "image": "6374",
+      "url": "city-furious-car-driving-simulator",
+      "description": "<div>The real car racing fun is here! Join City Furious Car Driving Simulator and be prepared to accept the biggest driving challenge! Tap to choose your vehicle and then get ready to race through the beautifully-designed streets of a city that is surrounded by the awesome natural environment, high buildings and fabulous skyscrapers! No one will come and stop you from driving your chosen sports cars at intense speeds as you will have the full freedom to do anything and go anywhere you want.</div><div><br></div><div>Hey boys! Forget all the traffic rules you have followed as of now and head on to accelerate your vehicle to the optimum speed to enjoy the lovely city roads at full speed! Perform as many stunts as you can to get the matchless adrenaline rush through your veins and show the world that no one can beat you in this HTML5 car game! We are pretty sure that racing through the multiple obstacles will make your heart excited and get some relaxed hours without download.</div><div><br></div><div>Try to avoid other vehicles as you see along the way and do not forget to refill your vehicle when it is out of fuel in this 3D car driving simulator! Everyone wants to see what you can do through your insane driving abilities. Complete missions, avoid other vehicles, earn cash and buy new vehicles and customize them as per your need! Do not hesitate in going to the garage and modifying their front and real suspensions to make your driving experience more exhilarating than ever before in this stunt simulation game. Have fun with your friends!</div>",
+      "size": 960,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/c7079e0356e94137af4ea88212aed4a2/\r\n",
+      "metaTitle": "City Furious Car Driving Simulator Game,  Car Racing - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game City Furious Car Driving Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "City Furious Car Driving Simulator Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842334.xml",
+      "idealFor": "Man",
+      "likes": 56,
+      "dislikes": 9,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 10528,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2025-02-07T15:09:23.762Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,UP ARROW TO SPEED, A,D L-R ARROW TO L-R,SPACE TO STOP,S,DOWN ARROW TO BACK,ALT-PAUSE"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
