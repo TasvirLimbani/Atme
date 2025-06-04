@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bda3",
+      "id": 4651,
+      "name": "Drag Racing 2",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "drag-racing-2",
+      "image": "4651",
+      "url": "drag-racing-2",
+      "description": "<div><span style=\"font-size: 13.3333px;\">sequel of Drag Racing and get ready to experience the highly thrilling racing experience! You have to put your keen focus and share reflexes to the test in Drag Racing 2. Beat your computer opponent and show off the world that you have strong car driving abilities! The cool roads will be your playground so try to put your fingers on the keys to race it like never before.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Drive your vehicle at the highest speeds and leaving your opponent behind by unleashing your internal speed demon in this brand new race game! No need to worries in case if you have to operate your vehicle in the nighttime road as it is full of street lights so you can easily see your opponent. Keep your eyes on the signal and get ready to let your engine roar to reach the finish line first! Time your shift into high gear to win over the other driver in this cool html5 race game! Track the position of yours and your opponent car by keeping your eyes at the top of the screen!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You can find out the dashboard by looking at the bottom part of the screen. That location will show the status of the speed of your car and the gear it is currently in. Make sure to pay attention to the speed pointer to increase the speed of your vehicle. Red, green and blue are the three different sections showed on the speed meter. Do your best to time your clicks and enjoy the winning in race! All the best to win each race and prove the world that you have all the necessary abilities a true racer requires! Race against other expert car drivers in our free and online car games without download!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/876d78e8885f4b6e940fcf8aeff6fb4f/\r\n",
+      "metaTitle": "Drag Racing 2, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Drag Racing 2 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Drag Racing 2 Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544705010.xml",
+      "idealFor": "Man",
+      "likes": 71,
+      "dislikes": 21,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 20420,
+      "ownGame": false,
+      "addDate": "2018-12-13T18:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-11-07T13:20:16.650Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE NIDDLE WHEN IT REACHES ON BLUE SIGNLE ",
+      "webControlKeys": "PRESS SPACE WHEN RACING NIDDLE ON BLUE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
