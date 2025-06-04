@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c05f",
+      "id": 5366,
+      "name": "Furious Adventure 2 trap",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "furious-adventure-2-trap",
+      "image": "5366",
+      "url": "furious-adventure-2-trap",
+      "description": "Entertaining platform game in pure retro style.",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/c57e80a56f934803a9c5a7d8a2f89c71/\r\n",
+      "metaTitle": "Furious Adventure 2 trap,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Furious Adventure 2 trap at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Furious Adventure 2 trap Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352988.xml",
+      "idealFor": "Man",
+      "likes": 24,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9303,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2024-01-26T12:40:05.152Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS -L-R MOVE, RIGHT ICONS-UP DOWN",
+      "webControlKeys": "ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "2.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
