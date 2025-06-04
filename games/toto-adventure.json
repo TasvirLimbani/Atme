@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3d5",
+      "id": 6467,
+      "name": "Toto Adventure",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "toto-adventure",
+      "image": "6467",
+      "url": "toto-adventure",
+      "description": "<div>No idea what to play online? Common friends, try out this latest adventure challenge without wasting your valuable time and allow yourself to have the biggest entertainment without download! You would meet with a cute boy named Toto who has planned to go in a search for the lovely hidden treasures. However, he is too small to handle the challenges available on the running track so he needs help. Join Toto Adventure and be prepared to guide him to reach safely to the treasure in each stage!</div><div><br></div><div>It is not going to be easy at all since many deadly obstacles are waiting for you. There are multiple obstacles to deal with and various blood-thirsty zombies to kill in this HTML5 running game. Jump over the zombies to kill them on the spot and make sure to grab all the keys and coins shown on the screen to clear the level! Hey! Get a chance to unlock the treasure chest that will move to the advanced stage if you grab all the keys!</div><div><br></div><div>Use your focus and quick reflexes to help your character through all the challenging and addictive 24 levels! Try to keep your boy away from the deadly zombies until you achieve your goal! Choose anyone out of 3 characters and begin the most amazing adventure in this action platformer! The higher points you collect, the top position you will secure on the leaderboard in this platform adventure game. Good luck to help Toto spot all the keys to open the wooden treasure box!</div>",
+      "size": 1280,
+      "height": 720,
+      "script": "https://html5.gamedistribution.com/386bc33007df440887f14ac34e9a94a9/\r\n",
+      "metaTitle": "Toto Adventure Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Toto Adventure at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Toto Adventure Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9602,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2024-07-11T22:31:18.895Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS TO L-R, LEFT TO UP DOWN",
+      "webControlKeys": "ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
