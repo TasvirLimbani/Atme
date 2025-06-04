@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c397",
+      "id": 6405,
+      "name": "Police Truck Driver Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "police-truck-driver-simulator",
+      "image": "6405",
+      "url": "police-truck-driver-simulator",
+      "description": "<div>Have you ever dreamt of being a police monster truck driver? If yes, we have got you covered with a brand new racing game where you have to drive a 4x4 police monster truck in a city that is full of various skyscrapers, flyovers, and ramps. Would you like to try it out? Join Police Truck Driver Simulator and be prepared to perform some insane stunts and big jumps on a plenty of high ramps! Turn on the siren and get ready to play the role of a police officer!</div><div><br></div><div>Take your seat behind the best police monster trucks wheel and show off the world that no one can jump off the ramps on a high speed like you! There are multiple police super car models with big tires to explore in the city. Choose your truck out of various options to cruise around the city using your police truck! Challenge your insane driving skills to perform as many stunts and jumps as you can to earn extra points in this HTML5 truck simulator game!</div><div><br></div><div>Get a chance to race different SUV police cars with big tyres by collecting the NOS canisters and unlocking the other advanced police trucks! It takes extra efforts to crush city props with gigantic tyres. This cool driving challenge includes an awesome realistic 3D city environment, fabulous ramps and jumps, simple controls, super cool graphics, no limit of action stunts as well as lots of exciting modified cars and bus with big tyres. The best part is that it is free to download simulator game. Have a blast with your friends and families online!!</div>",
+      "size": 960,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/5a79cd428fe246c69e89389cf57d2d08/\r\n",
+      "metaTitle": "Police Truck Driver Simulator Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Police Truck Driver Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Police Truck Driver Simulator Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842458.xml",
+      "idealFor": "Man",
+      "likes": 93,
+      "dislikes": 10,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 10317,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2025-05-02T17:26:53.273Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,UP ARROW TO SPEED, L-R ARROW,A,D TO L-R, S, DOWN ARROW- BACK,SPACE -BREAK,C-CHANGE THE VIEW,L ALT-PAUSE"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
