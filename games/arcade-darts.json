@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb9c",
+      "id": 4127,
+      "name": "Arcade Darts",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "arcade-darts",
+      "image": "4127",
+      "url": "arcade-darts",
+      "description": "<div>Do you consider yourself a sharp target shooter? If so, joining this brand new arcade challenge will challenge your aiming and shooting abilities to the extreme level possible. Grab your darts and get ready to aim the center of the target to score high in Arcade Darts! Common boys! We are pretty sure that you have the skills to hit right at the center of the dartboard and become the master of it. Do not let us feel down.</div><div><br></div><div>Make sure to score more points by hitting the bonus symbols while avoiding the bombs to stay in this HTML5 skill game. Remember you have a limited period of time to score points. Try to aim horizontally and then focus on playing vertically. You would have only 10 darts to use so make sure to be careful while aiming your target. Choose your position and then release your dart to see how accurate you behave on a dartboard!</div><div><br></div><div>Hitting the blue portion of the dartboard will allow you to earn 10 points, green will give you 25, orange will give 50 and the center and red color portion will give you 100 points. Once you aim your target, make sure to use the power bar safely. Remember you will lose your game if your dart goes out of the dartboard. Good luck to hit more and more darts at the center to create your best high score! Play free arcade challenges on atmegame.com and have fun without download!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/e2eeaeb41ece46f08f11f557669f0760/\n",
+      "metaTitle": "Arcade Darts Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Arcade Darts at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Arcade Darts Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "All",
+      "likes": 37,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13255,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2025-02-13T15:24:21.326Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO ADJUST THE FORCE AND SHOOT",
+      "webControlKeys": "KEEP PRESS L-CLICK OF MOUSE TO ADJUST THE FORCE AND RELEASE TO AIM"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": null
+  }
+}
