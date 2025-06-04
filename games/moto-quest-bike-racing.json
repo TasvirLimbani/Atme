@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad75",
+  "category_name": "bicycle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad75",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c312",
+      "id": 6215,
+      "name": "Moto Quest Bike racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "moto-quest-bike-racing",
+      "image": "6215",
+      "url": "moto-quest-bike-racing",
+      "description": "<div>The grand motorbike competition is going to take place in your city! Would you like to participate, win and make people feel proud on you? Join Moto Quest Bike Racing and be prepared to race against several opponents! This brand new racing challenge is to all those who love moto, racings and retro games. Your intense driving abilities will help you get through all the complex obstacles and go to the next opponent and unlock new bikes.</div><div><br></div><div>The better you control your motorbikes the higher score you will score in the end of each level. Do not forget to repair and upgrade your motto and buy new motorbikes by giving your nice performance in the present level. Play the sole mode or compete in duel races in the Versus mode in this DRAG RACING game! Beat all your rivals to make your motorbike more powerful in this classic retro-style motorcycle racing game!</div><div><br></div><div>The 12 unique biker clans, super-animated pixel graphics and a squad of 72 opponents will keep you engrossed for hours. There are multiple new vehicles to unlock with the help of coins you collect by performing well. Send all your opponents on the back foot seat and become the king of some epic bike races in this cool HTML5 bicycle game! There are 60 real motorbikes, easy to understand race statistics, and 25 items to upgrade per motorbike. Good luck to play like a pro and wear the crown of a motorbike champion!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/e260f8ba80b449a6817f60ee0248255d/\r\n",
+      "metaTitle": "Moto Quest Bike racing Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Moto Quest Bike racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Moto Quest Bike racing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1577256049.xml",
+      "idealFor": "Man",
+      "likes": 172,
+      "dislikes": 40,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 27164,
+      "ownGame": false,
+      "addDate": "2019-12-25T12:10:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2025-05-11T10:00:23.321Z",
+      "__v": 0,
+      "mobileControlKeys": "INSTRUCTION BUTTONS GIVEN IN THE SCREEN ",
+      "webControlKeys": "INSTRUCTION BUTTONS GIVEN IN THE SCREEN "
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 12
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad75",
+      "name": "bicycle",
+      "slug": "bicycle",
+      "icon": "bicycle-racing-games"
+    }
+  }
+}
