@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8aa",
+      "id": 3309,
+      "name": "Summer Beach Outfits",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "summer-beach-outfits",
+      "image": "3309",
+      "url": "summer-beach-outfits",
+      "description": "Prepare our princesses for a beach fashion show.Start by applying makeup on our girls,make them look good and then take care of their outfits. Choose from many fashion items and create amazing beach fashion outfits! Have fun playing Summer Beach Outfits !\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/6621272e14b54bac9bcc605521dcfab0/\r\n",
+      "metaTitle": "Summer Beach Outfits, Dressing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Summer Beach Outfits at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Summer Beach Outfits Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533533402.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 9983,
+      "ownGame": false,
+      "addDate": "2018-08-06T11:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.722Z",
+      "updatedAt": "2023-06-13T17:44:29.925Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS TO DRESSUP AND MAKEUP",
+      "webControlKeys": "L CLICK OF MOUSE TO DRESSUP AND MAKEUP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
