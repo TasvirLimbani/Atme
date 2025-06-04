@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bffb",
+      "id": 5265,
+      "name": "Ninja Wall Runner",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "ninja-wall-runner",
+      "image": "5265",
+      "url": "ninja-wall-runner",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Ninja games appeal and excite many due to their strong storylines and seamless gameplay. Today we have brought to you a brand new online challenge where you see your favorite ninja completing his adventurous trip in a unique style. He wants to cover the maximum possible distance on a track that is full of obstacles. We hope that you join him and provide your valuable assistance to make a new record in this free 2d style running game. Put your sharp reflexes to challenge to get you through all the hurdles.</span></div><div><span style=\"font-size: 13.3333px;\">Tap the screen to jump to the opposite sides of wall to avoid the obstacles. Get ready to jump back and forth and cover the maximum possible distance by climbing as high as possible before leaving your home. The entire track is full of dangerous spikes. Be ready to earn points while jumping over the obstacles in this platform arcade game. Do not bother you are playing the role of a ninja who is blessed with many matchless abilities.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Click on the screen and be prepared to control your character on the two opposite walls. Hitting any of the obstacles will kill your character and you will get out of the game immediately. You can easily avoid the death through your timely clicks. See the top left corner of the screen and know how many gems you have earned so far. You can purchase new and different character skins with the help of gems you collect on your way. Play like a true ninja warrior and earn highest score in this cool html5 runner game without download.&nbsp;</span></div>",
+      "size": 960,
+      "height": 960,
+      "script": "https://html5.gamedistribution.com/4b4cc06e329d4566b2c57dd38ba47a17/\r\n",
+      "metaTitle": "Ninja Wall Runner,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ninja Wall Runner at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ninja Wall Runner Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352253.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8293,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:07:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.748Z",
+      "updatedAt": "2024-03-15T21:49:56.402Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO CHANGE THE SIDE",
+      "webControlKeys": "L CLICK TO CHANGE THE SIDES"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
