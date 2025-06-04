@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b340",
+      "id": 1811,
+      "name": "Snow Truck Extreme",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "snow-truck-extreme",
+      "image": "1811",
+      "url": "snow-truck-extreme",
+      "description": "Winter is a very challenging season when it comes to driving, but if you are skilled enough the snow and ice will not stand a chance against your awesome truck! Make sure you are fast enough and you do not lose and fuel or speed on the way. It will be snowing the entire time and there are also some very terrifying yeti creatures attacking you, while you are going up the slippery mountain. There are four areas to travel in and your goal is to reach the end of the distance. Good luck!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=a8166da05c5a094f7dc03724b41886e5\r\n",
+      "metaTitle": "Snow Truck Extreme, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Snow Truck Extreme at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Snow Truck Extreme Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630155.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8453,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2024-01-11T04:23:56.585Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
