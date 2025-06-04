@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb38",
+      "id": 4025,
+      "name": "Speedy Math Race",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "speedy-math-race",
+      "image": "4025",
+      "url": "speedy-math-race",
+      "description": "<div><div>Do you think that you are the best mathematical puzzle solver? Are you also a car racing freak? If yes, Speedy Math Race is a right platform to stay with. Choose the time duration and get ready to test your match skills and compete against the top racers from across the world! Different math equations will keep displaying on the screen time to time until the timer runs out. Try to tap the right number to answer all the match questions correctly!&nbsp;</div><div><br></div><div>Wow! Your car will move forward for every correct answer so the only way to win race against your opponents is to give as many correct answers as you can within the chosen time frame. Practice different mathematical operations including attraction, subtraction, division and multiplication in this HTML5 car game! Try to solve different equations as fast as you can before the time runs out to beat all of your opponents! Select any of the four operations and enter this mental challenge in a friendly environment!</div><div><br></div><div>There are two modes in every mathematics operation that include 60 seconds and 120 seconds mode. In the 60 seconds mode, you will score 10 points for your every correct answer, while you would be able to get 5 points for every correct answer in the 120 seconds mode. The top of the screen will show you the equation while the middle screen will show you ten different answers for each question. Good luck to earn as many points as you can before the timer expires! Check out various free math games on our website and have fun alone or with your friends without download!</div></div>",
+      "size": 960,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/672875c10f3e4d3d95f8fa6dbccdda6e/\r\n",
+      "metaTitle": "Speedy Math Race, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Speedy Math Race at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Speedy Math Race Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951839.xml",
+      "idealFor": "Man",
+      "likes": 25,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11693,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2025-04-24T04:03:57.825Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CORRECT ANSWER TO MOVE FAST",
+      "webControlKeys": "CLICK ON THE CORRECT ANSWERS TO SPEED UP"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
