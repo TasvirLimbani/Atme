@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bae5",
+      "id": 3941,
+      "name": "Goal! Goal! Goal!",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "goal-goal-goal",
+      "image": "3941",
+      "url": "goal-goal-goal",
+      "description": "<div>This latest sports game can be a fun treat for all the hardcore soccer/football fans. Would you try it out and prove your soccer skills? Join Goal! Goal! Goal! and be prepared to play some right shots with the appropriate timing to make some good scores! All it takes tricking the goalkeeper to make your adrenaline pumping. Hey! The crazy crowd is waiting to play some fantastic shots from your hand and your team needs you to win in the biggest soccer championship.</div><div><br></div><div>Practice your skills to drill the soccer ball into the side netting and it will be enough to make you a real soccer player! There is no need to take any unwanted pressure, but a single miss can cause you a loss in this cool football game. Making up the ten goals in a row will help to rack up a high score. If you miss your shot, feel free to change your angles to aim for a perfect shot.</div><div><br></div><div>This awesome soccer game can be surprising funny for all the players with different age groups. Select the players of your choice to prepare your team and get ready to get participated in the popular soccer championship! This fabulous game features the lovely mechanics, power up and other fancy powers. Make some goals to get the enough points to buy new balls and power ups to make your gameplay quite interesting and engaging! We through atmegame.com will take you to a huge world of free online games that will help to enjoy the spirit of multiple sports in your own style.&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/goalgoalgoal-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Goal! Goal! Goal!, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Goal! Goal! Goal! at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Goal! Goal! Goal! Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9671,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2025-03-30T08:50:36.365Z",
+      "__v": 0,
+      "mobileControlKeys": "CONNECT TWO OR MORE DONUTS OF SAME KIND ",
+      "webControlKeys": "CONNECT TWO OR MORE DOUNTS OF SAME KIND BY L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "2.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
