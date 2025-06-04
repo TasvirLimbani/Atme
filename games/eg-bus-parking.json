@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf82",
+      "id": 5137,
+      "name": "EG Bus Parking",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "eg-bus-parking",
+      "image": "5137",
+      "url": "eg-bus-parking",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you an addict of playing bus parking games? If yes, EG Bus Parking is perfect for you. Take your seat on the steering-wheel and get ready to park a cool and beautifully-designed bus in your own style! Be focus on implementing your best parking skill to complete mission in each level in this one of the top racing games! Check out the game details in advance to avoid making any silly mistakes and park your bus in the shortest possible time as the needles of the watch is also running fast on the screen!</span></div><div><span style=\"font-size: 13.3333px;\">Right from the steering wheel to the accelerator and break, you will find its all controls on the screen. Make sure to drive your vehicle and park it at the right position to complete each level with the highest score. Each successful parking effort will bring some points when you finish the level in this 3D bus parking game. Use those points to upgrade your vehicle and make your gaming experience more interesting and engaging!</span></div><div><span style=\"font-size: 13.3333px;\">Be prepared to have a great fun when you get a wonderful chance of becoming the best 3D bus driver in this cool html5 mobile game! In case of feeling bored, you can try out our other popular 3D parking games and 3D car games for free, no download required. We guarantee to offer you the best fun at a single place without asking you to install any other apps or software that might occupy huge space on your device. Good luck to have the best time ahead!!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/13ebc9c756b547f787b58858ea1f7d29/\r\n",
+      "metaTitle": "EG Bus Parking,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EG Bus Parking at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "EG Bus Parking Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545466.xml",
+      "idealFor": "Man",
+      "likes": 94,
+      "dislikes": 15,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 42232,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:14:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2025-04-19T16:21:31.270Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W-SPEED,A,D -L -R MOVE,S-BREAK,C-CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
