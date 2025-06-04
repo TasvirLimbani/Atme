@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c156",
+      "id": 5642,
+      "name": "Cube City Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "cube-city-racing",
+      "image": "5642",
+      "url": "cube-city-racing",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Get ready to enjoy a unique driving experience by joining a brand new car game, Cube City Racing! Here you will get a wonderful driving pleasure with cubic cars that look exclusively pretty and attracting! Put all your driving skills to challenge to become a winner in the cube world! Begin this free online game with the selection of your favorite cubic car! Once you are done, get ready to choose a mode you want to explore your game.?</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The road is full of traffic, so it is important to drive your car carefully in order to avoid the collision and cover as much distance as you can. The time has come when should take your place in the traffic! It is up to you what game mode you want to go with! Enjoy a pleasure of driving freely on the road or take a chance to explore the super exciting moments with different game modes! Start this cool HTML5 game with the one player and then you can play the two player mode!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Press ?W, A,S,D? and ?Left Shift? if you love to explore the Player 1 and use ?Arrow Keys? and ?Right Shift? if you want to enjoy Player 2! In case of finding this game a little bit interesting and challenging, you are feel free to check out other car racing games for kids at our free online game website. We are damn sure that this activity will surely help you get connected with a car game you can keep that playing for long hours. Good luck to browse our extensive list of free internet games!</span></div>",
+      "size": 1120,
+      "height": 700,
+      "script": "https://html5.gamedistribution.com/1321a9c435ed41a6a08510de2dc00566/\r\n",
+      "metaTitle": "Cube City Racing,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cube City Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Cube City Racing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1555400796.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7374,
+      "ownGame": false,
+      "addDate": "2019-04-16T13:16:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.753Z",
+      "updatedAt": "2022-08-23T23:21:30.168Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
