@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682baca",
+      "id": 3913,
+      "name": "Kick Cup",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "kick-cup",
+      "image": "3913",
+      "url": "kick-cup",
+      "description": "You are a young soccer player and your aim is to do as many goals as you can… but that is not all&#33; Try to match the balls of the same colour everytime you succed to avoid the goalkeeper and make them disappear&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/kick-cup-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Kick Cup, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Kick Cup at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Kick Cup Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 33,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12276,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2024-07-22T12:15:33.555Z",
+      "__v": 0,
+      "mobileControlKeys": "HOLD AND SLIDE FINGURE TO AIM, RELESE TO SHOOT THE BALL, MATCH THREE OF THE SAME COLOR T6O REMOVE THEM",
+      "webControlKeys": "KEEP PRESS AND HOLD TO AIM, RELESE TO THROW THE BALL TO GOLE"
+    },
+    "rating": {
+      "rating": "2.6",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
