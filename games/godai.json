@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba1b",
+      "id": 3721,
+      "name": "Godai",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "godai",
+      "image": "3721",
+      "url": "godai",
+      "description": "In Godai you are in control of the elements! Fuse elements together to unlock their evolution, gain power ups and complete the objective of every level!",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/godai-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Godai Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Godai at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Godai Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7017,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2023-11-27T04:37:18.710Z",
+      "__v": 0,
+      "mobileControlKeys": "FUSE TWO ELEMENTS OF SAME KIND TO GET ITS EVOLUTION,FUSE TWO SHADDO ELEMENTS TO FILL THE POWER UP BAR TO ACTIVATE IT BY SWIPING ON SCREEN ",
+      "webControlKeys": "FUSE TWO ELEMENTS OF SAME KIND TO GET ITS EVOLUTION,FUSE TWO SHADDO ELEMENTS TO FILL THE POWER UP BAR TO ACTIVATE IT BY SWIPING ON SCREEN BY LEFT CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
