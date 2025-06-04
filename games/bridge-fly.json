@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bdfd",
+      "id": 4742,
+      "name": "Bridge Fly",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "bridge-fly",
+      "image": "4742",
+      "url": "bridge-fly",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Your character is ready to reach from one platform to another. But, he is unable to create a bridge between the two platforms. Do you think that you are strong enough to prepare an appropriate bridge and help him to cover the maximum distance in this brand new adventure challenge? Join Bridge Fly game and be prepared to build as many bridges as you can to create the highest score! You can cover the distance between the two platforms through a rope.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Use your mouse or tap the screen to create the rope and cross the bridge in this free online platform challenge!&nbsp; Try to prepare the appropriate bridges only since too big and too short bridges could make you fall between the gaps! We can understand that you might this cool html5 puzzle challenge a little bit tricky initially, but playing it several times in your PC, tablet or smartphones will help become a master of it. Pay attention to the details and go as far as you can to break your own record!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The gameplay of this cool platformer mobile game is very simple and easy and you can have fun without downloading games. Open up your PC or smartphone and get ready to enjoy it without compromising on your comfort level! No need to get bothered in case if this does not suit your interest as our website features a greater collection of cool skill games for kids that are free to play. All the best to have a blast online!!</span></div><div><br></div>",
+      "size": 480,
+      "height": 854,
+      "script": "https://m.shtoss.com/game/bridge-fly/index.html",
+      "metaTitle": "Bridge Fly, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bridge Fly at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Bridge Fly Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7278,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.741Z",
+      "updatedAt": "2023-12-18T11:39:41.667Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRES AND HOLD TO CREATE THE STICK RELESE TO MAKE THE WAY",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO CREATE THE STICK OF PERFECT SIZE, RELESE TO MAKE THE WAY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
