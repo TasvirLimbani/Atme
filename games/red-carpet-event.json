@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8b2",
+      "id": 3317,
+      "name": "Red Carpet Event",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "red-carpet-event",
+      "image": "3317",
+      "url": "red-carpet-event",
+      "description": "Our princess and her Prince are going to a special Red Carpet event where they will meet other princesses and royal characters.Help our beautiful princess with the make up and dress up.Start by taking care of her make up,make her look beautiful and then choose the perfect outfit by picking from many trendy clothes items!Have fun playing Red Carpet Event!\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/baf4cd7c8a3843118ae1c53c458a4158/\r\n",
+      "metaTitle": "Red Carpet Event, Dressing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Red Carpet Event at atmegame.com ! We have selected this dressing games for best excitement and thrill in you!",
+      "metaKeyword": "Red Carpet Event Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533533402.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8339,
+      "ownGame": false,
+      "addDate": "2018-08-06T11:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.722Z",
+      "updatedAt": "2022-09-04T09:57:31.465Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON TH EITEMS TO DRESSUP AND MAKEUP",
+      "webControlKeys": "L CLICK OF MOUSE TO MAKEUP AND DRESSUP"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
