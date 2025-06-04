@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c07f",
+      "id": 5399,
+      "name": "Xtreme Bike",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "xtreme-bike",
+      "image": "5399",
+      "url": "xtreme-bike",
+      "description": "Grab the maximum points on your bike and avoid to drop!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/f9c665d6b9a34e249bb4edc00a55140e/\r\n",
+      "metaTitle": "Xtreme Bike,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Xtreme Bike at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Xtreme Bike Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552278458.xml",
+      "idealFor": "Man",
+      "likes": 2079,
+      "dislikes": 209,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 439125,
+      "ownGame": false,
+      "addDate": "2019-03-11T09:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2025-06-01T20:04:35.114Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICON TO SPEED UP, L ICON TO BALANCE",
+      "webControlKeys": "R ARROW TO SPEED, L ARROW TO BALANCE"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 171
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
