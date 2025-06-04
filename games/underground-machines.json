@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b2f4",
+      "id": 1722,
+      "name": "Underground Machines",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "underground-machines",
+      "image": "1722",
+      "url": "underground-machines",
+      "description": "Understand the complex mechanism of a great workflow by taking turn to drive some powerful underground machines: a truck, a crane and a bus. In each level you will have a different mission to complete and you will have to drive your truck against time, to transport workers and ores, to collect ores in your crane, to pick up workers in a bus or to deliver ores to factories. There are nine amazing levels available! Have a great time playing Underground Machines!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=7e83722522e8aeb7512b7075311316b7\r\n",
+      "metaTitle": "Underground Machines, Truck Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Underground Machines at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Underground Machines Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629269.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8304,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:44:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.695Z",
+      "updatedAt": "2024-02-04T07:41:46.763Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
