@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf4b",
+      "id": 5081,
+      "name": "Pou Drives To Go Shopping",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "pou-drives-to-go-shopping",
+      "image": "5081",
+      "url": "pou-drives-to-go-shopping",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Pou loves rushing the market and shop for their needful utensils and trendy clothes and other useful accessories when he has some free time. Today he has again decided to go on a new shopping adventure on his newly purchased car. However, someone has stolen all his money from his pocket, so he needs your help. Do not worry friends; you do not have to give him money from your pocket. All you need to do is go with him and collect gold coins on the way.</span></div><div><span style=\"font-size: 13.3333px;\">Yes, luckily path that goes to the store is full of gold coins. Do you want to help him out when nobody is here to provide him assistance? Join Pou Drives To Go Shopping and be prepared to help him grab gold coins that would help him make his day! Do not forget to avoid the obstacles on the street otherwise you will lose your game immediately. Keep collecting coins until you earn enough money to buy new hat, shoes and clothes in this html5 racing game!</span></div><div><span style=\"font-size: 13.3333px;\">Try to help him find the suitable items for him when you get the enough money for shopping! He will surely be thankful for your kind work. All the best to collect the fixed coins as fast as you can and send him to the shopping mall! Check out more shopping games and car games online on atmegame.com and get a pleasure to have a blast online, no download required. You can play our mobile game anytime whenever you want.</span></div>",
+      "size": 504,
+      "height": 800,
+      "script": "https://gamegirl.co/game/pou-drives-to-go-shopping/index.html\r\n",
+      "metaTitle": "Pou Drives To Go Shopping,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pou Drives To Go Shopping at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Pou Drives To Go Shopping Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546118979.xml",
+      "idealFor": "Man",
+      "likes": 29,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11250,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-03-16T01:58:06.840Z",
+      "__v": 0,
+      "mobileControlKeys": "UP DOWN ICONS TO MOVE",
+      "webControlKeys": "UP DOWN ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
