@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2c6",
+      "id": 6131,
+      "name": "Tank Wars",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "tank-wars",
+      "image": "6131",
+      "url": "tank-wars",
+      "description": "<div>This time you have planned to lead a tank that is loaded with the full of ammunition! Hey! You cannot take your steps back once you enter the biggest tank battle of your life. Are you still ready to enter this highly challenging war? If yes, playing Tank Wars can prove to be a nice bet for you. Do not take your opponents easily as their tanks are also equipped with the best of weapons. Hence, the only way to win fight is to apply both terrain and bonuses when needed.&nbsp;</div><div>Make sure to use the terrain as camouflage and protection to conduct your mission timely before it is too late.</div><div><br></div><div>Completing each level successfully will allow you to get some bonuses through which you can buy new weapons! Fight like a champion and show off the world that you are skilled enough to turn enemies into wreckage! Common, fighters! Winning has been very important for you so it is necessary to put your 100 percent efforts in this HTML5 shooting game.</div><div><br></div><div>Choose from any difficulty level out of four options including easy, normal, medium and hard! In each mode, you would 10 unique and addictive levels to play through. Guide your tank through all the levels with the help of lives available at your own hand! Complete your war as fast as you can to score higher in the end! Good luck to complete more engaging fights today with us and tell the world that you are the biggest fighter on this planet!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/tank-wars/",
+      "metaTitle": "Tank Wars, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tank Wars at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Tank Wars Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442954.xml",
+      "idealFor": "Man",
+      "likes": 795,
+      "dislikes": 27,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 407023,
+      "ownGame": true,
+      "addDate": "2019-09-26T01:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-01-23T05:34:48.776Z",
+      "__v": 0,
+      "mobileControlKeys": "KEYWORDS GIVEN",
+      "webControlKeys": "ALL ARROWS OR W,A,S,D TO MOVE AND SPACE TO HIT"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 114
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
