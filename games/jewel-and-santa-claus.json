@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c383",
+      "id": 6382,
+      "name": "Jewel And Santa Claus",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "jewel-and-santa-claus",
+      "image": "6382",
+      "url": "jewel-and-santa-claus",
+      "description": "<div>We are happy to bring you a brand new arcade challenge where you get a chance to spend some good time with your favourite Santa. You would not say no to play this online game as your lovely and cute Santa needs your help this time. Without wasting your time, join And Santa Claus, clear all the levels and show off the world how love and care you have for Father. Guide him to overcome all the obstacles that are trying to stop him from reaching his home!</div><div><br></div><div>Your objective in this brand new arcade challenge is to help Santa Claus to come back to his wood home. When you click the play button, you would see plenty of jewel-obstacles between him and his sweet home. Your job is to break the jewel-obstacles in a way so that he can finally reach on the wood board. Click or tap on the objects to make them disappear from the screen and finally put Santa on the board in this HTML5 puzzle challenge!</div><div><br></div><div>There are 30 unique and addictive levels to play through for players of all ages without download. And, the best part is that you can play any level anytime without even clearing the previous one. Use your brain and puzzle-solving abilities to guide Santa through all the levels and show the world that you love and respect you have for them! Do not worry if you get bored as our website is full of free Christmas games where you can see Santa with different looks and objectives.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/46eee09255f440e090efa4c78c2ae9da/\r\n",
+      "metaTitle": "Jewel And Santa Claus Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Jewel And Santa Claus at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Jewel And Santa Claus Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842334.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7089,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2024-04-07T10:49:12.132Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO BREAK THE BRICKS/TRY TO MAKE BALANCE",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO BREAK THE BRICK, TRY TO BALANCE SANTA"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
