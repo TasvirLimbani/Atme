@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b65b",
+      "id": 2700,
+      "name": "Zombie Blockfare of Future",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zombie-blockfare-of-future",
+      "image": "2700",
+      "url": "zombie-blockfare-of-future",
+      "description": "<div>Let your action skills revive with the amazing Zombie Blockfare of Future, which is a highly challenging 3D first person shooter in which you will be allowed to explore the blocky world. This brand new pixelated zombie game provides you with a wonderful opportunity to fight against other dangerous online players. Search through the available games in the main menu and choose any that includes open slots. Select from a few different game modes. Team deathmatch is the most common mode. </div><div><br></div><div>There are nine different weapons through which you can get yourself ready to unleash the destruction on your powerful enemies in this free online action game for boys. A pistol, a machine gun, a knife and even a devastating rocket launcher are the four important weapons used in the battle. Apart from exploring the standard modes like TDM, you are also allowed to play a zombie survival mode where you have to kill the maximum possible zombies with the help of other players. </div><div><br></div><div>Get ready to show your intense fighting moves by jumping into the blocky arena today! Developed by Mentolatux, Zombie Blockfare of Future can be played on different platforms, including android phones and web browsers. The controls of this cool html5 game include WASD or arrow keys to move, Left Click to shoot, R to reload, Space bar to jump and 1 to 9 to change the weapons. This highly addicting action game applies Flash to run smoothly in most of the browsers. Play this 3d multiplayer shooter and have fun!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/zombie-blockfare-of-future/index.php",
+      "metaTitle": "Zombie Blockfare of Future, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zombie Blockfare of Future at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Zombie Blockfare of Future Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7412,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.714Z",
+      "updatedAt": "2023-10-28T19:56:40.478Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE, SPACE- JUMP, L CTRL- CROUCH, C- PRONE, L CLICK- SHOOT, R CLICK- AIM,"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
