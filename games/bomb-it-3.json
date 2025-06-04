@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b24b",
+      "id": 1546,
+      "name": "Bomb It 3",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "bomb-it-3",
+      "image": "1546",
+      "url": "bomb-it-3",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The advanced bomber man is here once again in the third instalment of the worldwide popular Bomb It series. In this brand new adventure game, you have to bomb and blast all your dangerous enemies into small pieces. Lots of new features and levels have been added to Bomb It 3. The gameplay resembles the previous versions whereas you have to control a single character. Use your skills to move your character around in each level in this free online platform!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Make sure to plant all your bombs at the right place on the ground to eliminate all other opponents. Placing the bombs strategically will help you out when it comes to trapping your enemies in a corner. However, also try to keep yourself away from being trapped by them. Remember, your opponents are very clear and quick and not in a mood of giving you a second chance to survive. There are various new game modes and levels to choose from in this third title of Bomb It.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Enjoy and explore some exclusive and exciting power-ups and special abilities! We believe that you have the guts to conquer the Bomb It arena in this super fun action-based game. This cool HTML5 game features 4 awesome game modes to play, 10 playable characters, 4 awesome game modes to play and Bomberman-inspired gameplay. You can play this highly addictive arcade game in your device using both single player and two player controls.</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=ec01b356fb374c15a165dca5f7da22e8\r\n",
+      "metaTitle": "Bomb It 3 Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bomb It 3 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Bomb It 3 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517901843.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7368,
+      "ownGame": false,
+      "addDate": "2018-02-06T12:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.690Z",
+      "updatedAt": "2023-12-20T20:46:35.344Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
