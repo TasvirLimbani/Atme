@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b546",
+      "id": 2392,
+      "name": "Soccer Skills Runner",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "soccer-skills-runner",
+      "image": "2392",
+      "url": "soccer-skills-runner",
+      "description": "Run as far as you can without being tackled - swerve, jump and duck past opponents. Collect power-ups and upgrade your player.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/54df6d78ccde4de1b41acadb002f1722/\r\n",
+      "metaTitle": "Soccer Skills Runner, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Soccer Skills Runner at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Soccer Skills Runner Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524808838.xml",
+      "idealFor": "Man",
+      "likes": 45,
+      "dislikes": 8,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 18223,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-10-15T10:47:28.651Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIP[E UP- JUMP, SWIPE DOWN- DOWN, SWIPE L-R TO MOVE L-R",
+      "webControlKeys": "UP ARROW TO JUMP, DOWN ARROW- DOWN, L-R ARROWS TO MOVE L-R"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
