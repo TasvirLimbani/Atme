@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 0,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c377",
+      "id": 6364,
+      "name": "Police MotorBike Race Simulator 3D",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "police-motorbike-race-simulator-3d",
+      "image": "6364",
+      "url": "police-motorbike-race-simulator-3d",
+      "description": "Police Motorbike Race Simulator 3D is a bike racing game with multiple moto riders and bike racers on the highway performing freestyle stunts and jumps while driving top new fast bikes. Become a police driver that have access to brand new bikes. Choose from the top bikes and enjoy simulation in this one of the best motorbike games.\r\n",
+      "size": 900,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/415c344da63b4a748c9b79bdc7c08b88/\r\n",
+      "metaTitle": "Police MotorBike Race Simulator 3D,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Police MotorBike Race Simulator 3D at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Police MotorBike Race Simulator 3D Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842210.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 5268,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:33:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2024-11-15T15:15:00.674Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,UP ARROW TO SPEED, A,D L-R ARROW TO L-R,SPACE TO STOP,S,DOWN ARROW TO BACK"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
