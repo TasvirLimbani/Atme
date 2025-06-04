@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb5c",
+      "id": 4062,
+      "name": "Blocky Runner",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "blocky-runner",
+      "image": "4062",
+      "url": "blocky-runner",
+      "description": "<div>Are you a big fan of the most popular running games like Subway Surfers, Temple Run and Run Forest Run? If yes, checking out Blocky Runner can prove to be a nice bet for you. Your objective in this brand new adventure challenge is to help your character run through the magic block city temple and reach his target location. Do not forget to grab the golden bricks and upgrade your hero to complete his target as fast as you can.</div><div><br></div><div>Your blocky character will keep running automatically. You only need to guide him to move left and right and jump to cover the maximum possible distance over the track that is full of different kinds of obstacles. Your higher score will also help you to finish the game with the maximum possible star rating. Run like a true hero and try not to fall off to your death in this HTML5 running game! The top right corner of the screen will show you how much coins you have collected and the number of lives available for you.</div><div><br></div><div>Use LMB or arrow keys when you play it in desktop or swipe left or right to move across the screen when you enjoy it in your mobile phone! Good luck to stay alive for long to create your best score online and have fun without download! Our website keeps updating new adventure games online that are sufficient enough to keep you engrossed for hours. Our online games can be played on a number of devices, including PCs, mobile phones, tablets, as well as iPhones or iPads.</div>",
+      "size": 800,
+      "height": 550,
+      "script": "https://html5.gamedistribution.com/944ff80324dc468caf1bff809e1d930e/\r\n",
+      "metaTitle": "Blocky Runner, Running Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Blocky Runner at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Blocky Runner Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 33,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 16446,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2025-01-17T02:47:15.456Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "UP ARROW TO JUMP, DOWN ARROW- ROLL ,L-R ARROW- MOVE L-R"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
