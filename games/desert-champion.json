@@ -1,0 +1,62 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "6305622cf00e1a463fdb9b2d",
+      "id": 6577,
+      "name": "Desert Champion",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "desert-champion",
+      "image": "6577",
+      "url": "desert-champion",
+      "description": "<p class=\"text_desc\">\nDesert Champion is a brand new online endless racing game where you have to compete to achieve the highest score while navigating the deadly desert terrain. It will be amazing to race against the time and dodge the other vehicles and various obstacles that you see along the track to claim the racing trophy and become the ultimate champion in the end. </p>\n<p class=\"text_desc\">\nThe scorching desert landscape, colourful graphics and simple controls will help you to check out this free car racing game again and again. \n</p>\n<h4>Key Features: </h4>\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\"><li>\nYou as a player have to drive your car through the multiple challenging desert landscapes that are filled with various obstacles and pitfalls.</li>\n<li>\nMake sure to grab as much coins as you can that you see scattering along the track to improve your score and unlock power-ups.</li>\n<li>Put your racing and car handling skills to top the leaderboard as you have to strive to survive for as long as possible and set new high scores.\nIn this cool online car game, you have to control the assigned vehicle as it will speed through sandy dunes, rocky canyons, and perilous cliffs. Be alert as when you move along the way, you will encounter various obstacles such as cacti, boulders, and quicksand pits that will surely threaten to derail your progress. </li></ul></p>\n<p class=\"text_desc\">\nDo not forget to improve the chances of survival and outlast your competitors after grabbing coins and power ups in this free highly engaging game. \n</p>",
+      "size": 640,
+      "height": 420,
+      "script": "https://games.atmegame.com/games/desert-champion/",
+      "metaTitle": "Desert Champion, Car games - Play Online Free : Atmegame.com",
+      "metaDesc": "Desert Champion that is the free online racing game offered for gaming enthusiast under racing is your best opportunity to improve your racing skills.",
+      "metaKeyword": "Desert Champion, Racing, Car, Play Games, Play Online, 3D Games, Play Free Games, Play Online Free Games",
+      "source": "",
+      "likes": 20998,
+      "dislikes": 9645,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 858306,
+      "ownGame": true,
+      "addDate": "2022-08-23T12:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:26:36.472Z",
+      "updatedAt": "2025-06-04T05:16:56.023Z",
+      "__v": 0
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 651
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
