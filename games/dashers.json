@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c40a",
+      "id": 6522,
+      "name": "Dashers",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "dashers",
+      "image": "6522",
+      "url": "dashers",
+      "description": "<div>Are you an addict of online puzzle games? Do you love playing with the characters who you want to jump on the flying and moving platforms? If yes, Dashers is a game you must try out during your fun time. Your objective in this brand new arcade game is to help your character jump over the obstacles and cover the maximum possible distance on the moving platform. Do not forget to collect the money to boost your score and purchase new upgrades in the future.</div><div><br></div><div>Click or tap the screen to jump your character or you can also let it pass under the obstacles if they are in the air! Try to grab as much money as you can to create your best high score in this HTML5 puzzle game! It looks easy to handle it, but very difficult to become a master of this game. The longer you stay; the higher score you would be able to make in the end.&nbsp; Track your score by keeping your eyes on the top right corner of the screen!</div><div><br></div><div>When game finishes, your best score will be shown on the top of the screen. Put your jumping and hand-eye coordination skills to the test to create your new best score! Our free online arcade games are playable in all major modern web browsers. Choose any of your favourite category of puzzle challenges and get ready to enter the world where there are no boring possibilities! Play online puzzle games online to have fun alone or with your friends without download!</div>",
+      "size": 450,
+      "height": 800,
+      "script": "https://games.atmegame.com/games/dashers/",
+      "metaTitle": "Dashers Game, Arcade - Play Online Free Games: Atmegame.com",
+      "metaDesc": "Play the online free game Dashers at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Dashers, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 534,
+      "dislikes": 21,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 47878,
+      "ownGame": true,
+      "addDate": "2020-07-12T15:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-22T04:55:19.464Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO JUMP",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO JUMP "
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 23
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
