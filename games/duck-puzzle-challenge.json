@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1ea",
+      "id": 5818,
+      "name": "Duck Puzzle Challenge",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "duck-puzzle-challenge",
+      "image": "5818",
+      "url": "duck-puzzle-challenge",
+      "description": "<div><span style=\"font-size: 13.3333px;\">I hope you are also a big fan of jigsaw puzzle games that feature your favorite duck. If yes, it?s a wonderful chance to try your hands in this brand new arcade game that is designed for players from different age groups. This puzzle animal can help keep you entertained for a number of hours. You can easily solve the puzzle by keeping your eyes on the watch. Make sure to get all smart parts the original place and voila to complete all levels and become a puzzle champion.?</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The pictures of ducks will be displayed for a few seconds before allowing you to begin this free online puzzle challenge. Choose one of the images and remember what is depicted on them. In a few seconds, it will be shattered into several pieces. Your objective in this cool HTML5 game is to collect all the pieces and connect them to create the original image again. Get ready to practice your observation skill to perform discrete puzzle pieces!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Choose from easy, medium and hard mode and get ready to dive into the fun that will enjoy for hours! You will have several pieces to connect in easy mode, while, medium and hard mode will have comparatively more pieces to be connected with each other. Play this fun arcade puzzle in your PC, smartphone and tablet as per your wish! Click the hint icon given at the bottom of the screen! Feel free to check our more puzzle kids games and enter into a new world of fun and creativity!</span></div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/3c90f0909f8c422ab97ce4475d14a89d/\r\n",
+      "metaTitle": "Duck Puzzle Challenge,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Duck Puzzle Challenge at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Duck Puzzle Challenge Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762111.xml",
+      "idealFor": "Man",
+      "likes": 27,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8778,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:11:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.755Z",
+      "updatedAt": "2024-08-14T07:07:48.983Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP  TO JOIN THE PUZZLE OF PICTURE",
+      "webControlKeys": "LEFT CLICK TO JOIN THE PUZZLE OF PICTURE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
