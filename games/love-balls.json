@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd5b",
+      "id": 4579,
+      "name": "Love Balls",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "love-balls",
+      "image": "4579",
+      "url": "love-balls",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The cute and lovely balls have separated with each other. Now they are searching for someone who could help them to meet again and enjoy their love bonding like before. Do you want to accept this challenge and guide them to get back together? Join Love Balls game and get ready to find a way to bump the walls by putting your brain and focus abilities to the test! Your objective in this brand new arcade game is to draw the lines to lessen the distance between the two lovers.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Grab your mouse or be prepared to put your fingers on the screen of your mobile phone to tap and solve different puzzles!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">It will be in your hands now to remove all the obstacles that you see in the way of these true lovers. Use your logical and physics skills or click the hint button if needed to solve all the puzzles in multiple levels and make these lovers live happily ever after! The pink and the blue ball are helpless and cannot do anything except looking in the eyes of each other.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Draw lines at the right angle to collect all the red hearts and complete all the levels with 3 stars rating in this html5 puzzle challenge! Clear the present level to unlock and advanced ones! A little push can make them move forward and reunite with each other in a happy moment. Drag your mouse over the screen to create any shape or draw a line in this physics arcade game! Be attentive as you can also find gaps in the advanced levels! Good luck to make these two balls meet each other! Check out more similar titles from the category of arcade games and have fun with your friends, no download required!</span></div>",
+      "size": 480,
+      "height": 800,
+      "script": "\nhttps://html5.gamedistribution.com/5e154db8e08440fcb2d7f63f8a993706/\n",
+      "metaTitle": "Love Balls, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Love Balls at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Love Balls Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527483.xml",
+      "idealFor": "All",
+      "likes": 20,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10242,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-04-15T20:05:04.788Z",
+      "__v": 0,
+      "mobileControlKeys": "DRAW A LINE TO LET TWO BALLS TO MEET EACH OTHER",
+      "webControlKeys": "KEEP PRESS AND SWIPE TO DRAW A LINE TO CONNECT THE BALLS BY L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
