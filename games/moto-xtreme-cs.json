@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b30d",
+      "id": 1749,
+      "name": "Moto Xtreme CS",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "moto-xtreme-cs",
+      "image": "1749",
+      "url": "moto-xtreme-cs",
+      "description": "Moto Xtreme Construction Site - The newest extreme motorbike racing game is here! Perfect control, 2D models and characters, hard levels, awesome gameplay! Perform cool combinations, jump obstacles, get as many levels as you can in motorbike racing. Simply Control: ? Tap the Accelerate and Brake button. ? Play awesome levels, get new motorbikes and win reputation. Motorbike Race features: ? Special designed motorbikes ? Cute 2D graphics. ? 40 action levels. ? Easy and intuitive game control Become top extreme motorcycle stunts rider! Moto Xtreme CS is FREE. Start Motorbike race now!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/5e6a8b6f804d45cb95f96bc85436f2fd/\r\n",
+      "metaTitle": "Moto Xtreme CS Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Moto Xtreme CS at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Moto Xtreme CS Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629357.xml",
+      "idealFor": "Man",
+      "likes": 72,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 27913,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.695Z",
+      "updatedAt": "2025-02-10T08:48:33.494Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": "UP ARROW TO SPEED, DOWN ARROW - BREAK"
+    },
+    "rating": {
+      "rating": "2.4",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
