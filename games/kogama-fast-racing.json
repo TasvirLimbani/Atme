@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c166",
+      "id": 5658,
+      "name": "KOGAMA Fast Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "kogama-fast-racing",
+      "image": "5658",
+      "url": "kogama-fast-racing",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The highly addictive and popular Kogama series is back with a kind of fun-filled and thrilling car racing game. Are you ready to go on this adventurous racing trip? Join KOGAMA Fast Racing and see yourself racing against your friends! We are damn sure that you will surely invite your friends and other family members to try it out to kill their boring hours if you play this addictive race car game at least once. Start this brand new racing game with choosing a vehicle you love to ride!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Once you are done with the selection of a car, you have to get yourself prepared for competing against other racers on a very tricky and challenging blocky 3D track. Drive your car as fast as possible while taking care of the jumping platform and sharp turns in this car speed games! Remember you will lose your vehicle immediately if you try to land it on a platform with a very high speed. So, the best idea is to continue on foot.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Move your vehicle forward through W or move backward through S. Give it the left direction through A button or right direction through D button in this 3D multiplayer games for children! Do not forget to jump your vehicle through the space key! K for Respawn or Esc or Menu/Quit. Good luck to everyone who wants to explore the best car racing games during their vacant periods! No need to stop here, feel free to check our other top car games to add excitement and thrill to your fun hours!&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/0597f526faf24b0f863878180892635d/\r\n",
+      "metaTitle": "KOGAMA Fast Racing,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game KOGAMA Fast Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "KOGAMA Fast Racing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1556791949.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7603,
+      "ownGame": false,
+      "addDate": "2019-05-02T15:42:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.753Z",
+      "updatedAt": "2023-08-30T00:15:36.500Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "GAME NOT LOADING PROPERLY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
