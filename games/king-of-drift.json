@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbb4",
+      "id": 4153,
+      "name": "King of Drift",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "king-of-drift",
+      "image": "4153",
+      "url": "king-of-drift",
+      "description": "<div>Do you think that you are an expert racer and can drive any car on any platform? Join King Of Drift and be prepared to show off your driving abilities on most of the difficult tracks you have ever faced off! Creating the high score requires putting your utmost driving skills to the test. In this brand new racing game, you have to drive a black color car on a track with lots of turns and difficulties. Your nice performance will depend upon how long you survive in the game.</div><div><br></div><div>Make sure not to get your car out of the way otherwise, you would lose the game immediately. Race your car and get ready to compete against plenty of other players who are waiting for you ahead! Drive your car and try to take it to the finish point as soon as possible! Reach fast, and collect points to unlock new car models and tracks in this HTML5 car game! Race your car like a pro to score the maximum number of points!</div><div><br></div><div>The more you drift your vehicle, the more points you would be able to collect in the end of this high-speed car drifting game. Use arrow keys to control your vehicle and press Z to stop your car! Try to drift as fast as possible to become the winner of the speedway! Steer your vehicle left through the left key and steer right using the right arrow key! Good luck to reach to the destination point fast to wear the crown of the best drifter of the city! Our website is full of popular titles that cover a wide range of free drifting games. Play them online and have fun without download!</div>",
+      "size": 394,
+      "height": 700,
+      "script": "https://html5.gamedistribution.com/e19be31ab4cf46caac0a821853a386e6/\r\n",
+      "metaTitle": "King of Drift Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game King of Drift at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "King of Drift Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543658566.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11157,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.733Z",
+      "updatedAt": "2024-03-11T23:03:50.005Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE L-R OF SCREEN TO CONTROL THE CAR",
+      "webControlKeys": "W,A,D UP L-R ARROW TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
