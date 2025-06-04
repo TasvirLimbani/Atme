@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad8a",
+  "category_name": "best",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c11d",
+      "id": 5572,
+      "name": "Traffic Command",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "traffic-control",
+      "image": "5572",
+      "url": "traffic-control",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The traffic problem has spread everywhere worldwide. The old-fashioned traffic control system also makes it difficult for people to ride their vehicles on busy streets and roads. Being based on timer, it also makes the job pretty difficult for all. However, the traditional traffic controller always comes in handy no matter what kind of heavy traffic occurs on the road. People who make mistakes at the traffic lights are fined by a traffic cop. Join this brand arcade challenge and play the role of a traffic controller.?</span></div><div><span style=\"font-size: 13.3333px;\">Traffic Command is a fun-based arcade game where you have to control the flow of the traffic. We rely on your skills, but it is time to prove the world that you are an amazing traffic controller. Try to manage the traffic perfectly while avoiding any accidents in each level. You can start and stop the flow of traffic by switching the traffic light from green to red and back to green. Put your traffic handling and focus skills to test.?</span></div><div><span style=\"font-size: 13.3333px;\">Drag a vehicle to the proper lane using your mouse and make the vehicle stop by clicking on it. Also try to keep your eyes on the cars that are not easy to control since you have plenty of cars to pass in each challenge in this free online traffic light game. There are 8 levels to complete and allow you to learn necessary traffic rules. Redirect cars and instruct them when it is okay to go and when it is fine to stop in this addictive traffic driving game. Check out more traffic games on our free online game website.?</span></div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/traffic-command/",
+      "metaTitle": "Traffic Control,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Traffic Control at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Traffic Control Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1553920821.xml",
+      "idealFor": "Man",
+      "likes": 124,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 43770,
+      "ownGame": true,
+      "addDate": "2019-03-30T10:10:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2024-09-01T10:38:30.992Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE TRAFFIC SIGNAL TO CONTROL THE TRAFFIC",
+      "webControlKeys": "LEFT CLICK ON THE TRAFFIC SIGNAL TO CONTROL THE TRAFFIC"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
