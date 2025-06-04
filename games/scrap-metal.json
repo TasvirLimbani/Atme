@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b663",
+      "id": 2708,
+      "name": "Scrap Metal",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "scrap-metal",
+      "image": "2708",
+      "url": "scrap-metal",
+      "description": "<div>Have you thought for a moment that this is a scene from a popular Hollywood movie Fast and Furious? Not at all! This is actually a brand new car racing game ? Scram Metal where you will get a chance to test your best driving skills. In this awesome 3D driving simulation game, you will see 6 awesome cars that include a Jeep, a Mini Cooper and a Mustang. Hope you look into the needful instructions and indications properly before starting this fun racing game for boys and girls. </div><div><br></div><div>The beauty of this free online game is that it comes with no mission since you have the freedom to play with your chosen cars: whether crash your vehicles to convert them into the scrap metal or make surprising flips with the help of ramps, drifting around the industrial area and speeding through the area. Remember all the parts of your vehicles might be destroyed if it crashes at high speed. However, the good news is that you also have an opportunity to repair them magically in this cool flash game. </div><div><br></div><div>Perfectly suitable for users from all age groups, Scrap Metal is popular for its amazing 3D graphics, seamless gameplay and dynamic audio and video effects. This Unity game can be played only on your browser. Developed by Ciorbyn, it has a lot to car racing game enthusiasts. It is easy and simple to control this best car racing game, including use WASD or arrow keys to drive your vehicle, 1-7 to change view, T to enter slow motion, shift to clutch, enter to reset car and R to repair car. Hope you have all the fun with US car Ford Mustang. Good luck kids to make maximum score in this fantastic car game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/scrap-metal/index.php",
+      "metaTitle": "Scrap Metal, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Scrap Metal at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Scrap Metal Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 8225,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.714Z",
+      "updatedAt": "2024-01-10T13:13:33.724Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE, SPACE- BREAK"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
