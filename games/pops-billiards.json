@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad68",
+  "category_name": "pool",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad68",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c428",
+      "id": 6552,
+      "name": "Pops Billiards",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "pops-billiards",
+      "image": "6552",
+      "url": "pops-billiards",
+      "description": "<div>Are you a billiard sport champion? Do you also want to practice your pool playing abilities in a friendly and funny environment? Yes, you have reached at the right place for sure. We have got you covered with a brand new sports game where you have to pocket all the balls using the stick. Keep playing until the last ball falls into the hole in Pops Billiards! When you are doing it, make sure to keep your eyes on the indicator shown on the right to measure and adjust the hitting force.</div><div><br></div><div>You can easily sink the balls in the record time by applying your geometry skills in this classic billiards pool game. Use your cue ball perfectly to sink all the balls in the shortest possible to score high! Tap and hold your mouse or tap and hold the screen of your mobile phone to move your cursor in the direction you want! Make sure that your cue ball goes in the direction that will take your ball into the hole. A perfect shot can be taken with a balanced power and direction.</div><div><br></div><div>Your good performance will be based on how fast you can pocket all the balls. Do not need to sit relaxed until you send all 15 balls to their designated place. The lower seconds you take to pocket your ball, the higher score you will be able to make in the end. Collect a cue ball, line up your shot and get ready to sink all the balls one by one in this cool online pool game! At our website, you can spot plenty of choices when you explore our free pool games category in your gaming device. Enjoy the best entertainment without download!</div>",
+      "size": 1180,
+      "height": 670,
+      "script": "https://games.atmegame.com/games/pops-billiards/",
+      "metaTitle": "Pops Billiards Game, Pool - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Pops Billiards at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Pops Billiards, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 1703,
+      "dislikes": 240,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 424353,
+      "ownGame": true,
+      "addDate": "2020-11-21T15:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-06-01T17:33:00.572Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO HIT THE BALL",
+      "webControlKeys": "KEEP HOLD AND RELESE THE STICK TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 189
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad68",
+      "name": "pool",
+      "slug": "pool",
+      "icon": "Pool-games"
+    }
+  }
+}
