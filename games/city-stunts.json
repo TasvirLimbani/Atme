@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb2f",
+      "id": 4016,
+      "name": "City Stunts",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "city-stunts",
+      "image": "4016",
+      "url": "city-stunts",
+      "description": "<div>Does performing the death-defying and tricky stunts give you the Goosebumps? Are you a kind of person who loves driving sports cars at high speed but avoid doing it due to a fear of being injured on the road? Common boys! We have something interesting for you. Grab your seat on your favorite sports car and be prepared to make some cool stunts on the deadly ramps and loops in City Stunts! Enjoy the freedom of landing on top of the houses and jumping over them!</div><div><br></div><div>A leading car racing competition has just begun and you have already participated in it. Take your seat behind the wheel of a fuel-guzzling stunt car and get ready to show off the world that you are sufficient enough to perform the most radical stunts on the busy city streets! Do everything from doing the backflipping through the sky to racing around a city that is full of skyscrapers and tower blocks in this html5 3D car racing game for boys! Test your driving skills on multiple ramps and loops!</div><div><br></div><div>Perform as many stunts as you can to collect points to unlock new car models and ramps to use in this ultimate car driving game! Choose a car from different models and experiment your driving abilities at a different speed and weight! Track your speed in the bottom left corner of the screen! Drive carefully and complete all the levels to win the cup and become a stunt champion of your town! Common boys! You would have a big city to explore and ride a number of sports vehicles. Enjoy an immersive car driving experience without download!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/bae15da9a3df456eb618dc240dc6164c/\r\n",
+      "metaTitle": "City Stunts, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game City Stunts at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "City Stunts Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 156,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 28647,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2025-04-02T04:54:12.863Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L ALT- PAUSE, W,A,SD ALL ARROWS TO CONTROL,SPACE- BREAK"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 22
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
