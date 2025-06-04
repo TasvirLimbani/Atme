@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b204",
+      "id": 1432,
+      "name": "Save the Christmas",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "save-the-christmas",
+      "image": "1432",
+      "url": "save-the-christmas",
+      "description": "<div>Christmas is coming and people are excited to enjoy it with full of enthusiasm. During the festive season, we have tried to cover something special for you in a brand new adventure game named Save the Christmas. This cool online kids game is quite different from other Christmas games where you are only focused to remind the beautiful moments of the most awaited Christmas tree and gifts you collect from the most loving Santa. Join this free online game to experience the difference on this Christmas!</div><div><br></div><div>Your job is to help Santa save Christmas and find the gifts for kids. The job is pretty difficult, but paying attention to the screen will get you through all the obstacles and make you win in the end. Jump one platform to another and reach the gifts that you have collected for cute little ones! It makes you fill with joy by playing the role of Santa, who is very cute and also has the same eagerness as the kids have to meet him. </div><div><br></div><div>Some platforms are moving when you make a plan to jump. So, use your mind, make a proper angle and spot the right time to jump to reach them safely. Begin this cool jumping game by clicking the start button! Try to complete all the levels with three starts to score higher points in the end! Thanks for coming here to help Santa save Christmas by finding out all the lovely kids. Keep visiting us, again and again, to find some latest Christmas games on our free online game website! Good luck to having a blast, kids!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/65064036929e4e88ad2de08caf03a2e2/\r\n",
+      "metaTitle": "Save the Christmas, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Save the Christmas at atmegame.com ! We have selected this platform games for best excitement and thrill in you!",
+      "metaKeyword": "Save the Christmas Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489364.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8937,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.689Z",
+      "updatedAt": "2024-10-27T06:35:21.976Z",
+      "__v": 0,
+      "mobileControlKeys": "CONTROLS NOT WORKING",
+      "webControlKeys": "L-R ARROWS TO MOVE, X-JUMP"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
