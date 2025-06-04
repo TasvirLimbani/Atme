@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b642",
+      "id": 2669,
+      "name": "FireLords",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "firelords",
+      "image": "2669",
+      "url": "firelords",
+      "description": "<div>Have you heard about Bomberman, along with Pac-man, one of the worldwide popular arcade games you have ever played? Hey boys, here you can get it with an improved design and new title in FireLords, which is a highly addictive, brand new platform game. The unique graphics, outstanding gameplay, easy control and seamless sound effects are enough to allow you pass a number of hours. This free online adventure comes with four game worlds equipped with 40 unique and thrilling levels.&nbsp;</div><div><br></div><div>5 out of the 40 levels are hidden. Make sure that you have got the success of finding out the ways to discover your target. The level of difficulty increases with the completion of each level. Sharp your weapons and get ready to attack on your enemies with full of power so that there are no chances of their survival. Be careful every time since your enemies have advanced behaviour and intelligence. Collect as many awards as you can to defeat your enemies in a battle.&nbsp;</div><div><br></div><div>In this one of the best adventure games for boys, you also have an opportunity to select from a huge assortment of innovations, including a shield, container for more bombs, faster movement, which will definitely help to gain advantage over your enemies. Make sure that you also pay attention to useful details and go through the needful instructions to ensure your victory in the end. Good luck kids to have a blast in this popular fun platform game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/firelords/index.php",
+      "metaTitle": "FireLords Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game FireLords at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "FireLords Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7024,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-02-27T12:31:57.691Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE, SAPCE- PUTH THE BOMB"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
