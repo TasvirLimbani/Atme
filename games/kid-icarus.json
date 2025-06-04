@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b921",
+      "id": 3452,
+      "name": "Kid Icarus",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "kid-icarus",
+      "image": "3452",
+      "url": "kid-icarus",
+      "description": "Help little Icarus to fly and dodge all the obstacles in his way!\r\n",
+      "size": 405,
+      "height": 720,
+      "script": "https://html5.gamedistribution.com/8794d12ea04a43cda15ac52f9c047bc9/\r\n",
+      "metaTitle": "Kid Icarus, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Kid Icarus at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Kid Icarus Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536575483.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9484,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-03-24T09:10:14.957Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "default backend - 404"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
