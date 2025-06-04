@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb37",
+      "id": 4024,
+      "name": "Paper Racer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "paper-racer",
+      "image": "4024",
+      "url": "paper-racer",
+      "description": "<div>A new bike racing competition has just begun! Do you want to give it a try and become a top bike racer of the city? Join Paper Racer and be prepared to drive a cool motorcycle over thousands of unique and challenging tracks! Hand drawn graphics, easy controls and awesome music are something that makes this game extraordinary and special for the racing game lovers. Go through the career mode and tutorials to understand the game mechanics before entering this brand new racing challenge!</div><div><br></div><div>There are different episodes including learning, beginning, mountains, winter, and city to choose from. Every stage includes several stages that will be to make your bike driving experience a little bit more exciting and challenging. Learn first how to control a bike, and manage multiple elemental affects you face during the gameplay like loops, bombs, guns, and gravity changes! After completing the tutorial, start with the career mode and the finish each level confidently. You would have lots tracks to play through in this HTML5 bike game.&nbsp;</div><div><br></div><div>After checking out the career mode, make sure to try out head to head against other bikers, design your own lovely and interesting tracks and buy new avatars and vehicles including ATV, monster truck, motorbike, motocross, lunar rover and formula 1. Each track offers different hand-drawing design and vehicle to play with. This cartoon animated racing puzzle allows you to explore more than 100 campaign tracks in multiple episodes like City, UFO Attack, Space and etc. Enjoy duels Vs people all around the world and have fun in this racing challenge without download!</div>",
+      "size": 950,
+      "height": 750,
+      "script": "https://html5.gamedistribution.com/a8d100cd1f29480190200095077cf407/\r\n",
+      "metaTitle": "Paper Racer, Bike Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Paper Racer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Paper Racer Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951839.xml",
+      "idealFor": "Man",
+      "likes": 30,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 16744,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2025-05-23T05:01:44.565Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING IN MOBILLE",
+      "webControlKeys": "ALL ARROWS TO CONTROL THE BIKE"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
