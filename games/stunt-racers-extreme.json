@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c35b",
+      "id": 6321,
+      "name": "Stunt Racers Extreme",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "stunt-racers-extreme",
+      "image": "6321",
+      "url": "stunt-racers-extreme",
+      "description": "<div>Do you love playing car games where speed is no bar? Is customizing cars your biggest hobby? Join Stunt Racers Extreme and be prepared to drive the luxurious sports car on a fabulous racing track! Common boys! No one will come and ask you to count your mistakes. In case if you fail at a few initial attempts, keep trying this brand new racing game until you become its champion. It is completely free of cost and playable on multiple devices without download.</div><div><br></div><div>Race your vehicle, grab money and get ready to spend a significant amount on the purchasing of new vehicle! You can also customize your vehicle and upgrade it to the latest one with the money. Your positive record will help to earn stars that help make your achievement shine. Enjoy both the offline and online mode and play with everything that you can win in this HTML5 car game! Make sure not to collide your car with other vehicles or objects to avoid accidents.&nbsp;</div><div><br></div><div>Reaching out to the garage will help to customize your cars as per your own choice. Drive around the map and do not forget to perform as many deadly stunts as you can to get some extra money. Grab a significant sum of golden coins and use them to upgrade your car in this 3D racing simulation! Combine flips with some cool tricks and show off the world that you are a pro car racer!</div>",
+      "size": 800,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/4a75dd1f551e449bba3cef845628d3ac/\r\n",
+      "metaTitle": "Stunt Racers Extreme Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Stunt Racers Extreme at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stunt Racers Extreme Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579523644.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8481,
+      "ownGame": false,
+      "addDate": "2020-01-20T18:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2024-11-06T19:16:41.671Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO CONTROL THE CAR,C CHANGE VIEW,P PAUSE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
