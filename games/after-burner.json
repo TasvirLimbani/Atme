@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c188",
+      "id": 5695,
+      "name": "After Burner",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "after-burner",
+      "image": "5695",
+      "url": "after-burner",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Helicopter Master is definitely for all those who have intense appetite for action games. In this brand new shooter game, your aim is to fly your helicopter in the sky and obey all the instructions your commander gives you. Being a pilot of the Army patrolling from the sky, it is your responsibility to identify all the planes of your enemies and destroy them before they hurt your helicopter. You can also apply your special weapons to finish your sky battle successfully. The special ammo meter will only be displayed on the screen after you collect a special weapon. Get ready to lose your special weapon after getting your special AMMO depleted!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Feel free to hold anywhere to fly your plane in the sky full of obstacles! There are different missions to accomplish in this one of the highly addictive and challenging flying games for kids. The objective in each mission remains the same i.e. reach to the end and destroy the boss using the weapons you have. Do not forget to achieve your secondary objective that gets you closer to the award medals. Secondary objectives include destroying all enemies and rescuing all survivors.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Avoid being depressed if you find it difficult to complete your mission at first since you will soon start accomplishing all the objectives after making a few attempts! Also try to collect coins and upgrades when you are on the way. Make sure to use them to upgrade your chopper. You can also get a quick access to the power-ups through which you can restore some of your HP, attract coins and crates and double score from enemies.&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/672fa9a7d6f94da98727063b44ba9a6f/\r\n",
+      "metaTitle": "After Burner, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game After Burner at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "After Burner Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1556964027.xml",
+      "idealFor": "Man",
+      "likes": 63,
+      "dislikes": 16,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 17332,
+      "ownGame": false,
+      "addDate": "2019-05-04T15:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2025-04-24T07:18:52.413Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON LEFT SIDE JOYSTICK TO MOVE THE PLANE, RIGHT SIDE TAP -SHOOT",
+      "webControlKeys": "L-R ARROW RO CONTROL THE CRAFT, SPACE-SHOOT"
+    },
+    "rating": {
+      "rating": "2.2",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
