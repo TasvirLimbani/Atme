@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb15",
+      "id": 3990,
+      "name": "Run or Die",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "run-or-die",
+      "image": "3990",
+      "url": "run-or-die",
+      "description": "<div>Running and jumping from one platform to another is a great fun itself. Today we have got you covered with a brand new adventure challenge where you have to control a character who has the biggest running mission of his life. Your objective is to guide your character to make the double jump in Run or Die. Jump timely to go as far as possible! Not everyone dares to run over this challenging track where multiple obstacles available to deal with.</div><div><br></div><div>Make sure to be determined enough to cover the long distance over this track. Run and jump like a hero to make your way through an extremely hazardous city environment! Be careful and get ready to make decisions in the blink of an eye! Do not forget to click the coins and cover the maximum possible distance to finish game with three stars rating. Track your score by having a look at the top middle portion of the screen!</div><div><br></div><div>Heights of platforms are different so time your jump before making a final decision. Challenge your focus and jumping skills to create your best new score and get you placed on the top of the leaderboards in this endless runner game! If this running challenge does not impress you or you might get bored, do not bother at all since our extensive collection of free adventure games for boys will not get you disappointed. Good luck to have the best fun time by staying connected with us on atmegame.com!</div>",
+      "size": 600,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/ec688a01a0a04426bf19c11705ac67c3/\r\n",
+      "metaTitle": "Run or Die,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Run or Die at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Run or Die Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8684,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-05-11T05:36:46.310Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO JUMP, DOUBBLE TAP TO JUMP HIGHER",
+      "webControlKeys": "W,UP ARROW/SPACE/L CLICK TO JUMP, DOUBBLE PRESWS TO JUMP HIGHER,R-RESET THE CAR"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
