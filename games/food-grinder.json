@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b570",
+      "id": 2449,
+      "name": "Food Grinder",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "food-grinder",
+      "image": "2449",
+      "url": "food-grinder",
+      "description": "Delicious food need you more than ever before! They keep crushing over and over again. Only you can keep them safe. Move up or move down to avoid the saws and collect diamonds to make the best score possible. Collect coins to buy new beautifull players.\r\n",
+      "size": 480,
+      "height": 720,
+      "script": "https://html5.gamedistribution.com/6877b47487e14df1a7d94d8dc2f789e0/\r\n",
+      "metaTitle": "Food Grinder Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Food Grinder at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Food Grinder Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1528953636.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7769,
+      "ownGame": false,
+      "addDate": "2018-06-14T10:50:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.708Z",
+      "updatedAt": "2024-02-26T11:29:13.220Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP L-R ICONS TO MOVE ",
+      "webControlKeys": "UP DOWN ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
