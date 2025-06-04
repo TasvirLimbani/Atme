@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3fa",
+      "id": 6506,
+      "name": "FZ Zig Zag",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "fz-zig-zag",
+      "image": "6506",
+      "url": "fz-zig-zag",
+      "description": "<div>We have brought to you a brand new arcade challenge where you would find nothing, but a great amount of fun and entertainment. Are you to ready to accept this unique challenge and allow yourself to be surrounded by an amazing funny environment? Jon FZ Zig Zag game and be prepared to guide a line to move forward in a proper direction! This line is very different as it can only move forward if it meets with the blocks of the same colour.</div><div><br></div><div>Remember you would lose the game immediately in case if your moving line touches with blocks of the different colour. Track your score by looking at the top portion of the screen! Your best and present score will also be seen on the screen when your game finishes. Do not bother in case if you lose the game since you have unlimited chances to try it out! So click the restart button and get ready to put your quick reflexes and hand-eyes coordination skills to the test to create your new best score.</div><div><br></div><div>Initially you face off some complexities, but playing it for several items in your browsers will give you the confidence required to secure a top place on the leaderbaords. If you get bored, browse through our extensive and high-quality free arcade games and find out the ones that talk about your interests and tastes. The best part is that our most of our arcade challenges are playable on multiple gaming devices. So stay connected with us to play new online games and have fun with your friends, no download required!</div>",
+      "size": 460,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/c904b1ea67804bbfaeb96665702169f8/\r\n",
+      "metaTitle": "FZ Zig Zag Game, Arcade - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game FZ Zig Zag at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "FZ Zig Zag Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842581.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9423,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-04-14T08:10:55.251Z",
+      "__v": 0,
+      "mobileControlKeys": "TRY TO HIT THE SAME COLOR BY TAPPING, AVOID TOUCHING THE DIFFRENT COLOR",
+      "webControlKeys": "TRY TO HIT THE SAME COLOR BY CLICK LEFT OF MOUSE, AVOID TOUCHING THE DIFFRENT COLOR"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
