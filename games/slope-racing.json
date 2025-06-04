@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3b9",
+      "id": 6439,
+      "name": "Slope Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "slope-racing",
+      "image": "6439",
+      "url": "slope-racing",
+      "description": "<div>The highly challenging and most in-demand car racing fun is here! Join this fun addictive hyper casual racing game right away to challenge your driving abilities to the optimum level! You will also be guaranteed to enjoy a great amount of fun and entertainment while learning something meaningful in this brand new racing challenge. Grab your car and be prepared to ride your four-wheeler on multiple slopes in Slope Racing! This latest car game is playable on different devices without download.</div><div><br></div><div>It looks easy to handle, but difficult to become a master of this HTML5 car game. You also have to focus on collecting the coins while driving your car on different deadly slopes. Try to grab as many coins as you can to purchase new car models or other challenging environments like dessert! Start with Snow Storm environment and then upgrade it to different stages of dessert with the help of coins you collect along the way! Choose map and then your car before entering the realistic racing environment!</div><div><br></div><div>You can begin the fun with a Concept car and then you purchase a new one out of multiple options including Police, Jeep, Pull, F1, Bus, Armored, Monster, Van, Wildtrack, And The Light Car. Here you will also get a chance to upgrade your engine as per your convenient. Time your speed and do not forget to use the brake on the right time to avoid the crash along the way! Track how much distance is left to cover by having a look at the bottom of the screen! know your coins and fuel status on the left top corner of the screen! Good luck to complete all levels to enjoy an amazing car driving on different tracks backed by amazing background!</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/085dc5ea4b1f4b3b8d0b59d2332b2dfc/\r\n",
+      "metaTitle": "Slope Racing Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Slope Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Slope Racing Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 45,
+      "dislikes": 8,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9871,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-05-22T17:25:42.387Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "A,D OR L-R ARROW TO CONTROL, OR GIVEN ICONS IN SCREEN"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 21
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
