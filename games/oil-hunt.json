@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad92",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3f0",
+      "id": 6494,
+      "name": "Oil Hunt",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "oil-hunt",
+      "image": "6494",
+      "url": "oil-hunt",
+      "description": "<div>In the current situation, people desperately need to sign up the platforms where they could relax their mind and overcome the feeling like anxiety or stress. Today we have got you covered with a brand new arcade game where you are sure to have the best quality fun and entertainment by clicking a few clicks over the mouse or tapping the screen of your mobile phone. Your objective is to stretch out a pipe to strike the oil in Oil Hunt.</div><div><br></div><div>Common friends! This man looks very hungry and he needs only oil to satisfy his cravings for food. Try to hit and release the mouse at a perfect timing to help him feed the maximum oil possible at every dig in a mystical wasteland! Use your logical mind and brain skills to guide him drink gallons of the tasty liquid in this HTML5 hidden-objects game! Put your fingers on the mouse to tap and hold to build your straw to drill for some oil! Make sure that your straw is not too short or too long.</div><div><br></div><div>It is easy to drain all of that sweet oil by getting a perfect hit in this endless platformer game. Get your oil and then keep moving to the next oil hole until you lose your game! Do hard work to win more money and create your best highest score and unlock multiple funny characters! Your successful efforts will also allow you to explore various different lands right from long stretching savannas, to dark marshes, sandy beaches and green hills. Good luck to help your hero find the maximum oil possible and have a blast without download!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/d3c68452447f47f3a6ead423d32599cd/\r\n",
+      "metaTitle": "Oil Hunt Game, Hidden Object - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Oil Hunt at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Oil Hunt Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842581.xml",
+      "idealFor": "Man",
+      "likes": 36,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 10368,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-01-23T10:29:45.849Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS THE SCREEN TO GET THE PERFECT LENGHTH OF PIPE",
+      "webControlKeys": "KEEP PRESS THE LEFT CLICK TO GET THE PERFECT LENGHTH OF PIPE"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad92",
+      "name": "hidden-objects",
+      "slug": "hidden-objects",
+      "icon": "Hidden Objects"
+    }
+  }
+}
