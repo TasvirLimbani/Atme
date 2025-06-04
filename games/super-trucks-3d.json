@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b2d6",
+      "id": 1691,
+      "name": "Super Trucks 3D",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "super-trucks-3d",
+      "image": "1691",
+      "url": "super-trucks-3d",
+      "description": "An exciting racing game in which you will prove your driving skills through amazing tracks all over the world. Put the nitro on, and become the best Super Truck driver of all time!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=61ddba3c097948caa86b977490995b95\r\n",
+      "metaTitle": "Super Trucks 3D Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Super Trucks 3D at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Super Trucks 3D Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629219.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8892,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:43:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.694Z",
+      "updatedAt": "2024-02-16T16:35:04.623Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
