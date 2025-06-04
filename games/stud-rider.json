@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb9f",
+      "id": 4130,
+      "name": "Stud Rider",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "stud-rider",
+      "image": "4130",
+      "url": "stud-rider",
+      "description": "<div>Boys! Where are you? The biggest bike racing game is waiting for you here to make your day! Meet with a popular biker named Stud who has recently purchased a new motorbike! Today the biker wants to go on the most awaited two-wheeled adventure, but he needs your help. Join Stud Rider and be prepared to go along with him on a long driving trip! The road is hilly and full of deadly obstacles and you have to help him to ride his motorcycle for as long as possible.</div><div><br></div><div>Choose your bike and get ready to be as fast as you can on the road while also keeping your eyes on the fuel you have to collect! Do as many flips as you can to get some bonus points and show off the world that you are best at driving bikes on any platform in this html5 bike game! Put your eyes on the screen while going through the hills and use your strong driving abilities to make a perfect ride! Grab fuels for more power and canisters for your beauty!</div><div><br></div><div>No need to fear to perform some death-defying stunts and challenging flips to create your best score in this motorbike driving game! The rough terrain is full of uneven road, deep curves and sharp peaks. Balance your bike while driving through treacherous terrain. Grab as many fuel canisters as possible you see to keep moving forward in this bike stunt game! Your good performance will help to add some bonus points. Good luck to put on your helmet and enjoy your first bumpy ride in this side-scrolling motorcycle driving game!</div>",
+      "size": 600,
+      "height": 800,
+      "script": "https://games.atmegame.com/games/gg/stud-rider/",
+      "metaTitle": "Stud Rider Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stud Rider at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stud Rider Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 3288,
+      "dislikes": 58,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 2428268,
+      "ownGame": true,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2025-05-26T12:43:57.506Z",
+      "__v": 0,
+      "mobileControlKeys": "R ICON- ACCLARATE, L ICON TO BALANCE",
+      "webControlKeys": "UP ARROW- MOVE, L-R ARROW TO BALANCE"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 418
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
