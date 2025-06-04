@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c193",
+      "id": 5710,
+      "name": "Street Fighter Madness",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "street-fighter-madness",
+      "image": "5710",
+      "url": "street-fighter-madness",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you ready to take up the real action challenge during your free hours? Do you want to practice your amazing fighting skills in the virtual world? Join Street Fighter Madness today to prove the world that you are truly an ultimate street fighting champion! In this brand new action packed game, you will meet Luke Steel who is pretty excited to take his revenge. The problem is that he considers everybody you see on the screen except him as his enemies. Join his revenge journey and help him to finish all his rivals and win the street fighting championship!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The primary objective is to help Luke all his opponents and survive every stage in this free online fighting game. Be careful since your enemies can come from any of the sides - left and right! Don’t forget to look into the wooden boxes as they might have some needful weapons through which you can eliminate your opponents fast! This street fighting game becomes more complicated as you progress in the game since the advanced stages have more powerful enemies as you meet at the previous stages.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to apply your best fighting moves to get your enemies down! No need to show pity on them and try to keep hitting them until they are dead and disappear from the screen! May be you find difficulties initially when you join this one of the best fight games for boys! However, practicing it for several times in your devices makes it easier for you to win this battle in this realistic street fighting. Check out more street action games for boys at our free online game portal! We have plenty of cool HTML5 fighting games for everyone irrespective of their age and gender. Good luck!!</span></div>",
+      "size": 900,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/29a190405c074e538f51074fcfb53161/\r\n",
+      "metaTitle": "Street Fighter Madness,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Street Fighter Madness at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Street Fighter Madness Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557564016.xml",
+      "idealFor": "Man",
+      "likes": 89,
+      "dislikes": 8,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13169,
+      "ownGame": false,
+      "addDate": "2019-05-11T14:10:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2025-05-18T19:42:17.970Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY *",
+      "webControlKeys": "SPACE-JUMP, P-PAUSE,ALL ARROWS TO MOVE,Z-X -HIT"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 22
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
