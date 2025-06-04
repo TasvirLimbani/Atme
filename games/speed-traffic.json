@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c33a",
+      "id": 6268,
+      "name": "Speed Traffic",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "speed-traffic",
+      "image": "6268",
+      "url": "speed-traffic",
+      "description": "<div>Hey racers! Forget everything you have tried ever during your free hours and get ready to try out this latest fun racing challenge to make your vacant time more challenging and addictive! Avoid wasting your time anymore, join Speed Traffic and be prepared to drive a lovely and cool mini car in 3 animated worlds. Wow! No extra efforts you need to put to stand against the odds and hindrances the gameplay offers for the players! All you need to challenge your driving skills to the optimum level to win.</div><div><br></div><div>Do not forget to grab the coins along way and avoid the crash with other vehicles for your long survival. The more coins you collect the higher score you will be able to make. The speed of the gameplay will keep increasing so it is not easy to create a high score in this HTML5 car game. Be careful and try to help your car find a way to run ahead without causing an exploding crash! The top left corner of the screen will show you the status of coins and middle portion will show your present score.&nbsp;</div><div><br></div><div>You can mute or unmute the sound of your chosen car traffic game whenever you want. The lovely music, awesome colorful graphics, and simple controls make the reason why you should try out this car driving simulator right away. And the most important thing is that you can enjoy this cool online game without download in any game device you are presently carrying. So why do you need to wait for long? Join our free traffic games to keep you busy for long!</div>",
+      "size": 425,
+      "height": 750,
+      "script": "https://html5.gamedistribution.com/91475c04964b428f8b91604583a143b7/\r\n",
+      "metaTitle": "Speed Traffic Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Speed Traffic at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Speed Traffic Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579515784.xml",
+      "idealFor": "Man",
+      "likes": 25,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 11253,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:53:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-01-22T16:55:07.452Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON CAR TO MOVE LEFT RIGHT",
+      "webControlKeys": "A,D LEFT RIGHT ARROW TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
