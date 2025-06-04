@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b366",
+      "id": 1859,
+      "name": "Rocky Rider 2",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "rocky-rider-2",
+      "image": "1859",
+      "url": "rocky-rider-2",
+      "description": "Drive your truck through the rocky terrain and become a top Rocky Rider in this long awaited sequel. The rocky ride is back! Racing games, car games, and truck games are fun and free games. Use the 3 cars in your garage to beat the rocky ride. Your main truck is a yellow jeep that can handle a lot but some road are tunnels. For those small tunnels you will need you small red sports car! If the road gets too tough you will need the 6 wheel monster. Race through the rocky ride with cool cars, trucks and lots of upgrades.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=4921f95baf824205e1b13f22d60357a1\r\n",
+      "metaTitle": "Rocky Rider 2, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Rocky Rider 2 at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Rocky Rider 2 Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630386.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9326,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:03:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2023-11-23T10:59:20.528Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
