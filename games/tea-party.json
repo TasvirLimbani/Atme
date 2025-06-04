@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b26d",
+      "id": 1582,
+      "name": "Tea Party",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "tea-party",
+      "image": "1582",
+      "url": "tea-party",
+      "description": "Tend this tea-time trio!",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=ef0aa3b17b72408f8de6a04094e2832a\r\n",
+      "metaTitle": "Tea Party Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tea Party at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Tea Party Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517901921.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7672,
+      "ownGame": false,
+      "addDate": "2018-02-06T12:55:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.691Z",
+      "updatedAt": "2022-08-23T23:21:30.093Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
