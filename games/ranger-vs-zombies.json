@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2c2",
+      "id": 6127,
+      "name": "Ranger Vs Zombies",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "ranger-vs-zombies",
+      "image": "6127",
+      "url": "ranger-vs-zombies",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The exciting and addictive Zombie world always excites and appeals many boys.&nbsp; We have brought to you a place where you realize that zombie apocalypse is near. Are you ready to take on this completely unique challenge? Join Ranger vs Zombies game where you will find yourself surrounded by a huge horde of undeads! The problem is that these nasty and ugly zombies will keep coming to you continuously. You can overcome them by practicing your intense shooting abilities in this brand new action game.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Do not underestimate your power as you are also playing the role of a brave ranger who owns a powerful gun. Put your fingers on the button and clear all the bad souls from the screen in this cool zombie game! The problem is that your enemy zombies are available in the air and on land. But, you do not worry as you also have a shotgun. Do not forget to grab all the coins, items, improvements and prove the world that you are an unmatched ranger!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You will have cold ice, lightning and firestorm to explore in this html5 zombie running game. Follow all the instructions properly to make your win in the battleground where the number of enemies is very big. Move your character and make him jump over the dangerous creatures using the arrow keys. Shoot those bad-looking creatures before they catch you! Play wisely as you have only 3 lives to use! The colorful graphics and easy controls combined with the quality gameplay will be enough to keep you engrossed for hours, no download required.&nbsp;</span></div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/ranger-vs-zombies/",
+      "metaTitle": "Ranger Zombies, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ranger Zombies at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Ranger Zombies Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442954.xml",
+      "idealFor": "Man",
+      "likes": 386,
+      "dislikes": 14,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 137814,
+      "ownGame": true,
+      "addDate": "2019-09-26T01:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-03-08T15:52:35.404Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT SCREEN TO JUMP, RIGHT TO SHOOT",
+      "webControlKeys": "W OR UP ARROW TO JUMP SPACE TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 30
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
