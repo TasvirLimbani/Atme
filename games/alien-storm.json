@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0c4",
+      "id": 5473,
+      "name": "Alien Storm",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "alien-storm",
+      "image": "5473",
+      "url": "alien-storm",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Keep your fingers on your keyboard to allow you enter a dynamic battlefield where the number of enemies are very large! The only way to escape in this brand new action packed challenge is to shoot all the aliens you spot the screen. Do you think that you really want to give yourself the best fun and thrill-filled treat of your life? It does not make a sense to wait anymore. Join Alien Storm now and show the world that you are a true lover of intense action games!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You will find yourself at the earth that is invaded by a horde of dangerous aliens. However, your amazing shooting ability makes you a perfect choice for all those who need instant help urgently to protect their lives. There are many popular arcade games where the use of gun, electic whip, kids and punches are common. However, this time you have to put your shooting skills to test to the maximum to achieve the goal of the game. Destroy all your enemies and also keep your eyes on your energy bar!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Do not forget to rescue humans from the deadly aliens to secure extra points! Get ready to face of a large alien to boss to fight and defeat in the end of each level of this amazing alien shooter game! Various types of aliens will pop out from various locations of the screen. Do not leave anyone to win this epic battle as fast as you can! We are proud to offer many more exciting 3D gun multiplayer shooter games for boys! Try our all games for free to help us to serve you better!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/88c3892a07094b82bd810fe030d660a0/\r\n",
+      "metaTitle": "Alien Storm, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Alien Storm at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Alien Storm Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449471.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10201,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:27:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2024-06-04T07:34:53.918Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ENEMIES TO KILL",
+      "webControlKeys": "SPACE-RUN, L CLICK O0F MOUSE ON ENEMIES TO KILL THEM"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
