@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b334",
+      "id": 1799,
+      "name": "Freecell Duplex",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "freecell-duplex",
+      "image": "1799",
+      "url": "freecell-duplex",
+      "description": "This version of the popular card game is twice as nice and double the fun.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=df991c1c627d40cdbfda681739e64548\r\n",
+      "metaTitle": "Freecell Duplex, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Freecell Duplex at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Freecell Duplex Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630155.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7607,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.696Z",
+      "updatedAt": "2023-08-23T06:37:11.068Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
