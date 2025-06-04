@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd00",
+      "id": 4487,
+      "name": "Alien Shooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "alien-shooter",
+      "image": "4487",
+      "url": "alien-shooter",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you ready to face off the biggest action-packed challenge of your life? Do you love playing the online games featuring a horde of deadly aliens? Join Alien Shooter and prove the world that no one can beat you when it comes to killing aliens to save the humanity! Yes, the blood sucking aliens have captured all the facility where you are working. And, you are the only one left after the alien invasion. Grab your gun and kill all the dangerous enemies and fight like never before in a unique battlefield!</span></div><div><span style=\"font-size: 13.3333px;\">It is not going to be easy at all since your enemies can come in front of you anytime without giving you any warning prior to the attack. Shoot these deadly monsters immediately before they begin attacking you with the bullets available in your hand in this html5 shooting game! Do not use to reload your gun in case if you run out of the bullets. You can also use the bomb to have a strong blast on the spot and clear all your enemies shown on the screen in a one shot.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Track your health by having a look at the bottom left corner of the screen in this space shooter game! Complete missions, grab money and get ready to upgrade your weapons! Once your game finishes, your complete health report combined with the accuracy, complication and your present score will be displayed on the screen. You can restart your game or go to the main menu from here. Be fast and trust yourself as saving the entire humanity is in your hands now! Good luck to finish all the missions in this first-person fighting game!&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/d646066291944294b1c7687d7d346326/\n",
+      "metaTitle": "Alien Shooter, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Alien Shooter at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Alien Shooter Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544526946.xml",
+      "idealFor": "All",
+      "likes": 19,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13866,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-07-22T11:03:37.020Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK OF MOUSE TO SHOOT, R -RELOAD"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
