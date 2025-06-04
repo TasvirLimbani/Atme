@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba7f",
+      "id": 3829,
+      "name": "Bottle Cap Match",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "bottle-cap-match",
+      "image": "3829",
+      "url": "bottle-cap-match",
+      "description": "A classic match-3 game, but this time with cool colourful bottlecaps to match&#33; Set the best score you can and see how you stack up to the rest of the world&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/bottle-cap-match-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Bottle Cap Match, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bottle Cap Match at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Bottle Cap Match Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9747,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.728Z",
+      "updatedAt": "2023-08-30T22:33:17.322Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE COLOR DOTS . MAKE A MATCH AT LEAST 3 SAME COLOR DOTS",
+      "webControlKeys": "SWIPE THE COLOR DOTS WITH L CLICK OF MOUSE. MAKE A MATCH AT LEAST 3 SAME COLOR DOTS"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
