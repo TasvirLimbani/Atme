@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bda1",
+      "id": 4649,
+      "name": "Ride The Bus Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "ride-the-bus-simulator",
+      "image": "4649",
+      "url": "ride-the-bus-simulator",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The time has come when you can take your driving fantasy to the next level! Why you need to enter the 2D racing world when a graphically-improved brand new 3D car game is here to help fulfill your speed cravings? Join Ride the Bus Simulator and show off the world that you are an ultimate racer whether you drive the car offline or online! Hurry up boys! This colorful world will allow you to enjoy the adventure in buses. Keep driving to hit the best score!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Choose your car and get ready to enjoy the highly thrilling driving experience in this html5 racing game! Putting your intense driving abilities to the test will surely guide you towards the win! Do not forget to grab the gold on your way. You can check the main menu to see the total amount of gold you have grabbed as of now. Make sure that you have selected a right bus before hitting the road in this car simulator. You would lose if your bus stops or hit during the path.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The entire track is full of multiple types of obstacles in the form of traffic and other things. Click the gear icon and tire icons to customize your vehicle, tires, brakes, handling and speed in this one of the best bus simulation games for kids! Select any mode from 3 options including night, rainy and sunny! Choose graphics between low, medium and high range and image effects between bloom, road reflections and lens flares! You can also select the controller between gyro and touch screen. We offer you a great choice in the category of car driving games that you can play online for free, no download required.&nbsp;</span></div>",
+      "size": 850,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/dcdecf65d5404e7dba647ce30489207e/\r\n",
+      "metaTitle": "Ride The Bus Simulator, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ride The Bus Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ride The Bus Simulator Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544705010.xml",
+      "idealFor": "Man",
+      "likes": 32,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9382,
+      "ownGame": false,
+      "addDate": "2018-12-13T18:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-08-17T19:48:30.316Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W.,A,S,D ALL ARROWS TO CONTROL, SPACE- BREAK, C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
