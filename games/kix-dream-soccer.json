@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c18c",
+      "id": 5699,
+      "name": "KiX Dream Soccer",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "kix-dream-soccer",
+      "image": "5699",
+      "url": "kix-dream-soccer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you love playing soccer games whether the sport is played offline or online? Are you a tough defender and crazy for sliding tackle in your way? Join the community of KiX Dream Soccer and take your fantasy for the sport to the next level! You will surely be amazed by exploring this new soccer game concept. It is highly valued for its fabulous combination of gameplay and user-friendly mechanics. We hope you will also find out the controls of the game very easily!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your major role in this one of the best soccer games for kids is to steal the ball, pass, shoot, and goal. Give this realistic soccer game a try and get a chance to prove the world that you have the ultimate skills to be a World Cup Champs! There are three different modes, including Dream Cup, World Cup, and Story Mode to choose from. Put all your football skills to challenge to lead your team to the most wanted victory!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Play wisely and do not forget to collect enough money to buy new players, kits and more to make your job easier! Joining this fun football game is sure to allow you to experience a FIFA like action! Many more games are available on our website to explore if you are a true ardent of soccer sport! In our all games, you are pretty sure to get the best fun and entertainment in a short period.&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/5ba9c60eb5f44d758a24ed1e83472101/\r\n",
+      "metaTitle": "KiX Dream Soccer, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game KiX Dream Soccer at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "KiX Dream Soccer Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557559199.xml",
+      "idealFor": "Man",
+      "likes": 162,
+      "dislikes": 20,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 24187,
+      "ownGame": false,
+      "addDate": "2019-05-11T12:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2025-05-13T08:42:13.127Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "kixdreamsoccer.com sent an invalid response."
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 58
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
