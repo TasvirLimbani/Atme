@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae56",
+      "id": 129,
+      "name": "Gully Cricket",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "gully-cricket",
+      "image": "129",
+      "url": "gully-cricket",
+      "description": "In a country, where, <a href=\"http://www.atmegame.com/online-cricket-games\" title=\"\" target=\"\"><font color=\"#0033cc\">playing cricket</font></a> is being like going beyond the craziness and cricketers are treated as a God, the gully cricket game is its own unique version of the game being played at interior areas and outskirts of the country and is a localized version of cricket in India. In this unique game of online cricket, the gully cricket games is being played in three levels of the game.<br><br>In the initial level of the game, you will have to score 30 runs in three over?s with 10 wickets in hand and clearing this level, the next interesting level of the game school champion level, where, around 40 runs are to be scored in three overs and in the college level too, 50 runs are yet to be made in same three overs.<br><br>However, for hitting three consecutive boundaries you become a supper hitter and for hitting two sixes straight after that you get surrounded by rivals and they begin thrashing you, severely. You have to beat all of them to emerge as a undisputed lever. In case, ball hitting to public, you get around 100 points for winning the game. The gully cricket raises the level of the game to a greater extent<br><br>In order to play gully cricket game to full execution, following steps are very necessary to follow levels as position mouse to bat, left click to hit the ball, hit three balls to become a super hitter and keep on pressing space bar, when al other opponents are beating you.",
+      "size": 650,
+      "height": 488,
+      "script": "129_swf.swf",
+      "metaTitle": "Gully Cricket, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Gully cricket the localized version of the game of online cricket is being played and enjoyed by the cricket lovers across the caste and creed throughout India.",
+      "metaKeyword": "gully cricket, Sports, Cricket, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 217,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 55383,
+      "ownGame": false,
+      "addDate": "2016-07-03T07:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2024-12-07T11:30:05.216Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT FOUND"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 80
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
