@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8b6",
+      "id": 3322,
+      "name": "Rich Girls Mall Shopping",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "rich-girls-mall-shopping",
+      "image": "3322",
+      "url": "rich-girls-mall-shopping",
+      "description": "Today our three rich princesses decided to go for a new shopping experience and you are welcome to join them.Visit different mall fashion shops,try different outfits for every princess and in the end decide what to buy.Try unlimited outfit combinations and choose the one that you like.Have fun playing our new girl game called Rich Girls Mall Shopping!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/d64ef229eb33463099992aebbd81b7eb/\r\n",
+      "metaTitle": "Rich Girls Mall Shopping, Dressing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Rich Girls Mall Shopping at atmegame.com ! We have selected this dressing games for best excitement and thrill in you!",
+      "metaKeyword": "Rich Girls Mall Shopping Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533533402.xml",
+      "idealFor": "Man",
+      "likes": 38,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 11362,
+      "ownGame": false,
+      "addDate": "2018-08-06T11:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.722Z",
+      "updatedAt": "2024-03-24T09:57:53.438Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS TO MAKEUP",
+      "webControlKeys": "L CLICK OF MOUSE TO DRESSUP"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
