@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b666",
+      "id": 2711,
+      "name": "Cricket All Rounder",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "cricket-all-rounder",
+      "image": "2711",
+      "url": "cricket-all-rounder",
+      "description": "<div>Cricket All Rounder is an awesome sports game where you will find it easier to fulfil your cricket fantasy to the fullest. Get enrolled into the world most popular free online sports game and enjoy an opportunity to bat, bowl and field. Your mission in this brand new sport is to show off your best all-rounder cricketing skills to beat your opponent. Make sure that you apply your patience and focus on the useful instructions to achieve the goal of this free online cricket game. </div><div><br></div><div>In order to bring the trophy of the tournament to your home for your country, you will have to perform best in these three important areas: bating, bowling and fielding. Is not an exciting opportunity to include yourself in the list of the best all-rounders? No need to wait anymore boys! Play this cool html5 game in your browser today and show the world that you also have amazing cricketing skills. Let your bat and bowl talk to all your opponents to wear the crown of being the greatest players of all the time!</div><div><br></div><div>Go through the instructions properly so that you can collect the optimum possible points for your proud team as well as country. This also allows you to secure the big money transfers. Hope you will rock in this best sport game for boys and girls. The time has become when you need to show the magic with both bat and bowl. Your good performance helps you to obtain the surprizing financial offers and endorsements from the popular cricket clubs near you. Perform well in a few training rounds to secure your place in some clubs. All the best kids to have fun while showing your best cricketing spirit!</div>",
+      "size": 650,
+      "height": 530,
+      "script": "2711_swf.swf",
+      "metaTitle": "Cricket All Rounder, Cricket Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cricket All Rounder at atmegame.com ! We have selected this cricket games for best excitement and thrill in you!",
+      "metaKeyword": "Cricket All Rounder, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 120,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 50200,
+      "ownGame": false,
+      "addDate": "2018-06-21T16:03:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.714Z",
+      "updatedAt": "2024-09-29T01:48:53.853Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "PLUGINS NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 49
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
