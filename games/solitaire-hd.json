@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5f2",
+      "id": 2584,
+      "name": "Solitaire HD",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "solitaire-hd",
+      "image": "2584",
+      "url": "solitaire-hd",
+      "description": "<div>One of the world?s most popular card games, Solitaire HD has everything that you need to push your card playing skills. Getting enrolled into this free online arcade game makes use that you will have to face new challenges. Play it now and get ready for a few unique rounds that are filled up with amazing fun and entertainment. Your primary objective is to remove all the cards from the game and create the sequences of cards in suit right from King to Ace</div><div><br></div><div>The key of winning this brand new html5 game is to keep patience and use your logical thinking. There is an empty spot where you can move a card that is in a valid sequence having same color: black and red. You can move a card only to a card that has a higher value. Get new cards by just clicking on the stack available on the top left of the screen.?</div><div><br></div><div>Solitaire HD features amazing gameplay, exclusive graphics and unmatched audio and video effects. Play this colourful version of this worldwide recognized arcade game where you will have a lot of fun and pleasure to be enjoyed while taking the charge of sorting all the cards on the field. Be clear in your approach and play it with full of confidence in order to make huge score in this brand new card game. Many other card enthusiasts are waiting for you! Let?s get into the best arcade game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/html5/solitaire-hd/index.php",
+      "metaTitle": "Solitaire HD, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Solitaire HD at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Solitaire HD Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7548,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.712Z",
+      "updatedAt": "2024-03-18T19:06:34.536Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE- DRAG THE CARD, L CLICK- PLAY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
