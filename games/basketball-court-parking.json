@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b35e",
+      "id": 1842,
+      "name": "Basketball Court Parking",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "basketball-court-parking",
+      "image": "1842",
+      "url": "basketball-court-parking",
+      "description": "Driving around town can be really fun but you are not doing this for your enjoyment. Your manager gave you one last chance to prove that you still are the great basketball player you once were. Drive to every basketball court in town, park your car safely in the indicated spot and do your best to score on each and every one! Do not forget to collect basketballs on your way to increase the number of tries you have to score. Have lots of fun!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=ee16fa83c0f151ef85e617f5aa3867a6\r\n",
+      "metaTitle": "Basketball Court Parking, Parking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Basketball Court Parking at atmegame.com ! We have selected this Parking games for best excitement and thrill in you!",
+      "metaKeyword": "Basketball Court Parking Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630386.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8448,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:03:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2024-03-11T21:17:51.444Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
