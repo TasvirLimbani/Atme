@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be04",
+      "id": 4749,
+      "name": "Mad Boy Adventures",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "mad-boy-adventures",
+      "image": "4749",
+      "url": "mad-boy-adventures",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Have you played Sonic, Donkey Kong and Super Mario games or have heard about them? We are damn sure that you would have more fun and entertainment when you check out this brand new adventure challenge in your device today. In this addictive and challenging 2D side-scroller game, you have to help a small boy who wants to cover a long distance on a platform that is full of multiple obstacles. Do you think that you can help him out? Join Mad Boy Adventures game and get ready to guide him to complete his mission!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Remember there are highly challenging and exciting levels to explore in this free online platform game. This cute boy relies on your adventurous abilities a lot, so do not make him feel down. Kill all his enemies and guide him to collect as many coins as you can! Be careful when he moves on the platform since you lose the game if the character touches the monster or falls down under a trap! Do not forget to avoid all the strange creatures and help him reach his destination safely.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to be extra careful and make sure that he will run and jump to dodge the obstacles! Your enemies are very sharp and not going to show pity on you so try to kill all the little robots and do not forget to use them to jump higher to clear each level. You have gotten a wonderful opportunity today to become a new mad Mario in this cute html5 runner challenge. Check out more tricky and exciting action games for boys that are playable on multiple devices without download on mobile phones, desktops or any other gaming devices!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://m.shtoss.com/game/mad-boy-adventures/index.html\r\n",
+      "metaTitle": "Mad Boy Adventures, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mad Boy Adventures at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Mad Boy Adventures Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7410,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.741Z",
+      "updatedAt": "2024-02-22T10:03:39.860Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS- L-R MOVE, R ICON- JUMP",
+      "webControlKeys": "UP ARROW - JUMP,L-R ARROW TO MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
