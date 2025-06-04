@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af87",
+      "id": 646,
+      "name": "Cooking After Workout",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "cooking-after-workout",
+      "image": "646",
+      "url": "cooking-after-workout",
+      "description": "<div>Cooking After Workout is a latest free online game for kids of all ages. In this fabulous online cooking game for girls, your mission is to prepare the perfect salad for princess Rapunzel, princess Elsa and Princess Anna. When you play this cool recreational activity, you can be rest assured of having unlimited fun and pleasure.&nbsp; All the three princesses have just returned from the gym and they are now ready to eat the perfect salad which you will prepare for them. Just focus on the instructions while preparing a salad which is a perfect food after workout.</div><div><br></div><div>In this exciting and challenging flash game for girls, you will see all the three gorgeous princesses standing around the table waiting for their favorite food -salad to be ready after going through a heavy workout. Start this flash game right from selecting the perfect plate on which you will take the role of preparing the salad. In the second step, you have to select all the elements that will make your salad look fabulous. You will select your favorite element from the bottom right from every category.&nbsp;</div><div><br></div><div>The proper usage of the mouse will help to prepare the best quality salad for our heroine from Disney. Once you complete your task, the princesses will check your salad and tell you what they think about your work. The quicker you will do your job, the higher points you can earn in this new cool cooking game for kids. Good luck for cooking some healthy meals for the gorgeous girls!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/d06dd332a53540eea506fd42d1ea63dd/",
+      "metaTitle": "Cooking After Workout, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cooking After Workout at atmegame.com ! We have selected this Cooking games for best excitement and thrill in you!",
+      "metaKeyword": "Cooking After Workout Game, Girls Games, Cooking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "",
+      "xmlFile": "Cooking_1513839135.json",
+      "idealFor": "Man",
+      "likes": 31,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 12319,
+      "ownGame": false,
+      "addDate": "2017-12-21T12:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.671Z",
+      "updatedAt": "2024-08-31T06:38:12.675Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ITEMS TO SELECT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
