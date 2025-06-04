@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b62b",
+      "id": 2642,
+      "name": "Truck Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "truck-simulator",
+      "image": "2642",
+      "url": "truck-simulator",
+      "description": "<div>It is always difficult to accomplish missions in a city where it is easy to find people on the roads driving their cars to their various types of daily jobs. Although they are doing nice work, it gets you in trouble especially when you have a plenty of missions to be completed in a limited time period. Remember crashing them along the way might end up with receiving some kind of time penalty that also causes loss in cash for your mission. Take your seat in a heavy loader truck and show off your ultimate driving skills in this free online truck racing game for boys.</div><div><br></div><div>The online key of gaining advantage is to smash all the vehicles that you see on your way without showing mercy to anyone else. Apply some strategy with your cars to run them effectively. It is a brand new truck driving game where the war occurs between the heavyweight machinery and ordinary cars. You have the freedom to check out the latest variety of cars in the garage. Travel the whole city as fast as you can to complete various missions and earn maximum points, which you can use later to unlock dozens of new trucks to drive.</div><div><br></div><div>Truck Simulator is an exclusively-designed 3D truck driving simulation video game which will provide you unlimited fun and entertainment. Choose from various types of trucks that range from ambulances, firetrucks to freight trucks. This cool PC game features a free mode under which you will be given the freedom to drive around the city without doing anything specific. Collect the points and upgrade the steering, braking and top speed of each truck. Play this best 3D video game for boys on different weather for more fun!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/truck-simulator/index.php",
+      "metaTitle": "Truck Simulator, Truck Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Truck Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Truck Simulator Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 13911,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-07-23T08:58:09.922Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "WA,S,D ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
