@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb1f",
+      "id": 4000,
+      "name": "Highway Traffic",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "highway-traffic",
+      "image": "4000",
+      "url": "highway-traffic",
+      "description": "<div>So, you have decided to practice your driving abilities! But you do not want to go outside and improve your skills without damaging to any human lives or objects available on the road. This is why you must try out this brand new racing game where you can take your love for speed to another level while having fun to the maximum point. Join Highway Traffic and be prepared to ride multiple car models ranging from the classic sedan to the modern sports four-wheeler!</div><div><br></div><div>This fun traffic game will allow you to choose from a wider range of car models and game modes. Your objective in this HTML5 car game is to dodge different kinds of objects that you see on your way. Beat every challenge to earn some cash and enjoy an opportunity of purchasing new upgrades! You would have 4 different game modes to play through. Customize your vehicle and even the weather whenever you want if needed in this 3D car race game!</div><div><br></div><div>There are 3 different weather patterns and four game modes to explore. Try not to collide with any other vehicles and find a way to reach as far as possible to become a true car racer! Smooth car controls, colourful graphics, seamless gameplay and engaging content will definitely keep you glued to the screen for long. It is our pleasure to get you connected with a huge collection of 3D car games that you can enjoy and have fun with your friends without download.&nbsp;</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/7c151f5e29eb40a591edfe1823e1d0ea/\r\n",
+      "metaTitle": "Highway Traffic, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Highway Traffic at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Highway Traffic Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 81,
+      "dislikes": 8,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 23030,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2025-03-09T17:22:24.072Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W/UP ARROW- MOVE, S/DOWNARROW- SLOW, L-R ARROWS/A,D- L-R MOVE, C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
