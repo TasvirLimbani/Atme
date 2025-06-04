@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad68",
+  "category_name": "pool",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad68",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c29c",
+      "id": 6083,
+      "name": "8 Ball Pool",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "8-ball-pool-multiplayer",
+      "image": "6083",
+      "url": "8-ball-pool-multiplayer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">8 Ball Pool is one of the most in-demand and best multiplayer billiards games online. Play pool game online for free against other experienced players and friends in your own convenient time! You will have the full freedom to enter the big tournaments to ensure a big win for you. It i</span><span style=\"background-color: transparent;\">s amazing to explore the thrill and excitement in billiard game online. Challenge your opponents in 1-on-1 matches and also get a pleasure of customizing with clothes and cues in the pool shop!There are more to be explored in this free online pool game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">It is up to you whether you choose from competing in 1-on-1 or 8 player billiard game tournaments. First refine your billiard skill before entering the game. It will be really exciting to get participated in the tournaments to enjoy the victory over the popular trophies and exclusive cues. The only way to get the coins is winning the match. The coins collected through the game will help you to be involved in the higher ranked matches with bigger stakes. You can also use them to purchase new items from the pool shop.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This one of the best pool games online can be playable for free on Android phones, iTouch, iPad, and iPhone devices. Play as many matches as you can to improve your ranking and gain a quick access to the better match locations, where only best poll players reach and play. Play with the best players or challenge your friends anytime and anywhere! Hurry up boys! It is time to show off your skills and become the best player of the billiard game!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://play.famobi.com/8ball-online/A-925FD",
+      "metaTitle": "8 Ball Pool Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 8 Ball Pool at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "8 Ball Pool, Play Free Games, Play Online Free Games, Multiplayer Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 2842,
+      "dislikes": 168,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 1417675,
+      "ownGame": false,
+      "addDate": "2019-07-29T00:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.760Z",
+      "updatedAt": "2025-06-02T09:33:28.355Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH SCREENTO HIT",
+      "webControlKeys": "LEFT MOUSE CLICK TO HIT"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 300
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad68",
+      "name": "pool",
+      "slug": "pool",
+      "icon": "Pool-games"
+    }
+  }
+}
