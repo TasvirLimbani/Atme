@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b991",
+      "id": 3573,
+      "name": "Rider Online",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "rider-online",
+      "image": "3573",
+      "url": "rider-online",
+      "description": "Get ready for some flippin' action! Perform insane stunts while you cruise through the never-ending world of Rider! Grab your motorcycle and start flipping like a maniac, Collect diamonds and unlock new bikes,combos and beat the best scores\r\n",
+      "size": 400,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/ec0f442775664b43b582fdfadb6a424f/\n",
+      "metaTitle": "Rider Online, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Rider Online at atmegame.com ! We have selected this car games for best excitement and thrill in you!",
+      "metaKeyword": "Rider Online Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335025.xml",
+      "idealFor": "All",
+      "likes": 18,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10752,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.725Z",
+      "updatedAt": "2024-04-19T19:37:49.624Z",
+      "__v": 0,
+      "mobileControlKeys": "HOLD TO SCREEN TO FLIP AND MOVE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SPEED AND FLIP "
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
