@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bdea",
+      "id": 4723,
+      "name": "Double Runner",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "double-runner",
+      "image": "4723",
+      "url": "double-runner",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Have you ever imagined of controlling two runners at the same time? Huh! It can be handled by anyone. Only those who have good command over the online running games dare to accept this kind of challenge. Are you the one who can control the one runner easily? Join Double Runner to see if you can handle the two of them at the same time! Both runners need your guidance, so try to keep them away from the deadly obstacles while looking forward to help them to complete their running missions.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">It will be your duty to grab as many diamonds as you can to finish the game with the maximum possible score in this brand new adventure game. Be careful and try to make these mirrored runners jump safely without hitting each other! Do not hesitate in making him jump double over the spikes and gaps. Try to focus on the screen to help them run as far as possible! You have to put your multitasking skills to the test to make your win in this addictive and funny running game.</span></div><div><span style=\"font-size: 13.3333px;\">&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This cool html5 running game will also challenge your quick reflexes and spatial vision. There are rocks, cacti and other obstacles to face off on their way. Do your best to guide them cover the longest distance on this unique platform! Try this highscore skill challenge alone or with your friends! We have plenty of other platformer games for kids that are free to play online, no download required. All the best to have a blast every time when you visit our website and explore your favorite online game!</span></div>",
+      "size": 1366,
+      "height": 768,
+      "script": "https://m.shtoss.com/game/double-runner/index.html",
+      "metaTitle": "Double Runner, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Double Runner at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Double Runner Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8360,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.740Z",
+      "updatedAt": "2024-05-27T08:19:03.157Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO JUMP",
+      "webControlKeys": "UP ARROW / L CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
