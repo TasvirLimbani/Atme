@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2a2",
+      "id": 6091,
+      "name": "Terrorist Shootout",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "terrorist-shootout",
+      "image": "6091",
+      "url": "terrorist-shootout",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The life of a soldier is very tough and you have today decided to live it in your own style. Oh no! On the first day of your duty, you have given an extremely difficult task. Would you be able to handle it like a pro soldier? If yes, Join Terrorist Shootout and be prepared to clean the area from all these evil souls. This town has already filled up with a range of terrorists and you are only one how know how to deal them. Grab your rifle and eliminate all enemy soldiers to pass each level!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Once you clear the level, a screen will be displayed showing the details about how much money you have earned, the percentage of hitting your enemies and your accuracy of attempting the task. Do not forget to click the upgrade button to get a more powerful weapon with the help of money. After finalizing a weapon, click the Next button to move to the advanced level. Be careful and try to complete your mission before the time expires in this free online shooting game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Track how many soldiers you have to deal with the enemy soldiers in the present level by having a look at the top middle portion of the screen! The right top corner of the screen will show the number of bullets available at your hand. Do not worry your gun will start reloading automatically. Your enemies can be anywhere behind the cars, in the balcony, window and roof of the buildings in the city. Good luck to destroy them in just 10 seconds to prove yourself as a pro shooter! Do not forget to upgrade your gun to improve its performance.&nbsp;</span></div>",
+      "size": 1136,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/eaf7042fc7f3465d8a98bdf0d3916b70/\r\n",
+      "metaTitle": "Terrorist Shootout, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Terrorist Shootout at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Terrorist Shootout Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442796.xml",
+      "idealFor": "Man",
+      "likes": 38,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8131,
+      "ownGame": false,
+      "addDate": "2019-09-26T01:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-04-12T03:03:55.774Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
