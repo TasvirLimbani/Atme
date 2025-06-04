@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4a3",
+      "id": 2198,
+      "name": "Star Smash",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "star-smash",
+      "image": "2198",
+      "url": "star-smash",
+      "description": "Star Smash is an addictive card puzzle game made for kids from the creators of Kizi games.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/ff55d5c5e31544229f8d292d029326df/\r\n",
+      "metaTitle": "Star Smash, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Star Smash at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Star Smash Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1523600544.xml",
+      "idealFor": "Man",
+      "likes": 30,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 10850,
+      "ownGame": false,
+      "addDate": "2018-04-13T11:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2025-02-15T14:41:33.999Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO SHOOT THE ENEMY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
