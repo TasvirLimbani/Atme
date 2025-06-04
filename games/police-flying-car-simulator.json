@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c374",
+      "id": 6360,
+      "name": "Police Flying Car Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "police-flying-car-simulator",
+      "image": "6360",
+      "url": "police-flying-car-simulator",
+      "description": "<div>Have you ever seen police cars flying high in the sky? Is driving police cars on the streets of your city your biggest dream? If so, join Police Flying Car Simulator and be prepared to drive and fly the latest police cars while seeking to complete multiple thrilling missions. Wow! In this brand new racing challenge, you have to take care of different amazing task ranging from chasing thief to following popular celebrities. Fly your favourite car models and complete missions to earn cash!</div><div><br></div><div>Be careful as only people with insane driving and flying abilities can dare to accept this challenge. So think twice before taking up these tough challenges. Grab your car, faster your seat belt and get ready to show the world that you are good in both driving and flying! You as a police officer have to catch the criminals at any cost to earn the points through which you can buy new car models. Do not forget to refill your fuel when you are on a suspect chase mission in this HTML5 car game.</div><div><br></div><div>There are different types of cars, supercars, and SUVs to unlock. Do not forget to turn on the police sirens and go through the road and sky to catch your suspect. Click the flying mode button to watch your vehicle transforming from a car to an airplane that is ready to take off and fly high in the sky! Perform flips and loops and also feel free to make some needful drifts, tricks and slide all around the streets of your beautiful city! Let your vehicle fly in the wide-open sky to enjoy an immersive gaming experience in this flying police car simulation!</div>",
+      "size": 960,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/32b8e3f0d3bb4e9396fa05c6fb076538/\r\n",
+      "metaTitle": "Police Flying Car Simulator Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Police Flying Car Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Police Flying Car Simulator Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842210.xml",
+      "idealFor": "Man",
+      "likes": 64,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 12276,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:33:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2024-11-08T17:14:48.955Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W FOR SPEED S -BREAKS,A,D-L-R,SPACE-ON/OFF FLYING MODE,R -SWITCH CONTROLS"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 12
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
