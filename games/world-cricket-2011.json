@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aeec",
+      "id": 459,
+      "name": "World Cricket 2011",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "world-cricket-2011",
+      "image": "459",
+      "url": "world-cricket-2011",
+      "description": "<p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font color=\"#000033\">The </font><a href=\"http://www.atmegame.com/online-cricket-games\" title=\"\" target=\"\" style=\"\"><font color=\"#0033cc\">online cricket game</font></a><font color=\"#000033\"> that has been presented with different perspectives and mannerism is to be attached and tested in the online version of the game are constantly go with the different types of game designs and visualization streak offered in the game with the advanced introduction of technology in online gaming atmosphere.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font color=\"#000033\">World Cricket 2011 game preview is the latest version of online gaming that has been attached with the ultimate importance when playing the online cricket game with the different demeanor and attitude. The game inspired from the world cup cricket 2011 is being played in two modes Arcade and world cricket challenge mode and pattern.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font color=\"#000033\">Whether the free online cricket is being played in the online version or in the saved mode, your aim there always has to hit the ball to score as much maximum as possible runs to make points. However, to stand how this game is being played is very necessary to enjoy this game to the fullest expectation and class.</font></p><p class=\"MsoNormal\" style=\"text-align:justify;text-justify:inter-ideograph\"><font color=\"#000033\">The aim of this particular game is to hit as much as possible targets scattered across the ground. As the bowler reaches you close to marker it hints, where, the ball is required to be hit in the game. Next, use the move to aim circle towards the marker. As nearest you are the circle as much better you will hit the ball in this free online game.</font></p>",
+      "size": 640,
+      "height": 480,
+      "script": "<!-- Place this code where you'd like the game to appear -->\r\n<div class=\"miniclip-game-embed\" data-game-name=\"world-cricket-2011\" data-theme=\"0\" data-width=\"640\" data-height=\"480\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/world-cricket-2011/\">Play World Cricket 2011</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/world-cricket-2011/\" target=\"_blank\">Play World Cricket 2011</a> / More <a href=\"https://www.miniclip.com/games/genre-3/\" target=\"_blank\">Sports games</a></p>\r\n\r\n<!-- Insert this code before your </body> tag -->\r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "World Cricket 2011, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "World Cricket 2011 Game overview is being played for the gaming cult and passion associated with cricket online game experimented with better visualization and design.",
+      "metaKeyword": "World Cricket 2011, Sports, Cricket Games, World Cricket 2011 Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 712,
+      "dislikes": 19,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 106768,
+      "ownGame": false,
+      "addDate": "2017-07-16T20:14:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.667Z",
+      "updatedAt": "2025-05-13T08:40:49.933Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT FOUND"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 63
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
