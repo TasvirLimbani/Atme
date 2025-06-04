@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2bc",
+      "id": 6120,
+      "name": "Cat Gunner vs Zombies",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "cat-gunner-vs-zombies",
+      "image": "6120",
+      "url": "cat-gunner-vs-zombies",
+      "description": "<div>Oh my God! This beautiful cat city is infected by extremely dangerous biochemical pollution. As a response, a good number of cat citizens have already transformed into deadly zombie cats who have started creating a mess in the city. Luckily, a team of scientists has come together and prepared a cat agent team. In short, you are playing the role of a cat agent team in Cat Gunner Vs Zombies. Grab your gun and be prepared to eliminate different waves of blood-thirsty zombie cats in this fast-paced action game!</div><div><br></div><div>Be careful and try to react fast in shooting down all the zombies that you see in front of the screen! Control a brave cat and get yourself ready to fend off the waves after waves of zombies! Your successful efforts will also help you to earn some coins and get some fish cookies. Use those coins to unlock new characters and powerful weapons! We are pretty sure that you are sufficient enough to guide your character through all the waves in this side-scrolling action shooter game.</div><div><br></div><div>It is going to be very tough to fight against those undead cats. Make sure to check if your favorite eatable items like yarn balls and milk bottles are secured safely. Use your trigger finger to finish all the zombies to clear each level in this one of the best HTML5 shooting games! Fight against different types of enemies and get ready to earn fish crackers for your every successful killing. Do not forget to reload your ammo when get finished. Good luck to survive through all the levels to become the best survival of the city!</div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/4165ddffbe684187882dc1ab05d0f90b/\r\n",
+      "metaTitle": "Cat Gunner vs Zombies, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cat Gunner vs Zombies at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Cat Gunner vs Zombies Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442796.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9948,
+      "ownGame": false,
+      "addDate": "2019-09-26T01:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-02-07T15:21:40.686Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT SCREEN TO MOVE RIGHT TO SHOOT",
+      "webControlKeys": "W,A,S,D TO MOVE AND LEFT MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
