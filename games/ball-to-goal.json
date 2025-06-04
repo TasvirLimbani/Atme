@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bba9",
+      "id": 4140,
+      "name": "Ball To Goal",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "ball-to-goal",
+      "image": "4140",
+      "url": "ball-to-goal",
+      "description": "<div>Play this brand new soccer game and forget all the football games you have played previously! Like many other soccer challenges, you also have to make goals to score and clear each level. Challenges would be bigger than you thought of in this cool online game. Choose your level and be prepared to show off your intense soccer-playing abilities in a green playground that is also full of various obstacles! Your ball has to face off these hurdles before reaching the goal.</div><div><br></div><div>Click or tap the screen to aim your target and make a goal in as less hits or strokes as possible in this HTML5 sports game! The left top portion of the screen will show you how many strokes you have used to make a goal. While the right top portion of the screen shows your best score. Try to keep your soccer ball away from the moving candy-colored balls since they are capable enough to stop your ball from moving forward and reaching the goal point for long!</div><div><br></div><div>There are 24 unique and highly addictive levels to play through in this funny skill game. Good luck to guide your ball through all the levels to make a goal and become a true soccer player! We through our website offer a wide range of free sports games where you can enjoy other popular titles like Dunk Hit, Finger Basketball, Ultimate Swish game and more. Choose any of the games you like and allow yourself to have lots of fun and entertainment without download!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/ec721c8fd8e44c52953a13c3250adb50/\r\n",
+      "metaTitle": "Ball To Goal, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ball To Goal at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ball To Goal Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226795.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11244,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:36:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-08-01T07:22:42.785Z",
+      "__v": 0,
+      "mobileControlKeys": "DRAG AND DROP TO AIM AND SHOOT, DRAG TO MOVE THE STAGE ",
+      "webControlKeys": "KIEEP PRESS L CLICK OF MOUSE AND RELESE TO MAKE THE GOLE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
