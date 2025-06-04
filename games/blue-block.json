@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd3e",
+      "id": 4550,
+      "name": "Blue Block",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "blue-block",
+      "image": "4550",
+      "url": "blue-block",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you think that you are a king of block-based puzzles? Join Blue Block and get ready to challenge your concentration and puzzle-solving abilities to the ultimate possible level! When you click the play button, you would notice blue and pink color blocks on the screen. Now your job is to guide the blue block to find a way to escape. Put your finger on your mouse on PC or tap the screen on a mobile phone to simply slide different pink colored blocks around until you find a path for the blue block to escape!</span></div><div><span style=\"font-size: 13.3333px;\">Try to think ahead and finish all the tricky and mind-boggling levels by using as few moves as possible! The best part is that you would have 42 unique and challenging levels to play through so there will be no chance of getting bored. Play wisely to win some awards and be ranked in the list of the top players of this html5 puzzle game! It will be good to use your wisdom to move the blocks of other colors and make your blue block out of the grid.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This relaxing and fun puzzle challenge is playable on multiple devices and can be played by players of all ages. Complete all levels, create a high score in each level, and feel free to share your score with your families and friends! Have a blast and help all your near and dear ones to enjoy it in their own style! We are happy enough to cover an extensive variety of arcade games that can help to kill your time without the need of downloading games.&nbsp;</span></div>",
+      "size": 400,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/3c8b3c8150374da2a2b61e86d9e2272b/\n",
+      "metaTitle": "Blue Block, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Blue Block at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Blue Block Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7795,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-03-17T07:33:28.615Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE PINK BOXES TO MAKE THE WAY FOR BLUE",
+      "webControlKeys": "SWIPE ON THE PINK BLOCKS TO MAKE THE WAY FOR BLUE BLOCK"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
