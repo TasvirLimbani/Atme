@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bc04",
+      "id": 4234,
+      "name": "Pet Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "pet-run",
+      "image": "4234",
+      "url": "pet-run",
+      "description": "<div>Wow! The biggest adventure pet fun challenge in out! Would you like to try it out especially when you desperately want to kill your boring hours? Join Pet Run and be prepared to forget all the previous running challenges you have ever tried! We are pretty sure that you would fall in love with this running challenge if you really liked playing â€œSubway Surfersâ€ in the past. This pet is very crazy and needs your advice to cover the maximum possible distance over the running track.</div><div><br></div><div>Try to keep your character away from the moving subway trains, buses and moving trucks on the way while keeping your eyes on the coins to hit the best score in this crazy pet run simulator! Select your pet from multiple puppies, kittens and rabbits and allow yourself to dash your way through the city! Hurry up boys! Your new best friend is waiting for your guidance in this free animal running game. Stay with your chosen animal and allow him to discover new adventures!</div><div>&nbsp;</div><div>It will be amazing to rush through different park paths and city streets together with your chosen animal. Run, leap and slide your way across the running platform and create your own huge score in this cool HTML5 running game! The colorful graphics, multiple locations to explore, different power-ups and boosters and multiple animals to guide for running will be enough to keep you glued for hours. Try out more awesome titles from the category of free pet running adventures on atmegame.com to kill your boring hours without download!</div>",
+      "size": 500,
+      "height": 750,
+      "script": "https://html5.gamedistribution.com/d1421f9dd9a244dda2ab6faafe28816c/\r\n",
+      "metaTitle": "Pet Run Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pet Run at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Pet Run Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543659297.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 8,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13776,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:44:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.734Z",
+      "updatedAt": "2025-01-06T19:38:08.947Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,SPSCE, UP ARROW - JUMP, L-R ARROW, A,D TO LEFT RIGHT,S,DOWN ARROW TO ROLL"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
