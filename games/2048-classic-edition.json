@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd51",
+      "id": 4569,
+      "name": "2048 Classic Edition",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "2048-classic-edition",
+      "image": "4569",
+      "url": "2048-classic-edition",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Join 2048 Classic Edition and forget all the puzzle challenges you have tried out yet! All it takes to put your mathematics and puzzle-solving abilities to the test to complete the game with the maximum possible score. Your brain does not have time to take rest in this brand new arcade game. Trying it out can be a nice decision especially if you are a number lover. Your objective is to fuse two of the same number in a grid to add them up and make them reach to the number 2048.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try it out on a simple gray 4Ã—4 grid with a few numbered tiles that you can slide easily from left to right or downward to upward when a player moves them with the help of the four arrow keys! You would notice that every new tile or turn will cause you an empty spot on the board with a number of either 2 or 4. You can keep them sliding until they are stopped working by either the edge of the grid or another tile available on the board.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Two miles will be merged into the one with a total value of the two tiles if two tiles of the same number collide while moving. You cannot merge the result with another tile using the same move. You can track your score by keeping your eyes at the bottom of the screen. Your current score and best score will be shown on the screen when the game finishes. Check out more engaging and addictive arcade games to hit the best score every time when you play online on atemegame.com!</span></div><div><br></div>",
+      "size": 600,
+      "height": 800,
+      "script": "\nhttps://html5.gamedistribution.com/40ac5aea85eb4fc1b74f5aa57f94e38b/\n",
+      "metaTitle": "2048 Classic Edition, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 2048 Classic Edition at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "2048 Classic Edition Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527353.xml",
+      "idealFor": "All",
+      "likes": 17,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8839,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2025-02-23T16:21:18.118Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS AND SWIPE TO MERGE THE SAME NUMBURS TO UPGRADE HIGHER NUMBER",
+      "webControlKeys": "KEEP PRESS AND SWIPE BY LEFT CLICK TO MERGE THE SAME NUMBURS TO UPGRADE HIGHER NUMBER"
+    },
+    "rating": {
+      "rating": "1.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
