@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0bd",
+      "id": 5466,
+      "name": "Space Wing",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "space-wing",
+      "image": "5466",
+      "url": "space-wing",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Staying in space for some time gives many gamers a wonderful opportunity to have fun! We have brought an awesome action packed challenge where you have to control a spaceship. So, what are you waiting for? Join Space Wing and get ready to take control of an excellent spaceship that is highly willing to fly long in the sky! You have to fly through the hoops by testing your piloting skills to the maximum. Do not forget to cross the rings to set your best score!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this cool html5 space game to fly as long as possible. Make sure to shoot at your enemies to improve your survival rate. Avoid getting puzzled and making your spaceship through one hoop after another without any interruption! We are pretty sure that you have the ability to create the best cumulative score. Your powerful shields keep decreasing if you get hit by a gun turret or crash into an obstacle on your way.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Try to hit the space to blast away the gun turrets in this one of the best space shooter games for kids! You can also concentrate on carrying out some evasive manoeuvers for this purpose. Do not forget to grab as many points as possible to create the highest score! Are you feeling get bored? Play our huge collection of action games for mobile phones and PCs to beat your boredom! We will be happy enough to make you smile even in your odd hours. All the best for a happy free online gaming experience!!</span></div>",
+      "size": 550,
+      "height": 400,
+      "script": "https://html5.gamedistribution.com/632c2c54b38d4382b89d6333e25bdbb2/\r\n",
+      "metaTitle": "Space Wing, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Space Wing at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Space Wing Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449471.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8631,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:27:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2024-04-08T09:39:51.744Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT JOYSTICK TO ONTROL THE DIRECTION OF SPACE SHIP",
+      "webControlKeys": "KEEP L CLICK PRESS TO CONTROL"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
