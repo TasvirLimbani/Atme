@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8fb",
+      "id": 3409,
+      "name": "Soldiers Combat",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "soldiers-combat",
+      "image": "3409",
+      "url": "soldiers-combat",
+      "description": "Soldiers Combat is a action packed game with 8 LevelsTo clear each level you have to collect hidden keys which you can get under a box or from enemies. Collect more and more coins to unlock awesome guns and charactersUse Machine gun, bazooka, heat and cold gun to destroy the enemies.Be a real soldier. Start playing \"Soldiers Combat\"\r\n",
+      "size": 1150,
+      "height": 660,
+      "script": "https://games.atmegame.com/games/gg/soldiers-combat/",
+      "metaTitle": "Soldiers Combat, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Soldiers Combat at atmegame.com ! We have selected this platform games for best excitement and thrill in you!",
+      "metaKeyword": "Soldiers Combat Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533887535.xml",
+      "idealFor": "Man",
+      "likes": 337,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 167082,
+      "ownGame": true,
+      "addDate": "2018-08-10T13:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2025-04-18T14:29:31.509Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS TO MOVE, RIGHT ICONS- SHOOT, JUMP",
+      "webControlKeys": "UP ARROW- JUMP, L-R ARROWS- MOVE, SPACE- SHOOT"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 29
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
