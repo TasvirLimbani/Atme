@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b60f",
+      "id": 2613,
+      "name": "Training Race",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "training-race",
+      "image": "2613",
+      "url": "training-race",
+      "description": "<div>Get ready to enjoy something different from what you have experienced and got in other racing games! In this free online car 3D car racing game, you will have to rely on circuit races and duels with other popular racers. You are free here to explore a number of vehicles and modes. When you choose a circuit race where you will have to compete with other rivals and primary aim to reach first to the finish line. Select a sprint race where you have to reach from point A to point B.</div><div><br></div><div>Complete the task in the shortest possible time in this brand new driving game for boys. Get participated in a knockout race and show off your ultimate driving to become a winner of the race. The speed trap mode is also available here where you are suggested to pass several points on the track the optimum possible speed. Do this job in your own style while owning all the disciplines to be an ultimate racing champion!</div><div><br></div><div>In this one of the best car driving games for boys, you also have an opportunity to get into the Time Attack mode where you can participate in a time trial. Complete the task crossing 4 checkpoints; each offers you some extra bonus time. Although there are no opponents in this mode to compete with, you have to achieve the goal in the limited time period. Let your car drive at the top speeds in amplify motion mode and enjoy the real fun of driving! Overtake your rivals with full of confidence in this cool video game that is meant for unlimited fun and thrill!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/training-race/index.php",
+      "metaTitle": "Training Race, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Training Race at atmegame.com ! We have selected this car games for best excitement and thrill in you!",
+      "metaKeyword": "Training Race Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7972,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-01-07T17:15:37.605Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE, C- CHANGE THE VIEW, SPACE- BREAK"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
