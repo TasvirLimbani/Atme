@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad89",
+  "category_name": "kids",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae47",
+      "id": 113,
+      "name": "Beckham Celebrity Puzzle",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "beckham-celebrity-puzzle",
+      "image": "113",
+      "url": "beckham-celebrity-puzzle",
+      "description": "This arcade game in the category of puzzle game is the most new one filled with novelty and uniqueness for the online gamers that love to play celebrity puzzle games. Beckham celebrity puzzle is based around the famous football celebrity game, where you get a slight idea of what the free arcade game online is all about.<br><br>This online arcade game is consisted of three types of difficulties depending upon the type of puzzle pieces included there as well as time to sort out that puzzles. In the stagehand portion you will have to crack 12 pieces, in the normal mode the number of pieces occur to around 20 and superstar that is a hard play arcade game online that is consisted of around 30 pieces.<br><br>The cracking the puzzle in this arcade game to play is not as simple and easier, as around 9 rounds are required to be qualified in a game. Though, there is no limitation of time to qualify in this online game, however, there is still a clock in the game to check around the progress of the gamer and its ability to outperform in the game.<br><br>For playing this online arcade games you just only have to click on the piece of the image to be fitted into the right position. And once you started the game, there no being like going back.",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=732398008c7e4a0fa86bd535174fa869",
+      "metaTitle": "Beckham Celebrity Puzzle, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Beckham Celebrity Puzzle is the online game that is a preferred choice of Puzzle game lovers, who, wish to enjoy the game with celebrities like Beckham.",
+      "metaKeyword": "Beckham Celebrity Puzzle, Arcade, Puzzle, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 91,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 11163,
+      "ownGame": false,
+      "addDate": "2016-07-03T06:36:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2024-04-08T12:40:48.431Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
