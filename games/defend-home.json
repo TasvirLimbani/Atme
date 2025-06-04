@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c385",
+      "id": 6384,
+      "name": "Defend Home",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "defend-home",
+      "image": "6384",
+      "url": "defend-home",
+      "description": "<div>Wow! It is a beautiful village, but suddenly a horde of powerful monsters is trying to invade it through their evil power. Take your arm and get ready to defend your home in Defend Home! Your objective in this brand new adventure challenge is to place your strong and active heroes at the right places and merge them to make their souls stronger than before. Hey! Will this merging be enough to clear all the monsters from the area? Play this cool fighting game to know this and have fun without download!</div><div><br></div><div>No need to show pity on these sheep as they are not normal, but look like the fierce monsters! Even some of them also come with the deadly spikes. Grab your weapon, defeat all of them along with their fiendish friends to defend your home for glory in this HTML5 war game! Complete tasks and earn gold and useful upgrades to improve your warriors and transform them into powerful archers in this cool defense game! You can protect your base by attacking all kinds of enemies.</div><div><br></div><div>Be careful and fast to plan for strategy, gather your units and show these dangerous monsters that they have chosen a wrong man to fight with in this addictive battle challenge! You have to save all the corner of your home by staying alert all the time. These heartless neighbors have been attracted by the beauty of your lovely land. Kill all of them before they try to enter your base to clear the present level! Use your brain to place 4 different unit types randomly! There are two or more of the same units to play with in the same levels. Combine them to level them up and win each fight!</div>",
+      "size": 450,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/5bfdceb6fb0d4ea8ab9872d759904766/\r\n",
+      "metaTitle": "Defend Home Game, War - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Defend Home at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Defend Home Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842334.xml",
+      "idealFor": "Man",
+      "likes": 63,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 22645,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2025-04-21T07:35:06.970Z",
+      "__v": 0,
+      "mobileControlKeys": "EMPTY GAME",
+      "webControlKeys": "EMPTY GAME"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
