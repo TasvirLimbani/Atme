@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c392",
+      "id": 6400,
+      "name": "Santa Gift Adventure",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "santa-gift-adventure",
+      "image": "6400",
+      "url": "santa-gift-adventure",
+      "description": "<div>Oh yes! The highly challenge and addictive adventure challenge has come out today! Where are you, friends? Many gamers from all across the world have already played it and found its gameplay pretty engaging and interesting. Join Santa Gift Adventure and be prepared to help the lovely Santa again to complete his important tasks! Hurry up! His children are waiting for him. They will be happy to see their desired gift packs on time during the Christmas celebration.</div><div><br></div><div>Guide Santa to grab more and more gifts and reach the destination points as fast as you can in this HTML5 platform game! Try to make him jump from one platform to another before the current platform goes away from the screen! The current platform will fall down in just a few seconds when you reach it by jumping from the previous one. Stay on the platform and do not forget to grab as many gifts as possible in this cool jumper challenge!</div><div><br></div><div>Avoid falling of the screen and try to stay away from the top of the screen in this jumping mobile game! You would have 10 unique and highly addictive challenges to play through and keep you engrossed for hours without download. No worries if you fail at several initial attempts as you would have multiple chances to explore this online game! Browse through our wider collection of free adventure games to find some more suitable fun titles to keep you busy!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/0b98a7e909e74fa28027f664fe3a1e7b/\r\n",
+      "metaTitle": "Santa Gift Adventure Game, Platform - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Santa Gift Adventure at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Santa Gift Adventure Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842334.xml",
+      "idealFor": "Man",
+      "likes": 207,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 126628,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2024-12-25T17:52:13.070Z",
+      "__v": 0,
+      "mobileControlKeys": "JUMP ICON TO JUMP,LEFT RIGHT ICONS TO L-R",
+      "webControlKeys": "W,UP ARROW TO JUMP,A,D L-R ARROW TO MOVE,SPACE TO JUMP"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 29
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
