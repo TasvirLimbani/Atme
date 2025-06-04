@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6b",
+  "category_name": "golf",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b176",
+      "id": 1267,
+      "name": "Lets Play Golf",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "lets-play-golf",
+      "image": "1267",
+      "url": "lets-play-golf",
+      "description": "<div>Start your season with a big explosion by getting participated in one of the best free online sports – Let’s Play Golf! Get a chance to take your golf fantasy to the new level. The primary goal in this cool golf game is to score balls in all the holes by just using a fewer hits available for you. Avoid getting yourself into sand or water in order to continue this game. Whether you are a golfer or a non-golfer – play it right away in your device to have the amazing thrills and fun.</div><div><br></div><div>One of the most important reasons why this brand new golf game is gaining popularity all across the world is due to its seamless gameplay. Yes, explore this cool HTML5 game in your plane, car, home or anywhere else. You as a player have to draw from different stacks on the basis of how far from the hole you are currently in. Try to reach the ball to the hole in each level and become a champion of the golf in this cute sport game!</div><div><br></div><div>You have only 20 levels to be completed. So, show off your ultimate golf playing skills to become an elite golf player. This one of the best golf sports includes amazing graphics, easy controls, brilliant gameplay and outstanding audio and video effects. Also go through the instructions properly to clear all the levels confidently. Avoid making the ball fall into the water or the sand. Good luck kids!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/a72e193daedd47b89127e7ecc37dfd9c/\r\n",
+      "metaTitle": "Lets Play Golf, Golf Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Lets Play Golf at atmegame.com ! We have selected this Golf games for best excitement and thrill in you!",
+      "metaKeyword": "Lets Play Golf Game, Sports Games, Golf Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517222754.xml",
+      "idealFor": "Man",
+      "likes": 46,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 16375,
+      "ownGame": false,
+      "addDate": "2018-01-29T16:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.686Z",
+      "updatedAt": "2025-02-11T08:12:28.771Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS AND DRAG TO SELECT THE DIRECTION, RELESE TO HIT THE BALL",
+      "webControlKeys": "KEEP PRES L CLICK OF MOUSE TO SELECT THE DIRECTION, RELESE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6b",
+      "name": "golf",
+      "slug": "golf",
+      "icon": "golf-games"
+    }
+  }
+}
