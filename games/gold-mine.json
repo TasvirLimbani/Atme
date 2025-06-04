@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7d",
+  "category_name": "mining",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb5b",
+      "id": 4061,
+      "name": "Gold Mine",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "gold-mine",
+      "image": "4061",
+      "url": "gold-mine",
+      "description": "<div>Do you think that you are a nice gold digger? If yes, you are going to a get a wonderful chance to collect a sufficient amount of gold and practice your gold digging skills. Join us together in Gold Mine and be prepared to grab gold, stones and minerals to reach your daily goal! Try to go at deep as you can to collect the gold with the highest value to increase your score! In each level, you have to grab a particular amount of gold and treasures to achieve a set amount of target.</div><div><br></div><div>Be careful as you have to achieve your goal before the time expires! With the money you grab during the gameplay, you can purchase upgrades like explosives through which you can make your mining more interesting. Press the left/right mouse button or click down arrow by dropping claw to get the job done! You can use the up arrow key to toss dynamite during the gameplay. Collect the defined money to complete all levels and become the best digger of your area!</div><div><br></div><div>Play this cool HTML5 mining challenge on your desktop or mobile phone and allow yourself to kill your hours in a funny environment! Make sure to take your dwarf down and reach the gold and treasure and wait until it brings the money to you.&nbsp; Use that money to purchase new digging tools and treasure! Track your target and how much money you have collected as of now by looking at the top left corner of the screen! The top right portion of the screen will show your present level and how much time is left to play.</div>",
+      "size": 800,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/d884fa5244134828af0dd9b7d2de6a55/\r\n",
+      "metaTitle": "Gold Mine, Mining Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Gold Mine at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Gold Mine Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 94,
+      "dislikes": 25,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 21465,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2025-05-23T12:10:46.450Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK OF MOUSE TO PICK THE OBJECTS"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7d",
+      "name": "mining",
+      "slug": "mining",
+      "icon": "Mining"
+    }
+  }
+}
