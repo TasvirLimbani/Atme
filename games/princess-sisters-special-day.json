@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af8b",
+      "id": 650,
+      "name": "Princess Sisters Special Day",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "princess-sisters-special-day",
+      "image": "650",
+      "url": "princess-sisters-special-day",
+      "description": "<div>Princess Sisters Special Day is a completely new and fun-filled game that is perfect for all the girls. Your primary mission in this commonly played free online cooking game is to help the princesses to have a wonderful time together during a wonderful family dinner. All the princesses including princess Anna, princess Elsa and the Frozen sisters will be grateful to you if you are able to decorate the dinner table in a way they wanted it to be. You are sure to have huge fun and entertainment while helping these three beautiful princesses in one of the best online recreational activities.&nbsp;</div><div><br></div><div>Their memorable characters in the Disney animation have made the princesses popular by this name – Frozen. Princess Anna is the younger sister and Princess Elsa is the elder one. All you need to do is use your mouth and get the task completed step by step to prepare a fabulous dinner table for the gorgeous heroines. Make sure you pay attention to the details while choosing the decorations in the room, a dinner table, the glasses, the plates and other useful things to complete your job perfectly. Choose properly what they will eat and drink.&nbsp;</div><div><br></div><div>Over the screen you will clearly see the reactions of the sisters when you are helping them to celebrate this special day in their sweet family. Focus on the details to perform well in his wonderful game with Elsa and Anna. This cool flash game also allows you to save it to your PC or print it out to help you take an unforgettable memory with the Frozen Sisters.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/ae1c4c22034b48e1adad67cffef02e1b/",
+      "metaTitle": "Princess Sisters Special Day!, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Princess Sisters Special Day! at atmegame.com ! We have selected this Cooking games for best excitement and thrill in you!",
+      "metaKeyword": "Princess Sisters Special Day! Game, Girls Games, Cooking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "",
+      "xmlFile": "Cooking_1513839135.json",
+      "idealFor": "Man",
+      "likes": 25,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 13377,
+      "ownGame": false,
+      "addDate": "2017-12-21T12:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.671Z",
+      "updatedAt": "2024-08-25T13:05:55.774Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ITEMS TO SELECT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
