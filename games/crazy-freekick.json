@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bacb",
+      "id": 3914,
+      "name": "Crazy Freekick",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "crazy-freekick",
+      "image": "3914",
+      "url": "crazy-freekick",
+      "description": "You have to score goal&#33; Choose the right direction using the axis on your screen, kick the ball and your fans will become crazy for you&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/crazy-freekick-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Crazy Freekick, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Crazy Freekick at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Crazy Freekick Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 25,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9931,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2025-04-30T13:15:41.949Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO CHOOSE POINT WHERE SEEKING BALL ON HORIZONTAL AND VERTICAL AXIX",
+      "webControlKeys": "L CLICK OF MOUSE TO LOCATE THE SPACEBAR WHERE WANT TO SHOT THE BALL , L CLICK OF MOUSE TO KICK THE BALL"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
