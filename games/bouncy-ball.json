@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1ce",
+      "id": 1368,
+      "name": "Bouncy Ball",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "bouncy-ball",
+      "image": "1368",
+      "url": "bouncy-ball",
+      "description": "<div>We have got covered one of the best sports for boys here in Bouncy Ball! Join the community and become a master of the basketball! In this brand new sports for boys, you will have to dunk the ball in basket in all game levels. All you need is to use the mouse properly to make your ball a perfect jump to the hoop. Make sure to avoid all the obstacles moving between platforms. Play this lovely ball game in your device to have fun!</div><div><br></div><div>In this fun game for young kids, you have to simple bounce the ball along different platforms arranged in an ascending order. Your job is to land the ball safely right into the hoop. Try to avoid the deadly spikes and other dangerous obstacles that are enough to pop your ball! Find out the right moment to make a jump and also collect three stars in each level! With 21 exciting and fun-filled levels, each one offers unique challenges and surprises.&nbsp;</div><div><br></div><div>Try to beat all the levels perfectly in this highly addictive sports puzzle game! Use the arrow keys or tap controls to move your ball. Are you looking for more engaging and interesting basketball games for kids? Visit our top games page to spot new thrill and excitement! Check out all games available on our website to find out the one that meets your tastes and preferences! Good luck to set a new record in this cute HTML5 game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/d603694927dc46ecbd24f043477b5fa0/\r\n",
+      "metaTitle": "Bouncy Ball, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bouncy Ball at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Bouncy Ball Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299559.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 18762,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.688Z",
+      "updatedAt": "2025-02-19T13:52:47.741Z",
+      "__v": 0,
+      "mobileControlKeys": "L-R ICONS TO JUMP THE BALL",
+      "webControlKeys": "ALL ARROWS TO CONTROL, THE BALL"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
