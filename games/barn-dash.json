@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c402",
+      "id": 6514,
+      "name": "Barn Dash",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "barn-dash",
+      "image": "6514",
+      "url": "barn-dash",
+      "description": "<div>Wow! The best arcade puzzle is waiting for you here on our free online game website. You have to challenge your running abilities in this brand new arcade game. Are you ready, guys? Join Barn Dash and be prepared to help dash to go as far as you can to create a higher score! The gameplay is very simple and makes sure to keep you entertained for long hours through its engaging content. Click the left and right arrow keys or tap the screen at the left and right side to change the direction of your character!</div><div><br></div><div>Your good performance will help you to earn some points as well though you can also unlock other funny and lovely characters. This running track is full of deadly obstacles so be careful and try to make your jump timely to avoid them. The more obstacles you avoid, the farther you will be able to go in this cool HTML5 jumping game! There are 6 unique animal characters to select from in this endless runner game.</div><div><br></div><div>The quickly you react against the hurdles that you see on the track, the easier it will become for you to cover the maximum distance possible. Play like a champion and see how far can you go in this amazing high-score game! Our website features countless popular free arcade games that you can explore in different devices â€“ be it a mobile phone, desktop, tablet and iPad or iPhone. Browse through our extensive games category to find out the best fun you have experienced online!</div>",
+      "size": 500,
+      "height": 800,
+      "script": "https://games.atmegame.com/games/barn-dash/",
+      "metaTitle": "Barn Dash Game, Puzzle - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Barn Dash at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Barn Dash, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 462,
+      "dislikes": 19,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 74204,
+      "ownGame": true,
+      "addDate": "2020-06-08T22:42:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-29T07:48:24.614Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R ICONS IN SCREEN TO LEFT RIGHT",
+      "webControlKeys": "L-R ARROW TO MOVE LEFT RIGHT"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 30
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
