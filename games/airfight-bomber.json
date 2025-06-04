@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b631",
+      "id": 2649,
+      "name": "Airfight Bomber",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "airfight-bomber",
+      "image": "2649",
+      "url": "airfight-bomber",
+      "description": "<div>Are you a big fan of dogfights? Do you want to be engaged in a worldwide recognized classic board game ships? If yes, you must try out Airflight Bomber at least once in your PC. Hope it would provide you with all the fun and entertainment you seek for in a free online war game for boys. Known as a blend of two mentioned genres, this game allows you to take your adventurous desires to a new level. Play it in different modes - be it a small, medium or a gigantic battle area.</div><div><br></div><div>This brand new adventure game features 1 up to 8 players and, most importantly, the winner has to destroy all the ships of other players in a particular round. Check out the stats of all the battles displayed in the menu of the game.&nbsp; Multiple rounds, players, weapons and more to be explored in this cool PC game! Play as a guest or get yourself registered with our best online gaming website to have a lot of fun with ease! Make sure that you look into the instructions to accomplish the goal of this one of the best adventure games for boys!</div><div><br></div><div>Reset your stats and create your game! With easy controls, seamless gameplay and fabulous audio and video effects, Airfight Bomber is designed to boys and girls from different age groups. Check your achievements on the display and put your best shooting skills to be included in the leaderboards. Your goal is to sink the enemy fleet to ensure your victory. Shoot down all the planes of your enemies to get bombs. Teamwork is required to gain an advantage over all your opponents. Good luck kids to have a blast in this best 3D multiplayer single person PC game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/airfight-bomber/index.php",
+      "metaTitle": "Airfight Bomber, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Airfight Bomber at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Airfight Bomber Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 7137,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-02-21T17:09:21.175Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE, SPACE/ L CLICK OF MOUSE- SHOOT, "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
