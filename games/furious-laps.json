@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bac0",
+      "id": 3903,
+      "name": "Furious Laps",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "furious-laps",
+      "image": "3903",
+      "url": "furious-laps",
+      "description": "First driving lesson: try to not destroy your car&#33;&#33;&#33; If you can.",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/furious-laps-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Furious Laps, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Furious Laps at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Furious Laps Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8975,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2024-04-27T18:53:05.977Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP AND HOLD TO TURN THE CAR",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO TURN THE CAR"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
