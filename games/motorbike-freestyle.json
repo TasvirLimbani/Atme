@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b627",
+      "id": 2638,
+      "name": "Motorbike Freestyle",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "motorbike-freestyle",
+      "image": "2638",
+      "url": "motorbike-freestyle",
+      "description": "<div>Wearing a crown of a motorbike legend is something that brings a huge smile on your face. Every time you search for performing new bike tricks to satisfy the eyes of those who love watching different challenging bike stunts. You have decided to create a new YouTube clip which will help you to become a renowned biker among varied social networks. Get ready to perform stunts like rotational flips and backflips in this 3d bike racing game for boys ? Motorbike Freestyle.</div><div><br></div><div>In order to win this free online driving game, try earn as much money as you can and upgrade the braking, speed and power of your bike. Also get an opportunity to ride your motorbike with more thrilling riders as you clear the level and move on to the advanced level. This brand new motorbike racing game features two exciting modes: Freestyle and Offroad. Choose your mode and get ready to go on the best race of your life before the time runs out.</div><div><br></div><div>Enjoy an opportunity to do some death-defying stunts in this full 3D bike driving game. Play it in first-person and witness the entertainment and thrill of performing stunts in mid-air! Although exploring the levels of this 3D motorcycle-riding simulation video game is pretty difficult, your ultimate driving skills and patience will help to get through with ease. Earn more coins to unlock various new things like more exciting bikes, riders, costumes and motorcycle upgrades. Good luck kids to have a lot of fun! Use WASD or arrow buttons to control, E to do trick when your car in air, space bar to handbrake, shift to use nitro, and C to change view.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/motorbike-freestyle/index.php",
+      "metaTitle": "Motorbike Freestyle, Bike Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Motorbike Freestyle at atmegame.com ! We have selected this bike games for best excitement and thrill in you!",
+      "metaKeyword": "Motorbike Freestyle Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 94,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 22993,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-07-25T14:16:58.674Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO DRIVE, SPACE- BREAK, C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
