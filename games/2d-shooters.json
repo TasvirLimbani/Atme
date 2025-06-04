@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1e1",
+      "id": 5803,
+      "name": "2D Shooters",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "2d-shooters",
+      "image": "5803",
+      "url": "2d-shooters",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Your wait is over friends! We have brought to you today a fully action-packed adventure where there is no scope of relaxing until you finish all your enemies. Join 2D Shooters game and get ready to be participated in one of the best wars of your life in the virtual world! Enter the game, give your character a suitable name and allow yourself to be appeared in an epic battle! Choose your character and get ready to explore any level among normal, tough and agile! </span></div><div><span style=\"font-size: 13.3333px;\">The fun gameplay against bots supported by the multiple weapons, including melee and grenade attack. Shoot your enemies using your high end machine guns, make a jump with the help of space key and move your character using arrow keys in this one of the best shooting games for kids! The 2D perspective makes the programming easy, while helping players keep occupied for hours. Your hero has a gun, but you need to assist him throughout his action journey. </span></div><div><span style=\"font-size: 13.3333px;\">This cool HTML5 game can be a wonderful adventure treat for all. Keep destroying all your enemies, finding out the keys and completing all the levels with a focused mind! Also watch out the watch while fighting against your enemies! Don?t forget to collect the coins that will help to complete the level fast in 2D shooting game for kids! Your final score will also be improved when you have the sufficient coins in your account. All the best to honing your skills!</span></div>",
+      "size": 960,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/e2853d4420c3447bbcd6ff9a10cba665/\r\n",
+      "metaTitle": "2D Shooters,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 2D Shooters at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "2D Shooters Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557761959.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8046,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.755Z",
+      "updatedAt": "2022-08-23T23:21:30.171Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,D UP DOWN,L-R ARROW TO MOVE,SPACE JUMP,L CLICK-SHOOT"
+    },
+    "rating": {
+      "rating": "1.8",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
