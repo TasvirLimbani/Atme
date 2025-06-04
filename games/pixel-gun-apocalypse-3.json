@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b643",
+      "id": 2670,
+      "name": "Pixel Gun Apocalypse 3",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "pixel-gun-apocalypse-3",
+      "image": "2670",
+      "url": "pixel-gun-apocalypse-3",
+      "description": "<div>Join the mercenaries or the Germans in this exclusively-designed multiplayer game for boys! It is up to you which side you want to go with and take a charge of getting into the battle that you have not experienced ever. This 3D brand new FPS game from Minecraft environment comes with the advanced graphics, easy control and fabulous audio and video effects. Choose from five types of powerful weapons to end the lives of your opponents who will kill if they spot on their locations.&nbsp;</div><div><br></div><div>Get ready to enter into the mode where bloodthirsty zombies are waiting for you in case if you have got bored with killing of ordinary enemy soldiers. The only way to survive in these fully action-packed games is to kill everything that moves. You have a sharp rocket launcher, a pistol and a machine gun to reply to your enemies. Deathmatch is the major game mode and you have to focus on killing more enemies than your opponents do to gain an advantage over them.&nbsp;</div><div><br></div><div>In the zombie mode, things are more difficult as you thought of since you many flesh eating zombies keep searching you to eat your brain. Hope you will not forget to shoot them immediately you spot them. Also, avoid getting in contact with them to keep you safe. There are 9 new maps to explore and each one comes with a unique theme and setting. The controls of this one of the best fighting games 3d include WASD to move your character, Space bar to jump, Left click to shoot, Right click to aim and Mouse wheel to scroll through weapons.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/pixel-gun-apocalypse-3/index.php",
+      "metaTitle": "Pixel Gun Apocalypse 3, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pixel Gun Apocalypse 3 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Pixel Gun Apocalypse 3 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 7538,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-02-13T06:23:25.918Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "TAB- PAUSE, T- CHAT,C - CROUCH, L CTRL- PRONE, L MB- FIRE, RMB- AIM,R- RELOAD, L SHIFT-- RUN, SPACE- JUMP, 1TO 8- CHANGE THE WEAPON, W,A,S,D ALL ARROWS- MOVE"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
