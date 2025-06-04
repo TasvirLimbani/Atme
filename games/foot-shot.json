@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0a6",
+      "id": 5441,
+      "name": "Foot Shot",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "foot-shot",
+      "image": "5441",
+      "url": "foot-shot",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Keep your fingers ready on your mobile phone or PC to have the best gaming experience in this brand new sports game “Foot Shot”! No, you do not need to think about installing any app in your device to gain access to this amazing online fun activity. All it takes a device that supports gaming technology along with a proper internet connectivity to allow yourself to get an exciting soccer entertainment.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The best part is that you do not have to depend on anyone else to get this fun. You will have the full freedom when to play soccer game online for free. Your objective is to hit at the center of the target you see in front of the net. You will have only 3 lives to lose. So, try to be very attentive before swiping through your mouse. Take your time before releasing the ball as the round target will start moving further!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Get into this cool html5 football game to set your best score today! Our website is full of many other cool soccer games that can make your day in a unique way. We are determined to provide you with a huge collection of arcade ball games where you can improve your skill while pass your spare time. Play our games online without download app in your device! Good luck to set your own best score in the best virtual environment!&nbsp;</span></div>",
+      "size": 400,
+      "height": 550,
+      "script": "https://html5.gamedistribution.com/c5a0decf245c4f60b50d16bfa4a757fe/\r\n",
+      "metaTitle": "Foot Shot,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Foot Shot at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Foot Shot Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 59,
+      "dislikes": 11,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 17546,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-04-12T16:09:52.455Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE UP THE SCREEN TO MAKE THE GOLE",
+      "webControlKeys": "KEEP L CLICK PRESS AND RELESE TO MAKE THE GOLE"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
