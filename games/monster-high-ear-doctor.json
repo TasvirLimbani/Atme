@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b490",
+      "id": 2179,
+      "name": "Monster High Ear Doctor",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "monster-high-ear-doctor",
+      "image": "2179",
+      "url": "monster-high-ear-doctor",
+      "description": "Purrsephone and Meowlody are best friends, and they had the same problems with their ear, at the same time. So they go to the ear doctor to fix it. Help them with their ear problems!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/116c81174d414caca791565ac3388283/\r\n",
+      "metaTitle": "Monster High Ear Doctor, Doctor Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Monster High Ear Doctor at atmegame.com ! We have selected this Doctor games for best excitement and thrill in you!",
+      "metaKeyword": "Monster High Ear Doctor Game, Action Games, Doctor Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1522756682.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 10026,
+      "ownGame": false,
+      "addDate": "2018-04-03T17:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.704Z",
+      "updatedAt": "2024-05-25T00:36:13.439Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SELECT THE ITEMS TO CLEAN THE EAR",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS TO CLEAN THE EAR"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
