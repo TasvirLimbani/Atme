@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd74",
+      "id": 4604,
+      "name": "Baby Bear Jigsaw",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "baby-bear-jigsaw",
+      "image": "4604",
+      "url": "baby-bear-jigsaw",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Baby Bear Jigsaw is a brand new arcade challenge from the popular category of puzzle and jigsaw games for girls. On one hand, this lovely puzzle challenge can educate your kids, it will be quite enough to entertain them in the best possible friendly environment. Start the fun with choosing one of the six images and then go opting one of the four unique and amazing modes that include 16, 36, 64 and 100 pieces! Be quick and try to finish the jigsaw in the shortest time possible!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">It will be amazing to exercise your brain, eyes and even hands when you complete all the tricky and complex challenges in this html5 puzzle challenge! Your physical and mental health will be improved when you are involved in this fun game. Put your quick thinking ability to the test and get a chance to improve your own logic analysis to complete all the levels! Use your mouse on your PC or tap the screen on your mobile phone to interact with the gameplay!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You can enjoy this jigsaw animal game in desktops, mobile phones and tablet devices. It is wonderful to meet with the cute and cuddly bears and have fun in a friendly environment. You can improve your hand-eye coordination and visual perception in this tricky puzzle challenge. Check out more puzzle-based games for kids that you can play alone or invite your friends to enjoy! The best part is that you can enjoy it in your favorite device without download it. Good luck for a happy gaming!</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "\nhttps://html5.gamedistribution.com/cb3d241af9c748e8beed9f6392bf5ec2/\n",
+      "metaTitle": "Baby Bear Jigsaw, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Baby Bear Jigsaw at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Baby Bear Jigsaw Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527483.xml",
+      "idealFor": "All",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7364,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-02-21T01:03:07.781Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO JOIN THE PIECES TO COMPLETE THE IMAGE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND JOIN THE PICES TO COMPLETE THE IMAGE"
+    },
+    "rating": {
+      "rating": "1.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
