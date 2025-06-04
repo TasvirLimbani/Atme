@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4f1",
+      "id": 2281,
+      "name": "Alien Shoot Zombies",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "alien-shoot-zombies",
+      "image": "2281",
+      "url": "alien-shoot-zombies",
+      "description": "<div><span style=\"font-size: 13.3333px;\">What do you think about aliens? Do they like or dislike zombies? Well, you will get the answer to the second question when you try out this brand new action packed challenge. Join Alien Shoot Zombies and be prepared to help your alien to clean up another wasteland that is full of blood-thirsty zombies! Do not bother at all since your character is lashed with a gun that has limited bullets. Make sure to complete your mission with a limited ammo.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You have to repeat this job until you complete all the levels. Use your logical mind to bank shots for the undead disposal! Do everything that you can do like triggering explosions, cutting chains, and knocking blocks to kill the undead! You have to guide aliens through 8 unique and addictive levels. Look at the top left corner of the screen to know which level you are presently in! See how many coins you have collected as of now by looking next to it.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Track the number of remaining bullets by looking at the gun sign mentioned next to the coin sign! Take as much time as you want to complete all of the levels in this HTML5 shooting game! Use the objects shown on the screen to divert your bullets right to the zombies! Good luck to kill all of them in each level to help aliens enjoy a stress-life again once again! Let us see how many zombies you can kill and complete the mission!&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/f1ceb545a3e74259accdd857ee8a58ff/\r\n",
+      "metaTitle": "Alien Shoot Zombies,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Alien Shoot Zombies at atmegame.com ! We have selected this zombie games for best excitement and thrill in you!",
+      "metaKeyword": "Alien Shoot Zombies Game, Action Games, Zombie Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 56,
+      "dislikes": 10,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 18279,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2025-05-22T13:01:20.915Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO SHOOT",
+      "webControlKeys": "L-CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
