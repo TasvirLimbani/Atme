@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9cb",
+      "id": 3633,
+      "name": "KrisMas Mahjong",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "krismas-mahjong",
+      "image": "3633",
+      "url": "krismas-mahjong",
+      "description": "Krismas Mahjong is a Christmas Version of Kris Mahjong. A very popular Mahjong game. Connect the mahjong pieces in KrisMas Mahjong. Clear the board by removing all pairs of identical tiles\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "\nhttps://html5.gamedistribution.com/63fe5e9aa5c84c46988cac2d9f617320/\n",
+      "metaTitle": "KrisMas Mahjong Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game KrisMas Mahjong at atmegame.com ! We have selected this puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "KrisMas Mahjong Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335387.xml",
+      "idealFor": "All",
+      "likes": 21,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8893,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2024-10-27T11:41:13.714Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE TWO CONJIUCATIVE IMAGES TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE ON THE TWO CONJIUCATIVE IMAGES TO PLAY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
