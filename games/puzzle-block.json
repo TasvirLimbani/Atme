@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c228",
+      "id": 5912,
+      "name": "Puzzle Block",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "puzzle-block",
+      "image": "5912",
+      "url": "puzzle-block",
+      "description": "<div>Does solving the puzzles give you a reason to challenge your brain? Are you the ones who also enjoy exploring the free online games during your spare time? Luckily, you have reached to the right place where you will have a plenty of opportunities to keep you busy, while improving your brain power. We have brought to you a brand new arcade puzzle that is highly interesting and a worth exploring reactional activity. It requires to put your puzzle solving power to clear each level and move to the advanced one.&nbsp;</div><div><br></div><div>In this one of the best arcade games for kids, you have to slide blocks left or right to clear full lines. Make sure to pick and drop the blocks in an area where they are able to create the full lines. Once it’s done, the full lines will be destroyed automatically. You can feel free to crate the lines both horizontally and vertically. In this highly addictive puzzle game, you also have to take care of keeping the blocks away from filling the screen, otherwise you will lose the game. Use your logics and apply a strategy to complete all 60 puzzles!</div><div><br></div><div>It’s important to fit all the blocks in the proper shape. No need to bother if blocks don’t fit into shape since you also have the option to rotate them. Keep moving the blocks to a spot until they come in the shape. Hope you have enjoyed this free online fun puzzle! Stay connected with us to find more games that can prove to be your favourite pastime! Our new puzzle games are amazing and can be playable in all the devices. Check out our HTML5 online games to have fun on the go!</div>",
+      "size": 600,
+      "height": 950,
+      "script": "https://html5.gamedistribution.com/30a47e3d81164f1b8ab2218494d09311/\r\n",
+      "metaTitle": "Puzzle Block,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Puzzle Block at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Puzzle Block Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762438.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10081,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:17:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.756Z",
+      "updatedAt": "2024-08-27T12:08:22.108Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE BLOCK TO MAKE THE COMPLETE LIONE TO BREAK",
+      "webControlKeys": "SWIPE THE BLOCK TO MAKE THE COMPLETE LIONE TO BREAK"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
