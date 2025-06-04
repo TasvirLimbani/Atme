@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2b1",
+      "id": 6109,
+      "name": "Hill Billy Hank",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "hill-billy-hank",
+      "image": "6109",
+      "url": "hill-billy-hank",
+      "description": "<div>A cute and brave lumberjack lives alone in a hut that is located high at the mountains. Many other people come there usually in a seek for peace and fresh air. However, today some uninvited zombies are trying there to enter and disturb the harmony of the place. He has luckily found out a good friend like you who has decided to protect him from the sudden attack of these undead. Join HillyBilly Hank and gear up to clear the area from these blood-thirsty zombies!</div><div><br></div><div>The good news is that you are not alone as your shotgun will also be there to fight against these deadly souls. Be careful and try to alert all the time since the deadly monsters will keep coming to your home! You might get difficulty in completing your mission since reloading is automatic and tasks sometimes. All you need to do is make sure that no one from the team of zombies pass your house. Fight like a champion to clear your territory in this HTML5 shooting game!</div><div><br></div><div>The speed of zombies will keep increasing as you progress the level. So do not forget to upgrade your weapons before trying out the advanced level. Give these bloody zombies a tough fight and tell them no one can enter your territory without your permission! Remember you will have only three lives to use in this cool gun shooter challenge. Our website is full of multiplayer action-packed games that you can also enjoy with your friends and families, no download required for the players.&nbsp;</div>",
+      "size": 854,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/c74b960f0faa4bfc8a84f73159a6c5fd/\r\n",
+      "metaTitle": "Hill Billy Hank, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hill Billy Hank at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Hill Billy Hank Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442796.xml",
+      "idealFor": "Man",
+      "likes": 24,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8908,
+      "ownGame": false,
+      "addDate": "2019-09-26T01:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2024-11-18T14:32:30.288Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ZOMBIES TO SHOOT",
+      "webControlKeys": "CLICK ON ZOMBIES TO SHOOT"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
