@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad68",
+  "category_name": "pool",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad68",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b634",
+      "id": 2652,
+      "name": "Billiard Masters",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "billiard-masters",
+      "image": "2652",
+      "url": "billiard-masters",
+      "description": "<div>Built with WebGL technology, Billiard Masters is an awesome pool sport for boys from different age groups. The biggest billiard tournament of the year has just begun and you have just decided to get participated in it and reach to the final stage of the main tournament. This multiplayer billiards game features the improved graphics, seamless gameplay and state-of-the-art audio and video effects. Set the direction of the ball with the help of the mouse. Click the mouse, drag it back to aim your target and release it to shoot.</div><div><br></div><div>Although is pretty difficult to qualify the main tournament, using the best pooling skills will help get through all the obstacles and make your win in the end of this free online pool game. Your mission is to win lucrative prices and collect as many points as you can. Improve your billiard skills in the training room and get ready to practice the best strokes from all possible angles. You will have a multiplayer lobby to challenge your opponents.</div><div><br></div><div>Outplay your opposing players in a fair match and ensure your victory in this cool computer game for boys and girls. Bet some precious coins on your victory and do not get to double up your winnings. Choose between the 2D and 3D view to get the unforgettable pool gaming experience! You are advised to get into the video to get an idea how to play this one of the best sports games to make the maximum possible points. Good luck kids to give the best shot of your life in this cool pool game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/billiard-masters/index.php",
+      "metaTitle": "Billiard Masters, Pool Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Billiard Masters at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Billiard Masters Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8143,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-09-25T07:01:27.426Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "DRAG AND SHOT BY L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "0.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad68",
+      "name": "pool",
+      "slug": "pool",
+      "icon": "Pool-games"
+    }
+  }
+}
