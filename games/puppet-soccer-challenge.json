@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b573",
+      "id": 2454,
+      "name": "Puppet Soccer Challenge",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "puppet-soccer-challenge",
+      "image": "2454",
+      "url": "puppet-soccer-challenge",
+      "description": "Try to score as many goals as possible while having no legs!\r\n",
+      "size": 745,
+      "height": 559,
+      "script": "https://html5.gamedistribution.com/6da68634c28b4d5fbc9ff4521a39ce95/\r\n",
+      "metaTitle": "Puppet Soccer Challenge, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Puppet Soccer Challenge at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Puppet Soccer Challenge Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1528978427.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 10401,
+      "ownGame": false,
+      "addDate": "2018-06-14T17:43:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.710Z",
+      "updatedAt": "2024-07-02T19:41:26.389Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SELECT THE DIRECTION AND HIT THE BALL",
+      "webControlKeys": "L CLICK OF MOUSE TO ELECT THE DIRECTION AND HIT THE BALL"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
