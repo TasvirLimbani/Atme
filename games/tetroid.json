@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bafa",
+      "id": 3963,
+      "name": "Tetroid",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "tetroid",
+      "image": "3963",
+      "url": "tetroid",
+      "description": "<div>Just like the popular Tetris games, this brand new arcade challenge features seamless gameplay, simple controls and cool graphics to explore. Are you ready again to drag and drop the differently shaped objects in the 10 x 10 board? Join Tetroid and be prepared to enjoy the fun elements of this cool version of Tetris without download! Your objective in this brain teaser is to make vertical or horizontal lines to clear the line. The victory comes when you find no enough space to move the elements into the board.</div><div><br></div><div>All you need to do is challenge your brain power and concentration abilities to create a single line of blocks in this casual HTML5 puzzle game. When you click the play button, a board will open up on the screen with three different shaped elements/blocks at the bottom. Choose anyone out of the three and keep doing it until you create a single line of blocks. Hurry up! And try to clear as many lines as you can before you find out a set of new shapes to adjust on the graph to create your score.</div><div><br></div><div>The top left corner of the screen will show your present score. Do your best and try to get as many points as you can before all the space on the screen is filled up. Scoring each line will get you some points. Hey! Some cool twists will keep coming as you advance in this Arcade classic challenge. Dot not in hurry otherwise you will end up blocking your next move. Check out even more tricky and addictive arcade games for free and have a blast with your friends for hours!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/tetroid-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Tetroid, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tetroid at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Tetroid Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9225,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-03-19T18:41:33.251Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE IMAGES AND DRAG THEM INTO TO BOX TO MAKE COMPLETE LINE ",
+      "webControlKeys": "KEEP PRESS ON THE IMAGES AND DRAG THEM INTO TO BOX TO MAKE COMPLETE LINE BY L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
