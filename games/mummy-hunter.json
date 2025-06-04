@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3f8",
+      "id": 6504,
+      "name": "Mummy Hunter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "mummy-hunter",
+      "image": "6504",
+      "url": "mummy-hunter",
+      "description": "<div>Are you getting bored during your long stay at home? Do you want to practice your running and fighting abilities to kill your boredom? Join Mummy Hunter and be prepared to guide a beautiful girl who wants to go on an endless running adventure! Your objective in this brand new action packed game is to hunt mummies in the Egyptian desert. Do not forget to grab as many coins as you can while avoiding all the deadly obstacles along the way.</div><div><br></div><div>You are sure to have a great fun when you control this lady running in this endless dessert game. Multiple dangerous mummies are waiting for her on the way so do not leave her alone until she covers a satisfactory distance on this fabulous platform. Guide her when to shoot and when to jump in this one of the best HTML5 shooting games for girls! Make sure that your heroine defeats all the hazardous mummies of the Egyptian.</div><div><br></div><div>Remember you can also use the coins you collect along the way to buy more powerful weapons and upgrade your character as well. Let us see how far you will go with this popular heroine in this commonly played online running game! The longer you survive, the higher score you will make and more difficulties you will have to face off. This cool platformer game features one touch gameplay, beautiful artwork and music and a nice shop to purchase additional weapons.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/fa11c9cd5e1640feb2d2ac11848eac67/\r\n",
+      "metaTitle": "Mummy Hunter Game, Shooting - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Mummy Hunter at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mummy Hunter Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842581.xml",
+      "idealFor": "Man",
+      "likes": 928,
+      "dislikes": 256,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 142717,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-06-02T16:10:11.679Z",
+      "__v": 0,
+      "mobileControlKeys": "ONE TAP TO JUMP,DOUBLE TAP TO JUMP HIGHER",
+      "webControlKeys": "LEFT CLICK OF MOUSE JUMP,DOUBLE CLICK TO JUMP HIGHER"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 76
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
