@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b554",
+      "id": 2411,
+      "name": "Road Fighting",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "road-fighting",
+      "image": "2411",
+      "url": "road-fighting",
+      "description": "Everyone likes racing games..so here we came up with awesome racing game \"Road Fight\". Like old classic game road fighter try not to HIT by car and collect as much fuel to get some time and clear the level in a awesome way. Captain america will show up if you do not hit any cars while racing. There are 8 levels in road fight and 3 cars to unlock. So SPEED UP!!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/9d2cf66f59dd48a29aca9241a8a7af93/\r\n",
+      "metaTitle": "Road Fighting, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Road Fighting at atmegame.com ! We have selected this Car  games for best excitement and thrill in you!",
+      "metaKeyword": "Road Fighting Game, Racing Games, Car  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524810594.xml",
+      "idealFor": "Man",
+      "likes": 33,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 19198,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-03-20T01:26:19.611Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R SCREEN ICONS TO CONTROL THE CAR",
+      "webControlKeys": "A,D L-R ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
