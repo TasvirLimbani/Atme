@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb89",
+      "id": 4108,
+      "name": "Super Soccer Stars",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "super-soccer-stars",
+      "image": "4108",
+      "url": "super-soccer-stars",
+      "description": "<div>Super Soccer Stars brings the ultimate action into the awesome soccer pitch. Many top soccer teams have already reached on the field and they all are waiting for you! Choose single player, two players or tournament mode and get ready to play against the soccer legends in a friendly environment! Move to the football field and be prepared to challenge the best soccer clubs in the world! Practice hard, beat your opponents and win some world popular soccer world cup matches in this brand new sports game!</div><div><br></div><div>We are pretty sure that you would not like to miss this opportunity especially when you some free time to have fun. Select your team, and then decide which time mode 3 min, 5 min or 8 min you want to play with in this HTML5 soccer game! There are many renowned national teams like Spain, Germany, Brazil and so on to choose from. Prepare a strategy against your tough opponents and try to win all the matches to win the trophy!</div><div><br></div><div>Do not forget to put soccer abilities to the test to eliminate all your rivals from the field. You can try this multiplayer game alone or invite your friends to have fun together. Filled with addictive gameplay, colorful graphics, intuitive controls and advanced features, this latest soccer challenge will force you to try it out again and again in your chosen browser. Compete with these legend players to become the top soccer player in this online fun football challenge!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/f366faf74abd4d01a93fef0f2092f3cb/\r\n",
+      "metaTitle": "Super Soccer Stars Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Super Soccer Stars at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Super Soccer Stars Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 69,
+      "dislikes": 8,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 17025,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2025-01-10T02:48:15.319Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND DRAG TO SELECT THE DIRECTION, RELESE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "2.6",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
