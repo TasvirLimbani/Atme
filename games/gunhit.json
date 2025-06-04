@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c267",
+      "id": 6020,
+      "name": "GunHit",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "gunhit",
+      "image": "6020",
+      "url": "gunhit",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Here in this one of the highly interesting and challenging free online games, you will get a chance to meet with the very talented and gifted cowboys who are blessed with a skill to hit any of the running and flying items. Luckily, they have chosen you to support you. Are you ready to accept this challenge and help them to hit the maximum possible flying and running objects? Join GunHit and get ready to show off your ultimate shooting skills! The wonderful retro cowboy game is sure to provide you with the matchless thrill and fun.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Play single-player mode or try out the two-player mode to take your excitement to a new level in this one of the top action games! Collect some prize dollars and get yourself ready to show off your skills in two player gaming mode! When you shoot the objects, make sure not to target the flying bombs since you shoot them, your game will be over immediately. Fun effects and awesome music of this HTML5 game can help extra fun and pleasure to your gaming hours. The gifted cowboys have faith on your skill, so don’t let them feel down.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You can use the UP arrow key and W key to control your character in PC or use touch screen in your mobile phone to play your game online for free. We are delighted to bring you many more shooting games for you on our website. Hope you will explore all of them one by one and learn how it’s easy to get you engrossed throughout the day using our top games page. We have free shooting games for you irrespective of your age, gender or location</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/5d14f231b5834cfe9cb006e547dd27f8/\r\n",
+      "metaTitle": "GunHit, Gun Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game GunHit at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "GunHit Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1562507607.xml",
+      "idealFor": "Man",
+      "likes": 63,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 23660,
+      "ownGame": false,
+      "addDate": "2019-07-07T19:23:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.757Z",
+      "updatedAt": "2024-10-02T02:18:34.650Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SHOOT",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
