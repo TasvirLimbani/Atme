@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3cb",
+      "id": 6457,
+      "name": "Jet Fire",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "jet-fire",
+      "image": "6457",
+      "url": "jet-fire",
+      "description": "<div>Space exploration looks impossible without the presence of special equipment. Do not bother your hero is also lashed with an advanced weapon to use. However, he finds it difficult to get through the hurdles alone. Would you like to guide him as his best friend? Join Jet Fire and be prepared to control him under a special spacesuit and a sharp rocket launcher! He will also be lashed with a new space grenade launcher in his hands. Guide him through all his enemies and unexpected traps!</div><div><br></div><div>This is a deadly journey, but your matchless guidance can make it easier for him. Keep moving forward and battle your way through one after another wave of deadly gun slinging enemies! Make sure to keep your hero away from the unwanted obstacles so that he can fly for long in this HTML5 shooting game. Run, jump and shoot your enemies and do not forget to grab the coins! The longer you stay in the environment, the higher you will hit on the screen.</div><div><br></div><div>Track how much coins you have grabbed as of now by looking at the top left corner of the screen in this jetpack shooter challenge! Your distance will be shown right in the middle portion of the screen. Grab as many coins as you can to fight your way to the optimum possible score! Check out other free action-packed challenges that are also free to play online without download on atmegame.com! So, do not bother at all how to kill your boredom when you stay connected with us.&nbsp;</div>",
+      "size": 850,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/8428770796e84447abc79b3549776357/\r\n",
+      "metaTitle": "Jet Fire Game, Shooting - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Jet Fire at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Jet Fire Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 27,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7729,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-03-02T09:00:09.968Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "UP ARROW TO LIFT UP,LEFT CLICK TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
