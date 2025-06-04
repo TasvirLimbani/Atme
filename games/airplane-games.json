@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf79",
+      "id": 5128,
+      "name": "Airplane games",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "airplane-games",
+      "image": "5128",
+      "url": "airplane-games",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Your dream of becoming a pilot is going to come true today. We have brought to you a brand new aeroplane game where you can learn and have fun in a friendly environment. Do you think that it is a right time to be in the cockpit? Join Airplane Games and show the world that you have the enough abilities to fly a plane like a pro! With easy controls, lovely gameplay and cool background, this free online flying game provides you with a perfect platform to satisfy your plane flying desires.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Press the accelerator using mouse on PC or tap the screen on mobile phone to move your plane forward! Give your plane different directions with arrow keys while making sure that it does not hit the walls to fly as long as possible! There are 10 unique and exciting levels of snow to play online for free without download. Anyone ranging from kids to teenagers and grown-ups can try it out and have fun on their desktop and laptop computers, cell phones, tablets and gaming consoles.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Do not forget to collect the coins you see on your way to upgrade your planes and enter the next level powerfully! Avoid the bombs that your enemies keep releasing time to time! Do your best to reach your destination as fast as possible to take the entry in the next level with extra points and confidence! All the best to have a blast in our cool html5 fun aircraft game! Check out more adventure challenges online, no download required!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/1155e96f3af94743847fc935fef7acb1/\r\n",
+      "metaTitle": "Airplane games,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Airplane games at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Airplane games Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545466.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9387,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:14:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-08-17T06:15:04.476Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICON-FLY, STOP ,LEFT ICONS- UP DOWN MOVE",
+      "webControlKeys": "SPACE-FLY, UP DOWN ARROW TO MOVE UP DOWN,DOWN ARROW TO STOP"
+    },
+    "rating": {
+      "rating": "2.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
