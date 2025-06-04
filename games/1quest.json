@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aec1",
+      "id": 253,
+      "name": "1 Quest",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "1quest",
+      "image": "253",
+      "url": "1quest",
+      "description": "The game of underworld has once again in its ferocious avatar has arrived before you in fighting free action game online 1Quest. This definitely going to be the best action game of online gaming aficionados, that love to play deep alleys of underworld, yet, with a unique feeling of winning the game, every time they into the gaming strategy to counter demon from the dark world.<br><br>In 1 Quest game you as a young adventure will be fighting the evil powers to save the princess and eight other kids that has been abducted to be sacrificed to the demon God. There only seven days has been offered to accomplish this rescue mission. As after the seventh day, they will begin the ritual for sacrificing the kids in one of the most horrific yet brave action game online.<br><br>In the game, you will pass across the various realms and there fight with the all sorts of deadly demons and monsters. For the movements, use arrow keys. Press a for auto attack, E for auto explores, Z to climb the stairs, P for using the potions and R to take rest.",
+      "size": 1280,
+      "height": 0,
+      "script": "<embed width=\"1280\" height=\"768\" base=\"https://external.kongregate-games.com/gamez/0021/4044/live/\" src=\"https://external.kongregate-games.com/gamez/0021/4044/live/embeddable_214044.swf\" type=\"application/x-shockwave-flash\"></embed><br/>Play free games at <a href=\"https://www.kongregate.com/\">Kongregate</a>",
+      "metaTitle": "1Quest, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "1 Quest game in genre of fighting is for the online gaming aficionado that loves to play in deep alleys of underworld with a great sense of winning the game.",
+      "metaKeyword": "1Quest, Action, Fighting, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "ALL",
+      "likes": 100,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8319,
+      "ownGame": false,
+      "addDate": "2016-07-09T09:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2024-03-18T10:39:26.780Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 11
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
