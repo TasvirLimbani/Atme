@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c433",
+      "id": 6563,
+      "name": "Strike Expert",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "strike-expert",
+      "image": "6563",
+      "url": "strike-expert",
+      "description": "<div>Welcome to the brand new action challenge where your sharp gun handing abilities will help you to get through all the challenging levels! No! You will not enter the battlefield alone, but with a gun with some bullets. Are you ready to clear the area from all the blood-thirsty enemies? Join Strike Expert and be prepared to challenge your intense shooting abilities to the optimum level! Do not forget to reload your gun when you are run out of bullets.</div><div><br></div><div>When you click the play button, you would be given a particular mission to complete. Every successful shooting will reward you with some coins. Completing a mission successfully will also help you to a significant amount of coins through which you can upgrade your weapons and make your character stronger than before. Be careful as you would have four lives to use in this HTML5 shooting game! Track the number of goals, bullets and lives by looking at the top middle part of the screen!</div><div><br></div><div>The awesome graphics and fabulous gameplay combined with the easy controls and interesting story will definitely keep you glued to the screen for long. No matter whatever reason you have to try it out, you are sure to have the biggest entertainment of your life here with us. Browse through our extensive collection of free action games that can transform your any boring hours into the most exciting ones! Good luck to have a blast and become a champion action shooter!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/strike-expert/",
+      "metaTitle": "Strike Expert Game, Shooting - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Strike Expert at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Strike Expert, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 3540,
+      "dislikes": 425,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 788609,
+      "ownGame": true,
+      "addDate": "2020-11-21T17:27:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-06-04T06:06:26.663Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT RIGHT JOY STICK TO MOVE, GUN ICON TO SHOOT",
+      "webControlKeys": "W,A,S,D AND ALL ARROWS TO MOVE, LEFT CLICK TO HIT"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 297
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
