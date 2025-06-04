@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c18d",
+      "id": 5700,
+      "name": "Winter Soccer",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "winter-soccer",
+      "image": "5700",
+      "url": "winter-soccer",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Your favorite winter season is here and it is our pleasure to make it more exciting and interesting by introducing you to a brand new sports game – Winter Soccer! No need to stop you from exploring the lovely moments of this season when you have a wonderful opportunity to feel it without leaving your seat. The whole objective is to allow you to enjoy the spirit of soccer continuously. It only takes a few clicks to give you those wanting moments you are crazy for!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Join this one of the best soccer games for kids and be prepared to get you closed to it! No need to get you confused how to play this cool HTML5 football game since the controls are very easy to understand. Drag, aim and release your soccer ball to hit the target! Click play button and then choose the country you want to play for! Playing this fun strategy game is a treat for all the football game lovers! Score 3 goals as fast as you can to get the victory your chosen country is looking for!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The salient features of this management game include Smart and calculative AI, suitable for the winter/Christmas audience, winter theme with snow and pine trees. Select your side right from 32 countries in this HTML5 game for boys! Use your brain skills to plan and make a perfect goal! Go into the tutorial to learn the ropes! You are sure to have a great fun in this exciting soccer stadium environment. Have a blast in our all football games for kids!! Give your opponent a solid challenge in this winter-themed version!&nbsp;</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/a069de3f7d054199a2b6cd71ecabbc29/\r\n",
+      "metaTitle": "Winter Soccer, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Winter Soccer at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Winter Soccer Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557559199.xml",
+      "idealFor": "Man",
+      "likes": 147,
+      "dislikes": 16,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 26120,
+      "ownGame": false,
+      "addDate": "2019-05-11T12:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2025-04-20T23:46:51.429Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE PLAYER STRECH AND RELESE MAKING THE DIRECTION TO HIT THE BALL",
+      "webControlKeys": "CLICK ON THE PLAYER STRECH AND RELESE MAKING THE DIRECTION TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
