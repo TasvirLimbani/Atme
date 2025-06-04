@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b945",
+      "id": 3491,
+      "name": "Stickman sniper Tap to kill",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "stickman-sniper-tap-to-kill",
+      "image": "3491",
+      "url": "stickman-sniper-tap-to-kill",
+      "description": "Do you like FPS and other shooting games? This game is for you! Take the identity of a secret agent and take your sniper. You have precise orders! The identity of each one of your targets is given to you at the beginning of the level. Concentrate and succeed in all your missions.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/1c2e425082cc437f99b83912ec678c41/\r\n",
+      "metaTitle": "Stickman sniper Tap to kill, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stickman sniper Tap to kill at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stickman sniper Tap to kill Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536576566.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 12,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 10576,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2025-05-17T16:00:28.257Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE ICON TO AIM, TAP TO SHOOT",
+      "webControlKeys": "RIGHT CLICK OF MOUSE AND MOVE TO AIM, SPACE- SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
