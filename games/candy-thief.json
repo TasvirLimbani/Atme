@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b217",
+      "id": 1459,
+      "name": "Candy Thief",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "candy-thief",
+      "image": "1459",
+      "url": "candy-thief",
+      "description": "<div>Candy Thief is a beautifully-designed adventure game that we have got covered specially for you! In this brand new online strategy game, you will meet a thief who has a serious sweet tooth, which generally gets him trouble. This time he has again got into a very big trouble, which cannot be handled by him on his own. So, he seeks for you who has the only solution for his problem. Are you ready friends to take him out of this dilemma? Join him right away to show off your ultimate strategic skills!</div><div><br></div><div>In this free online platform game, you will have to help him navigate the death-defying terrain and get his hands full of candy. He trusts your skills a lot, so please do not try to take your steps back. Play this cool HTML5 game until you achieve its goal! It is up to you now to help him run and jump while avoiding all the deadly obstacles in a search for the maximum possible candy. You have to put your quick reaction skills and patience to test to clear all the levels.&nbsp;</div><div><br></div><div>You can play this side scrolling pixelated online game using your mouse. Hop once or hope twice to keep your game going. Make sure to tap the right side to make a single jump or the left side to make a double jump. Begin this mobile strategy game by just clicking the big play button! Do you want to play more adventure titles like this, check out our huge list of top games and find the most relevant ones? We are guaranteed to offer a huge fun and thrill through all games available at our website.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/602732dc8dca4c3eb6e9edd35bba221c/\r\n",
+      "metaTitle": "Candy Thief Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Candy Thief at atmegame.com ! We have selected this platform games for best excitement and thrill in you!",
+      "metaKeyword": "Candy Thief Game, platform Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489364.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 15239,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.689Z",
+      "updatedAt": "2024-03-24T16:11:19.903Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO JUMP",
+      "webControlKeys": "UP ARROW- JUMP, L-R ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
