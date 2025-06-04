@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c186",
+      "id": 5693,
+      "name": "PUBG PIXEL",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "pubg-pixel",
+      "image": "5693",
+      "url": "pubg-pixel",
+      "description": "<div><span style=\"font-size: 13.3333px;\">If you are a big fan of PubG, you will definitely enjoy this brand new action-packaged challenge. Avoid calling yourself the master of IO games if you have not tried online PUBG Pixel yet! This is surely a treat if you have strong craving for FPS. Do not need to waste your time and try to join this biggest online battle to place your name on the leaderboard! All you need is put your concentration and shooting skills to test to overcome the hurdles and obstacles of the game with ease.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Do your best and become the strongest player in this free online shooting game! Your victory will depend basically on how long you survive. Get ready to earn some extra XP points by completing some ongoing challenges in this first person shooter game! Play this cool HTML5 game alone, with friends or with online players from all across the world! Lots of surprises are awaiting you like unlocking and accessing some fully accessible version without lags!</span></div><div><span style=\"font-size: 13.3333px;\">The combat is very huge as you see here up to one hundred players fighting with each other in this battle royale.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Common on friends! Show off your combat skills and try to survive till end in this multiplayer pixel game! You can only win the match if you are a person or a team who remains alive till end. In general, it only takes 10 minutes to complete a full round! Try out more 3D shooter games for kids on our free online game website to keep you engrossed for hours!</span></div>",
+      "size": 800,
+      "height": 590,
+      "script": "https://html5.gamedistribution.com/39e2f64af593465189d0fc11ae4375b5/\r\n",
+      "metaTitle": "PUBG PIXEL Game Online, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game PUBG PIXEL at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "PUBG PIXEL Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1556964027.xml",
+      "idealFor": "Man",
+      "likes": 1246,
+      "dislikes": 72,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 134239,
+      "ownGame": false,
+      "addDate": "2019-05-04T15:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2025-04-10T12:24:00.362Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "SPACE-JUMP,R ALT/LEFT CLICK-SHOOT,L CTRL-STOP THE ATTACK,W,A,S,D ALL ARROWS -MOVE"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 174
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
