@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c300",
+      "id": 6194,
+      "name": "Santa Gift Race",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "santa-gift-race",
+      "image": "6194",
+      "url": "santa-gift-race",
+      "description": "<div>This time Santa has left his home to collect the gifts on his bike. Would you to guide him and collect all the gifts to complete all the levels? Join Santa Gift Race and be prepared to collect the presents of Santa in a completely unique racing environment! The tracks are very difficult to handle, so only those who are good at balancing bikes can complete the task perfectly. Try not to fall your bike until you achieve your goal in this brand new racing game.</div><div><br></div><div>Do not come back in the middle and make sure that you complete your task as fast as you can as the lovely children are anxiously waiting for their presents. Common boys! This is Christmas time and many gamers including you are seeking for some fun-filled tracks to explore to keep them busy. The snow is falling regularly and your Santa needs your help to reach out to his destination without falling down. Track how many presents you have collected so far by looking at the right top of the screen!</div><div><br></div><div>Use the arrow keys or WASD to control the motorbike of Santa in this HTML5 Christmas game! In case of falling down, no worries and click on the replay button and start having bike riding fun again. Common boys! Our site covers lots of free bike games for boys that you can play on your preferred devices without download and have a blast alone or with your friends. These games are meant to occupy both boys and girls and offer unlimited entertainment.</div>",
+      "size": 860,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/314ed4e1acd442eab96dfe7729823d43/\r\n",
+      "metaTitle": "Santa Gift Race Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Santa Gift Race at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Santa Gift Race Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1577254675.xml",
+      "idealFor": "Man",
+      "likes": 1391,
+      "dislikes": 157,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 352513,
+      "ownGame": false,
+      "addDate": "2019-12-25T11:47:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2025-05-26T16:04:30.310Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT  ICONS TO MOVE AHEAD AND BACK, LEFT ICONS TO STABLE THE BIKE",
+      "webControlKeys": "UP ARROW TO SPEED ,LEFT RIGHT AROOW TO STABLE THE VEHICAL"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 131
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
