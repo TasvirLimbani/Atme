@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b202",
+      "id": 1430,
+      "name": "Wheely 6",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "wheely-6",
+      "image": "1430",
+      "url": "wheely-6",
+      "description": "<div>Get ready to experience something really engaging and funny in the sequel of the beautifully-designed car game Wheely 5! The levels are going to be pretty more challenging and exciting in Wheely 6. You have to help your friend Wheely to complete them before anything wrong takes place. Wheely has just got sucked inside the screen while enjoying a lovely 3D fairy tale movie in the cinema. Are you ready to take him out? Join this brand new adventure game and help your red beetle friend!</div><div><br></div><div>You have to enter the medieval fantasy world of cute cars and deadly dragons where you will also see beautiful lakes, awesome castles and more. The environment is full of flying dragons and knights. All you need is just click the right places to complete all the levels. Make sure to solve the uncover secrets and hidden puzzles using your curiosity and wits. Will you be able to spot the hidden tiny wheely? Apply your cognitive mind and brain power to help him come back to the modern!</div><div><br></div><div>In this free online platform game, you might opt for some camouflage at several point of time. Once you succeed in taking Whelly out of this trouble, you will also require to spot a yeti to assist yourself. This cool HTML5 game features wonderful fairytale land and fun puzzles to be sorted out at each level. You can play this 14 levels game in desktop and mobile browsers with the help mouse. Navigate with mouse or interact with left mouse button!&nbsp; &nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/0095b1d5dcb645d88971010491627362/\r\n",
+      "metaTitle": "Wheely 6, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wheely 6 at atmegame.com ! We have selected this platform games for best excitement and thrill in you!",
+      "metaKeyword": "Wheely 6 Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489364.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8523,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.689Z",
+      "updatedAt": "2024-08-30T14:08:24.156Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO PLAY",
+      "webControlKeys": "L CLICK OF THE MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
