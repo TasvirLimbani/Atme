@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6b",
+  "category_name": "golf",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6b",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c096",
+      "id": 5424,
+      "name": "Golf Royale",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "golf-royale",
+      "image": "5424",
+      "url": "golf-royale",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You do not have to go to the nearest playground and leave the comfort of your home to enjoy your favorite golf sport when you explore it online on your preferred location. We have brought to you today a brand new online golf game “Golf Royale”, where fun and excitement level will be as equal as you obtain on the real golf ground. Aim and hit your ball, make your best shot and do everything that you can do in a real golf sport!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This free online sport allows you to challenge your physics skill and hand-eye coordination. Try to be precise with each ball you have given to complete level fast and secure some extra points! Get some training and be prepared to finish all sections on your own! Remember you will have some limited attempts. So, take your time and release the ball at the right angle so that it can reach to the hole. Use every ball perfectly as you have more than one hole to hit!</span></div><div><span style=\"font-size: 13.3333px;\">&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">The fun and intuitive gameplay combined with super easy controls can relax your stressed mind shortly. Perform well and get ready to unlock and upgrade your clubs! Keep hitting your ball to reach more and more roles to level up and progress through various difficult courses. In this most addictive golf game, you will have to 90+ holes to enjoy. It is time to show of your skills to beat your all opponents and prove the world that you a king of the golf course! Good luck to play more games online for free and grabbing more opportunities to become a shining star field!</span></div>",
+      "size": 850,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/69602bd748a84b70b4856822b6224ad7/\r\n",
+      "metaTitle": "Golf Royale,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Golf Royale at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Golf Royale Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 43,
+      "dislikes": 27,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8432,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2024-09-04T17:13:40.816Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SELECT THE DIRECTION RELESE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "3.2",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6b",
+      "name": "golf",
+      "slug": "golf",
+      "icon": "golf-games"
+    }
+  }
+}
