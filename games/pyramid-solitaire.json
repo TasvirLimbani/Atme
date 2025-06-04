@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b37d",
+      "id": 1884,
+      "name": "Pyramid Solitaire",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "pyramid-solitaire",
+      "image": "1884",
+      "url": "pyramid-solitaire",
+      "description": "<div>Pyramid Solitaire is an intriguing yet highly interesting HTML5 Game. Get into this latest version of the classic Pyramid Solitaire and experience something quite entertaining. The primary objective in this free online card game is to remove all the standard playing cards from the pyramid. Make sure that you clear as many boards as possible to make your win in this cool html5 game. Do you think that you are capable enough of making it to the top of this pyramid?</div><div><br></div><div>Your intellectuality and logical thinking will be challenged in this fun-filled arcade game. Match two cards which make equal 13 together and remove them right away. The possible matches can be an 8, and a 10, 5 and a 3 etc. For your knowledge, a King ranks as 13, Queen is 12, a Jack is 11, and ace is 1. Make 13 and get ready to remove the cards in this brand new arcade game. You can play this game alone or with your friends! Be focused on the simple and basic card game rules and try to open your eyes while clearing the cards.&nbsp; &nbsp;&nbsp;</div><div><br></div><div>Match cards together so they rank at the equal number i.e. 13. Try to remove all the cards one by one. A person will be declared as a winner in this best card game if all the cards from the Pyramid are removed in the shortest possible time. You might taste the loses in several games. This popular arcade game will alert you in between if there is no chance of winning the game anymore. Good luck to show off your unmatched card skills to beat your previous score!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/13a045dbde274bae92b2862133c16223/\r\n",
+      "metaTitle": "Pyramid Solitaire, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pyramid Solitaire at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "Pyramid Solitaire Game,  Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11262,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2024-04-02T00:58:06.473Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
