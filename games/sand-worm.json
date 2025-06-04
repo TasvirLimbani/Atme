@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4f0",
+      "id": 2280,
+      "name": "Sand Worm",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "sand-worm",
+      "image": "2280",
+      "url": "sand-worm",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Sandworms come under the colossal creatures that are generally found on the hot desert planet Arrakis. Most of us also see these fictional creatures in novels as well. However, today you have got a chance to meet them in a brand new adventure game where you have to control it with the help of arrow keys. Would you like to give it a try right away? If yes, join Sand Worm! and be prepared to attack the humans and gain points.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">You do not need to be scared of it since that creature is not going to come out from the game since this is a virtual world. Just enjoy with it by helping the sand worm to grab as much as you can under and above the ground! Many soldiers will also be there to protect the outside world. So you need to be alert when you reach the outside world since soldiers can kill you through their guns.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Remember you have to complete your given task before time runs out. Do not hesitate in causing the complete devastation. Gulp up the soldiers when you go outside and dive back underground to get some health points! Destroy as many helicopters, tanks, soldiers and everything that you can do to collect the points in this HTML5 platform game! Kill as many enemies as you can to create your highest score possible! Good luck to enjoy more engaging and interesting action-packed challenges on atmegame.com and have a blast without download!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/649200e7d6cb4212b22934502c4a1be0/\r\n",
+      "metaTitle": "Sand Worm Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sand Worm at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Sand Worm Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7910,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-09-12T09:22:03.010Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON LO-R OF THE SCREEN TO PLAY",
+      "webControlKeys": "ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
