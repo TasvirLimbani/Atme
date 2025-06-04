@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0df",
+      "id": 5502,
+      "name": "Tanking Tanks",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "tanking-tanks",
+      "image": "5502",
+      "url": "tanking-tanks",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This tank is going to be an epic one! You will participate in this brand new adventure game as a tank that is fully loaded with a great proportion of ammo. Your objective in Tanking Tanks is to challenge various other tanks that will play the role of your enemies. It is up to in your hands now to save the world by destroying all bad tanks. We are pretty sure that you have the skill to perform this job and make the world proud on your ultimate fighting skills. </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Experts consider it as a classic take of the most popular Tank Battle game that grabbed many eyeballs in early gaming days like Battle Zone. Move your tank with ASDWX in this simple yet addictive free online war game! You can shoot other tanks through the mouse. Aim your enemy tank before releasing the fire from your tank to destroy all your enemy tanks and complete each level! Check out the options of sound and home on the left top corner of the screen!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">There is a huge fun to explore in this one of best tank battle games for children. You can also try out more tank games here for free on our online game portal. Give our all battle games a try to learn why atmegame.com has today evolved as one of the best free online game websites in India and abroad! Keep your fingers ready to run on the keyboard, your mobile phone or any other gaming device and get ready to be a part of the biggest wars of your life!</span></div>",
+      "size": 1200,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/d85cc0acc7f643e69cb3f066dc19f15b/\r\n",
+      "metaTitle": "Tanking Tanks, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tanking Tanks at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Tanking Tanks Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453232.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6837,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2024-10-03T18:01:26.747Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,,S,D ALL ARROWS TO MOVE, LEFT CLICK TO HIT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
