@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b238",
+      "id": 1504,
+      "name": "Hollywood Bash",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "hollywood-bash",
+      "image": "1504",
+      "url": "hollywood-bash",
+      "description": "<div>The time has come when the popular stars of Hollywood are ready to try something different. Join Hollywood Bash today and be a part of the big battle of the floozy superstars! Remember here the belt of the stars will also be counted when it comes to creating a score for them. The key of surviving in this brand new fighting game is to utilize the moves perfectly. Choose your star and get ready to show off your intense action moves. Read out the instructions first in case if you have any confusions related to how to play.&nbsp;</div><div><br></div><div>Use S for a block, the left arrow key for the left hook and right arrow key for the right hook in this free online action game for boys. Begin the game by choosing a character before jumping into the ring. You will only be able to score extra points when your opponent is knocked out before the round is over. Try to conserve your energy since it will help you win in this cool action-packed game for kids! Remember there are chances of being your opponent pounced on you when he will notice you fatigued.&nbsp;</div><div><br></div><div>Your winning in this one of the best fighting games will depend on how long you will last in the ring. Try to maintain your power until the photo session ends. So, are you ready boys to show up your arch nemesis in front of all the widely recognized Hollywood photographers. The clearance of each round will show you some necessary stats, including punches blocked, punches thrown, punches landed, Time Bonus, Round Multiplier, round score and total score. Good luck to help your chosen Celeb win and make feel proud on you!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=360acf53481046c1abbf5a18609f8464\r\n",
+      "metaTitle": "Hollywood Bash, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hollywood Bash at atmegame.com ! We have selected this fighting games for best excitement and thrill in you!",
+      "metaKeyword": "Hollywood Bash Game, Action Games, fighting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517901590.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8304,
+      "ownGame": false,
+      "addDate": "2018-02-06T12:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.690Z",
+      "updatedAt": "2024-08-26T09:08:59.108Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
