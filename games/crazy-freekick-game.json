@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b537",
+      "id": 2377,
+      "name": "Crazy Freekick Game",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "crazy-freekick-game",
+      "image": "2377",
+      "url": "crazy-freekick-game",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The biggest soccer players from all across the globe are waiting for your help. Can you dare to accept this challenge and prove the world that you have all the needful guts to be a nice soccer player? If yes, join Crazy Freekick and be prepared for some free kick action. Choose your team and get ready to enter the highly challenging and addictive soccer match you have player ever! Your alertness and quick reflexes will definitely help make your way towards the biggest victory of the history.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">There are six unique and amazing levels to play through in this brand new sports game. Take your time and try to stop the bars timely to score a goal! Remember the decrement of the bonus multiplier will continue with the time and it increases with your very successful goal. React fast and make sure to be as precise as you can to collect the extra points in this HTML5 soccer game! Select any team from different options including France, England, Brazil, Italy, Germany and Argentina.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your performance on the two aiming meters will also help score some extra goals. Keep the right kicking to make some higher bonuses! The better you perform on the field the higher number of defenders you will have to face to play. Keep your eyes on the screen since your ball might bend in the air during the gameplay! Make your ball go at the point where it reaches over the crossbar. Avoiding playing this cool free online football game regularly. Take some breaks and then begin it again!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/6ffb481f6de7440994f507256a5d7549/\r\n",
+      "metaTitle": "Crazy Freekick Game, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Crazy Freekick Game at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Crazy Freekick Game Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524808838.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": -1,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 9679,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-08-28T23:28:22.969Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO HIT THE BALL",
+      "webControlKeys": "L CLICK OF SCREEN TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
