@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bad7",
+      "id": 3927,
+      "name": "Jellyland",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "jellyland",
+      "image": "3927",
+      "url": "jellyland",
+      "description": "<div>Almost everyone loves eating delicious jellies! Are you one of those gamers who also have a huge craving for these scrumptious sweets? If so, Jellyland game is just made for you. All you need to do is just click the play button and you will be entered in a world that is full of colourful jellies. Your objective in this latest arcade game is to match jellies of the same colour to clear them from the pipe and make points.</div><div><br></div><div>Begin this fun HTML5 puzzle challenge by choosing the level first! Put your fingers on your mouse or tap the screen of your mobile phone to touch and drag your chosen jelly to aim for the target! Do not forget to release it to shoot at a place where the other matched jelly/jellies is also available. Try to challenge your brain wits and attention skills to shoot and make as many identical jelly matches as you can before their chain reaches to the exit gate!</div><div><br></div><div>This cool online game will take you to a world that is full of jellies and sweets that you can see on the moving conveyor belt. Shoot the jelly and sweets through your canon into the line of sweets and jellies of the same types and colour. Sort sweets and jellies according to their colour to make them disappear from the screen in this matching 3 game! Check out even more challenging and engaging free online match 3 games on atmegame.com to satisfy your sweet tooth!&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/jelly-land-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Jellyland, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jellyland at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Jellyland Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7742,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2024-02-21T16:08:03.950Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO FILL THE CONTAINER",
+      "webControlKeys": "L CLICK OF MOUSE TO FILL THE CONTAINER"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
