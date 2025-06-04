@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b307",
+      "id": 1743,
+      "name": "Car Crush",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "car-crush",
+      "image": "1743",
+      "url": "car-crush",
+      "description": "Car Crush is a frenetic game of cars, avoid crashing against rivals, earn money, improve your score and prove who is the most skillful behind the wheel. - High quality graphics. - B.S.O. Original. - One touch control - 32 cars to choose from. - Personal record. - For all audiences. - Fast and fun to play\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/b684aa671dca40eb8f060e8f719914ab/\r\n",
+      "metaTitle": "Car Crush Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Car Crush at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Car Crush Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629357.xml",
+      "idealFor": "Man",
+      "likes": 34,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 13073,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.695Z",
+      "updatedAt": "2025-02-11T20:49:43.973Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO CONTROL THE CAR",
+      "webControlKeys": "L-R ARROWS AND L CLICK OF MOUSE TO MOVE THE CAR"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
