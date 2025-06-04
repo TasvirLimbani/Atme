@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b512",
+      "id": 2318,
+      "name": "BattleCubeonline",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "battlecubeonline",
+      "image": "2318",
+      "url": "battlecubeonline",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The biggest action-packed challenge is ready to take you to the most thrilling and entertaining world! Are you ready to help your character go through several extremely complex challenges? If yes, Battle Cube is designed just for you. Your objective in this brand new action game is to destroy other players with the help of cubes. Make sure to keep your character ready all the time and use the weapons in the better way to make heavy damage to his enemies.</span></div><div><span style=\"font-size: 13.3333px;\">Create your room, choose your map and get ready to complete your mission in this one of the best third person shooter games! It is up to you how long this online battle will keep running. Pay attention to the important details and gear up to find and ambush the cubes of other players in this cool multiplayer 3D battle game! Before entering the battlefield, make sure that your device has good enough internet connection. There are multiple obstacles and problems to deal with.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Guide your cube to find the way to the victory and do not forget to shoot other players with the help of your gun to clear them from the screen! Do not take the other players easily since they are also lashed with the dangerous weapons. Fight hard to defeat all of the enemies and make your planet best in this map in this HTML5 shooting game! Take a wonderful shooting position with the help of the terrain and objects like architecture, stones and trees!&nbsp;&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/ff9b5cac171a42cbadb694fa65d2766c/\r\n",
+      "metaTitle": "BattleCubeonline, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game BattleCubeonline at atmegame.com ! We have selected this shooting games for best excitement and thrill in you!",
+      "metaKeyword": "BattleCubeonline Game, Action Games, shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 91,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13673,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2025-05-27T14:40:35.972Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB GAME",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
