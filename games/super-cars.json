@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be4d",
+      "id": 4823,
+      "name": "Super Cars",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "super-cars",
+      "image": "4823",
+      "url": "super-cars",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Get ready to experience the double fun in this one of the best car games for kids! Yes, you would have to handle two vehicles simultaneously on a tack that is full of multiple obstacles. Are you ready to accept this unique sort of fun challenge? Join Super Cars and be prepared to control two cars at the same time! We can understand that this task is pretty difficult to handle with. But your focus and quick reflexes can help you handle all the hurdles with confidence and create the best score.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Make sure to grab all the fuels and gas you see on the track and avoid stones and other obstacles lying on the road in this brand racing game. Two beautifully-designed cars have already come on the road and you are the only driver to manage the two. Challenge your driving abilities to the ultimate level and try to go as long as you can to create your own high score! Remember you would also be thrown out of the game if any of cars collides with the obstacles.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The realistic physics, beautiful graphics, easy controllers and realistic sound environment will be enough to keep you engrossed for hours. Join this html5 car racing game today and allow yourself to enjoy the realistic driving experience! If you get bored after sometime, feel free to browse through our huge collection of free car games and spot the ones that are more challenging and interesting. Our website is kept updating with new car games regularly. Good luck to have a great fun, no download required!</span></div>",
+      "size": 720,
+      "height": 1280,
+      "script": "https://m.shtoss.com/game/super-cars/index.html",
+      "metaTitle": "Super Cars,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Super Cars at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Super Cars Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546117493.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10922,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.742Z",
+      "updatedAt": "2024-08-07T10:01:36.769Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP L-R CARS TO CONTROL",
+      "webControlKeys": "L CLICK OF MOUSE TO CONTROL BOTH THE CARS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
