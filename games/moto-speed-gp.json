@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2f4",
+      "id": 6182,
+      "name": "Moto Speed GP",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "moto-speed-gp",
+      "image": "6182",
+      "url": "moto-speed-gp",
+      "description": "<div>Welcome to the awesome world of speed! We have got you covered with a latest racing challenge where your insane stunt-performing abilities will allow you to score some considerable points. Are you ready to go on this amazing bike riding journey? If yes, join Moto Speed GP and gear up to drive the uniquely-designed motorcycle on different roads that are full of obstacles. Choose any mode out of four options, including Traffic Time, Traffic Ride, Time Trial and Free Ride!</div><div><br></div><div>Take your seat on your chosen bike model and then get ready to drive it through the multiple obstacles in any of the three environments, including Jungle, Desert and Night! The highway is packed with the annoying traffic and you require expertise in driving a motorcycle to get the job done. Make sure to avoid hitting all other vehicles that you see on the road. It will reward you with some money when you pass close to other vehicles.</div><div><br></div><div>The more money you have the better vehicles you will be able to unlock in this one of the best motorbike games for boys. There are multiple bike models and levels to explore. Get your bike and gear up to start racing over the streets! Try to collect as many coins as you can during this 3D speedy adventure! Change your camera view anytime in this cool racing simulation game! We cover lots of the latest bike riding simulations that you can enjoy without download. Hope you would have the same fun and thrill every time you visit to us!</div>",
+      "size": 960,
+      "height": 580,
+      "script": "https://html5.gamedistribution.com/c82e03db5da94290a32c0e5af40c0ded/\r\n",
+      "metaTitle": "Moto Speed GP, Bike Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Moto Speed GP at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Moto Speed GP Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1577254675.xml",
+      "idealFor": "Man",
+      "likes": 105,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 20985,
+      "ownGame": false,
+      "addDate": "2019-12-25T11:47:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2024-08-31T04:25:05.728Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W TO SPEED UP, A,D LEFT RIGHT ARROW TO DIRECTION CONTROL,SPACE TO HORN"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 26
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
