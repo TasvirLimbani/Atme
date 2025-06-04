@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682baff",
+      "id": 3968,
+      "name": "The Sorcerer",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "the-sorcerer",
+      "image": "3968",
+      "url": "the-sorcerer",
+      "description": "<div>Do you like the Tetris games to play online? Are you missing all the popular legacy games? If so, you have reached out at the right place. The beautifully-designed and highly addictive The Sorcerer includes everything that is enough to help you enjoy more fun and entertainment than you experienced in the classical games such as pong, Tetris and others. Players have to fit the falling blocks in the given area in Tetris. However, in this brand new arcade game, you have to shoot a ball of the same colour at the balls running around.</div><div><br></div><div>Take your time and try to throw your ball at the same coloured balls available in the chain that is coming down the path! The balls of the same colour will be popped only when they are available in 2 or more numbers. Be careful and try to be fast to pop up as many balls as you can before they reach the hole in this HTML5 puzzle game! Stop the line of balls from touching the exit game to complete each level!</div><div><br></div><div>Common friends! Use your insane brain power and quick reflexes to complete all three tricky and engaging levels! When you click the play button, you will see different colored balls running around the track. Keep matching more and more balls to finish each level with the maximum score possible! Find new hindrances and obstacles in the advanced level so handle each level calmly! Stay tuned with us to enjoy new arcade games without download! Good luck guys to have the best time online!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/the-sorcerer-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "The Sorcerer, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game The Sorcerer at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "The Sorcerer Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7379,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-01-10T21:58:36.781Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TYO SHOOT THE BALL",
+      "webControlKeys": "MOUSE TO SELECT THE DIRECTION, L CLICK TO SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
