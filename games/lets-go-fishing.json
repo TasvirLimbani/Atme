@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b17c",
+      "id": 1275,
+      "name": "Lets go Fishing",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "lets-go-fishing",
+      "image": "1275",
+      "url": "lets-go-fishing",
+      "description": "<div>Lets Go Fishing is an awesome brand new fishing game designed for both boys and girls. In this free online sport, your aim is to catch fishes, collect the maximum possible money, clear the level and reach the advanced level. You will only be able to unlock the high-value fishes if you have got the success in earning enough money for them. Make sure that you have reached the level before the time runs out in this exclusive fun-filled game for boys.&nbsp;</div><div><br></div><div>This beautiful sea has different kinds of fishes. All you need to apply a kind of special skill to catch a fish. Release the hook at the time when you are pretty sure that your effort will not go in vain. Keep your eyes focused on your targets and try to fish the maximum possible seafood before the time is over. You have the guts to play this cool sport perfectly and make a high score shortly. Play it alone or also ask your friends to explore it in their browser!</div><div><br></div><div>This html5 game includes easy controls, cool graphics, brilliant gameplay and extremely classic audio and video effects. You can complete it all levels by just using the mouse. Try to launch the hook perfectly and pass each level by reaching the goal of the game. This would also help you to unlock some more fishes to catch. You can explore this game online as many times as you want in your favorite browser. Good luck kids to have blast today!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/b8ab16ed12bb41a9abc0819ce4429a0e/\r\n",
+      "metaTitle": "Lets go Fishing, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Lets go Fishing at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Lets go Fishing Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517222754.xml",
+      "idealFor": "Man",
+      "likes": 61,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 21659,
+      "ownGame": false,
+      "addDate": "2018-01-29T16:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.686Z",
+      "updatedAt": "2024-07-29T08:23:26.767Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO CATCH THE FISH",
+      "webControlKeys": "L-CLICK OF MOUSE TO CATCH THE FISH"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": null
+  }
+}
