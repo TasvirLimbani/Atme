@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b653",
+      "id": 2692,
+      "name": "Military Wars Warfare",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "military-wars-warfare",
+      "image": "2692",
+      "url": "military-wars-warfare",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The military wars in Athens have turned into a landscape of global warfare. Every day more and more military fronts join the area to protect the people of their country. kids are allowed in this place, but only it?s meant to only those real kids who are ready to lose their all to save their country. Get ready to show off your intensive fighting skills by joining either Recon or Delta squad. Prove yourself as an elite soldier and help your team to win the battle in this brand new first-person shooting game for boys.  </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Military Wars: Warfare is an awesome 3D multiplayer game designed in a modern landscape with many cool and effective weapons. Choose from a huge variety of landscapes that include an abandoned village or a port city. Kill all your dangerous enemies using a wide range of weapons, including pistols, shotguns and even machine guns. The cool graphics, realistic sound effects and intense gameplay can keep you engaged for many hours.  </span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Check your score and compare it with other players from all across the world. This would help you to see your positions in the monthly ladder and also know how much-skilled combatant you are currently in the online world. Select from different game modes, including capture the flag and team deathmatch. Be careful in all the missions since it allows you to challenge your skills and talent as an expert fighter. Developed by Adolux, Military Wars: Warfare features easy to control, including WASD or arrow keys to move, left click to shoot, E to pick up a weapon, R to reload, C to crouch and Shift to run. </span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/military-wars-warfare/index.php",
+      "metaTitle": "Military Wars Warfare, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Military Wars Warfare at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Military Wars Warfare Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 9,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 9523,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-08-03T13:37:58.082Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE, SPACE- JUMP, L CTRL- CROUCH, C- PRONE, L CLICK- SHOOT, R CLICK- AIM,"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
