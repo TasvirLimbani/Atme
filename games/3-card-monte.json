@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c20d",
+      "id": 5871,
+      "name": "3 Card Monte",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "3-card-monte",
+      "image": "5871",
+      "url": "3-card-monte",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you love playing card games during your free time? If yes, no need to go offline to make your dream come true when you have an online option. We have brought to you a classic brain challenge - 3 Card Monte. In this brand new arcade game, you have to follow the Ace of Spades closely in order to ensure your win in the end. Try to keep your eyes on the screen always not to miss anything that is important to look into to win in this HTML5 gaming game!</span></div><div><span style=\"font-size: 13.3333px;\">?</span></div><div><span style=\"font-size: 13.3333px;\">Start this cool memory game with going through an easy to understand tutorial. With simple gameplay, easy controls and cool graphics, this free online game can keep you occupied for hours. You will be displayed three cards facedown onto the table. You have to find out where your chosen card it after flipping over the queen of hearts automatically. Then it will be rearranged, facedown. Your job is to pick the queen of hearts when the machine quits moving the cards.?</span></div><div><span style=\"font-size: 13.3333px;\">You will be rewarded with some points every time when you pick the right card. In this HTML5 card puzzle, you will lose once you run out of money. Trying out a 3 Card Monte is a nice idea since there will be no risk of losing your realistic car and house. It only takes your virtual money that is not useful for you in the real life. Choose the right card to hit the best score on the screen! Check out more games that are based on cards and memory at our free online game website!</span></div>",
+      "size": 920,
+      "height": 520,
+      "script": "https://html5.gamedistribution.com/8a5bb304923145a2aa0abf00d98e01c1/\r\n",
+      "metaTitle": "3 Card Monte,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 3 Card Monte at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "3 Card Monte Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557762208.xml",
+      "idealFor": "Man",
+      "likes": 61,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 15025,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.756Z",
+      "updatedAt": "2025-03-20T20:16:28.183Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP THE CORRECT CARD BY LEFT CLICK OF MOUSE",
+      "webControlKeys": "CHOOSE THE CORRECT CARD BY LEFT CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
