@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd60",
+      "id": 4584,
+      "name": "Animal Match Pet Rescue",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "animal-match-pet-rescue",
+      "image": "4584",
+      "url": "animal-match-pet-rescue",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you love playing the matching and jigsaw puzzle challenges to kill your time? If yes, we have proudly brought to you a brand new arcade game where multiple cute animals are waiting for your helping hand. Would you like to join these lovely pets to rescue the wonderful forest? Play Animal Match Pet Rescue and get ready to match all of the same animals and send them to fight with the deadly flames! Be fast to rescue these pets so that they can reach on time in the forest!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this brand new arcade game is to connect three or more of the same animals to make them disappear from the screen while leaving other animals to take their position. There are many fun and interesting moments to enjoy in this html5 match 3 puzzle challenge. You will be rewarded with extra points if you match more than 3 animals in a single attempt. Track your score at the bottom of the screen anytime during the gameplay! There is no time limit so you can keep matching to find some relaxing hours.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">These cute animals include little penguin, cat, monkey and more. You can match vertically, horizontally, diagonally or any direction that connects more than 2 animals. Use the mouse or tap the screen to connect the animal to the next same animal and create the best score! Keep matching more and more animals to hit the best score on the leaderboard! All the best to have a blast in our more classy challenges from the category of animal games that are made for kids and grown-ups and playable on multiple devices without download!</span></div>",
+      "size": 1080,
+      "height": 1920,
+      "script": "\nhttps://html5.gamedistribution.com/f409aa47f10c442eae44b223744c5ae6/\n",
+      "metaTitle": "Animal Match Pet Rescue, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Animal Match Pet Rescue at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Animal Match Pet Rescue Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527483.xml",
+      "idealFor": "All",
+      "likes": 20,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8503,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-02-06T09:08:17.580Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": "KEEP PRESS AND SWIPE L CLICK OF MOUSE TO CONNECT THE SAME IMAGES "
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
