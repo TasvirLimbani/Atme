@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0f6",
+      "id": 5527,
+      "name": "Knife Master",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "knife-master",
+      "image": "5527",
+      "url": "knife-master",
+      "description": "<div><span style=\"font-size: 13.3333px;\">A brand new quick reflexing game is here for you! Do you think that you are a right choice for this challenge? Join Knife Master and get ready to put your quick reflexion and shooting skills to test! In this brand new action packed challenge, you have to shoot the knife at the target board that you see on the screen. Sometimes this board remains silent, while it moves the other time. Remember your every accurate shot will help you get extra points.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">There are many exciting rewards and achievements are waiting for you in this highly addictive flippy knife game. Pay attention to your goal to pass different levels. You will be out of the game if you miss a single shot towards your target. Show off your intense reaction skills to win since you will see the knife moving regularly from side to side on the bottom! Click the mouse or tap the screen when you find the knife right under the target in this cute reaction game!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Soon you will also see your target moving from the left side to the right side. You will get more points if you are able to hit the red center. Challenge your skill to obtain an unbeatable high score in this one of the best knife games for kids! We are pretty sure that you are talented enough to refresh your best record. Check out more challenging and engaging knife shooting and hitting online games! It takes a few minutes to help you become the master of the knife! Good luck to unlock different types of knives in more arcade games!</span></div>",
+      "size": 915,
+      "height": 680,
+      "script": "https://html5.gamedistribution.com/b60b67498e6843e4b16d461b8bd951af/\r\n",
+      "metaTitle": "Knife Master, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Knife Master at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Knife Master Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453347.xml",
+      "idealFor": "Man",
+      "likes": 44,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13357,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2025-01-14T01:43:28.793Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO HIT THE KNIFE",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO HIT THE KNIFE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
