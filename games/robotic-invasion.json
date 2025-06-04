@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c327",
+      "id": 6242,
+      "name": "Robotic Invasion",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "robotic-invasion",
+      "image": "6242",
+      "url": "robotic-invasion",
+      "description": "<div>The biggest action-packed challenge is just out! Click the play button and get ready to witness the highly addictive and fun-filled battleground in this Robotic Invasion! In this cool action game, your objective is to protect your base against the attacks of robotic flying birds and other deadly enemies. Use your ground turret, bunker and air turret to face off the challenges released by your enemies! Try to save the health of each weapon and make as much damage as you can to your enemies!</div><div><br></div><div>Keep shooting until you kill all of your rivals that are flying in the sky in this HTML5 shooter challenge! Be patient as you also have to meet with the boss fight further! Killing of each enemy matters as it will reward you with some money. Would you able to clear the screen from the deadly opponents and survive till 10 minute is over? All it takes to put your fighting and shooter abilities to the test to get through all the hurdles and become a fighting champion.</div><div><br></div><div>Track your money by looking at the top left corner of the screen in this intense fighting game! Pause your game anytime whenever you want by clicking on the top right corner of the screen! The bottom part of the screen will show the power bar of your machines. Good luck to survive till 10 minutes complete to become a true action fighter! Let us see how many achievements you will be able to earn along the way! Our website is full of free shooting games that are available to play online with your friends.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/f727bc2121bd4816928a54de315996de/\r\n",
+      "metaTitle": "Robotic Invasion Game, Shooting - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Robotic Invasion at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Robotic Invasion Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579513428.xml",
+      "idealFor": "Man",
+      "likes": 43,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 16220,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2024-11-28T03:21:41.712Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH THE SCREE TO HIT THE TARGET",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO HIT THE TARGET"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
