@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c103",
+      "id": 5542,
+      "name": "My Bow",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "my-bow",
+      "image": "5542",
+      "url": "my-bow",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you want to practice your archery skills during your free time? Is playing with bow and archery your favourite pass time activity? Common friends! You should join My Bow right away without wasting your time anymore. This beautifully-designed arcade challenge also features an engaging and interesting gameplay combined with cool music and easy controls. It is for those boys and girls who are crazy for archery and bow games.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">In this cool HTML5 shooting game, there are many things to do right from exploring the level system to enjoying the point system and having a quick look at your overall efficiency. It will be amazing to shoot arrows at immobile or moving objects. Remember you will have 5 arrows in each level to play. Use them wisely to get more points than any other archer obtains in this one of the best shooter games! Take your time before releasing your arrow to complete your goals! Your exiting performance will surely bring a big smile on your face and will be enough to be a popular archer of your city.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">It is time to put your archery skills to challenge and become the legendary archer master. We know that you are also pretty excited to show off your talents in this bow hunting game. Aim your target perfectly to become a champion of the archery world! Check out our more online games for free to wear the crown of the ultimate archer of all the times! We are happy to serve you with what you love to play to beat your boredom.&nbsp;</span></div>",
+      "size": 1200,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/67fc7ec6b6504f7da38d05f7e21e94b6/\r\n",
+      "metaTitle": "My Bow, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game My Bow at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "My Bow Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453347.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8569,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2023-07-29T12:13:55.208Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ARROW SWIPE BACK AND RELESE TO MAKE A AIM TOWARDS APPLE",
+      "webControlKeys": "CLICK ON ARROW HOLD,STREACH AND RELESE TO HIT THE APPLE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
