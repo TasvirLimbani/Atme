@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b223",
+      "id": 1472,
+      "name": "Freddy Nightmare Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "freddy-nightmare-run",
+      "image": "1472",
+      "url": "freddy-nightmare-run",
+      "description": "<div>Freddy is a quite young boy who generally keeps busy in exploring video games on their PCs during their leisure time. His mother came to him and advised him to go to bed since it is time to sleep. While falling asleep, he met with a terrifying nightmare, which he would not like to experience in his real life. His fear is increasing, but lucky he has spotted you for the immediate help. Are you going to help this cute friend? Join Freddy Nightmare Run and get ready to show your utmost running skills!</div><div><br></div><div>You have to play the role of his nightmare character whose aim is to save his life from the dangerous monsters. Do your best and help your character survive the monstrous Soul Catcher in this free online adventure game for kids! It is not easy to complete the task since the only way of winning the game is the continuous running of Freddy. Make sure to make a proper jump or slide among dangerous obstacles and escape enemies in this brand new platform game.&nbsp;</div><div><br></div><div>A video game addict Freddy has got into big trouble and has hope from you. Many bloodthirsty ghosts, as well as other creepy creatures, chase him continuously. So, run as fast as you can to avoid from being caught. Try to be very attentive to help him escape from these monsters in a platform full of deadly traps. Avoid obstacles, attack enemies and accomplish all the levels one by one in this endless running game for boys!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=39ac23b25966492781c28df63e97a2a2\r\n",
+      "metaTitle": "Freddy Nightmare Run, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Freddy Nightmare Run at atmegame.com ! We have selected this platform games for best excitement and thrill in you!",
+      "metaKeyword": "Freddy Nightmare Run Game, Action Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517899654.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7259,
+      "ownGame": false,
+      "addDate": "2018-02-06T12:17:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.690Z",
+      "updatedAt": "2024-03-17T00:48:53.596Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
