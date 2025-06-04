@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b54a",
+      "id": 2398,
+      "name": "Penalty Shooters 2",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "penalty-shooters-2",
+      "image": "2398",
+      "url": "penalty-shooters-2",
+      "description": "Sequel to the classic football penalty shootout game brings more leagues and improved competition system. Pick one of 360 football teams from 12 leagues (World cup, Euro cup, England, Germany, Spain...)! Cup is played in two phases - group stage and knockout. During the group stage you need to rank 1st or 2nd to go to the knockout phase.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/571b9df027e449f78e3869ba19658754/\r\n",
+      "metaTitle": "Penalty Shooters 2, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Penalty Shooters 2 at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Penalty Shooters 2 Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524808838.xml",
+      "idealFor": "Man",
+      "likes": 37,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 15083,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:30:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-06-26T12:39:44.503Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREN TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE TO HIOT THE BALL"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
