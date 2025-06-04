@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bdfb",
+      "id": 4740,
+      "name": "Swipe",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "swipe",
+      "image": "4740",
+      "url": "swipe",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This time the fun is double, but obstacles are four times harder. Do you still want to try out this brand new adventure challenge? Join Swipe and beat all the difficult challenges to take your position on the top of the leaderboard! Your objective in this cool funny html5 game is to swipe right or left to move the barriers and make a clean way to your ball.&nbsp; Your game will be over if it collides with any obstacles.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">It is important to put your fingers on the mouse if you explore it in your PC or tap the screen if you play it in your mobile phone. Try to grab as many coins as you can to boost your score and create the highest score in the end in this cool escaping game! Do not forget to keep your ball away from the deadly bombs. Do your best to help your ball safely pass through each barrier by just swiping left or right!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The collection of coins will help you obtain some bonus points. Remember the speed will increase with your successful moves in the game. Try to pay attention to the details and put your fingers on the screen to swipe the hurdles until you escape a wall or bomb. Good luck to clear as many barriers as you can to become the champion of a unique adventure game for kids! Check out some more hot adventure games for boys that are free to play online, no download required!</span></div><div><br></div>",
+      "size": 720,
+      "height": 1280,
+      "script": "https://m.shtoss.com/game/swipe/index.html",
+      "metaTitle": "Swipe, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Swipe at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Swipe Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7611,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.741Z",
+      "updatedAt": "2024-12-05T05:24:14.706Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO ADJUST THE BLACK RODS TO MAKE THE WAY FOR BLACK DOT",
+      "webControlKeys": "L CLICK OF MOUSE TO ADJUST THE BLACK RODS TO MAKE THE WAY FOR BLACK DOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
