@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b633",
+      "id": 2651,
+      "name": "Alien Sky Invasion",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "alien-sky-invasion",
+      "image": "2651",
+      "url": "alien-sky-invasion",
+      "description": "<div>Developed by FreezeNova, Alien Sky Invasion will give you an opportunity to explore the wonderful unknown places in the Universe. In this brand new war game, you will have to protect your planet against some alien aircraft sent by the Aliens who are planning to invade it. Your mission is to interrupt them before they do something wrong in Alien Sky Invasion. Your fighter plane is waiting for you! Just take your seat in it and start shooting those blasted aliens!</div><div><br></div><div>Alien Sky Invasion is an awesome 3D adventure game for boys where you will have to show that you have an amazing control on an advanced aircraft. Come into action and defend your planet against the dangerous aliens who are trying to attack you. Choose from two types of dangerous weapons reliable lock-on missiles and guns/cannons/Vulcan. You will have different types of rockets and machine guns to select from. Enjoy the realistic dogfights above the open landscapes! Aim your target first before shooting it and allow your opponents explode like the beautiful firework in this free online shooting game for boys.</div><div><br></div><div>Get into a gameplay where you will have to compete with players from all over the world, so you do not&nbsp;Perform well and let your name include in the leaderboard! With easy controls, exclusive graphics and worlds popular audio and video effects, this one of the best adventure games for boys has something for everyone. The controls of this cool war game include W or up arrow to boost speed, left click to shoot, right click to launch a missile and tab to pause. It uses WebGL technology to run smooth in most of browsers.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/alien-sky-invasion/index.php",
+      "metaTitle": "Alien Sky Invasion, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Alien Sky Invasion at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Alien Sky Invasion Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 7694,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-02-18T17:03:40.908Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,/SPACE/UP ARROW- BOOST, L CLICK- SHOOT, RIGHT CLICK- MISSAILE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
