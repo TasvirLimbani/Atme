@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbab",
+      "id": 4142,
+      "name": "Basket Ball Challenge Flick The Ball",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "basket-ball-challenge-flick-the-ball",
+      "image": "4142",
+      "url": "basket-ball-challenge-flick-the-ball",
+      "description": "<div>It is time to help make your team win and become the biggest basketball player of your country! Get ready to control the basketball like never before while performing some cool tricks in BasketBall Challenge Flick The Ball! When you click the play button, you would see a basket hanging on a pole right in the courtyard. The hole of the basketball is so small that only an expert player is capable enough to throw a ball into it. Drag the basket to adjust its positions in this brand new sports challenge!</div><div><br></div><div>The more balls you pot, the higher points you would earn in the end. Hey boys! Not even your single mistake can be avoided. So be careful and try to look at the screen all the time not to miss any ball in this HTML5 basketball game. Put your new abilities to the test to send the ball directly into the basket! Click or tap the screen to drag your basket and make the maximum number of balls go in it!</div><div><br></div><div>Remember you would have only 1 life to use during each round. The balls will keep sliding in the basket and your job is to pot as many balls as you can to score high. You would lose the game if any of the ball drops without going through the basket. No worries if you lose since you can restart this cool flipping game as many times as you want! Good luck to play for as long as you can to hit your best score!</div>",
+      "size": 900,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/00eb37b2801e4a73a90bcdcbb56cdfb4/\r\n",
+      "metaTitle": "Basket Ball Challenge Flick The Ball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Basket Ball Challenge Flick The Ball at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Basket Ball Challenge Flick The Ball Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226795.xml",
+      "idealFor": "Man",
+      "likes": 37,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11048,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:36:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-11-22T07:34:36.508Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE NET TO CATCH THE BALL",
+      "webControlKeys": "KEEP PRESS THE NET BY L CLICK OF MOUSE AND SWIPE TO STOP THE GOLE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
