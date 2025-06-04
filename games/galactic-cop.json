@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4b5",
+      "id": 2217,
+      "name": "Galactic Cop",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "galactic-cop",
+      "image": "2217",
+      "url": "galactic-cop",
+      "description": "Galactic Cops is a 2D platm shooter where you can collect various weapons to fight endless horde of escaping space prisoners. Brace yourself, cadet! Go catch those alien bandits and bring justice back on its place!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/26702e94f6914fbcb22dacaeb6ba6688/\r\n",
+      "metaTitle": "Galactic Cop,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Galactic Cop at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Galactic Cop Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524804862.xml",
+      "idealFor": "Man",
+      "likes": 35,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11656,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:24:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2025-02-08T22:07:44.799Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS -JUMP AND SHOOT, L ICONS- MOVE",
+      "webControlKeys": "Z/N TO SHOOT, D/L-ARROW TO MOVE L-SIDE,A/R-ARROW TO MOVE R-SIDE, SPACE/W TO JUMP"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
