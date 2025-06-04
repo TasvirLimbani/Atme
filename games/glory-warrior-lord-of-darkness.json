@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5ca",
+      "id": 2542,
+      "name": "Glory Warrior Lord of Darkness",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "glory-warrior-lord-of-darkness",
+      "image": "2542",
+      "url": "glory-warrior-lord-of-darkness",
+      "description": "Glory Warrior Lord of Darkness, Fighting Games<br>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/glory-warrior-lord-of-darkness/index.php",
+      "metaTitle": "Glory Warrior Lord of Darkness, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Glory Warrior Lord of Darkness at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Glory Warrior Lord of Darkness Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7873,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.711Z",
+      "updatedAt": "2025-03-09T07:05:47.423Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE- MOVE, RIGHT CLICK- ATTACK"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
