@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c351",
+      "id": 6309,
+      "name": "Super Drift 3D",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "super-drift-3d",
+      "image": "6309",
+      "url": "super-drift-3d",
+      "description": "<div>The entire city is your playground and multiple car models you will have to drive. So take your seat in your chosen car, tighten your seat belts and get ready to burn its tyres like never before. Oh! Winning is all about how beautifully you can drift. Will you able to handle this unique racing and drifting challenge? Join Super Drift 3D and be prepared to take turns at more than 100 mph and leave all your opponents behind and reach the finish line first!</div><div><br></div><div>Do not forget to playtime trials so that you can give your best and prove the world that you can drift on any track like a champion. Select a car from three options including CHEV, FOCE, and TOR and color out of multiple options including red, blue, green, orange, yellow and more! There are two models to choose from between the SingleRace and Tournament and three difficulty levels including easy, normal and hard to play through. Then finalize a track and get ready to enter the amazing 3D HTML5 racing game.</div><div><br></div><div>Win races, earn stars and buy new car models or customize existing ones! Drive your vehicle at blazing speed and make sure to drift through the curvy mountains and slippery streets in this car driving simulator! Practice a lot and try hard to drift your way around the tricky corners and challenge your opponents! Customize various parts of your vehicle like suspensions, wheels, body, tyres and more! Perform stunts and drifts and race your way to the winning point!</div>",
+      "size": 800,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/9f1425a55c9f45b3b7fd606b73f72ff5/\r\n",
+      "metaTitle": "Super Drift 3D Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Super Drift 3D at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Super Drift 3D Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579523644.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 9415,
+      "ownGame": false,
+      "addDate": "2020-01-20T18:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-04-16T10:26:23.801Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO CONTROL THE CAR,C CHANGE VIEW,P PAUSE"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
