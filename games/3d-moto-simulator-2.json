@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b640",
+      "id": 2665,
+      "name": "3D Moto Simulator 2",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "3d-moto-simulator-2",
+      "image": "2665",
+      "url": "3d-moto-simulator-2",
+      "description": "<div>Empty roads, long highways and awesome sceneries – what you want more to enjoy a wonderful ride on your new motorbikes! It is been long since you took your last ride. Take them out and turn its engine on. Get the best time of your life by riding off the city, doing stunts, exploring interesting places, roaming around the cities as well as reaching to the sandy desert where you are free to do whatever you desire.&nbsp; Choose from different motorbikes, including powerful police bikes, trials bikes or cross bikes and then enter the map!</div><div><br></div><div>3D Moto Simulator 2 is a beautifully-designed and fast-paced motorbike racing game where your driving skills will be tested. This brand new bike game will allow you to challenge your driving skills on a series of cool trails and cross bikes. Choose from there different locations, including a city situated in a barren wasteland, a sprawling city complex and a mountainous desert. In this cool flash game, you are also free to try all the three and show off your ultimate racing skills.&nbsp;</div><div><br></div><div>The primary features of this best action games for boys include 3 fast bikes, including a police bike with a siren, 3 different maps that you can explore, off-road tracks to test your driving skills and big maps to explore. This PC game also comes with easy-to-understand controls like 123 to change bike, space bar to use handbrake, WASD or arrow keys to drive, C to change camera, Shift to use nitro, R to reset game, G to reset bike and E to use police lights. Good luck boys and girls to ride favorite bikes on your computer and have a lot of fun!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/3d-moto-simulator-2/index.php",
+      "metaTitle": "3D Moto Simulator 2, Bike Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 3D Moto Simulator 2 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "3D Moto Simulator 2 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 67,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 21993,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-09-09T09:17:01.103Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "H- HIDE THE INFORMATION,1,2,3- CHANGE THE BIKE,SPACE- BREAK,C- CHANGE THE VIEW, WA,S,D ALL ARROWS- MOVE,SHIFT- SHIFT BIKE,R- RESET GAME, G- RESET BIKE,E- POLICE LIGHT, PAGE UP/DOWN- SWITCH THE GEAR"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
