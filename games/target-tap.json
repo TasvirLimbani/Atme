@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b970",
+      "id": 3534,
+      "name": "Target Tap",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "target-tap",
+      "image": "3534",
+      "url": "target-tap",
+      "description": "As the circle rotates, you aim to hit the target. ",
+      "size": 405,
+      "height": 720,
+      "script": "\nhttps://html5.gamedistribution.com/90e4543e69c94640badc8a2e095a154b/\n",
+      "metaTitle": "Target Tap,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Target Tap at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Target Tap Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537332385.xml",
+      "idealFor": "All",
+      "likes": 10,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8186,
+      "ownGame": false,
+      "addDate": "2018-09-19T10:16:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.724Z",
+      "updatedAt": "2024-02-17T19:16:13.632Z",
+      "__v": 0,
+      "mobileControlKeys": "ERROR",
+      "webControlKeys": "default backend - 404"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
