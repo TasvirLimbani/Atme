@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbbb",
+      "id": 4160,
+      "name": "Winter Jigsaw Time",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "winter-jigsaw-time",
+      "image": "4160",
+      "url": "winter-jigsaw-time",
+      "description": "<div>Winter is just around the corner and many of you are looking for the fun activities that could help keep you entertained for hours at home without going outside! If this is the case, we have got you covered with a brand new arcade game where you can enjoy the spirit of your favorite season while challenging your brain in a way like never fore. Why there is a need to wait anymore? Join Winter Jigsaw Time Puzzles and be prepared to have a leisurely experience!</div><div><br></div><div>In this cool HTML5 jigsaw puzzle game, you have to put your brain, and logical abilities to the test to solve all the puzzles in each mode. Choose your picture first and get ready to enter the tricky puzzle challenge by selecting any out of three modes including easy, medium and hard! The advanced level you play the higher number of pieces you would have to connect with each other. When enter the gameplay, your chosen picture will be scattered into several pieces based on the level you have selected.</div><div><br></div><div>Now your job is to connect these scattered pieces together until you complete the picture. In case if you get stuck, feel free to click the solve button shown on the right bottom of the screen to see the complete picture again. This button will also be served as the hint button for the players. You can go back anytime and start your puzzle fun with a new picture whenever you want. There are 12 unique and tricky winter theme-based pictures to play through. Good luck completing all the awesome winter puzzles and have fun without download!</div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/e5d2486d90604d3aa64772cc0caea0e0/\r\n",
+      "metaTitle": "Winter Jigsaw Time Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Winter Jigsaw Time at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Winter Jigsaw Time Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543658660.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8083,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.733Z",
+      "updatedAt": "2024-03-21T00:34:19.776Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREENE TO SOLVE THE PUZZLE",
+      "webControlKeys": "L CLICK OF MOUSE TO SOLVE THE PUZZLE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
