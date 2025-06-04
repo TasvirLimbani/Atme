@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9bd",
+      "id": 3619,
+      "name": "Wheely 8",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "wheely-8",
+      "image": "3619",
+      "url": "wheely-8",
+      "description": "\nWheely went on a date with his girlfriend Jolie. They decided to go picnic. They had a wonderful time untill suddenly an UFO landed behind them. There were aliens inside that were lost and need help in finding their planet. Wheely sets out on his adventure to find the map to their planet.\n",
+      "size": 900,
+      "height": 510,
+      "script": "\nhttps://html5.gamedistribution.com/213012cbef744a529cf3e1cc70fa8913/\n",
+      "metaTitle": "Wheely 8,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wheely 8 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Wheely 8 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335387.xml",
+      "idealFor": "All",
+      "likes": 18,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8048,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.725Z",
+      "updatedAt": "2023-04-30T11:56:34.604Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO RUN AND STOP THE CAR",
+      "webControlKeys": "L CLICK OF MOUSE TO RUN AND STOP THE CAR"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
