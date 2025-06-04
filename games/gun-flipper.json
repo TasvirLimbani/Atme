@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2b6",
+      "id": 6114,
+      "name": "Gun Flipper",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "gun-flipper",
+      "image": "6114",
+      "url": "gun-flipper",
+      "description": "<div>Do you think that you are a nice shooter in your area? Does your trigger finger itch badly? If your reply is yes for both the questions, trying out Gun Flipper can be a nice bet for you. Your objective in this brand new fast-paced action game is to shoot your bullets to grab the gold coins that you can see on the screen. Try to collect as many gold coins as you can to finish the game with the maximum number of score!</div><div><br></div><div>Aiming wrongly can cause a loss in the game so be careful while targeting your objects. Make sure to time your shots when your gun rotates in the air to release the bullets in the right direction. Keep going for as long as possible to hit a high score on the screen and then go repeating it again and again to beat your score! Your progress will also allow you to unlock multiple weapons including RPG further.</div><div><br></div><div>Track your score by having a look at the middle portion of the screen, while the top right corner of the screen will show you how much coins you have grabbed till now. Take your time to understand the gameplay. However, one you know everything about it, you are set to create your new best score with much ease. If you like this game, do not forget to go through our extensive collection of free action-packed challenges that are playable on multiple devices and browsers. Good luck to have the best fun online!</div>",
+      "size": 400,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/d16311616dcf438c9ab48586584a5f62/\r\n",
+      "metaTitle": "Gun Flipper, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Gun Flipper at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Gun Flipper Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442796.xml",
+      "idealFor": "Man",
+      "likes": 34,
+      "dislikes": 12,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11975,
+      "ownGame": false,
+      "addDate": "2019-09-26T01:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-04-29T03:58:24.140Z",
+      "__v": 0,
+      "mobileControlKeys": "TOUCH TO HIT THE COINS",
+      "webControlKeys": "TRY TO HIT ON THE COINS BY LEFT MOUSE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
