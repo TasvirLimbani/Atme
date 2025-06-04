@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb53",
+      "id": 4053,
+      "name": "Stickman Punch",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "stickman-punch",
+      "image": "4053",
+      "url": "stickman-punch",
+      "description": "<div>Again an ultimate fighting challenge has hit your home today with plenty of fun and thrilling opportunities! Would you like to try it out and show off the world that no one can match your ultimate fighting abilities? Join the Stickman Punch game and be prepared to fight your way through multiple waves of powerful and deadly enemies! Grab your weapon and beat them up using your kung fu skills as you are playing the role of a stick guy in this brand new action challenge!</div><div><br></div><div>Hit them hard on their sensitive parts and send them all to the hell to make your win! Kill your enemies, earn souls and do not forget to purchase new weapons to make your character more powerful! Your opponents might come from any of the sides so get ready to destroy and defeat them. Take your stance first before your opponent attacks you and punch hard on their faces! We know that you have the skills to survive the dangerous attacks of these dangerous opponents.</div><div><br></div><div>Pay attention to both the directions and attack your enemy before making any mistake in this HTML5 fighting game! Try to earn green flames and trophies by killing other stick figures that you see on the screen! Unlock and use 5 unique weapons during your fights in case of being bored fighting with your fists and kicks! The top of the screen shows you the number of flames and trophies you have collected so far. Good luck to be the last standing fighter!! Practice your fighting moves in our other free action games that are playable on multiple devices without download!</div>",
+      "size": 800,
+      "height": 440,
+      "script": "https://html5.gamedistribution.com/9d377e7196574c8383383667202896c0/\r\n",
+      "metaTitle": "Stickman Punch, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stickman Punch at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stickman Punch Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 8,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9872,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2025-03-05T21:46:55.044Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP LEFT WHEN ENEMY POINT TURN WHITE AND ENEMY IS CLOSE,",
+      "webControlKeys": "L CLICK OF MOUSE TO HIT THE ENEMY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
