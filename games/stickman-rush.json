@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c314",
+      "id": 6217,
+      "name": "Stickman Rush",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "stickman-rush",
+      "image": "6217",
+      "url": "stickman-rush",
+      "description": "<p>The biggest adventure fun is here! Are you ready to take it now? Join Stickman Rush and be prepared to run and jump in a cool and awesome world! Your objective in this brand new adventure game is to help a lovely vex guy to run and jump until the level clears. Hey! This running journey is not as easy as you thought of since it is full of dangerous spikes and other deadly objects. Be careful and try to be act quickly to survive in this tough world!</p><p>You favorite Stickman is known for being a sturdy adventurer. He has spotted you to complete all the levels in this HTML5 platform game. Get ready to perform some cool action by stretching your muscles! The completion of each level successfully will allow you to grab some stars. Select a level to begin and head on to use the arrow keys to make your character start running! There are plenty of different dangerous obstacles on your way to deal with.</p><p>Keep your character away from the deadly gaps to the dangerous saw blades to survive for long! Complete all the levels to grab all the stars available in the gameplay! Play like a true racer and get ready to unlock the endless mode after finishing all the levels! All it takes that how wisely you can use your leg muscles and run like the wind. Check out more free online running simulation games and have a blast with your friends!</p>",
+      "size": 440,
+      "height": 735,
+      "script": "https://html5.gamedistribution.com/011a2db1673842fa8b0894b2e8c14572/\r\n",
+      "metaTitle": "Stickman Rush Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stickman Rush at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stickman Rush Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579513428.xml",
+      "idealFor": "Man",
+      "likes": 101,
+      "dislikes": 15,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 22559,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2025-02-22T14:27:27.418Z",
+      "__v": 0,
+      "mobileControlKeys": "INSTRUCTION BUTTONS GIVEN IN THE SCREEN ",
+      "webControlKeys": "UPPER ARROW JUMP,LOWER ARROW SLIDE"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
