@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8a",
+  "category_name": "best",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3b4",
+      "id": 6434,
+      "name": "Happy Piggy",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "happy-piggy",
+      "image": "6434",
+      "url": "happy-piggy",
+      "description": "<div>This piggy bank wants to be filled with all the coins you see in the box shown above. Would you think that you can do this job better? Join Happy Piggy and be prepared to grab as much coins as you can to bring a huge smile on the face of the piggy bank! All you need to do is just use the pencil to draw a path that helps the coins to fall through and drop direct into the piggy bank in this brand new arcade game.</div><div><br></div><div>Put your brain power and logical skills to the test to get your piggy bank filled up with coins in this HTML5 fun addictive hyper casual game! Make coins travel to bank to complete the present level and move to the advanced one! Use your mouse or tap the screen to draw a path for the coins! There are multiple platforms and objects to deal with in this cool online game. Coins do not travel to the bank until you draw lines to secure piggy.&nbsp;</div><div><br></div><div>Track your ink meter by having a look at the top of the screen! With every draw you make, you lose some ink. The successful of each level will reward you with some stars and their number will depend upon how much ink you have used in drawing the path. Get your coins delivered to the piggy to pass a level! But you will lose your game in case if piggy does not get the coins or the coins or piggy falls down. Use the hint button shown on the top right corner of the screen to get an idea if you are unable to solve the puzzle.</div>",
+      "size": 400,
+      "height": 642,
+      "script": "https://html5.gamedistribution.com/81555cec9f8c45748596be93b121e53e/\r\n",
+      "metaTitle": "Happy Piggy Game, Puzzle - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Happy Piggy at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Happy Piggy Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842458.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 6925,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2024-03-20T09:30:04.702Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D,ALL ARROWS TO CONTROL,SPACE-BREAK,F-FLASH"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
