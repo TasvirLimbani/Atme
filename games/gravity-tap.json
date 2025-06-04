@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf66",
+      "id": 5109,
+      "name": "Gravity Tap",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "gravity-tap",
+      "image": "5109",
+      "url": "gravity-tap",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You see a parallel road on the screen when you click the play button. Now you see several blocks that are laid out on a regular distance of the road. You have given a block that you have to control on the road. It is not going to be easy at all as the speed of gameplay is pretty challenging to handle with. Are you still ready to try your hands in this latest arcade challenge? Join Gravity Tap and get ready to help the block to cover the maximum distance on the road while avoiding the obstacles!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The entire road is full of multiple obstacles that would try to stop you from moving forward. Obstacles, road and block may change their color in each game. You have put your reflexes to test to win in this fast-paced endless runner game. Try to grab as many red balls as you can and avoid the deadly hindrances by switching lanes! Be prepared to push the limit of your quick responses in this mobile friendly skill based runner game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Keep switching between the two lanes and focus on passing through multiple obstacles safely to survive as long as possible! There are possibilities of rotating screen time to time. So, try to be alert all the time as platforms may change their colors with an effort to make the gameplay more challenging. Play this cool kids game to test how fast you can react towards the obstacles! Good luck to set a higher score to be on the top of the leaderboard!!</span></div>",
+      "size": 854,
+      "height": 480,
+      "script": "https://m.shtoss.com/game/gravity-tap-/index.html",
+      "metaTitle": "Gravity Tap,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Gravity Tap at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Gravity Tap Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": -1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7457,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-04-26T03:38:27.548Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP L-R TO CHANGE THE DIRECTION OF BLOCK",
+      "webControlKeys": "L CLICK OF MOUSE TO CHANGE THE DIRECTION OF BLOCK"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
