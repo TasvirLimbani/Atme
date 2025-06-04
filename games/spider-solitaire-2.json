@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b391",
+      "id": 1912,
+      "name": "Spider Solitaire 2",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "spider-solitaire-2",
+      "image": "1912",
+      "url": "spider-solitaire-2",
+      "description": "<div>All card lovers are going to make huge fun while exploring varied tasks of this most popular card game ? Spider Solitaire 2. Just like Spider Solitaire, it is a very exciting and challenging card game where two decks of cards are used. However, you as a player need to have extra skills and potential to achieve the goal of this free online arcade game since it is based on the two suits of cards. Hurry up all the Spider Solitaire lovers! It is a wonderful opportunity to take your Spider Solitaire skills to the advanced level. </div><div><br></div><div>Making all the cards arrange in order and removing them one by one will ensure you to taste the victory in this exclusively-designed card game for boys and girls. You are free to click the stock button when it comes to adding some more cards to the stacks in case if you see that you are running out of moves. Of course, you will have more fun and entertainment in 2 as compared to the first one. Available for even an average player, Spider Solitaire 2 requires more than the general amount of concentration and strategy. </div><div><br></div><div>You will have to arrange 8 set of cards right from King down to Ace in the same suit in one of the best html5 games to play for boys. There are 10 columns and you have to play with either 5 or 6 cards in each column. A game is played with the 6 cards in the first four columns and 5 cards in the remaining six columns. Removing all the cards from the table is the primary goal of this brand new card game. There are plenty of columns where cards are randomly distributed and you have to sort them out by suit right from high to low to clear the field. Go forward on your own rhythm and very soon you will become a Spider Solitaire master! Good luck friends to beat your previous score and make a new one!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/82f3e60625c0476980e80df7348c58f4/\r\n",
+      "metaTitle": "Spider Solitaire 2, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Spider Solitaire 2 at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "Spider Solitaire 2 Game, Racing Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630590.xml",
+      "idealFor": "Man",
+      "likes": 35,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 23704,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2025-05-22T15:24:29.739Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON  CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
