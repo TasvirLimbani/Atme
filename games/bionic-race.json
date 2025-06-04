@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba7a",
+      "id": 3824,
+      "name": "Bionic Race",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "bionic-race",
+      "image": "3824",
+      "url": "bionic-race",
+      "description": "What the feeling is if you become a Bionic robot. Hah&#33; let&apos;s starting a bionic adventure. Try you best to run far and far, avoid the obstacles and collect coins to get the highest score&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/bionic-race-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Bionic Race, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bionic Race at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Bionic Race Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 23,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12490,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.728Z",
+      "updatedAt": "2024-07-12T12:53:59.600Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO JUMP AND FLY",
+      "webControlKeys": "L CLICK OF MOUSE TO JUMP AND FLY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
