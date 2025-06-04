@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3b6",
+      "id": 6436,
+      "name": "Mr Ninja Fighter",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "mr-ninja-fighter",
+      "image": "6436",
+      "url": "mr-ninja-fighter",
+      "description": "<div>Something really exciting and engaging is waiting for the lovers of ninja games! Can you also include yourself in the category of those players for whom playing ninja theme inspired fighting games is the best thing to do online? If yes, you have definitely approached at the right place. We have today got you covered with a brand new adventure challenge where you have to control a brave and cute small ninja character. You have to guide him to stay strong while avoiding enemies in Mr Ninja Fighter.</div><div><br></div><div>This 2D side-scrolling game will allow you to enjoy both action and adventure elements in a single package. Get ready to play the role of a powerful ninja in this HTML5 platform game! His path is full of multiple deadly enemy ninjas and dangerous terrains that are very complicated as well. Use your katana to eliminate and avoid your enemies before they do attack on you! Do not kill innocent people, but do not forget to make your character jump over them.</div><div><br></div><div>You are sure to relax your mind when you play this amazing ninja fighting game. Track your score by having a look at the middle of the screen! The top left corner of the screen will show your best core, while the right top corner of the screen will show how many coins you have collected as of now. Time the jump of your character to cover the maximum possible distance to create your best new score in this Ninja fighter challenge!</div>",
+      "size": 336,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/82cc3c761b2047e08bb90a9ff9080c41/\r\n",
+      "metaTitle": "Mr Ninja Fighter Game, Platform - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Mr Ninja Fighter at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mr Ninja Fighter Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842458.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7464,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2024-12-03T10:36:59.151Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "TAP ON NIJJA TO JUMP DOUBLE TAP TO JUMP HIGHT, CLICK ON ENEMY TO KILL THEM"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
