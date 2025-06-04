@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd01",
+      "id": 4488,
+      "name": "Flying Arrow",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "flying-arrow",
+      "image": "4488",
+      "url": "flying-arrow",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You have got a wonderful opportunity here to play the role an expert archer in this brand new action-packed challenge. Are you interested to challenge your bow and arrow handling abilities? Join Flying Arrow and be prepared to enter the new world with multiple opportunities of flying arrows! Your objective is to aim and launch the arrows given to you to the targets and complete each level. The more perfectly you launch your arrows, the farther they will fly and secure good points for you.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Be careful and try to aim carefully while dodging obstacles and looking forward to reach the most distant target!&nbsp; You would be rewarded with the corresponding fractions and coins after completing your targets at different distances. Your impressive performance will secure some gold coins through which you can improve the ability of your arrows. Find the proper angle and shoot your arrow with the help of energy stored for your shot in this html5 shooting game!</span></div><div><span style=\"font-size: 13.3333px;\">Use the mouse to drag the arrow to change its direction! Hitting the target will help you get some double bonus and get ready to reach the heart of the targets with 4 time bonus! The perfect reach of your arrow will secure the corresponding number of nuts that will allow you to upgrade the force you shoot. Aim at the bullâ€™s eye, complete all the levels and prove the world that you are the best archer of the city in this highscore archery game for boys and girls! Let us see how far you will go and have fun without download!</span></div>",
+      "size": 500,
+      "height": 790,
+      "script": "\nhttps://html5.gamedistribution.com/35dc64793edb4271818d92727cc025b1/\n",
+      "metaTitle": "Flying Arrow, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Flying Arrow at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Flying Arrow Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544526946.xml",
+      "idealFor": "All",
+      "likes": 35,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 15902,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-06-19T15:29:33.273Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SELECT THE DIRECTION, RELESE TO SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
