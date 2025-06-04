@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682baf5",
+      "id": 3957,
+      "name": "Spotle",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "spotle",
+      "image": "3957",
+      "url": "spotle",
+      "description": "<div>Have you ever imagined that connecting the dots can be so funny? If not, play Spotle and be prepared to enter the extremely fun-filled, dot-connecting environment. It sounds easy to handle it, but hard to score high as the clock is running and you have to get the job done within 60 seconds. However, you can increase your time by using powerups, which also leave a positive impact on your final score. Do not miss it if you really love connecting the dots.</div><div><br></div><div>There is no specific static pattern to follow in this HTML5 abstract strategy game. When you are in the gameplay, you will get a chance of generating a grid of multi-coloured dots. Make sure to spot the orthogonally aligned dots of different colours after creating the grid. This will help you to connect the dots perfectly. Try to keep your eyes on the screen to connect as many dots of the same colour orthogonally as you can to score the maximum points possible!</div><div><br></div><div>Go from left to right and do not forget to create the jagged patterns as soon as you realize that the connections being made are orthologous! Do not try to connect the dots diagonally as this is not going to give any points. This is a time-based puzzle so your performance and high score will depend upon how many connections you prepare within the given time frame. Earn some points and do not forget to activate some useful power-ups shown on the bottom of the screen! Turn random rows into the dots of the same colour to earn combos and power-ups in this cool strategy game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/spotle-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Spotle, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Spotle at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Spotle Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6550,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2023-07-06T16:39:42.974Z",
+      "__v": 0,
+      "mobileControlKeys": "DRAG FIFURES ON THE GRID, COMPLETE LINES TO GAIN THE LINES",
+      "webControlKeys": "DRAG FIFURES ON THE GRID, COMPLETE LINES TO GAIN THE LINES BY LEFT CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
