@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4ff",
+      "id": 2297,
+      "name": "Flight Sim",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "flight-sim",
+      "image": "2297",
+      "url": "flight-sim",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you excited to enter the extremely addictive and challenging flying environment? Do you love to go on the multiple types of adventurous activities during you free hours? If yes, we have the best fun alternative for you. All you need to do is just put your fingers on your mouse and get ready to guide all the aircrafts to their landing zones in Flight Sim. Remember it requires lots of patience and focus skill to make all the aeroplanes and helicopters land safely on the given tracks.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Use the given black dot to prepare the directions for the aircrafts in the air to make them land on the tracks in this brand new adventure game! It is up to you how to challenge your flying abilities to keep the skies safe. Make sure that you land all the aircrafts within the as lesser time as possible to get a high score in each level. There are 10 unique and engaging levels to play through in this HTML5 flying game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">The amazing graphics, realistic controls, and seamless gameplay can keep you engrossed for hours, even for some days. It creates matchless thrill and entertainment when you get a chance to control a range of different planes and fly them around the sky in the directions you want. Try to complete your objective without their crashing with each other in this superb flying simulator! Complete all its levels to become a pro pilot while practicing your landing technique on the runway! Good luck to try your hand at flying and have awesome fun in the skies without download!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/0dbc76176c774fcdb4185e292f8d6287/\r\n",
+      "metaTitle": "Flight Sim, Fliyng Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Flight Sim at atmegame.com ! We have selected this fliying games for best excitement and thrill in you!",
+      "metaKeyword": "Flight Sim Game, Action Games, Fliyng Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 39,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 14431,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-08-22T01:35:31.189Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT LOADING"
+    },
+    "rating": {
+      "rating": "4.6",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
