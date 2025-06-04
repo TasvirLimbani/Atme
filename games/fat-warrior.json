@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1d4",
+      "id": 1375,
+      "name": "Fat Warrior",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "fat-warrior",
+      "image": "1375",
+      "url": "fat-warrior",
+      "description": "<div>The beautiful princess has been abducted by a dreadful daemon. The King has chosen you to go and save her daughter. He also promised to marry her daughter with you once you free her away. You as a powerful Stalwart Knight are now on your journey. In this one of the best adventure games for boys, you will have to eliminate all your enemies and help the princess get freedom. Make sure to collect coins before they disappear from the screen. Find more coins and food by slashing chests and other containers!&nbsp;</div><div><br></div><div>Let the sword work as the best weapon for your every knight! You will also have a choice of opting for the crossbow, known as an excellent ranged weapon in the world. Use it to shoot down all your flying enemies and avoid a hand-to-hand fight. The utilization of bomb will help sweep all your enemies in a single attempt when you are suddenly surrounded by them. You can surprise your enemies with a rain of fire using the magic wand of fireball.&nbsp;</div><div><br></div><div>Play with confidence, show off your ultimate shooting skills to buy upgrades and proceed strongly! In this free online platform game, you can also use the ice wand to freeze your deadly enemies. In case it if stops working suddenly, feel free to run away from there without waiting for the next moment. Try to raise your resistance to unwanted damages without affecting your weight positively! Make sure to maintain your energy to use the special weapons for the longer time. Arrows to Move, X to Attack/Action, Z to Open Select Weapon Menu and ESC/P to Pause Menu.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=1c1f7139846d45e58ceb88f1d5021e2e\r\n",
+      "metaTitle": "Fat Warrior, Adventure Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Fat Warrior at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Fat Warrior Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489143.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7542,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.688Z",
+      "updatedAt": "2023-10-09T01:58:39.243Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
