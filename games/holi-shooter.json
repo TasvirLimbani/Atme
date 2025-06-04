@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c43f",
+      "id": 6575,
+      "name": "Holi Shooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "holi-shooter",
+      "image": "6575",
+      "url": "holi-shooter",
+      "description": "<p class=\"text_desc\">\nHoli Shooter is a free online shooting game designed on the theme of the popular color festival. Get your gaming device, play with a small colorful gun and enjoy the world’s biggest online color celebration. </p>\n<p class=\"text_desc\"> \nShoot your target one by one and clear all the balloons from the screen. Be alert as you have limited bullets so try not to miss your target as you will lose your game in case if you run out of your bullets. The difficulty level will be getting tough as you progress through the game.</p>\n<h4>\nKey Features:</h4>\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\">\n<li><b>\nColorful Action: </b>It is time to experience the joy of the Holi festival as you shoot colorful balloons with a variety of vibrant bullets.</li>\n<li><b>\nIncreasing Challenge:</b> Get yourself ready to challenge your aim and strategy as the difficulty increases with each level you move on, keeping you engaged and challenged.</li>\n<li><b>\nEngaging Gameplay:</b> With limited bullets available in your store, precision shooting is a key. Take your time as there are no time limits to clear each balloon while avoiding obstacles that could disrupt your progress.</li></ul></p>\n<p class=\"text_desc\">\n\nDo not get bothered in case if you get bored of this shooting puzzle as we are full of multiple titles that can keep you busy all the day and night and give you the best of the gaming no matter which age or gender you come from. Check out our huge list of shooting games to know which type of titles suit your need the most! All the best, friends!</p>\n",
+      "size": 450,
+      "height": 800,
+      "script": "https://games.atmegame.com/games/holi-shooter/",
+      "metaTitle": "Holi Shooter, Shooting - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Holi Shooter at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Holi Shooter, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 3397,
+      "dislikes": 426,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 720105,
+      "ownGame": true,
+      "addDate": "2021-03-27T20:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-29T08:23:33.195Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO HIT THE BALLONS, AVOID RED BALOONS",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO HIT THE BALLONS, AVOID RED BALLOON"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 311
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
