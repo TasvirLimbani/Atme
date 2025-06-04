@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c09e",
+      "id": 5433,
+      "name": "Space Hoops",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "space-hoops",
+      "image": "5433",
+      "url": "space-hoops",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Join Space Hoops and be prepared to play basketball game online you have tried so far! This time we have got you covered in a completely unique environment! You will have to shoot the basketballs into the hoop. Get you ready to challenge your sharp reflexes with just one-touch controls! Remember green hoops are good and red hoops are bad. There are various modes to choose from, Normal Ball, Fast Ball, Small Ball, Multi Ball, Sniper Ball, Jumping Ball and Split Ball.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This brand new sports game has it all that you need to enjoy the fantasy of your favorite basketball activity. We are damn sure that you will be amazed to play in the outer space where different kinds of challenges are awaiting you. Come and try to shoot more and more balls into the hoops to create the best score! Try to maintain a proper distance between the hoop and the ball before releasing it towards the hoop in this html5 basketball game! Throwing the ball at the right angle will help you to land it inside the hoop perfectly!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Put your focus and basketball skills to test to complete all levels in this time-based game! Your score will be saved automatically once your 2-minute time is finished. It is easy to play game online for free and hard to master. This ball game is simple and attractive, but good for relaxing. Enjoy it whether you are at your home sitting on your couch or in office relaxing during your lunch time in a cafeteria! No installation of any particular app is required. Good luck to score big without download!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/326c213f90ba4995aba6c2bb73433b02/\r\n",
+      "metaTitle": "Space Hoops,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Space Hoops at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Space Hoops Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 31,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8963,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-02-11T12:18:02.065Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO AIM RELESE TO HIT",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SELECT THE DIRECTION,RELESE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
