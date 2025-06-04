@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b471",
+      "id": 2148,
+      "name": "Airplane Battle",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "airplane-battle",
+      "image": "2148",
+      "url": "airplane-battle",
+      "description": "With clean graphics and war music. We have launched another air fighting game \"Airplane Battle\" The Battle has been started. Its a war between aircraft. You have entered the enemy area and all enemy airplanes are surrounded. Swipe up and down to move your plane and shoot all your enemies. beware If any enemy comes behind you they will shoot and destroy you. Get the eye of health bar. Shoot as much airplanes and make high score.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/176f2634e05b4aa89f27ee01ba28e0be/\r\n",
+      "metaTitle": "Airplane Battle, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Airplane Battle at atmegame.com ! We have selected this Flying games for best excitement and thrill in you!",
+      "metaKeyword": "Airplane Battle Game, Action Games, flying Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1522756682.xml",
+      "idealFor": "Man",
+      "likes": 56,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 20235,
+      "ownGame": false,
+      "addDate": "2018-04-03T17:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.703Z",
+      "updatedAt": "2024-06-03T07:23:57.369Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON L-R OF SCREEN TO CONTROL",
+      "webControlKeys": "UP DOWN ARROWS TO CONTROL THE PLANE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
