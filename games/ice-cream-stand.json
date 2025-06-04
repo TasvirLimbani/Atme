@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b2b0",
+      "id": 1651,
+      "name": "Ice Cream Stand",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "ice-cream-stand",
+      "image": "1651",
+      "url": "ice-cream-stand",
+      "description": "Stand up to the heat with scoops of frosty fun!",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=8e648811393b4774b03a7f505d095ff5\r\n",
+      "metaTitle": "Ice Cream Stand,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ice Cream Stand at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ice Cream Stand Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517901973.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8587,
+      "ownGame": false,
+      "addDate": "2018-02-06T12:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.694Z",
+      "updatedAt": "2024-02-25T05:06:35.874Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
