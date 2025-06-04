@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b49b",
+      "id": 2190,
+      "name": "AirWingsio",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "airwingsio",
+      "image": "2190",
+      "url": "airwingsio",
+      "description": "Air Wings - Missile Attack is a game in which you must control an airplane and dodge as many homing missiles as you can. Make them collide with each other and collect stars to increase final score. If one or both of the airplane wings has been damaged pick up the Repair power-up to fix your plane. Take Shield power-up to temporarily dodge taken damage. Survive as long as possible to stay at the top. Go plane and have fun!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/4f8085a5873b46e09467640b815961c2/\r\n",
+      "metaTitle": "AirWingsio, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game AirWingsio at atmegame.com ! We have selected this flying games for best excitement and thrill in you!",
+      "metaKeyword": "AirWingsio Game, Action Games, Flying Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1523600544.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11218,
+      "ownGame": false,
+      "addDate": "2018-04-13T11:52:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2024-04-26T03:10:18.115Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L-R -ARROWS/A,W TO MOVE"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
