@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8ae",
+      "id": 3313,
+      "name": "Ice Skating Contest",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "ice-skating-contest",
+      "image": "3313",
+      "url": "ice-skating-contest",
+      "description": "Our beautiful princess and her daughter has recently joined the ice skating contest and they need your help to prepare for the contest .Start by picking the perfect costume for our princess and then continue by helping our little girl to dress up for the contest.Have fun preparing our girls for the ice skating contest !\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/a0ba26351f6045d08b60f34a42a54eff/\r\n",
+      "metaTitle": "Ice Skating Contest, Dressing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ice Skating Contest at atmegame.com ! We have selected this dressing games for best excitement and thrill in you!",
+      "metaKeyword": "Ice Skating Contest Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533533402.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 6781,
+      "ownGame": false,
+      "addDate": "2018-08-06T11:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.722Z",
+      "updatedAt": "2022-08-23T23:21:30.117Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS TO DRESSUP",
+      "webControlKeys": "L CLICK OF MOUSE TO DRESSUP"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
