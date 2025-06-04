@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b2e2",
+      "id": 1703,
+      "name": "Crazycle",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "crazycle",
+      "image": "1703",
+      "url": "crazycle",
+      "description": "Choose a rider and take to the tracks. Each level has multiple missions to complete. In this game you get to do super sick tricks on the ground and in the air to earn nitro. Win prize money to upgrade your ride so that you can compete with the competition on each new level.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=cabad3b9bc0afe08cd9ec861638ed1d9\r\n",
+      "metaTitle": "Crazycle, Bike Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Crazycle at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Crazycle Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629219.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 8511,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:43:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.694Z",
+      "updatedAt": "2023-11-11T08:09:27.263Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
