@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba0b",
+      "id": 3702,
+      "name": "Cave of Doom Challenge",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "cave-of-doom-challenge",
+      "image": "3702",
+      "url": "cave-of-doom-challenge",
+      "description": "Tired of chopping wood with nothing but an old axe? Vrinnn, vrinnn, vrinnn!!! Chainsaw Chuck is an 8bit arcade game with pixel art graphics and brings back this old school gameplay feeling.",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.comeweplay.com/game/cave-of-doom?pub=210",
+      "metaTitle": "Cave of Doom Challenge, Escaping Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cave of Doom Challenge at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Cave of Doom Challenge Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6606,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2022-08-23T23:21:30.125Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": "NOT WORKING"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
