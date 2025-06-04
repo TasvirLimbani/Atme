@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b603",
+      "id": 2601,
+      "name": "City Rider 3D",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "city-rider-3d",
+      "image": "2601",
+      "url": "city-rider-3d",
+      "description": "<div>Your wait is over friends! Join City Rider 3D and get what you want: total freedom and a huge variety of beautifully-crafted cars. This brand new car racing game will allow you to explore a large map of a lovely city where you will have an opportunity to spot a terrain. Change the setup of your chosen car and get the full control on your vehicle while driving it on the tough terrain. Create a truck from a sport car or vice-versa and have a lot of fun in this free online driving game for boys.</div><div><br></div><div>Enjoy the freedom of changing anything you do not like in your fabulous car! Also try out this game with a stunning map in a circuit form to allow you experience something different. Explore a big 3D city on a vehicle of your choice in this open-world driving game! Choose from a range of cool cars, including an awesome McLaren sports car, a lorry and even a pick-up truck. Each car offers unique driving experience, so try them all to have a huge amount of fun in this cool video game.</div><div><br></div><div>The entire city is yours, so you will have a full freedom of exploring it on the road where there is no space for the unwanted traffic and obstacles. Prepare a suitable setup for a smooth driving! Do some cool drifts and manoeuvers and drive it at fast speed as you can to get a huge of thrill! No speed cameras are there to watch you! Customize the handling of your car to double your fun in this one of the best car driving games for boys!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/city-rider-3d/index.php",
+      "metaTitle": "City Rider 3D, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game City Rider 3D at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "City Rider 3D Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 9948,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.712Z",
+      "updatedAt": "2023-08-08T05:34:21.258Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "W,A,S,D "
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
