@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b612",
+      "id": 2617,
+      "name": "Quasar Combat",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "quasar-combat",
+      "image": "2617",
+      "url": "quasar-combat",
+      "description": "<div>Quasar Combat is one of the latest war games to play for boys where you will be chosen for handing a new and top secret project. Your good performance in this 3D adventure game could help bring out a revolution in the future of the military industry. In this battle, combat robots have been chosen to take the responsibility instead of human soldiers. Although it sounds awesome, you need to perform a number of thing to make this job possible for the robots. Get ready to perform the role of an army robot in this free online action game!</div><div><br></div><div>As per the testing modes, robots are not much capable enough of taking the right decisions on their own during the combat. In order to get them trained, you will have to take them first to a training room where they will learn how to deal with the attacking drones. The constant training will help them to improve their combat skills. The longer you survive, the easier it will become for you to ensure your victory in the end of this one of the best adventure games for boys.&nbsp;</div><div><br></div><div>Get ready to face an endless number of robots, including spider bots and drones in a training room. Spending a few minutes here will help to improve your combat expertise. Manoeuvre your weapon properly and shoot them down instantly to protect your health. You will only be given three chances to save your life. Your enemies can attack you suddenly to take your guns down on the ground. Pick up them to make more damage to the enemies! You will have a long survival time only if you are able to survive wave after wave. Game Controls: WASD or arrow keys to move, Space bar to jump and Left click to shoot.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/quasar-combat/index.php",
+      "metaTitle": "Quasar Combat, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Quasar Combat at atmegame.com ! We have selected this war games for best excitement and thrill in you!",
+      "metaKeyword": "Quasar Combat Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 27,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9409,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2025-02-04T18:12:31.914Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "MOUSE- AIM, L CLICK OF MOUSE- SHOOT"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
