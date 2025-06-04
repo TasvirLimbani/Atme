@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbf7",
+      "id": 4221,
+      "name": "Heros Journey",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "heros-journey",
+      "image": "4221",
+      "url": "heros-journey",
+      "description": "<div>You cannot stop yourself from reaching till the end when you play as a handsome young hero in Heros Journey. It will be amazing to put your intense fighting abilities to the test to win in this brand new action-packed challenge. Do not underestimate your power since you are also equipped with powerful weapons. It is time to prove yourself to be a true hero of your city by removing all the deadly monsters from the screen.</div><div><br></div><div>Fight hard to collect gold with the maximum possible successful attacks in this one of the best HTML5 fighting games for kids! There are multiple power-ups including defense, attack, power, energy and health potions to use. In each level, a new and wider range of minions are waiting for you so be careful when you enter the new area. Challenge all 5 different bosses and send them to the hell where they actually belong to!</div><div><br></div><div>Plan your fight by applying your strategic mind and attack your enemies before they kill you in this cool action game! Remember you cannot use the skills like Shields Up and Slash again within a short time so try to use every weapon carefully. Tracy the health of your hero by having a look at the top left corner of the screen, and while, the middle area of the screen shows you the number of coins you have collected so far. Win fights, collect coins and upgrade your character and power online!</div>",
+      "size": 480,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/852017b015084fc3872aaf197672e2ee/\r\n",
+      "metaTitle": "Heros Journey Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Heros Journey at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Heros Journey Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543659100.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8371,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:41:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.733Z",
+      "updatedAt": "2024-09-06T15:05:00.911Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE MOSTER TO ATTACK IT",
+      "webControlKeys": "L CLICK OF MOUSE TO KILL THE ENEMY AND FOLLOW THE INSTRUCTION"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
