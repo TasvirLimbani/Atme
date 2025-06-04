@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c407",
+      "id": 6519,
+      "name": "Cube Dash",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "cube-dash",
+      "image": "6519",
+      "url": "cube-Dash",
+      "description": "<div>This cute cube dash is seeking for help to find out the exit. Would you be able to guide it through the multiple obstacles and cover it long distance over the moving platform? Join Cube Dash and be prepared to help your cube to stay for as long as possible! You have to challenge your skill to become the master of strategy. Try to make your cube jump timely to avoid the spikes and other obstacles and create your best score in this brand new arcade game!</div><div><br></div><div>Click or tap the screen to make your character jump timely in this HTML5 platform game! There is a single-mode to play through and your objective is to guide your cube to earn as much money as you can. The longer you stay in the game; the higher money you will be able to earn. This will definitely leave the positive impact on your final score. Use that money to upgrade your character. Cross cities, mountains, and avoid spikes!&nbsp;</div><div><br></div><div>Your quick reflexes and reaction time will guide you create your new best score. Move and jump through amazing farmland that is full of lots of obstacles, rewards and achievements! Track your score by looking at the top right corner of the screen in this cool cube games for kids! See your final best score on the screen when your game finishes. Check out our extensive variety of free arcade games and find out a suitable game range that is enough to keep you entertained for hours, without download!</div>",
+      "size": 450,
+      "height": 800,
+      "script": "https://games.atmegame.com/games/cube-dash/",
+      "metaTitle": "Cube Dash Game, Arcade - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Cube Dash at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Cube Dash, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 122,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 46457,
+      "ownGame": true,
+      "addDate": "2020-07-12T14:33:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-02-01T13:33:09.493Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPPING ON SCREEN TO SAVE THE BOX FROM OBSTACLES",
+      "webControlKeys": "LEFT CLICK TO SAVE THE BOX FROM OBSTACLES"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 11
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
