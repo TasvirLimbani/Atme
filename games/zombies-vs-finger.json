@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb5a",
+      "id": 4060,
+      "name": "Zombies vs Finger",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zombies-vs-finger",
+      "image": "4060",
+      "url": "zombies-vs-finger",
+      "description": "<div>You feel like you could survive a nuclear explosion in a fridge and you think you could push back an invasion of zombies? Then Zombies vs Finger is made for you! The undead is attacking the country and are ready to launch the biggest cannibal barbecue ever seen. Someone has to protect us and you have arrived right on time! Prepare your fingers, put your reflexes to the test and smash these infernal creatures to a pulp.</div><div><br></div><div>Fighting against zombies is always tricky and challenging. Do you think that you could survive a nuclear explosion in a fridge? This invasion of zombies is comparatively difficult as you faced in the past. It looks that a horde of the undead has attacked your country. Oh no! They have launched the biggest cannibal barbecue you have ever seen. You are the best fighter so the government of your country has assigned you a responsibility to protect your nation. Join Zombies vs Finger and be prepared to smash these infernal creatures to a pulp!</div><div><br></div><div>The best thing is that you have arrived right on time. Get your fingers ready and put your sharp reflexes to the test to destroy all the blood-thirsty zombies in this HTML5 zombie game! These dangerous zombies will start coming from the top of your screen to the bottom. Only three health points you have to use and each zombie that gets the success in reaching the end of the screen will make you lose one. Use explosives to make more damage to them!</div>",
+      "size": 600,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/62296802e63b4dd989a61496bee48687/\r\n",
+      "metaTitle": "Zombies vs Finger, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zombies vs Finger at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Zombies vs Finger Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8634,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-03-04T19:29:46.129Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ZOMBIES TO KILL",
+      "webControlKeys": "L CLICK OF MOUSE TO KILL THE ZOMBIES"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
