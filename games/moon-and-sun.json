@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b23b",
+      "id": 1520,
+      "name": "Moon and Sun",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "moon-and-sun",
+      "image": "1520",
+      "url": "moon-and-sun",
+      "description": "<div>Like everyone else, the moon and sun looks very busy these days. Join Moon and Sun and get ready to help them make their important appearances on time! Make sure to keep your eyes on collecting the 3 Shinies and clear the level successfully. In order to achieve the goal of this brand new adventure, you have to fight different kinds of gravity. This very challenging platformer game with a cool concept will definitely keep you engaged for hours – be it a kid, a teenager or a grownup.</div><div><br></div><div>It features the outstanding graphics, fabulous audio and video effects as well as seamless gameplay. Start the game with clicking to drop the items. Use your mind and create a comfortable path where your cute friends can easily walk to reach to the wooden door. Be careful while dropping an item into a particular place since the items are available in a limited number in this one of the best click games for kids! You can see the order of upcoming items right in the bottom left of your computer screen.&nbsp;</div><div><br></div><div>Try to use your ability to drop the items in a place where they should be. This easy-to-play arcade game is designed with the help of HTML5 technology. So, you can play it in various mobile phones in all modern browsers. If you get bored, no need to worry since our free online gaming website has many more moon games for children, which are graphically-advanced and feature colourful graphics.&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=5f51b5ef5e6f4483b1fb70c52543dd71\r\n",
+      "metaTitle": "Moon and Sun,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Moon and Sun at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Moon and Sun Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517901590.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7257,
+      "ownGame": false,
+      "addDate": "2018-02-06T12:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.690Z",
+      "updatedAt": "2022-08-23T23:21:30.093Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
