@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4b7",
+      "id": 2219,
+      "name": "Arkanoid For Painters",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "arkanoid-for-painters",
+      "image": "2219",
+      "url": "arkanoid-for-painters",
+      "description": "- Unique gameplay - 15 Upgrades - 25 levels - Cool graphics and sounds - Optimised for all mobile and desktop browsers\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/a2cf0e00d315406da07e37fb7ec04153/\r\n",
+      "metaTitle": "Arkanoid For Painters,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Arkanoid For Painters at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Arkanoid For Painters Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524804862.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7434,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:24:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.705Z",
+      "updatedAt": "2024-07-15T14:20:33.934Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO DRAW THE LINE TO JUMP THE BALL",
+      "webControlKeys": "DRAW A LINE UNDER THE BALL BY LEFT CLICK  OF MOUSE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
