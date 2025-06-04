@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c16e",
+      "id": 5669,
+      "name": "Crazy Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "crazy-racing",
+      "image": "5669",
+      "url": "crazy-racing",
+      "description": "<div><span style=\"font-size: 13.3333px;\">re you one of the biggest fans of car race games? Join Racing game and get ready to try out something unique and challenging in this one of the most preferred game genres! We know that competing against the other top racers is not an easy affair. However, you can do it easily by putting all your driving skills to test. Get ready to drive your way and transform yourself from a beginner into a top racer of your area in this brand new racing game!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Here you will get a wonderful opportunity to take your motor driving skills to an ultimate level in a car chase highscore arcade hunt. See yourself experiencing the thrilled race and the roar of the engines! Allow yourself to feel the adrenaline rush that you have never experienced before in this highly addictive and exciting 3D racing game! Hurry up friends! Your opponents are waiting for you. Jump behind the wheel and get ready to challenge them in the biggest competition of your lifetime!</span></div><div><span style=\"font-size: 13.3333px;\">Imagine what you will realize when you get a chance to drive your most desired superb stunning car! The roads, terrain and some other turning paths where driving is not everyone cup of tea. Practice your driving skills before entering this fierce car race competition game! We are sure that playing this cool HTML5 3D racing game will be able to rise your adrenaline to the highest level. Enjoy your speed passion in our top car games on atmegame.com! Good luck to become the best racer of the world!</span></div>",
+      "size": 850,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/0b464be9f372412c90ae7ab89232e5b5/\r\n",
+      "metaTitle": "Crazy Racing,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Crazy Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Crazy Racing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1556791949.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7448,
+      "ownGame": false,
+      "addDate": "2019-05-02T15:42:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2025-02-07T14:37:58.052Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "ALLA ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
