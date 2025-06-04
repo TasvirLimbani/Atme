@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1b8",
+      "id": 1345,
+      "name": "Zombie Cows",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "zombie-cows",
+      "image": "1345",
+      "url": "zombie-cows",
+      "description": "<div>In one of the best action games for boys, Zombie Cows is sure to cause an adrenaline rush in your body. You will see the undead cows from the world of deadrise on the special evening of Halloween. Something went wrong and these cows are awoken by from their graves. They keep their eyes on the poor villagers’ crops and grass. However, the villagers have decided to hire you who are a popular Zombie Exterminator and properly aware of cow behaviour.&nbsp;</div><div><br></div><div>Join this brand new zombie game to kill the freshly risen cows and protect the villagers! In this engaging and interesting remake of Whack a Mole, you will have to whack the zombie cows whenever you see them popping on the screen. Whack as many cows as you can to earn maximum points. Try to collect enough points to pass the current level and move to the next one. Feel free to enter your username at the top of the leaderboards in this free online action game!</div><div><br></div><div>In order to achieve you goal, it is important for you to keep your eyes out for the bad guys since whacking them might reduce your points or time. Tap or click to whack zombie cows in this cool HTML5 game! It is compatible with most of the currently used mobile phone devices. Check out all high scores for Zombie Cows on the leaderboards in this online skill game! You can view top games page to enjoy some more free online games at our website.&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/7c835d05a1b6416fa3a0889ddd8d037c/\r\n",
+      "metaTitle": "Zombie Cows, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Zombie Cows at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Zombie Cows Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299559.xml",
+      "idealFor": "Man",
+      "likes": 30,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11946,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.687Z",
+      "updatedAt": "2024-04-21T12:19:04.048Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ZOMBIES TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO MACTH THE ZOMBIE COW"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
