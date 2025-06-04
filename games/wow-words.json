@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd93",
+      "id": 4635,
+      "name": "Wow Words",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "wow-words",
+      "image": "4635",
+      "url": "wow-words",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Hey friends! You do not need to go anywhere else to learn some unique words while relaxing your mind when a cute words challenge is here for you. You have to put the pressure on your mind and find all the words hidden in a few letters shown on the screen in Wow Words.&nbsp; The only way to move to the advanced level is to create all the words with the help of letters.&nbsp; The upper side of the screen will show you how many words you have to find.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">There are multiple levels to explore and enjoy in this brand new puzzle challenge.&nbsp; The more levels you clear the maximum words you would learn. Use the hints given at the right bottom side of the screen to know which more words you can create in this tricky arcade challenge! Put your brain and vocabulary abilities to the test to fill all of the empty squares and show off the world that you also have an excellent command over the English language!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this HTML5 arcade game is to figure out all the missing words using the letters that you see on the screen. Feel free to try out our other words games to entertain your mind and seek some extra fun! Our website will keep updating new games online, so there will be no chances of depriving the needful fun and entertainment. Check out our huge list of fun arcade challenges that you can enjoy in multiple devices, no download required!</span></div><div><br></div>",
+      "size": 1080,
+      "height": 1920,
+      "script": "\nhttps://html5.gamedistribution.com/9ea99c3782c1418c8003102b1518722a/\n",
+      "metaTitle": "Wow Words, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wow Words at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Wow Words Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8346,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2024-02-12T03:53:56.348Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE TO CONNECT THE WORDS TO MAKE THE WORDS",
+      "webControlKeys": "KEEP PRES AND SWIPE TO CONNECT THE WORDS TO MAKE THE WORDS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
