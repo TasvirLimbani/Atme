@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad75",
+  "category_name": "bicycle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad75",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b2ce",
+      "id": 1683,
+      "name": "Dashing Dave",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "dashing-dave",
+      "image": "1683",
+      "url": "dashing-dave",
+      "description": "Can a motorcycle daredevil dodge death in the temple of doom?\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=12f94c9af66f4c8b89930f02319d413f\r\n",
+      "metaTitle": "Dashing Dave, Bicycle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dashing Dave at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Dashing Dave Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629168.xml",
+      "idealFor": "Man",
+      "likes": 33,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 10283,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:42:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.694Z",
+      "updatedAt": "2024-08-25T07:14:54.048Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad75",
+      "name": "bicycle",
+      "slug": "bicycle",
+      "icon": "bicycle-racing-games"
+    }
+  }
+}
