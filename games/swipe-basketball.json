@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b178",
+      "id": 1271,
+      "name": "Swipe Basketball",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "swipe-basketball",
+      "image": "1271",
+      "url": "swipe-basketball",
+      "description": "<div>Swipe Basketball is an awesome HTML5 sport game designed for all age groups from kids to adults. In this free online basketball game, you will have to swipe the ball towards the hoop in order to score and collect the points in the end. Swipe your ball in a way so that it can also collect the bonus points shown on the screen. Keep doing the same until you top the leaderboards! Make sure that you will not miss the hoop otherwise you will lose a ball. Show off your unmatched basketball skills to become a champion in the end!</div><div><br></div><div>The presence of incredible 3D effects and physics engine makes it one of the most popular sports game. Swipe the ball using your finger and get the perfect shot. No need to worry if you fail in the first attempt since you will have a plenty of chances to explore your game. Use some power-ups to boost your energy and encourage you to give your best. Bring them into use – rampage, bullet time, precision, free throw, extra time and bonus points to hit a higher score than anyone else did in the past.</div><div><br></div><div>Check out the details and complete instructions of the game to break the record of your friends and set a new one. Take the charge of touching the ball and flinging it towards the basket to shoot. Score as many points as you can before the time runs out. With stunning 3D graphics, easy controls, seamless gameplay and outstanding audio and video effects, this one of the best sports games for boys offers you more than you have experienced. Play confidently across various devices and restore your progress after reinstalling. Show off your swipe prowess to collect 24 achievements!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/619b2b7f28c647afba2a153a3316d5cc/\r\n",
+      "metaTitle": "Swipe Basketball, Basketball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Swipe Basketball at atmegame.com ! We have selected this Basketball games for best excitement and thrill in you!",
+      "metaKeyword": "Swipe Basketball Game, Sports Games, Basketball Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517222754.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11597,
+      "ownGame": false,
+      "addDate": "2018-01-29T16:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.686Z",
+      "updatedAt": "2024-12-10T06:47:59.980Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE UP ON THE SCREEN TO MAKE A GOAL",
+      "webControlKeys": "KEEP PRESS AND SWIPE UP TO MAKE A GOAL"
+    },
+    "rating": {
+      "rating": "0.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
