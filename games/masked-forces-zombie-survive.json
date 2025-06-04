@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b604",
+      "id": 2602,
+      "name": "Masked Forces Zombie Survive",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "masked-forces-zombie-survive",
+      "image": "2602",
+      "url": "masked-forces-zombie-survive",
+      "description": "<div>The fabulous second sequel of beautifully-crafted 3D action-packed multiplayer game is available to play online for free! The entire city is filled up with dangerous zombies and your mission in this brand new FPS shooter game is to kill all of them. These bloodthirsty zombies are continuously seeking for their next preys to suck more blood. They smell your scent and reach you anytime. However, the good news is that you have a permission to carry your guns all the time.</div><div><br></div><div>Collect your AK and begin shooting these local monsters down. Clear the level to gain access to a plenty of new and powerful weapons and armours. With the help of earned money, you can also buy various types of upgrades. Head to the battlefield and get ready to fight against players from all across the world in this free online action game for boys! Kill them and gather some bounties for their heads! Choose any of the three game modes: free of all, teams and doomsday and fight for the magnificent victory!</div><div><br></div><div>Developed by Freeze Nova, this next-gen 3D FPS game features the brilliant graphics, seamless gameplay as well as outstanding audio and video effects. Team up with other players to clear the city from zombies wave by wave with the help of a variety of weapons, including a knife, a pistol, a machine gun. This cool PC game also includes very simple and easy-to-grab controls that include WASD or ZQSD or arrow keys to move, left click to shoot, C to crouch, R to reload and F to pick up a gun.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/masked-forces-zombie-survive/index.php",
+      "metaTitle": "Masked Forces Zombie Survive, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Masked Forces Zombie Survive at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Masked Forces Zombie Survive Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7931,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.712Z",
+      "updatedAt": "2022-08-23T23:21:30.103Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "P- CHANGE THE CAR, SPACE- BREAK, W,A,S,D ALL ARROWS- MOVE, C- CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
