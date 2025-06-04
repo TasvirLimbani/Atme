@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c365",
+      "id": 6341,
+      "name": "FZ Blaster Fruit",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "fz-blaster-fruit",
+      "image": "6341",
+      "url": "fz-blaster-fruit",
+      "description": "<div>No one can imagine that matching can be so funny and entertaining! This brand new arcade puzzle will be enough to kill your boredom while allowing you to take your matching abilities to the next level.&nbsp; Are you ready to enter this new world and test your matching skills? Join FZ Blaster Fruit and be prepared to match the blocks of the same fruit to eliminate the lines! It will sound easy to handle this challenge, but very hard to become its master.</div><div><br></div><div>Oh! Lines of different fruits will keep moving from downward to upward. Click or tap the screen to drag the fruit until it reaches the block of the same fruit in this free HTML5 puzzle game! Your quick reflexes and hand-eye coordination skills will be tested to the optimum level to continue for long and set your own best score. The longer you survive the higher score you will be able to make in the end. The top middle portion of the screen will show your present score.</div><div><br></div><div>You can also see your final score on the middle portion of the screen when the game finishes. Do not worry if you fail in the initial few attempts; feel free to tap to restart your gameplay. You cannot get bored when you stay connected with us since you can browse through our extensive range of free arcade games and find some more suitable titles to keep you busy without download. Sign up with us for free and get a chance to maintain your complete profile that includes the records of all your achievements and rewards! Good luck for happy gaming!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/88dfbbb697a1407880e65be6624ae09f/\r\n",
+      "metaTitle": "FZ Blaster Fruit Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game FZ Blaster Fruit at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "FZ Blaster Fruit Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842210.xml",
+      "idealFor": "Man",
+      "likes": 47,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 21445,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:33:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-04-11T06:01:59.069Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO L-R OF SCREEN TO MOVE THE FRUIT",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO L-R"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
