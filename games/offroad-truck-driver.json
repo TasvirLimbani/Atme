@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b619",
+      "id": 2624,
+      "name": "Offroad Truck Driver",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "offroad-truck-driver",
+      "image": "2624",
+      "url": "offroad-truck-driver",
+      "description": "<div>There is a shortage of drivers who can deliver a cargo to our customers on time. Are you a real pro who can do this job perfectly? Once you accept this job offer, you will have to transport an offroad truck loaded up with cargo to the given point. Complete your job on time and collect some money through which you can also unlock more maps, new trucks or also buy some interesting performance upgrades. Remember this job is not everyone, so please get your mind ready before entering into this free online truck racing game – Offroad Truck Driver.</div><div><br></div><div>It is getting difficult to drive on a tough terrain due to a heavy rain. So, the challenges are not going to be easy when you play this brand new 3D driving game for boys. Known as one of the most realistic truck driving games in the online gaming market, it offers you the lifelike and exciting driving experience. You will get a wonderful chance to test your driving skills while riding to explore the off-road environment. Enjoy your adventurous riding on curvy roads in this single player driving game!</div><div><br></div><div>The job is pretty difficult. First, you have to load different types of cargo, including wheat bags, steel box, boxes, drums and heavy wood logs and then transfer them from one point to another safely and securely on the crowdiest off-road. Take a proper turn without damaging or losing other things on the way! Install this cool PC game and start having a fun in this awesome gameplay! The complete task in each level perfectly and prove the world that you are an elite driver in this 3D truck driving simulation game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/offroad-truck-driver/index.php",
+      "metaTitle": "Offroad Truck Driver, Truck Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Offroad Truck Driver at atmegame.com ! We have selected this truck games for best excitement and thrill in you!",
+      "metaKeyword": "Offroad Truck Driver Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 15481,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-09-12T08:42:09.296Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NA"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
