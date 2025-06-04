@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c083",
+      "id": 5403,
+      "name": "EG Endless Car",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "eg-endless-car",
+      "image": "5403",
+      "url": "eg-endless-car",
+      "description": "EG Endless Car Chase is a fast paced game in which you must collect cash and avoid the police! The game is ready to release straight out of the box, and it can also be easily customized to make it even more engaging to your players\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/f61907032745489e9a83233edd758024/\r\n",
+      "metaTitle": "EG Endless Car,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EG Endless Car at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "EG Endless Car Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552278458.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7569,
+      "ownGame": false,
+      "addDate": "2019-03-11T09:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2024-03-25T19:56:58.744Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "A,D L-R ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
