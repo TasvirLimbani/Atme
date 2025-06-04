@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c00e",
+      "id": 5284,
+      "name": "EG Car Evolution",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "eg-car-evolution",
+      "image": "5284",
+      "url": "eg-car-evolution",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Car race lovers are everywhere irrespective of location. If you love burning the tires of a four wheeler on a smooth and rectangle shaped track, join EG Car Evolution game today and see yourself controlling a mini race car. We can understand that handling this mini-sized vehicle requires full of concentration and knowledge the commonly used game keys. You can check out the instructions before starting your play and finish your game like a champion racer.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Create the merge game in this brand new racing game where new types of obstacles are awaiting you. You can play by just tapping the screen through your mouse when you have fun on PC or through your fingers while enjoying it on your mobile phone. Do not bother you can also explore this best car game in other devices like tablets as well as iPads and iPhones. Collect diamonds, grab cash and use them to purchase new vehicles and improve your driving power.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Click the setting tab and play this cool HTML5 mobile game with or without music. You can also change the language of the game there. Find a shop from where you can upgrade your vehicle and other important items to make your game more interesting and engaging. We have plenty of other popular racing games for free to play on atmegame.com where you can beat your boredom without download. Good luck to have fun while earn in a friendly environment!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/3a497c6a4eca4f089db70a267f94886a/\r\n",
+      "metaTitle": "EG Car Evolution,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EG Car Evolution at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "EG Car Evolution Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352328.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7375,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:08:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.748Z",
+      "updatedAt": "2023-07-08T14:13:32.065Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "TAP ON BOX TO CREATE THE CAR PICK THE CAR BY L CLICK OF MOUSE , KEEP HOLD THE CAR AND MOVE IT TO THE TRACK, THEN HOLD ON CAR TO PIC AND MERGE WITH OTHER CAR TO IMPROVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
