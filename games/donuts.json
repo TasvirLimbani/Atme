@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bae4",
+      "id": 3940,
+      "name": "Donuts!",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "donuts",
+      "image": "3940",
+      "url": "donuts",
+      "description": "<div>You are on a way to have the biggest fun available online! It only requires challenging your quick reflexes and matching abilities to get the job done. So what are you waiting for friends? Join Donuts! and be prepared to match 2 or more identical donuts to clear them from the screen! You would not like to miss this fun opportunity especially if you are crazy for this delicious sweets. Play this brand new arcade game to make you hungry again!</div><div><br></div><div>Common guys! Put your fingers on the mouse in PC or tap the screen of your mobile phone to match donuts of the same colour and create your best score! Make your way through each level by matching of the identical donuts to clear the screen in this HTML5 puzzle game! Wow! Collect points to buy different powersups and make your gameplay even more interesting and engaging! Track your best score by having a look at the right bottom of the screen!</div><div><br></div><div>In case if you are stuck or get bored, do not forget to browse through our huge collection of free arcade games that will surely allow you to find some new fun opportunities to enjoy without download. We welcome players with different tastes and preferences so you can come to us to get you entertained for hours no matter which age group you belong to. It is our pleasure to serve all your gaming needs in just a few clicks. Good luck!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/donuts-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Donuts!, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Donuts! at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Donuts! Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7516,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2024-04-29T18:17:20.707Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS TO MOVE, RIGHT ICON TO JUMP",
+      "webControlKeys": "SPACE -JUMP, ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
