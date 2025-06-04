@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c426",
+      "id": 6550,
+      "name": "Plumber",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "plumber",
+      "image": "6550",
+      "url": "plumber",
+      "description": "<div>This plumber is in big trouble and he does not have anyone except you to help him out. Would you like to come forward to guide him to complete his tasks before the time expires? Join Plumber and be prepared to assist the lovely plumber to fix all of the pipes shown on the screen within the allotted 1-minute time period! Be careful and try to be fast in piecing together all of the parts of these pipes! There are multiple challenging puzzles to deal with.</div><div><br></div><div>Your main objective in this HTML5 puzzle game is to connect the pieces and complete the flow as fast as you can. Hurry up friends! The sewage keeps rising to the top so focus only on rotating the pipes to make water flow freely from left to right. Your quick reflexes and sharp hand-eye coordination skills will guide you to beat all 30 levels and collect all the 90 stars. The complexities will keep increasing as you progress the levels of this fast-paced puzzle game.</div><div><br></div><div>We know that it is not easy to arrange the pipes in the right order to drain the water out. However, putting your puzzle-solving abilities to the test will guide you to complete all the levels against the clock. Focus on completing the plumbing puzzles by rotating the pipes and make sure that the water reaches to the other side of the pipes! Try out other free arcade games for boys that are playable on multiple devices without download! Hope you have fun all the time when you visit us and try any old or new puzzle game!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/plumber/",
+      "metaTitle": "Plumber Game, Puzzle - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Plumber at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Plumber, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 816,
+      "dislikes": 178,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 83577,
+      "ownGame": true,
+      "addDate": "2020-11-21T15:02:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-13T22:23:16.241Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON PIPE PICES TO REPAIR  BEFORE OVERFLOW",
+      "webControlKeys": "CLICK ON PIPE PICES TO REPAIR  BEFORE OVERFLOW"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 36
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
