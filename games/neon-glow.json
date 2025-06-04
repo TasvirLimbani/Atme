@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9ff",
+      "id": 3690,
+      "name": "Neon Glow",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "neon-glow",
+      "image": "3690",
+      "url": "neon-glow",
+      "description": "Play now this awesome neon game, where your in control of a neon glow spaceship. You have three roads with obstacles that you can take down by using your bullets. Try to set a highscore by shooting and dodging&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/neon-glow-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Neon Glow, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Neon Glow at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Neon Glow Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6967,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2024-07-28T05:30:27.412Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP L-R ON THE SCREEN TO MOVE L-R",
+      "webControlKeys": "L CLICK MOF MOUSE OR L-R ARROWS TO MOVE L-R"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
