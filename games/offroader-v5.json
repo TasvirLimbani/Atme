@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b63d",
+      "id": 2661,
+      "name": "Offroader V5",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "offroader-v5",
+      "image": "2661",
+      "url": "offroader-v5",
+      "description": "<div>Get ready to ride on a beautiful car in this 3D car simulation game for boys! You would definitely recommend it to your friends after playing this best free online car racing game in your PC. Drive your vehicle with a free mind at various locations and show off your ultimate driving skills. The improved engine, better controls and enhanced graphics of this cool car will definitely leave you driving it again and again. Known as the fifth instalment of the game series Offroader, this brand new racing game provides you more fun and thrill you have experienced ever.</div><div><br></div><div>It features various enhancements from its previous versions in terms of customizations and optimizations. You will have 3 vast open words to explore in this cool car game. It takes you a few seconds to create your own scene and control the camera angle so that you will the full records what you do on the roads. Do not forget to make your own stunts and prove yourself as an elite driver in this best PC game for boys. Keep your eyes on the time and take an attempt to crash your vehicle intentionally in slow motion.</div><div><br></div><div>Do whatever you like in this best video game! The limit is only your imagination. You will have a lot of fun while testing out a few cars, offroads and a bus, most importantly, each activity comes with new and exciting driving model. Choose from a massive bus, a pickup truck or a race car and get ready to get tear up the busy streets of dessert, a city or a wasteland. You will have three vast and highly detailed levels to explore. Good luck kids to enjoy your next driving activity in the latest computer game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/offroader-v5/index.php",
+      "metaTitle": "Offroader V5, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Offroader V5 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Offroader V5 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 25,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 10019,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-11-04T15:41:03.360Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "H- HIDE INSTRUCTION,1- PREVIOUS CAR, 2- NEXT CAR,C- CHANGE THE VIEW,R- REPAIR CAR,T- CONTROL TIME,P- PAUSE,Y- RESET SCEAN,ENTER- RESET CAR,E- EJECT PAYLOAD,SPACE- BREAK, W,A,S,D ALL ARROWS- MOVE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
