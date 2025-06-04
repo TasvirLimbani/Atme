@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b2bf",
+      "id": 1667,
+      "name": "Urban Truck 2",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "urban-truck-2",
+      "image": "1667",
+      "url": "urban-truck-2",
+      "description": "Hook up the Nitro in your urban truck to hit those jumps with speed and land a flip!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=26dd14a99b924a45acc699303b0709a9\r\n",
+      "metaTitle": "Urban Truck 2,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Urban Truck 2 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Urban Truck 2 Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629168.xml",
+      "idealFor": "Man",
+      "likes": 38,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 12829,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:42:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.694Z",
+      "updatedAt": "2023-12-01T17:13:48.860Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
