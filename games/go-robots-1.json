@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b46d",
+      "id": 2144,
+      "name": "Go Robots 1",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "go-robots-1",
+      "image": "2144",
+      "url": "go-robots-1",
+      "description": "The Robots are in a place with strange gravity and evil robots. Guide both robots through 25 levels. They need your help!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/5b8970459ca14df185224d20257edb3a/\r\n",
+      "metaTitle": "Go Robots 1, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Go Robots 1 at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Go Robots 1 Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1522756682.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 12010,
+      "ownGame": false,
+      "addDate": "2018-04-03T17:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.703Z",
+      "updatedAt": "2024-02-29T08:47:15.059Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO CUT THE ROPE AND MOVE THE BIKER",
+      "webControlKeys": "L CLICK OF MOUSE TO CUT THE ROPE AND MOVE THE BYCICLE"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
