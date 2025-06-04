@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5d6",
+      "id": 2554,
+      "name": "Combat Pixel Vehicle Zombies",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "combat-pixel-vehicle-zombies",
+      "image": "2554",
+      "url": "combat-pixel-vehicle-zombies",
+      "description": "Combat Pixel Vehicle Zombies, Zombie Games<br>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/combat-pixel-vehicle-zombies/index.php",
+      "metaTitle": "Combat Pixel Vehicle Zombies, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Combat Pixel Vehicle Zombies at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Combat Pixel Vehicle Zombies Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 6949,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.712Z",
+      "updatedAt": "2024-08-30T17:18:28.323Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE, SPACE- JUMP, C- PRONE, RIGHT CLICK OF MOUSE- AIM, L CLICK- SHOOT"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
