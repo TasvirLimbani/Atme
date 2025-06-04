@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b2a2",
+      "id": 1636,
+      "name": "Elements  Magic",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "elements-magic",
+      "image": "1636",
+      "url": "elements-magic",
+      "description": "Ready or not, here they come...",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=1fbdd5221b2c435d94086ffef6076c65\r\n",
+      "metaTitle": "Elements  Magic,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Elements  Magic at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Elements  Magic Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517901973.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7665,
+      "ownGame": false,
+      "addDate": "2018-02-06T12:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.692Z",
+      "updatedAt": "2022-08-23T23:21:30.094Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
