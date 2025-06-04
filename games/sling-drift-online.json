@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c08f",
+      "id": 5417,
+      "name": "Sling Drift Online",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "sling-drift-online",
+      "image": "5417",
+      "url": "sling-drift-online",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Out of plenty of car racing games available over the Web, Sling Drift Online is one of the most popular ones. In this fast-paced arcade style game, you will be allowed to take your drifting skills to the next level. It takes the proper timing of your sling to make your way to the victory. You will end up losing a game immediately in case of being failed in doing so. Be prepared to use the sling to drift your car along the sharp corners to achieve your goal!</span></div><div><span style=\"font-size: 13.3333px;\">In this skill-based car racing html5 game, the car you see on the screen runs automatically on the track. All you need to do is just time its sling to drift and slide your car from one corner to another. Do you think that you are capable enough to turn as many corners as possible? Join this fun arcade game to set a new high score in the group of your friends! Try to collect as many points as you can to be on the top of the leaderboard!</span></div><div><span style=\"font-size: 13.3333px;\">Try keep your vehicle on the middle of the track and pass all roads to perform well in this cool car drifting game! Your successful drifting will help you collect some amazing rewards by completing the biggest challenges. Play wisely to unlock new car models and various race models and become the master of the sling drift in this physics-based endless car drift game! Good luck to keep drifting until you see your name on the top of the global leaderboard! All the best to enjoy more drifting games online!</span></div>",
+      "size": 480,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/1261fe265da14dea8b6bd1e4f98dcce0/\r\n",
+      "metaTitle": "Sling Drift Online,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sling Drift Online at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Sling Drift Online Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552278458.xml",
+      "idealFor": "Man",
+      "likes": 44,
+      "dislikes": 8,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13129,
+      "ownGame": false,
+      "addDate": "2019-03-11T09:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2024-09-13T09:15:48.925Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON CAR ON TURN TO CONNECT THE DOTS TO GET DIRECTION",
+      "webControlKeys": "L CLICK OF MOUSE ON CAR ON TURN TO CONNECT WITH THE CAR TO GET DIRECTION"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
