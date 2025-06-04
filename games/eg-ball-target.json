@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c18e",
+      "id": 5702,
+      "name": "EG Ball Target",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "eg-ball-target",
+      "image": "5702",
+      "url": "eg-ball-target",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Ball and Target is a brand new fun soccer game where your objective is to point the ball correctly to the target and add some good points in the end. We know that targeting your aim is not easy at all. But it can be done easily if you hit your target by using your concentration and brain skills. Play well and collect as many points as you can! Many more surprises will also be there to experience in this one of the best sports games for kids!?</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Only three balls you will have to complete your goal. So, use your every move properly while hitting towards the target, otherwise you will lose your game immediately. As soon as you progress in the game, its speed may increase to get you confused. So, play wisely to become a champion in this cool HTML5 game. See both your present score and a high score on the screen once you complete your game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">At our free online game website, we have plenty of other highly addictive and challenging football games for kids to explore and help you make the most out of your online gaming experience. Our professionals respect the needs of every gamer. So, it is easy to find an online soccer game that fits your needs perfectly. All the best to bring more fun and entertainment and beat your boredom during your boring hours! Play our free online games for boys and have fun to the fullest!</span></div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/a6e581aa3a1747409a4381c05accb3ea/\r\n",
+      "metaTitle": "EG Ball Target, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EG Ball Target at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "EG Ball Target Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557559199.xml",
+      "idealFor": "Man",
+      "likes": 65,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 17924,
+      "ownGame": false,
+      "addDate": "2019-05-11T12:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.754Z",
+      "updatedAt": "2025-05-15T11:28:40.518Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE BALL STRECH AND RELESE MAKING THE DIRECTION TO HIT THE BALL",
+      "webControlKeys": "CLICK ON THE BALL STRECH AND RELESE MAKING THE DIRECTION TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
