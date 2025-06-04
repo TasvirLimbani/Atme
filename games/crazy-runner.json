@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bdfe",
+      "id": 4743,
+      "name": "Crazy Runner",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "crazy-runner",
+      "image": "4743",
+      "url": "crazy-runner",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Get your running shoes ready and be prepared to hit the streets to enjoy the best running adventure of your life in Crazy Runner! Your objective in this brand new adventure challenge is to control a lovely character who wants to be the biggest marathon runner.&nbsp; The problem is that he has to run in the city where lots of vehicles are already running. Grabbing the coins will also be his primary objective. Make sure to help him make jump over tires, bombs and cars.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Apart from coins, you also have to help him to collect the food.&nbsp; We know that it takes lots of patience and concentration to assist him continue running without colliding with any cars and other obstacles. Streets are not a perfect place to run and boost stamina. But, he has no other choices to make his dream come true.&nbsp; Try to keep your eyes on the ground and help him to enjoy the best cardio workout in this free online running game! The longer he will run the higher score he will be able to make in the end.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Use your mouse or tap the screen to play this cool html5 running game! Once you click the screen, your character will begin running on streets. Try to keep your character away from all the obstacles that you see on the road! Click the screen to make him jump over the hurdles! Timely jump is a key to cover the maximum distance and increase your score!&nbsp; Grab hamburgers and hotdogs for some additional points! Good luck to become the best marathon player of your city!!</span></div><div><br></div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://games.atmegame.com/games/crazy-runner/",
+      "metaTitle": "Crazy Runner, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Crazy Runner at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Crazy Runner Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 261,
+      "dislikes": 23,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 51051,
+      "ownGame": true,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.741Z",
+      "updatedAt": "2024-09-02T03:20:51.496Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO JUMP, DOUBLE TAP TO JUMP HIGHER",
+      "webControlKeys": "L CLICK O0F MOUSE TO JUMP, DOUBLE CLICK TO JUMP HIGHER"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 11
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
