@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb8e",
+      "id": 4113,
+      "name": "Flying Ball",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "flying-ball",
+      "image": "4113",
+      "url": "flying-ball",
+      "description": "<div>This time we have brought to you a brand new arcade challenge in which you have to control a flying ball! Is not pretty exciting and challenging? Do you want to try your hands in this unique ball jumping challenge? Join Flying Ball and be prepared to fly your ball as high as possible in the sky! Do every possible effort to make your ball reach at the top destination and clear each level as fast as you can! Put your basketball handing abilities to the test to complete all the levels!</div><div><br></div><div>Make it bounce left and right at the right time while avoiding all the obstacles that you see on your way! Be careful as you can see the dangerous saws-all way in this HTML5 basketball game! Touching with any of them will lose your life and you will lose the game immediately. Choose any of the two-mode options including arcade and survival and get ready to show off your flying ball-handling abilities! Let your ball guide to reach the goal area in the arcade mode.</div><div><br></div><div>You have to help your ball survive as long as you can in this endless mode. Grab as many stars as you can on your way to buy new ball skins in the future! Track your level by looking at the top middle portion of the screen anytime you want! This fun arcade game is a good combination of focus and hand-eye coordination skills! Hope you complete all its levels and have a great day ahead! Try out other free arcade games available on our website to challenge your brain and show the world that you are a true player!</div>",
+      "size": 480,
+      "height": 720,
+      "script": "https://html5.gamedistribution.com/eab1b0acb8f346c6abb2347f5890e611/\r\n",
+      "metaTitle": "Flying Ball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Flying Ball at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Flying Ball Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9064,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2024-06-30T21:17:59.965Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP LEFT TO JUMP LEFT, TAP RIGHT TO JUMP RIGHT",
+      "webControlKeys": "L CLICK ON L-R OF SCREEN TO CONTROL THE BALL"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
