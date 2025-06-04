@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd16",
+      "id": 4510,
+      "name": "Fast Food Memory Challenge",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "fast-food-memory-challenge",
+      "image": "4510",
+      "url": "fast-food-memory-challenge",
+      "description": "<div><span style=\"font-size: 13.3333px;\">What could be a better option than getting enrolled in the fast food games while improving your memory power especially if you are a die-hard fan of wider food range? Yes, we have today got you covered with a cute and brand new arcade challenge where you have to find all the fast food matching images. Fast Food Memory Challenge is actually a nice puzzle bet to all those who want to kill their time by staying in touch with their favorite food items.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Choose the level mode and enter this unique fun skill memory challenge! In this html5 puzzle game, you would have four levels including easy, medium, hard and expert to explore. Start with the easy mode and later enter the hard and expert level to test your memory! We are pretty sure that your memory is strong enough to match all the cards with the fewest steps possible to complete each level with the maximum score possible. The variety of dishes from fast food will be shown today in this free arcade game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Put your finger on your mouse on PC or tap the screen on your mobile phone to click the identical fast food images at the same time! Challenge your brain, fix all of them on the field and grab the maximum points to prove the world that you are the best matching puzzle solver! Our website features a wider range in the category of matching games online that you can play anytime anywhere without download. Good luck to have the best fun in just a few clicks!!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/cb5e15bbb539449d8cc1d1aacd70ca74/\n",
+      "metaTitle": "Fast Food Memory Challenge, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Fast Food Memory Challenge at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Fast Food Memory Challenge Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527121.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7641,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-01-11T03:48:33.490Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON TILES TO MAKE THE MATCH",
+      "webControlKeys": "L CLICK OF MOUSE ON THE CARDS TO MATCH THE SAME IMAGE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
