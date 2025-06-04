@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6b",
+  "category_name": "golf",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd18",
+      "id": 4512,
+      "name": "Mini Golf Adventure",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "mini-golf-adventure",
+      "image": "4512",
+      "url": "mini-golf-adventure",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a gold sport lover? Is it your hobby to practice your favorite sport online? Luckily we have brought to you a brand new sport game where you can practice your intense golf playing abilities in a friendly environment. Your objective in each level will remain the same i.e. putting the ball into the hole in Mini Golf Adventures. But the problem is that many complicated and tricky puzzles will be there on your way to stop you from achieving your goal. Put your finger on the stick and be prepared to guide your ball to its destination!</span></div><div><span style=\"font-size: 13.3333px;\">Be careful and try to utilize the shortest amount of putts to complete each level with 3 stars rating! There are 48 unique and challenging levels to play through so no chance of getting you bored. Make sure to grab all the gems you see on the path to increase your score. It will be amazing to discover many new objects and power-ups to guide you towards the victory. Try to set angle then strengthen and shoot your ball in this html5 golf game! Clear all levels with as few shots as possible!</span></div><div><span style=\"font-size: 13.3333px;\">Some amazing new elements like wind accelerators, magnet, windmills, teleportation stations and a mole to discover. You can also find out an interactive tutorial to understand the entire gameplay. We are damn sure that the fun family oriented theme and fun golfing adventure will be enough to keep you engrossed for hours. Many more popular titles from the category of mini golf games are available on atmegame.com, which are free to play online without download in your device. Use mouse on PC or tap the screen on mobile phone!</span></div><div><br></div>",
+      "size": 540,
+      "height": 960,
+      "script": "https://html5.gamedistribution.com/bb58de9c3c454866ae701458b2a6a570/\r\n",
+      "metaTitle": "Mini Golf Adventure, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mini Golf Adventure at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Mini Golf Adventure Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527121.xml",
+      "idealFor": "Man",
+      "likes": 20,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10331,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-08-17T19:40:09.563Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE DOWN ON SCREEN TO SELECT THE DIRECTION , RELEASE TO HIT THE BALL",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND SWIPE TO SELECT THE DIRECTION, RELESE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6b",
+      "name": "golf",
+      "slug": "golf",
+      "icon": "golf-games"
+    }
+  }
+}
