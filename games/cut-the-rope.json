@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8a",
+  "category_name": "best",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aeef",
+      "id": 462,
+      "name": "Cut The Rope",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "cut-the-rope",
+      "image": "462",
+      "url": "cut-the-rope",
+      "description": "<div>Cut the rope is one of the most popular puzzle games that are liked by a good number of teens, kids and grownups. In this challenging free online game, your goal is to cut the ropes (through which the candies are tied up) in the right order so that the beloved candy can fall into the mouth of a little monster. Primarily based on the gravity, this physics-based game features awesome graphics, excellent gameplay and easy control.??</div><div><br></div><div>The placement of the candies and the monster will surprise you amazingly. Do not forget to choose all the stars across the way in each level of this easy-to-operate arcade game. You will find the movable pegs. Apart from this, there are various kinds of obstacles, including cushions, spikes, bubbles and electricity. Use the things to blow the candy in the right directions and guide it down directly to the monster mouth. In this cool flash game, you will find a lot of things to have fun!?</div><div><br></div><div>Complete all 150 levels to get an expertise in this exclusively-designed game for kids and enjoy the unmatched gaming experience! Cutting rope is famous among children from different age groups, not only because of the finest gameplay, but also its high-quality graphics. Collecting three stars ensures to earn bonus points in each level in this excellent arcade game. You will love everything right from cutting the ropes, gathering stars to helping the hungry monster to feed his beloved candy. Have some quality time and fun with the world cutest frogs!</div>",
+      "size": 1024,
+      "height": 576,
+      "script": "https://games.gamepix.com/play/40071?sid=110996",
+      "metaTitle": "Cut The Rope, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cut The Rope at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Cut The Rope, Arcade, Puzzle Games, Cut The Rope Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 441,
+      "dislikes": 39,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 36913,
+      "ownGame": false,
+      "addDate": "2017-07-17T10:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.667Z",
+      "updatedAt": "2025-05-14T11:53:57.932Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO CUT THE ROPE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND SWIPE TO CUT THE ROPE"
+    },
+    "rating": {
+      "rating": "4.6",
+      "count": 34
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
