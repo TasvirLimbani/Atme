@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aecf",
+      "id": 269,
+      "name": "Evil Darkness",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "evil-darkness",
+      "image": "269",
+      "url": "evil-darkness",
+      "description": "In the genre of action fighting games, the game Evil Darkness is the real thrilling game for the users that are deeply found of playing online action game in one session after other of levels in a fast moving game. In one of the best action games online as a brave warrior you enter the land of evil darkness to take on the monsters that are ready to spread across the disaster around the earth.<br><br>As a protector in the action game online, you enter into the dark land with powers of your own. And begin havoc creating attack over them in quick sessions of the intriguing game play.<br><br>In the game, you are three way attacking powers as controlled by J and K and L key pressing. J helps you to fight with shrapnel’s to attack over your enemy, whereas K key is about the special armour around to escape the attacking powers of monstrous devils. The L key in the free action game powers you to attack with pink powerful beam over enemies.<br><br>For killing each of the monsters in the game, you have to collect coins for powering up and after that in the next step to reach the next level will have to break the entry door to level. As much levels you crosses as many points and award you get in the game play of action games to play online.",
+      "size": 500,
+      "height": 0,
+      "script": "<!-- Place this code where you'd like the game to appear -->\r\n<div class=\"miniclip-game-embed\" data-game-name=\"evil-darkness\" data-theme=\"0\" data-width=\"500\" data-height=\"600\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/evil-darkness/\">Play Evil Darkness</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/evil-darkness/\" target=\"_blank\">Play Evil Darkness</a> / More <a href=\"https://www.miniclip.com/games/genre-5/\" target=\"_blank\">Shoot 'Em Up games</a></p>\r\n\r\n<!-- Insert this code before your </body> tag -->\r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "Evil Darkness, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Evil Darkness that is one of the most emerging and thrilling fighting games for serious gamers let you take on the enemies that are monsters from the other world.  ",
+      "metaKeyword": "Evil Darkness, Action, Fighting, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 96,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 13618,
+      "ownGame": false,
+      "addDate": "2017-03-09T00:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2023-09-30T01:44:10.837Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT FOUND"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
