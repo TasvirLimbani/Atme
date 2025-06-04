@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3bd",
+      "id": 6443,
+      "name": "King Fishing",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "king-fishing",
+      "image": "6443",
+      "url": "king-fishing",
+      "description": "<div>Many fishing game lovers have already signed up with us! Where are you friends? Join King Fishing and be prepared to catch a number of small and large fishes using the small and large nets respectively! Hey! You would have 9 amazing and powerful cannons to select from in this brand new action-packed challenge. No need to show pity on anyone else you see here in this this deep sea. Grab as many small and large fishes as you can to clear the levels!</div><div><br></div><div>Put your intense shooting and fishing abilities to the test to catch fish and earn Gold and XP! There are multi-level nets to explore through in this HTML5 shooting game. It will be amazing to enjoy a deep-ocean experience while being involved in catching multiple fabulous species of fish and other creatures. Get ready to be rewarded with a Beam Cannon when you see getting your cannon energy gauge full! You can cut through anything with the help of Beam Cannon in your path including Sharks.</div><div><br></div><div>Start with the trapping of small fish with the cannon and later on move forward to catch the bigger ones once your skills are improved in this amazing fishing game! Catch more and more fishes at a time by setting the size of your net! Remember some of your coins are spent on you reach shot so try not to waste your coins while aiming your target. Shoot precisely to collect coins and purchase power-ups and upgrades to catch bigger fishes! Keep playing until you get the taste of fatty and large fishes!</div>",
+      "size": 850,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/5005004d94b84061952b37e72774f040/\r\n",
+      "metaTitle": "King Fishing Game, Shooting - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game King Fishing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "King Fishing Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 27,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7784,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-01-27T17:41:48.483Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "LEFT CLICK TO HIT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
