@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c364",
+      "id": 6339,
+      "name": "Five Nations",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "five-nations",
+      "image": "6339",
+      "url": "five-nations",
+      "description": "<div>In Five Nations, you will get a chance to enter into an awesome sci-fi realm and allow yourself to travel to space. Hey! The dangerous Martian Independence War seems to be over, but it looks that some evil powers with deadly weapons have already spread all over the galaxy. Now you have taken the responsibility to grabbing all the useful resources to keep your nation safe. Make sure to build different space stations in this brand new real-time sci-fi strategy game for PC platforms and Browser.</div><div><br></div><div>Grab all your powers and get ready to build space stations, mine raw materials from asteroids and expand your fleet! There are five different levels to explore in the campaign mode. Wow! You will be entertaining to the ultimate level as you will have multiple missions to complete in each level. Click and choose your different units in this free online HTML5 war game! Build new stations and constructions with the help of engineer shuttles! Get the much-needed energy with the solar stations!</div><div><br></div><div>Put your insane fighting skills to battle it out and get you ready to construct your own empire in space in this amazing adventure game! Do not forget to look into the economy and production parts to manage your empire wisely. With fantastic graphics, easy controls as well as the superb RTS strategy and gameplay, this real-time science fiction strategy game can keep you entertained for hours. Challenge your exclusive space skills and allow yourself to become the master of the universe with your fleet!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/4a8520682c4b412e80f979dea31106ff/\r\n",
+      "metaTitle": "Five Nations Game, War - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Five Nations at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Five Nations Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842210.xml",
+      "idealFor": "Man",
+      "likes": 52,
+      "dislikes": 18,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 10213,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:33:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-04-21T07:35:21.776Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "GAME IS NOT FULLY DEVLOPED "
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
