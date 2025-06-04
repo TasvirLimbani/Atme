@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b318",
+      "id": 1767,
+      "name": "Magic Castle Solitaire",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "magic-castle-solitaire",
+      "image": "1767",
+      "url": "magic-castle-solitaire",
+      "description": "In the mood for magic? Play this bewitching version of the classic card game.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=ddd38d8371714390ba2a54bbb2e5883e\r\n",
+      "metaTitle": "Magic Castle Solitaire, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Magic Castle Solitaire at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Magic Castle Solitaire Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629539.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 6876,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.696Z",
+      "updatedAt": "2024-03-25T21:59:45.058Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
