@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb55",
+      "id": 4055,
+      "name": "Robot Escape",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "robot-escape",
+      "image": "4055",
+      "url": "robot-escape",
+      "description": "<div>Robot games are the best thing to play with especially when you have some free time to enjoy. We have got you covered with a brand new adventure game where you have to help a robot to make friends and fight against the deadly monsters. Are you ready friends to accept this exciting and thrilling challenge? Join Robot Escape and be prepared to move with your teammates as fast as you can! Make sure that your robot can escape timely and meet his friends.</div><div><br></div><div>The more friends you make the higher score you will be able to create in the end of each level of this cool HTML5 escaping game. This robot needs your help urgently so do not let him feel down and guide him to be surrounded as many friends as you can. This means that you are going to play as his best friend. When you click the play button, you would see a robot trapped inside a house. Now your job is to assist the robot get his missing power back.</div><div><br></div><div>It seems that he is not aware of his ultimate power. Guide him properly to escape from the house he is stuck in mistakenly in this cool robot game! Move around and help him find his batter and power him up timely! Plan a strategy to find items that are useful in solving puzzles to escape! Good luck to assist your friend escape from the Robot Room and wear a tag of being the best friend you have ever witnessed!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/7a84fcffeff643589892bd05f9da37d5/\r\n",
+      "metaTitle": "Robot Escape, Escaping Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Robot Escape at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Robot Escape Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 44,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 15896,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-08-25T09:49:52.547Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,SD TO MOVE ARROUND"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
