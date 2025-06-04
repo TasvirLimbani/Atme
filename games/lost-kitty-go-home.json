@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad92",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3d8",
+      "id": 6470,
+      "name": "Lost Kitty Go Home",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "lost-kitty-go-home",
+      "image": "6470",
+      "url": "lost-kitty-go-home",
+      "description": "<div>This brand new arcade game on our website is very special and you are sure to keep you engrossed for hours. Would you like to stay with your favourite pet a cute kitty in this highly addictive challenge? Join Lost Kitty Go Home and be prepared to guide a little cat to get home in each level! Hey! You cannot keep your eyes off the screen for a single moment as it is full of funny and entertaining activities.</div><div><br></div><div>When you click the play button, you would meet with a cute kitty who has already lost in this dangerous forest. Your job in this HTML5 puzzle challenge is to guide him get back home safely. Use your brain to move boxes over obstacles to create a safe route for him! Do not forget to grab the power-ups to make your box jump. Remember your box can jump only one time for each power up you collect along the way.</div><div><br></div><div>Control kitty to pass through all 20 levels and become a champion of an adventure-based hidden-objects challenge! He will be happy for your intense efforts so make sure to get them solved as fast as you can to bring the huge smile on his face. This awesome kitty will reach home in each level if you solve the puzzle. Get ready to face of the complexities in the advanced levels of this cool puzzle logic game! Check out more free arcade games on our website and have a good time without download! We cover multiple animal games that are playable on different latest browsers.</div>",
+      "size": 930,
+      "height": 523,
+      "script": "https://html5.gamedistribution.com/f0e83db11fd6440781c5551c6e80bbbb/\r\n",
+      "metaTitle": "Lost Kitty Go Home Game, Hidden-Object - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Lost Kitty Go Home at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Lost Kitty Go Home Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842520.xml",
+      "idealFor": "Man",
+      "likes": 25,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 8544,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:38:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-01-28T20:55:41.327Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT MOVE BOX,RIGHT ICONS JUMP BOX",
+      "webControlKeys": "ALL ARROWS TO MOVE BOX AND KITTY"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad92",
+      "name": "hidden-objects",
+      "slug": "hidden-objects",
+      "icon": "Hidden Objects"
+    }
+  }
+}
