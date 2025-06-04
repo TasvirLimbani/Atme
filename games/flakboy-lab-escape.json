@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1f8",
+      "id": 1418,
+      "name": "Flakboy Lab Escape",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "flakboy-lab-escape",
+      "image": "1418",
+      "url": "flakboy-lab-escape",
+      "description": "<div>A cute Flakboy has been trapped in a lab by a group of several scientists who want to make experiments on him. Not only this boy, but his friends have also been trapped in their lab. So, now it is up to you to help his boy to prevent him and his friends freedom by avoiding the explosive experiments and traps. Are you ready to accept this challenge? Join Flakboy Lab Escape and take a chance to attempt something good for someone who is in need!&nbsp;</div><div><br></div><div>The evil scientists are pretty excited to make experiments on the lovely boy and his friends. Join him and jump over the high rising platforms and obstacles in this action-packed platform escape game! It is necessary to run at least 30 meters to complete the assignments of the game. No need to worry if you fail in the first attempt since you will be given three attempts to complete the Lab Escape mission in this free online game for boys!</div><div><br></div><div>Make sure to collect as many coins as possible you see on your way to buy magnetism, health, shields and more. Select your favourite Flakboy and make him run as fast as you can to the way to freedom in this one of the best runner games for boys! The points you earn can be used to upgrade the skills and abilities of Flakeboy. Try to keep your character away from the deadly lasers! This cool arcade runner game features a number of achievements to be gained. Use the mouse to navigate the menu and left mouse button to move your character. Play and have a fun in this one of the best adventure games for boys!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/b8f7cd5aa22b4f0aa7973a6cccc50de7/\r\n",
+      "metaTitle": "Flakboy Lab Escape, Escaping Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Flakboy Lab Escape at atmegame.com ! We have selected this escaping games for best excitement and thrill in you!",
+      "metaKeyword": "Flakboy Lab Escape Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489309.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 8348,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:18:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.689Z",
+      "updatedAt": "2024-07-25T02:30:04.224Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
