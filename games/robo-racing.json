@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2df",
+      "id": 6159,
+      "name": "Robo Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "robo-racing",
+      "image": "6159",
+      "url": "robo-racing",
+      "description": "<div>This is the first time when you are going to participate in a brand new car challenge where you will find out the combination of racing and fighting together. Would you like to experience it in a completely new environment? If yes, join Robo Racing and be prepared to drive a robotic car in the first time of your life. Select your car model, and then level you want to play before entering the amazing speed fun!</div><div><br></div><div>Your path is full of dangerous enemies like deadly bikers and other obstacles. Make sure to defeat them with your powerful weapons and reach your destination on time. Do not forget to transform your car into a transformer to get you ready to fight against a giant robot enemy. Common friends, you have the guts to beat every mission and prove yourself a real fighter and driver. Use your rockets, Nitro and various other upgrades to beat all the enemies that you see along the road!</div><div><br></div><div>You will definitely recommend this HTML5 racing challenge to your friends and families after experiencing the fun and thrill you experience along this lovely driving journey. Get your robocar and gear up to go on the most awaited journey combined with driving and fighting! Defeat all your enemies in the fighting ring to prove yourself as a true champion! Check out other top titles from the category of free racing games to keep your busy for hours on your chosen devices! Our free games are playable on all the latest browsers and devices and can be enjoyed without download. Have a wonderful gaming experience!!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/b577d46286264be0a14d2195af10a1a6/\r\n",
+      "metaTitle": "Robo Racing, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Robo Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Robo Racing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569524127.xml",
+      "idealFor": "Man",
+      "likes": 202,
+      "dislikes": 16,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 34593,
+      "ownGame": false,
+      "addDate": "2019-09-27T00:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2025-05-22T07:08:17.342Z",
+      "__v": 0,
+      "mobileControlKeys": "KEYWORDS NOT WORKING",
+      "webControlKeys": "W UP ARROW TO MOVE ,A,D LEFT RIGHT ARROW TO BALANCE, S DOWN ARROW TO BACK"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 20
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
