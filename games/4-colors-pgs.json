@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b384",
+      "id": 1897,
+      "name": "4 Colors PGS",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "4-colors-pgs",
+      "image": "1897",
+      "url": "4-colors-pgs",
+      "description": "<div><span style=\"font-size: 13.3333px;\">One of the extremely challenging and electrifying arcade games to play, 4 Colors PGS is absolutely a treat to all card game lovers. When you play this popular card game based on the most commonly used UNO game, you will have to face up to three opponents that are operated by the computer machine. Use your logical mind and cognitive skills to match up all the cards by number or color. Your strong brain power will definitely help get rid of all the cards quickly.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Make sure that you have pressed the 1 button when you see that only one card is left. It would be quite exciting to play and have fun against one, two or three virtual opponents. The selection of cards carefully is required during each of your moves. Make sure that you also have checked if you can beat them perfectly. Take the useful turns in order to match cards of the same color to get rid of them. Known as a fabulous html5 game, 4 Colors PGS features amazing graphics and easy control.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This brand new arcade game is today enjoyed and played by thousands of boys and girls worldwide. You can play it both on your mobile phone or tablet and desktop computer. So, what are you waiting for kids? Take this awesome arcade game with you wherever you go and get a pleasure of playing the world’s best card game in your favourite device. The easy controls and simple layout will be sufficient enough to give you an unforgettable gaming experience. Good luck friends to have hours of fun!&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/57cfda84d84441579d789dad1319faef/\r\n",
+      "metaTitle": "4 Colors PGS, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 4 Colors PGS at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "4 Colors PGS Game, Racing Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 33,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 9088,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2024-08-21T08:24:10.415Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON  CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "3.2",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
