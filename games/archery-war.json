@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4fb",
+      "id": 2292,
+      "name": "Archery War",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "archery-war",
+      "image": "2292",
+      "url": "archery-war",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Grab your bow and arrow and get ready to participate in the biggest archery competition online! We know that not everyone dares to accept this challenge especially when you will be given a very short time to complete your mission. However, your good command in archery skills and fight skills can make you a perfect candidate for this fiercely battle. Various other trained archers have already reached in the battlefield. Get your weapon to defend yourself against a horde of archers in Archery War!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your enemies are lashed with a great number of arrows and spears so you need to be very careful while joining the battlefield. Launch your arrows rights towards your enemies in this brand new action game! Every enemy kill will give you some points, but aiming for the head will help you to secure some bonus points. Try to be as fast as you can and target your aim with full concentration. Keep raining your arrows down on your opponents in this super fun and addicting online stickman archery!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Kill as many stickmen as possible before they send you to the hell! Complete your job with the help of your bow and unlimited arrows in this cool HTML5 aiming and shooting game! Do not forget to purchase some special helmets with the help of apples. Your good performance will depend upon how long you stand against the challengers. Play against the computer and have fun without download! Win the game by making the right distance prediction! Adjust the power of the arrow before hitting the target! Good luck!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/9296dcc74e604b32b5e7d2ffb90c3746/\r\n",
+      "metaTitle": "Archery War, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Archery War at atmegame.com ! We have selected this shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Archery War Game, Action Games, shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 8756,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-03-26T03:51:21.551Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO AIM, RELESE TO SHOOT",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO AIM, RELESE TO SHOOT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
