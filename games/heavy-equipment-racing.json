@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b2e8",
+      "id": 1709,
+      "name": "Heavy Equipment Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "heavy-equipment-racing",
+      "image": "1709",
+      "url": "heavy-equipment-racing",
+      "description": "If you like driving some very heavy vehicles, try racing these incredible heavy equipment! You have cranes, bobcats and all sorts of trucks. Choose one of them and upgrade it as much as possible in order to have a good performance. Collect power-ups on the way which will give you a magnet to attract all the other power-ups for a short period of time, NOS power for an extra speed boost, health, fuel and coins. You will have to win every race to progress to the next level. Have an awesome time playing Heavy Equipment Racing!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=9edda0fd4d983bf975935cfd492fd50b\r\n",
+      "metaTitle": "Heavy Equipment Racing, Truck Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Heavy Equipment Racing at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Heavy Equipment Racing Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629219.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9214,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:43:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.695Z",
+      "updatedAt": "2023-12-19T02:18:03.314Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
