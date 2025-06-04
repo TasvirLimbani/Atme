@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9a5",
+      "id": 3593,
+      "name": "Super Pineapple Pen 2",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "super-pineapple-pen-2",
+      "image": "3593",
+      "url": "super-pineapple-pen-2",
+      "description": "The fruits are back more crazy than ever, its time to pin again. Stick a pen into a fruit, Tap to throw the pen and try to hit an pineapple or an apple. Hit the fruits but dont hit the pens.Collect full coins and buy new objects to throw, New levels and new fun in Super Pineapple pen 2\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "\nhttps://html5.gamedistribution.com/4117242a754541559345299264c5e9ee/\n",
+      "metaTitle": "Super Pineapple Pen 2, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Super Pineapple Pen 2 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Super Pineapple Pen 2 Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335123.xml",
+      "idealFor": "All",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7119,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:02:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.725Z",
+      "updatedAt": "2023-10-01T17:25:00.222Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO HIT THE KNIFE",
+      "webControlKeys": "L CLICK OF MOUSE TO HIT THE KNIFE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
