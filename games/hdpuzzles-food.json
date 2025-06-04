@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4ec",
+      "id": 2276,
+      "name": "HDPuzzles Food",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "hdpuzzles-food",
+      "image": "2276",
+      "url": "hdpuzzles-food",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Puzzle is the best game to play especially when you want to challenge your brain during the vacant periods. In order to respect your different gaming needs, we have got you covered today with a brand new arcade game in which you have to solve out different food-based jigsaw puzzles. Make sure to put your quick reflexes and puzzle-solving abilities to the test to complete all of the levels. The controls are very easy to handle, and graphics of the game are pretty colourful.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Choose from different puzzle categories before entering this HTML5 arcade challenge! In each level, there are multiple pieces ranging from 24, 54, to 96 to play through. Although it sounds easy to handle this, but difficult to master since it comes with a time limitation. Use your logical mind to complete the jigsaw one by one and see what the complete picture will have to display on the screen! All items have taken place from the food world so you will enjoy it a lot.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">This cool arcade fun challenge allows you to explore the different categories of food, including breakfast, bakery, fruit, dinner, seafood, candy, ingredients, and drinks. Complete all of the HD puzzles before the time expires to become a king of puzzle solver! We cater to the wider collection of free jigsaw puzzles that are playable on multiple devices and browsers. Choose the one that attracts you and get ready to keep you engrossed for hours, even for days, no download requires!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/d8baf88cb47d4b12922e3b296c9a9e22/\r\n",
+      "metaTitle": "HDPuzzles Food, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game HDPuzzles Food at atmegame.com ! We have selected this puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "HDPuzzles Food Game, Action Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 20,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11580,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-03-23T00:54:24.198Z",
+      "__v": 0,
+      "mobileControlKeys": "NOT WORKING",
+      "webControlKeys": "DRAG AND CLICK TO PLAY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
