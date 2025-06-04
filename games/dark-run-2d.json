@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b207",
+      "id": 1436,
+      "name": "Dark run2D",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "dark-run-2d",
+      "image": "1436",
+      "url": "dark-run-2d",
+      "description": "<div>Are you in a mood of trying out something that could kill your boring hours easily? Have you fed up with playing old-themes and slow-motion games? Then you must opt for this brand new adventure game named Dark Run – 2D, which have already helped many to say goodbye to gloomy hours. The gameplay of only a few minutes will take you to a world where you will forget all your stress and pain and just start focusing on the fun and thrill it offers to you.&nbsp;</div><div><br></div><div>Dark Run is a simple 2D endless running game where you will have to control a character with some kind of funny look. Roll up your sleeves and get ready to go on a platform where you will survive only if you will run. Keep running and covering as much distance as possible to improve your points. Make sure to collect the maximum possible coins and avoiding all the obstacles that come on your way. Also take care of the gap between the two platforms.&nbsp;</div><div><br></div><div>Use the arrow key UP to move on, step on your enemy and collect the coins in this free online platform game. An unknown evil is chasing you continuously, so keep running to survive. The obstacles can be in the form of dodging monsters, randomly-generated rooms and other hazards. We are proud to offer more adventure games for boys with some more awesome features and stories. Browse through all games and find out the top games you like the most!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/dad5746a13724179890d62c570e92a27/\r\n",
+      "metaTitle": "Dark run2D,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dark run2D at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Dark run2D Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489364.xml",
+      "idealFor": "Man",
+      "likes": 28,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11167,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:19:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.689Z",
+      "updatedAt": "2024-10-01T17:20:33.225Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO JUMP",
+      "webControlKeys": "SPACE/UP ARROW/ L CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": "2.5",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
