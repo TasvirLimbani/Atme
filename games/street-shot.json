@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be55",
+      "id": 4831,
+      "name": "Street Shot",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "street-shot",
+      "image": "4831",
+      "url": "street-shot",
+      "description": "<div><span style=\"font-size: 13.3333px;\">A wonderful brand new basketball game is available today in front of your eyes to please you for many hours. Would you like to get yourself into it and show off the world that you are the biggest fan of basketball games? Join Street Shot game and be prepared to throw the wall into the hoop and score as many goals as you can! Think twice and try to release the ball at a perfect angle to score the maximum points!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Playing some good shots will definitely help you to discover some amazing bonuses in this one of the best sports games for boys! Click the ball and get ready to swipe the mouse or the screen of your mobile in the direction you want to deliver your shot! Going it higher in the air can help to let the ball go into the hoop perfectly! Keep shooting more shots in a row to obtain more points in the end! You will get the 5 points when the fireball clears through the hoop.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Hooping the purple ball will help you secure some bonus time along with 3 points. Try to be very fast as it is also a time limited game! You can see the final score on the screen when your time completes. Check out more basketball games on atmegame.com and play for free and have fun without download! We keep updating our website, so you can always hope for new basketball or any other sports game.&nbsp;</span></div>",
+      "size": 800,
+      "height": 540,
+      "script": "https://m.shtoss.com/game/street-shot/index.html",
+      "metaTitle": "Street Shot, Basketball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Street Shot at atmegame.com ! We have selected this Basketball games for best excitement and thrill in you!",
+      "metaKeyword": "Street Shot Game, Sports Games, Basketball Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546117752.xml",
+      "idealFor": "Man",
+      "likes": 27,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9730,
+      "ownGame": false,
+      "addDate": "2018-12-30T02:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.742Z",
+      "updatedAt": "2024-10-15T16:53:41.279Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS AND HOLD TO SELECT THE DIRECTION RELESE TO THROW THE BALL",
+      "webControlKeys": "KEEP PRESS AND HOLD L CLICK OF MOUSE TO SELECT THE DIRECTION RELESE TO THROW THE BALL"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
