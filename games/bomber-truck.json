@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c35f",
+      "id": 6329,
+      "name": "Bomber Truck",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "bomber-truck",
+      "image": "6329",
+      "url": "bomber-truck",
+      "description": "<div>Racing freaks cannot stop them from browsing the latest fun speed challenges! Today we have got you covered with a brand new racing game where you do not need to focus on speed, but controlling the balance of your chosen vehicle can make you a winner. Will you try out your hands in this unique and thrilling race game? Join Bomber Truck and be prepared to guide a truck that has to transport bombs to a destination! Many deadly obstacles are waiting for you on the way.</div><div><br></div><div>You have to drive your chosen truck on a terrain that looks very hard and features a rough texture. It requires putting your insane driving and focus abilities to the test to achieve your aim in this HTML5 truck game. Use the accelerator when to move it forward and do not forget to apply the brake to balance your truck! Make sure not to drop the bomb it carries out. Complete your task before the time runs out!</div><div><br></div><div>Remember a time frame is set for each level so you have to get the job done before it passes out otherwise you will lose your game. Track your score by having a look at the top middle portion of the screen in this cool truck driving simulator! Challenge your insane driving skills to survive for as long as possible and create your own new best score! Our site covers plenty of fun-filled and entertaining free racing games that also help to build up the brain of your kids while improving their cognitive abilities.</div>",
+      "size": 860,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/56333b3e4a314c83b8e19443d6c9810a/\r\n",
+      "metaTitle": "Bomber Truck,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bomber Truck at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Bomber Truck Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579523644.xml",
+      "idealFor": "Man",
+      "likes": 1428,
+      "dislikes": 212,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 431393,
+      "ownGame": false,
+      "addDate": "2020-01-20T18:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-04-30T00:47:09.431Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONDS TO SPEED AND BREAK, LEFT ICONS TO BALANCE",
+      "webControlKeys": "UP ARROW TO SPEED L-R ARROW TO BALANCE,"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 157
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
