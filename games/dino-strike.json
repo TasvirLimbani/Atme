@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af65",
+      "id": 595,
+      "name": "Dino Strike",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "dino-strike",
+      "image": "595",
+      "url": "dino-strike",
+      "description": "<div>Yet another most popular action and <a href=\"http://www.atmegame.com/online-fighting-games\" title=\"Online Fighting Games\" target=\"\"><font color=\"#0033cc\">fighting game</font></a> are Dino Strike. In this famous free online game, your job is to wipe the street off all the evil thugs and fraud henchmen. But, do not forget, many of these are the armed and really tricky thing to finish. Further, you face in this action game armored dinosaurs; in order to set them free, you must fight with these devils.</div><div><br></div><div>You need to save the bionic dinosaurs, which are controlled by devilish henchmen while you clear the street off these fraudsters. This latest free game is a pure action game for boys, which is a race for survival. You go blasting jungles filled with prehistoric beasts that are out there to finish your life. The proactive and dangerous dinosaurs stalk you at every nook and corner of the street. It is not them, but you who are challenged with the question of survival. Kill them if you want to survive in this <a href=\"http://www.atmegame.com\" title=\"Flash Games\" target=\"\"><font color=\"#0033cc\">browser game</font></a>!</div><div><br></div><div>Play this best free online game that is featured with a vast variety of weapons, such as a shotgun, machine gun, and crossbow. You must be aware of the ferocious species of dinosaurs that are there to wipe out your existence like Ankylosaurus, Dilophosaurus, Raptor, Tyrannosaurus Rex, and Pterodactyl. Get into this cool online game in single wield mode. If you want to double up your firepower, then you can also turn into dual wield mode.</div><div><br></div><div><b>Game Instructions:</b></div><div>WASD - Move</div><div>&nbsp;J - Attack / Pick up</div><div>&nbsp;K - Jump</div><div>&nbsp;L - Flying attack</div>",
+      "size": 590,
+      "height": 380,
+      "script": "<!-- Place this code where you'd like the game to appear -->\r\n<div class=\"miniclip-game-embed\" data-game-name=\"dino-strike\" data-theme=\"5\" data-width=\"590\" data-height=\"380\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/dino-strike/\">Play Dino Strike</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/dino-strike/\" target=\"_blank\">Play Dino Strike</a> / More <a href=\"https://www.miniclip.com/games/genre-13/\" target=\"_blank\">Action games</a></p>\r\n\r\n<!-- Insert this code before your </body> tag -->\r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "Dino Strike, Fighting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dino Strike at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "fighting games free, action game,  action games free,  fighting games online, Dino Strike",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 41,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 16195,
+      "ownGame": false,
+      "addDate": "2017-09-10T18:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.670Z",
+      "updatedAt": "2025-06-04T02:49:55.519Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT FOUND"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 22
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
