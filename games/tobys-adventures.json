@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b327",
+      "id": 1785,
+      "name": "Tobys Adventures",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "tobys-adventures",
+      "image": "1785",
+      "url": "tobys-adventures",
+      "description": "Collect all food and reach the door to finish the level. Break bricks, avoid obstacles and enemies on your way.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/ff2c87ddcef044a9b64759238d5b7e1b/\r\n",
+      "metaTitle": "Tobys Adventures, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tobys Adventures at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Tobys Adventures Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629580.xml",
+      "idealFor": "Man",
+      "likes": 25,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 11088,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.696Z",
+      "updatedAt": "2024-03-17T21:44:59.967Z",
+      "__v": 0,
+      "mobileControlKeys": "L-ICONS TO L-R -MOVE, R-ICONS TO JUMP",
+      "webControlKeys": "L-R ARROWS TO MOVE L-R, X-JUMP"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
