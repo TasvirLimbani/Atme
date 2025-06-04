@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb5f",
+      "id": 4065,
+      "name": "Kung Fruit Fighting",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "kung-fruit-fighting",
+      "image": "4065",
+      "url": "kung-fruit-fighting",
+      "description": "<div>There is hardly a one who does not like the legendry art of kung fu. We have got you covered with a brand new action game where you have to chop fruits using a sharp katana. Hey friends! Do not underestimate your power as you are a leader of an ancient clan. Being the blue vegetable masters of kung fu, you know how to handle your rival. This time the clan of red fruits is standing against you. Try to chop every rival you see on the screen while avoiding your fellow vegetables!</div><div><br></div><div>You have to put your sharp reflexes and ability to identify your friend and foe to the test in this HTML5 fighting game. Chop all the fruits with the help of your sharp sword! It is up to you how bravely you fight to help the blue vegetables clan to be alive till the end. Cut the red fruits by sliding your cursor when you play it on your desktop or sliding on the screen if you try it in your mobile phone!</div><div><br></div><div>Make sure to guess which fruit or vegetable is hidden behind the shadow. With every successful cut, you would be able to hear a distinctive sound like a whistle. Fight hard and destroy all your enemies to the core in this cool fruit cutting game! Cut the required number of enemies to move the next level! Get ready to face off the increased number of fruits in the advanced level! Good luck to cut the maximum number of fruits to complete each level with the best star rating in the survival mode! Play more free action-packed challenges and have fun online without download!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/7273ba78fc2c4851b2c571d8dcbde2e4/\r\n",
+      "metaTitle": "Kung Fruit Fighting,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Kung Fruit Fighting at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Kung Fruit Fighting Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 16,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8420,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-08-11T01:59:48.830Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO CUT THE FRUITS",
+      "webControlKeys": "L CLICK AND SWIPE TO CUT THE FRUITS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
