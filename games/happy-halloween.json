@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c41e",
+      "id": 6542,
+      "name": "Happy Halloween",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "happy-halloween",
+      "image": "6542",
+      "url": "happy-halloween",
+      "description": "<div>Halloween is the special night when most of your family members, friend and neighbors get dressed up with some scary and spooky outfits! You can have a great fun while seeing neighborhood ghost, goblins and ghouls. However, today we have brought to you a brand new arcade challenge where you can celebrate the spirit of your favourite festival in a different way. Join Happy Halloween and be prepared to match of the two same pictures to clear the level!<br><br></div><div>This amazing HTML5 puzzle challenge is backed by lovely music, easy controls and seamless gameplay. You are sure to keep you entertained for hours when you plan to try it out in your device. Use your logical mind and memory skills to solve all 18 puzzles and give yourself a memorable fun treat during this festive season! Your objective is to click on similar images to remove them from the board. A pile of removed images will be seen at the middle right area of the screen.</div><div><br></div><div>The left portion of the screen will show you time, achievements, and level you are presently in. Try to complete each puzzle within the shortest time possible to grab the maximum possible stars in the end! The number of similar images will keep increasing as you progress in the game. Good luck to match all the similar images and clear all the puzzles as fast as you can in this free online Halloween game! Our website features multiple Halloween theme-based games that are playable on different devices. All the best to have fun without download!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://games.atmegame.com/games/happy-halloween/",
+      "metaTitle": "Happy Halloween Game, Puzzle - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Happy Halloween at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Happy Halloween, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 907,
+      "dislikes": 205,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 153366,
+      "ownGame": true,
+      "addDate": "2020-10-27T12:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-17T15:58:43.738Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON CARDS AND TRY TO MAKE SAME MATCH",
+      "webControlKeys": "CLICK ON CARDS AND TRY TO MAKE SAME MATCH"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 75
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
