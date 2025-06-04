@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb8b",
+      "id": 4110,
+      "name": "Soccer Physics 2",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "soccer-physics-2",
+      "image": "4110",
+      "url": "soccer-physics-2",
+      "description": "<div>Another popular soccer tournament has just begun and you have already challenged some big players who are remembered for some weirdest physical responses! All the legend players have gathered at the soccer field and they all are waiting for your entry. Would you think that you should join this super match and challenge these weird soccer players? Join Soccer Physics 2 and be prepared to beat some good teams in this worldwide popular football physics league! Guide your team and prove yourself as a great player on the field!</div><div><br></div><div>In this one of the best soccer games for boys, you have to challenge your hand-eye coordination, sharp reflexes and football skills. Play against computer or invite your friends to practice your intense soccer abilities! Make a proper strategy and complete multiple goals against your opponents to wear a tag of a winner!&nbsp; It is up to you whether you want to challenge a computer-controlled team or choose to play against your friends with the help of dual keyboard controls.</div><div><br></div><div>There are two players in each team and you have to focus on how to kick the ball timely and at a perfect angle to score a goal in the net of your opponent. Do not bother you fail initially as it takes time to become a master of the physics. Win games, collect coins, and get ready to buy cool new soccer ball models to have fun when you progress! Show off your powerful soccer skills to rule the pitch in this two-player football challenge! There are two game modes including 1 player and 2 player, purchase new ball models and a random team after each goal to choose from.</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/fe3f8292a35f469eaf8dec9d0268143f/\r\n",
+      "metaTitle": "Soccer Physics 2 Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Soccer Physics 2 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Soccer Physics 2 Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543226685.xml",
+      "idealFor": "Man",
+      "likes": 53,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 18013,
+      "ownGame": false,
+      "addDate": "2018-11-26T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.732Z",
+      "updatedAt": "2025-04-09T22:56:41.164Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "A,D L-R ARROWS TO PLAY "
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
