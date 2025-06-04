@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb3e",
+      "id": 4031,
+      "name": "Rocking Wheels",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "rocking-wheels",
+      "image": "4031",
+      "url": "rocking-wheels",
+      "description": "<div>Wow! Itâ€™s amazing to be a part of an amazing car racing puzzle! This time you are going to take up a charge of guiding a bus in which a rock band wants to travel. It looks that this rock band has planned to hold a carnival in a bus. However, the problem is that their path is full of deadly obstacles. Would you be able to help them to reach safely at their destination? Join Rocking Wheels and be prepared to control a bus of a popular rock band and make them reach timely without disappointing their fans!</div><div><br></div><div>Try to be in a hurry as they have to reach to their destination point before the time expires! Put your fingers on your mouse or tap the screen to maintain its balance and drive it quickly! Do not forget to collect the coins as you can purchase new car models and upradge your max speed, acceleration and Nitro power with the help of these coins. Travel across different and challenging 30 stops of your tour and discover new fun opportunities in this HTML5 car game!</div><div><br></div><div>Use your driving abilities to race your car down the hills and keep your eyes on the coins and power-ups! Follow the same technique to win race in all the levels of this cool uphill driving game! Track your location through the mini-map shown on the top left corner of the screen! You can also know how much time is left by looking at the top middle portion of the screen and how much coins you have scored as of now by looking at the middle bottom portion of the screen.</div>",
+      "size": 1360,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/babc20ffc9bc4da68e7c4ba9afcedbf7/\r\n",
+      "metaTitle": "Rocking Wheels, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Rocking Wheels at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Rocking Wheels Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951839.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9135,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:13:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2024-03-01T08:21:32.440Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICON TO SPEED ,L ICON TO BREAK",
+      "webControlKeys": "ALL ARROWS TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
