@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4df",
+      "id": 2263,
+      "name": "Knife Shooter",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "knife-shooter",
+      "image": "2263",
+      "url": "knife-shooter",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is time to train your reflexes and give you some matchless hours of fun and entertainment! Join Knife Shooter and be prepared to challenge your reaction time in an environment you have never seen before! Your objective in this brand new action game is to shoot a knife to a target. The closer you hit to the middle portion the better compliment you receive after each of your effort. Oh! It sounds easy to handle, but hard to master since things start moving further.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your knife is constantly moving horizontally and you have to aim your target wisely to get a perfect shot. Take your time since there is no time limitation and make sure to click or tap the screen when you find that your knife is straight under the target. Yes, challenges will get harder when the target also starts moving. Think as many times as you can to get a proper shot and set your highest score possible in this HTML5 shooting game!</span></div><div><span style=\"font-size: 13.3333px;\">The problem is that you will be thrown out of the game if you miss even a single time. Be careful and try to avoid hitting the blades or the spikes in this time reaction game! Time your move, target wisely and allow yourself to become a knife throwing pro! This addictive hitting knife throwing game features clean minimalist graphics, simple control, amazing tapping gameplay, different types of blades, and score system. Good luck to hit your target for as long as you can to create your new best high score!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/853477bb675d4295bab5145757864c41/\r\n",
+      "metaTitle": "Knife Shooter, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Knife Shooter at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Knife Shooter Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524805189.xml",
+      "idealFor": "Man",
+      "likes": 47,
+      "dislikes": 8,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 31466,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2025-05-21T19:01:12.968Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO SHOOT THE KNIFE",
+      "webControlKeys": "L-CLICK OF MOUSE TO SHOOT"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
