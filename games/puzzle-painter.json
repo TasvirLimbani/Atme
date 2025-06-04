@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b52e",
+      "id": 2359,
+      "name": "Puzzle Painter",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "puzzle-painter",
+      "image": "2359",
+      "url": "puzzle-painter",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Many kids always love playing with colours and painting multiple objects and figures like animal, flower, and bird pictures. However, it also creates a mess especially when kids are not aware of how to use them properly. For all such pretty souls, we have got covered with a brand new arcade challenge where they can practice their colouring and painting skills to the maximum level possible. So, what are you waiting for? Join Puzzle Painter and allow yourself to play with some cool colours and designs!</span></div><div><span style=\"font-size: 13.3333px;\">In this cool free online game, you cannot only practice your colouring skills, but it will also allow you to improve your brain when you solve some tricky puzzles. There are multiple unique and highly addictive levels to play through. You can find out multiple cells where you have to put the colours by following the instructions shown on the screen. Different colours of cells tell which colour should be spread there. Keep your eyes on the pathway and start painting in this HTML5 puzzle game!</span></div><div><span style=\"font-size: 13.3333px;\">Try to complete your level fast to get the maximum possible stars! Try to earn the maximum score in each level and show off the world that you are a true puzzle solver! Our website caters to the wider collection of best arcade games that are free to play online without download. All you need to do is just arrange a device that is compatible with gaming. You can play them in multiple browsers and all latest devices without any unnecessary instructions required.&nbsp;</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/717504a82e7843f1bb62c35bf4b77ba8/\r\n",
+      "metaTitle": "Puzzle Painter, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Puzzle Painter at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Puzzle Painter Game, Action Games, Puzzle  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806916.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 9132,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2024-03-25T21:45:23.363Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO PAINT THE CELLS",
+      "webControlKeys": "L CLICK OF MOUSE TO PAINT THE CELLS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
