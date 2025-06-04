@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b532",
+      "id": 2372,
+      "name": "Kick Ups",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "kick-ups",
+      "image": "2372",
+      "url": "kick-ups",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is time to play with your favourite soccer ball and make some huge records! Do not you think that it is a nice idea to beat your boredom whenever you have some free hours to play online? Join Kick Ups and get ready to perform two things at one time i.e. practice your favourite sport while having the quality fun time without spending nothing from your pocket! Choose any mode between the two options and gear up to enter the cool soccer match fun!</span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this brand new sports game is help your player keep the ball in the air. Challenge your insane soccer playing skills not to let the ball hit the ground and make some big records! In the Normal mode, you have to kick the ball as many times as you can. While, your objective will remain the same in the Challenge mode, but you have to do it against the increased gravity. Your high score will depend upon how long you will be able to keep the ball in the air.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You will lose the game immediately if your ball touches the ground in this HTML5 soccer game. Play wisely and try to master both the modes and prove the world that you are a real soccer champion! Good luck to play like a pro in each mode to top the leaderboards and unlock some cool skins for your ball and unlock other achievements! Let us see how long your ball stays in the air. Check out our wider collection of free football games on atmegame.com to find more suitable titles!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/03e6553ee0694c2da0f9b2f1874cbd2b/\r\n",
+      "metaTitle": "Kick Ups, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Kick Ups at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Kick Ups Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524808723.xml",
+      "idealFor": "Man",
+      "likes": 40,
+      "dislikes": 9,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 15456,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2025-02-11T20:57:24.210Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO PLAY",
+      "webControlKeys": "L CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
