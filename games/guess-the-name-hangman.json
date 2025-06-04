@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd17",
+      "id": 4511,
+      "name": "Guess the Name Hangman",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "guess-the-name-hangman",
+      "image": "4511",
+      "url": "guess-the-name-hangman",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Do you think that you are good in guessing the names? Here we have come up with a brand new arcade game where you will be allowed to guess different commonly used names. Try to be careful as your every wrong answer will take your character close to the death! Promoting your kid to these kinds of arcade challenges will help your kids to improve their knowledge and build their brain power. Think twice before filling up every alphabet as there is no limit!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">However, you have only a few limited moves to use in this html5 name guessing game. Use your good knowledge about the names to reply correctly every time! This will also help your character to enjoy his life without being hanged. Do not forget to click the submit button once you finalize an alphabet. Track all the used letters on the middle right of the screen and your performance by having a look at the above of the alphabet search bar! Put your eyes on the left middle area to see the status of your character!</span></div><div><span style=\"font-size: 13.3333px;\">Your every correction answer will ensure you get 1 point. Keep answering more and more names to get your name on the top of the leaderboard! Be alert and keep your eyes on the screen to see how your character is coming closely to the death! In case of feeling bread, feel free to play more word games and try out the one that fits into your interest. Attempting such puzzle challenges will be a nice alternative for your kids to improve your vocabulary on a particular section. Enjoy top skill games online on PCs, mobile phones and tablets!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/8ef67ed295b743d781e2bbea6343cce3/\n",
+      "metaTitle": "Guess the Name Hangman, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Guess the Name Hangman at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Guess the Name Hangman Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527121.xml",
+      "idealFor": "All",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9671,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-02-23T09:20:26.639Z",
+      "__v": 0,
+      "mobileControlKeys": "TYPE THE LETTER AND SUBMIT TO FIND THE CORRECT WORD",
+      "webControlKeys": "GUESS THE CORRECT WORD AND TYPE TO FIND THE CORRECT ANSWER"
+    },
+    "rating": {
+      "rating": "0.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
