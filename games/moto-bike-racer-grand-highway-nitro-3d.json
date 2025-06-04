@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad78",
+  "category_name": "bike",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad78",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b5bd",
+      "id": 2529,
+      "name": "Moto Bike Racer Grand Highway Nitro 3D",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "moto-bike-racer-grand-highway-nitro-3d",
+      "image": "2529",
+      "url": "moto-bike-racer-grand-highway-nitro-3d",
+      "description": "\n<p class=\"text_desc\">\nMoto Bike Racer Grand Highway Nitro 3D is free online racing game in which you have to drive a sport bike through a highway filled with multiple challenges. With thrilling gameplay and stunning graphics, all you need to do is just get yourself ready for the ultimate racing experience.\n</p>\n<h4>\nKey Features:\n</h4>\n\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\"><li><b>\nIntense High-Speed Racing:</b>\nAre you ready to feel the rush as you are going here to blaze through the highway on your lightning-fast motorcycle? Dodge traffic, navigate sharp turns, and do not forget to push your bike to its limits as you only seek for the victory in different heart-pounding races. \n</li><li><b>\nMaster Challenging Missions:</b>\nThere is a variety of challenging game missions to check out. Get yourself ready to test your racing skills and reflexes throughout these missions. From time trials to obstacle courses, each mission comes up with a new kind of challenge to overcome. Outrace your opponents and complete the challenges to prove yourself as the best moto rider in the world.\n</li><li><b>\nImmersive Graphics and Realistic Racing:\n</b>It will be amazing to experience the thrill of high-octane racing with extremely impressive graphics and realistic gameplay as well. From the roar of the engine to the sensation of speed, this HTML5 motorbike game delivers an immersive racing experience that will keep you coming back for more.</li></ul></p>\n\n<p class=\"text_desc\">\nSo, what are you waiting for? Rev your engines right now, hit the throttle, and race your way to victory in Moto Bike Racer Grand Highway Nitro 3D! \n</p>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/moto-bike-racer-grand-highway-nitro-3d/index.php",
+      "metaTitle": "Moto Bike Racer Grand Highway Nitro 3D,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Moto Bike Racer Grand Highway Nitro 3D at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Moto Bike Racer Grand Highway Nitro 3D Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9368,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.711Z",
+      "updatedAt": "2024-07-10T09:49:09.533Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "SPACE- SHUNT, W,A,S,D ALL ARROWS- MOVE"
+    },
+    "rating": {
+      "rating": "4.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad78",
+      "name": "bike",
+      "slug": "bike",
+      "icon": "bike-racingtennis-games"
+    }
+  }
+}
