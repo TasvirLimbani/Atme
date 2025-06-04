@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2a9",
+      "id": 6100,
+      "name": "Great Air Battles",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "great-air-battles",
+      "image": "6100",
+      "url": "great-air-battles",
+      "description": "<div>Handing an aeroplane in a distance high in the sky is a dream of many a young person. Today we have got you covered with a brand new action game where you have to operate an aeroplane and help it to fly high in the sky. Wow! It is just like making your dream come true. So why need to waste your time? Join Great Air Battles and be prepared to control a lovely plane in a sky that is full of enemy planes and other obstacles!</div><div><br></div><div>In this one of the best HTML5 shooting challenge, you do not have to control the plane only, but you also have to take care of collecting the fuel, missiles, ammunition, life, stars and various other improvements. Make sure that you also focus on destroying your enemy fighter and aircraft to boost your score. Also, collect the watch to increase your time in the gameplay. The longer you stay the higher score you hit on the screen in the end.</div><div><br></div><div>It is important for you to save every millisecond to stay alive and check if your pilot is ready to fly your plane further. Put your fingers on your mouse or tap the screen to make your way through the dangerous enemy ranks, as well as snag the supply drops for points! Dip left and right to protect your plane and do not forget to cut through as many enemies as possible to set your new best score. This airplane shooting game features simple controls and seamless gameplay followed by colorful graphics and an interesting story. Good luck to hop in the cockpit and have a wonderful plane flying experience in our other free flying games for boys!</div>",
+      "size": 478,
+      "height": 850,
+      "script": "https://games.atmegame.com/games/great-air-battles/",
+      "metaTitle": "Great Air Battles, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Great Air Battles at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Great Air Battles Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1569442796.xml",
+      "idealFor": "Man",
+      "likes": 135,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 40134,
+      "ownGame": true,
+      "addDate": "2019-09-26T01:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.761Z",
+      "updatedAt": "2024-08-25T08:40:39.251Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO ARRAANGE THE BOATS AND HIT",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO AARANGE THE BOATS AND SHOOT"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
