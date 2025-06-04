@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad75",
+  "category_name": "bicycle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad75",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae96",
+      "id": 200,
+      "name": "Fruit Bazaar",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "fruit-bazaar",
+      "image": "200",
+      "url": "fruit-bazaar",
+      "description": "When playing the bicycle racing game online the fruit bazaar is entirely a different game that has online racing games environment as well as act of balancing incorporated within the game. In the racing game online in the game fruit bazaar you as an owner of the orchard has to collect fruits while riding on your bicycle and then to deliver at the food processing factory. <br><br>In this multi level game at each level the quantity of the fruits keep on changing that you take on to the factory. For around six levels of the game you as a supervisor will have to deliver fruits to the factory. However, after level six it becomes the responsibility of the labourers pointed out by you to execute your orders and bring the results promptly and in an actionable manner.<br><br>As the terrain is too rough there, hence, balancing act is very necessary to collect the fruits and that has to be in timely manner otherwise too much of time taking process could backfire you as a suspension from the job. In this racing games to play, the fruit type increases along with corresponding game research. <br><br>As the first level of the game it is the 50 oranges are to be collected, whereas in the next level it becomes 20 oranges and 30 mangoes. The number of fruits in this way keeps on adding to the game. The game is being controlled by keyboard commands.",
+      "size": 650,
+      "height": 0,
+      "script": "<object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0\" id=\"g2wgame1\" width=\"650\" height=\"487.5\">\r\n                                <param name=\"movie\" value=\"https://static.inviziads.com/games/arcade-games/fruit_bazaar.swf;\"></param>\r\n                                <param name=\"quality\" value=\"high\"></param>\r\n                                <param name=\"menu\" value=\"false\"></param>\r\n                                <param name=\"allowScriptAccess\" value=\"always\"></param>\r\n                                <embed quality=\"high\" pluginspage=\"https://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" menu=\"false\" src=\"https://static.inviziads.com/games/arcade-games/fruit_bazaar.swf\" height=\"487.5\" width=\"650\" allowScriptAccess=\"always\"></embed></object>",
+      "metaTitle": "Fruit Bazaar, Bicycle Racing Games - Play Online Free : Atmegame",
+      "metaDesc": "Play the game of absolute bicycle balancing act in Fruit Bazaar, the bicycle racing game to carry the fruits in processing house in time.",
+      "metaKeyword": "cycle games, cycle online, cycle racing games, bicycle games, Fruit Bazaar",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 111,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12634,
+      "ownGame": false,
+      "addDate": "2016-07-05T08:43:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.665Z",
+      "updatedAt": "2024-03-21T01:03:47.468Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 14
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad75",
+      "name": "bicycle",
+      "slug": "bicycle",
+      "icon": "bicycle-racing-games"
+    }
+  }
+}
