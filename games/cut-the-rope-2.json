@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aef2",
+      "id": 465,
+      "name": "Cut The Rope 2",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "cut-the-rope-2",
+      "image": "465",
+      "url": "cut-the-rope-2",
+      "description": "<div>Cut the Rope 2 is a highly popular puzzle game for the original digital candy enthusiasts. This challenging free online game brings unique challenges and unexpected hindrances to the candy crunching phenomenon that as of now has surprised the millions of players all across the world.With several latest and interesting characters, fresh and exciting gameplay elements as well as tricky missions, collecting candy has always been a fun for online gamers!</div><div><br></div><div>The very cute and smart cute candy makes a powerful comeback in this cool free online game. Your goal is to cut the ropes that are connected with the candies and let the candy fall right into the Om Nom mouth ? your cute frog. In order to move to the advanced levels of this popular flash game, you need to gather all the stars on every level. In this physics puzzle game, you have given a chance to complete hundreds of levels and tasty candies to devour.?</div><div><br></div><div>You will surely enjoy and have great fun when you play this latest arcade game and help Om Nomoto become the happiest frog in this world full of dangers and sorrows.? This exciting and electrifying puzzle game features 300 levels with more than 300 candies available for Om Nom to consume. Collect all the possible money through which you can purchase power-ups, hints and customize your cute lovely frog. Good luck with the best gameplay!</div>",
+      "size": 550,
+      "height": 363,
+      "script": "https://games.gamepix.com/play/40214?sid=110996",
+      "metaTitle": "Cut The Rope 2, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cut The Rope 2 at atmegame.com ! We have selected this Puzzle  games for best excitement and thrill in you!",
+      "metaKeyword": "Cut The Rope 2, Arcade, Puzzle Games, Cut The Rope 2 Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 274,
+      "dislikes": 41,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 23783,
+      "ownGame": false,
+      "addDate": "2017-07-17T11:20:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.667Z",
+      "updatedAt": "2025-02-08T22:17:15.373Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO CUT THE ROPE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND SWIPE TO CUT THE ROPE"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 26
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
