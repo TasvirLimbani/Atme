@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bbc2",
+      "id": 4167,
+      "name": "Airplane Memory Challenge",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "airplane-memory-challenge",
+      "image": "4167",
+      "url": "airplane-memory-challenge",
+      "description": "<div>A fresh and improved memory can be a good sign of a healthy person. However, it weakens with the passing age. Today we have brought to you a brand new arcade challenge where you can boost your memory while having the quality fun. Do you want to try it out to improve your memory? Join Airplane Memory Challenge and be prepared to challenge your memory skills while playing with the images of your favorite airplanes! The best part is that playing this cool plane puzzle costs you nothing, but your little time.</div><div><br></div><div>When you play this cool HTML5 puzzle game, you would have four modes including easy, medium, hard and expert to choose from. Select any mode out of the four and get ready to click the cards shown with the picture of the question mark! Just click them one by one to find out the two matching images! Your objective in this awesome memory game is to match every 2 pictures of the same images. Take as few moves as possible to finish each level with the maximum possible score!</div><div><br></div><div>You would have more images to open up in the advanced mode as compared to the ones given in the beginner ones. Memorize all the airplane images as fast as you can in each level to score the highest score in the end of this brain teasing game! You can stay connected with us to find new arcade puzzle challenges as we keep updating our game page time to time. Good luck to find the one that fits into your gaming needs in the optimum way possible!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/95da4897af394ecda7f2658ef7edd309/\r\n",
+      "metaTitle": "Airplane Memory Challenge Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Airplane Memory Challenge at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Airplane Memory Challenge Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543658660.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6776,
+      "ownGame": false,
+      "addDate": "2018-12-01T15:34:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.733Z",
+      "updatedAt": "2023-08-16T08:04:06.875Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CARDS TO MAKE THE MATCH",
+      "webControlKeys": "L CLICK ON THE CARDS AND MAKE THE MATCH"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
