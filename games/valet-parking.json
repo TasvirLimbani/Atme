@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd5a",
+      "id": 4578,
+      "name": "Valet Parking",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "valet-parking",
+      "image": "4578",
+      "url": "valet-parking",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Wow! We are happy to introduce you to a brand new car racing game where you will get a chance to polish your parking abilities. Are you ready to take on this challenge? Join Valet Parking game and be prepared to be a part of the biggest car parking simulator! It will be amazing to try out this uniquely designed car game where you have to put your quick reflexes and precision to the test to clear all easy and complex levels.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">We can understand that it is easy to start this fun challenge but looks pretty difficult to become the master of it. All you need to do is just park your vehicle in a perfect shot to complete each level with 3 stars rating. Make sure to avoid bumping into other vehicles and objects to stay in the game till the end. Take your seat and put on your all safety gears and enter this cool html5 racing game with a full confidence!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You have to park a number of vehicles in at each level. So, do not stop until you park all the vehicles at their defined places. Give this car game a try to play the role of a valet! Do your best to steer each car into the correct parking spot without crashing! Each crashing will cost you some money from your pocket and finally you would out of the game after a few crashes. Your every successful effort will reward you with some enough points. Drive multiple cool cars in this latest car challenge!&nbsp;</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/3795845d6ad141f7a9a36979af9b4718/\r\n",
+      "metaTitle": "Valet Parking, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Valet Parking at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Valet Parking Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527483.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 10591,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2024-03-05T22:57:21.263Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS TO MOVE, L ICONS TO L-R",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE THE CAR"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
