@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad85",
+  "category_name": "mobile",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c415",
+      "id": 6533,
+      "name": "Zoo Run",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "zoo-run",
+      "image": "6533",
+      "url": "zoo-Run",
+      "description": "<div>Do you consider yourself as the biggest adventurer? If yes, it is time to test your skills in this brand new arcade-adventure challenge. You have entered a dangerous world mistakenly and the only way to keep you safe and alive is avoid the obstacles and collect the money. Do you think that you can handle this job perfectly? Join Zoo Run and be prepared to guide your animal stay in this adventurous place for as long as possible!</div><div><br></div><div>Collect all of the coins you see on the way and try to avoid all the deadly roadblocks to keep your character alive in this endless isometric runner game! You would have multiple cute animals to unlock so give your best to grab as much money as you can. Different kinds of obstacles will be seen coming along the continuous running track. Your objective is to help your character jump timely to avoid them and stay for long.</div><div><br></div><div>Sometimes you have to jump your character while the other time leave it to pass through the hurdle to grab your points. Do not forget to jump up to add the bonus points to your final score. Let us see how far you can go on the infinite track! Good luck to earn the maximum number of points to unlock different cute animals! Our website is full of cool arcade games that you can play online for free without download. All the best to have a blast with your friends!!</div>",
+      "size": 450,
+      "height": 800,
+      "script": "https://games.atmegame.com/games/zoo-run/",
+      "metaTitle": "Zoo Run Game, Arcade - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Zoo Run at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Zoo Run, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 200,
+      "dislikes": 15,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 45914,
+      "ownGame": true,
+      "addDate": "2020-07-19T13:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-01-29T06:19:08.420Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCREEN TO JUMP",
+      "webControlKeys": "LEFT CLICK TO JUMP"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 12
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
