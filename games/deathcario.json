@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b376",
+      "id": 1877,
+      "name": "DeathCario",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "deathcario",
+      "image": "1877",
+      "url": "deathcario",
+      "description": "<div>DeathCar.io is a fabulous death match car killing game where you will you have to survive by killing others and damaging the other cars. Make sure that you hit them from behind or sides. Your timely and wisely boost will definitely help to perform good in this highly challenging free online car racing game. This is a dynamic free online MMO game, also known as Massively Multiplayer Online, which features seamless gameplay, dynamic graphics and fantabulous audio and video effects. Show your driving skills and crush other cars in this brand new car racing game for boys and girls.&nbsp;</div><div><br></div><div>It will be exciting to drive and fight against other popular online players from all over the world. Click the mouse to boost up the speed of your vehicle shortly. However, using it smartly can keep you moving forward impressively. The proper usage of mouse will help to direct your car, pressing the right click will trigger to apply brakes and pressing left click will assist you to boost your speed. The strategy of this cool car racing game is to keep your eyes on the map and see other players moving. Be smart and plan your attack wisely in order to earn maximum points.&nbsp;</div><div><br></div><div>There is also a speed engine to be used.&nbsp; You can protect your car from hitting by turning your move instantly. Wreck all of your opponent vehicles before they come to you and start doing the same thing to you. Let make proper use of the simple and easy controls and let the world show that you are a best driver in the town. Play safe and have fun in this awesome kids racing game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/6ea87abc31684c18905b9533e7e37be0/\r\n",
+      "metaTitle": "DeathCario, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game DeathCario at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "DeathCario Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 41,
+      "dislikes": 12,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 12055,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2025-02-11T20:51:07.756Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE LEFT SIDE OF CAR TO BOOST",
+      "webControlKeys": "KEEP PRESS L-CLICK OF MOUSE TO MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
