@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c08e",
+      "id": 5416,
+      "name": "Desert Driving",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "desert-driving",
+      "image": "5416",
+      "url": "desert-driving",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you ready to drive your car on the desert track? Join Desert Driving game online and get ready to explore the best driving experience in a unique and engaging environment! If you like the rough track under the wheels of your four-wheeler, you will surely love this brand new racing game. The endless hills and desert will be enough to keep you engaged for long. There are 15 unique and highly challenging levels to enjoy in this free online car game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Take your seat on a beautifully-designed car and be prepared to keep your finger on the accelerate until you finish each level! Try not to be crashed with any obstacles you see on the track and reach your destination without dying in this cool html5 car racing game! Do not forget to collect stars and coins so that you can use them to buy new bikes, trucks and cars further! Stick to the screen and try to be a little bit aggressive to enjoy the wonderful racing pleasure on the endless sand, warmth and desert!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The excellent physics and stunning graphics make this car racing simulator racing game a real thrill ride. You will surely recommend it to your friends and family after checking it out only once in your browser. Enjoy this lovely desert driving game, with no install required! Feel free to browse through our more car driving games to take your fun and excitement level to the greatest height! We ensure not to leave our place with empty hands. Good luck to play thousands of games online at a single place without download app!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/9ae28dbfc5bc41ee978b14e6bd3c3719/\r\n",
+      "metaTitle": "Desert Driving,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Desert Driving at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Desert Driving Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552278458.xml",
+      "idealFor": "Man",
+      "likes": 35,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 14568,
+      "ownGame": false,
+      "addDate": "2019-03-11T09:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2024-05-01T14:00:29.590Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICON TO BREAK, RIGHT ICON TO SPEED UP",
+      "webControlKeys": "R ARROW TO SPEED L ARROW TO BREAK"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
