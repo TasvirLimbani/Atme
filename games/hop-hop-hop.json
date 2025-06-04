@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad9b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf5c",
+      "id": 5098,
+      "name": "Hop Hop Hop",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "hop-hop-hop",
+      "image": "5098",
+      "url": "hop-hop-hop",
+      "description": "<div><span style=\"font-size: 13.3333px;\">We have got you covered a brand new adventure online game where you have to control a big-eye monster. Do you think that you are skilled enough to guide him avoid a plenty of obstacles and accomplish his unique flying journey? Join Hop Hop Hop game and get ready to be a part of the biggest fun available online! Your objective is to help your character to jump into the hoops while avoiding the spikes that you see on the screen.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">When you are on this mission, you also have to take care of collecting as many mushrooms and other useful items as you can to unlock multiple new funny characters. You will get 1 point for collecting each mushroom. Secure 2 points if you succeed in jumping into the hoop above and 3 points if you dare to do it from below! Try to put your jumping skills to test to allow your character face off various kinds of obstacles and hop for as long as possible!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">In this funny and cute html5 jumping game, you can unlock the walls only if your character jumps through the hoops perfectly. You will also be rewarded with a diamond if you make a successful hop. Click the left mouse button to make him jump on PC or tap the screen when you are playing it on mobile phone! Do your best to unlock all the walls and get ready to become a hop hero of your city! Good luck to beat all your previous scores and have fun without installing any unnecessary heavy app or software!&nbsp;</span></div>",
+      "size": 540,
+      "height": 960,
+      "script": "https://m.shtoss.com/game/hop-hop-hop/index.html",
+      "metaTitle": "Hop Hop Hop,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Hop Hop Hop at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Hop Hop Hop Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7711,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-08-28T20:43:35.509Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPPING THE OWL TO NOT TO LET HIM FALL AND COLLECT THE DIMONDS",
+      "webControlKeys": "KEEP CLICKING THE OWL TO NOT TO LET HIM FALL AND COLLECT THE DIMONDS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad9b",
+      "name": "jumping",
+      "slug": "jumping",
+      "icon": "icon-iconAsset-47"
+    }
+  }
+}
