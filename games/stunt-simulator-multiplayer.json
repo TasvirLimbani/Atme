@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb14",
+      "id": 3989,
+      "name": "Stunt Simulator Multiplayer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "stunt-simulator-multiplayer",
+      "image": "3989",
+      "url": "stunt-simulator-multiplayer",
+      "description": "<div>Many expert racers are waiting for you on the playground! Where are you waiting my friends? Join Stunt Simulator Multiplayer and be prepared to challenge the players from all over the world! Your objective in this latest racing game is to take your seat behind the steering wheel of your favourite vehicle, show off some crazy stunts, earn some points and become a champion of the racing world. Try only if you have the ability to make some cool tricks, drifts and make jump!</div><div><br></div><div>There are different maps to choose from in this awesome 3D driving simulation game. Grab your car, perform some death-defying drifts and stunts and allow yourself to earn some points for your good work! Do not forget to purchase some new car models with the help of these coins. You would have 10 unique and advanced car models to select before entering the racing ground. The more stunts you do, the higher points you will be able to make during the game. Your every successful stunt will be rewarded for sure.</div><div><br></div><div>Choose any out of two crazy maps to keep you glued to the screen in this one of the best car games for boys! Join a room filled with multiple players from all over the globe or create your own room and get ready to use the gas pedal to ride through multiple loops, huge ramps and much more! Earn enough points to buy cool vehicles and race against other powerful players! Ride like a pro and prove the world that you have the skill to be the best driver in every room! The room is available for maximum 20 players and three different environments to select from.</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/897cbee84e3b4859b620138b310d1012/\r\n",
+      "metaTitle": "Stunt Simulator Multiplayer,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stunt Simulator Multiplayer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stunt Simulator Multiplayer Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 27,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12874,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-10-27T15:41:31.195Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO MOVE, SPACE- BREAK, L SHIFT-BOOST"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
