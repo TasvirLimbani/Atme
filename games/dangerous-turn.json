@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c090",
+      "id": 5418,
+      "name": "Dangerous Turn",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "dangerous-turn",
+      "image": "5418",
+      "url": "dangerous-turn",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is time to do something new on the road apart from being engaged in the traditional car racing games. Today we have got you covered with a brand new car game where you also have to show off some drifting moves to ensure your victory. Only one touch is required to make your way towards setting your own high score. Avoid hitting the roadside to stay for long, otherwise you will be thrown out of the game immediately!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Remember the speed of the game will increase gradually and you might get puzzled how to overcome the hurdles. So, it is important to focus on the screen and put your fingers on your mouse (if you are playing it on PC) or keep your finger on the screen of your mobile phone if you are using your android or Apple phone to enjoy your game. With intuitive controls, 2D colorful graphics, and seamless gameplay, this free mobile game is quite interesting and engaging for games of all ages.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You can play car race game on mobile devices and computers as well. The personalized and high-resolution game features challenging speed difficulties and cool music. Join this casual game and beat your boredom in a friendly-environment for sure! We maintain a huge collection of car mobile games for boys and girls on our free online game website. Play wisely to create the best highscore in this popular car drift game! Good luck to check out more boys games to make the most out of the online gaming world!</span></div>",
+      "size": 500,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/3c91d4406d2845a5aa5e5c2705764ba4/\r\n",
+      "metaTitle": "Dangerous Turn,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dangerous Turn at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Dangerous Turn Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552278458.xml",
+      "idealFor": "Man",
+      "likes": 36,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12561,
+      "ownGame": false,
+      "addDate": "2019-03-11T09:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2025-05-20T05:52:04.661Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON CAR ON TURN TO CONNECT THE DOTS TO GET DIRECTION",
+      "webControlKeys": "L CLICK OF MOUSE ON CAR ON TURN TO CONNECT WITH THE CAR TO GET DIRECTION"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
