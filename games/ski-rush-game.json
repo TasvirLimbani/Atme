@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad63",
+  "category_name": "skating",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad63",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b54f",
+      "id": 2403,
+      "name": "Ski Rush Game",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "ski-rush-game",
+      "image": "2403",
+      "url": "ski-rush-game",
+      "description": "Ski Rush is a HTML5 Sport Game. Ski down the mountain as long as possible avoiding obstacles. Collect flags to increase your score!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/b30b174d3217430581f855ef4c89998b/\r\n",
+      "metaTitle": "Ski Rush Game, Skating Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ski Rush Game at atmegame.com ! We have selected this skating games for best excitement and thrill in you!",
+      "metaKeyword": "Ski Rush Game Game, Sports Games, Skating Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524809617.xml",
+      "idealFor": "Man",
+      "likes": 50,
+      "dislikes": 10,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 16753,
+      "ownGame": false,
+      "addDate": "2018-04-27T11:43:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.707Z",
+      "updatedAt": "2025-05-13T03:05:05.586Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO MOVE L-R",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO MOVE THE SKIER"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad63",
+      "name": "skating",
+      "slug": "skating",
+      "icon": "skating-games"
+    }
+  }
+}
