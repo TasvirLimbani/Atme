@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0f3",
+      "id": 5524,
+      "name": "Knight of Magic",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "knight-of-magic",
+      "image": "5524",
+      "url": "knight-of-magic",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is time to sharpen your shooting skills to the ultimate level. Are you ready, friends? Join Knight of Magic game and get ready to show the world that you are skilled enough to cleanse the world from evil! It will be not easy to fight against the demons. Try to put your divine magical shooting skill to test to vanquish all demons in this brand new magic-physics based puzzle challenge! Your friend knight needs you urgently. Help him to get through all the challenging puzzles and save the princess!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Many evil skeletons and other obstacles are waiting for you. Wave after wave of magical creatures and monsters keeps coming to you. The only way to ensure your win over your enemies is to fight regularly until you finish all of them in this strategic defensive game. A huge horde of bad souls has attacked and captured the village of the bravest knight. All including his friends and family are now under the control of these assailing monsters. Do fast and help knight to defend their all the beloved ones!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to control your aim to hit your target enemies successfully since your character attacks automatically in this free online shooting game! Keep moving forward while avoiding attacks from your enemies! Do not forget to restore your health by collecting the food dropped by some of your defeated enemies! Ask your friends to help you out during the battle! It is your duty to defeat the difficult boss at the end of each stage. Play wisely to collect gems that can help you buy new upgrades like attack power and increased movements speed! Good luck to save his friends and family in this html5 shooter game!</span></div>",
+      "size": 460,
+      "height": 550,
+      "script": "https://html5.gamedistribution.com/73ce11722079447188d525493c04e06f/\r\n",
+      "metaTitle": "Knight of Magic, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Knight of Magic at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Knight of Magic Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453347.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8136,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2024-06-06T01:20:12.316Z",
+      "__v": 0,
+      "mobileControlKeys": "SLIDE AROUND THE SCREEN TO MOVE THEE HERO",
+      "webControlKeys": "LEFTB CLICK OF MOUSE AND KEEP HOLD TO MOVE THE HERO"
+    },
+    "rating": {
+      "rating": "2.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
