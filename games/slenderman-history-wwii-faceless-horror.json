@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b91c",
+      "id": 3447,
+      "name": "Slenderman History WWII Faceless Horror",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "slenderman-history-wwii-faceless-horror",
+      "image": "3447",
+      "url": "slenderman-history-wwii-faceless-horror",
+      "description": "The Nazis have always made great villains and for good reason. During the World War 2 they performed a series of medical experiments on their soldiers, trying to make a super soldier. They even played with the Occult! With powerful ancient artifact they summon the devil himself. His name is Slenderman!!! Infiltrate the Nazi base, find the secret bunker and recover two briefcases with documents about their experiments. Good Luck!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/b031fa484e514804bf56aff8b9b777e2/\r\n",
+      "metaTitle": "Slenderman History WWII Faceless Horror, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Slenderman History WWII Faceless Horror at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Slenderman History WWII Faceless Horror Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536575483.xml",
+      "idealFor": "Man",
+      "likes": 54,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 15579,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-11-03T22:10:42.056Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE,MOUSE - LOOK AROUND,L CLICK- FIRE, R CLICK-AIM,MOUSE WHEEL- CHANGE- WEAPON,R- RELOAD, F- PICK THE ITEMS,L SHIFT- RUN, L CTRL- CRUNCH,X- PRONE, SPACE- JUMP"
+    },
+    "rating": {
+      "rating": "4.8",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
