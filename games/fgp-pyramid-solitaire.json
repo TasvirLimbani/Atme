@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b38c",
+      "id": 1905,
+      "name": "FGP Pyramid Solitaire",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "fgp-pyramid-solitaire",
+      "image": "1905",
+      "url": "fgp-pyramid-solitaire",
+      "description": "<div>FGP Pyramid Solitaire is an easy-to-play and fun-filled arcade game meant to both boys and girls from all age groups. In this free online card game, you will get a chance to experience a classic match of pyramid solitaire. Make sure that you clear as many boards as possible in order to make a victory in this cool html5 game. Are you much capable of making it to the top of this pyramid? Use your logical thinking and try to remove all the cards from the deck in the shortest possible time.&nbsp;</div><div><br></div><div>Your intellectuality and cognitive powers will also be tested when it comes to setting a respected score in this challenging version of the classic game. Make 13 and get ready to have fun in this brand new arcade game. Play it alone or with your friends in your PCs, mobile phones or gaming consoles. We are sure that you will try this brand new card game again and again if you play it at least once. Be focused on the details and try to open your eyes while clearing the cards.&nbsp; &nbsp;&nbsp;</div><div><br></div><div>Make 13 and remove all the cards one by one that you will see in the form of pyramid. Click the Draw button to move the card into the last board in case if you see that you are unable to make 13 and need some other cards to get the job done. Remove all the cards from the pyramid and make a huge score in a limited time. Click the Redeal button if you want to replay it again. Good luck to beat your previous score and create a new one!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/c3d4e42d74c94be0a88d3510f68032a2/\r\n",
+      "metaTitle": "FGP Pyramid Solitaire, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game FGP Pyramid Solitaire at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "FGP Pyramid Solitaire Game, Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630590.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9867,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2024-08-05T16:17:10.441Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON  CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
