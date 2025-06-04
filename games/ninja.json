@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3af",
+      "id": 6429,
+      "name": "Ninja",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "ninja",
+      "image": "6429",
+      "url": "ninja",
+      "description": "<div>Common boys! This small and cute ninja is waiting for you deliberately! Oh no! He has forgot how to save himself from a horde of enemies who are continuously moving towards him. Will you show your helping hands to the needy? Join Ninja game and be prepared to play as a saviour for him! Your objective in this brand new adventure challenge is to protect him from the flying balls that will keep moving towards him continuously. Oops! They are good in number, so be careful.</div><div><br></div><div>Make your character jump, and sit on his knees timely to avoid the obstacles in this HTML5 running game! Do not bother about his movement as he will keep running automatically. He is very hopeful so do not take your steps back until he covers a satisfactory distance over this track. The balls will be coming towards him at different heights so the gameplay will keep you busy for hours. Track your score by looking at the right top corner of the screen anytime during the gameplay!</div><div><br></div><div>Your present and best score will be shown in the middle of the screen once the game finishes. Replay your game in case of being lost as many times as you want! Your good performance will also help you earn some points through which you can upgrade your character to make your game a bit challenging and engaging. Check out some other popular ninja based games on our website and have fun without download with your friends! The best part is all our games are playable for free of cost.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/9c6ea85d46204ab1b6268df0ab4be17f/\r\n",
+      "metaTitle": "Ninja Game, Running - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Ninja at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ninja Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842458.xml",
+      "idealFor": "Man",
+      "likes": 39,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 13779,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:37:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2024-11-01T15:55:30.257Z",
+      "__v": 0,
+      "mobileControlKeys": "SINGLE TAP ON RIGJHTYB ICON TO JUMP,DOUBLE TAP TO JUMP AND ROLL,LEFT ICON TO SLIDE",
+      "webControlKeys": "SINGLE TAP ON RIGHT ICON TO JUMP,DOUBLE TAP TO JUMP AND ROLL,LEFT ICON TO SLIDE"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
