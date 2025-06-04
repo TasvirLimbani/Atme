@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c337",
+      "id": 6263,
+      "name": "Flat Out",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "flat-out",
+      "image": "6263",
+      "url": "flat-out",
+      "description": "<div>The biggest zombie apocalypse has begun today! Where are you guys? The entire world is searching for you as you are the only person who has a car that is skilled to destroy these blood thirsty souls. Join Flat Out and be prepared to drive your chosen vehicle like never before to clear the area from all these dangerous souls! Your jeep has killing spikes on its front side so put your fingers on the accelerator to kill as many zombies as possible in this latest action game.</div><div><br></div><div>Hurry up, friends! Most people have already turned into deadly zombies. And, these bad souls are also searching for you to kill. Be careful and try to finish the bad souls and help your people enjoy a tension-free life again in this HTML5 zombie game! Make sure to put your vehicles on the road to stay in the game. You will lose your game if your car hits the obstacles and sides of the road too many times.</div><div><br></div><div>This cool adrenaline-filled car racing game includes easy controls, innovative gameplay mechanics, spectacular effects and graphics and explosive physics. In case of getting bored, feel free to try out other free zombie games to enter yourself into the stunning action-packed challenge. The good news is that our all games are playable on latest browsers and game devices without download so you do not need to download any specific software and app to enjoy them. Good luck to have fun, unlimited!</div>",
+      "size": 420,
+      "height": 743,
+      "script": "https://html5.gamedistribution.com/815934a623784dc98e86936a7c7d9323/\r\n",
+      "metaTitle": "Flat Out Game, Zombie  - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Flat Out at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Flat Out Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579515784.xml",
+      "idealFor": "Man",
+      "likes": 61,
+      "dislikes": 9,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 80718,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:53:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-02-24T06:50:40.189Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "LEFT CLICK OF MOUSE TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
