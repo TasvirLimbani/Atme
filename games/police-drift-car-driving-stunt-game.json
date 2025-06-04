@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c384",
+      "id": 6383,
+      "name": "Police Drift Car Driving Stunt Game",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "police-drift-car-driving-stunt-game",
+      "image": "6383",
+      "url": "police-drift-car-driving-stunt-game",
+      "description": "<div>Hey boys! Again you have got a chance to play the role of a police office in this brand new racing game! We are pretty sure that you would not like to miss out this opportunity especially if you had a big dream of becoming a police. So what are you waiting for guys? Join Police Drift Car Driving Stunt and be prepared to roam around the city in your chosen police car! Huh! Nobody is there to stop you from doing whatever you want to do!</div><div><br></div><div>Grab your car and get ready to drive it as fast as you can while drifting through the city like never before! Yes, you would also have the freedom to perform some jaw-dropping stunts that are new to you in this HTML5 car game. Complete tasks, and earn points to unlock multiple splendid and advanced police car models! You will have only one car unlocked at the initial level. Keep doing the thrilling drifting and stunts to earn money to unlock all the cars!</div><div><br></div><div>The best part is that you would have the amazing car customization possibilities for the players here in this 3D car driving simulator. Drive your vehicle as fast as you can and perform some death-defying stunts and drifts while floating in the city! Challenge your insane driving abilities to unlock new cars and create your best high score! This police car driving and stunt simulation game features high-quality vehicles, realistic drifting physics, dynamic camera angles, full customization for police cop cars and easy to play driving controls. Good luck to enjoy an immersive racing experience with your friends!</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/7dc4baecd1f446cea5dd0b866e2d0c12/\r\n",
+      "metaTitle": "Police Drift Car Driving Stunt Game - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Police Drift Car Driving Stunt Game at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Police Drift Car Driving Stunt Game Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842334.xml",
+      "idealFor": "Man",
+      "likes": 68,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 13635,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.764Z",
+      "updatedAt": "2025-02-24T17:54:12.145Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,UP ARROW TO SPEED, A,D L-R ARROW TO L-R,SPACE TO STOP,S,DOWN ARROW TO BACK"
+    },
+    "rating": {
+      "rating": "2.9",
+      "count": 12
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
