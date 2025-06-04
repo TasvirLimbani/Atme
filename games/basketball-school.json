@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad67",
+  "category_name": "basketball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad67",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b60e",
+      "id": 2612,
+      "name": "Basketball School",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "basketball-school",
+      "image": "2612",
+      "url": "basketball-school",
+      "description": "<div>A new basketball school is just going to be opened in your nearby area. Everyone wants to join this course – be it a newcomer or a professional or both groups. This could be a wonderful opportunity to learn various things after getting yourself enrolled into it. Apart from learning, you are also sure to have a lot of fun during these courses. Choose from any of the three exclusive and awesome modes and get a chance to improve your speed and accuracy of throwing balls on a basket.</div><div><br></div><div>In the first mode of this brand new basketball sports game, you will learn about the time limit as well as the number of baskets you can hit. Once it’s done, get to know the role of a distance in play. The distance from where you will throw your ball will be increased with each throw. So, with the completion of each level, the game will become tougher and tougher. Enjoy a combination of these disciplines in this free online sports for boys.</div><div><br></div><div>You will learn the same thing in each discipline i.e. how to hit a basketball basket properly no matter which angle and situation you throw it from. Join Basketball School today to have a command over some highly effective and useful tricks! Let yourself allow to play this game like a pro in this cool physics-based basketball game for boys and girls. Get the ball through the basket as fast as you can and become a champion of this sport! Select from arcade, distance or time attack mode and begin exploring the real world of online basketball game! Collect some points to unlock extra bonuses like extended aim. Controls: Mouse.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/basketball-school/index.php",
+      "metaTitle": "Basketball School, Basketball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Basketball School at atmegame.com ! We have selected this basketball games for best excitement and thrill in you!",
+      "metaKeyword": "Basketball School Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9506,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.713Z",
+      "updatedAt": "2024-03-11T21:18:51.439Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "DRAG AND CLICK TO GOLE BY L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad67",
+      "name": "basketball",
+      "slug": "basketball",
+      "icon": "basketball-games"
+    }
+  }
+}
