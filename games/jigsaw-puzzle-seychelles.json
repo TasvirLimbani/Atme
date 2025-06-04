@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd25",
+      "id": 4525,
+      "name": "Jigsaw Puzzle Seychelles",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "jigsaw-puzzle-seychelles",
+      "image": "4525",
+      "url": "jigsaw-puzzle-seychelles",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Seychelles is a wonderful holiday destination for many travelers during the vacant times. One of your friends has also visited the place and took the pictures of some of its major attractions. He captured 16 images of this matchless holiday paradise. Your close friend was very happy, but a tragedy occurred with him while returning. All his images were torn out and scattered into several pieces. Now he needs your help to arrange them. Would you help him out? Join Jigsaw Puzzle Seychelles and get ready to connect all the pieces together as fast as you can!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This html5 puzzle challenge will also allow you to visit one of the most beautiful places on Earth. Your primary objective is to drag and drop puzzle pieces until you arrange your chosen image. No need to bother in case if you are stuck or get confused since you click the â€˜eyeâ€™ button to see the complete image anytime during the gameplay. Select the puzzle size and the click the image you want to arrange them! There are three modes including 6X5, 8X6 and 12X10 to choose from. In each mode, you would have 16 images to play through.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The complexities and difficulties will keep increasing as you progress in this cool puzzle challenge. Of course, the number of pieces in the 12X10 mode is bigger as compared to the ones available in 6X5 and 8X6. The right bottom of the screen will show you how much you have taken to complete the puzzle. There is a trick and strategy to arrange an image. So try to try to follow it to get the job done fast to finish each puzzle with the maximum number of points. Good luck to create the best score in each level and feel free to share your score with your friends. No download or installation is required to have fun!</span></div><div><br></div>",
+      "size": 800,
+      "height": 450,
+      "script": "\nhttps://html5.gamedistribution.com/48a552cf9e0f4df5984ff334d549a707/\n",
+      "metaTitle": "Jigsaw Puzzle Seychelles, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jigsaw Puzzle Seychelles at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Jigsaw Puzzle Seychelles Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527222.xml",
+      "idealFor": "All",
+      "likes": 2,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7024,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:50:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.738Z",
+      "updatedAt": "2023-06-09T15:06:56.177Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE PIECES TO MAKE THE COMPLETE IMAGE",
+      "webControlKeys": "L CLICK OF MOUSE TO JOIN THE JIGSAW PICES TO COMPLETE THE IMAGE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
