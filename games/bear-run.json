@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1d7",
+      "id": 5791,
+      "name": "Bear Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "bear-run",
+      "image": "5791",
+      "url": "bear-run",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The Mr. Bear loves to run over the platform. However, today he finds it difficult how to deal with his hobby and completes his run successfully. Luckily, you have raised your hands to assist him throughout his journey. Are you seriously ready to accept this challenge? Join Bear Run and get ready to meet the completely new challenges in this brand new adventure game! The journey is pretty difficult, so you can ensure your win only if you keep your eyes on the screen!?</span></div><div><span style=\"font-size: 13.3333px;\">In this one of the top running games for kids, you will have a wonderful opportunity to control a cute bear who has big paws. Help him to cover as much distance as you can and prove him the best among all other animals! Your track is ready to go, but it will be full of a number of dangerous obstacles! Click the play button and get ready to see yourself breaking all your previous records that you made in a number of other top adventure games for boys!</span></div><div><span style=\"font-size: 13.3333px;\">Don?t forget to collect the coins and other bonuses that you see over the platform! Make sure to jump over the ledges and complete the levels with a full of confidence. Avoid all the deadly bombs to save your life in this new game for boys! Try to cover the maximum possible distance to score high on the scoreboard! Use your running skill to complete this best adventure game for animals! Play this online game with all your friends!!?</span></div>",
+      "size": 1130,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/7467ec20fef344129ae2a3f56bb580a4/\r\n",
+      "metaTitle": "Bear Run,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Bear Run at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Bear Run Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557761581.xml",
+      "idealFor": "Man",
+      "likes": 27,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 28272,
+      "ownGame": false,
+      "addDate": "2019-05-13T21:03:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.755Z",
+      "updatedAt": "2024-08-26T04:24:09.031Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON SCRREN TO JUMP",
+      "webControlKeys": "LEFT CL;ICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
