@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b35d",
+      "id": 1841,
+      "name": "Kingdom Racer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "kingdom-racer",
+      "image": "1841",
+      "url": "kingdom-racer",
+      "description": "Race your car in a Medieval kingdom and try to make it safely to the end. You will meet a lot of dangers on the way, like loops, rolling barrels or evil knights. Overcome them all using your skills and collect coins on the way which you can use later on to buy upgrades that will improve your vehicle. You can buy spikes, a weapon, wheels, a new engine or you can improve your NOS performance. Make sure you do not damage your car on the way and keep your eyes on the timer because the faster you get at the end, the bigger your bonus points will be. Enjoy!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=0cd60efb5578cd967c3c23894f305800\r\n",
+      "metaTitle": "Kingdom Racer, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Kingdom Racer at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Kingdom Racer Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630386.xml",
+      "idealFor": "Man",
+      "likes": 42,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8279,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:03:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2024-03-20T03:12:25.723Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
