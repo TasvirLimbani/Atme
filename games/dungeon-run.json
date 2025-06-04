@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682baf3",
+      "id": 3955,
+      "name": "Dungeon Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "dungeon-run",
+      "image": "3955",
+      "url": "dungeon-run",
+      "description": "<div>This Christmas you need something new and challenging to make it special! Why do not you try out this brand new adventure challenge to enjoy the spirit of your favorite Holiday in a unique way? It will be amazing to spend time with this cool character who wants to run on a tricky track. Put your fingers on the mouse or tap the screen of your mobile phone to guide him run through the dungeon while avoiding traps and other obstacles in Dungeon Run!</div><div><br></div><div>Huh! The controls are relatively simple and easy as compared to the other adventure challenges you played before. Try to make your character jump over the barrels and keep him away from the sharp and powerful swords! Do not forget to grab the shields to increase your score. It seems that he just lost his way through the dangerous and dark castle and you are his best friend so approached him for help. Do some actions to help him reach safely in this casual runner game!</div><div><br></div><div>Being running back and forth through a dark dungeon, your character is seen hopping awkwardly. Your job is to make him run through this dangerous place for as long as you can to create your best score. Try to grab as many shields as you can to buy some new and exciting character skins like the brave warrior or the mighty archer! Try it out for several times to prepare your best highest score in this cool HTML5 runner game!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/dungeon-run-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Dungeon Run, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dungeon Run at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Dungeon Run Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 15,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7633,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.729Z",
+      "updatedAt": "2024-07-01T01:15:35.169Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO STOP THE RED BAR ON THE CIRCLE ",
+      "webControlKeys": "L CLICK OF MOUSE TO STOP THE RED BAR ON THE CIRCLE"
+    },
+    "rating": {
+      "rating": "1.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
