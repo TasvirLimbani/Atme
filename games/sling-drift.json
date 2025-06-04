@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb12",
+      "id": 3987,
+      "name": "Sling Drift",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "sling-drift",
+      "image": "3987",
+      "url": "sling-drift",
+      "description": "<div>Forget racing and show off your drifting abilities to prove the world that you are a complete driver in Sling Drift! Only expert drivers can dare to accept this challenge. So think twice before entering this brand new racing game. It is important to practice your drifting skills at every turn of this endless track. Pay attentive all the time as you would have only a few limited seconds to plan your next move to stay alive! Try to go as far as possible to create your best score!</div><div><br></div><div>Choose your car, tighten your seatbelt and get ready to drift with your vehicle around an endless race track in this 2D racing game! Make sure to put your fingers on the mouse or tap the screen when you around a corner and do not forget to release it timely to help your car come on the track. Keep drifting and earning the enough coins to unlock advanced car models or give a unique race mode a try later in this cool HTML5 car game!</div><div><br></div><div>The best part is that your car will accelerate automatically and you only have to control when it turns around the corner. Be fast and try to attack your line to a pole and utilize it to slingshot your vehicle around all the corners that you see along the way! There are possibilities of losing your game immediately if your car turns too early or too late. This awesome physics-based endless car drifting game features different race modes, new car models, seamless gameplay and easy controls. Practice hard to master the sling race and have fun without download! Enjoy even more challenging free racing games to have extra fun!</div>",
+      "size": 900,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/dd3aebff72a7476cbdb2bcd89cc5c676/\r\n",
+      "metaTitle": "Sling Drift,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sling Drift at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Sling Drift Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11130,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2024-09-19T05:17:22.562Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L CLICK OF MOUSE ON THE CAR WHEN IT REACHES TO THE TURN TO CONNECT THE CAR WITH THE DOT"
+    },
+    "rating": {
+      "rating": "3.4",
+      "count": 11
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
