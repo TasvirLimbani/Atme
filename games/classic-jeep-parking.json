@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c357",
+      "id": 6317,
+      "name": "Classic Jeep Parking",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "classic-jeep-parking",
+      "image": "6317",
+      "url": "classic-jeep-parking",
+      "description": "<div>The biggest parking challenge has just hit your screen today! Put your fingers on your mouse and keyboard of your PC or tap the screen of your mobile phone to play this brand new parking game online and have great fun without download! Your objective is to park your chosen jeep at the pointed position in Classic Jeep Parking. Choose from multiple jeep options and be prepared to drive and park the awesome jeep around corners! Be careful while handling the obstacles in each level!</div><div><br></div><div>Make sure to control the speed and balance of your car to complete all the levels. Do not forget to test your driving skills through parking to get the job done timely in this HTML5 racing game. Try to keep your vehicle away from the parking lot boundaries and avoid the crashes to stay alive! Of course, you cannot ignore the importance of high speed and high precision to your parking task. Luckily, there is no time limit so you can take as much time as you want for your job.</div><div><br></div><div>There are several sleek turns and difficult tracks to deal with in this car driving simulator. But, you as an expert driver can deal with any obstacles and challenges confidently. Guide your jeep through 25 unique and addictive levels and show off the world that you a pro driver! Your every successful parking effort will reward you with some cash that you can use to upgrade your vehicle. All the best to rock in all the levels in this hard-core car parking simulation game!</div>",
+      "size": 960,
+      "height": 640,
+      "script": "https://html5.gamedistribution.com/2badedc2c8634363981051fec5bfd311/\r\n",
+      "metaTitle": "Classic Jeep Parking Game, Parking - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Classic Jeep Parking at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Classic Jeep Parking Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579523644.xml",
+      "idealFor": "Man",
+      "likes": 65,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 11139,
+      "ownGame": false,
+      "addDate": "2020-01-20T18:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-01-28T03:12:19.786Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO DIRECTION SPACE TO BREAK"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 11
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
