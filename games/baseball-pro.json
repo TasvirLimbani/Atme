@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6a",
+  "category_name": "baseball",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6a",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af1c",
+      "id": 508,
+      "name": "Baseball Pro",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "baseball-pro",
+      "image": "508",
+      "url": "baseball-pro",
+      "description": "<div>As its name suggests, Baseball Pro Game is a highly popular and easy-to-play <a href=\"http://www.atmegame.com/online-sports-games\" title=\"\" target=\"\"><font color=\"#0033cc\">sports game</font></a> for all baseball game lovers. In this challenging free online baseball game, your major task is to make as many home runs as you can to claim for the victory at the end of each level. Do remember this thing that you have to do this job before the pitcher runs out of balls. In this cool flash game for boys, you are sure to have the fun and enjoyment you have not obtained in any free online game ever. </div><div><span style=\"background-color: transparent; font-size: 10pt;\"><br></span></div><div><span style=\"background-color: transparent; font-size: 10pt;\">Baseball Pro is a user-friendly and exclusively-designed smashing sports game that features awesome graphics and easy-to-use interface. You can enjoy this popular boys game in your browser. Because of being made with the help of HTML 5, this game can be easily played properly in almost every browser.  You can also play this highly addicting <a href=\"http://www.atmegame.com/online-baseball-games\" title=\"\" target=\"\"><font color=\"#0033cc\">baseball gam</font></a>e on your mobile phones as well. Get ready to attempt to time your shot in the optimum possible way in order to achieve the highest score in this game. </span><br></div><div><br></div><div>Play like an expert and wait for the best time to swing your bat to hit the ball in this sports game! All you need to do is score the maximum home runs to take your team to the most wanted victory. Your winning will surely depend on how many points you will be able to score at the end of the level before the pitcher runs out of balls. Before going for the home run, check if you have properly hit curve balls, slow balls and slow balls. Playing this free sports will help you to improve your strategy making and strength building skills. Good luck and have great fun!</div>",
+      "size": 800,
+      "height": 972,
+      "script": "https://play.famobi.com/baseball-pro/A-925FD",
+      "metaTitle": "Baseball Pro, Baseball Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Baseball Pro at atmegame.com ! We have selected this Baseball games for best excitement and thrill in you!",
+      "metaKeyword": "Baseball Pro, Baseball Games, Baseball Pro Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 148,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 24722,
+      "ownGame": false,
+      "addDate": "2017-07-23T20:02:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.668Z",
+      "updatedAt": "2025-05-29T09:12:32.720Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO HIT THE BALL",
+      "webControlKeys": "L CLICK OG MOUSE TO HIT THYE BALL"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6a",
+      "name": "baseball",
+      "slug": "baseball",
+      "icon": "baseball-games"
+    }
+  }
+}
