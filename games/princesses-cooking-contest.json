@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af7c",
+      "id": 633,
+      "name": "Princesses Cooking Contest",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "princesses-cooking-contest",
+      "image": "633",
+      "url": "princesses-cooking-contest",
+      "description": "<div>Princesses Cooking Contest is an exclusively-designed free online gaming activity for teens, kids and grown-ups. One of the finest online cooking games for girls, it features a perfect gaming environment, easy control, unmatched graphics and fantabulous gameplay. In this cool cooking game, you as a player have to help the two beautiful princesses to decorate their extremely delicious donuts to make them look more amazing and stunning. It is good for you to use your unique creative skills in order to complete the tasks shortly and earn a high score at the end of this flash game.&nbsp;</div><div><br></div><div>As you know that this Cooking Contest is very big, so your little assistance can really make a huge difference when it comes to helping Elsa and Snow White to decorate their scrumptious donuts to make them look mouth-watering and ready for the contest. Your performance will be checked out by a jury who will give the final decision over the winner at the end of this cute cooking game. You will see the Princess Snow White on the left side of the screen, while, Elsa, a popular heroine from Frozen will be seen standing on the right side of the screen.&nbsp;</div><div><br></div><div>In order to complete all the tasks, just focus on the instructions and implement them step-by-step. The more beautiful your donuts will look, the higher score you will be able to earn right from a jury sitting in this huge cooking contest. Do your best efforts to claim your prize. You have different kinds of candies, chocolates and sweet syrups to get your job done. Play safe and have huge fun!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/137665433629485eafdc139c9f649e62/",
+      "metaTitle": "Princesses Cooking Contest, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Princesses Cooking Contest at atmegame.com ! We have selected this Cooking games for best excitement and thrill in you!",
+      "metaKeyword": "Princesses Cooking Contest Game, Girls Games, Cooking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "",
+      "xmlFile": "Cooking_1513839135.json",
+      "idealFor": "Man",
+      "likes": 44,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 16171,
+      "ownGame": false,
+      "addDate": "2017-12-21T12:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.670Z",
+      "updatedAt": "2025-03-05T09:49:52.846Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ITEMS TO SELECT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS"
+    },
+    "rating": {
+      "rating": "2.1",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
