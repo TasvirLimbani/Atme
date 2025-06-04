@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf77",
+      "id": 5126,
+      "name": "Barrier",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "barrier",
+      "image": "5126",
+      "url": "barrier",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Have you ever wanted to be a popular formula driver? Luckily, you are going to get this wonderful opportunity today in our brand new racing game where you will play the role of a driver of a beautifully-designed formula one car. Are you ready to accept this sort of unique challenge? Join Barrier game and prove the world that you are much skilled to ride a formula car on any track in a way like a professional does! Jump on the behind of it steering wheel and ride it as fast as you can!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The problem is that the road is full of barriers that would try to stop your car from moving forward. It will be pretty interesting and challenging to see how wisely you put your driving skills to test to cover the maximum distance over the road while avoiding barrier on the road. Remember the speed of your car would keep increasing as you progress on the track, so be careful while you changing its lane (direction) on the road. You would lose immediately in case of being hit by any barrier during the gameplay.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Click the mouse on PC or tap the screen on mobile phone to change the direction of your car in this one of the top car games for kids! Try out free race games on atmegame.com and allow yourself and your kids to be glued to the screen for as many hours as you want! Enjoy the craziness and thrill in our HD and colorful games while seeking unlimited attempts to win and lose! No one is here to judge you on the basis of you skill, but you find many who love to cheer your good efforts.&nbsp;</span></div>",
+      "size": 720,
+      "height": 1280,
+      "script": "https://html5.gamedistribution.com/5f7425ef723f44eba6e1e689531aa889/\r\n",
+      "metaTitle": "Barrier,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Barrier at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Barrier Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545466.xml",
+      "idealFor": "Man",
+      "likes": 20,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11921,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:14:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-09-16T07:41:41.886Z",
+      "__v": 0,
+      "mobileControlKeys": "L-R OF SCREEN TO CONTROL; THE CAR",
+      "webControlKeys": "L CLICK OF MOUSE TO THE L-R ODF SCREEN TO MOVE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
