@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c35c",
+      "id": 6322,
+      "name": "Xmas Rush",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "xmas-rush",
+      "image": "6322",
+      "url": "xmas-rush",
+      "description": "<div>Christmas is just arriving and we all are pretty excited to celebrate the festival with more excitement than ever before! To make your holiday more special and worth appreciating, we have got you covered today with a brand new Christmas-theme based online game where you have to control a car. Do not waste your time anymore? Join Xmas Rush and be prepared to celebrate the spirit of your favourite festival in a friendly environment! Your insane driving skills will help to handle the challenges of this challenge.</div><div><br></div><div>When you click the play button, you will see a car on the screen and your job is to help it to reach its destination. Put your finger on the arrow keys or tap the screen of your mobile phone to keep your car running on the lovely road! Make sure to reach it the given time to clear the level. Many challenging and dangerous turn and other vehicles are waiting for you on the road so beware of them.</div><div><br></div><div>Remember your vehicle gets slow down when it goes off-road and bump into other vehicles. So try to keep your vehicle away from the other vehicles on the road if you want to complete each level on time. You would have multiple tracks to explore when you choose to play this HTML5 car game in your device. Browse through our wider category of free racing games to satisfy your cravings for speed to the fullest!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/1f83dd67d0f84523836e9273e7659601/\r\n",
+      "metaTitle": "Xmas Rush Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Xmas Rush at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Xmas Rush Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579523644.xml",
+      "idealFor": "Man",
+      "likes": 1417,
+      "dislikes": 229,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 398016,
+      "ownGame": false,
+      "addDate": "2020-01-20T18:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-05-30T17:00:17.745Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS TO SPEED AND BREAK,LEFT ICONS TO DIRECTION",
+      "webControlKeys": "UP ARROW FOR SPEED, LEFT RIGHT AROOW TO L-R, BACK ARROW TO BACK"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 168
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
