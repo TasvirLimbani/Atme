@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b2d5",
+      "id": 1690,
+      "name": "Mega Jurassic Parking",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "mega-jurassic-parking",
+      "image": "1690",
+      "url": "mega-jurassic-parking",
+      "description": "Can you put these big rigs in the right spots? It?s a parking challenge 35 million years in the making! The ultimate combination Jurassic Park, Dinosaurs, cars and parking. Fun and crazy at the same time!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=94e56d8588f344a6a45f3e10ecb1deb1\r\n",
+      "metaTitle": "Mega Jurassic Parking, Truck Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mega Jurassic Parking at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mega Jurassic Parking Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629219.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8781,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:43:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.694Z",
+      "updatedAt": "2024-03-16T08:52:23.968Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
