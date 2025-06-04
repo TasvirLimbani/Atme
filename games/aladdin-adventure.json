@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b47c",
+      "id": 2159,
+      "name": "Aladdin Adventure",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "aladdin-adventure",
+      "image": "2159",
+      "url": "aladdin-adventure",
+      "description": "Aladdin Adventure game is fun auto runing game Help our hero to in his arabian journey in the quest of gold How to play Game features: -5 Beautiful World: -Many many villian -final boss fight -Nice graphics and good Concepts\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/80363f382f0f4f689ea0fda43c1e9439/\r\n",
+      "metaTitle": "Aladdin Adventure, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Aladdin Adventure at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Aladdin Adventure Game, Action Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1522756682.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 13116,
+      "ownGame": false,
+      "addDate": "2018-04-03T17:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.704Z",
+      "updatedAt": "2024-04-28T07:32:44.973Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT LOADING"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
