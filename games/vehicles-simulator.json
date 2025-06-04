@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb21",
+      "id": 4002,
+      "name": "Vehicles Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "vehicles-simulator",
+      "image": "4002",
+      "url": "vehicles-simulator",
+      "description": "<div>This time you have chosen a truck to ride on three different locations. Does not it sound a pretty exciting and a bit challenging? Join Vehicles Simulator and be prepared to jump behind the wheel of multiple amazing vehicles of your choice! This brand new racing game will allow you to gain a quick free access to a wider collection of fabulous vehicles including a tank. Drive like a champion and get ready to have fun like never before!</div><div><br></div><div>Choose the one out of seven different vehicles and allow yourself to keep you entertained for hours in this HTML5 truck game! It will be amazing to explore the lands of three different areas. Do not bother as you would have the full control on your game since you can also customize the settings of your chosen vehicles. Play with 7 vehicles including a monster truck, military 8x8, tank, sedan, sports car, city bus, and truck!</div><div><br></div><div>There are 3 different locations or maps to play through, and a customizable setting in each vehicle. In this 3D car racing game, the best part is that you will also have the freedom to change to another vehicle whenever you want during the gameplay. In case of seeking extra fun and thrill, you can move towards our huge collection of free car games that are worth playing on multiple devices including desktops, mobile phones, tablets, iPhones or iPads. So, what are you waiting for? Select a car, tighten your seat belt and gear up for a long ride!</div>",
+      "size": 960,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/dd106adac8b94b9c89b93e4a8ddcae43/\r\n",
+      "metaTitle": "Vehicles Simulator,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Vehicles Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Vehicles Simulator Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542951571.xml",
+      "idealFor": "Man",
+      "likes": 212,
+      "dislikes": 25,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 51513,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.730Z",
+      "updatedAt": "2025-02-26T16:07:30.570Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D ALL ARROWS TO CONTROL, SPACE-BREAK, C-CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 17
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
