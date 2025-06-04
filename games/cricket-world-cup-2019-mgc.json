@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad60",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2f0",
+      "id": 6177,
+      "name": "Cricket World Cup 2019 MGC",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "cricket-world-cup-2019-mgc",
+      "image": "6177",
+      "url": "cricket-world-cup-2019-mgc",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Cricket World Cup 2019 MGC is an ultimate treat to the cricket fanatics. Trying out this free online sport can prove to be the best alternative especially if you want to explore your cricketing fantasy. After finishing your game, you can see the score of yours and your opponent at the top of the screen. Also get the complete stats about your performance, how much trophy you have won, how much cash you have earned, the points you have collected throughout the game as well as the fours and sixes you hit during the cricket match</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">It also allows you to maintain your user profile under which you can change your name. Also check out the details about how much total matches you have played, your total wins and loss, as well as scores. Choose from between the two options ? Free Match and Challenge Match. You will get $3 on each Master shot. Enjoy an opportunity of getting cash equal to half of your score. You will be rewarded with a cash of $30 on smashing every wicket.</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Make sure to tap on the left side to be active in left side. Click on the right side to active right shot. In Free match mode, the obstacles are pretty easy. However, in challenge mode, you have to play with a more focused and clear approach. Choose your league, select your match time and get ready to show your ultimate skills in this one of the most popular cricket games for boys. Play with a big amount if you are quite confident on your talents! Invest more to get earn more!!</span></div>",
+      "size": 960,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/15e0d821332b4f07a425542d5142f9cc/",
+      "metaTitle": "Cricket World Cup 2019 MGC, Cricket Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cricket World Cup 2019 MGC at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Cricket World Cup 2019 MGC, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 1527,
+      "dislikes": 114,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 246552,
+      "ownGame": false,
+      "addDate": "2019-10-15T18:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2025-05-23T06:16:39.682Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "A,D LEFT CLICK OF MOUSE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 302
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad60",
+      "name": "cricket",
+      "slug": "cricket",
+      "icon": "cricket-games"
+    }
+  }
+}
