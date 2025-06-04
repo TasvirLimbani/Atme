@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd21",
+      "id": 4521,
+      "name": "Numbers Memory Time",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "numbers-memory-time",
+      "image": "4521",
+      "url": "numbers-memory-time",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Every parent wants to help their children remember the numbers. Are you a parent who is seeking for the easy ways how to help your little ones to recognize the numbers from 1 to 20? Join Numbers Memory Time and get ready guide your children to enjoy the best memory and numbers puzzle challenge! Your job in this brand new arcade game is to find all the matching number images. Choose any level out of easy, medium, hard and expert and get ready to enter the real fun challenge!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Either you or your kids play, the rule of this game is simple i.e. flipping the images until you spot all the images of the same numbers. Every two picture has the same number so keep clicking on the images until you find out the pairs of all. Put your fingers on your mouse on PC or tap the screen on mobile phone! Make sure to memorize the positions of each number to solve out the puzzle fast. Try to use as few moves as possible to complete each puzzle with 3 stars rating in this html5 puzzle!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">No time limit and no rush to get your job done. So take as much time as you want to finish all the levels while ensuring the best possible fun and thrill. Pay attention to the screen to spot all the matching images in this one of the best number and memory games for boys! There are different numbers including 1, 2, 3, 16, 17, 19 and 20 to memorize. Cards will stop flipping back when you correctly match the two identical number cards. Check out more arcade games for boys and girls and have fun with your friends, no download required!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "\nhttps://html5.gamedistribution.com/7255f24e9eaf4d75828c0f3961ba5d9c/\n",
+      "metaTitle": "Numbers Memory Time, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Numbers Memory Time at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Numbers Memory Time Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527222.xml",
+      "idealFor": "All",
+      "likes": 1,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6849,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:50:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-03-06T09:17:46.566Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON TILES AND MATCH THE SAME IMAGES",
+      "webControlKeys": "L CLICK OF MOUSE ON THE CARDS TO MATCH THE SAME IMAGE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
