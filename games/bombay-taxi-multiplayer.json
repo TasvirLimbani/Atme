@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae5e",
+      "id": 137,
+      "name": "Bombay Taxi Multiplayer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "bombay-taxi-multiplayer",
+      "image": "137",
+      "url": "bombay-taxi-multiplayer",
+      "description": "The Mumbai yellow and black taxis that are known for their unique style of servicing to the customers to let them roam around the costal city of Mumbai, the financial capital of India in style. However, in Bombay Taxi Multiplayer game you get a taste of just not the driving skills of India most stylish taxi drivers but also the way and manner they park taxis at the places and parking lots.<br><br>In this online racing game, you just get into the contest with one of the Mumbian taxi driver without crashing with his vehicle or any other car. The game in the series is based around different levels and in each of the car parking game it becomes very necessary to attach the balance and speed, accurately, with the time limit allotted there. <br><br>Though, clearing only one stage is not enough as you will get a good number of levels in the later stages of the game where the contest of parking in the online free racing game even becomes more difficult and cumbersome. In the game, there, you would learn an absolute hand and eye co-ordination and spatial reasoning skills of your. The control in the game is coordinated through pressing arrows.",
+      "size": 650,
+      "height": 529,
+      "script": "137_swf.swf",
+      "metaTitle": "Bombay Taxi Multiplayer, Parking Games - Play Online Free : Atmegame",
+      "metaDesc": "Just learn how to get your Mumbai yellow and black taxis to be parked in style amidst in the scanty and much lesser space to be parked in.",
+      "metaKeyword": "Bombay Taxi Multiplayer, Racing, Parking games, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 88,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 12439,
+      "ownGame": false,
+      "addDate": "2016-07-03T08:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.664Z",
+      "updatedAt": "2024-03-25T11:19:36.744Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT SUPPORTED"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
