@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c343",
+      "id": 6290,
+      "name": "Offroad Jeep Simulator",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "offroad-jeep-simulator",
+      "image": "6290",
+      "url": "offroad-jeep-simulator",
+      "description": "<div>Driving on the hill and mountain tracks is a task that cannot be handled by everyone else. Completing this task requires driving and speed control expertise! If you love exploring driving simulation games during your vacant hours, Offroad Jeep Simulator can be a nice place to stop. Here you will get a chance to do everything that will help improve your driving abilities and take your fantasy for speed to the next level. Then why do not you waste your time anymore? Give it a try to have unlimited racing fun in a single platform!&nbsp;</div><div><br></div><div>There are three modes including Free, Checkpoint, and Challenge to play through in this one of the best car mobile games. Find what route suits best to you and help your car get to the destination safely in this brand new 3D driving game! Challenges and obstacles are bigger than your imagination so get ready to put your insane driving skills to complete all the levels! Collect sufficient money to buy new jeeps and make your gameplay more interesting!</div><div><br></div><div>Take your seat on your chosen vehicle and get ready to climb on the craziest off-road tracks in this HTML5 car racing game! The best part is that you have multiple jeeps to ride on these impossible tracks at your disposition. Be careful while driving through the hills and using the tunnels while looking forward to grab the money! Drive carefully not to fall from the road otherwise, your car gets crashed and you will lose your game! Try out other popular free driving simulators for free and have fun with your friends to the fullest!</div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://html5.gamedistribution.com/b0a1b24b504b41b9adadadd4ec270001/\r\n",
+      "metaTitle": "Offroad Jeep Simulator Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Offroad Jeep Simulator at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Offroad Jeep Simulator Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579517839.xml",
+      "idealFor": "Man",
+      "likes": 78,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 10981,
+      "ownGame": false,
+      "addDate": "2020-01-20T16:27:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-05-11T09:34:57.777Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D AND ALL AAROWS TO DIRECTION CONTROL, SPACE TO BREAK, C TO CHANGE THE VIEW"
+    },
+    "rating": {
+      "rating": "4.3",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
