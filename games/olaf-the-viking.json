@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bdd4",
+      "id": 4701,
+      "name": "Olaf The Viking",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "olaf-the-viking",
+      "image": "4701",
+      "url": "olaf-the-viking",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Wow! Today we have got you covered with a brand new adventure game where you would meet with a brave and courageous Viking! The problem is that he lost the way to his home and now the lost Viking needs someone who can guide him to his home. Do you think that you are skilled enough to show him the path towards his home? Join Olaf The Viking and get ready to practice your ultimate jumping abilities to take him as far as possible!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">We can understand that you find it pretty difficult to handle it at initial levels. However, trying it out for several times will help you get the command over its gameplay. Do not forget to grab as many coins as you can to improve your score while avoiding all the sharp spikes and gaps. Timely jump is required to help your character survive as long as possible in this html5 platform game! It is up to you how to assist Olaf pass through all the difficult levels and become a true jumper!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You are sure to have a great amount of fun and entertainment in our highly popular Viking games that are free to play online, no download required. Come and try our more popular titles from the category of running games for kids to add more entertainment to your boring schedule! Be careful and try to make him jump over or slide under all the difficult hurdles! Pay attention to the details and challenge your jumping abilities to clear all levels successfully!&nbsp;</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "https://m.shtoss.com/game/olaf-the-viking/index.html\r\n",
+      "metaTitle": "Olaf The Viking, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Olaf The Viking at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Olaf The Viking Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7044,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.740Z",
+      "updatedAt": "2022-12-21T10:33:52.904Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO JUMP",
+      "webControlKeys": "L-CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
