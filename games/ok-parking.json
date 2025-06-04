@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad76",
+  "category_name": "parking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad76",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2fa",
+      "id": 6188,
+      "name": "OK Parking",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "ok-parking",
+      "image": "6188",
+      "url": "ok-parking",
+      "description": "<div>Are you also a kind of individuals who want to learn how to park a vehicle at the designated spots through the busy city streets? If yes, you have come at the right place. We have today got you covered with a brand new racing challenge where you can practice your parking abilities in a cool and friendly environment without hurting anyone or making damage to your vehicles. Choose your vehicle and level and then get ready to park it into the marked parking space!</div><div><br></div><div>Remember you would have plenty of traffic and other obstacles to avoid in this HTML5 car game. The main problem is that you would have a limited time to complete your task. Try to park your vehicle before the time expires to complete each level and move to the next one in OK Parking! All it requires to polish the ability to manoeuvre the vehicle at top speeds to get the job done finely. Drive your vehicle carefully through the given space and park it at the marked area only!</div><div><br></div><div>Make sure to park your car within the lines after reaching the parking space in this cool parking simulator. Try to complete your level as fast as you can to collect a high score! Park your vehicle carefully and show off the world that your parking skills are enough to prove you a professional driver! Drive around the area using your cool car without making any scratch on it! Let us see if you are really able to clear all the addictive parking levels.</div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/bbfe0289efb14190ad56352357c7e1bc/\r\n",
+      "metaTitle": "OK Parking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game OK Parking at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "OK Parking Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1577254675.xml",
+      "idealFor": "Man",
+      "likes": 126,
+      "dislikes": 27,
+      "ratings": null,
+      "manualRating": 1,
+      "highScore": 0,
+      "totalPlayed": 54466,
+      "ownGame": false,
+      "addDate": "2019-12-25T11:47:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2025-04-22T10:40:53.613Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICONS TO LEFT RIGHT,LEFT ICONS TO MOVE UP MOVE DOWN",
+      "webControlKeys": "NOT LOADED"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 10
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad76",
+      "name": "parking",
+      "slug": "parking",
+      "icon": "Parking Games"
+    }
+  }
+}
