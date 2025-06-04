@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": true,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af07",
+      "id": 486,
+      "name": "Drift Cup Racing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "drift-cup-racing",
+      "image": "486",
+      "url": "drift-cup-racing",
+      "description": "<div>Are you a speed game lover? Try Drift Cup Racing Game once to satisfy all your urges to play the online free speed racing game! Roll up your sleeves to participate in a serious of car races and make sure that you will secure the first position against all your computer-operated drivers. All you need to speed up your car and also save your precious time when you are trying to drift your car from one corner to another in this fast-paced racing game.?</div><div><br></div><div>Drift Cup Racing game is an extremely popular <a href=\"http://www.atmegame.com/online-car-games\" title=\"\" target=\"\"><font color=\"#0033cc\">car racing game</font></a> for kids with a primary focus on drifting and cutting corners. This cool and awesome flash game features wonderful graphics as well as highly challenging tracks with a fine number of hairpin turns and sharp corners. The automation acceleration of the car makes it easier for you to control your vehicle and turn it in the direction you want. Make sure you will win the trophy of all the races! Collect nitro, dodge all the obstacles that come on your way and ensure your victory in each race. Also, earn as much money as you can and use it to purchase upgrades.</div><div><br></div><div>In this great drifting online game, each race includes a beautiful yet challenging track with a number of sweeping bends and long straights.? Use your driving skills to control the steering!? The implementation of your virtual drifting skills will also make sure that your six opponents will not stand against you in any way. Avoid all the obstacles and objects like oil slicks as well as standing ice and water to maintain your speed and reach the finish line timely! Will you be the first to pass out the finish line in this fabulous racing game? Good luck for your victory!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://play.famobi.com/drift-cup-racing/A-925FD",
+      "metaTitle": "Drift Cup Racing, Car Racing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Drift Cup Racing at atmegame.com ! We have selected this Car Racing  games for best excitement and thrill in you!",
+      "metaKeyword": "Drift Cup Racing, Racing, Car Games, Drift Cup Racing Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 1092,
+      "dislikes": 155,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 141768,
+      "ownGame": false,
+      "addDate": "2017-07-19T19:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.668Z",
+      "updatedAt": "2025-05-30T07:14:47.718Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP L-R OF THE CAR TO CONTROL",
+      "webControlKeys": "ALL  ARROWS AND L CLICK OF MOUSE TO CONTROL THE CAR"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 90
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
