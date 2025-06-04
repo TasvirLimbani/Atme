@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd12",
+      "id": 4506,
+      "name": "Christmas Hurly Burly",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "christmas-hurly-burly",
+      "image": "4506",
+      "url": "christmas-hurly-burly",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Xmas is just around the corner and you have made all the arrangements to make the celebration of this year bigger than before. However, your all favorite Santa is in trouble and he needs your help. All the gifts collected by him have been stolen by the evil wizards. Santa has made every possible effort to find them, but could not. Now your job in Christmas Hurly Burly is to help him spot all the gifts hid by the evil souls in the ice valley.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The best part is that kind elves have found the maps that can help you determine the location of the hidden gifts. Coordinate with them and use the maps to find all the gifts and help Santa feel happy again in this brand new arcade game! There are multiple missions to explore through and plenty of gifts to find out. When you click the play button, you would spot all the 30 levels to play through. There will be a board with numbers on the borders of it in each level. You can get an idea how many hidden gift boxes you would have to find out in each row and column.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Feel free to uncover what is available under the squares of the board by clicking on them! There 3 lives to use, so try to be careful and think twice to avoid making a mistake. The difficulties will keep increasing as you progress in this html5 puzzle game. You would lose the game if you are run out of all the three lives. Get ready to face off the more complex layouts later in these types of puzzles which are also known as griddlers. Solve all the puzzles to reward you with unique achievements! Check out more friendly and engaging Christmas games to enjoy the spirit of your favorite occasion</span></div>",
+      "size": 960,
+      "height": 540,
+      "script": "\nhttps://html5.gamedistribution.com/5dceadebc665452990c1ed264e57fe5e/\n",
+      "metaTitle": "Christmas Hurly Burly, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Christmas Hurly Burly at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Christmas Hurly Burly Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527121.xml",
+      "idealFor": "All",
+      "likes": 12,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7225,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-02-06T07:39:17.099Z",
+      "__v": 0,
+      "mobileControlKeys": "CONTROL NOT WORKING",
+      "webControlKeys": "L CLICK OF MOUSE TO FIND THE GIFT AND COMPLETE THE ROWS ANS COLOMS"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
