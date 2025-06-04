@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bddd",
+      "id": 4710,
+      "name": "Blue Story",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "blue-story",
+      "image": "4710",
+      "url": "blue-story",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Join Blue Story and forget all the puzzle challenges you have played so far! The fun and excitement offered by this brand new arcade game will surely look like unique and highly engaging! You would not like to play it alone, but you would definitely invite your friends and families and ask them to break your record. The only way to sort out this brainteaser is to put your puzzle solving abilities to the test. Do you think that you are skilled enough to handle such brain-storming challenges? Give it a try to see how many levels you can clear!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your primary objective in this free online puzzle game is to tap the other color blacks to eliminate and help the two blue blocks connect with each other. Try not to drop the top blue block on the ground otherwise you would lose the game! The main characters of this game are the two blue blocks, which have been separated due to any reason. Different colored blocks have now come in between them. You have taken the responsibility to reunite them.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Eliminate the blocks with different colors and gear up to match the two blue blocks in this cute physics platformer game! Make sure that not a single blue block touches the ground until you complete the present level. Keep matching them until you reunion blue blocks in all levels! All the best to clear all levels and become a puzzle champion! Do your best to get a top place on the leaderboards! We have plenty of funny and challenging games for kids to play online without download. Give them try one by tone to find a suitable one!</span></div><div><br></div>",
+      "size": 1280,
+      "height": 720,
+      "script": "https://m.shtoss.com/game/blue-story/index.html",
+      "metaTitle": "Blue Story, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Blue Story at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Blue Story Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8359,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.740Z",
+      "updatedAt": "2024-05-22T13:26:39.420Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO BREAK THE HURDLE TO MEET THE BLUE BLOCKS,DONT DROP THE TOP BLUE BLOCK TO FALL ON GROUND",
+      "webControlKeys": "L CLICK OF MOUSE TO BREAK THE HURDLE TO MEET THE BLUE BLOCKS,DONT DROP THE TOP BLUE BLOCK TO FALL ON GROUND"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
