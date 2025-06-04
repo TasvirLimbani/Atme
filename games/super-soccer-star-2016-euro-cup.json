@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b171",
+      "id": 1262,
+      "name": "Super Soccer Star 2016: Euro Cup",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "super-soccer-star-2016-euro-cup",
+      "image": "1262",
+      "url": "super-soccer-star-2016-euro-cup",
+      "description": "<div>Super Soccer Star 2016: Euro Cup is an extremely challenging and most in-demand soccer game designed for boys from all age groups. Join this brand new football game and get ready to score as many goals as you can in the sports-themed physics puzzles. Make sure that you use your logical mind to get through various levels with tricky goals. Move the ball to the net in order to score the goals for your team and lead them to the glorious victory in this free online sports games for boys!</div><div><br></div><div>Your primary aim in this game is to score the maximum possible penalties. The higher penalties you will score; the easier it will become for you to create the fun and thrill for your audience. European Soccer Championship is just about to begin and you can see all your favourite soccer champions training their team to perform best on the field. Get your shooters trained for doing the maximum number of goals, which can actually encourage the audiences to cheer for their favorite teams.</div><div><br></div><div>You have a limited amount of balls to score a goal. So, be careful and set your position before attempting a goal. Show off your ultimate skills to become the superstar of the year 2016. Use the mouse to hit the ball hard and move it to the right place. Spot the most appropriate angle and try to adjust your power before you make a shoot. Play this cool flash game and have a fun kids!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=7f848746fe2599dc199a75f0d02fc3d6\r\n",
+      "metaTitle": "Super Soccer Star 2016: Euro Cup, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Super Soccer Star 2016: Euro Cup at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "Super Soccer Star 2016: Euro Cup Game, Sports Games, Soccer Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517222281.xml",
+      "idealFor": "Man",
+      "likes": 19,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 8366,
+      "ownGame": false,
+      "addDate": "2018-01-29T16:08:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.686Z",
+      "updatedAt": "2022-08-23T23:21:30.088Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "3.2",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
