@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b383",
+      "id": 1896,
+      "name": "Tripeaks Castle Solitaire",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "tripeaks-castle-solitaire",
+      "image": "1896",
+      "url": "tripeaks-castle-solitaire",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Tripeaks Castle Solitaire is an awesome free online card game that can be played by people of all ages. You will have to remove all the cards in order to win the maximum possible rounds of this Solitaire game. You are sure to have great fun while moving all the cards from the available three Peaks into the Waste. Only open cards can be moved to the Waste. A card that is not covered by any other cards is considered as open.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">In order to get a new open card, all you need to do is click on the next card in this cool html5 game. You can cancel a last move by clicking the undo button. A wildcard i.e. Joker can be played at any time in this brand new arcade game. Match up each one of the cards in an appropriate order and enjoy a picturesque castle. You will see the whole bottom row open at the initial level. It’s good to open up other cards that are ready to be flipped over after moving the cards from the Peaks. Open other cards then to move to the Waste.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Check if the rank of the card is one lower or one higher than the top of the card and move it to the Waste. Get a card from the Stock and get ready to turn it over to the Waste in case if there is no card that you can move to the Waste. Going through the Stock is possible only one time, use the Stock only if you are pretty sure that you don’t have any cards to be moved from the Peaks. Moving all the cards from all three Peaks ensures your victory at the end of this brand new arcade game for boys and girls. Try out your unmatched card playing skills in the latest version of Solitaire!&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/e51833cd8c4d4b518dbb0b005af634bf/\r\n",
+      "metaTitle": "Tripeaks Castle Solitaire, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Tripeaks Castle Solitaire at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "Tripeaks Castle Solitaire Game, Racing Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9667,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2024-04-02T00:53:07.525Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON  CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
