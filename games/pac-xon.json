@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1c1",
+      "id": 1355,
+      "name": "Pac Xon",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "pac-xon",
+      "image": "1355",
+      "url": "pac-xon",
+      "description": "<div>Are you getting bored? Do you want to try something that you have not experienced before online? Join Pac Xon and get ready to dive into the pool of unique fun and entertainment! Here in this brand new adventure game, you have to fill the empty space and capture all the ghosts by just building wall around them. The moment you fill 80% or more empty space you will be forwarded to the next advanced level in this fast-paced combination of Pacman and Chomp.&nbsp;</div><div><br></div><div>Try to stay away from the ghosts since if you will be trapped by them you will lose your one life immediately. Make sure to fill in all of the spaces of the board while keeping your player away from the ghosts. The advanced version of this free online platform game features hungry Pacman, easy controls, lovely graphics and beautiful audio and video effects. Play this cool HTML5 game using arrow keys or swiping to move! Use your cognitive and quick-reaction time skill to create closed squares to reduce the area for the ghosts to move.&nbsp;</div><div><br></div><div>Control the movement of Pacman with the help of keyboard arrow keys and also collect the fruits that you see on the screen! Complete a closed square or a rectangle. If the ghosts touch the incomplete square or a rectangle, it will turn red and you lose your game. With 50 different levels, each level comes with different obstacles and you will be given three lives per level. This cute kids game is compatible with both desktops and mobile phones.&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/210802df55454737b3ef7f901c0de8d3/\r\n",
+      "metaTitle": "Pac Xon, Arcade Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pac Xon at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Pac Xon Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517299559.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 8505,
+      "ownGame": false,
+      "addDate": "2018-01-30T13:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.688Z",
+      "updatedAt": "2024-09-09T05:50:52.844Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO MOVE ",
+      "webControlKeys": "ALL ARROWS TOP MOVE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
