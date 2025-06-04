@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c2f9",
+      "id": 6187,
+      "name": "Santa Gift Truck",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "santa-gift-truck",
+      "image": "6187",
+      "url": "santa-gift-truck",
+      "description": "<div>Christmas is just about to come and most of people have already got busy in planning how to make this year festival celebration something special. We have today got you covered with a brand new racing game that combines the Christmas theme beautifully. Would you like to try it out? If yes, join Santa Gift Truck and gear up to help Santa grab the maximum number of gifts to achieve the goal of the game.</div><div><br></div><div>His truck is already on the way, but the problem is that he does not know how to drive it safely. You are the well-wisher of Father have decided to give your helping hand to Santa Claus. Get ready to drive on the rough terrain, or in the mountains with the help of your insane driving abilities! There are various weather conditions to enjoy in this HTML5 car game. Try to collect as many gift items as you can before reaching your destination!</div><div><br></div><div>Keep your eyes on the road and make sure that your truck does not lose the balance any time before reaching the destination! Santa has different types of trucks in his garage, so clear level and get a chance to unlock all the new trucks and make your game more interesting and engaging. Drift your like never before to gain extra points and become a real car pro! Plenty of other fun-filled free racing challenges are waiting for you on atmegame.com!</div>",
+      "size": 860,
+      "height": 480,
+      "script": "https://html5.gamedistribution.com/9b65e2584adf4192b518ae18072772ee/\r\n",
+      "metaTitle": "Santa Gift Truck Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Santa Gift Truck at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Santa Gift Truck Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1577254675.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 6910,
+      "ownGame": false,
+      "addDate": "2019-12-25T11:47:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.762Z",
+      "updatedAt": "2024-02-11T15:28:03.863Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "UP ARROW TO SPEED ,LEFT RIGHT AROOW TO STABLE THE VEHICAL"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
