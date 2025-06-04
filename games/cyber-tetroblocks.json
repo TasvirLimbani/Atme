@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9f3",
+      "id": 3675,
+      "name": "Cyber Tetroblocks",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "cyber-tetroblocks",
+      "image": "3675",
+      "url": "cyber-tetroblocks",
+      "description": "\r\nIn this awesome HTML5 game Cyber Tetroblocks you get a lot of challenges. How far can you make it? Use your skills and set the blocks on the right place&#33;",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/cyber-tetroblocks-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Cyber Tetroblocks, Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cyber Tetroblocks at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Cyber Tetroblocks Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 14,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7053,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2024-07-28T08:08:10.210Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE IMAGES INTO THE BLOCK TO COMPLETE ROWS AND COLOMS ",
+      "webControlKeys": "SWIPE THE IMAGES INTO THE BLOCK TO COMPLETE ROWS AND COLOMS BY KEEP PRES L CLICK OF MOUSE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
