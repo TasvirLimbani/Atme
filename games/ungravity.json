@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c3dd",
+      "id": 6475,
+      "name": "Ungravity",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "ungravity",
+      "image": "6475",
+      "url": "ungravity",
+      "description": "<div>This astronaut has suddenly found himself in a big problem. He noticed that his spaceship station begun to apply the generators to generate the gravity as the gravity control system suddenly blew up. And, the astronaut only has an escape pod to travel across the multiple models to flee away. However, it is the first time he is trying to use this method so he needs your help. Join Ungravity and be prepared to guided him fly through all the spaceship modules and flee safely!</div><div><br></div><div>Your logical and brainpower to complete each level in this brand new physics-based arcade game. Make sure to navigate your way through the difficult and challenging narrow alleyways of space in a zero-gravity area. You are the only hope for this brave and intelligent astronaut to fix the gravity control system. Maneuver your character with the help of a jetpack in a gravity-free environment while avoiding the collision with objects! You have to guide your character find the way in 25 unique levels in this HTML5 platform game.</div><div><br></div><div>Make sure to keep your character away from all the flying items in the shop on the route away. The proper use of this jetpack will allow you to help him safe his life and become a champion again in the outer space. No need to install this free arcade challenge in your desktop, mobile phone or any other gaming device! All you need to do is just open up your device and get a chance to experience the amazing gaming experience without download.</div>",
+      "size": 950,
+      "height": 535,
+      "script": "https://html5.gamedistribution.com/e246bd430159452da253d00af2e612eb/\r\n",
+      "metaTitle": "Ungravity Game,  Platform - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Ungravity at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ungravity Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579842581.xml",
+      "idealFor": "Man",
+      "likes": 96,
+      "dislikes": 45,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 30303,
+      "ownGame": false,
+      "addDate": "2020-01-24T10:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.765Z",
+      "updatedAt": "2025-02-16T07:15:39.625Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS ON ASTRONOT TO FLY",
+      "webControlKeys": "W,A,S,D TO MOVE"
+    },
+    "rating": {
+      "rating": "3.1",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
