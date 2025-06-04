@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1c4",
+      "id": 5765,
+      "name": "Road Fury",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "road-fury",
+      "image": "5765",
+      "url": "road-fury",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This Road Fury game will surely be enough to create an adrenaline rush in your body when you try it out during your free time. The journey is pretty difficult since the road is full of the traffic and people on the road will keep serving in front of you. Use your ultimate shooting skill to clear the road! Choose your targets and try to survive as long as possible to hit the best score on the screen. Keep driving fast on the highway and shoot down all the things that move!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Drive your car around the road while expressing your fury in this free online shooting game! Don’t forget to collect the coins since they will help you buy upgrades in future and new cars as well! This will surely assist you to be on the top of the leaderboards. Put your driving skill to challenge to drive fast on the street and blow up your car to submit the high score! Drive your vehicle using finger or mouse! Try to blow the maximum cars up to earn extra cash through which you can upgrade your boosters such as shield, rockets and laser!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Remember not all cars moving on the road are your enemy. Vans are difficult to take out and small are easier. You will also get the extra money or may be, sometimes, health through the supply vehicles. Try to stay away from the big chemical trucks that can explode anytime! Remember the combat vehicles have also been deployed by the military to stop your car. Do fast since they will not take a time to shoot you back! All the best to be a part of the biggest adventure in this one of the top fighting games!</span></div>",
+      "size": 600,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/5ad690029c1e42d2acd5bfd6ff12eeb3/\r\n",
+      "metaTitle": "Road Fury,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Road Fury at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Road Fury Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557761121.xml",
+      "idealFor": "Man",
+      "likes": 46,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 16098,
+      "ownGame": false,
+      "addDate": "2019-05-13T20:55:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.755Z",
+      "updatedAt": "2025-02-26T16:11:08.067Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP PRESS ON CAR TO CONTROL",
+      "webControlKeys": "KEEP PRESS ON CAR TO CONTROL"
+    },
+    "rating": {
+      "rating": "4.4",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
