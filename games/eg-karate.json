@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6d",
+  "category_name": "fighting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6d",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c1be",
+      "id": 5759,
+      "name": "EG Karate",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "eg-karate",
+      "image": "5759",
+      "url": "eg-karate",
+      "description": "<div><span style=\"font-size: 13.3333px;\">This action packed free online game will surely create an adrenaline rush in your body. The reason is pretty clear since EG Karate has it all that a fighting game offers. Join it today to show off your intense fighting moves! In this one of the best fighting games for kids, you need to be very fast since the enemies will come from both the sides left and side. Make sure to defeat all your enemies with a timely attack. There is more to explore when you play this free online game in your device.?</span></div><div><span style=\"font-size: 13.3333px;\">Don?t lose your focus for a single second otherwise your enemies will through you into the river and you will lose your game instantly! On the left side of the screen, the controls of the game will be show. Also check out the right area of the screen where you will see the punch button. Punch your enemies hard when you see your enemies coming to you! Give him a kick to destroy all these bad guys to protect your life! Apply the best fighting techniques to become a winner in this one of the most popular action games!</span></div><div><span style=\"font-size: 13.3333px;\">Remember, you might also be confused with the increased speed of the game later. Use Z, X key and arrow key to control your character and play this free online casual game! We at our website have tons of other kids games that are quite challenging, interesting and worth playing. No matter whether you are a kid, a teenager or a grown-up ? our beautifully-designed internet games have a lot to offer to you during your spare time. Check out all gams one by one to find out a suitable one!</span></div>",
+      "size": 800,
+      "height": 450,
+      "script": "https://html5.gamedistribution.com/814da1c8aac04c2fa046d5f0494945c7/\r\n",
+      "metaTitle": "EG Karate,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EG Karate at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "EG Karate Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1557761121.xml",
+      "idealFor": "Man",
+      "likes": 51,
+      "dislikes": 20,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13788,
+      "ownGame": false,
+      "addDate": "2019-05-13T20:55:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.755Z",
+      "updatedAt": "2025-03-14T01:57:24.357Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICONS TO MOVE,RIGHT ICONS TO HIT",
+      "webControlKeys": "UP/L-R ARROWS TO MOVE, Z-X TO HIT"
+    },
+    "rating": {
+      "rating": "2.3",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6d",
+      "name": "fighting",
+      "slug": "fighting",
+      "icon": "Fighting"
+    }
+  }
+}
