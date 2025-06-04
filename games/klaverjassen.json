@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b38a",
+      "id": 1903,
+      "name": "Klaverjassen",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "klaverjassen",
+      "image": "1903",
+      "url": "klaverjassen",
+      "description": "<div>One of the best arcade games to play for both boys and girls, Klaverjassen is surely a treat to card game enthusiasts. The fun and entertainment provided by this free online card game is really amazing. You as a player in this cute html5 game have to beat all the players left and right of you. Play it with 4 players who have to compete with each other and make your win in the end of this exclusively-designed arcade game. Choose options from music, sound and flip cards.</div><div><br></div><div>This brand new card game comes with a number of variants. It features a 32 card pack that includes the cards A, K, Q, J, 10, 9, 8, 7. Designed for gamers from all age groups, it is available for 4 players who are interested in playing in pairs while sitting opposite each other.&nbsp; The primary objective of this classic card game is to earn as many points as you can in 16 hands. Your job is to apply tricks to collect the maximum number of points. Play well using the valuable cards and also collect the bonus points during the gameplay.&nbsp;</div><div><br></div><div>You can begin this cool arcade game with determining the Trump. Your logical thinking and, of course, strategic mind will help to get through all the hurdles and achieve the mission. Make sure that you pay attention to the details and follow all the basis card rules in order to avoid the mistakes. More you try to be focused during the game, the better score you will be able to make in the end of this excellent free online card game.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/095def4e5b50476fb49a35bfb0b943af/\r\n",
+      "metaTitle": "Klaverjassen, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Klaverjassen at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "Klaverjassen Game, Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 8570,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2024-03-26T01:55:58.255Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON  CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
