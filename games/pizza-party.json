@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af11",
+      "id": 497,
+      "name": "Pizza Party",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "pizza-party",
+      "image": "497",
+      "url": "pizza-party",
+      "description": "<div>Manage a Pizza Party and be the first one to get the perfect Pizza prepared for your customers. In this fast-paced cooking game for girls, your task is to place the right ingredients quickly, cook the extremely delicious Pizza, and serve it perfectly. This most popular free online game is designed for those who love cooking. Two players can participate in this cool girls game. Each player uses different ingredients such as a slice of pizza, and different pizza toppings.?</div><div><br></div><div>You can start this wonderful game right by collecting all the pizza ingredients to the rolling of your pizza. In this fast and furious rolling game, your job is to match your rolled dice to the images on the slice. Remember, each slice of pizza is available there with different kinds of toppings. Do not forget to grab another slice once you are done with filling in the previous slice. You will be declared to be the winner of a particular round only if you complete all pizza (6 pieces) first.?</div><div><br></div><div>In order to ensure the victory in this flash cooking game, you have to use your best cooking skills to prepare the highly scrumptious pizza. Everyone loves eating a slice of delicious pizza along with a wonderful drink while going outside to have fun and enjoy. Try your hand and prepare the best possible quality of your favorite dish and make this party time memorable forever in this fun online cooking game for girls. Your accuracy and speed will matter to ensure the victory in this exciting and thrilling game. Follow the instructions properly to prepare this delicious dish in a time-based game.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://h5.4j.com/Pizza-Party/index.php?pubid=O7WHB66U",
+      "metaTitle": "Pizza Party, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Pizza Party at atmegame.com ! We have selected this girls games for best excitement and thrill in you!",
+      "metaKeyword": "Cooking Games, Cooking Games For Girls, Girls Games, Games for Girls",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 192,
+      "dislikes": 17,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 22159,
+      "ownGame": false,
+      "addDate": "2017-07-22T19:31:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.668Z",
+      "updatedAt": "2025-05-11T04:27:46.468Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SELECT THE ITEMS TO COMPLETE THE ORDERS",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS TO COMPLETE THE ORDERS"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 21
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
