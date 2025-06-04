@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b1e1",
+      "id": 1390,
+      "name": "Battle Ram",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "battle-ram",
+      "image": "1390",
+      "url": "battle-ram",
+      "description": "<div>Have you got bored with skill-based games available on other websites? Give this brand new adventure game named Battle Ram a try and get ready to forget the world around you! This beautifully-designed platform is sure to take you to a world where fun and thrill are available in unlimited amount. It takes a few clicks and you will have access to a completely free online escaping game! Your job is to head-butt your way through the castle while avoiding the boxes.&nbsp;</div><div><br></div><div>Make sure to hit all the enemies to increase your score in this cute online kids game. Your rampage will fail as you touch the orange line given at the bottom of the screen. At that time, the score you make in the current game will be displayed right at the center of the screen. On this page, you will also get an option to play your game again and explore the menu options. Hey, you can play this cool HTML5 game with or without music in your preferred device. Press Enter key to skip the tutorial. Ram enemies for speed, Press UP to jump and remember that boxes slow you down.&nbsp;</div><div><br></div><div>Check out the distance you have covered as far right at the left side of the screen in this one of the best adventure games for boys! Hit your enemies, which you can see in orange, purple and blue colour! This mobile-friendly funny game is suitable for everyone – children and families. Our easy-to-navigate, free online game website is proud to offer more thrilling and entertaining adventure games. All you need is just go through all games one by one to pass your free time in the optimum possible way!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=4fe4582f2a8b498cae1ea3e0718e28cd\r\n",
+      "metaTitle": "Battle Ram, Escaping Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Battle Ram at atmegame.com ! We have selected this escaping games for best excitement and thrill in you!",
+      "metaKeyword": "Battle Ram Game, Adventure Games, Escaping Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517489143.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7586,
+      "ownGame": false,
+      "addDate": "2018-02-01T18:15:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.688Z",
+      "updatedAt": "2024-01-17T03:21:21.651Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
