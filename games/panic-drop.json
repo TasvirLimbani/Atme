@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7f",
+  "category_name": "escaping",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682be0d",
+      "id": 4758,
+      "name": "Panic Drop",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "panic-drop",
+      "image": "4758",
+      "url": "panic-drop",
+      "description": "<div><span style=\"font-size: 13.3333px;\">New jumping challenges always excite players of all ages. You do not need to be kid to enjoy these cute online games. Having a mobile phone or carrying a desktop or any iPad or iPhone can allow you to explore the unlimited fun possibilities offered by them. Are you ready to take on that challenge? Join Panic Drop and be prepared to handle a small character that wants to cover a long distance in the air! Hurdles will be there on both the sides.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Playing this free online escaping game sounds easy, but it includes several complex challenges that can only be cleared if you stay alert. Be careful since hurdles will keep appearing from top and bottom! The only way to avoid them is to keep clicking or tapping the screen to fly your character. Your game will be over if you hit the walls and any obstacles on the way. Make sure to grab as many balls as you can to improve your score in this addictive html5 adventure game.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your primary job in this platformer game for boys is to survive as long as you can. Initially you fail in creating score, but you can do something big if you continue for sometimes. Your focus and quick reacting abilities will allow you to create the highest score. Keep playing this cool skill mobile game to pass your free hours when you are bored! Check out more funny and challenging highscore games for kids to have a blast online!</span></div>",
+      "size": 540,
+      "height": 960,
+      "script": "https://m.shtoss.com/game/panic-drop/index.html",
+      "metaTitle": "Panic Drop, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Panic Drop at atmegame.com ! We have selected this Platform games for best excitement and thrill in you!",
+      "metaKeyword": "Panic Drop Game, Adventure Games, Platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1545741075.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6839,
+      "ownGame": false,
+      "addDate": "2018-12-25T18:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.741Z",
+      "updatedAt": "2024-03-22T11:35:40.217Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPPING ON SCREEN TO JUMP",
+      "webControlKeys": "KEEP  TAPPING L-CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7f",
+      "name": "escaping",
+      "slug": "escaping",
+      "icon": "Escaping Games"
+    }
+  }
+}
