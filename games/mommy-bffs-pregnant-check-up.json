@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b7e2",
+      "id": 3107,
+      "name": "Mommy BFFs Pregnant Check Up",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "mommy-bffs-pregnant-check-up",
+      "image": "3107",
+      "url": "mommy-bffs-pregnant-check-up",
+      "description": "Go to the doctors with two cute BFFs who are about to become mommies for the first time! There are a lot of fun tools you can use to take their temperature and measure their heart beat. After you were made sure everything is going well, go ahead and give the two mommies fresh fruits and healthy shakes to keep their vitamin levels up. Play some music for the babies and choose a fun belly tattoo for each of them! This will be a fun day that will both remember dearly.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/cdd0eb3501ab45b9aae9ab4b0eaf6922/\r\n",
+      "metaTitle": "Mommy BFFs Pregnant Check Up, Doctor Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mommy BFFs Pregnant Check Up at atmegame.com ! We have selected this doctor games for best excitement and thrill in you!",
+      "metaKeyword": "Mommy BFFs Pregnant Check Up Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533531440.xml",
+      "idealFor": "Man",
+      "likes": 17,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 9654,
+      "ownGame": false,
+      "addDate": "2018-08-06T10:27:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.719Z",
+      "updatedAt": "2024-03-25T19:05:34.375Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO SELECT THE ITEMS TO TREAT THE MOMS",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS TO TREAT THE MOMS"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
