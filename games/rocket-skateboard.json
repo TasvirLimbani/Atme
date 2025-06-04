@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad63",
+  "category_name": "skating",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad63",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae43",
+      "id": 107,
+      "name": "Rocket Skateboard",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "rocket-skateboard",
+      "image": "107",
+      "url": "rocket-skateboard",
+      "description": "The rocket skateboard game in category of skating games is game for the players and kids who love fast and rapid swinging from one place to another one. In this free sports game online, there are total four levels where your skate boarding skills are deemed to be acquired and win over.<br><br>In the skate board game, you have to push yourself at a very fast and rapid speed as from on the track and then jump as far as possible away from the track. In meanwhile, keep on pressing space bar to get as much as possible space, horizontally.<br><br>Though, when moving become alert to collect the green leaves powering you up as well as red boxes for fueling you to maximum capacity. With the help of acquired points or while before the start of the game with a 630 cash multiple buying options are available for head gear, body armor, boards, wheels, rockets, aerial tricks, ground trick s and many more.<br><br>In the skate board free games while pressing space bar once let to lose fuel five times. With respect to mouse control in the game, play space bar to raise the height to the maximum level and for other distance covering movements press arrow key to the maximum.",
+      "size": 700,
+      "height": 525,
+      "script": "https://flash.gamedistribution.com?game=39fa4a5cc16a4d07b79342e4a4c0f676",
+      "metaTitle": "Rocket Skateboard, Skating Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Rocket Skateboard in the category of sporting activities is the game preferred by players and kids who love fast and rapid swinging from one place to another one. ",
+      "metaKeyword": "Rocket Skateboard, Sports, Skating, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 116,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 18383,
+      "ownGame": false,
+      "addDate": "2016-07-03T05:57:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2024-09-22T10:25:37.974Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad63",
+      "name": "skating",
+      "slug": "skating",
+      "icon": "skating-games"
+    }
+  }
+}
