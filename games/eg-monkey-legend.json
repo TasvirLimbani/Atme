@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfe6",
+      "id": 5244,
+      "name": "EG Monkey Legend",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "eg-monkey-legend",
+      "image": "5244",
+      "url": "eg-monkey-legend",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you ready to go on the biggest adventure of your life? Join EG Monkey Legend game and be prepared to handle a unique kind of task where the quantity of fun and adventure is limitless. We hope that this brand new platform game has everything you need to keep you engrossed for hours. The primary objective in this game is to help your monkey to go as long as possible over the platform that is full of different kinds of obstacles.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">It will be your responsibility to guide him when to run over the platforms and jump over the hindrances around multiple levels. Do not forget to help him to collect as much coins as you can in this cool adventure game. You can purchase new characters, advanced weapons also and some trendy outfits for your characters with the help of these coins. No need to show to pity on your enemies. Try to kill them as you spot them.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">These enemies can be in the form of wild pigs, flying bugs and foxes. Keep running and jumping and go as far as you can in this fun platformer game. Move forward and fight against deadly enemies until you defeat and put them down on the ground. This html5 adventurer game includes colorful graphics and easy controls supported by the fabulous storylines and seamless gameplay. Good luck to play like a true jumper in all 8 levels and have a blast!&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/a6b07e5fd40e424fabd52fed22ce95a8/\r\n",
+      "metaTitle": "EG Monkey Legend,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game EG Monkey Legend at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "EG Monkey Legend Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1549352188.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6998,
+      "ownGame": false,
+      "addDate": "2019-02-05T13:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.748Z",
+      "updatedAt": "2022-08-23T23:21:30.161Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "L-R ARROWS TO MOVE,SPACE-JUMP,X- ATTACK"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
