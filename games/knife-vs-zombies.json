@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c423",
+      "id": 6547,
+      "name": "Knight Vs Zombies",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "knife-vs-zombies",
+      "image": "6547",
+      "url": "knife-vs-zombies",
+      "description": "<div>The horde of deadly and blood-thirsty zombies has attacked your city and you as a hero have taken the responsibility of facing them all. Hurry up boys! The undead is large in number and will take a few moments to attack and destroy your castle. Grab your knives and be prepared to clear the area from these dangerous monsters in Knight Vs Zombies! Do not take them easily as they also carry sharp knives to kill you. Fight like a champion to take revenge against them in this brand new action game!</div><div><br></div><div>Hey! You have knives in unlimited amount so there is no need to feel depressed. Keep releasing as knives as you can upon the deadly zombies to defeat all of them and create the best high score in this HTML5 shooting game! Do not forget to use your special powers to win boss fights and unlock new game mode. Your good score will allow you to score some extra points through which you can also buy upgrades to make your game more interesting and challenging.</div><div><br></div><div>You can achieve great rewards by building up your skills and challenges. Make sure that your health is not affected by the attack of your enemies. Defeating the root of evil can only be possible if you focus on the improvisation of your weapons and armors. Common friends! You have the skill to conquer and clean the area from the dangerous evil knights. Try to keep your character away from the scary and strong zombies! Good luck to fight like a true fighter to create your best new high score and have a blast without download!</div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/knife-vs-zombies/",
+      "metaTitle": "Knife Vs Zombies Game, Shooting - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Knife Vs Zombies at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Knife Vs Zombies, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 4002,
+      "dislikes": 360,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 585802,
+      "ownGame": true,
+      "addDate": "2020-11-21T14:39:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-06-04T04:20:05.279Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE UP ON HERO TO FIX AND HIT THE TARGET,SWIPE DOWN TO SAVE HIM",
+      "webControlKeys": "CLICK LEFT AND HOLD TO FIX THE TARGET RELESE TO HIT, CLICK ON HERO TO SAVE FROM KNIFE"
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 293
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
