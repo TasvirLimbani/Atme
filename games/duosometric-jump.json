@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c40d",
+      "id": 6525,
+      "name": "Duosometric Jump",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "duosometric-jump",
+      "image": "6525",
+      "url": "duosometric-jump",
+      "description": "<div><div>Oh no! This time you have to control two characters on the two moving platforms at a time! Would you think that you can handle this job perfectly? Join Duosometric Jump game and be prepared to control 2 cute and lovely characters at the same time! The gameplay is very fast and you only have to challenge your quick reflexes and hand-eye coordination abilities to the test to create your best score. These two characters want to stay on two separated lanes.</div><div><br></div><div>Make sure that any of the character does not hit any obstacles otherwise you will lose the game immediately. You have to follow this rule on both the rules in this endless isometric runner game. Make your first character jump by touching the left side of the screen and make the second one jump by touching the right side of the screen! It sounds easy to play, but complexities will keep increasing as you progress in the game.</div><div><br></div><div>This endless runner game includes cool graphics combined with easy controls and seamless gameplay, which is skilled enough to keep you entertained for hours. Track your score on the top right corner of the screen during the gameplay, while you can also check it when your game finishes. Good luck to guide both the characters to jump for as long as possible on the two lanes to create your best new score! Check out other free arcade games on our websites to add extra thrill and enjoyment to your funny hours!</div></div>",
+      "size": 450,
+      "height": 800,
+      "script": "https://games.atmegame.com/games/duosometric-jump/",
+      "metaTitle": "Duosometric Jump Game, Arcade - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Duosometric Jump at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Duosometric Jump, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 149,
+      "dislikes": 18,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 48955,
+      "ownGame": true,
+      "addDate": "2020-07-12T15:35:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-01-29T06:19:59.776Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON LEFT TO JUMP THE RIGHT BLOCK, TAP ON RIGHT SIDE OF SCREAN TO JUMP LEFT BLOCK",
+      "webControlKeys": "CLICK ON LEFT TO JUMP THE RIGHT BLOCK, CLICK ON RIGHT SIDE OF SCREAN TO JUMP LEFT BLOCK"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 13
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
