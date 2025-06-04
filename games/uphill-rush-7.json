@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad74",
+  "category_name": "uphill",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad74",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae53",
+      "id": 126,
+      "name": "Uphill Rush 7",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "uphill-rush-7",
+      "image": "126",
+      "url": "uphill-rush-7",
+      "description": "Uphill Rush 7 is the game based around the idea and theme of the getting indulged into the thrill based <a href=\"http://www.atmegame.com/online-uphill-games\" title=\"\" target=\"\"><font color=\"#0033cc\">uphill online racing game</font></a> so that a player could enjoy this game to the fullest of excitement and joy. In the game, that is three modes of racing including easy, difficult and normal, a player swings towards the finish line. However, after completing the race in the easy mode, a player could there reach to the next level of gaming enthusiasm and activities. <br><br>The online Uphill Rush 7 game is constituted around the online racing game play of handing the running upward direction in a top speed and balancing the player when he is coming downward in an absolute manner and direction. But reaching at the finish line in this online racing game is not that much easy and simpler as you will found the so many obstruction on the way to heading upward in this online racing game. He is required to jump over all the obstructions left out there broken planks and, whenever, he need to jump with a complete balance, without crashing with the water pipes.<br><br>The coins and cash are even awarded for completing a level in the game. Customization is too offered in the game so that players could enjoy the game in an exclusive manner and style.",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/f226ec3881e14d52983a0b57003b4d6e/",
+      "metaTitle": "Uphill Rush 7, Uphill Games - Play Online Free : Atmegame.com",
+      "metaDesc": "In the category of online racing games Uphill Rush 7 is the game, where players get themselves positioned against the uphill racing against the time.",
+      "metaKeyword": "uphill rush 7, Racing, Uphill, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 252,
+      "dislikes": 28,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 25073,
+      "ownGame": false,
+      "addDate": "2016-07-03T07:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2025-04-11T06:02:17.300Z",
+      "__v": 0,
+      "mobileControlKeys": "CONTROLS NOT WORKING",
+      "webControlKeys": "SPACE-JUMP, UP ARROW- ACCELERATE, L ARROW-LEAN BACK,R ARROW- LEAN FORWARD, DOWN ARROW- REVERSE"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 26
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad74",
+      "name": "uphill",
+      "slug": "uphill",
+      "icon": "Uphill"
+    }
+  }
+}
