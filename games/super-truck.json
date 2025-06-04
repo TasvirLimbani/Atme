@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b33a",
+      "id": 1805,
+      "name": "Super Truck",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "super-truck",
+      "image": "1805",
+      "url": "super-truck",
+      "description": "You are a good truckman. Here is a freightage task. Carry the freight from a factory to the destination. In the process, you will experience some trouble. Try your best to solve the problem. You can do a good job! Come on!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=e41224911ae147e8a9285ddc5a4910ff\r\n",
+      "metaTitle": "Super Truck, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Super Truck at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Super Truck Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630155.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7950,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.696Z",
+      "updatedAt": "2022-08-23T23:21:30.096Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
