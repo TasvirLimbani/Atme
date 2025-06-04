@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ae55",
+      "id": 128,
+      "name": "Penalty Shootout 2012",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "penalty-shootout-2012",
+      "image": "128",
+      "url": "penalty-shootout-2012",
+      "description": "The most exciting of the football moments, whether, it is a live game or the online one, they are the penalty shootout. In these gaming moments, you can choose penalty shootout in one of the most exciting free football games available, online.<br><br>However, before, getting into the kicking straight into the goal post, in this online sports game you have to be part of one of the sixteen teams that are playing in the game. Of all the sixteen teams that has been divided into four groups ABCD in this online football games include Czech, Crotia, Armenia, Ukraine, Spain, Sweden, Portugal, Denmark, Italy, Poland, France, Netherlands, Ireland, Germany, England and Russia.<br><br>At the group level after winning all the three games you reach into the quarter finals. Success at quarter finals leads you to Semi Finals and finally you win the trophy of Penalty Shootout 2012 in the free soccer games.<br><br>However, the trickiest part of this online <a href=\"http://www.atmegame.com/online-sports-games\" title=\"\" target=\"\"><font color=\"#0033cc\">sports game</font></a> is penalty shootout. Where aiming on a goal, it is required aiming with the mouse and shooting with a force by releasing mouse right left button. When aiming at the goal post, it is required to adjust height, width and pitch of the kick by the slider available at the game. Whereas for saving the goal you are required to click on the globe sticker in order to save the goalpost.",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=aea23b38661a4e3b9e5dfeef83f4dabb",
+      "metaTitle": "Penalty Shootout 2012, Soccer  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Penalty Shootout 2012 is one of the famous soccer games that have been loved by online gamers for the penalty shootout in free football games available online.",
+      "metaKeyword": "Penalty Shootout 2012, Sports, Soccer , Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 103,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 18614,
+      "ownGame": false,
+      "addDate": "2016-07-03T07:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.663Z",
+      "updatedAt": "2024-10-15T17:04:27.871Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 16
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
