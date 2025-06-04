@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6b",
+  "category_name": "golf",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0af",
+      "id": 5450,
+      "name": "Mini Golf",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "mini-golf",
+      "image": "5450",
+      "url": "mini-golf",
+      "description": "<div><span style=\"font-size: 13.3333px;\">In Mini Golf game, you will be allowed to enjoy your fantasy for your favorite sport “golf”. No need to waste your time anymore and stay connected with atmegame.com to try this cute golf online game! You will find yourself standing on a set location when you enter the game. Shoot your ball right into the hole in different mountains in this cool sports game! Make sure to aim your target perfectly before hitting the ball.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Remember you will be able to create the best score with the use of fewer times. It is time to show off your fine golf skills and invite your friends to be a part of the biggest fun online. Give yourself a chance to play on a field surrounded by the greenery environment! Be prepared to face off the increased difficulties and challenges as you progress through the levels in this latest golf challenge!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Take your time and pay attention to details before making your first hit! Keep your eyes on the ball and focus on making a putt with as fewer launches as possible! Try to clear all levels with three stars by projecting your shot at the most appropriate angle! Give your golf skills a tough challenge to prove the world that you are truly a golf legend in the virtual world! Launch the ball by dragging the LMB backwards near it! Good luck to get the ball into the ball in this simple and addictive puzzle!</span></div>",
+      "size": 1150,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/64ce0ed6d0324264bdfabe0e93addece/\r\n",
+      "metaTitle": "Mini Golf,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Mini Golf at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Mini Golf Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 36,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 14687,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-01-09T16:33:27.778Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON SCREEN TO SELECT THE DIRECTION RELESE TO HIT THE BALL",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SELECT THE DIRECTION,RELESE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 6
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6b",
+      "name": "golf",
+      "slug": "golf",
+      "icon": "golf-games"
+    }
+  }
+}
