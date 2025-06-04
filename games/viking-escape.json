@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c294",
+      "id": 6067,
+      "name": "Viking Escape",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "viking-escape",
+      "image": "6067",
+      "url": "viking-escape",
+      "description": "<div><span style=\"font-size: 13.3333px;\">We have taken you today to a brand new adventurous trip where you have to control a Viking flying on a dragon. Since sharp concentration and quick reflexes are a need of handling this job, you will be called up to take care of this job. Are you free right away to try out the most challenging yet fun adventure game of your life? Join Viking Escape and gear up to guide the Viking make his way through the troll-infested woods! You can make him fly high and low in the sky.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Your way is not going to be easy at all since the entire dark forest is filled with dangerous goblins and other deadly mutants. Make sure that Viking keeps throwing different types of weapons to destroy all the enemies that come along his way. Do not forget to control his dragon to breathe a fiery flame. Keep your eyes on the diamonds and ammunition along the way and try to collect as many as possible to make your character power and boost your score!</span></div><div><span style=\"font-size: 13.3333px;\">The primary objective of the Viking is to get out of this dark forest where he can find nothing but lots of enemies. It is up to you how to help him survive throughout the woods and reach his destination safely in this free online flying game. Track the health bar of Viking by looking at his head! Try to complete his journey before the time expires in this funny skill game Viking Escape! The top of the screen will also show how much money you have earned till now. Good luck to create your best high score by playing like a pro without download!</span></div><div><br></div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/viking-escape/",
+      "metaTitle": "Viking Escape Game - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Viking Escape at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Viking Escape Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1562507887.xml",
+      "idealFor": "Man",
+      "likes": 157,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 49052,
+      "ownGame": true,
+      "addDate": "2019-07-07T19:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.760Z",
+      "updatedAt": "2024-09-20T14:30:57.729Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT RIGH UP DOWN ICONS TO MOVE THE OBJECT, RIGHT ICON TO HIT THE TARGET",
+      "webControlKeys": "W,A,S,D ALL ARROWS- MOVE, LEFT CLICK OF MOUSE/SPACE-HIT"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 20
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
