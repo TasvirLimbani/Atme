@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad9b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf64",
+      "id": 5107,
+      "name": "Ninja Clan",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "ninja-clan",
+      "image": "5107",
+      "url": "ninja-clan",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Welcome to the exclusive world of Ninja! As of now, we have learnt that Ninja is blessed with the amazing powers of controlling multiple types of weapons including shuriken, tekkoukagi, bow, etc. Today we will meet a Ninja who looks pretty excited to avoid the shuriken and grab the apples. However, he needs your support in doing so. Do you support him in this challenging task? Join Ninja Clan and be prepared to help your favorite character survive as long as possible!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this cute free online jumping game is to control Ninja who has a mission of dodging the shuriken and collecting tasty apples. Be careful as the dangerous shuriken will keep moving randomly without giving you any prior warning! The only way to survive is to put your quick reflexes to challenge to dodge the shuriken. Do not forget to collect the fruits that keep emerging from both the sides of the screen. Try to help him make timely jumps in this fast-paced html5 skill based game!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Do your best to change platforms as many times as you can and collect as much fruits as possible until you reach your demise! We know that you have the skill to create the best score today and top the leaderboard through your sharp reflexes. Check out more ninja jumping escape games for free online without downloading games or installing any unwanted heavy files, software or apps! All the best for a happy gaming experience!</span></div>",
+      "size": 693,
+      "height": 600,
+      "script": "https://m.shtoss.com/game/ninja-clan/index.html",
+      "metaTitle": "Ninja Clan,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ninja Clan at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ninja Clan Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9042,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2023-10-04T00:08:42.006Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON NIJJA TO TO MOVE UP DOWN TO COLLACT THE FRUITS",
+      "webControlKeys": "CLICK ON NNIJJA TO JUMP UP DOWN TO COLLECT THE FRUITS"
+    },
+    "rating": {
+      "rating": "4.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad9b",
+      "name": "jumping",
+      "slug": "jumping",
+      "icon": "icon-iconAsset-47"
+    }
+  }
+}
