@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b50a",
+      "id": 2309,
+      "name": "Spanish card",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "spanish-card",
+      "image": "2309",
+      "url": "spanish-card",
+      "description": "<div><span style=\"font-size: 13.3333px;\">The highly addictive and challenging memory game is out! Are you interested in trying your hands in this brand new arcade game to improve your skill? If yes, Spanish Card is just for you. Your objective is to make pairs with the help of cards before the time expires. The controls of the game are easy to understand, but it is quite difficult to clear all its levels. A kind of full concentration and hand-eye coordination skills are required to complete the advanced modes.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">There are four unique and amazing levels including very easy, easy, medium and difficult to play through. The number of cards will keep increasing as you progress in this HTML5 puzzle game. The left top corner of the screen will show how many card matches you have to make. You can learn how many turns you have used to complete your puzzle by looking at the top right corner of the screen. Hurry up! Your time is running as the clock is available at the top bottom of the screen.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">The right bottom area of the screen will also show you how much maximum time is available for you to complete this puzzle. Put your memory skills to the test to complete all the four modes as fast as you can! You can browse through our wider collection of free arcade games to spot some more addictive and engaging fun challenges, no download requires. We are pretty sure that this practice will keep you away from the feeling of boredom and give you some entertaining yet meaningful hours. Good luck!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/c2bdaa4ec39d4c4fa23deae587708d0b/\r\n",
+      "metaTitle": "Spanish Card, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Spanish card at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Spanish card Game, Action Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 26,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 9714,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2025-05-23T04:56:33.011Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "L CLICK OF MOUSE TO MATACH THE SAME CARD"
+    },
+    "rating": {
+      "rating": "2.7",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
