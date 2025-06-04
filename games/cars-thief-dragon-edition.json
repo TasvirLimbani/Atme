@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7e",
+  "category_name": "flying",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7e",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b577",
+      "id": 2458,
+      "name": "Cars Thief Dragon Edition",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "cars-thief-dragon-edition",
+      "image": "2458",
+      "url": "cars-thief-dragon-edition",
+      "description": "Cars Thief Dragon Edition, Flying Games<br>",
+      "size": 800,
+      "height": 600,
+      "script": "https://www.pacogames.com/webgl/cars-thief-dragon-edition/index.php",
+      "metaTitle": "Cars Thief Dragon Edition, Flying Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cars Thief Dragon Edition at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Cars Thief Dragon Edition Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://api.pacogames.com/export/games/en",
+      "xmlFile": "multi_item_1529405719.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 9838,
+      "ownGame": false,
+      "addDate": "2018-06-19T16:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.710Z",
+      "updatedAt": "2024-09-22T08:49:46.824Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "Q- FLY/ LAND, SPACE- JUMP/GO UP, 1,2,3- RUN/WALK,, SHIFT- STOP WINGS, C-DOWN, L MOUSE- FIRE BALL, RIGHT MOUSE-- FIRE BRETAH, F- RIDE THE DRAGON, W,A,,S,D ALL ARROWS TO MOVE"
+    },
+    "rating": {
+      "rating": "3.3",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7e",
+      "name": "flying",
+      "slug": "flying",
+      "icon": "Flying"
+    }
+  }
+}
