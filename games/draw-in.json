@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bd7b",
+      "id": 4611,
+      "name": "Draw In",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "draw-in",
+      "image": "4611",
+      "url": "draw-in",
+      "description": "<div><span style=\"font-size: 13.3333px;\">You have to challenge your brain in this brand new arcade game no matter how much you are skilled enough to sort out the puzzle challenges. Calculate the length of the shape that you see on the screen and get ready to draw a line using your mouse or tapping your screen! Make sure that your line surrounds the figure perfectly. All it takes to discover the image in each level while avoiding being too short or too long. Determine the lengths by showing your magnificent skills in Draw In!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Take your time to set the line height and use your mind to draw in the picture with the most suitable length of the line! You would have 80 unique and challenging levels to play with. Use your guessing abilities to measure the correct length of the shape in this relaxing arcade puzzle challenge! It will be amazing to meet with multiple cute and beautiful animals and shapes. Be fast to draw the line perfectly so that the picture will get the colors it deserves!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your job is pretty challenging, but it is a wonderful method to kill your time. Make sure to grow a line that covers the whole surface in this one of the best drawing games for kids. Try to draw a line that reaches to the red dots to complete each level! Guide yourself through every stage and be prepared to reveal all the possible images by using the horizontal lines on the background. Covering the perfect line will help you to reward with the maximum possible stars! Let us see how many objects you can sketch! Check out more engaging and addictive kids games that you can enjoy for free to play, no download required!</span></div>",
+      "size": 640,
+      "height": 960,
+      "script": "\nhttps://html5.gamedistribution.com/83499a15592b4abd94d0f4a3a8dbef84/\n",
+      "metaTitle": "Draw In, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Draw In at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Draw In Game, Arcade Games, Puzzle Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1544527568.xml",
+      "idealFor": "All",
+      "likes": 25,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8903,
+      "ownGame": false,
+      "addDate": "2018-12-11T16:56:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.739Z",
+      "updatedAt": "2025-05-01T06:36:15.107Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP AND HOLD  TO MAKE THE PEFECT LINE AND RELEASE TO COMPLETE THE IMAGE",
+      "webControlKeys": "KEEP PRESS L-CLICK OF MOUSE TO MAKE THE PERFECT LINE AND RELEASE TO COMPLETE THE IMAGE"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
