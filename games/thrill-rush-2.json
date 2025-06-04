@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad74",
+  "category_name": "uphill",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad74",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b2cf",
+      "id": 1684,
+      "name": "Thrill Rush 2",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "thrill-rush-2",
+      "image": "1684",
+      "url": "thrill-rush-2",
+      "description": "Jump back in the cart for the ride of your life! Do you have the skills to survive this runaway rollercoaster?\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=d61a04fd600e452180bd134180cb3422\r\n",
+      "metaTitle": "Thrill Rush 2, Uphill Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Thrill Rush 2 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Thrill Rush 2 Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519629168.xml",
+      "idealFor": "Man",
+      "likes": 58,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 12988,
+      "ownGame": false,
+      "addDate": "2018-02-26T12:42:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.694Z",
+      "updatedAt": "2024-03-30T05:23:01.826Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "4.1",
+      "count": 15
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad74",
+      "name": "uphill",
+      "slug": "uphill",
+      "icon": "Uphill"
+    }
+  }
+}
