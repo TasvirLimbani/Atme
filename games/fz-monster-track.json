@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad79",
+  "category_name": "truck",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad79",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c33c",
+      "id": 6270,
+      "name": "FZ Monster Track",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "fz-monster-track",
+      "image": "6270",
+      "url": "fz-monster-track",
+      "description": "<div>We have happy news for all the monster truck racing enthusiasts! Are you also the one among those who love riding multiple designs of trucks on different tricky tracks in the virtual world? If so, you have reached out at the right place. Today we have got you covered with a brand new racing game where you have to control a cool monster truck on the challenging tracks. Join FZ Monster Track and be prepared to guide your truck in the awesome hill climb racing in your own style!</div><div><br></div><div>Wow! You can drive your truck upward and backward with the help of the icons shown on both left and right sides of the screen. Try to grab as much coins as you can while performing stunts using your vehicle in this HTML5 truck game! Track your distance status by looking at the top portion of the screen! It is all about how wisely you use the accelerator and brake of the vehicle to reach to the destination without falling.&nbsp;</div><div><br></div><div>Hey boys! You would 60 unique and tricky levels to play through and 5 cool other cars to play with. Use your coins to buy new car models and customize it as per your own requirements! The cool music, beautiful 2d graphics, easy controls and seamless gameplay will have a lot to keep you glued to the screen without download. Give it a single try and allow yourself to enjoy the best driving experience while having unlimited fun, no extra efforts required to play online for free!</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/cc80d85fcbd24054a83b6a2169cf52e9/\r\n",
+      "metaTitle": "FZ Monster Track Game, Truck - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game FZ Monster Track at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "FZ Monster Track Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579515784.xml",
+      "idealFor": "Man",
+      "likes": 148,
+      "dislikes": 37,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 32146,
+      "ownGame": false,
+      "addDate": "2020-01-20T15:53:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-03-31T16:58:07.344Z",
+      "__v": 0,
+      "mobileControlKeys": "RIGHT ICON TO SPEED UP,LEFT TO BALANCE ",
+      "webControlKeys": "RIGHT ARROW TO SPEED UP, LEFT TO MAKE BALANCE OF CAR"
+    },
+    "rating": {
+      "rating": "3.2",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad79",
+      "name": "truck",
+      "slug": "truck",
+      "icon": "Truck"
+    }
+  }
+}
