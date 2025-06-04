@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b92e",
+      "id": 3468,
+      "name": "Block World",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "block-world",
+      "image": "3468",
+      "url": "block-world",
+      "description": "Block World is online Minecraft style game. Craft and grow your own village or build freely in an unlimited open world! Collect various of blocks, and built your own minecraft world. Enjoy hours of crafting and building.\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/21c17cd544534a0f9058bbf0a39410d2/\r\n",
+      "metaTitle": "Block World Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Block World at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Block World Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536575483.xml",
+      "idealFor": "Man",
+      "likes": 41,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 15851,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-07-14T09:06:20.419Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,,S,D ALL ARROWS TO MOVE, 1...9- CHOOSE THE BLOCKS, L CLICK- MOVE THE BLOCK, ,R CLICK- PUT THE BLOCK"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
