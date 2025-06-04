@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad88",
+  "category_name": "boys",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bf65",
+      "id": 5108,
+      "name": "Sky Race",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "sky-race",
+      "image": "5108",
+      "url": "sky-race",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Forget all the arcade games you previously tried out on the road and get ready to speed through the wonderful sky in Sky Race game! With this brand new arcade challenge, you will get an opportunity to immerse yourself in a cute and eye-popping minimalist environment. No need to waste your time to check out other minimalist game when you have plenty of dangerous rivals, crazy speeds and unpredictable tracks to explore here. Victory will be yours if you are skilled enough to survive the ascending spikes.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Your objective in this skill game is to control a black ball that wants to fly high in the sky. The only way to survive is to keep the ball bouncing while avoiding the obstacles that would be available on the both the tracks it bounces. Every successful bounce on the both sides of the screen will help add points to your score. Keep your eyes on the both the sides as the thorns keep falling down! Also look into the top and bottom of the screen as the thorns available there could smash your ball immediately.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Put your sharp reflexes to challenge to set higher score and share it with your friends! Give this unique skill game a try on any of your favorite devices, including tablet, mobiles and computers! The best part is that you can enjoy all arcade games online for free on atmegame.com, no download required. So, what are you waiting for? Join us today and prove the world that you can climb yourself up through the sky! All the best to have a blast every day in an online game to play of your choice!</span></div>",
+      "size": 540,
+      "height": 600,
+      "script": "https://m.shtoss.com/game/sky-race/index.html",
+      "metaTitle": "Sky Race,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sky Race at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Sky Race Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://h5games.online",
+      "xmlFile": "shtoss_1546119310.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8289,
+      "ownGame": false,
+      "addDate": "2018-12-30T03:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.746Z",
+      "updatedAt": "2024-11-03T11:37:22.990Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPPING THE BALL TO JUMP, AVOID TOUCHING SPIKES",
+      "webControlKeys": "KEEP CLICK THE BALL TO JUMP,AVOIDE THYE SPIKES"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": null
+  }
+}
