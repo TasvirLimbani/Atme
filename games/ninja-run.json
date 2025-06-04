@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bb5e",
+      "id": 4064,
+      "name": "Ninja Run",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "ninja-run",
+      "image": "4064",
+      "url": "ninja-run",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Anyone can enjoy running. But, only a true ninja runner has the ability to flip thirty-forty feet high through the air. He does not stop here, but he jumps again to reach to the next platform after landing on the previous platform securely. Ninja Run Online is a brand new adventure game that is not only about making a proper jump, but it is about applying the perfect judgement, quick reflexes, air control and timing. If you do have a doubt on our words, join this adventure challenge to know what this ninja can do for you.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">This endless running game allows you to master the ninja art of silent, swift movement. It will be amazing to play the character of Ninja who is determined to cover the long distance over different platforms that are full of obstacles. Do not forget to collect as much jewels, gold and coins as possible to improve your score on the board in this free online HTML5 game! Try to be careful along the way as there will be a lot of difficulties, including bombs, thorns and jumps to face off!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The smooth action and a great number of obstacles are the salient features of this intense jumping game. Grab a chance to run like a true ninja runner and get ready to jump past everything that you see on the screen except the coins and other bonus items! Sliding and jumping over the enemies will allow you to escape safely and cover the maximum possible distance in this one of the best ninja games for kids! Good luck to play more running games on our free online game website!</span></div>",
+      "size": 500,
+      "height": 750,
+      "script": "https://html5.gamedistribution.com/47d4e78e1960462a84e53ba1aaf85a25/\r\n",
+      "metaTitle": "Ninja Run, Running Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Ninja Run at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Ninja Run Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1542952523.xml",
+      "idealFor": "Man",
+      "likes": 312,
+      "dislikes": 21,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 30522,
+      "ownGame": false,
+      "addDate": "2018-11-23T11:25:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.731Z",
+      "updatedAt": "2025-05-22T12:01:18.259Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "UP ARROW TO JUMP, DOWN ARROW- ROLL ,L-R ARROW- MOVE L-R"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 7
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
