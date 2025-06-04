@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b930",
+      "id": 3470,
+      "name": "Stickmen Vs Zombies",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "stickmen-vs-zombies",
+      "image": "3470",
+      "url": "stickmen-vs-zombies",
+      "description": "Kill or get killed! Stand your defense to stop a horde of zombies getting on the city! Use your best strategy to m a strong SWAT team!\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "https://html5.gamedistribution.com/dec18750c453406c8511fc6661699cf7/\r\n",
+      "metaTitle": "Stickmen Vs Zombies, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Stickmen Vs Zombies at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Stickmen Vs Zombies Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1536575483.xml",
+      "idealFor": "Man",
+      "likes": 23,
+      "dislikes": 2,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 13445,
+      "ownGame": false,
+      "addDate": "2018-09-10T16:01:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.723Z",
+      "updatedAt": "2024-03-26T03:57:32.046Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ICONS TO CREATE ARMY AND PUT THEM INTO GROUND ",
+      "webControlKeys": "L CLICK OF MOUSE ON THE ICONS TO CREATE THE ARMY AND PUT THEM IN GROUND"
+    },
+    "rating": {
+      "rating": "3.0",
+      "count": 5
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
