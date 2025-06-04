@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b984",
+      "id": 3559,
+      "name": "Princess Summer Designer",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "princess-summer-designer",
+      "image": "3559",
+      "url": "princess-summer-designer",
+      "description": "Cinderella is a bikini supermodel! She's trying other princess' bikinies to for photo shootings. Help her pick a mix match bikini and accessories, get high scores, and collect all princess bikini collections!\r\n",
+      "size": 800,
+      "height": 480,
+      "script": "\nhttps://html5.gamedistribution.com/3f5adebcbe404c99876b51b053dfe2e2/\n",
+      "metaTitle": "Princess Summer Designer, Dressing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Princess Summer Designer at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Princess Summer Designer Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537334365.xml",
+      "idealFor": "All",
+      "likes": 13,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7597,
+      "ownGame": false,
+      "addDate": "2018-09-19T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.725Z",
+      "updatedAt": "2024-02-11T05:41:30.918Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP TO DRESSUP AND MAKEUP",
+      "webControlKeys": "L CLICK OF MOUSE TO DRESSUP AND MAKEUP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
