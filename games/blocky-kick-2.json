@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0a1",
+      "id": 5436,
+      "name": "Blocky Kick 2",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "blocky-kick-2",
+      "image": "5436",
+      "url": "blocky-kick-2",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Tight your seat and get ready to enter one of the best football games that you have ever played! It is time to prove your skill and become a player of free kick soccer game. No, you do not have to go anywhere else to enjoy the activity of your favorite sport. Stay connected with us to gain access to a brand new soccer game “Blocky Kick 2” a great number of players are talking about! Shot the ball and make as many goals as you can to win!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">We can understand that this will not be easy to do as crowds will keep chanting all the time. Just focus on your aim and swipe the screen to shot the best free kicks! Remember the speed of balls will be fast and you will be asked to shot the ball at more complex angles as progress in this cool html5 football game. Choose your team from various options including Indonesia, Italy, Netherland, Russia, England, Argentina, Germany and more!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Get you prepared to put your ultimate soccer skills to challenge if you seriously want to create the best scores while playing against worldwide popular soccer players! In this sequel of a popular online sports, fun and excitement along with the challenges will be double. Kick the ball using your mouse when you play it on PC. Swipe up the screen when you play soccer game on mobile phone! You will lose your game if you miss three times. Start it all over again if you lose at the initial attempt! Do more goals in style in our other top football games for free!</span></div>",
+      "size": 800,
+      "height": 575,
+      "script": "https://html5.gamedistribution.com/83c39058b478461d992cabf07105c79e/\r\n",
+      "metaTitle": "Blocky Kick 2,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Blocky Kick 2 at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Blocky Kick 2 Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 58,
+      "dislikes": 11,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 13562,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2025-05-11T07:44:40.520Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE THE SCREEN TO MAKE THE GOAL",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO SELECT THE DIRECTION,RELESE TO HIT THE BALL"
+    },
+    "rating": {
+      "rating": "2.3",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
