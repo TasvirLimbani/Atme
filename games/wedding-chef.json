@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af76",
+      "id": 627,
+      "name": "Wedding Chef",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "wedding-chef",
+      "image": "627",
+      "url": "wedding-chef",
+      "description": "<div>Everyone likes to eat good food especially on the major occasion like a wedding. Wedding Chef is an awesome free online game that will help you learn how to prepare some extra delicious food for your big day. In this finest and challenging cooking game for girls, you have to play the role of an expert chef who will prepare the scrumptious wedding cake within the shortest time possible. Of course, good patience, hard work and the most important thing – your creativity – requires to complete your goal in this cool girls game.</div><div><br></div><div>You can begin playing this flash game in your favorite browser with the selection of model of the cake. Other responsibilities you will have to perform in this challenging game include choosing the sweets, the color of the cream and several other vital things. You would also see there some sugar figurines with the groom and the bride and several other delicious sweet accessories through you can decorate your dessert to make it look amazing and mouth-watering. Once you complete the task, you will get the final score with the beautiful wedding cake in your personal mobile phone or PC.&nbsp;</div><div><br></div><div>In this decoration game, you have to be very careful while choosing the ingredients to prepare your cake. The quicker you will do your job, the higher score you will be able to earn. You will see a beautiful girl who will be there to guide you on how to complete your task step-by-step. So, what are you waiting for? Use your cooking skills and show your talent to your family and friends.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/53562f40dee64052b7d80618df684adb/",
+      "metaTitle": "Wedding Chef, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Wedding Chef at atmegame.com ! We have selected this Cooking games for best excitement and thrill in you!",
+      "metaKeyword": "Wedding Chef Game, Girls Games, Cooking Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "",
+      "xmlFile": "Cooking_1513839135.json",
+      "idealFor": "Man",
+      "likes": 42,
+      "dislikes": 5,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 16670,
+      "ownGame": false,
+      "addDate": "2017-12-21T12:22:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.670Z",
+      "updatedAt": "2025-03-19T02:33:28.025Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ITEMS TO SELECT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS"
+    },
+    "rating": {
+      "rating": "2.8",
+      "count": 8
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
