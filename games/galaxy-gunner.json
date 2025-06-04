@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7a",
+  "category_name": "war",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7a",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aec0",
+      "id": 252,
+      "name": "Galaxy Gunner",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "galaxy-gunner",
+      "image": "252",
+      "url": "galaxy-gunner",
+      "description": "As we still have to learn a lot about the space, galaxies and universe, Galaxy Gunner adventure game online is based upon the alien attack on the earth where you takes the responsibility of galaxy gunner in order to defend the earth in a very latest free online adventure game. With the help of provided controls, you can take your warship to the next level of warring. The space ship equipped with the most advanced war machines is the best bet to emerge victorious in a unique and amazing war game.<br><br>You as a controller of the spaceship have to guide it between the swarm of enemies while killing and devastating them. Sometimes playing the free galaxy gunner game, you will be confronted with sudden wave of enemy warships constantly firing at you. Without being dishearten merely have the faith upon you without coming into the enemy range, keep on fighting ferociously and in a rampant speed. Cockpit could be your weaker point so take special care to defend it from the target of enemy warplanes.<br><br>The control of the game is very simple and easy as being offered through and by the arrow keys in order to move forward, backwards, left, and right. For changing weapons use the spacebar.",
+      "size": 480,
+      "height": 0,
+      "script": "<!-- Place this code where you'd like the game to appear -->\r\n<div class=\"miniclip-game-embed\" data-game-name=\"galaxy-gunner\" data-theme=\"0\" data-width=\"480\" data-height=\"550\" data-language=\"en\"><a href=\"https://www.miniclip.com/games/galaxy-gunner/\">Play Galaxy Gunner</a></div>\r\n<p style=\"text-align:center;\"><a href=\"https://www.miniclip.com/games/galaxy-gunner/\" target=\"_blank\">Play Galaxy Gunner</a> / More <a href=\"https://www.miniclip.com/games/genre-5/\" target=\"_blank\">Shoot 'Em Up games</a></p>\r\n\r\n<!-- Insert this code before your </body> tag -->\r\n<script src=\"//static.miniclipcdn.com/js/game-embed.js\"></script>",
+      "metaTitle": "Galaxy Gunner, War Games - Play Online Free : Atmegame.com",
+      "metaDesc": "In this latest free adventure game online, you, emerges as a savoir of the earth to protect it from a massive alien hunt heading towards the Earth.",
+      "metaKeyword": "Galaxy Gunner, Adventure, War games, Play Games, Play Online, Kids Games,  Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 89,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 14206,
+      "ownGame": false,
+      "addDate": "2016-07-06T01:08:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.666Z",
+      "updatedAt": "2024-06-21T11:49:19.186Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "NOT FOUND"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 12
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7a",
+      "name": "war",
+      "slug": "war",
+      "icon": "War Games"
+    }
+  }
+}
