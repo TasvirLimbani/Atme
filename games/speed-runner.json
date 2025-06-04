@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7b",
+  "category_name": "running",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bce8",
+      "id": 4463,
+      "name": "Speed Runner",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "speed-runner",
+      "image": "4463",
+      "url": "speed-runner",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Tunnel games are the best thing to do online and make fun a lot for hours. We have got you covered today with a brand new adventure game where you have to dodge fast and manage your way through plenty of obstacles. Are you ready to accept this challenge? Join Speed Runner and get ready to run quickly and avoid the obstacles to stay alive in the game for long! Do not forget to collect the diamonds to boost your score.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">&nbsp;</span></div><div><span style=\"background-color: transparent;\">This rotating tunnel is full of obstacles so you need to be careful all the time to hit the best score on the screen. You have to put your running abilities to the test to compete against the obstacles. There is no time-limit, as well as no shortage of fun and entertainment to enjoy. Make sure to put your fingers on the arrow keys of the keyboard on PC or tap the screen on mobile phone in this html5 running game.&nbsp;</span><br></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The cool animations, stunning graphics and easy controls can help you to keep engrossed for hours. Click the controller icon on the top right corner to configure the controls in this spaceship avoid game! Use the left and right corner of the screen to operate your spaceship! We have countless adventure challenges available on our website to play online for free. Choose a suitable one from multiple options to keep you busy for hours! Good luck to have a blast without download!!</span></div><div><br></div>",
+      "size": 800,
+      "height": 590,
+      "script": "https://html5.gamedistribution.com/6de37cd40bc64f1aa5436b7245b3ff22/\r\n",
+      "metaTitle": "Speed Runner Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Speed Runner at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Speed Runner Game, Arcade Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1543993055.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8692,
+      "ownGame": false,
+      "addDate": "2018-12-05T12:27:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.737Z",
+      "updatedAt": "2024-02-19T09:11:51.713Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "A,D ,L-R ARROWS TO CONTROL"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7b",
+      "name": "running",
+      "slug": "running",
+      "icon": "runningtennis-games"
+    }
+  }
+}
