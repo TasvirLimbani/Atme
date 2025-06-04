@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c099",
+      "id": 5427,
+      "name": "Jolly Volley",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "jolly-volley",
+      "image": "5427",
+      "url": "jolly-volley",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Hey, we have a good news today for all volleyball lovers! Enter this virtual volleyball playground and see your favorite character blobs playing volley in their style! The best part is that you can also enter this exclusive and beautiful greenery playground as a virtual player and have fun with these cute and funny and colourful characters. You have to click and hold your chosen blob to make him move in your desired direction. Do not forget to release it to jump to secure your points!</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">We are happy enough to bring you a brand new sports game “Jolly Volley”. Trying out in your mobile gaming device will definitely give you a volley experience unlike you have ever had online before. Move your character and hit your ball through mouse when you enjoy it on PC or tap the screen for the same when enjoy volley game online on mobile phone. Once your game is over, a box will be displayed mentioning the details about your game points, round bonus and life bonus along with your overall score.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Try to hit the ball and make it fly and go over the fence and reach it to a place where your opponent is there! Hit your ball in a way so that your opponent does not throw it back! You will score a point if your opponent fails to send it back in your court. Give your best to make your win over the opponent before you lose all your five lives in this one cool html5 volley game! Explore this awesome game with no download required!&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/ee3e712c4aae4a27b4e2c0ab1f5817e1/\r\n",
+      "metaTitle": "Jolly Volley,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Jolly Volley at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Jolly Volley Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 36,
+      "dislikes": 4,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 11192,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.750Z",
+      "updatedAt": "2024-09-16T11:02:04.992Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP L-R OF SCREEN TO PLAY WITH BALL",
+      "webControlKeys": "CONTROLS NOT WORKING"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": null
+  }
+}
