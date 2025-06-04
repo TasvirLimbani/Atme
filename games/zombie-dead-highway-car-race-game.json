@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c34f",
+      "id": 6305,
+      "name": "Zombie Dead Highway Car Race Game",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "zombie-dead-highway-car-race-game",
+      "image": "6305",
+      "url": "zombie-dead-highway-car-race-game",
+      "description": "<p class=\"text_desc\">\nNew Zombie Dead Highway Car Race Game is an ultimate 3D racing game where you learn how to drive and survive through a zombie apocalypse. Fire your guns, kill all zombies in your path, avoid other cars and obstacles and try to get as far as you can.\n</p>\n<h4>\nKey Features:</h4>\n<p class=\"text_desc\">\n<ul class=\"gameDescUL\">\n<li><b>Deadly Zombie Combat:</b> Defeat dangerous zombies attacking your car using your gun, and show them they have met their match.</li>\n<li><b>Exciting Car Upgrades:</b> Earn coins to buy new cars and weapons, enhancing your chances of survival in the zombie-infested world.</li>\n<li><b>Endless Driving Fun:</b> Enjoy the action-packed gameplay, easy controls, and stunning graphics that will keep you entertained for hours.</li>\n</ul></p>\n<p class=\"text_desc\">\nUse your insane driving skills to eliminate blood-thirsty zombies and protect your city. Hop into your favourite vehicle, buckle up, and get ready to face the zombie horde head-on. Be cautious as the zombies will attack when you pass them closely.</p>\n<p class=\"text_desc\">\nShow no mercy as you unleash your shooting skills, proving that these deadly souls have picked the wrong person to mess with. Navigate through obstacles and other vehicles as you strive to go as far as possible, creating your best score in this cool car game.</p>\n<p class=\"text_desc\">\nEarn coins during your thrilling ride and use them wisely to purchase new cars and powerful weapons, increasing your chances of survival in this zombie apocalypse. With thrilling zombie-killing fun, excellent graphics, and an addictive gameplay experience, this latest zombie challenge will keep players of all genders entertained for hours.</p>\n",
+      "size": 900,
+      "height": 650,
+      "script": "https://html5.gamedistribution.com/b4433f51b5a74633bcaf0f27263a84dc/\r\n",
+      "metaTitle": "Zombie Dead Highway Car Race Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Zombie Dead Highway Car Race Game at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Zombie Dead Highway Car Race Game Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579522680.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 7510,
+      "ownGame": false,
+      "addDate": "2020-01-20T17:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2025-03-09T21:55:45.608Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "CONTROL THE CAR WITH A,D LEFT RIGHT ARROWS, CLICK WITH MOUSE BOTH SIDE OF SCREEN TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 3
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
