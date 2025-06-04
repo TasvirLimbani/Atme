@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0ad",
+      "id": 5448,
+      "name": "Soccer Blazt",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "soccer-blazt",
+      "image": "5448",
+      "url": "soccer-blazt",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Join Soccer Blazt and forget all the football games that you have tried in your preferred device as of now! You have to get yourself prepared to fight against the popular football players who have amazing super powers. Difficulties and challenges will come on your way in an unexpected way. You have to overcome them with ease by just paying attention to details and on the screen as well. Play football game online against your friend or CPU!</span></div><div><span style=\"font-size: 13.3333px;\">Use your own special powers to frazzle your opponent to accomplish the goal! You can wisely make your way to the victory by just scoring enough goals. Get yourself ready to explore six super powered characters in this cool html5 soccer game! Try to win some games to unlock the last two character in the League Section! There are three stages like Atlas Stadium, Grand Stadium and Greenline Stadium to choose from. Select your character and get ready to beat your opponent in this unlimited fun soccer challenge!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Here you will learn how to apply your powers to attack the opposing team. Play the role of the rear and see your team (strikers) throwing the ball into the field of opponent! Remember it is also the responsibility of your team to restrict your opponent from not scoring a goal. When you are looking forward to keep your eyes on the goal, make sure to launch special attacks on the basis of character you have selected. Plan for a strategy against your rivals to win in this one of our best strategy games for kids!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/bd3a79ac42f44eadac1c456dd328c0ec/\r\n",
+      "metaTitle": "Soccer Blazt,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Soccer Blazt at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Soccer Blazt Game, Sports Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552449063.xml",
+      "idealFor": "Man",
+      "likes": 21,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7950,
+      "ownGame": false,
+      "addDate": "2019-03-13T09:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.751Z",
+      "updatedAt": "2024-11-03T15:28:51.543Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,S TO STOP THE BALL"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 4
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
