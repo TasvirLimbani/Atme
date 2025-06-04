@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6b",
+  "category_name": "golf",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6b",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af04",
+      "id": 483,
+      "name": "Arcade Golf: NEON",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "arcade-golf-neon",
+      "image": "483",
+      "url": "arcade-golf-neon",
+      "description": "<div>Are you a <a href=\"http://www.atmegame.com/online-golf-games\" title=\"\" target=\"\"><font color=\"#0033cc\">golf game</font></a> enthusiast? You must try Arcade Golf: NEON to fulfill all your urges of this game. Some highly interesting checkpoint and a cool design of this exclusively-designed free online game will take you to a different world of golf. Be focused while aiming at a hole and dragging and releasing to hit the ball. You need to use your special skills and physics knowledge to complete each level of this highly challenging and most popular sport.  </div><div><br></div><div>A proper clicking and dragging are must take a proper shot in order to ensure your win in each level. In order to hit the ball harder, drag further away. There is no need to click and drag just behind the ball, but you can do the same anywhere on the screen in this online flash game for boys. This is a time to show your skills and become a kind of the swing in this mobile-friendly arcade game. </div><div><br></div><div>Choose your game mode in this minimalist golf game and get ready to finish the course with the minimum number of strokes. This is not easy to make a hole-in-one and get yourself awarded a new record. But, if you play like a champion and use the right amount of power, then you can make this possible with very lesser efforts. Arcade Golf: NEON features retro-styled art and music and awesome vector-based graphics. Earn higher points with the fewest number of strokes while looking forward to completing each level.</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://play.famobi.com/arcade-golf-neon/A-925FD",
+      "metaTitle": "Arcade Golf NEON, Golf Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Arcade Golf: NEON at atmegame.com ! We have selected this Golf  games for best excitement and thrill in you!",
+      "metaKeyword": "Arcade Golf: NEON, Sports, Golf Games, Arcade Golf: NEON Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 111,
+      "dislikes": 6,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 12678,
+      "ownGame": false,
+      "addDate": "2017-07-18T13:09:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.668Z",
+      "updatedAt": "2025-06-03T13:04:56.391Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE SCREEN TO SET THE DIRECTION,RELEASE TO  BALL",
+      "webControlKeys": "KEEP PRESS L-CLICK OF MOUSE TO SET THE DIRECTION,RELEASE TO BALL"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 12
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6b",
+      "name": "golf",
+      "slug": "golf",
+      "icon": "golf-games"
+    }
+  }
+}
