@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6e",
+  "category_name": "zombie",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6e",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b9d8",
+      "id": 3646,
+      "name": "Undead Drive",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "undead-drive",
+      "image": "3646",
+      "url": "undead-drive",
+      "description": "In Undead Drive the end of time is here. Zombies are coming! Use your car to escape and to kill some zombies!\r\n",
+      "size": 800,
+      "height": 500,
+      "script": "\nhttps://html5.gamedistribution.com/5641e1f8019d48c1ac7a45b4fe588034/\n",
+      "metaTitle": "Undead Drive, Zombie Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Undead Drive at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Undead Drive Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1537335465.xml",
+      "idealFor": "All",
+      "likes": 22,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 9827,
+      "ownGame": false,
+      "addDate": "2018-09-19T11:07:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.726Z",
+      "updatedAt": "2024-07-02T14:06:57.045Z",
+      "__v": 0,
+      "mobileControlKeys": "L ICONS TO L-R MOVE , RIGHT ICONS TO SPEED AND BACK MOVE",
+      "webControlKeys": "UP ARROW- SPEED, DOWN ARROW- BACK, L-R ARROWS TO LEFT RIGHT MOVE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6e",
+      "name": "zombie",
+      "slug": "zombie",
+      "icon": "Zombie"
+    }
+  }
+}
