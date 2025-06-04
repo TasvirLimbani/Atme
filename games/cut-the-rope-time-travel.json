@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad8a",
+  "category_name": "best",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682aef0",
+      "id": 463,
+      "name": "Cut The Rope: Time Travel",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "cut-the-rope-time-travel",
+      "image": "463",
+      "url": "cut-the-rope-time-travel",
+      "description": "<div>If you are a frog and candy lover, Cut The Rope: Time Travel can prove to be a real treat for you. In this extremely challenging and electrifying puzzle game, your chosen cute frog ? Om Nom is ready to travel back in time to help his ancestors eat their favorite dish ? delicious candy. Your goal is to cut the rope timely and help this frog feed himself and all his friends in completely new free online arcade game.??</div><div><br></div><div>You will see a lot of things ranging from candy-crunching and time-traveling to exciting physics-based action in this beautifully-designed flash game. Help Om Nom to become the happiest soul of this planet by assisting him to feed all his ancestors with candy. All the candies are out of the reach of this cute frog and he and all his ancestors are extremely hungry and seeking for someone who can help them to achieve their mission.??</div><div><br></div><div>This popular physics puzzle game features awesome graphics, easy control and unmatched gaming environment. A rope (sometimes a few ropes) have been used to tie the mouth-watering candies. This has actually restricted all the frogs from eating their beloved candies. You as a player have to cut one (or more ropes) at the right position to let the candies fall right into the mouth of the frog. Use your brain properly and help the world cutest frogs to enjoy their favorite things in Cut the Rope: Time Travel. Good luck and have great fun with this cool flash game! Play it now in your chosen browser!</div>",
+      "size": 1024,
+      "height": 576,
+      "script": "https://games.gamepix.com/play/40072?sid=110996",
+      "metaTitle": "Cut The Rope Time Travel, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Cut The Rope: Time Travel at atmegame.com ! We have selected this Puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Cut The Rope: Time Travel, Arcade, Puzzle Games, Cut The Rope: Time Travel Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 239,
+      "dislikes": 32,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 18526,
+      "ownGame": false,
+      "addDate": "2017-07-17T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.667Z",
+      "updatedAt": "2025-05-23T05:12:28.427Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO CUT THE ROPE",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE AND SWIPE TO CUT THE ROPE"
+    },
+    "rating": {
+      "rating": "4.0",
+      "count": 21
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
