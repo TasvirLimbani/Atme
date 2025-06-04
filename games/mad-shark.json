@@ -1,0 +1,61 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c424",
+      "id": 6548,
+      "name": "Mad Shark",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "mad-shark",
+      "image": "6548",
+      "url": "mad-shark",
+      "description": "<div>This shark looks very excited for her new adventure! Would you like to join her to make her journey more adventurous and exciting? Play Mad Shark online and be prepared to guide her get through all the obstacles underwater! Make sure that she finds its way in the depths of the sea in this brand new adventure challenge. Control her to destroy or avoid different types of dangers including bombs, submarines and barrels with deadly radioactive substances!</div><div><br></div><div>Try to keep your eyes on the lives, stars and fire balls that can also be used to shoot your enemies in this HTML5 underwater game! Do not hesitate and try to eat as many small fishes as you can to make your shark stronger than before. Change her way in case if she tries to come in a contact with the explosive mines! Come forward and chomp everything in your path to cover the maximum possible distance!</div><div><br></div><div>Remember you can also see the toxic waste released by the ships and mines available in the deep sea. Apart from chomping down all the poor little fishes, make sure to grab all the useful items to stay in the game. Be careful as you would have only 5 lives to use in this cool fish game! Put your quick reflexes and hand-eye coordination to the test to create your new best score and prove you as an arcade champion! It is completely free and available on multiple devices to play online without download!</div>",
+      "size": 1180,
+      "height": 665,
+      "script": "https://games.atmegame.com/games/mad-shark/",
+      "metaTitle": "Mad Shark Game, Platform - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Mad Shark at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Mad Shark, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 428,
+      "dislikes": 87,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 71386,
+      "ownGame": true,
+      "addDate": "2020-11-21T14:45:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-12T13:36:26.830Z",
+      "__v": 0,
+      "mobileControlKeys": "LEFT ICONS TO MOVE RIGHT ICONS TO HIT",
+      "webControlKeys": "UP DOWN ARROW TO MOVE RIGHT ICON TO SHOOT"
+    },
+    "rating": {
+      "rating": "3.9",
+      "count": 36
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": null
+  }
+}
