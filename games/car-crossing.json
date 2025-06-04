@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b36b",
+      "id": 1866,
+      "name": "Car Crossing",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "car-crossing",
+      "image": "1866",
+      "url": "car-crossing",
+      "description": "Control the traffic and avoid crashes, clicking on vehicles to speed them up and avoid other vehicles. Keep the cars and trucks moving as long as you can, without causing a collision. Beware: when a crash happens, it is game over!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/e0eac9a6de2740f8ae966eac0db8eab5/\r\n",
+      "metaTitle": "Car Crossing, Car Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Car Crossing at atmegame.com ! We have selected this Car games for best excitement and thrill in you!",
+      "metaKeyword": "Car Crossing Game, Racing Games, Car Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 10826,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.697Z",
+      "updatedAt": "2025-04-03T07:54:37.608Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CARS",
+      "webControlKeys": "L-CLICK OF MOUSE ON THE CARS TO MOVE THEN FAST"
+    },
+    "rating": {
+      "rating": "5.0",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
