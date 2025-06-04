@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c42e",
+      "id": 6558,
+      "name": "Speed Racer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "speed-racers",
+      "image": "6558",
+      "url": "speed-racers",
+      "description": "<div><div>This racing is going to be a far different from what you previously witnessed! Do you think that it is a right time to accept this unique challenge? Join Speed Racer and be prepared to show off your intense driving abilities to beat your competitors in a unique racing track! Just click the left mouse button or tap the screen of your mobile phone will help your car change the track! Make sure that your car does not hit any other car otherwise you will lose the game.</div><div><br></div><div>Drive through the circled track and try to avoid all the obstacles that you see on your way in this HTML5 car game! Be careful since the speed of both the vehicles will keep increasing as you progress in the game! Timing will matter a lot to help you create a respected score. Try to keep the vehicle away from your friend at the track during the racing! No need to perform any insane stunts or any particular tricks to make your car complete more rotations to score high!</div><div><br></div><div>Your good performance will help you to create the highest score and upgrade new car models to make your game more interesting and engaging. Track how much time you have controlled your car by looking at the top middle portion of the screen! P1 will be your car character while P2 will denote the car character of your competitor in this single-player game! Invite your friends to try out more free car games on your device without download!</div></div>",
+      "size": 1150,
+      "height": 650,
+      "script": "https://games.atmegame.com/games/speed-racer/",
+      "metaTitle": "Speed Racer Game, Car - Play Online Free Games: Atmegame.com",
+      "metaDesc": "Play the online free game Speed Racer at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Speed Racer, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 2310,
+      "dislikes": 351,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 623412,
+      "ownGame": true,
+      "addDate": "2020-11-21T17:06:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-06-01T08:18:23.159Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE CARS TO CHANGE THE DIRECTION TO AVOID COLAPSE",
+      "webControlKeys": "CLICK ON CAR TO CHANGE THE DIRECTION TO AVOID COLAPSE"
+    },
+    "rating": {
+      "rating": "3.7",
+      "count": 205
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
