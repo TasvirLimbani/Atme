@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682bfa8",
+      "id": 5177,
+      "name": "Dsir Chapter I",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "dsir-chapter-i",
+      "image": "5177",
+      "url": "dsir-chapter-i",
+      "description": "A poetic point-and-click adventure game in black and white. D?sir? is colour-blind from birth and he will lead you into a world of black and white. He marches on hesitantly, as life never brought him much joy. From a tender age, he is going to meet several characters who will elicit in D?sir? intense emotions and alter his vision in surprising ways. Is colour at the end of the road?\r\n",
+      "size": 1024,
+      "height": 576,
+      "script": "https://html5.gamedistribution.com/e6b1e50a0e7c43ae83bd848491792860/\r\n",
+      "metaTitle": "Dsir Chapter I,  Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Dsir Chapter I at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Dsir Chapter I Game, Adventure Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1547545866.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 6691,
+      "ownGame": false,
+      "addDate": "2019-01-15T15:21:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.747Z",
+      "updatedAt": "2023-06-14T04:50:40.546Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "CLICK ON THE ITEMS TO MPOPVE THE BOY"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
