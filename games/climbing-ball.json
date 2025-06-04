@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b563",
+      "id": 2427,
+      "name": "Climbing Ball",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "climbing-ball",
+      "image": "2427",
+      "url": "climbing-ball",
+      "description": "Climbing Ball, Puzzle Games<br>",
+      "size": 480,
+      "height": 720,
+      "script": "https://html5.gamedistribution.com/3c5ce51245bc45b492d79a2ce14090bb/\r\n",
+      "metaTitle": "Climbing Ball, Puzzle Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Climbing Ball at atmegame.com ! We have selected this puzzle games for best excitement and thrill in you!",
+      "metaKeyword": "Climbing Ball Game, Action Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.gamedistribution.com/",
+      "xmlFile": "multi_item_1528953636.xml",
+      "idealFor": "Man",
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7392,
+      "ownGame": false,
+      "addDate": "2018-06-14T10:50:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.708Z",
+      "updatedAt": "2024-03-25T19:46:26.858Z",
+      "__v": 0,
+      "mobileControlKeys": "KEEP TAPPING ON SCREEN TO JUMP",
+      "webControlKeys": "L CLICK OF MOUSE TO JUMP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
