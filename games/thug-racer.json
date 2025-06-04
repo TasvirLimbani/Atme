@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af15",
+      "id": 501,
+      "name": "Thug Racer",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "thug-racer",
+      "image": "501",
+      "url": "thug-racer",
+      "description": "<div>One of the most popular racing games to play for boys, Thug Racer game has set a fire these days over the online gaming world. In this free online game, you have to ride your car on a racing track in a way you have done before. Get ready to beat your rivals and get away from the police, which can catch you if you are found of guilty of crashing other cars and doing anything wrong on the road. Drive like an expert car racer! Good luck!</div><div><br></div><div>In this old-school racing game, your job is to hit all the checkpoints before the time runs out. You have to drive your car whole the day and night. You would not restrict yourself from participating this huge car racing competition once you play this easy-to-operate flash game. Do not take a chance, jump in your ride and make sure that you are able to outrun the cops in case if you have made any blast through the city in style. </div><div><br></div><div>Known as a retro-styled cool racing game, Thug Racer has a lot to offer especially if you are a speed game lover. Do not get relaxed, drive your car at as fast speed as you can in order to clear each level of this beautiful graphics-enabled driving game. You have to use your strong driving skills to claim for the victory. It will surely give you a wonderful experience when you will drive your vehicle through L.A in Thug Racer, which is inspired by the 80s classic driving arcade games. Play this user-friendly and mobile-friendly game in your browser today!</div>",
+      "size": 800,
+      "height": 449,
+      "script": "https://play.famobi.com/thug-racer/A-925FD",
+      "metaTitle": "Thug Racer, Car Racing Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Thug Racer at atmegame.com ! We have selected this Car Racing  games for best excitement and thrill in you!",
+      "metaKeyword": "Thug Racer, car racing games, Car Games, Car Racing, Racing Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 414,
+      "dislikes": 60,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 36856,
+      "ownGame": false,
+      "addDate": "2017-07-23T15:29:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.668Z",
+      "updatedAt": "2025-05-29T21:16:44.003Z",
+      "__v": 0,
+      "mobileControlKeys": "PRESS UP SCREEN TO SPEED , PRESS DOWN SCREEN TO STOP, PRESS L-R ODF SCREEN TO MOVE L-R",
+      "webControlKeys": "UP ARROW TO SPEEDUP, DOWN ARROW- BREAK, L-R ARROWS TO MOVE L-R"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 23
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
