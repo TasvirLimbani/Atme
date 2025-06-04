@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682ba22",
+      "id": 3729,
+      "name": "Winter Mahjong",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "winter-mahjong",
+      "image": "3729",
+      "url": "winter-mahjong",
+      "description": "Winter Mahjong puts your intelligence and insight to the test! This game plays like the classic Mahjong games, but this one has gotten a digital makeover! If you are really stuck in a level, you can ask for a tip or reshuffle the board, but the further you get, the less you will be able to use these abilities! Play the game and try to clear the boards before time runs out!",
+      "size": 800,
+      "height": 600,
+      "script": "https://wanted5games.com/games/html5/winter-mahjong-new-en-s-iga-cloud/index.html?pub=210",
+      "metaTitle": "Winter Mahjong Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Winter Mahjong at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Winter Mahjong Game, Action Games, Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "CG",
+      "xmlFile": null,
+      "idealFor": null,
+      "likes": 10,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 7297,
+      "ownGame": false,
+      "addDate": "2018-10-17T05:04:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.727Z",
+      "updatedAt": "2024-03-24T08:03:03.069Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE TILES TO FIND THE MATCHING TILE WHICH CAN BE CONNECTED TO IT WITH A LINJE USING NO MORE THAN 2 BENDS TO SCORE",
+      "webControlKeys": "L CLICK ON THE TILES TO FIND THE MATCHING TILE WHICH CAN BE CONNECTED TO IT WITH A LINJE USING NO MORE THAN 2 BENDS TO SCORE"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
