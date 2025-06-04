@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad82",
+  "category_name": "dressing",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad82",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b8c9",
+      "id": 3343,
+      "name": "Sofia Once Upon A Princess",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "sofia-once-upon-a-princess",
+      "image": "3343",
+      "url": "sofia-once-upon-a-princess",
+      "description": "Once upon a time it was a sweet Princess called Sofia. Beautiful princess invites you to the Royal Ball that will be in her wonderful palace this weekend. Choose the best outfit for the princess, because she is the star of the celebration and she has to look perfect. Have Fun!\r\n",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/e94ea0f79ca94551bd120dd69bd1d9ac/\r\n",
+      "metaTitle": "Sofia Once Upon A Princess Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Sofia Once Upon A Princess at atmegame.com ! We have selected this girls games for best excitement and thrill in you!",
+      "metaKeyword": "Sofia Once Upon A Princess Game, Girls Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1533533545.xml",
+      "idealFor": "Man",
+      "likes": 18,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 9320,
+      "ownGame": false,
+      "addDate": "2018-08-06T11:02:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.722Z",
+      "updatedAt": "2024-02-01T01:43:29.866Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP O THE ITEMS TO  MAKEUP AND DRESUP",
+      "webControlKeys": "L CLICK OF MOUSE TO DRESSUP AND MAKEUP"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad82",
+      "name": "dressing",
+      "slug": "dressing",
+      "icon": "Dressing Games"
+    }
+  }
+}
