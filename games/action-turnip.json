@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b252",
+      "id": 1554,
+      "name": "Action Turnip",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "action-turnip",
+      "image": "1554",
+      "url": "action-turnip",
+      "description": "<div><span style=\"font-size: 13.3333px;\">It is time to try your hands in this one of the latest and graphically-improved arcade action games for boys. This turnip is very stubborn and ready to go beyond your imaginations to taste the victory. When you play this brand new adventure game in your device, you will realize that you will have the best fun you have experienced with a turnip since Blackadder introduced the market. Choose between the Run ‘N’ Gun mode and Turnabalt mode in this cool arcade adventure game!&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">The controls of this free online platform game are very simple and easy to understand. You can move your character with ASWD/arrow keys and shoot your enemies with the help of mouse/Numpad/IJKL. You have to run on a platform full of obstacles to keep your character winning in this endless running game. Try to cover as much distance as you can while killing your enemies by shooting or jumping on them! Control the turnip with arrow keys or WASD, shoot your enemies using the mouse in Run ‘n’ Gun mode.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">In this cool shooting game, you will see many enemies majorly in the form of pesky owl things. Try to use the least possible lives to complete the level while avoiding to drop into the holes. Keep collecting the things you see on your way to enjoy the changing of the scenery on a temporary basis like the checker-board. In the tunabalt mode, you are determined to survive by making the quick jumps over the gaps in the ground in this one of the coolest jumping games for kids. We have plenty of free games to play on our website! All the best to choose the one you like and have fun!</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://flash.gamedistribution.com?game=2f37fa641baa41aba17f5e3e68927e49\r\n",
+      "metaTitle": "Action Turnip, Platform Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Action Turnip at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Action Turnip Game, platform Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1517901843.xml",
+      "idealFor": "Man",
+      "likes": 12,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 7606,
+      "ownGame": false,
+      "addDate": "2018-02-06T12:54:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.691Z",
+      "updatedAt": "2023-12-28T06:29:40.787Z",
+      "__v": 0,
+      "mobileControlKeys": null,
+      "webControlKeys": "FLASH GAME"
+    },
+    "rating": {
+      "rating": "0.5",
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
