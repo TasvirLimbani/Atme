@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad77",
+  "category_name": "car",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad77",
+      "status": 1,
+      "isMobile": false,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c34a",
+      "id": 6299,
+      "name": "Supercars Speed Race",
+      "categoryId": "630560b2a0677a23c682ad5b",
+      "slug": "supercars-speed-race",
+      "image": "6299",
+      "url": "supercars-speed-race",
+      "description": "<div>Riding formula 1 racing cars is a great fun itself. We have today got you covered with a brand new racing game where you have to control a formula 1 car on multiple tracks. Are you ready guys to handle this very tricky and challenging task? Join Supercars Speed Race and be prepared to drive a sports car in three multiple tracks! Do not bother friends as you are the only one to ride your vehicle on the road.&nbsp;</div><div><br></div><div>Select from a wide range of super sports cars and different racing tracks and get ready to challenge your friends to become the top scorer! Practice your driving abilities to set a new race speed record in this HTML5 car game! Setting new records will also allow you to buy new car models and tracks. Common boys! Ride like a champion and beat your friends high scores in the worldwide rankings!</div><div><br></div><div>Do not take your steps back and show off the world that the best speed racing driver exists within you. Track your records and race time by having a look at the left corner of the screen in this car driving simulator! Be careful and do not forget to lessen the speed of your vehicle on the steep turns to maintain its balance! Our website is full of multiple free racing games that are playable on different devices including mobile phones, desktops, and tablets. No download required as you can play them on different latest browsers anytime whenever you want.&nbsp;</div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.gamedistribution.com/3dff05cc075e4bdb973862f99b345d28/\r\n",
+      "metaTitle": "Supercars Speed Race Game, Car - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Supercars Speed Race at atmegame.com ! We have selected this  games for best excitement and thrill in you!",
+      "metaKeyword": "Supercars Speed Race Game, Racing Games,  Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1579522680.xml",
+      "idealFor": "Man",
+      "likes": 22,
+      "dislikes": 1,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 7868,
+      "ownGame": false,
+      "addDate": "2020-01-20T17:48:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.763Z",
+      "updatedAt": "2024-04-26T10:24:57.620Z",
+      "__v": 0,
+      "mobileControlKeys": "WEB ONLY",
+      "webControlKeys": "W,A,S,D AND ALL AAROWS TO DIRECTION CONTROL, SPACE TO BREAK"
+    },
+    "rating": {
+      "rating": "3.5",
+      "count": 2
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5b",
+      "name": "racing",
+      "slug": "racing",
+      "icon": "racing-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad77",
+      "name": "car",
+      "slug": "car",
+      "icon": "Car Racing"
+    }
+  }
+}
