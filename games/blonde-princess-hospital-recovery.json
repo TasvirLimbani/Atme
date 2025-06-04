@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad84",
+  "category_name": "doctor",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad84",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b453",
+      "id": 2109,
+      "name": "Blonde Princess Hospital Recovery",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "blonde-princess-hospital-recovery",
+      "image": "2109",
+      "url": "blonde-princess-hospital-recovery",
+      "description": "This blonde princess fell off her horse while going for a ride outside the palace and now she has to reach the hospital immediately so that she can recover. Take care of her injuries and start the treatment. Heal the broken bones with the x-ray machine, disinfect the wounds, give her the right medicine and the blonde princess will be healthy once more.",
+      "size": 800,
+      "height": 600,
+      "script": "//cdn.witchhut.com/html5/games/blonde-princess-hospital-recovery/190.html",
+      "metaTitle": "Blonde Princess Hospital Recovery, Make-Up Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Blonde Princess Hospital Recovery at atmegame.com ! We have selected this Make-Up games for best excitement and thrill in you!",
+      "metaKeyword": "Blonde Princess Hospital Recovery Game, Girls Games, Make-Up Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "http://www.newvendor.com/",
+      "xmlFile": "multi_item_1521610088.xml",
+      "idealFor": "Man",
+      "likes": 15,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 8101,
+      "ownGame": false,
+      "addDate": "2018-03-21T10:58:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.702Z",
+      "updatedAt": "2024-12-03T03:08:54.992Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP  TO SELECT THE ITEMS FOR TREATMENT",
+      "webControlKeys": "L CLICK OF MOUSE TO SELECT THE ITEMS FOR TREATMENT"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad84",
+      "name": "doctor",
+      "slug": "doctor",
+      "icon": "Doctor"
+    }
+  }
+}
