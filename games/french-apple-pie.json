@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad80",
+  "category_name": "cooking",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad80",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af3d",
+      "id": 548,
+      "name": "French Apple Pie",
+      "categoryId": "630560b2a0677a23c682ad5d",
+      "slug": "french-apple-pie",
+      "image": "548",
+      "url": "french-apple-pie",
+      "description": "<div>One of the best cooking games for girls to play, French Apple Pie is definitely a treat to all your online gaming urges. In this brand new girl kitchen game, you will have to help the beautiful princess Emma prepare the extremely delicious French Apple Pie. The most important reason why today more and more health conscious people love to try this recipe at their home is since this dish offers a perfect combination of a vegetarian and vegan diet. Hope you all would love this dessert recipe!</div><div><br></div><div>You can bake it upside down. This delicate dessert includes healthy ingredients, crunchy shortcrust and caramelized apples. Keep your eyes on the important instructions and indications in order to achieve the goal of this free online cooking game successfully. You are sure to have fun in unlimited amount when you get a chance to play with your favorite character – Emma. So, let’s get started with friendly Emma, who is also pretty excited to show you the right and quick method to prepare scrumptious French apple pie.&nbsp;</div><div><br></div><div>You wouldn’t resist yourself from trying this recipe at your home and sharing it with your friends and family after playing this best html5 game. This cool girl game features the world-class graphics, seamless gameplay and fabulous audio and video effects. No need to get upset if the expected outcome doesn’t achieve in the first attempt since you will be given a plenty of chances to explore your cooking fantasy. Enjoy the best girls kitchen game kids!</div>",
+      "size": 700,
+      "height": 700,
+      "script": "<iframe id=\"fg-frame-french-apple-pie-vegan\" width=\"700\" height=\"700\" data-aspect-ratio=\"1\" src=\"\" frameborder=\"0\"></iframe><script>(function(d, url, fgJS, firstJS){fgJS = d.createElement('script');firstJS=d.getElementsByTagName('script')[0];fgJS.src=url;fgJS.onload=function() {var fg_frame=document.getElementById('fg-frame-french-apple-pie-vegan');var fg_url='https://play.famobi.com/french-apple-pie-vegan/A-925FD';var mobileRedirect=false;var mobileTablet=false;famobi_embedFrame(fg_frame, fg_url, mobileRedirect, mobileTablet);};firstJS.parentNode.insertBefore(fgJS, firstJS);})(document, 'https://games.cdn.famobi.com/html5games/plugins/embed.js?v=2.1')</script>",
+      "metaTitle": "French Apple Pie, Cooking Games - Play Online Free : Atmegame.com",
+      "metaDesc": "",
+      "metaKeyword": "cooking games for girls, cooking games, girls games, games for girls, girl games, French Apple Pie",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "All",
+      "likes": 119,
+      "dislikes": 3,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 13987,
+      "ownGame": false,
+      "addDate": "2017-08-01T12:59:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.669Z",
+      "updatedAt": "2024-09-06T20:21:29.085Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON THE ITEMS TO SELECT AND FOLLOW THE INSTRUCTION",
+      "webControlKeys": "L CLICK OF NMOUSE TO SELET THE ITEMS AND FOLLOW THE INSTRUCTION"
+    },
+    "rating": {
+      "rating": "4.2",
+      "count": 11
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5d",
+      "name": "girls",
+      "slug": "girls",
+      "icon": "girlstennis-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad80",
+      "name": "cooking",
+      "slug": "cooking",
+      "icon": "cooking-games"
+    }
+  }
+}
