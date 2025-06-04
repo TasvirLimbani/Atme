@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6c",
+  "category_name": "shooting",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c0fc",
+      "id": 5534,
+      "name": "Fruit Shoot Boom",
+      "categoryId": "630560b2a0677a23c682ad59",
+      "slug": "fruit-shoot-boom",
+      "image": "5534",
+      "url": "fruit-shoot-boom",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Shooting is undoubtedly a great fun for many gamers of all ages. If you also like it, trying out this brand new action game will surely help you get those fun hours you were seeking for long. Fruit Shoot Boom is an exclusive free online game where you will have lots of activities to do to keep you busy. Get ready to shoot fruit using the bow and arrows to complete the objective of the game! Try to aim your target as accurately as possible to create the highest score in the end!</span></div><div><span style=\"font-size: 13.3333px;\">Remember you will have limited amount of time to accomplish your goal. There are three modes including Time Mode, Endless and Collection to explore in this one of the newest archery games for boys. Play it with your mouse when you are on your desktop or laptop computer and tap the screen to enjoy it when you are enjoying it on your mobile phone! Try to shoot as much fruits as you can and get ready to obtain some points in return!</span></div><div><span style=\"font-size: 13.3333px;\">Draw back the arrow using your mouse, and release it to shoot fruits that are falling from upward to downward! Click the quiver whenever you want to reload your bows with arrows! Choose the timed mode to play and collect as many points as you can before the time runs out in this arrow and bow game! Do not forget to upgrade your bow and arrows using the points you collect throughout the game! Handmade bows and common weapons to explore in this HTML5 game! </span></div>",
+      "size": 450,
+      "height": 800,
+      "script": "https://html5.gamedistribution.com/0116a514e0574482bcfa6e9e514fdb6e/\r\n",
+      "metaTitle": "Fruit Shoot Boom, Shooting Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Fruit Shoot Boom at atmegame.com ! We have selected this Shooting games for best excitement and thrill in you!",
+      "metaKeyword": "Fruit Shoot Boom Game, Action Games, Shooting Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "https://html5.gamedistribution.com",
+      "xmlFile": "multi_rss_1552453347.xml",
+      "idealFor": "Man",
+      "likes": 14,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 8428,
+      "ownGame": false,
+      "addDate": "2019-03-13T10:32:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.752Z",
+      "updatedAt": "2024-01-15T23:21:22.915Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON ARROWS TO LOAD, HOLD AND RELESE THE BOW TO HIT THE FRUITS",
+      "webControlKeys": "LEFT CLICK TO SCROLL AND HIT THE FRUITS."
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad59",
+      "name": "action",
+      "slug": "action",
+      "icon": "Action"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6c",
+      "name": "shooting",
+      "slug": "shooting",
+      "icon": "shootingtennis-games"
+    }
+  }
+}
