@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad6f",
+  "category_name": "puzzle",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad6f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682c401",
+      "id": 6513,
+      "name": "Animal Crush Match3",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "animal-crush-match3",
+      "image": "6513",
+      "url": "animal-crush-match3",
+      "description": "<div>Here we have brought to you a good news for the lovers of matching and animal games! Are you ready to spend some quality time with the images of some of your favourite animals? Join Animal Crush Match 3 game and be prepared to match three or more of the identical animals! The lines you match will be crushed immediately. Try to crush the line before the time expires in this brand new arcade game and show off the world that you are a matching champion!&nbsp;</div><div><br></div><div>The best part is that here you are not restricting from matching the same animals in a particular direction. You would have the full freedom to match three or more of the same animal in any direction you want. Make sure that connect with each other through any directions. Drag them up, down, in a straight line, diagonally or any other direction to connect them with each other in this HTML5 puzzle game! Hurry up friends as the clock is running!</div><div><br></div><div>You are sure to enjoy the best fun and entertainment in this highly addictive hyper-casual match 3 game. Draw a line to connect them by match 3 or more same objects. Track your score at the bottom portion of the screen! You can also track how much you are left and your best score by looking at the bottom part of the screen. Check out other top arcade games on our website for free to play and allow yourself to kill your time without download!</div>",
+      "size": 500,
+      "height": 800,
+      "script": "https://games.atmegame.com/games/animals-crush-match3",
+      "metaTitle": "Animal Crush Match3 Game, Puzzle - Play Online Free Games : Atmegame.com",
+      "metaDesc": "Play the online free game Animal Crush Match3 at atmegame.com ! We have selected this games for best excitement and thrill in you!",
+      "metaKeyword": "Animal Crush Match3, Play Free Games, Play Online Free Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 554,
+      "dislikes": 26,
+      "ratings": null,
+      "manualRating": 0,
+      "highScore": 0,
+      "totalPlayed": 56334,
+      "ownGame": true,
+      "addDate": "2020-06-08T22:28:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.766Z",
+      "updatedAt": "2025-05-12T08:50:24.951Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP AND SWIPE ON SAME ANIMALS TO BRUST THEM,TRY TO CONNECT MINI 3 ANIMALS",
+      "webControlKeys": "CLICK AND CONNECT 3 SAME ANIMALS TO BRUST "
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 40
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad6f",
+      "name": "puzzle",
+      "slug": "puzzle",
+      "icon": "puzzle-games"
+    }
+  }
+}
