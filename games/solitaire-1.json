@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b387",
+      "id": 1900,
+      "name": "Solitaire 1",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "solitaire-1",
+      "image": "1900",
+      "url": "solitaire-1",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Are you a big solitaire game lover? Play Solitaire 1 right away and get ready to fulfil all your card gaming fantasy in a cool environment. In this highly challenging and popular arcade game, you will have to stack all the cards from King to Ace. Isn’t pretty excited to make full stacks in the same suit? Yes, we are sure that you are going to have great fun while trying to clear all the cards away in this strategic and trick solitaire game.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">It requires you to use your brain to order all the suits by number. Make sure that you focus on the details and keep patience while looking forward to completing the mission of this widely recognized html5 game. In order to ensure your victory in the end, try to stack all the cards in a proper order from Ace to King. One of the best card games to play for boys and girls, Solitaire 1 involves one suit of cards as its name suggests.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Just look at the traditional spider solitaire rules to play this brand new fun game. It’s perfect for all kinds of people right from beginner to expert. Anyone can explore it, pick up its rules and enjoy the part of a funny and challenging title. Create a complete set by stacking the cards right from low to high i.e. from Ace through to the King. Play in your mobile browser today and enjoy a lot kids!&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/9c5394804a214a089b19a735817e7c54/\r\n",
+      "metaTitle": "Solitaire 1, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Solitaire 1 at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "Solitaire 1 Game, Racing Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 101,
+      "dislikes": 13,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 29900,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2025-01-29T08:54:52.441Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON  CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "3.1",
+      "count": 9
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
