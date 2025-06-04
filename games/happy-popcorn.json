@@ -1,0 +1,57 @@
+{
+  "category_id": "630560b2a0677a23c682ad8b",
+  "category_name": "most-played",
+  "game": {
+    "game": {
+      "subCategoryId": null,
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": true,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": true,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "6305622cf00e1a463fdb9b34",
+      "id": 6584,
+      "name": "Happy Popcorn",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "happy-popcorn",
+      "image": "6584",
+      "url": "happy-popcorn",
+      "description": "<p class=\"text_desc\">\nHappy Popcorn is a cool and fun-filled adventure game in which you have to fill an empty bucket with popcorn as fast as you can. Make sure to complete your task without dropping the popcorn out of the bucket. The number of popcorn launcher will keep increasing as you move forward. \n</p>\n<h4>\nKey Features:</h4>\n<ul class=\"gameDescUL\"><li>\n<b>Fast-Paced Gameplay:</b> The fast-paced action await you here in this cool online puzzle game as you aim to fill the different sized bucket with popular before time goes away. Your accuracy and speed will be challenged while looking forward to complete all levels efficiently.\n</li><li><b> \nChallenging Levels:</b> As told you earlier that the levels of difficulties will keep increasing as you progress through the game. Each level comes up with a new set of obstacles, which will help keep you entertained regularly.</li>\n<li><b> \nPower-Ups and Bonuses:</b> Completing a level will help you unlock a new launcher. Also get a chance to discover keys and other special power-ups and bonuses to complete your task fast.</li>\n</ul></p>\n<p class=\"text_desc\"> \nIn this free adventure game, you also get an opportunity to earn extra points and rewards through which it becomes easier to complete levels fast with the maximum score possible. The addictive gameplay offers lots of fun and excitement while also relaxing your mind with the best possible way. \nSo, what are you waiting for? Join this delightful popcorn-popping adventure and allow yourself to take a break from the hustle and bustle of daily busy life! We are pretty confident that you have the guts to top the leaderboard and wear the crown of being an ultimate popcorn-popping champion. Good luck!\n</p>",
+      "size": 640,
+      "height": 420,
+      "script": "https://games.atmegame.com/games/happy-popcorn/",
+      "metaTitle": "Happy Popcorn, Adventure games - Play Online Free : Atmegame.com",
+      "metaDesc": "Happy Popcorn that is the free online adventure game offered for gaming enthusiast under adventure is your best opportunity to improve your adventure skills.",
+      "metaKeyword": "Happy Popcorn, Adventure games, 3D Games, Play Games, Play Online, Play Free Games, Play Online Free Games",
+      "source": "",
+      "likes": 7343,
+      "dislikes": 4209,
+      "ratings": null,
+      "manualRating": 5,
+      "highScore": 0,
+      "totalPlayed": 325162,
+      "ownGame": true,
+      "addDate": "2022-08-23T12:00:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:26:36.472Z",
+      "updatedAt": "2025-06-03T09:05:54.420Z",
+      "__v": 0
+    },
+    "rating": {
+      "rating": "3.6",
+      "count": 460
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": null
+  }
+}
