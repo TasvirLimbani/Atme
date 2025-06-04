@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad7c",
+  "category_name": "platform",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad7c",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "P",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b4fe",
+      "id": 2296,
+      "name": "BallRoll",
+      "categoryId": "630560b2a0677a23c682ad5c",
+      "slug": "ballroll",
+      "image": "2296",
+      "url": "ballroll",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Ball rolling is a great fun in itself. Have you ever tried it out? If not, give Ball&amp;Roll game today a try to know how it can offer you unlimited fun hours without download and asking to install any other particular apps. The aim in this brand new adventure game is to guide your ball through the platform that is filled with a great number of obstacles. This black ball will move automatically, but your job is only to keep it left and right while avoiding the traps.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">Make sure to collect all the yellow coins that you see along the platform to finish this endless HTML5 platform game with a high score. The longer you go the higher score you will make in the end. You can purchase new balls from the store with the help of coins. Be quick and try to create the route for your ball by putting your sharp reflexes and concentration abilities to the test! In this cool engaging touch game, you can track your final score when it finishes.&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\">In case if you do not find it pretty interesting, then we would like to recommend you to go through the category of free adventure games on our website to spot the fun options of your interests. We through atmegame.com cover gaming needs of players from multiple age groups. And, the most important thing is that you can play games online on our website without download. You can use that space to store other necessary audio and video files. Good luck!</span></div><div><br></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/f3426001aa924ccdae551e37502b3271/\r\n",
+      "metaTitle": "BallRoll Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game BallRoll at atmegame.com ! We have selected this platform games for best excitement and thrill in you!",
+      "metaKeyword": "BallRoll Game, Action Games, platform Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1524806360.xml",
+      "idealFor": "Man",
+      "likes": 11,
+      "dislikes": 0,
+      "ratings": null,
+      "manualRating": 2,
+      "highScore": 0,
+      "totalPlayed": 7688,
+      "ownGame": false,
+      "addDate": "2018-04-27T10:49:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.706Z",
+      "updatedAt": "2024-02-01T06:39:47.564Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO CONTROL THE BALL",
+      "webControlKeys": "KEEP PRESS L CLICK OF MOUSE TO CONTROL THE BALL"
+    },
+    "rating": {
+      "rating": 4.5,
+      "count": 1
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5c",
+      "name": "adventure",
+      "slug": "adventure",
+      "icon": "Adventure"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad7c",
+      "name": "platform",
+      "slug": "platform",
+      "icon": "platform-games"
+    }
+  }
+}
