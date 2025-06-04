@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad58",
+  "category_name": "sports",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad5f",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": true,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682af02",
+      "id": 481,
+      "name": "3D Penalty",
+      "categoryId": "630560b2a0677a23c682ad58",
+      "slug": "3d-penalty",
+      "image": "481",
+      "url": "3d-penalty",
+      "description": "<div>One of the best free online games that have ever produced, 3D Penalty is a complete package of fun and entertainment. When you play this highly challenging and interesting soccer game, you have to encourage your team to hit as many shots as you can to ensure your victory. Every moment will come some unbeatable exciting when you enroll yourself in this awesome penalty shootout game.</div><div><br></div><div>In this popular flash sports game, your aim is to score the highest possible goals within the given 15 tries. Try to change your direction with every shoot since the goalkeeper will easily predict it if you keep shooting your ball in the same direction. Known as a widely-recognized mobile-frienldy HTML5 game, 3D Penalty will give you a chance to play on a soccer penalty shootout. The perfect shot will ensure to collect the maximum points, while the blocked shots will subtract the points in your score.</div><div><br></div><div>So, what are you waiting for? Get ready to take action, roll up your sleeves, lead your team towards the victory in this kick football game. All you need to do is aim with an open mind and easily flick or swipe the screen to ensure the best kick. Hurry up! You have the skills to beat the goalkeeper and get a new high score for your team. This cool and thrilling flash game can be played on desktop and laptop computer and is also avaiable in various mobile browsers: Android and iOS.</div>",
+      "size": 800,
+      "height": 376,
+      "script": "https://play.famobi.com/3d-penalty/A-925FD",
+      "metaTitle": "3D Penalty, Soccer Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game 3D Penalty at atmegame.com ! We have selected this Soccer games for best excitement and thrill in you!",
+      "metaKeyword": "3D Penalty, Sports, Soccer Games, 3D Penalty Online Game, Play Free Games, Browser Games",
+      "source": "",
+      "xmlFile": "",
+      "idealFor": "Man",
+      "likes": 265,
+      "dislikes": 35,
+      "ratings": null,
+      "manualRating": 4,
+      "highScore": 0,
+      "totalPlayed": 30018,
+      "ownGame": false,
+      "addDate": "2017-07-18T11:51:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.668Z",
+      "updatedAt": "2025-05-17T02:56:24.287Z",
+      "__v": 0,
+      "mobileControlKeys": "SWIPE ON THE SCREEN TO GOAL",
+      "webControlKeys": "L-CLICK OF MOUSE- KICK THE FOOTBALL"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 41
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad58",
+      "name": "sports",
+      "slug": "sports",
+      "icon": "Sports-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad5f",
+      "name": "soccer",
+      "slug": "soccer",
+      "icon": "Soccer-games"
+    }
+  }
+}
