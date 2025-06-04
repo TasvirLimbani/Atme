@@ -1,0 +1,66 @@
+{
+  "category_id": "630560b2a0677a23c682ad83",
+  "category_name": "card",
+  "game": {
+    "game": {
+      "subCategoryId": "630560b2a0677a23c682ad83",
+      "status": 1,
+      "isMobile": true,
+      "isNewGame": false,
+      "order": 0,
+      "threeD": false,
+      "multiplayer": false,
+      "orientation": "L",
+      "scriptType": "url",
+      "instruction": "",
+      "adultLevel": 0,
+      "_id": "630560bba0677a23c682b386",
+      "id": 1899,
+      "name": "Crescent Solitaire",
+      "categoryId": "630560b2a0677a23c682ad5a",
+      "slug": "crescent-solitaire",
+      "image": "1899",
+      "url": "crescent-solitaire",
+      "description": "<div><span style=\"font-size: 13.3333px;\">Challenge your skills with this exclusive fun variation of the traditional Solitaire – Crescent Solitaire. Make sure that you have read out all the card playing rules before starting this free online arcade game. You as a player have to move all the cards from the outer space right to the eight basement piles. Check if you are properly stacking up two piles from each color – one from King to Ace and the other one from Ace to King.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">You will definitely fall in love with this worldwide popular arcade game especially if you are extremely passionate to explore the Solitaire games. Play this flash game in your favorite browser and get ready to discover the real challenge. With the improved mechanics and a completely fresh tropical look, Crescent Solitaire is enough to allow you pass many hours. Known as an exclusively-designed online game, it has made a huge win over an old classic.&nbsp;&nbsp;</span></div><div><span style=\"font-size: 13.3333px;\"><br></span></div><div><span style=\"font-size: 13.3333px;\">Begin with Aces and Kings in play and also take care of pulling all the cards from the crescent above in lieu of the deck. Try to stack cards (that are of the same suit) in a descending order on the kings and ascending order on the aces. It’s also your responsibility to maintain the chaos of the gameplay from aces to kings and kings to aces in this cool arcade game for boys and girls. Let’s see how quickly you are able to get all of the cards arranged into a crescent shape on the table that you are seeing on the screen. Stay on your toes since there is a limited time to complete the task!&nbsp;</span></div>",
+      "size": 800,
+      "height": 600,
+      "script": "https://html5.GameDistribution.com/8e9afb9200cb453ea6ad1e9213c150b1/\r\n",
+      "metaTitle": "Crescent Solitaire, Card Games - Play Online Free : Atmegame.com",
+      "metaDesc": "Play the online free game Crescent Solitaire at atmegame.com ! We have selected this Card games for best excitement and thrill in you!",
+      "metaKeyword": "Crescent Solitaire Game, Games, Card Game, Online Games, Play Free Games, Flash Games, Browser Game",
+      "source": "gamedistribution",
+      "xmlFile": "multi_item_1519630542.xml",
+      "idealFor": "Man",
+      "likes": 43,
+      "dislikes": 7,
+      "ratings": null,
+      "manualRating": 3,
+      "highScore": 0,
+      "totalPlayed": 36059,
+      "ownGame": false,
+      "addDate": "2018-02-26T13:05:00.000Z",
+      "tags": [],
+      "createdAt": "2022-08-23T23:20:31.698Z",
+      "updatedAt": "2024-08-24T12:47:47.566Z",
+      "__v": 0,
+      "mobileControlKeys": "TAP ON  CARDS TO PLAY",
+      "webControlKeys": "L-CLICK OF MOUSE TO PLAY"
+    },
+    "rating": {
+      "rating": "3.8",
+      "count": 12
+    },
+    "category": {
+      "_id": "630560b2a0677a23c682ad5a",
+      "name": "arcade",
+      "slug": "arcade",
+      "icon": "arcade-games"
+    },
+    "subCategory": {
+      "_id": "630560b2a0677a23c682ad83",
+      "name": "card",
+      "slug": "card",
+      "icon": "cards-games"
+    }
+  }
+}
