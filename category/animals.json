@@ -1,0 +1,347 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01e5a9",
+                "name": "Cinderella Pony Caring",
+                "slug": "cinderella-pony-caring",
+                "image": "5033",
+                "totalPlayed": 12743
+            },
+            {
+                "_id": "685287d2ecdffab01b01e4f9",
+                "name": "Frozen Anna Dog Care",
+                "slug": "frozen-anna-dog-care",
+                "image": "4854",
+                "totalPlayed": 8871
+            },
+            {
+                "_id": "685287d2ecdffab01b01e521",
+                "name": "Enchanted Unicorn Spa",
+                "slug": "enchanted-unicorn-spa",
+                "image": "4895",
+                "totalPlayed": 9226
+            },
+            {
+                "_id": "685287d2ecdffab01b01e523",
+                "name": "Princess Fairytale Pony Grooming",
+                "slug": "princess-fairytale-pony-grooming",
+                "image": "4897",
+                "totalPlayed": 7519
+            },
+            {
+                "_id": "685287d2ecdffab01b01e53c",
+                "name": "Angela And Tom Beach Vacation",
+                "slug": "angela-and-tom-beach-vacation",
+                "image": "4923",
+                "totalPlayed": 9726
+            },
+            {
+                "_id": "685287d2ecdffab01b01e553",
+                "name": "Talking Tom Playing Snowballs",
+                "slug": "talking-tom-playing-snowballs",
+                "image": "4946",
+                "totalPlayed": 13272
+            },
+            {
+                "_id": "685287d2ecdffab01b01e577",
+                "name": "Sofia And Pet",
+                "slug": "sofia-and-pet",
+                "image": "4982",
+                "totalPlayed": 11989
+            },
+            {
+                "_id": "685287d2ecdffab01b01e58e",
+                "name": "Pets Fashion Show",
+                "slug": "pets-fashion-show",
+                "image": "5005",
+                "totalPlayed": 10157
+            },
+            {
+                "_id": "685287d2ecdffab01b01e31d",
+                "name": "My Cute Dog Bathing",
+                "slug": "my-cute-dog-bathing",
+                "image": "4372",
+                "totalPlayed": 10766
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2f6",
+                "name": "Wheels On the Bus",
+                "slug": "wheels-on-the-bus",
+                "image": "4332",
+                "totalPlayed": 9858
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2f7",
+                "name": "Old Macdonald Farm",
+                "slug": "old-macdonald-farm",
+                "image": "4333",
+                "totalPlayed": 7920
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2ec",
+                "name": "My Pet Clinic",
+                "slug": "my-pet-clinic",
+                "image": "4322",
+                "totalPlayed": 8624
+            },
+            {
+                "_id": "685287d2ecdffab01b01e02c",
+                "name": "Pig Family Dress Up",
+                "slug": "pig-family-dress-up",
+                "image": "3579",
+                "totalPlayed": 8078
+            },
+            {
+                "_id": "685287d2ecdffab01b01df63",
+                "name": "Ben and Kitty Photo Session",
+                "slug": "ben-and-kitty-photo-session",
+                "image": "3345",
+                "totalPlayed": 10105
+            },
+            {
+                "_id": "685287d2ecdffab01b01df66",
+                "name": "Angie Fashion Show",
+                "slug": "angie-fashion-show",
+                "image": "3348",
+                "totalPlayed": 8976
+            },
+            {
+                "_id": "685287d2ecdffab01b01df4d",
+                "name": "Marry Me Kitty",
+                "slug": "marry-me-kitty",
+                "image": "3321",
+                "totalPlayed": 10924
+            },
+            {
+                "_id": "685287d2ecdffab01b01df59",
+                "name": "Angie Spring Wedding",
+                "slug": "angie-spring-wedding",
+                "image": "3333",
+                "totalPlayed": 9291
+            },
+            {
+                "_id": "685287d2ecdffab01b01df2d",
+                "name": "Cats Winter Fun",
+                "slug": "cats-winter-fun",
+                "image": "3288",
+                "totalPlayed": 8597
+            },
+            {
+                "_id": "685287d2ecdffab01b01dea2",
+                "name": "Cute Bear Caring",
+                "slug": "cute-bear-caring",
+                "image": "3147",
+                "totalPlayed": 7520
+            },
+            {
+                "_id": "685287d2ecdffab01b01dea6",
+                "name": "Kitty Dental Caring",
+                "slug": "kitty-dental-caring",
+                "image": "3151",
+                "totalPlayed": 8278
+            },
+            {
+                "_id": "685287d2ecdffab01b01dea7",
+                "name": "Horse Care and Riding",
+                "slug": "horse-care-and-riding",
+                "image": "3152",
+                "totalPlayed": 9383
+            },
+            {
+                "_id": "685287d2ecdffab01b01dea8",
+                "name": "Labrador at the Doctor Salon",
+                "slug": "labrador-at-the-doctor-salon",
+                "image": "3153",
+                "totalPlayed": 11348
+            },
+            {
+                "_id": "685287d2ecdffab01b01deae",
+                "name": "Zebra Caring",
+                "slug": "zebra-caring",
+                "image": "3159",
+                "totalPlayed": 8362
+            },
+            {
+                "_id": "685287d2ecdffab01b01deb0",
+                "name": "Kitty Care and Grooming",
+                "slug": "kitty-care-and-grooming",
+                "image": "3161",
+                "totalPlayed": 9151
+            },
+            {
+                "_id": "685287d2ecdffab01b01deb2",
+                "name": "Unicorn Beauty Salon",
+                "slug": "unicorn-beauty-salon",
+                "image": "3163",
+                "totalPlayed": 9708
+            },
+            {
+                "_id": "685287d2ecdffab01b01de80",
+                "name": "Kitty Beach Makeup",
+                "slug": "kitty-beach-makeup",
+                "image": "3113",
+                "totalPlayed": 11499
+            },
+            {
+                "_id": "685287d2ecdffab01b01ddcc",
+                "name": "Pet Salon Doggy Days",
+                "slug": "pet-salon-doggy-days",
+                "image": "2931",
+                "totalPlayed": 9167
+            },
+            {
+                "_id": "685287d2ecdffab01b01dd7a",
+                "name": "Angela and Tom Dream Wedding",
+                "slug": "angela-and-tom-dream-wedding",
+                "image": "2843",
+                "totalPlayed": 14689
+            },
+            {
+                "_id": "685287d2ecdffab01b01dd95",
+                "name": "Angela Twins Birth",
+                "slug": "angela-twins-birth",
+                "image": "2870",
+                "totalPlayed": 64404
+            },
+            {
+                "_id": "685287d2ecdffab01b01dafb",
+                "name": "Playful Kitty",
+                "slug": "playful-kitty",
+                "image": "2129",
+                "totalPlayed": 47158
+            },
+            {
+                "_id": "685287d2ecdffab01b01da54",
+                "name": "Crystal Adopts a Bunny",
+                "slug": "crystal-adopts-a-bunny",
+                "image": "1956",
+                "totalPlayed": 8959
+            },
+            {
+                "_id": "685287d2ecdffab01b01da64",
+                "name": "Audrey Pony Daycare",
+                "slug": "audrey-pony-daycare",
+                "image": "1972",
+                "totalPlayed": 18545
+            },
+            {
+                "_id": "685287d2ecdffab01b01da6d",
+                "name": "Rusty Kitten Bath",
+                "slug": "rusty-kitten-bath",
+                "image": "1981",
+                "totalPlayed": 9576
+            },
+            {
+                "_id": "685287d2ecdffab01b01da70",
+                "name": "Jessies Pet Shop",
+                "slug": "jessies-pet-shop",
+                "image": "1984",
+                "totalPlayed": 10603
+            },
+            {
+                "_id": "685287d2ecdffab01b01da73",
+                "name": "Victoria Adopts a Kitten",
+                "slug": "victoria-adopts-a-kitten",
+                "image": "1987",
+                "totalPlayed": 7859
+            },
+            {
+                "_id": "685287d2ecdffab01b01da83",
+                "name": "Magical Pet Maker",
+                "slug": "magical-pet-maker",
+                "image": "2003",
+                "totalPlayed": 14898
+            },
+            {
+                "_id": "685287d2ecdffab01b01daa9",
+                "name": "Audrey Adopts a Puppy",
+                "slug": "audrey-adopts-a-puppy",
+                "image": "2041",
+                "totalPlayed": 13892
+            },
+            {
+                "_id": "685287d2ecdffab01b01dab1",
+                "name": "Kitten Bath",
+                "slug": "kitten-bath",
+                "image": "2049",
+                "totalPlayed": 7858
+            },
+            {
+                "_id": "685287d2ecdffab01b01dac9",
+                "name": "Animal Detectives Investigation Mischief",
+                "slug": "animal-detectives-investigation-mischief",
+                "image": "2073",
+                "totalPlayed": 18087
+            },
+            {
+                "_id": "685287d2ecdffab01b01d93b",
+                "name": "Pet Home Designer Wildcat Cave",
+                "slug": "pet-home-designer-wildcat-cave",
+                "image": "1634",
+                "totalPlayed": 7643
+            },
+            {
+                "_id": "685287d2ecdffab01b01d912",
+                "name": "Cute Puppy Daycare",
+                "slug": "cute-puppy-daycare",
+                "image": "1593",
+                "totalPlayed": 10535
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8f6",
+                "name": "Happy Horse Hair Studio",
+                "slug": "happy-horse-hair-studio",
+                "image": "1564",
+                "totalPlayed": 7563
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8f8",
+                "name": "Poodle Hairstyles",
+                "slug": "poodle-hairstyles",
+                "image": "1566",
+                "totalPlayed": 7925
+            },
+            {
+                "_id": "685287d2ecdffab01b01d509",
+                "name": "Midnight Canine",
+                "slug": "midnight-canine",
+                "image": "155",
+                "totalPlayed": 9314
+            },
+            {
+                "_id": "685287d2ecdffab01b01d503",
+                "name": "Fluffy Kitchen Adventure",
+                "slug": "fluff-kitchen-adventure",
+                "image": "151",
+                "totalPlayed": 12281
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017dee",
+            "id": 43,
+            "name": "animals",
+            "parent": {
+                "_id": "685287b2ecdffab01b017e14",
+                "name": "girls",
+                "slug": "girls"
+            },
+            "slug": "animals",
+            "icon": "Animals Games",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 3,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.819Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>Immerse Yourself in the Wild: Explore the Best Online Animal Games! </h4>\n<p class=\"text_desc\">Animal games are a popular and highly entertaining category of online games where animals play the role of a main protagonist. Browse through our finest collection of HTML5 animal games and get a chance to play with them, train them or take care of them. You will encounter different types of creatures from chimps, cats and dogs to rabbits and penguins. </p>\n<p class=\"text_desc\">Enjoy the best browser-based HTML5 animal games, free to play without downloads. Explore captivating single-player adventures or team up in engaging multiplayer or two-player challenges. Whether you are a budding zoologist, a nature enthusiast, or simply a kind of person who seeks quality animal fun experience, our quality wild animal games have a lot to offer. </p>\n<p class=\"text_desc\">Play instantly and indulge in the excitement of the finest single-player and multiplayer animal games, all at your fingertips! </p>\n<h4>Wildcraft: Animal Sim Online 3D: </h4>\n<p class=\"text_desc\">Are you ready to embark on a wild adventure with Wildcraft: Animal Sim Online 3D? Join us and gear up to roam the virtual wilderness as a wolf, fox, or other creatures. Survive, hunt, and explore in a stunning 3D environment. Form packs, build families, and experience the circle of life in this engaging animal simulator. </p>\n<h4>Zoo Animals Games:</h4>\n<p class=\"text_desc\">Get amazed after becoming a true caretaker of a virtual zoo! Manage exhibits, attend to the basic and important needs of diverse animals, and ensure the happiness of your visitors. Zoo Animals Games let you create your dream zoo while learning about different species and their habitats. </p>\n<h4>Online Baby Animal Games: </h4>\n<p class=\"text_desc\">Delight in the cuteness overload with Online Baby Animal Games. Here you are allowed to care for adorable animal infants, feed them, play with them, and, of course, witness their lovable antics. These virtual online animal games provide a heart-warming experience for players of all ages. </p>\n<h4>Online Learning Animal Games: </h4>\n<p class=\"text_desc\">Combine education with entertainment in Online Learning Animal Games. Tailored for preschoolers and kindergarteners, these online funny animal games offer a fun and simple way to learn about animals, their sounds, and habitats. Engage in interactive activities that promote early learning and cognitive development. </p>\n<h4>What You Can Do in Our Free Animal Games: </h4>\n<ul class=\"gameDescUL\"><li><b>Explore Diverse Environments:</b>\nRoam the vast wilderness, manage a zoo, or navigate a farm – our animal games offer a variety of settings to explore.\n</li>\n<li><b>Experience Realistic Simulations:</b>\nEngage in realistic animal simulations, from surviving in the wild to managing a virtual zoo with true-to-life animal behaviors. </li>\n<li><b>Nurture and Care for Animals:</b>\nTake on the role of a caretaker, nurturing baby animals, ensuring their well-being, and experiencing the joys of virtual animal parenthood. </li>\n<li><b>Educational Interactions: </b>\nEngage in learning activities that introduce children to different animals, their habits, and the importance of wildlife conservation. </li>\n<li><b>Multiplayer Animal Adventures: </b>\nJoin your old friends or make new ones in our multiplayer animal games, where you can collaborate or compete in exciting virtual animal worlds. </li>\n</ul>\n\n<p class=\"text_desc\">With an extensive range of free online animal games, Atmegame.com invites players of all ages to explore, learn, and have fun in the diverse world of virtual animals. Whether you are interested in realistic simulations, cute baby animals, or educational adventures, our collection caters to every animal lover's preference. Join us on a virtual safari or create your own zoo – the possibilities are endless! </p>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. What are the most popular Animal Games at Atmegame.com? </h4>\n\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<div itemprop=\"text\">\n<p class=\"text_desc\">A1. Some of our best online animal games are: </p>\n<ul class=\"gameDescUL\">\n<li>Enchanted Unicorn Spa</li>\n<li>Frozen Anna Dog Care</li>\n<li>Angela Twins Birth</li>\n<li>Rusty Kitten Bath</li>\n<li>My Cute Dog Bathing</li>\n<li>Audrey Pony Daycare</li>\n<li>Playful Kitty</li>\n<li>Pet Salon Doggy Days</li>\n<li>Unicorn Beauty Salon</li></ul>\n</div>\n    </div>\n  </div>\n",
+            "metaTitle": "Animal Games for Girls, Play Animal Games Online Free : Atmegame.com",
+            "metaDesc": "Select from an extensive range of animal games online to learn about pet raising and rearing art in fun manner at a typically stimulated environment",
+            "metaKeyword": "animal games, play online animal games, play animal games, free games,  online animal games,  girls games, per care"
+        }
+    }
+}
