@@ -1,0 +1,767 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01e9e8",
+                "name": "Little Cat Doctor Pet Vet Game",
+                "slug": "little-cat-doctor-pet-vet-game",
+                "image": "6350",
+                "totalPlayed": 14833
+            },
+            {
+                "_id": "685287d2ecdffab01b01e595",
+                "name": "Captain America Doctor",
+                "slug": "captain-america-doctor",
+                "image": "5013",
+                "totalPlayed": 7980
+            },
+            {
+                "_id": "685287d2ecdffab01b01e596",
+                "name": "Take Care Of Baby Of Anna",
+                "slug": "take-care-of-baby-of-anna",
+                "image": "5014",
+                "totalPlayed": 13628
+            },
+            {
+                "_id": "685287d2ecdffab01b01e597",
+                "name": "Ladybug Foot Surgery",
+                "slug": "ladybug-foot-surgery",
+                "image": "5015",
+                "totalPlayed": 12275
+            },
+            {
+                "_id": "685287d2ecdffab01b01e598",
+                "name": "Save Frozen Ladybug",
+                "slug": "save-frozen-ladybug",
+                "image": "5016",
+                "totalPlayed": 7973
+            },
+            {
+                "_id": "685287d2ecdffab01b01e599",
+                "name": "Spongebob Tooth Surgery",
+                "slug": "spongebob-tooth-surgery",
+                "image": "5017",
+                "totalPlayed": 8526
+            },
+            {
+                "_id": "685287d2ecdffab01b01e59a",
+                "name": "Moana Foot Surgery",
+                "slug": "moana-foot-surgery",
+                "image": "5018",
+                "totalPlayed": 9601
+            },
+            {
+                "_id": "685287d2ecdffab01b01e59b",
+                "name": "Little Elsa Save Stray Cat",
+                "slug": "little-elsa-save-stray-cat",
+                "image": "5019",
+                "totalPlayed": 9630
+            },
+            {
+                "_id": "685287d2ecdffab01b01e59c",
+                "name": "Frozen Anna Baby Birth",
+                "slug": "frozen-anna-baby-birth",
+                "image": "5020",
+                "totalPlayed": 10727
+            },
+            {
+                "_id": "685287d2ecdffab01b01e59d",
+                "name": "Tom Hospital Recovery",
+                "slug": "tom-hospital-recovery",
+                "image": "5021",
+                "totalPlayed": 8044
+            },
+            {
+                "_id": "685287d2ecdffab01b01e59e",
+                "name": "Ladybug Pregnant Caring",
+                "slug": "ladybug-pregnant-caring",
+                "image": "5022",
+                "totalPlayed": 10623
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5a0",
+                "name": "Minion Surgery",
+                "slug": "minion-surgery",
+                "image": "5024",
+                "totalPlayed": 8655
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5a1",
+                "name": "Frozen Elsa Birth Caring",
+                "slug": "frozen-elsa-birth-caring",
+                "image": "5025",
+                "totalPlayed": 10920
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5a2",
+                "name": "Spongebob Ear Surgery",
+                "slug": "spongebob-ear-surgery",
+                "image": "5026",
+                "totalPlayed": 7699
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5a3",
+                "name": "Rapunzel Ear Surgery",
+                "slug": "rapunzel-ear-surgery",
+                "image": "5027",
+                "totalPlayed": 11989
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5a4",
+                "name": "My Little Pony Doctor",
+                "slug": "my-little-pony-doctor",
+                "image": "5028",
+                "totalPlayed": 8623
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5a5",
+                "name": "Zootopia Nick Doctor",
+                "slug": "zootopia-nick-doctor",
+                "image": "5029",
+                "totalPlayed": 7550
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5a6",
+                "name": "Zootopia Judy Doctor",
+                "slug": "zootopia-judy-doctor",
+                "image": "5030",
+                "totalPlayed": 8375
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5a8",
+                "name": "Pregnant Anna Surgery",
+                "slug": "pregnant-anna-surgery",
+                "image": "5032",
+                "totalPlayed": 15587
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5aa",
+                "name": "Annas Baby Twins Birth",
+                "slug": "annas-baby-twins-birth",
+                "image": "5034",
+                "totalPlayed": 12766
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5ab",
+                "name": "Ironman Doctor",
+                "slug": "ironman-doctor",
+                "image": "5035",
+                "totalPlayed": 8795
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5ac",
+                "name": "Masha And The Bear Surgery",
+                "slug": "masha-and-the-bear-surgery",
+                "image": "5036",
+                "totalPlayed": 9721
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5ad",
+                "name": "Foot Surgery",
+                "slug": "foot-surgery",
+                "image": "5037",
+                "totalPlayed": 12645
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5ae",
+                "name": "Doctor Helper",
+                "slug": "doctor-helper",
+                "image": "5038",
+                "totalPlayed": 10370
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5af",
+                "name": "Pregnant Elsa Twins Birth",
+                "slug": "pregnant-elsa-twins-birth",
+                "image": "5039",
+                "totalPlayed": 10388
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5b1",
+                "name": "Pregnant Elsa Baby Birth",
+                "slug": "pregnant-elsa-baby-birth",
+                "image": "5041",
+                "totalPlayed": 19373
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5b2",
+                "name": "Rapunzel Hand Doctor",
+                "slug": "rapunzel-hand-doctor",
+                "image": "5042",
+                "totalPlayed": 10538
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5b4",
+                "name": "Elsa Foot Injured",
+                "slug": "elsa-foot-injured",
+                "image": "5044",
+                "totalPlayed": 14951
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5b5",
+                "name": "Swimming Accident First Aid",
+                "slug": "swimming-accident-first-aid",
+                "image": "5045",
+                "totalPlayed": 15526
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5b6",
+                "name": "Elsa Abdominal Surgery",
+                "slug": "elsa-abdominal-surgery",
+                "image": "5046",
+                "totalPlayed": 13859
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5b7",
+                "name": "Inside Out Disgust Throat Surgery",
+                "slug": "inside-out-disgust-throat-surgery",
+                "image": "5047",
+                "totalPlayed": 12341
+            },
+            {
+                "_id": "685287d2ecdffab01b01e4e6",
+                "name": "Save Injured Santa And Christmas Elk",
+                "slug": "save-injured-santa-and-christmas-elk",
+                "image": "4835",
+                "totalPlayed": 7800
+            },
+            {
+                "_id": "685287d2ecdffab01b01e4e9",
+                "name": "Sofia Take Care Of Clover",
+                "slug": "sofia-take-care-of-clover",
+                "image": "4838",
+                "totalPlayed": 7755
+            },
+            {
+                "_id": "685287d2ecdffab01b01e4ed",
+                "name": "Baby Elsa Halloween Surgery",
+                "slug": "baby-elsa-halloween-surgery",
+                "image": "4842",
+                "totalPlayed": 7683
+            },
+            {
+                "_id": "685287d2ecdffab01b01e33a",
+                "name": "Princess Mermaid Mommy Birth",
+                "slug": "princess-mermaid-mommy-birth",
+                "image": "4401",
+                "totalPlayed": 11271
+            },
+            {
+                "_id": "685287d2ecdffab01b01e33f",
+                "name": "Princess Foot Doctor",
+                "slug": "princess-foot-doctor",
+                "image": "4406",
+                "totalPlayed": 8215
+            },
+            {
+                "_id": "685287d2ecdffab01b01e345",
+                "name": "Princy Throat Surgery",
+                "slug": "princy-throat-surgery",
+                "image": "4412",
+                "totalPlayed": 8790
+            },
+            {
+                "_id": "685287d2ecdffab01b01e347",
+                "name": "Vanellope Injured Emergency",
+                "slug": "vanellope-injured-emergency",
+                "image": "4414",
+                "totalPlayed": 8094
+            },
+            {
+                "_id": "685287d2ecdffab01b01e330",
+                "name": "Emma Foot Treatment",
+                "slug": "emma-foot-treatment",
+                "image": "4391",
+                "totalPlayed": 9123
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2f4",
+                "name": "Ellie Ressurection Emergency",
+                "slug": "ellie-ressurection-emergency",
+                "image": "4330",
+                "totalPlayed": 8956
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2fe",
+                "name": "Goldie Princess Mommy Birth",
+                "slug": "goldie-princess-mommy-birth",
+                "image": "4340",
+                "totalPlayed": 9786
+            },
+            {
+                "_id": "685287d2ecdffab01b01e303",
+                "name": "Mommy Doctor Check Up",
+                "slug": "mommy-doctor-check-up",
+                "image": "4345",
+                "totalPlayed": 8274
+            },
+            {
+                "_id": "685287d2ecdffab01b01e30c",
+                "name": "Princess Mermaid Skin Doctor",
+                "slug": "princess-mermaid-skin-doctor",
+                "image": "4355",
+                "totalPlayed": 7939
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2e0",
+                "name": "Ice Princess Twins Birth",
+                "slug": "ice-princess-twins-birth",
+                "image": "4310",
+                "totalPlayed": 9034
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2e2",
+                "name": "My Dream Hospital",
+                "slug": "my-dream-hospital",
+                "image": "4312",
+                "totalPlayed": 12866
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2e3",
+                "name": "Mini Ear Doctor",
+                "slug": "mini-ear-doctor",
+                "image": "4313",
+                "totalPlayed": 6888
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2e6",
+                "name": "Vampire Nose Doctor",
+                "slug": "vampire-nose-doctor",
+                "image": "4316",
+                "totalPlayed": 7806
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2b0",
+                "name": "Foot Doctor",
+                "slug": "foot-doctor",
+                "image": "4262",
+                "totalPlayed": 11090
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2b6",
+                "name": "Baby Audrey Appendectomy",
+                "slug": "baby-audrey-appendectomy",
+                "image": "4268",
+                "totalPlayed": 8245
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2b7",
+                "name": "Superhero Pregnant Emergency",
+                "slug": "superhero-pregnant-emergency",
+                "image": "4269",
+                "totalPlayed": 9454
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2bf",
+                "name": "Mermaid Resurrection Emergency",
+                "slug": "mermaid-resurrection-emergency",
+                "image": "4277",
+                "totalPlayed": 8923
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2c2",
+                "name": "Little Cat Doctor",
+                "slug": "little-cat-doctor",
+                "image": "4280",
+                "totalPlayed": 8444
+            },
+            {
+                "_id": "685287d2ecdffab01b01e030",
+                "name": "LadyBug Super Recovery",
+                "slug": "ladybug-super-recovery",
+                "image": "3583",
+                "totalPlayed": 7913
+            },
+            {
+                "_id": "685287d2ecdffab01b01e041",
+                "name": "Catwoman Pregnant",
+                "slug": "catwoman-pregnant",
+                "image": "3601",
+                "totalPlayed": 10709
+            },
+            {
+                "_id": "685287d2ecdffab01b01e011",
+                "name": "Snow White Pregnancy",
+                "slug": "snow-white-pregnancy",
+                "image": "3551",
+                "totalPlayed": 8820
+            },
+            {
+                "_id": "685287d2ecdffab01b01e017",
+                "name": "Monster High Nose Doctor",
+                "slug": "monster-high-nose-doctor",
+                "image": "3557",
+                "totalPlayed": 7355
+            },
+            {
+                "_id": "685287d2ecdffab01b01dfd2",
+                "name": "Baby Snow Sick Day",
+                "slug": "baby-snow-sick-day",
+                "image": "3480",
+                "totalPlayed": 23779
+            },
+            {
+                "_id": "685287d2ecdffab01b01dfe4",
+                "name": "Judys New Brace",
+                "slug": "judys-new-brace",
+                "image": "3498",
+                "totalPlayed": 8214
+            },
+            {
+                "_id": "685287d2ecdffab01b01deb1",
+                "name": "Fat to Fit Princess Fitness",
+                "slug": "fat-to-fit-princess-fitness",
+                "image": "3162",
+                "totalPlayed": 10157
+            },
+            {
+                "_id": "685287d2ecdffab01b01de7d",
+                "name": "Halloween Pregnant Check Up",
+                "slug": "halloween-pregnant-check-up",
+                "image": "3110",
+                "totalPlayed": 9138
+            },
+            {
+                "_id": "685287d2ecdffab01b01de81",
+                "name": "Ice Queen Vaccines Injection",
+                "slug": "ice-queen-vaccines-injection",
+                "image": "3114",
+                "totalPlayed": 19321
+            },
+            {
+                "_id": "685287d2ecdffab01b01de83",
+                "name": "Goldie Princesses Pregnant Check up",
+                "slug": "goldie-princesses-pregnant-check-up",
+                "image": "3116",
+                "totalPlayed": 8365
+            },
+            {
+                "_id": "685287d2ecdffab01b01de85",
+                "name": "Ellie Skin Doctor",
+                "slug": "ellie-skin-doctor",
+                "image": "3118",
+                "totalPlayed": 45167
+            },
+            {
+                "_id": "685287d2ecdffab01b01de89",
+                "name": "Dotted Girl Vaccines Injection",
+                "slug": "dotted-girl-vaccines-injection",
+                "image": "3122",
+                "totalPlayed": 17106
+            },
+            {
+                "_id": "685287d2ecdffab01b01de8f",
+                "name": "Mini Brain Doctor",
+                "slug": "mini-brain-doctor",
+                "image": "3128",
+                "totalPlayed": 8266
+            },
+            {
+                "_id": "685287d2ecdffab01b01de92",
+                "name": "Royal BFFs Pregnant Check up",
+                "slug": "royal-bffs-pregnant-check-up",
+                "image": "3131",
+                "totalPlayed": 8065
+            },
+            {
+                "_id": "685287d2ecdffab01b01de94",
+                "name": "Mini Skin Doctor",
+                "slug": "mini-skin-doctor",
+                "image": "3133",
+                "totalPlayed": 7547
+            },
+            {
+                "_id": "685287d2ecdffab01b01de9d",
+                "name": "Ocean Baby Injured",
+                "slug": "ocean-baby-injured",
+                "image": "3142",
+                "totalPlayed": 8897
+            },
+            {
+                "_id": "685287d2ecdffab01b01de69",
+                "name": "Ice Queen Resurrection Emergency",
+                "slug": "ice-queen-resurrection-emergency",
+                "image": "3090",
+                "totalPlayed": 10683
+            },
+            {
+                "_id": "685287d2ecdffab01b01de6b",
+                "name": "Dotted Girl Brain Doctor",
+                "slug": "dotted-girl-brain-doctor",
+                "image": "3092",
+                "totalPlayed": 11473
+            },
+            {
+                "_id": "685287d2ecdffab01b01de6f",
+                "name": "Beauties Pregnant Bffs",
+                "slug": "beauties-pregnant-bffs",
+                "image": "3096",
+                "totalPlayed": 9659
+            },
+            {
+                "_id": "685287d2ecdffab01b01de70",
+                "name": "Baby Goldie Injured",
+                "slug": "baby-goldie-injured",
+                "image": "3097",
+                "totalPlayed": 9945
+            },
+            {
+                "_id": "685287d2ecdffab01b01de71",
+                "name": "Exotic Princess Mission Accident ER",
+                "slug": "exotic-princess-mission-accident-er",
+                "image": "3098",
+                "totalPlayed": 9338
+            },
+            {
+                "_id": "685287d2ecdffab01b01de72",
+                "name": "Exotic Princess Brain Doctor",
+                "slug": "exotic-princess-brain-doctor",
+                "image": "3099",
+                "totalPlayed": 10261
+            },
+            {
+                "_id": "685287d2ecdffab01b01de77",
+                "name": "Dotted Girl Mission Accident ER",
+                "slug": "dotted-girl-mission-accident-er",
+                "image": "3104",
+                "totalPlayed": 8298
+            },
+            {
+                "_id": "685287d2ecdffab01b01de7a",
+                "name": "Mommy BFFs Pregnant Check Up",
+                "slug": "mommy-bffs-pregnant-check-up",
+                "image": "3107",
+                "totalPlayed": 9654
+            },
+            {
+                "_id": "685287d2ecdffab01b01de27",
+                "name": "Bad Teeth Makeover",
+                "slug": "bad-teeth-makeover",
+                "image": "3023",
+                "totalPlayed": 7430
+            },
+            {
+                "_id": "685287d2ecdffab01b01de25",
+                "name": "Bonnie Kidney Transplant",
+                "slug": "bonnie-kidney-transplant",
+                "image": "3021",
+                "totalPlayed": 12630
+            },
+            {
+                "_id": "685287d2ecdffab01b01ddbd",
+                "name": "Draculaura Bad Teeth",
+                "slug": "draculaura-bad-teeth",
+                "image": "2916",
+                "totalPlayed": 7519
+            },
+            {
+                "_id": "685287d2ecdffab01b01ddbf",
+                "name": "Elsa Ice Skating Injuries",
+                "slug": "elsa-ice-skating-injuries",
+                "image": "2918",
+                "totalPlayed": 8101
+            },
+            {
+                "_id": "685287d2ecdffab01b01ddc1",
+                "name": "Elsa Stomach Virus",
+                "slug": "elsa-stomach-virus",
+                "image": "2920",
+                "totalPlayed": 9873
+            },
+            {
+                "_id": "685287d2ecdffab01b01ddc9",
+                "name": "Monster Foot Doctor",
+                "slug": "monster-foot-doctor",
+                "image": "2928",
+                "totalPlayed": 7636
+            },
+            {
+                "_id": "685287d2ecdffab01b01ddd1",
+                "name": "Barbie Pregnancy Care",
+                "slug": "barbie-pregnancy-care",
+                "image": "2936",
+                "totalPlayed": 36905
+            },
+            {
+                "_id": "685287d2ecdffab01b01dd9a",
+                "name": "Dotted Girl Twins Birth",
+                "slug": "dotted-girl-twins-birth",
+                "image": "2876",
+                "totalPlayed": 36518
+            },
+            {
+                "_id": "685287d2ecdffab01b01dd02",
+                "name": "Ice Queen Pregnant Check Up H5",
+                "slug": "ice-queen-pregnant-check-up-h5",
+                "image": "2715",
+                "totalPlayed": 7914
+            },
+            {
+                "_id": "685287d2ecdffab01b01dd06",
+                "name": "Kitty Pregnant Checkup",
+                "slug": "kitty-pregnant-checkup",
+                "image": "2719",
+                "totalPlayed": 25231
+            },
+            {
+                "_id": "685287d2ecdffab01b01dd16",
+                "name": "Dotted Girl Pregnant Check Up",
+                "slug": "dotted-girl-pregnant-check-up",
+                "image": "2735",
+                "totalPlayed": 17458
+            },
+            {
+                "_id": "685287d2ecdffab01b01dd23",
+                "name": "Cinderella Pregnant CheckUp",
+                "slug": "cinderella-pregnant-check-up",
+                "image": "2748",
+                "totalPlayed": 71625
+            },
+            {
+                "_id": "685287d2ecdffab01b01dd26",
+                "name": "Goldie Princess Skin Doctor",
+                "slug": "goldie-princess-skin-doctor",
+                "image": "2751",
+                "totalPlayed": 22719
+            },
+            {
+                "_id": "685287d2ecdffab01b01db75",
+                "name": "Ellie Vaccines Injection",
+                "slug": "ellie-vaccines-injection",
+                "image": "2259",
+                "totalPlayed": 25655
+            },
+            {
+                "_id": "685287d2ecdffab01b01db29",
+                "name": "Monster High Ear Doctor",
+                "slug": "monster-high-ear-doctor",
+                "image": "2179",
+                "totalPlayed": 10026
+            },
+            {
+                "_id": "685287d2ecdffab01b01da3a",
+                "name": "Mias Hospital Recovery",
+                "slug": "mias-hospital-recovery",
+                "image": "1930",
+                "totalPlayed": 14302
+            },
+            {
+                "_id": "685287d2ecdffab01b01da5a",
+                "name": "Jessies Hospital Recovery",
+                "slug": "jessies-hospital-recovery",
+                "image": "1962",
+                "totalPlayed": 17409
+            },
+            {
+                "_id": "685287d2ecdffab01b01da7e",
+                "name": "Wicked High School Hospital Recovery",
+                "slug": "wicked-high-school-hospital-recovery",
+                "image": "1998",
+                "totalPlayed": 12597
+            },
+            {
+                "_id": "685287d2ecdffab01b01da87",
+                "name": "Warrior Princess Hospital Recovery",
+                "slug": "warrior-princess-hospital-recovery",
+                "image": "2007",
+                "totalPlayed": 9472
+            },
+            {
+                "_id": "685287d2ecdffab01b01daa7",
+                "name": "Mermaid Princess Hospital Recovery",
+                "slug": "mermaid-princess-hospital-recovery",
+                "image": "2039",
+                "totalPlayed": 14385
+            },
+            {
+                "_id": "685287d2ecdffab01b01dad3",
+                "name": "Kitty Hospital Recovery",
+                "slug": "kitty-hospital-recovery",
+                "image": "2083",
+                "totalPlayed": 20334
+            },
+            {
+                "_id": "685287d2ecdffab01b01dada",
+                "name": "Ice Princess Hospital Recovery",
+                "slug": "ice-princess-hospital-recovery",
+                "image": "2090",
+                "totalPlayed": 13288
+            },
+            {
+                "_id": "685287d2ecdffab01b01dae1",
+                "name": "Star Rebel Hospital Recovery",
+                "slug": "star-rebel-hospital-recovery",
+                "image": "2097",
+                "totalPlayed": 10880
+            },
+            {
+                "_id": "685287d2ecdffab01b01dae9",
+                "name": "Superhero Doll Hospital Recovery",
+                "slug": "superhero-doll-hospital-recovery",
+                "image": "2105",
+                "totalPlayed": 26348
+            },
+            {
+                "_id": "685287d2ecdffab01b01daed",
+                "name": "Blonde Princess Hospital Recovery",
+                "slug": "blonde-princess-hospital-recovery",
+                "image": "2109",
+                "totalPlayed": 8101
+            },
+            {
+                "_id": "685287d2ecdffab01b01d809",
+                "name": "Super Sports Surgery: Rugby",
+                "slug": "super-sports-surgery-rugby",
+                "image": "1258",
+                "totalPlayed": 7593
+            },
+            {
+                "_id": "685287d2ecdffab01b01d80b",
+                "name": "Soccer Doctor 3",
+                "slug": "soccer-doctor-3",
+                "image": "1260",
+                "totalPlayed": 7298
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5d2",
+                "name": "Doctor Teeth",
+                "slug": "doctor-teeth",
+                "image": "538",
+                "totalPlayed": 11213
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5cb",
+                "name": "Miraculous Ladybug First Aid",
+                "slug": "miraculous-ladybug-first-aid",
+                "image": "527",
+                "totalPlayed": 16228
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017df1",
+            "id": 46,
+            "name": "doctor",
+            "parent": {
+                "_id": "685287b2ecdffab01b017e14",
+                "name": "girls",
+                "slug": "girls"
+            },
+            "slug": "doctor",
+            "icon": "Doctor",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 4,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.819Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>Online Doctor Games Offer an Interactive Way to Learn About Various Medical Procedures and Care</h4>\n<p class=\"text_desc\">Our exclusive variety of browser online doctor games helps you to explore and experience the life of a medical professional. These doctor games for girls talk about guiding players how to diagnose and treat various types of medical conditions. Get a chance to check out different types of styles and sorts ranging from the puzzled based games with medical themes to the immersive and engaging doctor simulators games. </p>\n<p class=\"text_desc\">Try out our single player medical games or practice different emerging surgical procedures in multiplayer doctor games for girls which require no downloads. Help your child learn about diverse medical procedures, human body, and the proper healthcare management through our fun online doctor games. Your child can learn how to feed a little baby and take care of various medical needs of the little one, and provide the needful medical services to the elder patients in our free hospital games. </p>\n<p class=\"text_desc\">In our best virtual medical institution, you will learn various basic and complex terms about the medical industry. In doctor hospital games - play free online, you will know that being a surgeon you have sharp sensitivity, fabulous dexterity and matchless hand-eye coordination to take care of various complex procedures. </p>\n<h4>Salient Features of Popular Doctor Games: </h4>\n<p class=\"text_desc\">Step into the paws of a compassionate vet in <a class=\"link_desc\" href=\"https://www.atmegame.com/games/little-cat-doctor-pet-vet-game\" title=\"\" target=\"\" style=\"\">  Little Cat Doctor Pet Vet Game</a> and gear up to treat adorable furry patients, mend their ailments, and nurture them back to health in this heartwarming adventure. Are you ready to go on a heroic medical journey with <a class=\"link_desc\" href=\"https://www.atmegame.com/games/captain-america-doctor\" title=\"\" target=\"\" style=\"\">  Captain America Doctor</a>? Join forces with the legendary superhero, heal his injuries, and assist in his recovery. </p>\n<p class=\"text_desc\">Dive into a magical underwater world and assist the Princess Mermaid in her extraordinary journey to motherhood in<a class=\"link_desc\" href=\"https://www.atmegame.com/games/princess-mermaid-mommy-birth\" title=\"\" target=\"\" style=\"\">  Princess Mermaid Mommy Birth</a>! Experience the wonders of childbirth beneath the sea. Play <a class=\"link_desc\" href=\"https://www.atmegame.com/games/foot-surgery\" title=\"\" target=\"\" style=\"\"> Foot Surgery </a> and become the ultimate virtual surgeon! Tackle foot ailments and perform precise operations to heal and restore. </p>\n<h4>Play Surgery Games Online for Free Without Download</h4>\n<p class=\"text_desc\">It is always nice to explore the exclusive variety of online doctor games surgery especially when knowing various important things about the surgical procedures is your first priority. In Brain surgery games, you as a player get a chance to perform brain surgery and other medical procedures. </p>\n<p class=\"text_desc\">There are various imperative heart related medical terms you come in contact with while checking out the heart surgery games. You can also use various medical instruments to treat injuries and cure illnesses in ear surgery games, knee surgery games, nail doctor games and more. Treat various teeth related issues in just a few clicks in online dentist games. </p>\n<h4>Barbie Surgery Simulator Games Have a Huge Fan Base</h4>\n<p class=\"text_desc\">The game play and simulation of the princess doctor games has mostly been kept around a doctors clinic, having all the peripherals and necessary equipment out there in a doctor’s clinic have been tried to be kept around in each and every doctor’s game mentioned out here to play doctors game. </p>\n<p class=\"text_desc\">We ensure you to check out a good number of online simulation games for free, no download required. </p>\n\n<h4>Online Skin Doctor Games</h4>\n<p class=\"text_desc\">In this popular category of online games, the treatment is offered to the patients suffering from the serious diseases too little and trivial issues like skin rashes, cuts, pedicure, manicure and other related ailments, while, offering the treatment to the patients. </p>\n<p class=\"text_desc\">Free games online, merely, are just not limited only for treating and offering medical care only too man but also too for the curing the animals as well too suffering from various diseases and problems. As a vet doctor you provide treatment to the animals suffering from disease as well as sort of injuries. </p>\n<h4>What We Can Do in Our Online Doctor Games for Girls? </h4>\n<ul>\n    <li><b>Immersive Medical Scenarios: </b> Explore the life of a medical professional through a diverse array of doctor games tailored for various preferences and interests. </li>\n<li><b>Diagnose and Treat: </b>Guide players through diagnosing and treating a multitude of medical conditions, fostering learning through gameplay. </li>\n<li><b>Variety of Game Styles: </b>Enjoy puzzle-based medical themes or dive into immersive doctor simulator games, catering to different gaming preferences. </li>\n<li><b>Single and Multiplayer Options: </b>Engage in single-player medical games or delve into multiplayer modes for emergent surgical procedures, all without downloads. </li>\n<li><b>Educational Experience: </b>Facilitate learning about medical procedures, healthcare management, and the human body for children through entertaining gameplay. </li>\n<li><b>Kid-Friendly Experience: </b>Atmegame offers unblocked doctor games suitable for kids, encouraging performance to earn rewards for hospital upgrades and new medical instruments. </li></ul>\n<h4>Best Online Doctor Games for Kids</h4>\n<p class=\"text_desc\">Find out the doctor games unblocked by performing extraordinary in your chosen online games! You can purchase new medical instruments and hire good doctors with the coins and money you can earn through some effective medical procedures and upgrade your hospitals. </p>\n<h4>Frequently Asked Questions (FAQs): </h4>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. What are the best doctor games available to play online on PCs, mobile phones and tablets? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<div itemprop=\"text\">\n<p class=\"text_desc\">A1. Some of our popular medical games are: </p><ul>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/minion-surgery\" title=\"\" target=\"\" style=\"\">Minion Surgery</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/catwoman-pregnant\" title=\"\" target=\"\" style=\"\">Catwoman Pregnant</a></li>\n<li><a class=\"link_desc\" href=\"https://atmegame.com/games/princess-foot-doctor\" title=\"\" target=\"\" style=\"\">Princess Foot Doctor</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/captain-america-doctor\" title=\"\" target=\"\" style=\"\">Captain America Doctor</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/ice-princess-twins-birth\" title=\"\" target=\"\" style=\"\">Ice Princess Twins Birth</a></li><li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/little-cat-doctor-pet-vet-game\" title=\"\" target=\"\" style=\"\">Little Cat Doctor Pet Vet Game</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/superhero-pregnant-emergency\" title=\"\" target=\"\" style=\"\">Superhero Pregnant Emergency</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/princess-mermaid-mommy-birth\" title=\"\" target=\"\" style=\"\">Princess Mermaid Mommy Birth</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/mermaid-resurrection-emergency\" title=\"\" target=\"\" style=\"\">Mermaid Resurrection Emergency</a></li></ul>\n</div>\n    </div>\n  </div>",
+            "metaTitle": "Doctor Games for Girls, Play Online Doctor Games Free : Atmegame.com",
+            "metaDesc": "Doctors game online results to be the most popular girls game online category that is being extensively played by the girls with great joy and enthusiasm.",
+            "metaKeyword": "Girls Doctor games, play online Doctor games, Casino Games, play Doctor games, free games, online Doctor games"
+        }
+    }
+}
