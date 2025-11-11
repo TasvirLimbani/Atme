@@ -1,0 +1,690 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01eaaa",
+                "name": "Battleship Arena",
+                "slug": "battleship-arena",
+                "image": "6571",
+                "totalPlayed": 355095
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea65",
+                "name": "King Of The Hill",
+                "slug": "king-of-the-hill",
+                "image": "6493",
+                "totalPlayed": 8337
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea73",
+                "name": "Cursed Treasure Level Pack",
+                "slug": "cursed-treasure-level-pack",
+                "image": "6509",
+                "totalPlayed": 18105
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea49",
+                "name": "Heroes Battle",
+                "slug": "heroes-battle",
+                "image": "6465",
+                "totalPlayed": 10413
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea2a",
+                "name": "Cursed Treasure 2",
+                "slug": "cursed-treasure-2",
+                "image": "6432",
+                "totalPlayed": 9378
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea00",
+                "name": "Defend Home",
+                "slug": "defend-home",
+                "image": "6384",
+                "totalPlayed": 22660
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9e0",
+                "name": "Five Nations",
+                "slug": "five-nations",
+                "image": "6339",
+                "totalPlayed": 10216
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9a2",
+                "name": "Mech Battle Simulator",
+                "slug": "mech-battle-simulator",
+                "image": "6241",
+                "totalPlayed": 7749
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8e6",
+                "name": "Clash of Armour",
+                "slug": "clash-of-armour",
+                "image": "6015",
+                "totalPlayed": 48107
+            },
+            {
+                "_id": "685287d2ecdffab01b01e83e",
+                "name": "Clash of Tanks",
+                "slug": "clash-of-tanks",
+                "image": "5748",
+                "totalPlayed": 24944
+            },
+            {
+                "_id": "685287d2ecdffab01b01e7d0",
+                "name": "Space Mission",
+                "slug": "space-mission",
+                "image": "5621",
+                "totalPlayed": 13713
+            },
+            {
+                "_id": "685287d2ecdffab01b01e7d6",
+                "name": "Neon Tank Arena",
+                "slug": "neon-tank-arena",
+                "image": "5628",
+                "totalPlayed": 6792
+            },
+            {
+                "_id": "685287d2ecdffab01b01e7c3",
+                "name": "Tower Defense 2D",
+                "slug": "tower-defense-2d",
+                "image": "5607",
+                "totalPlayed": 7415
+            },
+            {
+                "_id": "685287d2ecdffab01b01e769",
+                "name": "Tanking Tanks",
+                "slug": "tanking-tanks",
+                "image": "5502",
+                "totalPlayed": 6837
+            },
+            {
+                "_id": "685287d2ecdffab01b01e703",
+                "name": "Space Fighter",
+                "slug": "space-fighter",
+                "image": "5392",
+                "totalPlayed": 9309
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6f4",
+                "name": "Earth Invaders",
+                "slug": "earth-invaders",
+                "image": "5377",
+                "totalPlayed": 9553
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6e0",
+                "name": "The Lost Planet Tower Defense",
+                "slug": "the-lost-planet-tower-defense",
+                "image": "5356",
+                "totalPlayed": 19468
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6e4",
+                "name": "Monster Rush",
+                "slug": "monster-rush",
+                "image": "5360",
+                "totalPlayed": 26144
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6a9",
+                "name": "Metal Animal",
+                "slug": "metal-animal",
+                "image": "5299",
+                "totalPlayed": 9766
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6ad",
+                "name": "Empire Tower Defense",
+                "slug": "empire-tower-defense",
+                "image": "5303",
+                "totalPlayed": 7537
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6ae",
+                "name": "Sky Fighters",
+                "slug": "sky-fighters",
+                "image": "5304",
+                "totalPlayed": 11230
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6b1",
+                "name": "Air War 1941",
+                "slug": "air-war-1941",
+                "image": "5307",
+                "totalPlayed": 9555
+            },
+            {
+                "_id": "685287d2ecdffab01b01e692",
+                "name": "Space Attack",
+                "slug": "space-attack",
+                "image": "5276",
+                "totalPlayed": 15992
+            },
+            {
+                "_id": "685287d2ecdffab01b01e65f",
+                "name": "Battlestar Mazay",
+                "slug": "battlestar-mazay",
+                "image": "5222",
+                "totalPlayed": 7149
+            },
+            {
+                "_id": "685287d2ecdffab01b01e66c",
+                "name": "Battle For Kingdom",
+                "slug": "battle-for-kingdom",
+                "image": "5237",
+                "totalPlayed": 10420
+            },
+            {
+                "_id": "685287d2ecdffab01b01e66e",
+                "name": "Worms Combat Coop",
+                "slug": "worms-combat-coop",
+                "image": "5239",
+                "totalPlayed": 6413
+            },
+            {
+                "_id": "685287d2ecdffab01b01e652",
+                "name": "Jungle TD",
+                "slug": "jungle-td",
+                "image": "5208",
+                "totalPlayed": 7132
+            },
+            {
+                "_id": "685287d2ecdffab01b01e659",
+                "name": "Vampires Lore",
+                "slug": "vampires-lore",
+                "image": "5216",
+                "totalPlayed": 6499
+            },
+            {
+                "_id": "685287d2ecdffab01b01e63a",
+                "name": "EG RTS Battle",
+                "slug": "eg-rts-battle",
+                "image": "5183",
+                "totalPlayed": 7863
+            },
+            {
+                "_id": "685287d2ecdffab01b01e63b",
+                "name": "EG Rpg Fight",
+                "slug": "eg-rpg-fight",
+                "image": "5184",
+                "totalPlayed": 7577
+            },
+            {
+                "_id": "685287d2ecdffab01b01e613",
+                "name": "EG Sky Troops",
+                "slug": "eg-sky-troops",
+                "image": "5142",
+                "totalPlayed": 8384
+            },
+            {
+                "_id": "685287d2ecdffab01b01e621",
+                "name": "EG Neon War",
+                "slug": "eg-neon-war",
+                "image": "5157",
+                "totalPlayed": 7574
+            },
+            {
+                "_id": "685287d2ecdffab01b01e626",
+                "name": "Galaxy Fleet Time Travel",
+                "slug": "galaxy-fleet-time-travel",
+                "image": "5162",
+                "totalPlayed": 10906
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5da",
+                "name": "Sky Knight",
+                "slug": "sky-knight",
+                "image": "5084",
+                "totalPlayed": 10409
+            },
+            {
+                "_id": "685287d2ecdffab01b01e4ce",
+                "name": "Sky Warrior 2 Invasion",
+                "slug": "sky-warrior-2-invasion",
+                "image": "4811",
+                "totalPlayed": 8488
+            },
+            {
+                "_id": "685287d2ecdffab01b01e4d0",
+                "name": "Drone Wars",
+                "slug": "drone-wars",
+                "image": "4813",
+                "totalPlayed": 8876
+            },
+            {
+                "_id": "685287d2ecdffab01b01e3c8",
+                "name": "Martians VS Robots",
+                "slug": "martians-vs-robots",
+                "image": "4545",
+                "totalPlayed": 7426
+            },
+            {
+                "_id": "685287d2ecdffab01b01e38a",
+                "name": "Tower Defense Alien War",
+                "slug": "tower-defense-alien-war",
+                "image": "4481",
+                "totalPlayed": 9310
+            },
+            {
+                "_id": "685287d2ecdffab01b01e38c",
+                "name": "Space Ripper Plastiline",
+                "slug": "space-ripper-plastiline",
+                "image": "4483",
+                "totalPlayed": 7197
+            },
+            {
+                "_id": "685287d2ecdffab01b01e38e",
+                "name": "Panda Commander Air Combat",
+                "slug": "panda-commander-air-combat",
+                "image": "4485",
+                "totalPlayed": 8744
+            },
+            {
+                "_id": "685287d2ecdffab01b01e38f",
+                "name": "Air Warfare",
+                "slug": "air-warfare",
+                "image": "4486",
+                "totalPlayed": 728770
+            },
+            {
+                "_id": "685287d2ecdffab01b01e393",
+                "name": "Space Galaxcolory",
+                "slug": "space-galaxcolory",
+                "image": "4491",
+                "totalPlayed": 8191
+            },
+            {
+                "_id": "685287d2ecdffab01b01e370",
+                "name": "Christmas Santa Claus Alien War",
+                "slug": "christmas-santa-claus-alien-war",
+                "image": "4455",
+                "totalPlayed": 8069
+            },
+            {
+                "_id": "685287d2ecdffab01b01e384",
+                "name": "Wizards vs Swamp Creatures",
+                "slug": "wizards-vs-swamp-creatures",
+                "image": "4475",
+                "totalPlayed": 6950
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2a1",
+                "name": "Castle Defense",
+                "slug": "castle-defense",
+                "image": "4247",
+                "totalPlayed": 9080
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1e9",
+                "name": "Kingdom Defense",
+                "slug": "kingdom-defense",
+                "image": "4058",
+                "totalPlayed": 10027
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1f7",
+                "name": "Sky Wars",
+                "slug": "sky-wars",
+                "image": "4072",
+                "totalPlayed": 23480
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1f9",
+                "name": "Sky Force",
+                "slug": "sky-force",
+                "image": "4074",
+                "totalPlayed": 10365
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1fd",
+                "name": "Slime Rush TD",
+                "slug": "slime-rush-td",
+                "image": "4078",
+                "totalPlayed": 8692
+            },
+            {
+                "_id": "685287d2ecdffab01b01e091",
+                "name": "Galaxy Battle",
+                "slug": "galaxy-battle",
+                "image": "3689",
+                "totalPlayed": 9260
+            },
+            {
+                "_id": "685287d2ecdffab01b01e092",
+                "name": "Neon Glow",
+                "slug": "neon-glow",
+                "image": "3690",
+                "totalPlayed": 6967
+            },
+            {
+                "_id": "685287d2ecdffab01b01e0ab",
+                "name": "Egypt Stone War",
+                "slug": "egypt-stone-war",
+                "image": "3716",
+                "totalPlayed": 55299
+            },
+            {
+                "_id": "685287d2ecdffab01b01e109",
+                "name": "Bones Slasher",
+                "slug": "bones-slasher",
+                "image": "3819",
+                "totalPlayed": 14774
+            },
+            {
+                "_id": "685287d2ecdffab01b01e151",
+                "name": "Sky Battle",
+                "slug": "sky-battle",
+                "image": "3901",
+                "totalPlayed": 7417
+            },
+            {
+                "_id": "685287d2ecdffab01b01e19e",
+                "name": "Space Conflict",
+                "slug": "space-conflict",
+                "image": "3981",
+                "totalPlayed": 8326
+            },
+            {
+                "_id": "685287d2ecdffab01b01e071",
+                "name": "Age of War",
+                "slug": "age-of-war",
+                "image": "3652",
+                "totalPlayed": 9150
+            },
+            {
+                "_id": "685287d2ecdffab01b01e04f",
+                "name": "Space Blaze",
+                "slug": "space-blaze",
+                "image": "3616",
+                "totalPlayed": 7434
+            },
+            {
+                "_id": "685287d2ecdffab01b01e058",
+                "name": "Asteroid Burst",
+                "slug": "asteroid-burst",
+                "image": "3625",
+                "totalPlayed": 8529
+            },
+            {
+                "_id": "685287d2ecdffab01b01e00b",
+                "name": "Stickman Fighter Epic Battles",
+                "slug": "stickman-fighter-epic-battles",
+                "image": "3540",
+                "totalPlayed": 7299
+            },
+            {
+                "_id": "685287d2ecdffab01b01dff5",
+                "name": "Sky War",
+                "slug": "sky-war",
+                "image": "3515",
+                "totalPlayed": 20305
+            },
+            {
+                "_id": "685287d2ecdffab01b01dff6",
+                "name": "Armored Blasters I",
+                "slug": "armored-blasters-i",
+                "image": "3516",
+                "totalPlayed": 11602
+            },
+            {
+                "_id": "685287d2ecdffab01b01dff9",
+                "name": "Lord Of The Knights",
+                "slug": "lord-of-the-knights",
+                "image": "3519",
+                "totalPlayed": 18352
+            },
+            {
+                "_id": "685287d2ecdffab01b01dfb5",
+                "name": "City Building",
+                "slug": "city-building",
+                "image": "3448",
+                "totalPlayed": 18183
+            },
+            {
+                "_id": "685287d2ecdffab01b01dfc3",
+                "name": "Astronaut Warrior",
+                "slug": "astronaut-warrior",
+                "image": "3464",
+                "totalPlayed": 10209
+            },
+            {
+                "_id": "685287d2ecdffab01b01df82",
+                "name": "Planet Guardian",
+                "slug": "planet-guardian",
+                "image": "3390",
+                "totalPlayed": 8551
+            },
+            {
+                "_id": "685287d2ecdffab01b01df8d",
+                "name": "Tower Defense Super Heroes",
+                "slug": "tower-defense-super-heroes",
+                "image": "3403",
+                "totalPlayed": 14276
+            },
+            {
+                "_id": "685287d2ecdffab01b01df8e",
+                "name": "Sky Troops",
+                "slug": "sky-troops",
+                "image": "3404",
+                "totalPlayed": 16389
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc1c",
+                "name": "Nam  The Resistance War",
+                "slug": "nam-the-resistance-war",
+                "image": "2471",
+                "totalPlayed": 6719
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc23",
+                "name": "Plated Glory",
+                "slug": "plated-glory",
+                "image": "2478",
+                "totalPlayed": 6657
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc39",
+                "name": "Soldiers 3  Honor  Duty",
+                "slug": "soldiers-3-honor-duty",
+                "image": "2500",
+                "totalPlayed": 6720
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc53",
+                "name": "Real Mech Robot  Steel War 3D",
+                "slug": "real-mech-robot-steel-war-3d",
+                "image": "2527",
+                "totalPlayed": 8142
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc77",
+                "name": "Desert Force",
+                "slug": "desert-force",
+                "image": "2563",
+                "totalPlayed": 9309
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc89",
+                "name": "Advanced Pixel Apocalypse 3",
+                "slug": "advanced-pixel-apocalypse-3",
+                "image": "2583",
+                "totalPlayed": 7436
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcaa",
+                "name": "Quasar Combat",
+                "slug": "quasar-combat",
+                "image": "2617",
+                "totalPlayed": 9408
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcb8",
+                "name": "Vietnam War The Last Battle",
+                "slug": "vietnam-war-the-last-battle",
+                "image": "2631",
+                "totalPlayed": 7505
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcc9",
+                "name": "Airfight Bomber",
+                "slug": "airfight-bomber",
+                "image": "2649",
+                "totalPlayed": 7137
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcca",
+                "name": "Good Guys vs Bad Boys",
+                "slug": "good-guys-vs-bad-boys",
+                "image": "2650",
+                "totalPlayed": 7316
+            },
+            {
+                "_id": "685287d2ecdffab01b01dccb",
+                "name": "Alien Sky Invasion",
+                "slug": "alien-sky-invasion",
+                "image": "2651",
+                "totalPlayed": 7694
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcdb",
+                "name": "Pixel Gun Apocalypse 3",
+                "slug": "pixel-gun-apocalypse-3",
+                "image": "2670",
+                "totalPlayed": 7538
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcdd",
+                "name": "Pixelar Vehicle Wars",
+                "slug": "pixelar-vehicle-wars",
+                "image": "2675",
+                "totalPlayed": 8236
+            },
+            {
+                "_id": "685287d2ecdffab01b01dce9",
+                "name": "Snipers Wars",
+                "slug": "snipers-wars",
+                "image": "2690",
+                "totalPlayed": 7746
+            },
+            {
+                "_id": "685287d2ecdffab01b01dceb",
+                "name": "Military Wars Warfare",
+                "slug": "military-wars-warfare",
+                "image": "2692",
+                "totalPlayed": 9523
+            },
+            {
+                "_id": "685287d2ecdffab01b01dba3",
+                "name": "Cheesy Wars",
+                "slug": "cheesy-wars",
+                "image": "2310",
+                "totalPlayed": 7510
+            },
+            {
+                "_id": "685287d2ecdffab01b01db7e",
+                "name": "galxia",
+                "slug": "galxia",
+                "image": "2270",
+                "totalPlayed": 8704
+            },
+            {
+                "_id": "685287d2ecdffab01b01d93d",
+                "name": "Elements  Magic",
+                "slug": "elements-magic",
+                "image": "1636",
+                "totalPlayed": 7665
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8db",
+                "name": "Bridge Tactics",
+                "slug": "bridge-tactics",
+                "image": "1533",
+                "totalPlayed": 8238
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5f0",
+                "name": "Calabash Bros",
+                "slug": "calabash-bros",
+                "image": "575",
+                "totalPlayed": 8185
+            },
+            {
+                "_id": "685287d2ecdffab01b01d57c",
+                "name": "Legends of Honor",
+                "slug": "legends-of-honor",
+                "image": "441",
+                "totalPlayed": 9913
+            },
+            {
+                "_id": "685287d2ecdffab01b01d579",
+                "name": "Goodgame Empire",
+                "slug": "goodgame-empire",
+                "image": "438",
+                "totalPlayed": 10604
+            },
+            {
+                "_id": "685287d2ecdffab01b01d56c",
+                "name": "Forest Siege",
+                "slug": "forest-siege",
+                "image": "268",
+                "totalPlayed": 12401
+            },
+            {
+                "_id": "685287d2ecdffab01b01d55e",
+                "name": "Galaxy Gunner",
+                "slug": "galaxy-gunner",
+                "image": "252",
+                "totalPlayed": 14206
+            },
+            {
+                "_id": "685287d2ecdffab01b01d549",
+                "name": "Planetary Wars",
+                "slug": "planetary-wars",
+                "image": "227",
+                "totalPlayed": 11050
+            },
+            {
+                "_id": "685287d2ecdffab01b01d53d",
+                "name": "Wings Of War",
+                "slug": "wings-of-war",
+                "image": "213",
+                "totalPlayed": 14404
+            },
+            {
+                "_id": "685287d2ecdffab01b01d506",
+                "name": "Pocket Ninja",
+                "slug": "pocket-ninja",
+                "image": "153",
+                "totalPlayed": 9826
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017de7",
+            "id": 36,
+            "name": "war",
+            "parent": {
+                "_id": "685287b2ecdffab01b017e12",
+                "name": "adventure",
+                "slug": "adventure"
+            },
+            "slug": "war",
+            "icon": "War Games",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 3,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.819Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>When Everything Fails, War Comes into Existence!</h4>\r\n\r\n<p class=\"text_desc\">Out of multiple scale games available online, war games are one of the most popular ones among both boys and girls. The primary objective of the players in these browser games is to purchase upgrades or more buildings/units by leading an army of powerful and brave souls, and building cities, castles or bases.</p><p class=\"text_desc\">\r\n\r\nOnline war games, known to be the subcategory of <a class=\"link_desc\" href=\"https://www.atmegame.com/online-adventure-games\" title=\"\" target=\"\">adventure games</a>, emphasize over the tactical warfare based upon the historical incidents as well as military combats. War based games online are an easy way to judge your strategic capacity to plan things and derive results.</p>\r\n<h4>Experience Realistic &amp; Intense Combat Scenarios</h4>\r\n\r\n<p class=\"text_desc\">With the advent of virtual reality and artificial intelligence, these war strategy games have become much more realistic with respect to their impact over player and game play as well.</p><p class=\"text_desc\">\r\n\r\nThe free war games online most of the time now is been around developed the factors of tactical <a class=\"link_desc\" href=\"https://www.atmegame.com/online-fighting-games\" title=\"\" target=\"\">fighting</a>, here a player simply choose an area to fight and conquer.</p><p class=\"text_desc\">\r\n\r\nHowever, with so much and many customization options to play, a player in online battle games mostly thinks about the fighting rather than wasting its time in making strategy and implementing its results.</p><p class=\"text_desc\">\r\n\r\n<h4>Win Multiple Ruthless Fights to Become a War Hero!</h4>\r\n\r\n<p class=\"text_desc\">Kill your enemies and destroy their bases using multiple weapons including guns, missiles and grenades in online strategy war games! Plan a strategy to take your heartless enemies down in vicious dog fights! Keep completing one after another missions and looking forward to defend your army base and country!</p><p class=\"text_desc\">\r\n\r\nYou would get a chance to go on different types of adventurers when you try to explore this one of the highly addictive <a class=\"link_desc\" href=\"https://www.atmegame.com/online-action-games\" title=\"\" target=\"\">action games</a> category. Clear your enemies through all levels and become a true champion! Decide first whether you want to an action hero or a war hero!</p><p class=\"text_desc\">\r\n\r\nIn the free online combat games or army games warring scenarios even are created to keep a playerâ€™s interest intact for a longer period of time by introducing a good number of levels in the game to keep a player's interest intact and live. Different upgrade and points at the course of level to power up the gamer are offered in a war games for free.</p>",
+            "metaTitle": "War Games, Play War Games Online Free, Html5  : Atmegame.com",
+            "metaDesc": "Engage in one of the most challenging fighting game in war games online at the difficult of landscapes and terrain to be found at and be enjoyed",
+            "metaKeyword": "war games, play online war games, play war games, free games,  online war games,  civil army"
+        }
+    }
+}
