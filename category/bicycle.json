@@ -1,0 +1,228 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01ea6c",
+                "name": "BMX Rider Impossible Stunt Racing  Bicycle Stunt",
+                "slug": "bmx-rider-impossible-stunt-racing--bicycle-stunt",
+                "image": "6501",
+                "totalPlayed": 25499
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea75",
+                "name": "Tuk Tuk Rush",
+                "slug": "tuk-tuk-rush",
+                "image": "6511",
+                "totalPlayed": 23306
+            },
+            {
+                "_id": "685287d2ecdffab01b01e98e",
+                "name": "Moto Quest Bike racing",
+                "slug": "moto-quest-bike-racing",
+                "image": "6215",
+                "totalPlayed": 27165
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8fa",
+                "name": "Underwater Cycling",
+                "slug": "underwater-cycling",
+                "image": "6035",
+                "totalPlayed": 20243
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6b9",
+                "name": "Tomolo Bike",
+                "slug": "tomolo-bike",
+                "image": "5315",
+                "totalPlayed": 26779
+            },
+            {
+                "_id": "685287d2ecdffab01b01e433",
+                "name": "Wheelie Challenge 2",
+                "slug": "wheelie-challenge-2",
+                "image": "4653",
+                "totalPlayed": 17509
+            },
+            {
+                "_id": "685287d2ecdffab01b01e22e",
+                "name": "Bikosaur",
+                "slug": "bikosaur",
+                "image": "4128",
+                "totalPlayed": 10331
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1a9",
+                "name": "BMX Online",
+                "slug": "bmx-online",
+                "image": "3992",
+                "totalPlayed": 10925
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1ab",
+                "name": "Wheelie Challenge",
+                "slug": "wheelie-challenge",
+                "image": "3994",
+                "totalPlayed": 10958
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1b9",
+                "name": "Stickman Bike Rider",
+                "slug": "stickman-bike-rider",
+                "image": "4008",
+                "totalPlayed": 23184
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1bc",
+                "name": "Biker Street",
+                "slug": "biker-street",
+                "image": "4011",
+                "totalPlayed": 10573
+            },
+            {
+                "_id": "685287d2ecdffab01b01d96d",
+                "name": "Wheelchair",
+                "slug": "wheelchair",
+                "image": "1687",
+                "totalPlayed": 10048
+            },
+            {
+                "_id": "685287d2ecdffab01b01d969",
+                "name": "Dashing Dave",
+                "slug": "dashing-dave",
+                "image": "1683",
+                "totalPlayed": 10283
+            },
+            {
+                "_id": "685287d2ecdffab01b01d951",
+                "name": "Rapunzel&#146;s Bicycle",
+                "slug": "rapunzels-bicycle",
+                "image": "1657",
+                "totalPlayed": 8891
+            },
+            {
+                "_id": "685287d2ecdffab01b01d950",
+                "name": "Rapunzel Workshop Bicycle",
+                "slug": "rapunzel-workshop-bicycle",
+                "image": "1656",
+                "totalPlayed": 9518
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8cd",
+                "name": "Stick BMX Madness",
+                "slug": "stick-bmx-madness",
+                "image": "1490",
+                "totalPlayed": 8965
+            },
+            {
+                "_id": "685287d2ecdffab01b01d606",
+                "name": "Mountain Bike",
+                "slug": "mountain-bike",
+                "image": "600",
+                "totalPlayed": 18055
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5dc",
+                "name": "Newspaper Boy 2",
+                "slug": "newspaper-boy-2",
+                "image": "553",
+                "totalPlayed": 8638
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5db",
+                "name": "Cycle Scramble 2",
+                "slug": "cycle-scramble-2",
+                "image": "552",
+                "totalPlayed": 12041
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5d8",
+                "name": "Smart Boy Ride",
+                "slug": "smart-boy-ride",
+                "image": "546",
+                "totalPlayed": 9355
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5d7",
+                "name": "Anita Cycle Racing",
+                "slug": "anita-cycle-racing",
+                "image": "545",
+                "totalPlayed": 10644
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5d6",
+                "name": "Icycle",
+                "slug": "icycle",
+                "image": "544",
+                "totalPlayed": 8994
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5d5",
+                "name": "Cycle Racer",
+                "slug": "cycle-racer",
+                "image": "543",
+                "totalPlayed": 17173
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5b7",
+                "name": "Stickman Freeride",
+                "slug": "stickman-freeride",
+                "image": "507",
+                "totalPlayed": 18038
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5b6",
+                "name": "Stick BMX Challenge",
+                "slug": "stick-bmx-challenge",
+                "image": "506",
+                "totalPlayed": 10664
+            },
+            {
+                "_id": "685287d2ecdffab01b01d540",
+                "name": "Stickman Dirtbike",
+                "slug": "stickman-dirtbike",
+                "image": "217",
+                "totalPlayed": 13513
+            },
+            {
+                "_id": "685287d2ecdffab01b01d534",
+                "name": "Fruit Bazaar",
+                "slug": "fruit-bazaar",
+                "image": "200",
+                "totalPlayed": 12634
+            },
+            {
+                "_id": "685287d2ecdffab01b01d4e8",
+                "name": "Stickman Downhill",
+                "slug": "stickman-downhill",
+                "image": "123",
+                "totalPlayed": 16695
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017de2",
+            "id": 31,
+            "name": "bicycle",
+            "parent": {
+                "_id": "685287b2ecdffab01b017e10",
+                "name": "racing",
+                "slug": "racing"
+            },
+            "slug": "bicycle",
+            "icon": "bicycle-racing-games",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 7,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.818Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>Explore the Thrilling World of Bicycle Games at Atmegame.com</h4>\n<p class=\"text_desc\">We are proud to offer an exclusive and best collection of browser-based HTML5 bicycle games at Atmegame.com! Play the best single-player or multiplayer bicycle games online, no downloads required. All our free bicycle games are meant for offering highly entertaining and engaging gaming experiences.</p> \n<p class=\"text_desc\">Dive into our collection featuring free bike games, including immersive 3D experiences and heart-pounding races like Moto X3M. Explore adrenaline-fueled BMX bicycle games online, offering exhilarating challenges and stunts. Pedal your way to the endless fun and excitement with our easy to cycle riding </p>\n<p class=\"text_desc\">Whether you are a fan of 3D bike racing, or classic bicycle challenges, our curated selection ensures a thrilling ride for every player. </p>\n\n\n<h4>Navigate Challenging Terrains and Perform Stunts</h4>\n<p class=\"text_desc\">Experience adrenaline in <a class=\"link_desc\" href=\"https://www.atmegame.com/games/wheelie-challenge\" title=\"\" target=\"\" style=\"\"> Wheelie Challenge </a>on Atmegame.com! Navigate various deadly tracks, perform a number of dangerous stunts, complete levels and prove your supremacy in this heart-pounding bike racing challenge!\" </p>\n<p class=\"text_desc\">Explore stunt-filled environments, executing thrilling tricks and flips to amaze the audience in our exclusive world of motorcycle games. </p>\n\n<h4>Engaging Bicycle Adventures for All Ages</h4>\n<h4>BMX Bicycle Games Online: </h4><p class=\"text_desc\">Dive into the world of BMX biking, performing tricks and stunts in vibrant, interactive settings. </p>\n<h4>Barbie Bicycle Games: </h4> <p class=\"text_desc\">Join your favourite doll Barbie in exciting biking adventures, customizing bikes and exploring enchanting worlds. </p>\n<h4>What You Can Do in Our Free Bicycle Games? </h4>\n<h4>Experience Varied Gameplay: </h4><p class=\"text_desc\">From realistic racing simulations to fantasy-filled adventures, our online games offer diverse biking experiences. </p>\n<h4>Challenge Your Skills: </h4><p class=\"text_desc\">You would fall in love with multiple obstacle courses, races, and stunt challenges when dare to test your reflexes, coordination, and strategic thinking. </p>\n<h4>Compete and Progress: </h4> <p class=\"text_desc\">Race against time or fellow players, while looking forward to unlock levels, bikes, and achievements as you progress. </p>\n<h4>Enjoy a Variety of Bicycle Gaming Genres: </h4>\n<h4>Racing Thrills: </h4><p class=\"text_desc\">Engage in heart-pounding races against opponents or the clock in a range of settings and terrains. </p>\n<h4>Stunt Performances: </h4><p class=\"text_desc\">Master stunts and maneuvers, executing jaw-dropping tricks and flips in thrilling environments. </p>\n<h4>Customizable Adventures: </h4><p class=\"text_desc\">Personalize bikes, characters, and environments, adding a personal touch to your gaming experience. </p>\n<h4>Seamless Access to Bicycle Gaming Fun: </h4>\n<p class=\"text_desc\">At Atmegame.com, accessibility is a key to our valuable users! Enjoy our cycle riding games on PCs, smartphones, or tablets—anytime, anywhere. Dive into the thrilling world of free bicycle games with just a click! </p>\n<p class=\"text_desc\">In our awesome collection of bicycle board games online, you would experience a blend of strategy and biking fun! Engage in captivating challenges that combine the thrill of cycling with strategic board game elements, promising hours of immersive entertainment. </p> \n<h4>Embrace the Best of Bicycle Gaming</h4>\n<p class=\"text_desc\">Indulge in the finest collection of online bicycle games, carefully designed to provide an immersive and enjoyable gaming experience. From racing thrills to stunt challenges, our diverse games ensure an exhilarating ride for all bicycle game enthusiasts. </p>\n<p class=\"text_desc\">Embark on an adventure-filled journey, exploring the world of bike games at Atmegame.com. Join us and experience the rush of thrilling bicycle races, jaw-dropping stunts, and exhilarating challenges! </p>\n<h4>Frequently Asked Questions (FAQs): </h4>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. Are bicycle board games suitable for all ages? </h4>\n <div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n   \n<p class=\"text_desc\" itemprop=\"text\">A1. Absolutely! Our bicycle board games cater to players of various ages, offering diverse challenges suitable for kids, grown-ups, and seniors alike. </p>\n </div>\n    </div>\n  </div>\n<br>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4  itemprop=\"name\">Q2. Can I play bicycle board games online with friends? </h4>\n<p class=\"text_desc\" itemprop=\"text\">A2. Yes, many of our bicycle board games come with multiplayer options, allowing you to challenge friends and family for a fun and competitive gaming experience. </p>\n</div>\n    </div>\n",
+            "metaTitle": "Bicycle Racing Games,  Play Online Cycle Riding Free : Atmegame.com",
+            "metaDesc": "Get logged to intensive exhausted but panoramic cycle racing games online being a professional cyclist participating in different local as well as international events",
+            "metaKeyword": "bicycle racing games, play online bicycle racing games, play bicycle racing games, free games, online bicycle racing games,  cycle riding, driving"
+        }
+    }
+}
