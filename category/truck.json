@@ -1,0 +1,445 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01ea5a",
+                "name": "Zoo Animal Transport Simulator",
+                "slug": "zoo-animal-transport-simulator",
+                "image": "6482",
+                "totalPlayed": 26606
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea26",
+                "name": "City Fire Truck Rescue",
+                "slug": "city-fire-truck-rescue",
+                "image": "6428",
+                "totalPlayed": 14665
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea2b",
+                "name": "Euro Truck Driving Sim 2018 3D",
+                "slug": "euro-truck-driving-sim-2018-3d",
+                "image": "6433",
+                "totalPlayed": 11466
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9f5",
+                "name": "Dino Transport Truck Simulator 3D",
+                "slug": "dino-transport-truck-simulator-3d",
+                "image": "6368",
+                "totalPlayed": 12940
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9f6",
+                "name": "Monster Truck Freestyle 2020",
+                "slug": "monster-truck-freestyle-2020",
+                "image": "6373",
+                "totalPlayed": 10573
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9fc",
+                "name": "Impossible Truck Track Driving Game 2020",
+                "slug": "impossible-truck-track-driving-game-2020",
+                "image": "6380",
+                "totalPlayed": 10950
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea06",
+                "name": "Monster Truck Driving Simulator Game",
+                "slug": "monster-truck-driving-simulator-game",
+                "image": "6391",
+                "totalPlayed": 9609
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9df",
+                "name": "Monster 4x4 Hill Climb Sims",
+                "slug": "monster-4x4-hill-climb-sims",
+                "image": "6337",
+                "totalPlayed": 9415
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9f3",
+                "name": "Farm Animal Truck Transporter Game",
+                "slug": "farm-animal-truck-transporter-game",
+                "image": "6365",
+                "totalPlayed": 8859
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9d4",
+                "name": "Ultimate MonterTruck Race With Traffic 3D",
+                "slug": "ultimate-montertruck-race-with-traffic-3d",
+                "image": "6318",
+                "totalPlayed": 7573
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9d6",
+                "name": "Christmas Monster Truck",
+                "slug": "christmas-monster-truck",
+                "image": "6320",
+                "totalPlayed": 7725
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9db",
+                "name": "Bomber Truck",
+                "slug": "bomber-truck",
+                "image": "6329",
+                "totalPlayed": 431386
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9c3",
+                "name": "Demolition Monster Truck Army 2020",
+                "slug": "demolition-monster-truck-army-2020",
+                "image": "6295",
+                "totalPlayed": 7760
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9bd",
+                "name": "Monster Truck 2020",
+                "slug": "monster-truck-2020",
+                "image": "6281",
+                "totalPlayed": 8432
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9b0",
+                "name": "CyberTruck on Mars",
+                "slug": "cybertruck-on-mars",
+                "image": "6260",
+                "totalPlayed": 7312
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9b5",
+                "name": "Cargo Truck Simulator",
+                "slug": "cargo-truck-simulator",
+                "image": "6267",
+                "totalPlayed": 8881
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9b8",
+                "name": "FZ Monster Track",
+                "slug": "fz-monster-track",
+                "image": "6270",
+                "totalPlayed": 32146
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9bb",
+                "name": "Monster Truck Stunts Sky Driving",
+                "slug": "monster-truck-stunts-sky-driving",
+                "image": "6273",
+                "totalPlayed": 6770
+            },
+            {
+                "_id": "685287d2ecdffab01b01e98b",
+                "name": "Zombinators",
+                "slug": "zombinators",
+                "image": "6212",
+                "totalPlayed": 26342
+            },
+            {
+                "_id": "685287d2ecdffab01b01e980",
+                "name": "Army Truck Transport",
+                "slug": "army-truck-transport",
+                "image": "6199",
+                "totalPlayed": 11520
+            },
+            {
+                "_id": "685287d2ecdffab01b01e978",
+                "name": "Xtrem Impossible Cargo Truck Simulator",
+                "slug": "xtrem-impossible-cargo-truck-simulator",
+                "image": "6190",
+                "totalPlayed": 9819
+            },
+            {
+                "_id": "685287d2ecdffab01b01e94b",
+                "name": "Monster 4x4 Offroad Jeep Stunt Racing 2019",
+                "slug": "monster-4x4-offroad-jeep-stunt-racing-2019",
+                "image": "6137",
+                "totalPlayed": 8195
+            },
+            {
+                "_id": "685287d2ecdffab01b01e959",
+                "name": "Truck Loads Simulator 3D",
+                "slug": "truck-loads-simulator-3d",
+                "image": "6153",
+                "totalPlayed": 12403
+            },
+            {
+                "_id": "685287d2ecdffab01b01e95f",
+                "name": "Car Carrier Trailer",
+                "slug": "car-carrier-trailer",
+                "image": "6160",
+                "totalPlayed": 8417
+            },
+            {
+                "_id": "685287d2ecdffab01b01e967",
+                "name": "Impossible Truck Driving Simulator 3D",
+                "slug": "impossible-truck-driving-simulator-3d",
+                "image": "6170",
+                "totalPlayed": 9007
+            },
+            {
+                "_id": "685287d2ecdffab01b01e827",
+                "name": "Clean Road",
+                "slug": "clean-road",
+                "image": "5722",
+                "totalPlayed": 9008
+            },
+            {
+                "_id": "685287d2ecdffab01b01e82a",
+                "name": "Indian Truck Simulator 3D",
+                "slug": "indian-truck-simulator-3d",
+                "image": "5725",
+                "totalPlayed": 18176
+            },
+            {
+                "_id": "685287d2ecdffab01b01e7f5",
+                "name": "Hard Truck",
+                "slug": "hard-truck",
+                "image": "5664",
+                "totalPlayed": 36871
+            },
+            {
+                "_id": "685287d2ecdffab01b01e71c",
+                "name": "Dump Truck Race",
+                "slug": "dump-truck-race",
+                "image": "5419",
+                "totalPlayed": 21516
+            },
+            {
+                "_id": "685287d2ecdffab01b01e388",
+                "name": "Truck Physics",
+                "slug": "truck-physics",
+                "image": "4479",
+                "totalPlayed": 21452
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1b3",
+                "name": "Vehicles Simulator",
+                "slug": "vehicles-simulator",
+                "image": "4002",
+                "totalPlayed": 51511
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc1d",
+                "name": "EvoF",
+                "slug": "evo-f",
+                "image": "2472",
+                "totalPlayed": 8031
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc79",
+                "name": "Offroad Truck Race Extreme 3D",
+                "slug": "offroad-truck-race-extreme-3d",
+                "image": "2566",
+                "totalPlayed": 8106
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc7f",
+                "name": "4x4 Truck Car Hill Race 3D",
+                "slug": "4x4-truck-car-hill-race-3d",
+                "image": "2572",
+                "totalPlayed": 9591
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc8e",
+                "name": "Atomic Rally",
+                "slug": "atomic-rally",
+                "image": "2588",
+                "totalPlayed": 7458
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcb1",
+                "name": "Offroad Truck Driver",
+                "slug": "offroad-truck-driver",
+                "image": "2624",
+                "totalPlayed": 15481
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcc3",
+                "name": "Truck Simulator",
+                "slug": "truck-simulator",
+                "image": "2642",
+                "totalPlayed": 13911
+            },
+            {
+                "_id": "685287d2ecdffab01b01da2d",
+                "name": "Truck Traffic",
+                "slug": "truck-traffic",
+                "image": "1914",
+                "totalPlayed": 39967
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9f9",
+                "name": "Supermarket Supplier",
+                "slug": "supermarket-supplier",
+                "image": "1843",
+                "totalPlayed": 10062
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9d4",
+                "name": "Super Truck",
+                "slug": "super-truck",
+                "image": "1805",
+                "totalPlayed": 7950
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9da",
+                "name": "Snow Truck Extreme",
+                "slug": "snow-truck-extreme",
+                "image": "1811",
+                "totalPlayed": 8453
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9dc",
+                "name": "Tune Your Truck",
+                "slug": "tune-your-truck",
+                "image": "1813",
+                "totalPlayed": 8683
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9ac",
+                "name": "Steam Trucker",
+                "slug": "steam-trucker",
+                "image": "1759",
+                "totalPlayed": 15563
+            },
+            {
+                "_id": "685287d2ecdffab01b01d98e",
+                "name": "Underground Machines",
+                "slug": "underground-machines",
+                "image": "1722",
+                "totalPlayed": 8304
+            },
+            {
+                "_id": "685287d2ecdffab01b01d970",
+                "name": "Mega Jurassic Parking",
+                "slug": "mega-jurassic-parking",
+                "image": "1690",
+                "totalPlayed": 8781
+            },
+            {
+                "_id": "685287d2ecdffab01b01d971",
+                "name": "Super Trucks 3D",
+                "slug": "super-trucks-3d",
+                "image": "1691",
+                "totalPlayed": 8892
+            },
+            {
+                "_id": "685287d2ecdffab01b01d972",
+                "name": "Race at the Mall",
+                "slug": "race-at-the-mall",
+                "image": "1692",
+                "totalPlayed": 9159
+            },
+            {
+                "_id": "685287d2ecdffab01b01d983",
+                "name": "Heavy Equipment Racing",
+                "slug": "heavy-equipment-racing",
+                "image": "1709",
+                "totalPlayed": 9214
+            },
+            {
+                "_id": "685287d2ecdffab01b01d987",
+                "name": "Mad Truck Challenge",
+                "slug": "mad-truck-challenge",
+                "image": "1714",
+                "totalPlayed": 9069
+            },
+            {
+                "_id": "685287d2ecdffab01b01d98b",
+                "name": "Offroad Truckers",
+                "slug": "offroad-truckers",
+                "image": "1719",
+                "totalPlayed": 8158
+            },
+            {
+                "_id": "685287d2ecdffab01b01d98c",
+                "name": "Heavy Trucks Race",
+                "slug": "heavy-trucks-race",
+                "image": "1720",
+                "totalPlayed": 9957
+            },
+            {
+                "_id": "685287d2ecdffab01b01d95a",
+                "name": "Urban Truck 2",
+                "slug": "urban-truck-2",
+                "image": "1667",
+                "totalPlayed": 12829
+            },
+            {
+                "_id": "685287d2ecdffab01b01d968",
+                "name": "Market Truck 2",
+                "slug": "market-truck-2",
+                "image": "1681",
+                "totalPlayed": 8340
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5b3",
+                "name": "Truck Trials",
+                "slug": "truck-trials",
+                "image": "503",
+                "totalPlayed": 28659
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5b2",
+                "name": "Endless Truck",
+                "slug": "endless-truck",
+                "image": "502",
+                "totalPlayed": 39002
+            },
+            {
+                "_id": "685287d2ecdffab01b01d555",
+                "name": "Fire Truck 2",
+                "slug": "fire-truck-2",
+                "image": "240",
+                "totalPlayed": 19396
+            },
+            {
+                "_id": "685287d2ecdffab01b01d553",
+                "name": "Monster Wheels 2",
+                "slug": "monster-wheels-2",
+                "image": "238",
+                "totalPlayed": 16509
+            },
+            {
+                "_id": "685287d2ecdffab01b01d551",
+                "name": "Planet Trucker",
+                "slug": "planet-trucker",
+                "image": "235",
+                "totalPlayed": 13888
+            },
+            {
+                "_id": "685287d2ecdffab01b01d54f",
+                "name": "Taxi Truck",
+                "slug": "taxi-truck",
+                "image": "233",
+                "totalPlayed": 13427
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017de6",
+            "id": 35,
+            "name": "truck",
+            "parent": {
+                "_id": "685287b2ecdffab01b017e10",
+                "name": "racing",
+                "slug": "racing"
+            },
+            "slug": "truck",
+            "icon": "Truck",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 3,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.819Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>Drive into Engaging Driving Adventure: Explore the Best Online Truck Games</h4>\n<p class=\"text_desc\">Browse through our exclusive yet highly entertaining collection of online HTML5 truck games and take your gaming and driving experience to a completely new level. Enjoy free, no-download play with engaging single-player adventures or challenge friends in thrilling multiplayer truck games. Experience the best in browser-based gaming with our diverse range of truck games designed for ultimate fun and thrill. \n<p class=\"text_desc\">Whether you are looking for high-octane solo adventures, a relaxing gameplay or intense two player and multiplayer truck games, we can help you find the one that fits into your needs the best. Our finest selection of truck games available to play online without downloads is sufficient enough to keep you hooked for hours!\n<h4>A Wide Range of Truck Games to Explore</h4>\n<p class=\"text_desc\">Explore a variety of tiles showcasing diverse truck adventures. Conquer rugged terrains in a monster truck, speed through highways with 18-wheelers, or set new records to access exclusive truck upgrades and components.\n<p class=\"text_desc\">For the passionate truck enthusiasts, Atmegame.com presents a diverse collection of online truck games that redefine virtual driving experiences. From online truck games simulator to thrilling 3D adventures, our platform caters to every truck lover's passion, offering a range of gameplay options that promise immersive entertainment.\n<h4>Unveiling the Popular Truck Game Titles: </h4>\n<h4>1. Monster Truck Madness</h4>\n<p class=\"text_desc\">Take control of mammoth trucks, conquering obstacles and rough terrains. Maneuver through challenging tracks, showcasing stunts and skills with monster-sized vehicles.\n<h4>2. City Fire Truck Rescue</h4>\n<p class=\"text_desc\">Step into the shoes of a heroic firefighter, navigating through blazing scenarios. Race against time, maneuvering the fire truck to rescue civilians and douse raging fires in <a class=\"link_desc\" href=\"https://www.atmegame.com/games/city-fire-truck-rescue\" title=\"\" target=\"\" style=\"\">City Fire Truck Rescue</a>.\n<h4>3. Offroad Truck Driver</h4>\n<p class=\"text_desc\">Enter the rugged wilderness, tackling treacherous terrains in powerful off-road trucks in <a class=\"link_desc\" href=\"https://www.atmegame.com/games/offroad-truck-driver\" title=\"\" target=\"\" style=\"\">Offroad Truck Driver</a>. Navigate through unpredictable landscapes, transporting cargo safely while overcoming obstacles.\n<h4>Experience the Thrill of Trucking Adventures: </h4>\n<p class=\"text_desc\">At Atmegame.com, our free truck games offer a myriad of experiences tailored for truck fans:\n<p class=\"text_desc\"><b>Immersive Simulator Experiences: </b>Engage in lifelike truck simulations, experiencing the thrill of handling various trucks in different scenarios.\n<p class=\"text_desc\"><b>Varied Gameplay Options:</b> Explore diverse gameplays from driving massive 18-wheelers to managing food trucks or handling garbage trucks in challenging environments.\n<p class=\"text_desc\"><b>Accessible Gaming:</b> Enjoy our truck games on Android devices or computers, ensuring accessibility for players of all ages and preferences.\n<h4>Boosting Your Truck Gaming Experience: </h4>\n<p class=\"text_desc\">Discover why Atmegame.com stands as the ultimate destination for the best free online truck games:\n<p class=\"text_desc\"><b>Curated Excellence:</b> Delve into our curated library hosting popular free online truck games, ensuring high-quality entertainment for trucking enthusiasts.\n<p class=\"text_desc\"><b>Immersive 3D Environments: </b>Experience stunning 3D visuals and realistic environments that elevate the gaming experience.\n<p class=\"text_desc\"><b>Diverse Game Selection:</b>Explore a wide range of truck games online for PC and mobile phones, from monster truck mayhem to intricate driving challenges, catering to various gaming tastes.\n<What You Can Do in Our Free Truck Games:\n<p class=\"text_desc\">Immerse yourself in a world of limitless possibilities:\n<p class=\"text_desc\"><b>Master Truck Handling: </b>Hone your truck-driving skills, mastering different truck types and handling various cargoes across challenging terrains.\n<p class=\"text_desc\"><b>Explore Varied Environments: </b>Embark on journeys through cityscapes, off-road trails, and more, encountering diverse obstacles and scenarios.\n<p class=\"text_desc\"><b>Engage in Heroic Missions: </b>Play as a hero in fire truck rescue missions, responding to emergencies and saving the day.\n<p class=\"text_desc\">At Atmegame.com, we invite you to explore the dynamic realm of truck driving gaming. Whether you seek adrenaline-pumping off-road adventures or elaborate simulator experiences, our platform offers an extensive array of truck games.\n<p class=\"text_desc\">Embrace the thrill of the open road - start playing our free truck games today and steer towards unforgettable adventures!\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. What are the best truck games online to play for free on Atmegame.com? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n      <div itemprop=\"text\">\n<h4>A1.  Some of the coolest online truck games are:</h4>\n<ul class=\"gameDescUL\">\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/zoo-animal-transport-simulator\" title=\"\" target=\"\" style=\"\">Zoo Animal Transport Simulator</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/euro-truck-driving-sim-2018-3d\" title=\"\" target=\"\" style=\"\">Euro Truck Driving Sim 2018 3D</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/monster-truck-freestyle-2020\" title=\"\" target=\"\" style=\"\">Monster Truck Freestyle 2020</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/monster-4x4-hill-climb-sims\" title=\"\" target=\"\" style=\"\">Monster 4x4 Hill Climb Sims</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/clean-road\" title=\"\" target=\"\" style=\"\">Clean Road</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/fz-monster-track\" title=\"\" target=\"\" style=\"\">FZ Monster Track</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/cybertruck-on-mars\" title=\"\" target=\"\" style=\"\">CyberTruck on Mars</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/zombinators\" title=\"\" target=\"\" style=\"\">Zombinators</a></li></ul>\n </div>\n    </div>\n  </div>\n",
+            "metaTitle": "Play Online Truck Racing Games Free : Atmegame.com",
+            "metaDesc": "Feel the excitement of racing with the most bulky vehicle in your possession while driving around spherical but lethal hilly terrain road in truck racing games online",
+            "metaKeyword": "truck racing games, play online truck racing games, play truck racing games, free games, online truck racing games,  monster truck driving"
+        }
+    }
+}
