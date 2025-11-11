@@ -1,0 +1,81 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01e955",
+                "name": "Horse Ride Racing",
+                "slug": "horse-ride-racing",
+                "image": "6147",
+                "totalPlayed": 26215
+            },
+            {
+                "_id": "685287d2ecdffab01b01db46",
+                "name": "Jhansis Ride",
+                "slug": "jhansis-ride",
+                "image": "2210",
+                "totalPlayed": 37064
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9a8",
+                "name": "Horse Racing",
+                "slug": "horse-racing",
+                "image": "1750",
+                "totalPlayed": 36658
+            },
+            {
+                "_id": "685287d2ecdffab01b01d95b",
+                "name": "Pony Run",
+                "slug": "pony-run",
+                "image": "1668",
+                "totalPlayed": 9815
+            },
+            {
+                "_id": "685287d2ecdffab01b01d921",
+                "name": "Jumporama",
+                "slug": "jumporama",
+                "image": "1608",
+                "totalPlayed": 10713
+            },
+            {
+                "_id": "685287d2ecdffab01b01d4df",
+                "name": "Jumporama 2",
+                "slug": "jumporama-2",
+                "image": "114",
+                "totalPlayed": 22856
+            },
+            {
+                "_id": "685287d2ecdffab01b01d50e",
+                "name": "Horse Jumping 3d",
+                "slug": "horse-jumping-3d",
+                "image": "108",
+                "totalPlayed": 20926
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017de0",
+            "id": 29,
+            "name": "horse",
+            "parent": {
+                "_id": "685287b2ecdffab01b017e10",
+                "name": "racing",
+                "slug": "racing"
+            },
+            "slug": "horse",
+            "icon": "Horse Riding",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 6,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.818Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>Gallop Into Adventure: Play Engaging Online Horse Riding and Racing Games! </h4>\n<p class=\"text_desc\">Welcome to the exclusive collection of highly engaging and entertaining browser-based HTML5 horse riding games! Play the best free horse games online without downloads, experiencing engaging single-player challenges and thrilling multiplayer adventures. </p>\n<p class=\"text_desc\">Dive into our top horse games, which guarantee offer the immersive experiences for both solo players and those seeking competitive multiplayer action. It takes only a few clicks to enter into a world of excitement with our fun filled best online horse racing games! </p>\n<h4>1. Top Horse Riding Titles</h4>\n<h4>Experience The Excitement of Our Best Horse Games: </h4>\n<p class=\"text_desc\">Embark on a thrilling Horse Ride Racing adventure in Horse Ride Racing! Gallop towards victory in this exhilarating horse racing game! Compete in challenging races and experience the adrenaline rush of the track! </p>\n<p class=\"text_desc\">Are you ready to experience the ultimate realism of horse riding? Join Horse Riding Simulator and Immerse yourself in lifelike equestrian adventures and explore a virtual world from the saddle. Enjoy the thrill of riding and bonding with your virtual horse! </p>\n<h4>2. Single and Multiplayer Action</h4>\n<p class=\"text_desc\">Choose your preferred gameplay: </p>\n<p class=\"text_desc\">Single Player Horse Games: Embark on solo quests, from simulated races to caring for horses in immersive environments. </p>\n<p class=\"text_desc\">Two-Player Horse Riding Games: Compete head-to-head or join forces with friends in multiplayer horse racing adventures. </p>\n<p class=\"text_desc\">Experience the thrill of horseback riding through our collection of horse care and riding games online for free no download required. Whether you seek the excitement of virtual racing or the tranquillity of caring for horses, Atmegame.com offers an immersive riding experience for horse enthusiasts of all ages. Join us and gallop into adventure today! </p>\n<p>\n<h4>What You Can Do in Our Free Horse Riding Games: </h4>\n<ul class=\"gameDescUL\">\n    <li>\nRace your horses to victory in virtual racing competitions. </li>\n    <li>\nExplore open worlds, completing quests and forming bonds with your horses. </li>\n    <li>\nCustomize your rider, horses, and stables to create your unique equestrian experience. </li></ul>\n</p>\n<p>\n<h4>FAQs: </h4>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. Can I play these horse games without downloads?</h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<p class=\"text_desc\" itemprop=\"text\">A1. Absolutely! All our horse riding games are browser-based and don't require downloads. </p>\n\n</div>\n    </div>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q2. Are the multiplayer horse games competitive? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<p class=\"text_desc\" itemprop=\"text\">A2. Yes, our multiplayer horse riding games offer exciting competitions, allowing players to challenge friends or compete with other riders worldwide. </p>\n</div>\n    </div></p>",
+            "metaTitle": "Horse Riding Games, Play Online Horse Racing Games Free : Atmegame.com",
+            "metaDesc": "Gets the feeling of togetherness as well as victory in a horse riding or racing games along with most loyal human friend, while taking part in various horse racing events to win?",
+            "metaKeyword": "horse riding games, play online horse racing games, play horse riding games, free games, online horse riding games,  racing, jumping"
+        }
+    }
+}
