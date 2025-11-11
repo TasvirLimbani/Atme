@@ -1,0 +1,368 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01ea8f",
+                "name": "Truck Parking Pro",
+                "slug": "truck-parking-pro",
+                "image": "6537",
+                "totalPlayed": 1286348
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea16",
+                "name": "SUV Parking Simulator 3D",
+                "slug": "suv-parking-simulator-3d",
+                "image": "6410",
+                "totalPlayed": 12140
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea0a",
+                "name": "LTV Car Park Training School",
+                "slug": "ltv-car-park-training-school",
+                "image": "6398",
+                "totalPlayed": 41042
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9d3",
+                "name": "Classic Jeep Parking",
+                "slug": "classic-jeep-parking",
+                "image": "6317",
+                "totalPlayed": 11138
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9ae",
+                "name": "Impossible Parking Army Tank",
+                "slug": "impossible-parking-army-tank",
+                "image": "6258",
+                "totalPlayed": 7072
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9b4",
+                "name": "2D Car Parking",
+                "slug": "2d-car-parking",
+                "image": "6264",
+                "totalPlayed": 8334
+            },
+            {
+                "_id": "685287d2ecdffab01b01e98a",
+                "name": "Impossible Sports Car Simulator 3D",
+                "slug": "impossible-sports-car-simulator-3d",
+                "image": "6210",
+                "totalPlayed": 9909
+            },
+            {
+                "_id": "685287d2ecdffab01b01e985",
+                "name": "Park the Beetle",
+                "slug": "park-the-beetle",
+                "image": "6203",
+                "totalPlayed": 20733
+            },
+            {
+                "_id": "685287d2ecdffab01b01e96e",
+                "name": "Impossible Car Parking",
+                "slug": "impossible-car-parking",
+                "image": "6180",
+                "totalPlayed": 8000
+            },
+            {
+                "_id": "685287d2ecdffab01b01e976",
+                "name": "OK Parking",
+                "slug": "ok-parking",
+                "image": "6188",
+                "totalPlayed": 54467
+            },
+            {
+                "_id": "685287d2ecdffab01b01e979",
+                "name": "Vertical Multi car Suv Parking",
+                "slug": "vertical-multi-car-suv-parking",
+                "image": "6191",
+                "totalPlayed": 7505
+            },
+            {
+                "_id": "685287d2ecdffab01b01e97d",
+                "name": "Town Bus Driver",
+                "slug": "town-bus-driver",
+                "image": "6195",
+                "totalPlayed": 9205
+            },
+            {
+                "_id": "685287d2ecdffab01b01e97e",
+                "name": "Xtreme Sky Car Parking",
+                "slug": "xtreme-sky-car-parking",
+                "image": "6196",
+                "totalPlayed": 7211
+            },
+            {
+                "_id": "685287d2ecdffab01b01e94c",
+                "name": "HitCity Car Parking",
+                "slug": "hitcity-car-parking",
+                "image": "6138",
+                "totalPlayed": 6406
+            },
+            {
+                "_id": "685287d2ecdffab01b01e7e4",
+                "name": "Hardest Parking",
+                "slug": "hardest-parking",
+                "image": "5647",
+                "totalPlayed": 11275
+            },
+            {
+                "_id": "685287d2ecdffab01b01e7d8",
+                "name": "Drive and Park",
+                "slug": "drive-and-park",
+                "image": "5630",
+                "totalPlayed": 8454
+            },
+            {
+                "_id": "685287d2ecdffab01b01e722",
+                "name": "Drive Park",
+                "slug": "drive-park",
+                "image": "5425",
+                "totalPlayed": 8291
+            },
+            {
+                "_id": "685287d2ecdffab01b01e654",
+                "name": "Dockyard Car Parking",
+                "slug": "dockyard-car-parking",
+                "image": "5210",
+                "totalPlayed": 7568
+            },
+            {
+                "_id": "685287d2ecdffab01b01e60e",
+                "name": "EG Bus Parking",
+                "slug": "eg-bus-parking",
+                "image": "5137",
+                "totalPlayed": 42231
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5d8",
+                "name": "Airport Rush",
+                "slug": "airport-rush",
+                "image": "5082",
+                "totalPlayed": 54331
+            },
+            {
+                "_id": "685287d2ecdffab01b01e42f",
+                "name": "Parking Meister",
+                "slug": "parking-meister",
+                "image": "4648",
+                "totalPlayed": 14716
+            },
+            {
+                "_id": "685287d2ecdffab01b01e3e9",
+                "name": "Valet Parking",
+                "slug": "valet-parking",
+                "image": "4578",
+                "totalPlayed": 10591
+            },
+            {
+                "_id": "685287d2ecdffab01b01e3c0",
+                "name": "Car Toys Japan Season 2",
+                "slug": "car-toys-japan-season-2",
+                "image": "4537",
+                "totalPlayed": 16763
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1d1",
+                "name": "Parking Panic",
+                "slug": "parking-panic",
+                "image": "4032",
+                "totalPlayed": 20708
+            },
+            {
+                "_id": "685287d2ecdffab01b01dfcf",
+                "name": "Real Car Parking",
+                "slug": "real-car-parking",
+                "image": "3477",
+                "totalPlayed": 19184
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc6f",
+                "name": "Car Parking Real 3D Simulator",
+                "slug": "car-parking-real-3d-simulator",
+                "image": "2555",
+                "totalPlayed": 8854
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcb0",
+                "name": "Car Parking 2",
+                "slug": "car-parking-2",
+                "image": "2623",
+                "totalPlayed": 9709
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcc7",
+                "name": "Port Car Parking",
+                "slug": "port-car-parking",
+                "image": "2646",
+                "totalPlayed": 8376
+            },
+            {
+                "_id": "685287d2ecdffab01b01dbb4",
+                "name": "Parking Fury 2",
+                "slug": "parking-fury-2",
+                "image": "2328",
+                "totalPlayed": 27056
+            },
+            {
+                "_id": "685287d2ecdffab01b01dbb5",
+                "name": "Parking Fury 1",
+                "slug": "parking-fury-1",
+                "image": "2330",
+                "totalPlayed": 21372
+            },
+            {
+                "_id": "685287d2ecdffab01b01da2e",
+                "name": "Extreme Car Parking",
+                "slug": "extreme-car-parking",
+                "image": "1915",
+                "totalPlayed": 24645
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9f4",
+                "name": "Catch The Killer",
+                "slug": "catch-the-killer",
+                "image": "1837",
+                "totalPlayed": 10980
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9f5",
+                "name": "Bobcat Parking",
+                "slug": "bobcat-parking",
+                "image": "1838",
+                "totalPlayed": 9056
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9f6",
+                "name": "Medical Emergency",
+                "slug": "medical-emergency",
+                "image": "1839",
+                "totalPlayed": 9711
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9f8",
+                "name": "Basketball Court Parking",
+                "slug": "basketball-court-parking",
+                "image": "1842",
+                "totalPlayed": 8448
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9fd",
+                "name": "Courier Havoc",
+                "slug": "courier-havoc",
+                "image": "1856",
+                "totalPlayed": 8516
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9d6",
+                "name": "Prison Getaway",
+                "slug": "prison-getaway",
+                "image": "1807",
+                "totalPlayed": 7542
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9de",
+                "name": "Taxi Maze",
+                "slug": "taxi-maze",
+                "image": "1815",
+                "totalPlayed": 8712
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9ea",
+                "name": "Service Parking Mania",
+                "slug": "service-parking-mania",
+                "image": "1827",
+                "totalPlayed": 8908
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9ef",
+                "name": "Tune Your Monster",
+                "slug": "tune-your-monster",
+                "image": "1832",
+                "totalPlayed": 8919
+            },
+            {
+                "_id": "685287d2ecdffab01b01d963",
+                "name": "A Small Car 2",
+                "slug": "a-small-car-2",
+                "image": "1676",
+                "totalPlayed": 8592
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8ff",
+                "name": "Parking Training 2",
+                "slug": "parking-training-2",
+                "image": "1573",
+                "totalPlayed": 10197
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8c7",
+                "name": "Dockyard Shift",
+                "slug": "dockyard-shift",
+                "image": "1481",
+                "totalPlayed": 11057
+            },
+            {
+                "_id": "685287d2ecdffab01b01d54c",
+                "name": "Lax Shuttle Bus",
+                "slug": "lax-shuttle-bus",
+                "image": "230",
+                "totalPlayed": 15507
+            },
+            {
+                "_id": "685287d2ecdffab01b01d539",
+                "name": "Rickshaw City",
+                "slug": "rickshaw-city",
+                "image": "206",
+                "totalPlayed": 15094
+            },
+            {
+                "_id": "685287d2ecdffab01b01d52d",
+                "name": "Busman Parking",
+                "slug": "busman-parking",
+                "image": "192",
+                "totalPlayed": 16929
+            },
+            {
+                "_id": "685287d2ecdffab01b01d4f5",
+                "name": "Bombay Taxi Multiplayer",
+                "slug": "bombay-taxi-multiplayer",
+                "image": "137",
+                "totalPlayed": 12439
+            },
+            {
+                "_id": "685287d2ecdffab01b01d4f2",
+                "name": "Park My Truck",
+                "slug": "park-my-truck",
+                "image": "134",
+                "totalPlayed": 16120
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017de3",
+            "id": 32,
+            "name": "parking",
+            "parent": {
+                "_id": "685287b2ecdffab01b017e10",
+                "name": "racing",
+                "slug": "racing"
+            },
+            "slug": "parking",
+            "icon": "Parking Games",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 5,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.818Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>Experience Precision and Thrills with Free Online Parking Games at Atmegame.com!</h4>\n<p class=\"text_desc\">Are you good enough to park a car, truck, bus or any other vehicle in the designated space? Or seeking the best online platform where you can practice your parking skills in a realistic environment? Try out our exclusive collection of HTML5 parking games and enjoy the freedom of speeding a vehicle around the city while parking at various spots. It will be awesome to simulate parking vehicles in any of our free online browser parking games. </p>\n<p class=\"text_desc\">Apart from cars, also get a pleasure of parking large vehicles like trucks and buses. Drive heavy driving trucks, complete multiple missions and park them in their assigned zones in our cool truck parking games. Explore airport, car, truck, and bus parking adventures, alongside thrilling valet and lorry parking games. Experience multiplayer parking games that promise endless fun without downloads. Join the excitement and play these engaging parking games hassle-free, anytime, anywhere! </p>\n<h4>Master the Art of Vehicle Parking in a Variety of Settings</h4>\n<p class=\"text_desc\">Simulate parking cars, trucks, and buses within these browser-based HTML5 parking games. Manoeuvre your vehicle into designated spots, mastering the precision required for perfect parking. </p>\n<h4>Dive into 3D Parking Adventures for Realistic Driving Experiences</h4>\n<p class=\"text_desc\">Experience the full 3D thrill in games like<a class=\"link_desc\" href=\"https://www.atmegame.com/games/parking-fury-1\" title=\"\" target=\"\" style=\"\"> Parking Fury 1</a>, where you navigate bustling cities and park at various locations. Garage Parking challenges you to find spaces in derelict garages, adding a unique twist to your parking adventures. </p>\n<h4>Test Your Skills with Truck and Bus Parking Challenges</h4>\n<p class=\"text_desc\">Explore the added challenge of parking larger vehicles in games like <a class=\"link_desc\" href=\"https://www.atmegame.com/games/truck-parking-pro\" title=\"\" target=\"\" style=\"\">Truck Parking Pro</a> and <a class=\"link_desc\" href=\"https://www.atmegame.com/games/town-bus-driver\" title=\"\" target=\"\" style=\"\">Town Bus Driver</a>. Complete missions and park these trucks precisely in their designated zones. </p>\n<h4>Engaging Gameplay: Race Against Time in Parking Challenges</h4>\n<p class=\"text_desc\">Race against the clock as you strive to park your car, truck, or other vehicles without collisions. With challenges set in city lots, side streets, and special garages, these games push your driving and parking abilities to the limit. </p>\n<h4>Navigate Diverse Environments in Parking Games</h4>\n<p class=\"text_desc\">Experience diverse gameplay from using keyboard arrows for steering to interactive environments allowing mouse clicks for acceleration and braking. Master high-octane parking skills, handling tight spots, controlling larger vehicles, and avoiding in-game obstacles. </p>\n\n<h4>Unlock Trophies and Achievements in Parking Challenges</h4>\n<p class=\"text_desc\">Earn trophies and achievements by completing objectives and unlocking upgrades and skins. Delve into challenging levels, from crowded parking lots to the art of exiting these congested spaces. </p>\n<p class=\"text_desc\">Parking games at Atmegame.com are an immersive category designed to test driving and parking skills. Navigate through obstacles, avoid collisions, and park within designated spots. Whether it's multi-level garages, busy streets, or off-road terrains, our car parking valet games offer a diverse range of experiences. </p>\n<p class=\"text_desc\">Different variety of styles and themes under the banner of airport parking and lorry parking games online are covered, ranging from the realistic simulators to the ones designed with the help of popular cartoon characters. Perfect your turns, adjust speed, and make quick decisions to avoid obstacles, cars, and pedestrians. </p>\n<p class=\"text_desc\">Visit our free online gaming website to explore these highly-demanding, precision-testing parking challenges today! </p>\n<h4>Frequently Asked Questions (FAQs): </h4><br>\n\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. What are the best parking games online to play without download? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n  <div itemprop=\"text\">\n<p class=\"text_desc\">A1. Although our all parking games are amazing to browse, some of our most recommended free parking games are: </p>\n<ul class=\"gameDescUL\">\n    <li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/suv-parking-simulator-3d\" title=\"\" target=\"\" style=\"\">SUV Parking Simulator 3D</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/classic-jeep-parking\" title=\"\" target=\"\" style=\"\">Classic Jeep Parking</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/impossible-sports-car-simulator-3d\" title=\"\" target=\"\" style=\"\">Impossible Sports Car Simulator 3D</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/park-the-beetle\" title=\"\" target=\"\" style=\"\">Park the Beetle</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/vertical-multi-car-suv-parking\" title=\"\" target=\"\" style=\"\">Vertical Multi car Suv Parking</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/xtreme-sky-car-parking\" title=\"\" target=\"\" style=\"\">Xtreme Sky Car Parking</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/truck-parking-pro\" title=\"\" target=\"\" style=\"\">Truck Parking Pro</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/town-bus-driver\" title=\"\" target=\"\" style=\"\">Town Bus Driver</a></li></ul>\n\n</div>\n    </div>\n  </div>\n<br>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q2. What are our top parking games you can browse for free? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n  <div itemprop=\"text\">\n<p class=\"text_desc\">A2. Some of our coolest parking challenges are: </p>\n<ul class=\"gameDescUL\">\n    <li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/valet-parking\" title=\"\" target=\"\" style=\"\">Valet Parking</a></li>\n<li><a class=\"link_desc\" href=\"\" title=\"https://www.atmegame.com/games/port-car-parking\" target=\"\" style=\"\">Port Car Parking</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/parking-fury-2\" title=\"\" target=\"\" style=\"\">Parking Fury 2</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/hardest-parking\" title=\"\" target=\"\" style=\"\">Hardest Parking</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/parking-meister\" title=\"\" target=\"\" style=\"\">Parking Meister</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/car-parking-real-3d-simulator\" title=\"\" target=\"\" style=\"\">Car Parking Real 3D Simulator</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/real-car-parking\" title=\"\" target=\"\" style=\"\">Real Car Parking</a></li></ul>\n</div>\n    </div>\n  </div>",
+            "metaTitle": "Parking Games, Online Car & Bus Parking Games : Atmegame.com",
+            "metaDesc": "Learn with the parking games online the excitement parking your vehicle without being a single scratch on your vehicle as well others one",
+            "metaKeyword": "parking games, play online parking games, play parking games, free games, online parking games,  car, bus parking"
+        }
+    }
+}
