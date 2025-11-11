@@ -1,0 +1,473 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01e8b5",
+                "name": "Casino Classic",
+                "slug": "casino-classic",
+                "image": "5932",
+                "totalPlayed": 8807
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8b9",
+                "name": "Classic Solitaire",
+                "slug": "classic-solitaire",
+                "image": "5942",
+                "totalPlayed": 13618
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8ba",
+                "name": "Spades",
+                "slug": "spades",
+                "image": "5943",
+                "totalPlayed": 32033
+            },
+            {
+                "_id": "685287d2ecdffab01b01e893",
+                "name": "3 Card Monte",
+                "slug": "3-card-monte",
+                "image": "5871",
+                "totalPlayed": 15017
+            },
+            {
+                "_id": "685287d2ecdffab01b01e419",
+                "name": "UNO Heroes",
+                "slug": "uno-heroes",
+                "image": "4626",
+                "totalPlayed": 12611
+            },
+            {
+                "_id": "685287d2ecdffab01b01e405",
+                "name": "Mahjong Solitaire",
+                "slug": "mahjong-solitaire",
+                "image": "4606",
+                "totalPlayed": 10279
+            },
+            {
+                "_id": "685287d2ecdffab01b01e3bf",
+                "name": "Thirty One",
+                "slug": "thirty-one",
+                "image": "4536",
+                "totalPlayed": 15189
+            },
+            {
+                "_id": "685287d2ecdffab01b01e259",
+                "name": "Match Solitaire",
+                "slug": "match-solitaire",
+                "image": "4174",
+                "totalPlayed": 9173
+            },
+            {
+                "_id": "685287d2ecdffab01b01e07f",
+                "name": "Blackjack Master",
+                "slug": "blackjack-master",
+                "image": "3666",
+                "totalPlayed": 8420
+            },
+            {
+                "_id": "685287d2ecdffab01b01e089",
+                "name": "Solitaire Master",
+                "slug": "solitaire-master",
+                "image": "3678",
+                "totalPlayed": 11982
+            },
+            {
+                "_id": "685287d2ecdffab01b01e08d",
+                "name": "Freecell Challenge",
+                "slug": "freecell-challenge",
+                "image": "3685",
+                "totalPlayed": 11595
+            },
+            {
+                "_id": "685287d2ecdffab01b01e0d8",
+                "name": "Hotel Solitaire",
+                "slug": "hotel-solitaire",
+                "image": "3768",
+                "totalPlayed": 7958
+            },
+            {
+                "_id": "685287d2ecdffab01b01e12e",
+                "name": "Aloha Solitaire",
+                "slug": "aloha-solitaire",
+                "image": "3860",
+                "totalPlayed": 10165
+            },
+            {
+                "_id": "685287d2ecdffab01b01e147",
+                "name": "Mahjong Everyday",
+                "slug": "mahjong-everyday",
+                "image": "3888",
+                "totalPlayed": 8388
+            },
+            {
+                "_id": "685287d2ecdffab01b01e148",
+                "name": "Hotel Mahjong",
+                "slug": "hotel-mahjong",
+                "image": "3889",
+                "totalPlayed": 8528
+            },
+            {
+                "_id": "685287d2ecdffab01b01e149",
+                "name": "Mahjong Fortuna 2",
+                "slug": "mahjong-fortuna-2",
+                "image": "3890",
+                "totalPlayed": 10292
+            },
+            {
+                "_id": "685287d2ecdffab01b01e14a",
+                "name": "Mahjong Fortuna",
+                "slug": "mahjong-fortuna",
+                "image": "3891",
+                "totalPlayed": 8741
+            },
+            {
+                "_id": "685287d2ecdffab01b01e075",
+                "name": "3D Mahjong",
+                "slug": "3d-mahjong",
+                "image": "3656",
+                "totalPlayed": 10240
+            },
+            {
+                "_id": "685287d2ecdffab01b01e053",
+                "name": "Classic Solitaire Deluxe",
+                "slug": "classic-solitaire-deluxe",
+                "image": "3620",
+                "totalPlayed": 9620
+            },
+            {
+                "_id": "685287d2ecdffab01b01dfd4",
+                "name": "ONO Card Game",
+                "slug": "ono-card-game",
+                "image": "3482",
+                "totalPlayed": 10019
+            },
+            {
+                "_id": "685287d2ecdffab01b01dfeb",
+                "name": "Mafia Poker",
+                "slug": "mafia-poker",
+                "image": "3505",
+                "totalPlayed": 10916
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc8a",
+                "name": "Solitaire HD",
+                "slug": "solitaire-hd",
+                "image": "2584",
+                "totalPlayed": 7548
+            },
+            {
+                "_id": "685287d2ecdffab01b01dafa",
+                "name": "Governor Of Poker 3",
+                "slug": "governor-of-poker-3",
+                "image": "2122",
+                "totalPlayed": 7086
+            },
+            {
+                "_id": "685287d2ecdffab01b01da25",
+                "name": "Freecell Solitaire 2017",
+                "slug": "freecell-solitaire-2017",
+                "image": "1904",
+                "totalPlayed": 10916
+            },
+            {
+                "_id": "685287d2ecdffab01b01da26",
+                "name": "FGP Pyramid Solitaire",
+                "slug": "fgp-pyramid-solitaire",
+                "image": "1905",
+                "totalPlayed": 9867
+            },
+            {
+                "_id": "685287d2ecdffab01b01da28",
+                "name": "Solitaire 2",
+                "slug": "solitaire-2",
+                "image": "1909",
+                "totalPlayed": 1899295
+            },
+            {
+                "_id": "685287d2ecdffab01b01da29",
+                "name": "Solitaire 3",
+                "slug": "solitaire-3",
+                "image": "1910",
+                "totalPlayed": 12944
+            },
+            {
+                "_id": "685287d2ecdffab01b01da2b",
+                "name": "Spider Solitaire 2",
+                "slug": "spider-solitaire-2",
+                "image": "1912",
+                "totalPlayed": 23704
+            },
+            {
+                "_id": "685287d2ecdffab01b01da2c",
+                "name": "Spider Solitaire",
+                "slug": "spider-solitaire",
+                "image": "1913",
+                "totalPlayed": 12566
+            },
+            {
+                "_id": "685287d2ecdffab01b01da03",
+                "name": "Klondike solitaire",
+                "slug": "klondike-solitaire",
+                "image": "1864",
+                "totalPlayed": 9687
+            },
+            {
+                "_id": "685287d2ecdffab01b01da07",
+                "name": "Spiderette Solitaire",
+                "slug": "spiderette-solitaire",
+                "image": "1868",
+                "totalPlayed": 19890
+            },
+            {
+                "_id": "685287d2ecdffab01b01da08",
+                "name": "PuzzleGuys Hearts",
+                "slug": "puzzleguys-hearts",
+                "image": "1869",
+                "totalPlayed": 11286
+            },
+            {
+                "_id": "685287d2ecdffab01b01da0a",
+                "name": "Solitaire Fortune",
+                "slug": "solitaire-fortune",
+                "image": "1871",
+                "totalPlayed": 17712
+            },
+            {
+                "_id": "685287d2ecdffab01b01da0b",
+                "name": "PyramidSolitaire",
+                "slug": "pyramidsolitaire",
+                "image": "1872",
+                "totalPlayed": 12878
+            },
+            {
+                "_id": "685287d2ecdffab01b01da0c",
+                "name": "Aunt Mary Solitaire",
+                "slug": "aunt-mary-solitaire",
+                "image": "1873",
+                "totalPlayed": 14467
+            },
+            {
+                "_id": "685287d2ecdffab01b01da0d",
+                "name": "Australian Patience",
+                "slug": "australian-patience",
+                "image": "1874",
+                "totalPlayed": 10557
+            },
+            {
+                "_id": "685287d2ecdffab01b01da0f",
+                "name": "Governor Of Poker 2",
+                "slug": "governor-of-poker-2",
+                "image": "1876",
+                "totalPlayed": 11445
+            },
+            {
+                "_id": "685287d2ecdffab01b01da13",
+                "name": "Blackjack King",
+                "slug": "blackjack-king",
+                "image": "1880",
+                "totalPlayed": 8499
+            },
+            {
+                "_id": "685287d2ecdffab01b01da16",
+                "name": "TriPeaks Solitaire",
+                "slug": "tripeaks-solitaire",
+                "image": "1883",
+                "totalPlayed": 11349
+            },
+            {
+                "_id": "685287d2ecdffab01b01da17",
+                "name": "Pyramid Solitaire",
+                "slug": "pyramid-solitaire",
+                "image": "1884",
+                "totalPlayed": 11262
+            },
+            {
+                "_id": "685287d2ecdffab01b01da18",
+                "name": "Governor of Poker  Poker Challenge",
+                "slug": "governor-of-poker-poker-challenge",
+                "image": "1885",
+                "totalPlayed": 11613
+            },
+            {
+                "_id": "685287d2ecdffab01b01da19",
+                "name": "Governor of Poker Blackjack",
+                "slug": "governor-of-poker-blackjack",
+                "image": "1886",
+                "totalPlayed": 10563
+            },
+            {
+                "_id": "685287d2ecdffab01b01da1b",
+                "name": "Spider Solitaire Original",
+                "slug": "spider-solitaire-original",
+                "image": "1894",
+                "totalPlayed": 17027
+            },
+            {
+                "_id": "685287d2ecdffab01b01da1c",
+                "name": "Golf Solitaire",
+                "slug": "golf-solitaire",
+                "image": "1895",
+                "totalPlayed": 11850
+            },
+            {
+                "_id": "685287d2ecdffab01b01da1d",
+                "name": "Tripeaks Castle Solitaire",
+                "slug": "tripeaks-castle-solitaire",
+                "image": "1896",
+                "totalPlayed": 9667
+            },
+            {
+                "_id": "685287d2ecdffab01b01da1e",
+                "name": "4 Colors PGS",
+                "slug": "4-colors-pgs",
+                "image": "1897",
+                "totalPlayed": 9088
+            },
+            {
+                "_id": "685287d2ecdffab01b01da1f",
+                "name": "Moorhuhn Solitaire",
+                "slug": "moorhuhn-solitaire",
+                "image": "1898",
+                "totalPlayed": 8931
+            },
+            {
+                "_id": "685287d2ecdffab01b01da20",
+                "name": "Crescent Solitaire",
+                "slug": "crescent-solitaire",
+                "image": "1899",
+                "totalPlayed": 36059
+            },
+            {
+                "_id": "685287d2ecdffab01b01da21",
+                "name": "Solitaire 1",
+                "slug": "solitaire-1",
+                "image": "1900",
+                "totalPlayed": 29893
+            },
+            {
+                "_id": "685287d2ecdffab01b01da22",
+                "name": "Algerijns Patience",
+                "slug": "algerijns-patience",
+                "image": "1901",
+                "totalPlayed": 13826
+            },
+            {
+                "_id": "685287d2ecdffab01b01da23",
+                "name": "Lightning Cards",
+                "slug": "lightning-cards",
+                "image": "1902",
+                "totalPlayed": 12638
+            },
+            {
+                "_id": "685287d2ecdffab01b01da24",
+                "name": "Klaverjassen",
+                "slug": "klaverjassen",
+                "image": "1903",
+                "totalPlayed": 8570
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9cd",
+                "name": "Secret Double Klondike",
+                "slug": "secret-double-klondike",
+                "image": "1798",
+                "totalPlayed": 7465
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9ce",
+                "name": "Freecell Duplex",
+                "slug": "freecell-duplex",
+                "image": "1799",
+                "totalPlayed": 7607
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9cf",
+                "name": "Ancient Wonders Solitaire",
+                "slug": "ancient-wonders-solitaire",
+                "image": "1800",
+                "totalPlayed": 7001
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9d0",
+                "name": "3 Moon Solitaire",
+                "slug": "3-moon-solitaire",
+                "image": "1801",
+                "totalPlayed": 8123
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9d1",
+                "name": "Yukon Solitaire",
+                "slug": "yukon-solitaire",
+                "image": "1802",
+                "totalPlayed": 7268
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9d2",
+                "name": "High Tea Solitaire",
+                "slug": "high-tea-solitaire",
+                "image": "1803",
+                "totalPlayed": 7412
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9d3",
+                "name": "Solitaire Lands",
+                "slug": "solitaire-lands",
+                "image": "1804",
+                "totalPlayed": 7116
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9b0",
+                "name": "Castle Solitaire",
+                "slug": "castle-solitaire",
+                "image": "1763",
+                "totalPlayed": 8560
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9b1",
+                "name": "Discover Europe",
+                "slug": "discover-europe",
+                "image": "1766",
+                "totalPlayed": 7161
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9b2",
+                "name": "Magic Castle Solitaire",
+                "slug": "magic-castle-solitaire",
+                "image": "1767",
+                "totalPlayed": 6876
+            },
+            {
+                "_id": "685287d2ecdffab01b01d57a",
+                "name": "Goodgame Poker",
+                "slug": "goodgame-poker",
+                "image": "439",
+                "totalPlayed": 8551
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017df0",
+            "id": 45,
+            "name": "card",
+            "parent": {
+                "_id": "685287b2ecdffab01b017e0e",
+                "name": "arcade",
+                "slug": "arcade"
+            },
+            "slug": "card",
+            "icon": "cards-games",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 5,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.819Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>Kill Your Time with the Highly Interesting Online Card Games!</h4><p class=\"text_desc\">\nPlaying cards online is a great fun irrespective of what kind of gaming you like the most. At our website, you can find online card games in different variations including Spider, Solitaire, Russion Durak, 1000, Clabber, and various gambling-based card games like poker and blackjack. Make the needful combinations or throw a single one, try to bet high with four-of-a-kind, divert the mind of your opponents and play a strategic move to win in our browser based HTML5 card games.</p><p class=\"text_desc\">\nPlay against AI or invite your friends, family members or other players from across the world in online card games multiplayer and enjoy endless fun without download! Your victory will primarily depend upon your luck in casino if you are a skilled card player. Can you go against the house with a motive to clean out the casino? Do you have the skill to suit perfectly from ace through king with an objective of getting rid of your cards and building the deck into a sequence in many of our solitaire card games?</p>\n<h4>Play Card Games Online to Win Big!</h4><p class=\"text_desc\">\nA wide range of card games featuring alternative games of poker is covered here on our popular free online gaming portal. Indulge in the thrill of the casino with this timeless favorite - Casino Classic. Featuring an array of classic casino games all in one place, including Blackjack, Poker, and Roulette, this game offers an authentic experience that keeps you coming back for more. Enjoy the glitz and glamour of the casino floor from the comfort of your screen. </p><p class=\"text_desc\">\nYou can experience popular Roman themes, dinosaur graphics and much more when you explore one of our multiple poker variations backed by the special card decks. Conquer the Blackjack table in Governor of Poker Blackjack where you have to test your skills, strategy, and luck against the dealer as you aim for that elusive 21. </p>\n<h4>Wide Variety of Online Card Games</h4><p class=\"text_desc\">\nOur platform boasts an extensive library of free online card games, catering to diverse preferences. Whether you are into classic solitaire challenges or competitive two-player engagements, we have something for everyone. Indulge in popular titles such as:</p>\n<h4>Solitaire:</h4><p class=\"text_desc\">Aim to arrange all cards into their foundations, showcasing your skills and strategic thinking.</p>\n<h4>Freecell Solitaire 2017: </h4>Test your abilities by strategically moving cards to build up foundations.</p>\n<h4>Spider Solitaire: </h4><p class=\"text_desc\">Enjoy a challenging twist where arranging cards in sequences becomes the ultimate goal.</p><p class=\"text_desc\">\nWe also cover a finest variety of pokemon online card games, where you can build your deck, challenge opponents, and showcase your strategic prowess in thrilling battles featuring a range of beloved Pokemon characters. Immerse yourself in this captivating world, unleash your skills, and strive to become a Pokemon Master today!\nIn our online trading card games, you are poised to strategize, trade, and duel against players worldwide. Engage in thrilling matches, build your deck, and master the art of card trading to emerge victorious. </p>\n<h4>Games for All Ages</h4><p class=\"text_desc\">\nOur graphically enriched online card games with friends are designed to cater to gamers of all ages. From kids to grown-ups, everyone can relish these engaging games. Experience a seamless interface coupled with best audio and visual effects, enhancing your gaming adventures to new heights.</p>\n<h4>Unleash Your Competitive Spirit:</h4><p class=\"text_desc\">\nWith every session, challenge yourself to surpass previous scores and set new records. The thrill of outperforming yourself while enjoying these games is an addictive and fulfilling experience. Play at your convenience - be it at home, school, or during work breaks.</p>\n<h4>Accessible Anytime, Anywhere</h4><p class=\"text_desc\">\nThese browser-based card games are easily accessible, eliminating the need for downloads. Simply log in and dive into the gaming world whenever you desire. Expand your horizons by joining a global community of card game enthusiasts, making every match exciting and unpredictable.</p>\n<h4>Explore Latest Versions for Free</h4><p class=\"text_desc\">\nDiscover the latest repetitions of classic card games without spending a penny. Engage in the newest versions of popular games like Spider Solitaire, and Solitaire 2. Embrace the thrill and excitement while enjoying these free online card games, ideal for both genders.</p>\n<h4>Frequently Asked Questions (FAQs):</h4>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. What are the best online card games you can play on mobile phones, PCs and tablets?</h4>\n  <div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n      <div itemprop=\"text\">\n<p class=\"text_desc\">\nA1. Although our all card games are amazing to play online, some of the most recommended ones are given below:</p>\n\n\n<ul>\n    <li>Spider Solitaire</li>\n    <li>Spades</li>\n    <li>Solitaire</li>\n <li>UNO Heroes</li>\n    <li>3 Card Monte</li>\n    <li>3D Mahjong</li>\n <li>Classic Solitaire</li>\n    <li>Freecell Solitaire 2017</li>\n    <li>Casino Classic</li>\n <li>Governor of Poker Blackjack</li>\n   \n</ul>\n\t</div>\n    </div>\n  </div>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q2. Are these online card games free to play?</p><p class=\"text_desc\"></h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<p class=\"text_desc\" itemprop=\"text\">\nA2. Yes, course! All the online card games available on our platform are completely free to play without any hidden charges or subscriptions.</p>\n</div>\n  </div>\n\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q3. Can I access multiplayer card games on different devices?</h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<p class=\"text_desc\" itemprop=\"text\">\nA3. Absolutely, yes! Our multiplayer card games are accessible across various devices, while allowing you to enjoy seamless gameplay with friends or opponents from anywhere.</p>\n</div>\n  </div>",
+            "metaTitle": "Card Games, Play Online Solitaire, Heart Card Games Free : Atmegame.com",
+            "metaDesc": "Play online free card games at Atmegame.com. We have selected the most addictive number of card games for best excitement & thrill in you!",
+            "metaKeyword": "card game online , card games, games free, solitaire card, game free "
+        }
+    }
+}
