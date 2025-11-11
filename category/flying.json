@@ -1,0 +1,515 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01ea9e",
+                "name": "Rocky Jetpack",
+                "slug": "rocky-jetpack",
+                "image": "6555",
+                "totalPlayed": 62701
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea5e",
+                "name": "Air Warfare 3D",
+                "slug": "air-warfare-3d",
+                "image": "6486",
+                "totalPlayed": 18620
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea3c",
+                "name": "Bird Simulator",
+                "slug": "bird-simulator",
+                "image": "6452",
+                "totalPlayed": 13216
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea0e",
+                "name": "Airplane Flight 3D Simulator",
+                "slug": "airplane-flight-3d-simulator",
+                "image": "6402",
+                "totalPlayed": 9542
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea10",
+                "name": "Free Helicopter Flying Simulator",
+                "slug": "free-helicopter-flying-simulator",
+                "image": "6404",
+                "totalPlayed": 10403
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea20",
+                "name": "Flying Car Real Driving",
+                "slug": "flying-car-real-driving",
+                "image": "6422",
+                "totalPlayed": 10271
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea30",
+                "name": "Santa Airlines",
+                "slug": "santa-airlines",
+                "image": "6438",
+                "totalPlayed": 8451
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea02",
+                "name": "Airplane Free Fly Simulator",
+                "slug": "airplane-free-fly-simulator",
+                "image": "6387",
+                "totalPlayed": 13805
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea07",
+                "name": "Airplane Fly Simulator",
+                "slug": "airplane-fly-simulator",
+                "image": "6392",
+                "totalPlayed": 9988
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9e5",
+                "name": "The Fire of Fenix",
+                "slug": "the-fire-of-fenix",
+                "image": "6345",
+                "totalPlayed": 12479
+            },
+            {
+                "_id": "685287d2ecdffab01b01e918",
+                "name": "Viking Escape",
+                "slug": "viking-escape",
+                "image": "6067",
+                "totalPlayed": 49052
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8fe",
+                "name": "Airplane Fight",
+                "slug": "airplane-fight",
+                "image": "6039",
+                "totalPlayed": 92599
+            },
+            {
+                "_id": "685287d2ecdffab01b01e819",
+                "name": "3d Airplane Race Simulator",
+                "slug": "3d-airplane-race-simulator",
+                "image": "5708",
+                "totalPlayed": 12055
+            },
+            {
+                "_id": "685287d2ecdffab01b01e7a1",
+                "name": "EG Save Pilot",
+                "slug": "eg-save-pilot",
+                "image": "5566",
+                "totalPlayed": 8910
+            },
+            {
+                "_id": "685287d2ecdffab01b01e737",
+                "name": "Stunt Planes",
+                "slug": "stunt-planes",
+                "image": "5447",
+                "totalPlayed": 12623
+            },
+            {
+                "_id": "685287d2ecdffab01b01e683",
+                "name": "Micro Pilots",
+                "slug": "micro-pilots",
+                "image": "5261",
+                "totalPlayed": 7902
+            },
+            {
+                "_id": "685287d2ecdffab01b01e66f",
+                "name": "Spider Fly",
+                "slug": "spider-fly",
+                "image": "5241",
+                "totalPlayed": 8370
+            },
+            {
+                "_id": "685287d2ecdffab01b01e656",
+                "name": "Dragon City",
+                "slug": "dragon-city",
+                "image": "5212",
+                "totalPlayed": 10998
+            },
+            {
+                "_id": "685287d2ecdffab01b01e622",
+                "name": "Cam and Leon Donut Hop",
+                "slug": "cam-and-leon-donut-hop",
+                "image": "5158",
+                "totalPlayed": 8267
+            },
+            {
+                "_id": "685287d2ecdffab01b01e604",
+                "name": "EG Plane Evo",
+                "slug": "eg-plane-evo",
+                "image": "5127",
+                "totalPlayed": 10752
+            },
+            {
+                "_id": "685287d2ecdffab01b01e605",
+                "name": "Airplane games",
+                "slug": "airplane-games",
+                "image": "5128",
+                "totalPlayed": 9387
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5ea",
+                "name": "Spike Bird",
+                "slug": "spike-bird",
+                "image": "5100",
+                "totalPlayed": 8232
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5d6",
+                "name": "Air Wolves",
+                "slug": "air-wolves",
+                "image": "5080",
+                "totalPlayed": 7351
+            },
+            {
+                "_id": "685287d2ecdffab01b01e415",
+                "name": "Flappy Unicorn",
+                "slug": "flappy-unicorn",
+                "image": "4622",
+                "totalPlayed": 7582
+            },
+            {
+                "_id": "685287d2ecdffab01b01e3eb",
+                "name": "Drone Pickup Service",
+                "slug": "drone-pickup-service",
+                "image": "4580",
+                "totalPlayed": 8279
+            },
+            {
+                "_id": "685287d2ecdffab01b01e29b",
+                "name": "World War Pilot",
+                "slug": "world-war-pilot",
+                "image": "4241",
+                "totalPlayed": 10011
+            },
+            {
+                "_id": "685287d2ecdffab01b01e270",
+                "name": "Warrior Escape",
+                "slug": "warrior-escape",
+                "image": "4197",
+                "totalPlayed": 7325
+            },
+            {
+                "_id": "685287d2ecdffab01b01e27d",
+                "name": "Tappy Dumont",
+                "slug": "tappy-dumont",
+                "image": "4210",
+                "totalPlayed": 7668
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1de",
+                "name": "Airplan IO",
+                "slug": "airplan-io",
+                "image": "4047",
+                "totalPlayed": 9143
+            },
+            {
+                "_id": "685287d2ecdffab01b01e202",
+                "name": "Sky Invasion",
+                "slug": "sky-invasion",
+                "image": "4083",
+                "totalPlayed": 15344
+            },
+            {
+                "_id": "685287d2ecdffab01b01e10d",
+                "name": "Bionic Race",
+                "slug": "bionic-race",
+                "image": "3824",
+                "totalPlayed": 12490
+            },
+            {
+                "_id": "685287d2ecdffab01b01e14c",
+                "name": "Paper Survive",
+                "slug": "paper-survive",
+                "image": "3893",
+                "totalPlayed": 7339
+            },
+            {
+                "_id": "685287d2ecdffab01b01e15f",
+                "name": "Crazy Balls",
+                "slug": "crazy-balls",
+                "image": "3915",
+                "totalPlayed": 7913
+            },
+            {
+                "_id": "685287d2ecdffab01b01e178",
+                "name": "Tommy The Monkey Pilot",
+                "slug": "tommy-the-monkey-pilot",
+                "image": "3942",
+                "totalPlayed": 7112
+            },
+            {
+                "_id": "685287d2ecdffab01b01e19b",
+                "name": "Goblin Flying Machine",
+                "slug": "goblin-flying-machine",
+                "image": "3978",
+                "totalPlayed": 7241
+            },
+            {
+                "_id": "685287d2ecdffab01b01e19f",
+                "name": "Jetpack Santa",
+                "slug": "jetpack-santa",
+                "image": "3982",
+                "totalPlayed": 8736
+            },
+            {
+                "_id": "685287d2ecdffab01b01e02f",
+                "name": "Space Frontier Online",
+                "slug": "space-frontier-online",
+                "image": "3582",
+                "totalPlayed": 10734
+            },
+            {
+                "_id": "685287d2ecdffab01b01e005",
+                "name": "Flappy Super Kitty",
+                "slug": "flappy-super-kitty",
+                "image": "3532",
+                "totalPlayed": 6908
+            },
+            {
+                "_id": "685287d2ecdffab01b01dff4",
+                "name": "Sky Glider",
+                "slug": "sky-glider",
+                "image": "3514",
+                "totalPlayed": 20117
+            },
+            {
+                "_id": "685287d2ecdffab01b01dfb9",
+                "name": "Kid Icarus",
+                "slug": "kid-icarus",
+                "image": "3452",
+                "totalPlayed": 9484
+            },
+            {
+                "_id": "685287d2ecdffab01b01dfae",
+                "name": "Airport Buzz",
+                "slug": "airport-buzz",
+                "image": "3440",
+                "totalPlayed": 16599
+            },
+            {
+                "_id": "685287d2ecdffab01b01df9d",
+                "name": "Flappy Dragon 2",
+                "slug": "flappy-dragon-2",
+                "image": "3420",
+                "totalPlayed": 13022
+            },
+            {
+                "_id": "685287d2ecdffab01b01dfa0",
+                "name": "Sky Fight",
+                "slug": "sky-fight",
+                "image": "3423",
+                "totalPlayed": 12197
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc0f",
+                "name": "Cars Thief Dragon Edition",
+                "slug": "cars-thief-dragon-edition",
+                "image": "2458",
+                "totalPlayed": 9838
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc38",
+                "name": "Real Flight Simulator 2",
+                "slug": "real-flight-simulator-2",
+                "image": "2499",
+                "totalPlayed": 10413
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc9f",
+                "name": "Free Flight Sim",
+                "slug": "free-flight-sim",
+                "image": "2605",
+                "totalPlayed": 22669
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcb7",
+                "name": "Voxel Fly",
+                "slug": "voxel-fly",
+                "image": "2630",
+                "totalPlayed": 7125
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcd2",
+                "name": "Army Pilot",
+                "slug": "army-pilot",
+                "image": "2658",
+                "totalPlayed": 8936
+            },
+            {
+                "_id": "685287d2ecdffab01b01db97",
+                "name": "Flight Sim",
+                "slug": "flight-sim",
+                "image": "2297",
+                "totalPlayed": 14431
+            },
+            {
+                "_id": "685287d2ecdffab01b01db67",
+                "name": "Fly or Die",
+                "slug": "fly-or-die",
+                "image": "2244",
+                "totalPlayed": 14536
+            },
+            {
+                "_id": "685287d2ecdffab01b01db50",
+                "name": "Jetpack Rusher",
+                "slug": "jetpack-rusher",
+                "image": "2220",
+                "totalPlayed": 8227
+            },
+            {
+                "_id": "685287d2ecdffab01b01db54",
+                "name": "Wind Soldier",
+                "slug": "wind-soldier",
+                "image": "2224",
+                "totalPlayed": 12885
+            },
+            {
+                "_id": "685287d2ecdffab01b01db49",
+                "name": "Air Wolves Flight",
+                "slug": "air-wolves-flight",
+                "image": "2213",
+                "totalPlayed": 10570
+            },
+            {
+                "_id": "685287d2ecdffab01b01db4a",
+                "name": "Airport Control",
+                "slug": "airport-control",
+                "image": "2214",
+                "totalPlayed": 13530
+            },
+            {
+                "_id": "685287d2ecdffab01b01db4b",
+                "name": "Missiles Master",
+                "slug": "missiles-master",
+                "image": "2215",
+                "totalPlayed": 9390
+            },
+            {
+                "_id": "685287d2ecdffab01b01db33",
+                "name": "AirWingsio",
+                "slug": "airwingsio",
+                "image": "2190",
+                "totalPlayed": 11218
+            },
+            {
+                "_id": "685287d2ecdffab01b01db0a",
+                "name": "Airplane Battle",
+                "slug": "airplane-battle",
+                "image": "2148",
+                "totalPlayed": 20235
+            },
+            {
+                "_id": "685287d2ecdffab01b01daf8",
+                "name": "Dirty Aeroplane Cleanup",
+                "slug": "dirty-aeroplane-cleanup",
+                "image": "2120",
+                "totalPlayed": 9543
+            },
+            {
+                "_id": "685287d2ecdffab01b01daf7",
+                "name": "Pilot Heros",
+                "slug": "pilot-heros",
+                "image": "2119",
+                "totalPlayed": 19207
+            },
+            {
+                "_id": "685287d2ecdffab01b01daa1",
+                "name": "Pocket Wings WW2",
+                "slug": "pocket-wings-ww2",
+                "image": "2033",
+                "totalPlayed": 13590
+            },
+            {
+                "_id": "685287d2ecdffab01b01d952",
+                "name": "Swooop - Aeroplane",
+                "slug": "swooop-aeroplane",
+                "image": "1658",
+                "totalPlayed": 21244
+            },
+            {
+                "_id": "685287d2ecdffab01b01d931",
+                "name": "Cloud 9",
+                "slug": "cloud-9",
+                "image": "1624",
+                "totalPlayed": 9038
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8c8",
+                "name": "Volcano Flight Control",
+                "slug": "volcano-flight-control",
+                "image": "1483",
+                "totalPlayed": 12953
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8d0",
+                "name": "Squirrel Blast",
+                "slug": "squirrel-blast",
+                "image": "1498",
+                "totalPlayed": 7398
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8a1",
+                "name": "Flying Turtle",
+                "slug": "flying-turtle",
+                "image": "1435",
+                "totalPlayed": 11445
+            },
+            {
+                "_id": "685287d2ecdffab01b01d806",
+                "name": "Varsity Stacey",
+                "slug": "varsity-stacey",
+                "image": "1254",
+                "totalPlayed": 7632
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5ef",
+                "name": "Flip Master",
+                "slug": "flip-master",
+                "image": "574",
+                "totalPlayed": 9131
+            },
+            {
+                "_id": "685287d2ecdffab01b01d532",
+                "name": "Super Mega Ultra Battle Robot",
+                "slug": "super-mega-ultra-battle-robot",
+                "image": "198",
+                "totalPlayed": 14159
+            },
+            {
+                "_id": "685287d2ecdffab01b01d537",
+                "name": "Bravo Pilot",
+                "slug": "bravo-pilot",
+                "image": "204",
+                "totalPlayed": 11697
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017deb",
+            "id": 40,
+            "name": "flying",
+            "parent": {
+                "_id": "685287b2ecdffab01b017e12",
+                "name": "adventure",
+                "slug": "adventure"
+            },
+            "slug": "flying",
+            "icon": "Flying",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 4,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.819Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<p class=\"text_desc\">Go through our exclusive yet highly engaging HTML5 online flying games and allow yourself to control a realistic aircraft! As an air traffic controller you have to guide the airplane on the runways for the safe takeoff and landing in our widest collection of browser airport management games. Begin the thrill from choosing the right flight paths and complete all the arrival and departure tasks in our cool free online flight simulator games. Try out the solo flying thrill or give yourself a chance to compete against others in multiplayer aeroplane games for free without download. </p>\n<p class=\"text_desc\">High flying skills are required to command special aircraft, squeeze through the sky filled with different kinds of difficulties or blast alien spaceships! It is not going to be easier at all to master the commercial aircraft or wear a crown of becoming a fighter pilot in our cool online flying games. Apart from flying your airplane smartly, you also need to plan a strategy to handle the challenges in the classic world wars. </p>\n<h4>Salient Features of Our Popular Flying Games:</h4>\n<p class=\"text_desc\">Fly high and evade obstacles in <a class=\"link_desc\" href=\"https://www.atmegame.com/games/rocky-jetpack\" title=\"\" target=\"\" style=\"\">Rocky Jetpack</a> and Soar through challenging environments with your trusty jetpack. Dive back in, beat your distances, and master the skies, aiming for a smoother, longer flight with each attempt! Perform daring manoeuvres and loops in the sky in <a class=\"link_desc\" href=\"https://www.atmegame.com/games/stunt-planes\" title=\"\" target=\"\" style=\"\">Stunt Planes</a>. Replay to perfect your stunts, aiming for precision and higher scores with every aerial feat! </p>\n<p class=\"text_desc\">Engage in thrilling aerial combat with <a class=\"link_desc\" href=\"https://www.atmegame.com/games/air-warfare-3d\" title=\"\" target=\"\" style=\"\">Air Warfare 3D</a>! Maneuver through intense dogfights and epic battles in the skies. Ready to dominate? Replay for better strategies, upgrade your arsenal, and aim for victory against foes with each exhilarating skirmish! </p>\n<h4>Our Free Online Flying Games Are Best for Everyone</h4>\n<p class=\"text_desc\">At our website, we maintain an extensive collection of fighter jet games online for all types of players, including brave explorers, action-adventure fans and aspiring pilots. The difficulties will get increased when you fly prop planes from World War I and II. </p>\n<p class=\"text_desc\">Hey! The world of strange aliens is awaiting you in an interstellar war. Get the pleasure of commanding airbuses, helicopters, and, even birds in several airplane flying rescue games. You will fall in love with them while soaring high among the clouds and fighting against the gravity. </p>\n<h4>Combat Enemy Planes in Intense Air Fighting Games</h4>\n<p class=\"text_desc\">In the online games flying that is for most of the cases are built around the thematic appreciation to emulate the military aircraft and their operations. In the simulation games for online flight simulator there is a creation of the actual aircraft cockpit consisted of the full-motion platform. </p>\n<p class=\"text_desc\">In the 3d airplane games, you will observe the recreated modern jet combat aircraft and helicopters as they have a complex electronic and weapon systems that are necessary to combat enemy planes in intense air fighting games. Just check very good flying games (Hawai Jahaj Games), Airplane fight, Air warfare 3D and Stunt Plane. </p>\n<h4>Exploring Limitless Options in Unblocked Free Online Flying Games</h4>\n<p class=\"text_desc\">Within the kingdom of online flying games, enthusiasts aspiring to be future fighter pilots or those longing to soar high above the clouds have a vast array of choices. These free unblocked flying games, cantered around flight simulations, enable players to carve out a niche expertise in exciting plane gaming simulations. Dive into this world of endless possibilities and navigate through thrilling aeroplane manoeuvres in our diverse collection of flying games online. </p>\n<h4>Experience the Thrill: Online Flying Car Adventures</h4>\n<p class=\"text_desc\">Ever dreamt of steering a car in the sky? Well, it's possible! Fly your car high above cityscapes in thrilling flying police car games available online. No downloads necessary—fulfil your flying fantasies with ease through our flying car driving simulator games. </p>\n<p class=\"text_desc\">Thanks to advancements in virtual reality and artificial intelligence, multiplayer modes enhance the realistic experience in flying games. Dive into a multiplayer-enabled environment for a more immersive and challenging gaming experience. </p>\n<p class=\"text_desc\">Explore diverse multiplayer flying games, from single missions to longer campaigns, offering engaging challenges. Discover a range of free online games, including kite flying, bird flying, WW1 flying, and robot flying games, ensuring endless entertainment for hours, days, and months on our gaming website. </p>\n<h4>What You Can Do in Our Online Flying Games? </h4>\n<p class=\"text_desc\"><b>Pilot Realistic Aircraft: </b>Take control of authentic aircraft in diverse scenarios, from commercial jets to fighter planes and even unconventional flying vehicles. </p>\n<p class=\"text_desc\"><b>Airport Management Challenges: </b>Play as an air traffic controller, guiding planes safely on runways, managing takeoffs, and ensuring smooth landings in airport management games. </p>\n<p class=\"text_desc\"><b>Flight Simulator Mastery: </b>Engage in flight simulators, where you choose flight paths, complete arrival and departure tasks, and undertake challenging missions to enhance your piloting skills. </p>\n<p class=\"text_desc\"><b>Solo or Multiplayer Thrills: </b>Enjoy thrilling solo flights or compete against others in multiplayer aeroplane games, testing your skills and strategies against fellow players. </p>\n<p class=\"text_desc\"><b>Varied Challenges: </b>Navigate through different levels of difficulty, from maneuvering through obstacles and engaging in aerial combat against alien spacecraft to mastering classic world wars in varied scenarios. </p>\n<p class=\"text_desc\"><b>Popular Game Experiences: </b> Explore popular games like Rocky Jetpack for mastering aerial maneuvers or Air Warfare 3D for intense dogfights, aiming to top leaderboards with higher scores and improved strategies. </p>\n<h4>Frequently Asked Questions (FAQs): </h4>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. What are the best flying games that are accessible through PCs, mobile phones or tablets? </h4></p>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<div itemprop=\"text\">\n<h4 >A1. Some of our top flying simulators are: </h4>\n<ul>\n    <li>\n<a class=\"link_desc\" href=\"https://www.atmegame.com/games/stunt-planes\" title=\"\" target=\"\" style=\"\">Stunt Planes</a>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/rocky-jetpack\" title=\"\" target=\"\" style=\"\">Rocky Jetpack</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/bird-simulator\" title=\"\" target=\"\" style=\"\">Bird Simulator</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/dragon-city\" title=\"\" target=\"\" style=\"\">Dragon City</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/air-warfare-3d\" title=\"\" target=\"\" style=\"\">Air Warfare 3D</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/airplane-fly-simulator\" title=\"\" target=\"\" style=\"\">Airplane Fly Simulator</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/free-helicopter-flying-simulator\" title=\"\" target=\"\" style=\"\">Free Helicopter Flying Simulator</a></ul>\n</div>\n    </div>\n  </div>\n",
+            "metaTitle": "Online Flying Games, Aeroplane Game (Hawai Jahaj Games) : Atmegame.com",
+            "metaDesc": "Become a fighter pilot of tomorrow while enjoying and getting trained at flying games online based upon a number of flying simulations and situations",
+            "metaKeyword": "flying games, play online flying games, play flying games, free games,  online flying games, aeroplane, kite, helicopter"
+        }
+    }
+}
