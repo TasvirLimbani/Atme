@@ -1,0 +1,49 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01e728",
+                "name": "Extreme Airhockey",
+                "slug": "extreme-airhockey",
+                "image": "5432",
+                "totalPlayed": 12131
+            },
+            {
+                "_id": "685287d2ecdffab01b01e4e0",
+                "name": "Glow Hockey Online",
+                "slug": "glow-hockey-online",
+                "image": "4829",
+                "totalPlayed": 22225
+            },
+            {
+                "_id": "685287d2ecdffab01b01e45f",
+                "name": "Air Hockey",
+                "slug": "air-hockey",
+                "image": "4699",
+                "totalPlayed": 66742
+            },
+            {
+                "_id": "685287d2ecdffab01b01dbe3",
+                "name": "Neon Hockey",
+                "slug": "neon-hockey",
+                "image": "2399",
+                "totalPlayed": 10536
+            },
+            {
+                "_id": "685287d2ecdffab01b01d815",
+                "name": "Hockey Shootout",
+                "slug": "hockey-shootout",
+                "image": "1272",
+                "totalPlayed": 31774
+            },
+            {
+                "_id": "685287d2ecdffab01b01d4e1",
+                "name": "Puppet Ice Hockey",
+                "slug": "puppet-ice-hockey",
+                "image": "116",
+                "totalPlayed": 14526
+            }
+        ]
+    }
+}
