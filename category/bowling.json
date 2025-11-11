@@ -1,0 +1,53 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01e601",
+                "name": "3D Bowling",
+                "slug": "3d-bowling",
+                "image": "5124",
+                "totalPlayed": 32095
+            },
+            {
+                "_id": "685287d2ecdffab01b01d594",
+                "name": "Classic Bowling",
+                "slug": "classic-bowling",
+                "image": "471",
+                "totalPlayed": 42508
+            },
+            {
+                "_id": "685287d2ecdffab01b01d4f9",
+                "name": "Bowling Game",
+                "slug": "bowling-game",
+                "image": "141",
+                "totalPlayed": 27944
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017dd6",
+            "id": 19,
+            "name": "bowling",
+            "parent": {
+                "_id": "685287b2ecdffab01b017dce",
+                "name": "sports",
+                "slug": "sports"
+            },
+            "slug": "bowling",
+            "icon": "bowling-games",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 4,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.817Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>Strike Zone: Explore The Ultimate Bowling Experience at Atmegame! </h4>\n<p class=\"text_desc\">Welcome to Atmegame.com, your one and only destination for the best browser-based bowling games! Wow! In our browser bowling gams, you get a chance to experience the thrill of striking pins without any downloads. Our collection boasts top-tier HTML5 multiplayer and single-player bowling games that guarantee endless fun and thrill. </p>\n<p class=\"text_desc\">Dive into our array of engaging multiplayer bowling games, where various opportunities are there to challenge you to outscore opponents worldwide. Prefer solo play? Explore our single-player options, offering immersive lanes and exciting challenges. Whether you are a seasoned pro or just starting, our wider of cool bowling games caters to all skill levels. </p>\n<p class=\"text_desc\">Enjoy the convenience of playing free, high-quality bowling games directly in your browser. No downloads required! Engage in intense two-player showdowns or hone your skills solo, aiming for that perfect strike. </p>\n<p class=\"text_desc\">At Atmegame.com, the alley is always open for you to play the best, top-rated bowling games hassle-free, anytime, anywhere! </p>\n\n<h4>Salient Features of Our Popular Bowling Games: </h4>\n<p class=\"text_desc\">Step into the immersive world of precision and strikes with <a class=\"link_desc\" href=\"https://www.atmegame.com/games/3d-bowling\" title=\"\" target=\"\" style=\"\">3D Bowling </a>where you are allowed to experience the thrill of realistic alley action as you aim for that perfect score. Bowl your way to victory in this engaging, top-notch bowling game! Relive the timeless charm of the alley as you aim for strikes <a class=\"link_desc\" href=\"https://www.atmegame.com/games/classic-bowling\" title=\"\" target=\"\" style=\"\">Classic Bowling</a>. Roll your way to the top scores in this classic game. </p>\n<p class=\"text_desc\">Our ultimate bowling variety at Atmegame.com's Online Bowling Games hub make sense to gamers of all ages! Check out a diverse range of exciting and highly engaging bowling experiences, from multiplayer challenges to solo conflicts, all playable without downloads. Join the alley action and aim for strikes in the best collection of browser-based bowling games available online! </p>\n\n<h4>The Art of Precision: Aiming for the Ultimate Strike</h4>\n<p class=\"text_desc\">Bowling games online offer an intricate blend of strategy and precision. The primary goal revolves around targeting the pins in diverse combinations and variations. Whether aiming for the classic ten-pin setup or experimenting with other pin bowling variations like nine-pin, candlepin, duckpin, or five-pin bowling, each round presents a unique challenge. </p>\n\n<h4>Adaptability and Varied Surfaces: Enhancing the Challenge</h4>\n<p class=\"text_desc\">Multi-level gaming variations in online bowling often incorporate varying surfaces, elevating the game's excitement. Simulations designed across wooden, grass, gravel, or synthetic surfaces demand adaptability in the curvature and path of the ball. Learning to navigate these surfaces becomes crucial, adding layers of complexity and skill development to the gameplay. </p>\n\n<h4>Diverse Formats for Every Bowling Enthusiast</h4>\n<p class=\"text_desc\">For those seeking a diverse bowling experience, online platforms offer an array of formats beyond the conventional pin bowling. From kittles and kegel to bocce, carpet bowls, and boules, players can immerse themselves in these alternative forms, providing an enriching and varied gaming experience beyond the standard alley setup. </p>\n<p class=\"text_desc\">With an extensive range of challenges, surfaces, and formats, online bowling games stand as a pinnacle of entertainment, catering to a wide spectrum of gaming preferences. Whether seeking precision, adaptability, or diverse experiences, these games promise an unmatched thrill for all enthusiasts of virtual bowling. </p>\n\n<h4>What You Can Do in Our Online Bowling Games? </h4>\n<ul>\n    <li><b>Master Precision: </b> Hone your aiming skills as you target strikes in various pin setups, from classic ten-pin to unique variations like nine-pin, candlepin, and more. </li>\n<li><b>Refine Your Skills Solo: </b>Enjoy the flexibility of solo play, allowing you to practice and refine your techniques in a relaxed environment, aiming for that perfect game. </li>\n<li><b>Explore Varied Surfaces: </b>Adapt to diverse surfaces such as wooden, grass, gravel, and synthetic lanes, each presenting its own challenge and requiring unique strategies. </li>\n<li><b>Engage in Multiplayer Confrontations: </b> You can compete against friends or players worldwide in thrilling multiplayer modes. </li>\n<li><b>Try Alternative Bowling Formats: </b>Step beyond traditional bowling and explore alternative formats like kittles, kegel, bocce, carpet bowls, and boules for a refreshing twist on the classic game. </li></ul>\n<h4>Frequently Asked Questions (FAQs): </h4>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. What are the best online bowling games to play on mobile phones, computers and tablets? </h4>\n <div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n <div itemprop=\"text\">\n<p class=\"text_desc\">A1. Some of our top bowling games:</p>\n<ul>\n    <li>3D Bowling</li>\n<li>Classic Bowling</li></ul>\n\n </div>\n    </div>\n  </div>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q2. Is it possible to play bowling games online without download through atmegame.com? </h4>\n<p class=\"text_desc\" itemprop=\"text\">A2. Absolutely yes! Our all bowling games are available to play online for free without download no matter what age group you belong to. </p>\n</div>\n    </div>\n",
+            "metaTitle": "Bowling Games, Play Bowl & Ball Games Online Free : Atmegame.com",
+            "metaDesc": "Try out the gaming with a difference for recreation playing bowling game online for a gaming experience never enjoyed ever before",
+            "metaKeyword": "bowling games, play online bowling games, play bowling games, free games, online bowling games,  bowl, ball games"
+        }
+    }
+}
