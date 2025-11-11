@@ -1,0 +1,70 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01eaa5",
+                "name": "Stickman Table Tennis",
+                "slug": "stickman-table-tennis",
+                "image": "6564",
+                "totalPlayed": 302432
+            },
+            {
+                "_id": "685287d2ecdffab01b01e723",
+                "name": "Crazy Tennis",
+                "slug": "crazy-tennis",
+                "image": "5426",
+                "totalPlayed": 24392
+            },
+            {
+                "_id": "685287d2ecdffab01b01e727",
+                "name": "Table Tennis Pro",
+                "slug": "table-tennis-pro",
+                "image": "5431",
+                "totalPlayed": 16384
+            },
+            {
+                "_id": "685287d2ecdffab01b01e238",
+                "name": "Stickman Tennis",
+                "slug": "stickman-tennis",
+                "image": "4138",
+                "totalPlayed": 11528
+            },
+            {
+                "_id": "685287d2ecdffab01b01e219",
+                "name": "Tennis Ball",
+                "slug": "tennis-ball",
+                "image": "4107",
+                "totalPlayed": 30681
+            },
+            {
+                "_id": "685287d2ecdffab01b01e221",
+                "name": "Tennis is War",
+                "slug": "tennis-is-war",
+                "image": "4115",
+                "totalPlayed": 11422
+            },
+            {
+                "_id": "685287d2ecdffab01b01d80a",
+                "name": "Puppet Tennis",
+                "slug": "puppet-tennis",
+                "image": "1259",
+                "totalPlayed": 10223
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5fa",
+                "name": "Table Tennis World Tour",
+                "slug": "table-tennis-world-tour",
+                "image": "585",
+                "totalPlayed": 33411
+            },
+            {
+                "_id": "685287d2ecdffab01b01d4e7",
+                "name": "Flash Tennis",
+                "slug": "flash-tennis",
+                "image": "122",
+                "totalPlayed": 20660
+            }
+        ]
+    }
+}
