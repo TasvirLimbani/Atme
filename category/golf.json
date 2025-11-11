@@ -1,0 +1,144 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01e8c6",
+                "name": "Stick Golf",
+                "slug": "stick-golf",
+                "image": "5964",
+                "totalPlayed": 204574
+            },
+            {
+                "_id": "685287d2ecdffab01b01e721",
+                "name": "Golf Royale",
+                "slug": "golf-royale",
+                "image": "5424",
+                "totalPlayed": 8432
+            },
+            {
+                "_id": "685287d2ecdffab01b01e72b",
+                "name": "MathPup Golf Addition",
+                "slug": "mathpup-golf-addition",
+                "image": "5435",
+                "totalPlayed": 11207
+            },
+            {
+                "_id": "685287d2ecdffab01b01e73a",
+                "name": "Mini Golf",
+                "slug": "mini-golf",
+                "image": "5450",
+                "totalPlayed": 14686
+            },
+            {
+                "_id": "685287d2ecdffab01b01e73b",
+                "name": "Golf Park",
+                "slug": "golf-park",
+                "image": "5452",
+                "totalPlayed": 19596
+            },
+            {
+                "_id": "685287d2ecdffab01b01e3a7",
+                "name": "Mini Golf Adventure",
+                "slug": "mini-golf-adventure",
+                "image": "4512",
+                "totalPlayed": 10331
+            },
+            {
+                "_id": "685287d2ecdffab01b01e236",
+                "name": "Adam and Eve Golf",
+                "slug": "adam-and-eve-golf",
+                "image": "4136",
+                "totalPlayed": 9482
+            },
+            {
+                "_id": "685287d2ecdffab01b01e214",
+                "name": "Microgolf",
+                "slug": "microgolf",
+                "image": "4102",
+                "totalPlayed": 9579
+            },
+            {
+                "_id": "685287d2ecdffab01b01e222",
+                "name": "Presidential Golf",
+                "slug": "presidential-golf",
+                "image": "4116",
+                "totalPlayed": 8857
+            },
+            {
+                "_id": "685287d2ecdffab01b01e0ee",
+                "name": "Minigolf World",
+                "slug": "minigolf-world",
+                "image": "3791",
+                "totalPlayed": 10993
+            },
+            {
+                "_id": "685287d2ecdffab01b01e070",
+                "name": "Cave Golf",
+                "slug": "cave-golf",
+                "image": "3651",
+                "totalPlayed": 9012
+            },
+            {
+                "_id": "685287d2ecdffab01b01e01b",
+                "name": "Stickman Golf Online",
+                "slug": "stickman-golf-online",
+                "image": "3561",
+                "totalPlayed": 8626
+            },
+            {
+                "_id": "685287d2ecdffab01b01d812",
+                "name": "Lets Play Golf",
+                "slug": "lets-play-golf",
+                "image": "1267",
+                "totalPlayed": 16374
+            },
+            {
+                "_id": "685287d2ecdffab01b01d81a",
+                "name": "Funny Golf!",
+                "slug": "funny-golf",
+                "image": "1277",
+                "totalPlayed": 15783
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5a0",
+                "name": "Arcade Golf: NEON",
+                "slug": "arcade-golf-neon",
+                "image": "483",
+                "totalPlayed": 12678
+            },
+            {
+                "_id": "685287d2ecdffab01b01d566",
+                "name": "Maya Golf",
+                "slug": "maya-golf",
+                "image": "262",
+                "totalPlayed": 17080
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017dd8",
+            "id": 21,
+            "name": "golf",
+            "parent": {
+                "_id": "685287b2ecdffab01b017dce",
+                "name": "sports",
+                "slug": "sports"
+            },
+            "slug": "golf",
+            "icon": "golf-games",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 10,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.817Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>Swing into Action: Experience the Best Online Golf Games at Atmegame.com</h4>\n<p class=\"text_desc\">If you seek for the quality 9- and 18-hole entertainment and fun, our browser-based HTML5 golf games promise to offer that without compromising on your comfort. Experience realistic courses where thrilling challenges are guaranteed, from dodging sand traps to steering clear of water hazards, aiming to sink the final putt in minimal strokes. </p>\n<p class=\"text_desc\">Our wider collection of free online golf games tests your skills comprehensively, refining everything from drives to chips to putts. You will find endless opportunities to notice the improvements in aiming and backswing and start playing soon like the golf champions like Jack Nicklaus and Bobby Jones. Dive into alternate arcade challenges with space and gravity-altering levels or venture into Mario-themed courses. Explore mini-golf for a quick thrill. Start swinging today—no downloads required! </p>\n<h4>Discover Your Golfing Paradise</h4>\n<p class=\"text_desc\">Welcome to Atmegame.com, where your golfing dreams come true with no extra efforts! Explore a fantastic world of free online golf games designed to immerse you in thrilling and highly engaging golfing adventures without any barriers. </p>\n<h4>Exciting Gameplay Awaits</h4>\n<p class=\"text_desc\">Tee off with precision in games like \"<a class=\"link_desc\" href=\"https://www.atmegame.com/games/maya-golf\" title=\"\" target=\"\" style=\"\">Maya Golf</a>”, where you explore ancient courses with intricate designs, navigate through challenging obstacles, and putt your way through captivating levels. If you're up for a playful twist, join \"<a class=\"link_desc\" href=\"https://www.atmegame.com/games/mini-golf-adventure\" title=\"\" target=\"\" style=\"\">Mini Golf Adventure</a>\" and navigate diverse courses, from classic to whimsical settings, and master your putting skills. Immerse yourself in this addictive miniature golf experience today! </p>\n<h4>Explore Different Golfing Modes</h4>\n<p class=\"text_desc\">Whether you crave the intensity of online golf tournaments or prefer a leisurely round, our games cater to all preferences. Participate in the intense \"PGA Tour Championship\" or relax with \"Golf Master Pro\" in peaceful settings – there is something for every golfer. </p>\n<h4>Thrill of Multiplayer Challenges</h4>\n<p class=\"text_desc\">Challenge friends or connect with golf enthusiasts globally in multiplayer golf games. Sharpen your skills and compete in real-time, experiencing the adrenaline rush of exciting multiplayer conflicts. </p>\n<h4>Mini Golf Games </h4>\n<p class=\"text_desc\">Explore our captivating and addictive mini-golf games showcasing smooth and engaging gameplay. With a huge variety of courses, from classic putt-putt to space-themed and office levels, there's something for everyone! Just manipulate your mouse to aim the putter, adjust the power of swing, and aim to sink those balls skilfully! </p>\n<p class=\"text_desc\">These challenges cater to all player levels, offering overhead and 2D views or immersing you in stunning 3D levels. Dodge obstacles like clown props, water hazards, sand traps, and more for a chance at that subtle hole-in-one! Get ready for a thrilling putt-putt experience like never before! </p>\n<h4>Why Atmegame.com is Your Go-To Golf Destination? </h4>\n<B>Vast Collection: </B>Select from a wide range of state-of-the-art and top online golf games.\n<B>Free and Accessible: </B>Enjoy limitless play without any constraints or charges.\n<B>Immersive Visuals: </B>Immerse yourself in captivating visuals and engaging gameplay.\n<B>Easy Navigation: </B>Seamlessly browse through our user-friendly and easy-to-play interface.\n<B>Regular Updates: </B>Stay tuned for fresh challenges and new additions.\n<h4>What You Can Experience in Our Free Online Golf Games? </h4>\n<B>Polish Your Swing: </B> Refine your technique and master the perfect swing.\n<B>Diverse Course Challenges: </B> Encounter various obstacles on challenging courses.\n<B>Compete in Tournaments: </B>Join online tournaments and special challenges for rewards.\n<B>Multiplayer Fun: </B>Challenge friends or join global competitions for a thrilling experience.\n<B>Relax and Enjoy: </B>Unwind with calming rounds in serene virtual environments.\n<p class=\"text_desc\">At Atmegame.com, we offer a finest variety of cool online golf games for PCs and mobile phones tailored to suit golfers of all levels and preferences. Dive into our virtual greens for an immersive and enjoyable golfing journey. Whether you prefer solo challenges or crave multiplayer excitement, our platform ensures an unforgettable experience for all golf enthusiasts. </p>\n<h4>Frequently Asked Questions (FAQs): </h4>\n <div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4>Q1. What are the best golf games to play online on mobile phones, PCs and tablets? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<div itemprop=\"text\">\n<p class=\"text_desc\" itemprop=\"name\">A1. Our top golf games are: </p><ul>\n    <li>\n<a class=\"link_desc\" href=\"https://www.atmegame.com/games/stick-golf\" title=\"\" target=\"\" style=\"\">Stick Golf</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/golf-royale\" title=\"\" target=\"\" style=\"\">Golf Royale</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/mathpup-golf-addition\" title=\"\" target=\"\" style=\"\">MathPup Golf Addition</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/mini-golf\" title=\"\" target=\"\" style=\"\">Mini Golf</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/golf-park\" title=\"\" target=\"\" style=\"\">Golf Park</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/mini-golf-adventure\" title=\"\" target=\"\" style=\"\">Mini Golf Adventure</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/adam-and-eve-golf\" title=\"\" target=\"\" style=\"\">Adam and Eve Golf</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/presidential-golf\" title=\"\" target=\"\" style=\"\">Presidential Golf</a></li></ul>\n</div>\n    </div>\n  </div>\n",
+            "metaTitle": "Golf Games, Play Online Golf Games Free : Atmegame.com",
+            "metaDesc": "With Golf Games online www.atmegame.com, get the intense irresistible urge of dropping the ball in all eighteen holes realized instantly in cleverly weaved game play",
+            "metaKeyword": "golf games, play online golf games, play golf games, free games, online golf games"
+        }
+    }
+}
