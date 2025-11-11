@@ -1,0 +1,137 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01ea9b",
+                "name": "Pops Billiards",
+                "slug": "pops-billiards",
+                "image": "6552",
+                "totalPlayed": 424324
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea79",
+                "name": "Billiards",
+                "slug": "billiards",
+                "image": "6515",
+                "totalPlayed": 607391
+            },
+            {
+                "_id": "685287d2ecdffab01b01e733",
+                "name": "Pocket Pool",
+                "slug": "pocket-pool",
+                "image": "5443",
+                "totalPlayed": 26173
+            },
+            {
+                "_id": "685287d2ecdffab01b01e396",
+                "name": "Pool 8 Ball",
+                "slug": "pool-8-ball",
+                "image": "4495",
+                "totalPlayed": 129998
+            },
+            {
+                "_id": "685287d2ecdffab01b01e371",
+                "name": "Circle Pool",
+                "slug": "circle-pool",
+                "image": "4456",
+                "totalPlayed": 21050
+            },
+            {
+                "_id": "685287d2ecdffab01b01e220",
+                "name": "9 Ball Pool",
+                "slug": "9-ball-pool",
+                "image": "4114",
+                "totalPlayed": 35843
+            },
+            {
+                "_id": "685287d2ecdffab01b01e194",
+                "name": "Zombilliards",
+                "slug": "zombilliards",
+                "image": "3971",
+                "totalPlayed": 13166
+            },
+            {
+                "_id": "685287d2ecdffab01b01dccc",
+                "name": "Billiard Masters",
+                "slug": "billiard-masters",
+                "image": "2652",
+                "totalPlayed": 8143
+            },
+            {
+                "_id": "685287d2ecdffab01b01db20",
+                "name": "Rackem 8 Ball Pool",
+                "slug": "rackem-8-ball-pool",
+                "image": "2170",
+                "totalPlayed": 22204
+            },
+            {
+                "_id": "685287d2ecdffab01b01d81d",
+                "name": "Zombie Pool",
+                "slug": "zombie-pool",
+                "image": "1281",
+                "totalPlayed": 21817
+            },
+            {
+                "_id": "685287d2ecdffab01b01d609",
+                "name": "Speed Pool King",
+                "slug": "speed-pool-king",
+                "image": "614",
+                "totalPlayed": 40689
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5eb",
+                "name": "9 Ball Quick Fire Pool",
+                "slug": "9-ball-quick-fire-pool",
+                "image": "569",
+                "totalPlayed": 17445
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5ea",
+                "name": "8 Ball Quick Fire Pool",
+                "slug": "8-ball-quick-fire-pool",
+                "image": "568",
+                "totalPlayed": 29972
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5e1",
+                "name": "Billiard Blitz Challenge",
+                "slug": "billiard-blitz-challenge",
+                "image": "558",
+                "totalPlayed": 45568
+            },
+            {
+                "_id": "685287d2ecdffab01b01d4ef",
+                "name": "8 Ball Pool",
+                "slug": "8-ball-pool",
+                "image": "131",
+                "totalPlayed": 36254
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017dd5",
+            "id": 18,
+            "name": "pool",
+            "parent": {
+                "_id": "685287b2ecdffab01b017dce",
+                "name": "sports",
+                "slug": "sports"
+            },
+            "slug": "pool",
+            "icon": "Pool-games",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 7,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.817Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>Unleash the Cue Mastery: Dive into the Amazing World of Online Pool Games! </h4>\n<p class=\"text_desc\">We are happy to guide you discover the ultimate thrill and entertainment of online HTML5 pool games at Atmegame.com! Play without downloads, experience a billiards hall at your fingertips with diverse table styles and colors. From classic 8-ball to glowing arcade pool, change effortlessly. For the pros, master 9-ball games in varying difficulty levels and explore specialty themes like sheep and round tables. </p>\n<p class=\"text_desc\">Enjoy enhanced control and precision, while removing shaky shots. Our browser based pool games feature helper lines for aiming accuracy and offer multiplayer snooker variations. Dive in, keep score effortlessly, and showcase your skills in trick shots with friends in this immersive pool gaming experience! </p>\n<p class=\"text_desc\">Explore a wide array of free online pool games, specially designed to cater to every variation and skill level. With diverse table colours, styles, and engaging gameplay, get ready to experience the thrill of an entire billiards hall at your fingertips! </p>\n<h4>Varied Table Styles and Colors: </h4>\n<p class=\"text_desc\">Immerse yourself in a plethora of table styles and vibrant colors in our cool online pool games collection. Whether it is the traditional 8-ball or the glowing lightning arcade pool, discover an array of options. Delve into games like \"<a class=\"link_desc\" href=\"https://www.atmegame.com/games/8-ball-pool\" title=\"\" target=\"\" style=\"\">8 Ball Pool</a>\" and \"<a class=\"link_desc\" href=\"https://www.atmegame.com/games/speed-pool-king\" title=\"\" target=\"\" style=\"\">Speed Pool King</a>,\" each offering unique challenges and stunning visuals. </p>\n<p class=\"text_desc\">Characters & Objectives: Master your cue skills, pocketing balls strategically to win across varying difficulty levels. The primary objective is to showcase your precision and aiming skills in different pool game variations! </p>\n<h4>Specialty Billiards Games & Features: </h4>\n<p class=\"text_desc\">Explore specialty billiards games with distinctive themes and innovative features. From helper lines for precision to multiplayer snooker variations, our collection caters to all skill levels. Engage in games featuring round tables, sheep themes, and more for a truly immersive experience. </p>\n<p class=\"text_desc\">Characters & Objectives: Enjoy games that keep score for you, offering simplified point rules. Test your skills in trick shots and challenge friends, all while exploring diverse gaming environments. </p>\n<h4>What You Can Do in Our Free Pool Games? </h4>\n<ul>\n    <li>\nExplore diverse billiards variations like 8-ball, 9-ball, and specialty themes. </li>\n<li>Experience an entire billiards hall at your fingertips with various table styles and colors. </li>\n<li>Transition between traditional play and arcade-style glowing pool games seamlessly. </li>\n<li>Master your cue skills across varying difficulty levels, from beginner to expert challenges. </li>\n<li>Enjoy precision and control with helper lines for aiming accuracy. </li>\n<li>Engage in multiplayer snooker variations and challenge friends for an immersive gaming experience. </li></ul>\n<p class=\"text_desc\">Get ready to pocket balls, master the art of cue control, and challenge friends in the thrilling kingdom of online pool games at Atmegame.com! Unleash your cue mastery and conquer the table today! </p>\n<h4>Frequently Asked Questions (FAQs): </h4>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. What are the best pool games to play online without download?</h4>\n\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<div itemprop=\"text\">\n<p class=\"text_desc\">A1. Although our all pool games are amazing to play, some of our recommended items are given below: </p><ul>\n    <li>\n<a class=\"link_desc\" href=\"https://www.atmegame.com/games/pops-billiards\" title=\"\" target=\"\" style=\"\">Pops Billiards</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/pool-8-balls\" title=\"\" target=\"\" style=\"\">Pool 8 Ball</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/9-ball-pool\" title=\"\" target=\"\" style=\"\">9 Ball Pool</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/zombie-pool\" title=\"\" target=\"\" style=\"\">Zombie Pool</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/speed-pool-king\" title=\"\" target=\"\" style=\"\">Speed Pool King</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/billiard-blitz-challenge\" title=\"\" target=\"\" style=\"\">Billiard Blitz Challenge</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/zombilliards\" title=\"\" target=\"\" style=\"\">Zombilliards</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/circle-pool\" title=\"\" target=\"\" style=\"\">Circle Pool</a></li></ul>\n</div>\n</div>\n</div>\n\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q2. Are these pool games suitable for multiplayer sessions? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<div itemprop=\"text\">\n<p class=\"text_desc\">A2. Absolutely! Our multiplayer pool games offer multiplayer options where thousands can play against each other. Challenge friends or engage in competitive gameplay without any downloads or sign-ups. </p>\n</div>\n</div>\n</div>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q2. Do these games assist players with aiming? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<div itemprop=\"text\">\n<p class=\"text_desc\">A2. Yes, many of our pool games feature helper lines that assist players in aiming and predicting ball trajectories. Enhance your precision and compare scores with friends for added excitement! </p>\n</div>\n</div>\n</div>\n\n",
+            "metaTitle": "Online Pool Games, Play Pool Games Free, 8 Ball & 9 Ball Pool Games : Atmegame.com",
+            "metaDesc": "Enjoy the excitement of online pool games one of the most popular indoor games presented with varying formats and styles atmegame.com in a simulated environment",
+            "metaKeyword": "pool games, play online pool games, play pool games, free games, online pool games,  billiards, snooker"
+        }
+    }
+}
