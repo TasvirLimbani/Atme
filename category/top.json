@@ -1,0 +1,208 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01eab0",
+                "name": "Desert Champion",
+                "slug": "desert-champion",
+                "image": "6577",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 858457
+            },
+            {
+                "_id": "685287d2ecdffab01b01eab1",
+                "name": "Hexa Match",
+                "slug": "hexa-match",
+                "image": "6578",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 564934
+            },
+            {
+                "_id": "685287d2ecdffab01b01eab5",
+                "name": "Paint The House",
+                "slug": "paint-the-house",
+                "image": "6582",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 676877
+            },
+            {
+                "_id": "685287d2ecdffab01b01eab4",
+                "name": "Magic Bubble Fox",
+                "slug": "magic-bubble-fox",
+                "image": "6581",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 1048458
+            },
+            {
+                "_id": "685287d2ecdffab01b01eab3",
+                "name": "Plug it!",
+                "slug": "plug-it",
+                "image": "6580",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 473802
+            },
+            {
+                "_id": "685287d2ecdffab01b01eab6",
+                "name": "Crossy Traffic",
+                "slug": "crossy-traffic",
+                "image": "6583",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 696950
+            },
+            {
+                "_id": "685287d2ecdffab01b01eab7",
+                "name": "Happy Popcorn",
+                "slug": "happy-popcorn",
+                "image": "6584",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 325096
+            },
+            {
+                "_id": "685287d2ecdffab01b01eab2",
+                "name": "Jungle Boy",
+                "slug": "jungle-boy",
+                "image": "6579",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 562859
+            },
+            {
+                "_id": "685287d2ecdffab01b01eaaf",
+                "name": "Brick Breaker Bash",
+                "slug": "brick-breaker-bash",
+                "image": "6576",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 5166017
+            },
+            {
+                "_id": "685287d2ecdffab01b01eaae",
+                "name": "Holi Shooter",
+                "slug": "holi-shooter",
+                "image": "6575",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 720773
+            },
+            {
+                "_id": "685287d2ecdffab01b01eaad",
+                "name": "Cannon Shot",
+                "slug": "cannon-shot",
+                "image": "6574",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 4064662
+            },
+            {
+                "_id": "685287d2ecdffab01b01eaac",
+                "name": "Space Bubble Hero",
+                "slug": "space-bubble-hero",
+                "image": "6573",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 549026
+            },
+            {
+                "_id": "685287d2ecdffab01b01eaab",
+                "name": "Chess",
+                "slug": "chess",
+                "image": "6572",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 786610
+            },
+            {
+                "_id": "685287d2ecdffab01b01eaaa",
+                "name": "Battleship Arena",
+                "slug": "battleship-arena",
+                "image": "6571",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 355095
+            },
+            {
+                "_id": "685287d2ecdffab01b01eaa9",
+                "name": "Cricket Championships",
+                "slug": "cricket-championships",
+                "image": "6570",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 1943929
+            },
+            {
+                "_id": "685287d2ecdffab01b01eaa8",
+                "name": "Dino Jump",
+                "slug": "dino-jump",
+                "image": "6567",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 50436
+            },
+            {
+                "_id": "685287d2ecdffab01b01eaa7",
+                "name": "Gold Miner",
+                "slug": "gold-miner",
+                "image": "6566",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 851922
+            },
+            {
+                "_id": "685287d2ecdffab01b01eaa6",
+                "name": "Super Pon Goal",
+                "slug": "super-pon-goal",
+                "image": "6565",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 351700
+            },
+            {
+                "_id": "685287d2ecdffab01b01eaa5",
+                "name": "Stickman Table Tennis",
+                "slug": "stickman-table-tennis",
+                "image": "6564",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 302432
+            },
+            {
+                "_id": "685287d2ecdffab01b01eaa4",
+                "name": "Strike Expert",
+                "slug": "strike-expert",
+                "image": "6563",
+                "ownGame": true,
+                "isMobile": true,
+                "totalPlayed": 788844
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017df3",
+            "id": 48,
+            "name": "top",
+            "parent": "685287b2ecdffab01b017e16",
+            "slug": "top",
+            "icon": "Top Games",
+            "isFeature": true,
+            "isMainMenu": false,
+            "order": 48,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.820Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<p class=\"text_desc\"><h4>Play Online Top Games to Double Your Fun!</h4>\r\nWelcome to a fastest growing platform to play free games online! One of the leading online gaming websites, Atmegame makes sure that you will get a chance here to have a great time while browsing through an extensive variety of online top games. Our exclusively-designed website has something for everyone – be it a boy or girl. We maintain different kinds of games for kids in our games category and keep adding more for the game enthusiasts.</p><p class=\"text_desc\">\r\n\r\nThe primary motto of our unique yet meaningful gaming website is to help people make huge fun and entertainment. In the category of online top games, you will find all the games that are loved by you and online gamers from across the globe.</p><p class=\"text_desc\">\r\n\r\n<h4>Player Games and Achievements</h4>On Atmegame you are free to get engaged in the finest gaming activities where you can compile the statistics of games like rankings and high scores on your own player page. The good thing about this page is that you will see here receiving all the awards you will get for different games. You can sign up and create your own profile and maintain all the records about your online gaming activities and achievements on our website. Lets give yourself a chance to play here both single player and advanced massive multiplayer games with a number of interesting players from around the world.</p>\r\n\r\n<h4>Join A League of Unlimited Fun and Entertainment</h4><p class=\"text_desc\">\r\nSign up for free to avail of all the benefits and advantages of registered game players, including games statistics, your own high scores, awards, achievements and much more. Choose from a wide yet challenging array of our online top games, such as puzzle games, sports games, adventure games, action games, dress up games, 3d games, android games, flash games, games for kids, windows games and many more.</p>",
+            "metaTitle": "Top Games, Play Top and Best Online Games : Atmegame.com",
+            "metaDesc": "Play online free top games at atmegame.com. We have selected the most addictive number of top games for best excitement & thrill in you!",
+            "metaKeyword": "Top Games, Top Onlines Games, Top Free Games, Top most games, top game, top flash games"
+        }
+    }
+}
