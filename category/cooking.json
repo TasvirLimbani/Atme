@@ -1,0 +1,1754 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01ea7a",
+                "name": "Breakfast Time",
+                "slug": "breakfast-time",
+                "image": "6516",
+                "totalPlayed": 571489
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9e7",
+                "name": "Pizza Hunter Crazy Chef Game",
+                "slug": "pizza-hunter-crazy-chef-game",
+                "image": "6348",
+                "totalPlayed": 35026
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8d9",
+                "name": "Beach Restaurant",
+                "slug": "eg-beach-restaurant",
+                "image": "5996",
+                "totalPlayed": 8628
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8da",
+                "name": "Homemade Pizza Cooking",
+                "slug": "homemade-pizza-cooking",
+                "image": "5999",
+                "totalPlayed": 285859
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8db",
+                "name": "Pony Ice Cream Cone",
+                "slug": "pony-ice-cream-cone",
+                "image": "6002",
+                "totalPlayed": 237491
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8dc",
+                "name": "Burger Chef Restaurant",
+                "slug": "burger-chef-restaurant",
+                "image": "6003",
+                "totalPlayed": 15786
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8dd",
+                "name": "Perfect Cake Master",
+                "slug": "perfect-cake-master",
+                "image": "6004",
+                "totalPlayed": 168905
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8de",
+                "name": "Potato Chips Maker",
+                "slug": "potato-chips-maker",
+                "image": "6005",
+                "totalPlayed": 11090
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8df",
+                "name": "Cake Shop Bakery",
+                "slug": "cake-shop-bakery",
+                "image": "6006",
+                "totalPlayed": 13950
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8e1",
+                "name": "Pizza Mania",
+                "slug": "pizza-mania",
+                "image": "6009",
+                "totalPlayed": 135238
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8e2",
+                "name": "Ice Cream Maker",
+                "slug": "ice-cream-maker",
+                "image": "6010",
+                "totalPlayed": 28493
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8e3",
+                "name": "Cotton Candy Shop",
+                "slug": "cotton-candy-shop",
+                "image": "6011",
+                "totalPlayed": 32724
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8e4",
+                "name": "Chef Mix",
+                "slug": "chef-mix",
+                "image": "6012",
+                "totalPlayed": 181764
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6f6",
+                "name": "Cake Eaters",
+                "slug": "cake-eaters",
+                "image": "5379",
+                "totalPlayed": 26891
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6ee",
+                "name": "Happy Dessert",
+                "slug": "happy-dessert",
+                "image": "5371",
+                "totalPlayed": 11376
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6ca",
+                "name": "My Burger Biz",
+                "slug": "my-burger-biz",
+                "image": "5333",
+                "totalPlayed": 22495
+            },
+            {
+                "_id": "685287d2ecdffab01b01e515",
+                "name": "Minion Pool Party",
+                "slug": "minion-pool-party",
+                "image": "4883",
+                "totalPlayed": 10286
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2a9",
+                "name": "Top Burger",
+                "slug": "top-burger",
+                "image": "4255",
+                "totalPlayed": 20152
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2b3",
+                "name": "Princess Soup Kitchen",
+                "slug": "princess-soup-kitchen",
+                "image": "4265",
+                "totalPlayed": 17387
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2b5",
+                "name": "Happy Thanksgiving Cake Master",
+                "slug": "happy-thanksgiving-cake-master",
+                "image": "4267",
+                "totalPlayed": 14678
+            },
+            {
+                "_id": "685287d2ecdffab01b01e204",
+                "name": "Cooking Scene",
+                "slug": "cooking-scene",
+                "image": "4085",
+                "totalPlayed": 14872
+            },
+            {
+                "_id": "685287d2ecdffab01b01e205",
+                "name": "BFF Traditional Thanksgiving Turkey",
+                "slug": "bff-traditional-thanksgiving-turkey",
+                "image": "4086",
+                "totalPlayed": 10324
+            },
+            {
+                "_id": "685287d2ecdffab01b01e206",
+                "name": "Halloween Pizzeria",
+                "slug": "halloween-pizzeria",
+                "image": "4087",
+                "totalPlayed": 10233
+            },
+            {
+                "_id": "685287d2ecdffab01b01e208",
+                "name": "Halloween Special Party Cake",
+                "slug": "halloween-special-party-cake",
+                "image": "4089",
+                "totalPlayed": 8786
+            },
+            {
+                "_id": "685287d2ecdffab01b01e209",
+                "name": "Burger Chef",
+                "slug": "burger-chef",
+                "image": "4090",
+                "totalPlayed": 14366
+            },
+            {
+                "_id": "685287d2ecdffab01b01e20b",
+                "name": "Vincy Cooking Rainbow Birthday Cake",
+                "slug": "vincy-cooking-rainbow-birthday-cake",
+                "image": "4092",
+                "totalPlayed": 11329
+            },
+            {
+                "_id": "685287d2ecdffab01b01e20c",
+                "name": "Boys Cooking Challenge",
+                "slug": "boys-cooking-challenge",
+                "image": "4093",
+                "totalPlayed": 9421
+            },
+            {
+                "_id": "685287d2ecdffab01b01e20d",
+                "name": "Cooking Challenge",
+                "slug": "cooking-challenge",
+                "image": "4094",
+                "totalPlayed": 16857
+            },
+            {
+                "_id": "685287d2ecdffab01b01e20e",
+                "name": "Donuts Bakery",
+                "slug": "donuts-bakery",
+                "image": "4095",
+                "totalPlayed": 18381
+            },
+            {
+                "_id": "685287d2ecdffab01b01e210",
+                "name": "Dner Kebab salade tomates oignons",
+                "slug": "dner-kebab--salade-tomates-oignons",
+                "image": "4097",
+                "totalPlayed": 10825
+            },
+            {
+                "_id": "685287d2ecdffab01b01e211",
+                "name": "Club Sandwich",
+                "slug": "club-sandwich",
+                "image": "4098",
+                "totalPlayed": 10045
+            },
+            {
+                "_id": "685287d2ecdffab01b01e212",
+                "name": "Cooking Battle",
+                "slug": "cooking-battle",
+                "image": "4099",
+                "totalPlayed": 15668
+            },
+            {
+                "_id": "685287d2ecdffab01b01e213",
+                "name": "Sisters Cakes Battle",
+                "slug": "sisters-cakes-battle",
+                "image": "4100",
+                "totalPlayed": 11164
+            },
+            {
+                "_id": "685287d2ecdffab01b01e0aa",
+                "name": "Angela&apos;s High School Reunion",
+                "slug": "angelas-high-school-reunion",
+                "image": "3715",
+                "totalPlayed": 11831
+            },
+            {
+                "_id": "685287d2ecdffab01b01e0b8",
+                "name": "Emily&apos;s Christmas Carol",
+                "slug": "emilys-christmas-carol",
+                "image": "3732",
+                "totalPlayed": 9069
+            },
+            {
+                "_id": "685287d2ecdffab01b01e0c4",
+                "name": "Emily&apos;s Message in a Bottle",
+                "slug": "emilys-message-in-a-bottle",
+                "image": "3748",
+                "totalPlayed": 10895
+            },
+            {
+                "_id": "685287d2ecdffab01b01e11e",
+                "name": "Emilys Cook and Go",
+                "slug": "emilys-cook-and-go",
+                "image": "3842",
+                "totalPlayed": 9260
+            },
+            {
+                "_id": "685287d2ecdffab01b01e182",
+                "name": "Bakery Fun",
+                "slug": "bakery-fun",
+                "image": "3952",
+                "totalPlayed": 10680
+            },
+            {
+                "_id": "685287d2ecdffab01b01e068",
+                "name": "Beach Bar",
+                "slug": "beach-bar",
+                "image": "3643",
+                "totalPlayed": 8896
+            },
+            {
+                "_id": "685287d2ecdffab01b01de87",
+                "name": "Goldie Princess Toddler Feed",
+                "slug": "goldie-princess-toddler-feed",
+                "image": "3120",
+                "totalPlayed": 14616
+            },
+            {
+                "_id": "685287d2ecdffab01b01de67",
+                "name": "Pie Realife Cooking",
+                "slug": "pie-realife-cooking",
+                "image": "3088",
+                "totalPlayed": 15567
+            },
+            {
+                "_id": "685287d2ecdffab01b01de30",
+                "name": "My Slime Mixer",
+                "slug": "my-slime-mixer",
+                "image": "3032",
+                "totalPlayed": 13208
+            },
+            {
+                "_id": "685287d2ecdffab01b01de3d",
+                "name": "Avocado Toast Instagram",
+                "slug": "avocado-toast-instagram",
+                "image": "3045",
+                "totalPlayed": 12423
+            },
+            {
+                "_id": "685287d2ecdffab01b01ddfe",
+                "name": "Princess Hotdog Eating Contest",
+                "slug": "princess-hotdog-eating-contest",
+                "image": "2981",
+                "totalPlayed": 16094
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc51",
+                "name": "Cooking Chef Beach Bistro",
+                "slug": "cooking-chef-beach-bistro",
+                "image": "2525",
+                "totalPlayed": 9235
+            },
+            {
+                "_id": "685287d2ecdffab01b01dbc1",
+                "name": "Princess Donuts Shop 2",
+                "slug": "princess-donuts-shop-2",
+                "image": "2344",
+                "totalPlayed": 11893
+            },
+            {
+                "_id": "685287d2ecdffab01b01dbb0",
+                "name": "Royal Wedding Cake",
+                "slug": "royal-wedding-cake",
+                "image": "2324",
+                "totalPlayed": 24930
+            },
+            {
+                "_id": "685287d2ecdffab01b01da40",
+                "name": "Burger Truck Frenzy USA",
+                "slug": "burger-truck-frenzy-usa",
+                "image": "1936",
+                "totalPlayed": 27197
+            },
+            {
+                "_id": "685287d2ecdffab01b01da44",
+                "name": "Natalies Winter Treats",
+                "slug": "natalies-winter-treats",
+                "image": "1940",
+                "totalPlayed": 13843
+            },
+            {
+                "_id": "685287d2ecdffab01b01d936",
+                "name": "Luscious Lemon Cake",
+                "slug": "luscious-lemon-cake",
+                "image": "1629",
+                "totalPlayed": 9964
+            },
+            {
+                "_id": "685287d2ecdffab01b01d949",
+                "name": "Emmas Recipes Chocolate Chip Cookies",
+                "slug": "emmas-recipes-chocolate-chip-cookies",
+                "image": "1649",
+                "totalPlayed": 8381
+            },
+            {
+                "_id": "685287d2ecdffab01b01d94b",
+                "name": "Ice Cream Stand",
+                "slug": "ice-cream-stand",
+                "image": "1651",
+                "totalPlayed": 8587
+            },
+            {
+                "_id": "685287d2ecdffab01b01d904",
+                "name": "Mermaid Juice Bar",
+                "slug": "mermaid-juice-bar",
+                "image": "1578",
+                "totalPlayed": 7120
+            },
+            {
+                "_id": "685287d2ecdffab01b01d908",
+                "name": "Tea Party",
+                "slug": "tea-party",
+                "image": "1582",
+                "totalPlayed": 7672
+            },
+            {
+                "_id": "685287d2ecdffab01b01d910",
+                "name": "Valentine Chocolate Cake",
+                "slug": "valentine-chocolate-cake",
+                "image": "1591",
+                "totalPlayed": 8204
+            },
+            {
+                "_id": "685287d2ecdffab01b01d91a",
+                "name": "Donut Mania Secret Recipe",
+                "slug": "donut-mania-secret-recipe",
+                "image": "1601",
+                "totalPlayed": 7260
+            },
+            {
+                "_id": "685287d2ecdffab01b01d924",
+                "name": "Spicy Patatas Bravas",
+                "slug": "spicy-patatas-bravas",
+                "image": "1611",
+                "totalPlayed": 7497
+            },
+            {
+                "_id": "685287d2ecdffab01b01d925",
+                "name": "Dessert Master",
+                "slug": "dessert-master",
+                "image": "1612",
+                "totalPlayed": 7611
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8eb",
+                "name": "Burger Diner Cook  Create",
+                "slug": "burger-diner-cook-create",
+                "image": "1552",
+                "totalPlayed": 7381
+            },
+            {
+                "_id": "685287d2ecdffab01b01d678",
+                "name": "Cutezee Cooking Academy Burger",
+                "slug": "cutezee-cooking-academy-burger",
+                "image": "788",
+                "totalPlayed": 7902
+            },
+            {
+                "_id": "685287d2ecdffab01b01d679",
+                "name": "Princess Royal Cupcakes",
+                "slug": "princess-royal-cupcakes",
+                "image": "789",
+                "totalPlayed": 8615
+            },
+            {
+                "_id": "685287d2ecdffab01b01d67a",
+                "name": "Ellie Gingerbread House Decoration",
+                "slug": "ellie-gingerbread-house-decoration",
+                "image": "790",
+                "totalPlayed": 7788
+            },
+            {
+                "_id": "685287d2ecdffab01b01d67b",
+                "name": "Cutezee Cooking Academy Gingerbread",
+                "slug": "cutezee-cooking-academy-gingerbread",
+                "image": "791",
+                "totalPlayed": 7172
+            },
+            {
+                "_id": "685287d2ecdffab01b01d67c",
+                "name": "Cutezee Cooking Academy Macarons",
+                "slug": "cutezee-cooking-academy-macarons",
+                "image": "792",
+                "totalPlayed": 7729
+            },
+            {
+                "_id": "685287d2ecdffab01b01d67d",
+                "name": "Strawberry Shaped Pops",
+                "slug": "strawberry-shaped-pops",
+                "image": "793",
+                "totalPlayed": 7525
+            },
+            {
+                "_id": "685287d2ecdffab01b01d67e",
+                "name": "Baby Around The World India",
+                "slug": "baby-around-the-world-india",
+                "image": "794",
+                "totalPlayed": 7557
+            },
+            {
+                "_id": "685287d2ecdffab01b01d67f",
+                "name": "Ninja Cooking Sushi",
+                "slug": "ninja-cooking-sushi",
+                "image": "795",
+                "totalPlayed": 7780
+            },
+            {
+                "_id": "685287d2ecdffab01b01d680",
+                "name": "Chick Cake Pops",
+                "slug": "chick-cake-pops",
+                "image": "796",
+                "totalPlayed": 7168
+            },
+            {
+                "_id": "685287d2ecdffab01b01d681",
+                "name": "Baby Around The World Australia",
+                "slug": "baby-around-the-world-australia",
+                "image": "797",
+                "totalPlayed": 7304
+            },
+            {
+                "_id": "685287d2ecdffab01b01d682",
+                "name": "Cooking Steak Dinner",
+                "slug": "cooking-steak-dinner",
+                "image": "798",
+                "totalPlayed": 8091
+            },
+            {
+                "_id": "685287d2ecdffab01b01d683",
+                "name": "Elsa s Frozen Dessert Trifle",
+                "slug": "elsa-s-frozen-dessert-trifle",
+                "image": "799",
+                "totalPlayed": 8468
+            },
+            {
+                "_id": "685287d2ecdffab01b01d684",
+                "name": "Best Burger Chef",
+                "slug": "best-burger-chef",
+                "image": "800",
+                "totalPlayed": 8254
+            },
+            {
+                "_id": "685287d2ecdffab01b01d685",
+                "name": "Minnie Mouse Surprise Cake",
+                "slug": "minnie-mouse-surprise-cake",
+                "image": "801",
+                "totalPlayed": 8628
+            },
+            {
+                "_id": "685287d2ecdffab01b01d686",
+                "name": "Little Mermaid Cake",
+                "slug": "little-mermaid-cake",
+                "image": "802",
+                "totalPlayed": 8661
+            },
+            {
+                "_id": "685287d2ecdffab01b01d687",
+                "name": "Easy Freezy Ice Cream",
+                "slug": "easy-freezy-ice-cream",
+                "image": "803",
+                "totalPlayed": 7691
+            },
+            {
+                "_id": "685287d2ecdffab01b01d688",
+                "name": "Birthday Train",
+                "slug": "birthday-train",
+                "image": "804",
+                "totalPlayed": 8076
+            },
+            {
+                "_id": "685287d2ecdffab01b01d689",
+                "name": "Sebastian Cupcakes",
+                "slug": "sebastian-cupcakes",
+                "image": "805",
+                "totalPlayed": 7557
+            },
+            {
+                "_id": "685287d2ecdffab01b01d68a",
+                "name": "Easy Bake Pizza",
+                "slug": "easy-bake-pizza",
+                "image": "806",
+                "totalPlayed": 7492
+            },
+            {
+                "_id": "685287d2ecdffab01b01d68b",
+                "name": "Baby Around The World Russia",
+                "slug": "baby-around-the-world-russia",
+                "image": "807",
+                "totalPlayed": 7348
+            },
+            {
+                "_id": "685287d2ecdffab01b01d68c",
+                "name": "Queen Cupcakes",
+                "slug": "queen-cupcakes",
+                "image": "808",
+                "totalPlayed": 7818
+            },
+            {
+                "_id": "685287d2ecdffab01b01d68d",
+                "name": "Flower Basket Cupcake",
+                "slug": "flower-basket-cupcake",
+                "image": "809",
+                "totalPlayed": 7953
+            },
+            {
+                "_id": "685287d2ecdffab01b01d68e",
+                "name": "Baby Witch Magic Potion",
+                "slug": "baby-witch-magic-potion",
+                "image": "810",
+                "totalPlayed": 7943
+            },
+            {
+                "_id": "685287d2ecdffab01b01d68f",
+                "name": "Tangled Tower Cupcake",
+                "slug": "tangled-tower-cupcake",
+                "image": "811",
+                "totalPlayed": 7384
+            },
+            {
+                "_id": "685287d2ecdffab01b01d690",
+                "name": "Sunshine Burgers",
+                "slug": "sunshine-burgers",
+                "image": "812",
+                "totalPlayed": 8131
+            },
+            {
+                "_id": "685287d2ecdffab01b01d691",
+                "name": "Berry_Smoothie_Ice_Blocks",
+                "slug": "berrysmoothieiceblocks",
+                "image": "813",
+                "totalPlayed": 7522
+            },
+            {
+                "_id": "685287d2ecdffab01b01d692",
+                "name": "Easy Bake Pop Cakes",
+                "slug": "easy-bake-pop-cakes",
+                "image": "814",
+                "totalPlayed": 8250
+            },
+            {
+                "_id": "685287d2ecdffab01b01d693",
+                "name": "Chocolate Fudge Cupcakes",
+                "slug": "chocolate-fudge-cupcakes",
+                "image": "815",
+                "totalPlayed": 7841
+            },
+            {
+                "_id": "685287d2ecdffab01b01d694",
+                "name": "Easy Bake Cookies",
+                "slug": "easy-bake-cookies",
+                "image": "816",
+                "totalPlayed": 8370
+            },
+            {
+                "_id": "685287d2ecdffab01b01d695",
+                "name": "White Chocolate Ice Cream Cake",
+                "slug": "white-chocolate-ice-cream-cake",
+                "image": "817",
+                "totalPlayed": 8531
+            },
+            {
+                "_id": "685287d2ecdffab01b01d696",
+                "name": "White Chocolate Berry Cheesecake",
+                "slug": "white-chocolate-berry-cheesecake",
+                "image": "818",
+                "totalPlayed": 8342
+            },
+            {
+                "_id": "685287d2ecdffab01b01d697",
+                "name": "Mother&#146;s Day Oreo Flowers",
+                "slug": "mothers-day-oreo-flowers",
+                "image": "819",
+                "totalPlayed": 7137
+            },
+            {
+                "_id": "685287d2ecdffab01b01d698",
+                "name": "Strawberry Angel Dessert",
+                "slug": "strawberry-angel-dessert",
+                "image": "820",
+                "totalPlayed": 8019
+            },
+            {
+                "_id": "685287d2ecdffab01b01d699",
+                "name": "Chocolate Nests",
+                "slug": "chocolate-nests",
+                "image": "821",
+                "totalPlayed": 7230
+            },
+            {
+                "_id": "685287d2ecdffab01b01d69a",
+                "name": "Fairy Cakes",
+                "slug": "fairy-cakes",
+                "image": "822",
+                "totalPlayed": 13622
+            },
+            {
+                "_id": "685287d2ecdffab01b01d69b",
+                "name": "Dora Fish and Chip",
+                "slug": "dora-fish-and-chip",
+                "image": "823",
+                "totalPlayed": 8543
+            },
+            {
+                "_id": "685287d2ecdffab01b01d69c",
+                "name": "Kitchen Scramble 2",
+                "slug": "kitchen-scramble-2",
+                "image": "824",
+                "totalPlayed": 13150
+            },
+            {
+                "_id": "685287d2ecdffab01b01d69d",
+                "name": "Dora Taco",
+                "slug": "dora-taco",
+                "image": "825",
+                "totalPlayed": 8136
+            },
+            {
+                "_id": "685287d2ecdffab01b01d69e",
+                "name": "Mamas Pizza Truck",
+                "slug": "mamas-pizza-truck",
+                "image": "826",
+                "totalPlayed": 10344
+            },
+            {
+                "_id": "685287d2ecdffab01b01d69f",
+                "name": "Mamas Ice Cream",
+                "slug": "mamas-ice-cream",
+                "image": "827",
+                "totalPlayed": 9434
+            },
+            {
+                "_id": "685287d2ecdffab01b01d651",
+                "name": "Strawberry Gingerbread Magic Land",
+                "slug": "strawberry-gingerbread-magic-land",
+                "image": "744",
+                "totalPlayed": 7485
+            },
+            {
+                "_id": "685287d2ecdffab01b01d652",
+                "name": "Masha and the Bear Picnic Fun",
+                "slug": "masha-and-the-bear-picnic-fun",
+                "image": "745",
+                "totalPlayed": 7783
+            },
+            {
+                "_id": "685287d2ecdffab01b01d653",
+                "name": "Zootropolis Burger Cooking",
+                "slug": "zootropolis-burger-cooking",
+                "image": "746",
+                "totalPlayed": 7317
+            },
+            {
+                "_id": "685287d2ecdffab01b01d654",
+                "name": "Elsa Restaurant Vegetarian Meatloaf",
+                "slug": "elsa-restaurant-vegetarian-meatloaf",
+                "image": "747",
+                "totalPlayed": 7504
+            },
+            {
+                "_id": "685287d2ecdffab01b01d655",
+                "name": "Princesses Cake Cooking",
+                "slug": "princesses-cake-cooking",
+                "image": "748",
+                "totalPlayed": 8471
+            },
+            {
+                "_id": "685287d2ecdffab01b01d656",
+                "name": "Cupcake Maker",
+                "slug": "cupcake-maker",
+                "image": "749",
+                "totalPlayed": 14125
+            },
+            {
+                "_id": "685287d2ecdffab01b01d657",
+                "name": "Horse Wedding Cake",
+                "slug": "horse-wedding-cake",
+                "image": "750",
+                "totalPlayed": 7102
+            },
+            {
+                "_id": "685287d2ecdffab01b01d658",
+                "name": "Elsa Restaurant Breakfast Management 3",
+                "slug": "elsa-restaurant-breakfast-management-3",
+                "image": "751",
+                "totalPlayed": 7541
+            },
+            {
+                "_id": "685287d2ecdffab01b01d659",
+                "name": "Elsa Restaurant Steak Taco Salad",
+                "slug": "elsa-restaurant-steak-taco-salad",
+                "image": "752",
+                "totalPlayed": 7866
+            },
+            {
+                "_id": "685287d2ecdffab01b01d65a",
+                "name": "Rainbow Ice Cream Cooking",
+                "slug": "rainbow-ice-cream-cooking",
+                "image": "753",
+                "totalPlayed": 9442
+            },
+            {
+                "_id": "685287d2ecdffab01b01d65b",
+                "name": "Animals Cake Pop Cooking",
+                "slug": "animals-cake-pop-cooking",
+                "image": "754",
+                "totalPlayed": 7351
+            },
+            {
+                "_id": "685287d2ecdffab01b01d65c",
+                "name": "Rainbow Pancake Cooking",
+                "slug": "rainbow-pancake-cooking",
+                "image": "755",
+                "totalPlayed": 8165
+            },
+            {
+                "_id": "685287d2ecdffab01b01d65d",
+                "name": "Elsa Restaurant Breakfast Management 2",
+                "slug": "elsa-restaurant-breakfast-management-2",
+                "image": "756",
+                "totalPlayed": 8888
+            },
+            {
+                "_id": "685287d2ecdffab01b01d65e",
+                "name": "Donuts Cooking",
+                "slug": "donuts-cooking",
+                "image": "757",
+                "totalPlayed": 10458
+            },
+            {
+                "_id": "685287d2ecdffab01b01d65f",
+                "name": "Pony Birthday Cake",
+                "slug": "pony-birthday-cake",
+                "image": "758",
+                "totalPlayed": 8523
+            },
+            {
+                "_id": "685287d2ecdffab01b01d660",
+                "name": "Anna Cooking Pasta",
+                "slug": "anna-cooking-pasta",
+                "image": "759",
+                "totalPlayed": 8107
+            },
+            {
+                "_id": "685287d2ecdffab01b01d661",
+                "name": "Elsa Restaurant Spinach Lasagna",
+                "slug": "elsa-restaurant-spinach-lasagna",
+                "image": "760",
+                "totalPlayed": 7381
+            },
+            {
+                "_id": "685287d2ecdffab01b01d662",
+                "name": "Princess Castle Cake Cooking",
+                "slug": "princess-castle-cake-cooking",
+                "image": "761",
+                "totalPlayed": 8725
+            },
+            {
+                "_id": "685287d2ecdffab01b01d663",
+                "name": "Elsa Chicken And Broccoli Alfredo",
+                "slug": "elsa-chicken-and-broccoli-alfredo",
+                "image": "762",
+                "totalPlayed": 7932
+            },
+            {
+                "_id": "685287d2ecdffab01b01d664",
+                "name": "Elsa Restaurant Breakfast Management",
+                "slug": "elsa-restaurant-breakfast-management",
+                "image": "763",
+                "totalPlayed": 8519
+            },
+            {
+                "_id": "685287d2ecdffab01b01d665",
+                "name": "Elsa Restaurant Penne Pasta with Beans",
+                "slug": "elsa-restaurant-penne-pasta-with-beans",
+                "image": "764",
+                "totalPlayed": 7707
+            },
+            {
+                "_id": "685287d2ecdffab01b01d667",
+                "name": "Elsa Restaurant Oven Baked Salmon",
+                "slug": "elsa-restaurant-oven-baked-salmon",
+                "image": "766",
+                "totalPlayed": 7546
+            },
+            {
+                "_id": "685287d2ecdffab01b01d668",
+                "name": "Masha cooking Big Burger",
+                "slug": "masha-cooking-big-burger",
+                "image": "767",
+                "totalPlayed": 7931
+            },
+            {
+                "_id": "685287d2ecdffab01b01d669",
+                "name": "Masha Cooking Tortilla Pizza",
+                "slug": "masha-cooking-tortilla-pizza",
+                "image": "768",
+                "totalPlayed": 9272
+            },
+            {
+                "_id": "685287d2ecdffab01b01d66a",
+                "name": "Baby Rapunzel and Belle cooking Pizza",
+                "slug": "baby-rapunzel-and-belle-cooking-pizza",
+                "image": "769",
+                "totalPlayed": 17465
+            },
+            {
+                "_id": "685287d2ecdffab01b01d66b",
+                "name": "Cooking Delicious Chicken Pasta",
+                "slug": "cooking-delicious-chicken-pasta",
+                "image": "770",
+                "totalPlayed": 8302
+            },
+            {
+                "_id": "685287d2ecdffab01b01d66c",
+                "name": "Joy cooking Fresh Sandwich",
+                "slug": "joy-cooking-fresh-sandwich",
+                "image": "771",
+                "totalPlayed": 7912
+            },
+            {
+                "_id": "685287d2ecdffab01b01d66d",
+                "name": "Joy cooking Pancake Cake",
+                "slug": "joy-cooking-pancake-cake",
+                "image": "772",
+                "totalPlayed": 8177
+            },
+            {
+                "_id": "685287d2ecdffab01b01d66e",
+                "name": "Twilight Sparkle cooking Red Velvet Cake",
+                "slug": "twilight-sparkle-cooking-red-velvet-cake",
+                "image": "773",
+                "totalPlayed": 7715
+            },
+            {
+                "_id": "685287d2ecdffab01b01d66f",
+                "name": "Anna cooking Frozen Cake",
+                "slug": "anna-cooking-frozen-cake",
+                "image": "774",
+                "totalPlayed": 8620
+            },
+            {
+                "_id": "685287d2ecdffab01b01d670",
+                "name": "Baby Barbie cooking Cotton Candy",
+                "slug": "baby-barbie-cooking-cotton-candy",
+                "image": "775",
+                "totalPlayed": 9374
+            },
+            {
+                "_id": "685287d2ecdffab01b01d671",
+                "name": "Barbie Family cooking Barbecued Wings",
+                "slug": "barbie-family-cooking-barbecued-wings",
+                "image": "776",
+                "totalPlayed": 9171
+            },
+            {
+                "_id": "685287d2ecdffab01b01d672",
+                "name": "Barbie Family cooking Berry Pie",
+                "slug": "barbie-family-cooking-berry-pie",
+                "image": "777",
+                "totalPlayed": 8814
+            },
+            {
+                "_id": "685287d2ecdffab01b01d673",
+                "name": "Baby Rapunzel cooking Cake Balls",
+                "slug": "baby-rapunzel-cooking-cake-balls",
+                "image": "778",
+                "totalPlayed": 8321
+            },
+            {
+                "_id": "685287d2ecdffab01b01d674",
+                "name": "Elsa Bride cooking Wedding Dish",
+                "slug": "elsa-bride-cooking-wedding-dish",
+                "image": "779",
+                "totalPlayed": 7717
+            },
+            {
+                "_id": "685287d2ecdffab01b01d675",
+                "name": "Yuna Kitchen Chinese New Year Cake",
+                "slug": "yuna-kitchen-chinese-new-year-cake",
+                "image": "780",
+                "totalPlayed": 7942
+            },
+            {
+                "_id": "685287d2ecdffab01b01d676",
+                "name": "Minnie Mouse Cupcakes",
+                "slug": "minnie-mouse-cupcakes",
+                "image": "781",
+                "totalPlayed": 8671
+            },
+            {
+                "_id": "685287d2ecdffab01b01d677",
+                "name": "Cutezee Cooking Academy Elsa Cupcakes",
+                "slug": "cutezee-cooking-academy-elsa-cupcakes",
+                "image": "782",
+                "totalPlayed": 8083
+            },
+            {
+                "_id": "685287d2ecdffab01b01d63c",
+                "name": "Kung Pao Chicken Sara&#146;s Cooking Class",
+                "slug": "kung-pao-chicken-saras-cooking-class",
+                "image": "713",
+                "totalPlayed": 9923
+            },
+            {
+                "_id": "685287d2ecdffab01b01d63d",
+                "name": "Walnut Fudge Sara&#146;s Cooking Class",
+                "slug": "walnut-fudge-saras-cooking-class",
+                "image": "714",
+                "totalPlayed": 9165
+            },
+            {
+                "_id": "685287d2ecdffab01b01d63e",
+                "name": "Creepy Quesadillas Sara&#146;s Cooking Class",
+                "slug": "creepy-quesadillas-saras-cooking-class",
+                "image": "717",
+                "totalPlayed": 14466
+            },
+            {
+                "_id": "685287d2ecdffab01b01d63f",
+                "name": "Graveyard Cake Sara&#146;s Cooking Class",
+                "slug": "graveyard-cake-saras-cooking-class",
+                "image": "718",
+                "totalPlayed": 8801
+            },
+            {
+                "_id": "685287d2ecdffab01b01d640",
+                "name": "Popsicles Saras Cooking Class",
+                "slug": "popsicles-saras-cooking-class",
+                "image": "719",
+                "totalPlayed": 7314
+            },
+            {
+                "_id": "685287d2ecdffab01b01d641",
+                "name": "Banana Egg Tarts Saras Cooking Class",
+                "slug": "banana-egg-tarts-saras-cooking-class",
+                "image": "721",
+                "totalPlayed": 8114
+            },
+            {
+                "_id": "685287d2ecdffab01b01d642",
+                "name": "Strawberry Parfait Saras Cooking Class",
+                "slug": "strawberry-parfait-saras-cooking-class",
+                "image": "723",
+                "totalPlayed": 8135
+            },
+            {
+                "_id": "685287d2ecdffab01b01d643",
+                "name": "Glass Cookies Saras Cooking Class",
+                "slug": "glass-cookies-saras-cooking-class",
+                "image": "724",
+                "totalPlayed": 8560
+            },
+            {
+                "_id": "685287d2ecdffab01b01d644",
+                "name": "Christmas Snacks Saras Cooking Class",
+                "slug": "christmas-snacks-saras-cooking-class",
+                "image": "725",
+                "totalPlayed": 7977
+            },
+            {
+                "_id": "685287d2ecdffab01b01d645",
+                "name": "Rainbow Muffins Saras Cooking Class",
+                "slug": "rainbow-muffins-saras-cooking-class",
+                "image": "726",
+                "totalPlayed": 8391
+            },
+            {
+                "_id": "685287d2ecdffab01b01d646",
+                "name": "Pizza Burgers Sara&#146;s Cooking Class",
+                "slug": "pizza-burgers-saras-cooking-class",
+                "image": "727",
+                "totalPlayed": 9678
+            },
+            {
+                "_id": "685287d2ecdffab01b01d647",
+                "name": "Marshmellow Cuties Decoration",
+                "slug": "marshmellow-cuties-decoration",
+                "image": "728",
+                "totalPlayed": 7357
+            },
+            {
+                "_id": "685287d2ecdffab01b01d648",
+                "name": "My Cutesy Donut",
+                "slug": "my-cutesy-donut",
+                "image": "729",
+                "totalPlayed": 7862
+            },
+            {
+                "_id": "685287d2ecdffab01b01d649",
+                "name": "Ries Recipe Devils Food Cake",
+                "slug": "ries-recipe-devils-food-cake",
+                "image": "730",
+                "totalPlayed": 7998
+            },
+            {
+                "_id": "685287d2ecdffab01b01d64a",
+                "name": "Super Sweet Christmas Cake",
+                "slug": "super-sweet-christmas-cake",
+                "image": "731",
+                "totalPlayed": 7677
+            },
+            {
+                "_id": "685287d2ecdffab01b01d64b",
+                "name": "Princess Cooking Chicken Pasta",
+                "slug": "princess-cooking-chicken-pasta",
+                "image": "732",
+                "totalPlayed": 7327
+            },
+            {
+                "_id": "685287d2ecdffab01b01d64c",
+                "name": "Princesses Grill Party",
+                "slug": "princesses-grill-party",
+                "image": "733",
+                "totalPlayed": 7870
+            },
+            {
+                "_id": "685287d2ecdffab01b01d64d",
+                "name": "Princess Cooking Ice Cream",
+                "slug": "princess-cooking-ice-cream",
+                "image": "734",
+                "totalPlayed": 7609
+            },
+            {
+                "_id": "685287d2ecdffab01b01d64e",
+                "name": "Yummy Taco Cooking",
+                "slug": "yummy-taco-cooking",
+                "image": "735",
+                "totalPlayed": 8126
+            },
+            {
+                "_id": "685287d2ecdffab01b01d64f",
+                "name": "Annas Kitchen Zucchini Soup",
+                "slug": "annas-kitchen-zucchini-soup",
+                "image": "736",
+                "totalPlayed": 6884
+            },
+            {
+                "_id": "685287d2ecdffab01b01d650",
+                "name": "Rapunzel Chicken And Broccoli Alfredo",
+                "slug": "rapunzel-chicken-and-broccoli-alfredo",
+                "image": "737",
+                "totalPlayed": 7776
+            },
+            {
+                "_id": "685287d2ecdffab01b01d63b",
+                "name": "Spooky Cupcakes Sara&#146;s Cooking Class",
+                "slug": "spooky-cupcakes-saras-cooking-class",
+                "image": "692",
+                "totalPlayed": 9584
+            },
+            {
+                "_id": "685287d2ecdffab01b01d63a",
+                "name": "Owl Cake Sara Cooking Class",
+                "slug": "owl-cake-sara-cooking-class",
+                "image": "686",
+                "totalPlayed": 10085
+            },
+            {
+                "_id": "685287d2ecdffab01b01d62b",
+                "name": "Colorful Cotton Candy",
+                "slug": "colorful-cotton-candy",
+                "image": "659",
+                "totalPlayed": 9735
+            },
+            {
+                "_id": "685287d2ecdffab01b01d62c",
+                "name": "Desserts Cooking For Party",
+                "slug": "desserts-cooking-for-party",
+                "image": "660",
+                "totalPlayed": 8504
+            },
+            {
+                "_id": "685287d2ecdffab01b01d62d",
+                "name": "Fruit Chocolate Cake Cooking",
+                "slug": "fruit-chocolate-cake-cooking",
+                "image": "661",
+                "totalPlayed": 10164
+            },
+            {
+                "_id": "685287d2ecdffab01b01d62e",
+                "name": "Rainbow Macaroons Cooking",
+                "slug": "rainbow-macaroons-cooking",
+                "image": "662",
+                "totalPlayed": 7299
+            },
+            {
+                "_id": "685287d2ecdffab01b01d62f",
+                "name": "Ice Cream Donuts Cooking",
+                "slug": "ice-cream-donuts-cooking",
+                "image": "663",
+                "totalPlayed": 8364
+            },
+            {
+                "_id": "685287d2ecdffab01b01d630",
+                "name": "Unicorn Cake Cooking",
+                "slug": "unicorn-cake-cooking",
+                "image": "664",
+                "totalPlayed": 14588
+            },
+            {
+                "_id": "685287d2ecdffab01b01d631",
+                "name": "Animal Cupcakes for Kids",
+                "slug": "animal-cupcakes-for-kids",
+                "image": "665",
+                "totalPlayed": 13529
+            },
+            {
+                "_id": "685287d2ecdffab01b01d632",
+                "name": "Raisin Pudding: Sara&#146;s Cooking Class",
+                "slug": "raisin-pudding-saras-cooking-class",
+                "image": "666",
+                "totalPlayed": 9024
+            },
+            {
+                "_id": "685287d2ecdffab01b01d633",
+                "name": "Wedding Cupcakes: Sara&#146;s Cooking Class",
+                "slug": "wedding-cupcakes-saras-cooking-class",
+                "image": "667",
+                "totalPlayed": 9864
+            },
+            {
+                "_id": "685287d2ecdffab01b01d634",
+                "name": "Maple Salmon: Sara&#146;s Cooking Class",
+                "slug": "maple-salmon-saras-cooking-class",
+                "image": "668",
+                "totalPlayed": 8722
+            },
+            {
+                "_id": "685287d2ecdffab01b01d635",
+                "name": "Fruit Slush Punch: Sara&#146;s Cooking Class",
+                "slug": "fruit-slush-punch-saras-cooking-class",
+                "image": "669",
+                "totalPlayed": 9257
+            },
+            {
+                "_id": "685287d2ecdffab01b01d636",
+                "name": "Chicken Fajitas: Sara&#146;s Cooking Class",
+                "slug": "chicken-fajitas-saras-cooking-class",
+                "image": "670",
+                "totalPlayed": 9768
+            },
+            {
+                "_id": "685287d2ecdffab01b01d637",
+                "name": "Apple Beignets: Sara&#146;s Cooking Class",
+                "slug": "apple-beignets-saras-cooking-class",
+                "image": "671",
+                "totalPlayed": 9202
+            },
+            {
+                "_id": "685287d2ecdffab01b01d638",
+                "name": "Picnic Kabobs: Sara&#146;s Cooking Class",
+                "slug": "picnic-kabobs-saras-cooking-class",
+                "image": "672",
+                "totalPlayed": 9354
+            },
+            {
+                "_id": "685287d2ecdffab01b01d639",
+                "name": "Roasted Potatoes: Sara&#146;s Cooking Class",
+                "slug": "roasted-potatoes-saras-cooking-class",
+                "image": "673",
+                "totalPlayed": 9875
+            },
+            {
+                "_id": "685287d2ecdffab01b01d611",
+                "name": "Homemade Ice Cream Cooking",
+                "slug": "homemade-ice-cream-cooking",
+                "image": "626",
+                "totalPlayed": 16286
+            },
+            {
+                "_id": "685287d2ecdffab01b01d612",
+                "name": "Wedding Chef",
+                "slug": "wedding-chef",
+                "image": "627",
+                "totalPlayed": 16670
+            },
+            {
+                "_id": "685287d2ecdffab01b01d613",
+                "name": "Sandwich Baker",
+                "slug": "sandwich-baker",
+                "image": "628",
+                "totalPlayed": 18037
+            },
+            {
+                "_id": "685287d2ecdffab01b01d614",
+                "name": "Kids Donuts Challenge",
+                "slug": "kids-donuts-challenge",
+                "image": "629",
+                "totalPlayed": 10768
+            },
+            {
+                "_id": "685287d2ecdffab01b01d615",
+                "name": "Doll House Cake Cooking",
+                "slug": "doll-house-cake-cooking",
+                "image": "630",
+                "totalPlayed": 14965
+            },
+            {
+                "_id": "685287d2ecdffab01b01d616",
+                "name": "Baby Animal Cookies",
+                "slug": "baby-animal-cookies",
+                "image": "631",
+                "totalPlayed": 10386
+            },
+            {
+                "_id": "685287d2ecdffab01b01d617",
+                "name": "Pony Cooking Rainbow Cake",
+                "slug": "pony-cooking-rainbow-cake",
+                "image": "632",
+                "totalPlayed": 14931
+            },
+            {
+                "_id": "685287d2ecdffab01b01d618",
+                "name": "Princesses Cooking Contest",
+                "slug": "princesses-cooking-contest",
+                "image": "633",
+                "totalPlayed": 16171
+            },
+            {
+                "_id": "685287d2ecdffab01b01d619",
+                "name": "Ice Cream Sandwich Cake",
+                "slug": "ice-cream-sandwich-cake",
+                "image": "634",
+                "totalPlayed": 16504
+            },
+            {
+                "_id": "685287d2ecdffab01b01d61a",
+                "name": "Princess Fitness Diet",
+                "slug": "princess-fitness-diet",
+                "image": "635",
+                "totalPlayed": 11403
+            },
+            {
+                "_id": "685287d2ecdffab01b01d61b",
+                "name": "Toastellia",
+                "slug": "toastellia",
+                "image": "636",
+                "totalPlayed": 11185
+            },
+            {
+                "_id": "685287d2ecdffab01b01d61c",
+                "name": "Super Hero Cooking Contest",
+                "slug": "super-hero-cooking-contest",
+                "image": "637",
+                "totalPlayed": 11602
+            },
+            {
+                "_id": "685287d2ecdffab01b01d61d",
+                "name": "Cake Break",
+                "slug": "cake-break",
+                "image": "638",
+                "totalPlayed": 22916
+            },
+            {
+                "_id": "685287d2ecdffab01b01d61e",
+                "name": "Princess Donuts Shop",
+                "slug": "princess-donuts-shop",
+                "image": "641",
+                "totalPlayed": 12955
+            },
+            {
+                "_id": "685287d2ecdffab01b01d61f",
+                "name": "Ice Queen Royal Baker",
+                "slug": "ice-queen-royal-baker",
+                "image": "642",
+                "totalPlayed": 16296
+            },
+            {
+                "_id": "685287d2ecdffab01b01d620",
+                "name": "Cooking Contest",
+                "slug": "cooking-contest",
+                "image": "643",
+                "totalPlayed": 12077
+            },
+            {
+                "_id": "685287d2ecdffab01b01d621",
+                "name": "Bake Time Pizzas",
+                "slug": "bake-time-pizzas",
+                "image": "644",
+                "totalPlayed": 19879
+            },
+            {
+                "_id": "685287d2ecdffab01b01d622",
+                "name": "Annie Cooking Donuts",
+                "slug": "annie-cooking-donuts",
+                "image": "645",
+                "totalPlayed": 15256
+            },
+            {
+                "_id": "685287d2ecdffab01b01d623",
+                "name": "Cooking After Workout",
+                "slug": "cooking-after-workout",
+                "image": "646",
+                "totalPlayed": 12319
+            },
+            {
+                "_id": "685287d2ecdffab01b01d624",
+                "name": "Strawberry Delicious Boutique!",
+                "slug": "strawberry-delicious-boutique",
+                "image": "647",
+                "totalPlayed": 11241
+            },
+            {
+                "_id": "685287d2ecdffab01b01d625",
+                "name": "Bake Time Hot Dogs",
+                "slug": "bake-time-hot-dogs",
+                "image": "648",
+                "totalPlayed": 12380
+            },
+            {
+                "_id": "685287d2ecdffab01b01d626",
+                "name": "Eliza Donuts Shop",
+                "slug": "eliza-donuts-shop",
+                "image": "649",
+                "totalPlayed": 13186
+            },
+            {
+                "_id": "685287d2ecdffab01b01d627",
+                "name": "Princess Sisters Special Day",
+                "slug": "princess-sisters-special-day",
+                "image": "650",
+                "totalPlayed": 13377
+            },
+            {
+                "_id": "685287d2ecdffab01b01d628",
+                "name": "Princess Wedding Cake",
+                "slug": "princess-wedding-cake",
+                "image": "651",
+                "totalPlayed": 13899
+            },
+            {
+                "_id": "685287d2ecdffab01b01d629",
+                "name": "Princesses Burger Cooking",
+                "slug": "princesses-burger-cooking",
+                "image": "652",
+                "totalPlayed": 14696
+            },
+            {
+                "_id": "685287d2ecdffab01b01d62a",
+                "name": "Dede Burger Fun",
+                "slug": "dede-burger-fun",
+                "image": "653",
+                "totalPlayed": 14583
+            },
+            {
+                "_id": "685287d2ecdffab01b01d60b",
+                "name": "Easter Cookies",
+                "slug": "easter-cookies",
+                "image": "618",
+                "totalPlayed": 11344
+            },
+            {
+                "_id": "685287d2ecdffab01b01d60c",
+                "name": "Princess Easter Egg Decoration",
+                "slug": "princess-easter-egg-decoration",
+                "image": "619",
+                "totalPlayed": 9552
+            },
+            {
+                "_id": "685287d2ecdffab01b01d60d",
+                "name": "Spooky Halloween Ice Cream",
+                "slug": "spooky-halloween-ice-cream",
+                "image": "620",
+                "totalPlayed": 10328
+            },
+            {
+                "_id": "685287d2ecdffab01b01d60e",
+                "name": "Halloween Party Cake",
+                "slug": "halloween-party-cake",
+                "image": "621",
+                "totalPlayed": 9857
+            },
+            {
+                "_id": "685287d2ecdffab01b01d60f",
+                "name": "Cupcakes Chef",
+                "slug": "cupcakes-chef",
+                "image": "622",
+                "totalPlayed": 17364
+            },
+            {
+                "_id": "685287d2ecdffab01b01d610",
+                "name": "Ice-O-Matik",
+                "slug": "ice-o-matik",
+                "image": "623",
+                "totalPlayed": 8026
+            },
+            {
+                "_id": "685287d2ecdffab01b01d60a",
+                "name": "Pizza Realife Cooking",
+                "slug": "pizza-realife-cooking",
+                "image": "617",
+                "totalPlayed": 97194
+            },
+            {
+                "_id": "685287d2ecdffab01b01d608",
+                "name": "Cake Decorator",
+                "slug": "cake-decorator",
+                "image": "613",
+                "totalPlayed": 10210
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5e9",
+                "name": "Papa&#146;s Taco Mia",
+                "slug": "papas-taco-mia",
+                "image": "566",
+                "totalPlayed": 12214
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5e8",
+                "name": "Papa’s Pancakeria",
+                "slug": "papas-pancakeria",
+                "image": "565",
+                "totalPlayed": 11906
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5e7",
+                "name": "Papaâ€™s Hot Doggeria",
+                "slug": "papas-hot-doggeria",
+                "image": "564",
+                "totalPlayed": 11628
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5e6",
+                "name": "Papa&#146;s Freezeria",
+                "slug": "papas-freezeria",
+                "image": "563",
+                "totalPlayed": 14003
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5e5",
+                "name": "Papa&#146;s Cupcakeria",
+                "slug": "papas-cupcakeria",
+                "image": "562",
+                "totalPlayed": 19896
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5e4",
+                "name": "Papa&#146;s Pastaria",
+                "slug": "papas-pastaria",
+                "image": "561",
+                "totalPlayed": 11276
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5e2",
+                "name": "Papa&#146;s Donuterias",
+                "slug": "papas-donuterias",
+                "image": "559",
+                "totalPlayed": 11265
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5df",
+                "name": "Papa&#146;s Cheeseria",
+                "slug": "papa-cheeseria",
+                "image": "556",
+                "totalPlayed": 11447
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5de",
+                "name": "Papa&#146;s Bakeria",
+                "slug": "papa-bakeria",
+                "image": "555",
+                "totalPlayed": 11863
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5dd",
+                "name": "Papa&#146;s Sushiria",
+                "slug": "papa-sushiria",
+                "image": "554",
+                "totalPlayed": 10985
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5da",
+                "name": "Papa&#146;s Burgeria",
+                "slug": "papa-burgeria",
+                "image": "550",
+                "totalPlayed": 13243
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5d9",
+                "name": "French Apple Pie",
+                "slug": "french-apple-pie",
+                "image": "548",
+                "totalPlayed": 13987
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5cd",
+                "name": "Rachel Kitchen Grand Prix",
+                "slug": "rachel-kitchen-grand-prix",
+                "image": "529",
+                "totalPlayed": 9171
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5cc",
+                "name": "Devilish Cooking",
+                "slug": "devilish-cooking",
+                "image": "528",
+                "totalPlayed": 11602
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5c7",
+                "name": "Sara&#146;s Halloween Cupcakes",
+                "slug": "sara-halloween-cupcakes",
+                "image": "523",
+                "totalPlayed": 15038
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5c6",
+                "name": "Sara&#146;s Pineapple Cake",
+                "slug": "sara-pineapple-cake",
+                "image": "522",
+                "totalPlayed": 14558
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5c5",
+                "name": "Sara&#146;s Key Lime Pie",
+                "slug": "sara-key-lime-pie",
+                "image": "521",
+                "totalPlayed": 8486
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5c4",
+                "name": "Spongebob Pizza Restaurant",
+                "slug": "spongebob-pizza-restaurant",
+                "image": "520",
+                "totalPlayed": 20940
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5bb",
+                "name": "Emily&#146;s New Beginning",
+                "slug": "emily-new-beginning",
+                "image": "511",
+                "totalPlayed": 16407
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5ba",
+                "name": "Emily&#146;s Home Sweet Home",
+                "slug": "emily-home-sweet-home",
+                "image": "510",
+                "totalPlayed": 14177
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5af",
+                "name": "Anna Wedding Cake And Decor",
+                "slug": "anna-wedding-cake-and-decor",
+                "image": "499",
+                "totalPlayed": 21282
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5ad",
+                "name": "Pizza Party",
+                "slug": "pizza-party",
+                "image": "497",
+                "totalPlayed": 22159
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5ab",
+                "name": "Emily Hopes And Fears",
+                "slug": "emily-hopes-and-fears",
+                "image": "494",
+                "totalPlayed": 17842
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5a2",
+                "name": "Pizza Margherita",
+                "slug": "pizza-margherita",
+                "image": "485",
+                "totalPlayed": 18468
+            },
+            {
+                "_id": "685287d2ecdffab01b01d59c",
+                "name": "Cooking Super Girls",
+                "slug": "cooking-super-girls",
+                "image": "479",
+                "totalPlayed": 17910
+            },
+            {
+                "_id": "685287d2ecdffab01b01d59a",
+                "name": "Creamy Ice",
+                "slug": "creamy-ice",
+                "image": "477",
+                "totalPlayed": 19160
+            },
+            {
+                "_id": "685287d2ecdffab01b01d592",
+                "name": "Italian Tiramisu",
+                "slug": "italian-tiramisu",
+                "image": "469",
+                "totalPlayed": 14089
+            },
+            {
+                "_id": "685287d2ecdffab01b01d589",
+                "name": "Superhero Pizza",
+                "slug": "superhero-pizza",
+                "image": "460",
+                "totalPlayed": 10070
+            },
+            {
+                "_id": "685287d2ecdffab01b01d587",
+                "name": "Sara&#146;s Pizza Tricolore",
+                "slug": "sara-pizza-tricolore",
+                "image": "458",
+                "totalPlayed": 10350
+            },
+            {
+                "_id": "685287d2ecdffab01b01d586",
+                "name": "Sara&#146;s Rhubarb Pie",
+                "slug": "sara-rhubarb-pie",
+                "image": "457",
+                "totalPlayed": 9597
+            },
+            {
+                "_id": "685287d2ecdffab01b01d585",
+                "name": "Sara Napoleon Pastries",
+                "slug": "sara-napoleon-pastries",
+                "image": "455",
+                "totalPlayed": 7664
+            },
+            {
+                "_id": "685287d2ecdffab01b01d584",
+                "name": "Ice Cream Puff Sara",
+                "slug": "ice-cream-puff-sara",
+                "image": "454",
+                "totalPlayed": 8939
+            },
+            {
+                "_id": "685287d2ecdffab01b01d583",
+                "name": "Cooking Vanilla Ice Cream",
+                "slug": "cooking-vanilla-ice-cream",
+                "image": "453",
+                "totalPlayed": 13523
+            },
+            {
+                "_id": "685287d2ecdffab01b01d582",
+                "name": "Monkey Cake Sara Cooking Class",
+                "slug": "monkey-cake-sara-cooking-class",
+                "image": "452",
+                "totalPlayed": 11032
+            },
+            {
+                "_id": "685287d2ecdffab01b01d581",
+                "name": "Empanadas Sara Cooking Class",
+                "slug": "empanadas-sara-cooking-class",
+                "image": "451",
+                "totalPlayed": 12782
+            },
+            {
+                "_id": "685287d2ecdffab01b01d57f",
+                "name": "Burger Time",
+                "slug": "burger-time",
+                "image": "444",
+                "totalPlayed": 59049
+            },
+            {
+                "_id": "685287d2ecdffab01b01d565",
+                "name": "Burger Shop",
+                "slug": "burger-shop",
+                "image": "261",
+                "totalPlayed": 34197
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017ded",
+            "id": 42,
+            "name": "cooking",
+            "parent": {
+                "_id": "685287b2ecdffab01b017e14",
+                "name": "girls",
+                "slug": "girls"
+            },
+            "slug": "cooking",
+            "icon": "cooking-games",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 1,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.819Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>Dive into the World of Online Cooking Games and Delight Your Inner Chef! </h4>\n<p class=\"text_desc\">If you love cooking, it’s normal to browse the internet in a search of some extremely delicious food recipes. And it becomes easy to learn when such activities take place with the help of cooking games. In order to respect your immense cooking learning and fun desires, we are happy to bring you closer to the widest collection of online HTML5 cooking games.</p>\n<p class=\"text_desc\">Choose anything between the best single-player, two player or multiplayer cooking games and allow yourself to enjoy the best culinary experience without downloads. Join the simple yet exciting cooking show and play instantly anytime anywhere, experiencing the thrill of the kitchen in our exclusive selection of the best cooking games available online for free!</p>\n<p class=\"text_desc\">Whether you are a seasoned chef or a beginner in the kitchen, our array of interactive and engaging cooking games is designed to ignite your passion for culinary adventures.</p>\n<h4>Sara's Cooking Class: </h4>\n<p class=\"text_desc\">Learn cooking from the best as you get the state-of-the-art virtual kitchen expertise with Sara's Cooking Class series. From mastering the art of baking cupcakes to preparing savoury dishes right from your heart, follow Sara's guidance step-by-step to create mouth-watering recipes.\n<h4>Cake Maker Cooking Games: </h4>\nAre you ready to unleash your inner pastry chef? So, do not waste your time and dive into the cake maker cooking games, where you can design, bake, and decorate delectable cakes from scratch. Customize layers, toppings, and flavours to create the cake of your dreams.</p>\n<h4>Papa's Cooking Games: </h4>\n<p class=\"text_desc\">Join the most popular character Papa in his bustling restaurant ventures when you decide to play restaurant cooking games! Manage cooking stations, serve hungry customers, and strive for culinary excellence in various cuisines. From pizzas to burgers, Papa's cooking games are meant for offering a diverse and thrilling food making and serving experience.</p>\n<h4>Barbie Cooking Adventures: </h4>\n<p class=\"text_desc\">Who would like to miss out to go on a culinary journey with Barbie? Our Barbie cooking games for girls cater to young chefs, offering fun-filled cooking sessions with your favourite doll and her friends. Feel free to experiment with recipes, design the perfect dining experience, and unleash your creativity.</p>\n<h4>What You Can Do in Our Free Cooking Games? </h4>\n<ul>\n    <li>\nCreate mouth-watering recipes using interactive controls. </li>\n<li>Learn real-life cooking techniques and recipes. </li>\n<li>Explore diverse cuisines from around the world. </li>\n<li>Enhance time management skills in restaurant-themed games. </li>\n<li>Customize dishes, cakes, and desserts to your liking. </li></ul>\n<p class=\"text_desc\">Delve into our world of cooking games, where entertainment meets culinary learning. With a wide range of options, including cooking games for girls, kids, and enthusiasts of all ages, Atmegame.com invites you to explore, create, and savour the joy of cooking virtually. Join us and let your inner chef shine!</p>\n\n<h4>Frequently Asked Questions (FAQs): </h4>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. Are these cooking games suitable for all age groups? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<p class=\"text_desc\" itemprop=\"text\">A1. Absolutely! Our collection includes games tailored for various age ranges, ensuring everyone, from kids to grown-ups, can enjoy the fun of cooking.</p>\n </div>\n    </div>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q2. Can I play these cooking games on mobile devices? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<p class=\"text_desc\" itemprop=\"text\">A2. Yes, Atmegame.com offers mobile-compatible games, allowing you to enjoy cooking adventures on your smartphone or tablet hassle-free.</p>\n</div>\n    </div>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q3. What are the best online cooking games you can play for free on atmegame.com? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n <div itemprop=\"text\">\n<p class=\"text_desc\">A3.  Our best cooking games are not meant for girls only, but boys can also try them out to learn and have fun, no download required. Some of our top cooking games are:</p>\n<ul class=\"gameDescUL\">\n    <li>\nPizza Hunter Crazy Chef</li>\n<li>Cooking Fast Hotdogs And Burgers Craze</li>\n<li>Pony Ice Cream Cone</li>\n<li>Cooking Scene</li>\n<li>BFF Traditional Thanksgiving Turkey</li>\n<li>Cooking Battle</li>\n<li>Boys Cooking Challenge</li>\n<li>Happy Dessert</li>\n<li>Breakfast Time</li></ul>\n</div>\n    </div>\n    </div>",
+            "metaTitle": "Cooking Games for Girls, Food, Play Online Barbie Cooking Games Free, HTML5  : Atmegame.com",
+            "metaDesc": "Some of the best browser cooking games online available to entertain as well teach girls to prepare the cuisines and dishes of their choice and opinion",
+            "metaKeyword": "cooking games, play online cooking games, play cooking games, free games,  online cooking games,  girls games, kitchen, food"
+        }
+    }
+}
