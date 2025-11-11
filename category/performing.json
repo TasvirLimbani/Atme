@@ -1,0 +1,56 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01e239",
+                "name": "Cliff Diving",
+                "slug": "cliff-diving",
+                "image": "4139",
+                "totalPlayed": 19721
+            },
+            {
+                "_id": "685287d2ecdffab01b01e215",
+                "name": "Wrestle Jump",
+                "slug": "wrestle-jump",
+                "image": "4103",
+                "totalPlayed": 19070
+            },
+            {
+                "_id": "685287d2ecdffab01b01e13e",
+                "name": "100 Meters Race",
+                "slug": "100-meters-race",
+                "image": "3877",
+                "totalPlayed": 136032
+            },
+            {
+                "_id": "685287d2ecdffab01b01dff7",
+                "name": "Mexican Wrestler Superstars",
+                "slug": "mexican-wrestler-superstars",
+                "image": "3517",
+                "totalPlayed": 14488
+            },
+            {
+                "_id": "685287d2ecdffab01b01d816",
+                "name": "Pro Gym",
+                "slug": "pro-gym",
+                "image": "1273",
+                "totalPlayed": 30281
+            },
+            {
+                "_id": "685287d2ecdffab01b01d821",
+                "name": "Pet Sports",
+                "slug": "pet-sports",
+                "image": "1286",
+                "totalPlayed": 14869
+            },
+            {
+                "_id": "685287d2ecdffab01b01d4fb",
+                "name": "Sports Academy",
+                "slug": "sports-academy",
+                "image": "143",
+                "totalPlayed": 11385
+            }
+        ]
+    }
+}
