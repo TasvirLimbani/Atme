@@ -1,0 +1,294 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01e742",
+                "name": "Legends Basketball Stars",
+                "slug": "legends-basketball-stars",
+                "image": "5460",
+                "totalPlayed": 9893
+            },
+            {
+                "_id": "685287d2ecdffab01b01e71f",
+                "name": "Arcade Basketball",
+                "slug": "arcade-basketball",
+                "image": "5422",
+                "totalPlayed": 10549
+            },
+            {
+                "_id": "685287d2ecdffab01b01e729",
+                "name": "Space Hoops",
+                "slug": "space-hoops",
+                "image": "5433",
+                "totalPlayed": 8963
+            },
+            {
+                "_id": "685287d2ecdffab01b01e72e",
+                "name": "Dude Basket",
+                "slug": "dude-basket",
+                "image": "5438",
+                "totalPlayed": 10979
+            },
+            {
+                "_id": "685287d2ecdffab01b01e730",
+                "name": "Ketchapp Basketball",
+                "slug": "ketchapp-basketball",
+                "image": "5440",
+                "totalPlayed": 12884
+            },
+            {
+                "_id": "685287d2ecdffab01b01e734",
+                "name": "Bounce Dunk",
+                "slug": "bounce-dunk",
+                "image": "5444",
+                "totalPlayed": 16349
+            },
+            {
+                "_id": "685287d2ecdffab01b01e735",
+                "name": "Basketball Street",
+                "slug": "basketball-street",
+                "image": "5445",
+                "totalPlayed": 17631
+            },
+            {
+                "_id": "685287d2ecdffab01b01e4e1",
+                "name": "Basket Training",
+                "slug": "basket-training",
+                "image": "4830",
+                "totalPlayed": 9130
+            },
+            {
+                "_id": "685287d2ecdffab01b01e4e2",
+                "name": "Street Shot",
+                "slug": "street-shot",
+                "image": "4831",
+                "totalPlayed": 9730
+            },
+            {
+                "_id": "685287d2ecdffab01b01e4e3",
+                "name": "Basketball",
+                "slug": "basketball",
+                "image": "4832",
+                "totalPlayed": 90605
+            },
+            {
+                "_id": "685287d2ecdffab01b01e4e5",
+                "name": "EBasket Ball",
+                "slug": "e-basket-ball",
+                "image": "4834",
+                "totalPlayed": 12193
+            },
+            {
+                "_id": "685287d2ecdffab01b01e4dc",
+                "name": "Basketball Brick Breaking",
+                "slug": "basketball-brick-breaking",
+                "image": "4825",
+                "totalPlayed": 8190
+            },
+            {
+                "_id": "685287d2ecdffab01b01e23c",
+                "name": "Basket Ball Challenge Flick The Ball",
+                "slug": "basket-ball-challenge-flick-the-ball",
+                "image": "4142",
+                "totalPlayed": 11048
+            },
+            {
+                "_id": "685287d2ecdffab01b01e23d",
+                "name": "Finger Basketball",
+                "slug": "finger-basketball",
+                "image": "4143",
+                "totalPlayed": 8761
+            },
+            {
+                "_id": "685287d2ecdffab01b01e23e",
+                "name": "Ultimate Swish Game",
+                "slug": "ultimate-swish-game",
+                "image": "4145",
+                "totalPlayed": 10944
+            },
+            {
+                "_id": "685287d2ecdffab01b01e23f",
+                "name": "Super Basketball",
+                "slug": "super-basketball",
+                "image": "4146",
+                "totalPlayed": 8105
+            },
+            {
+                "_id": "685287d2ecdffab01b01e242",
+                "name": "Dunk Hit",
+                "slug": "dunk-hit",
+                "image": "4151",
+                "totalPlayed": 9566
+            },
+            {
+                "_id": "685287d2ecdffab01b01e218",
+                "name": "2D Crazy Basketball",
+                "slug": "2d-crazy-basketball",
+                "image": "4106",
+                "totalPlayed": 10164
+            },
+            {
+                "_id": "685287d2ecdffab01b01e21f",
+                "name": "Flying Ball",
+                "slug": "flying-ball",
+                "image": "4113",
+                "totalPlayed": 9064
+            },
+            {
+                "_id": "685287d2ecdffab01b01e228",
+                "name": "Basketball Machine Gun",
+                "slug": "basketball-machine-gun",
+                "image": "4122",
+                "totalPlayed": 8370
+            },
+            {
+                "_id": "685287d2ecdffab01b01e22b",
+                "name": "Dunk Shot",
+                "slug": "dunk-shot",
+                "image": "4125",
+                "totalPlayed": 10345
+            },
+            {
+                "_id": "685287d2ecdffab01b01e231",
+                "name": "Basket Ball Run",
+                "slug": "basket-ball-run",
+                "image": "4131",
+                "totalPlayed": 9660
+            },
+            {
+                "_id": "685287d2ecdffab01b01e0f7",
+                "name": "Basket Fall 2",
+                "slug": "basket-fall-2",
+                "image": "3800",
+                "totalPlayed": 9186
+            },
+            {
+                "_id": "685287d2ecdffab01b01e13f",
+                "name": "Ultimate Swish",
+                "slug": "ultimate-swish",
+                "image": "3879",
+                "totalPlayed": 29074
+            },
+            {
+                "_id": "685287d2ecdffab01b01e14e",
+                "name": "Perfect Fall",
+                "slug": "perfect-fall",
+                "image": "3895",
+                "totalPlayed": 8777
+            },
+            {
+                "_id": "685287d2ecdffab01b01e179",
+                "name": "Basketball Master",
+                "slug": "basketball-master",
+                "image": "3943",
+                "totalPlayed": 9070
+            },
+            {
+                "_id": "685287d2ecdffab01b01e01e",
+                "name": "Super Dunk Line 2",
+                "slug": "super-dunk-line-2",
+                "image": "3564",
+                "totalPlayed": 8023
+            },
+            {
+                "_id": "685287d2ecdffab01b01dfd9",
+                "name": "Gravity Linez",
+                "slug": "gravity-linez",
+                "image": "3487",
+                "totalPlayed": 11670
+            },
+            {
+                "_id": "685287d2ecdffab01b01dca6",
+                "name": "Basketball School",
+                "slug": "basketball-school",
+                "image": "2612",
+                "totalPlayed": 9506
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc00",
+                "name": "Basketball Shots",
+                "slug": "basketball-shots",
+                "image": "2432",
+                "totalPlayed": 10178
+            },
+            {
+                "_id": "685287d2ecdffab01b01dbeb",
+                "name": "Basket Fall",
+                "slug": "basket-fall",
+                "image": "2410",
+                "totalPlayed": 8919
+            },
+            {
+                "_id": "685287d2ecdffab01b01dbe8",
+                "name": "FreeThrowio",
+                "slug": "freethrowio",
+                "image": "2404",
+                "totalPlayed": 8898
+            },
+            {
+                "_id": "685287d2ecdffab01b01da89",
+                "name": "Trick Hoops Puzzle Edition",
+                "slug": "trick-hoops-puzzle-edition",
+                "image": "2009",
+                "totalPlayed": 16913
+            },
+            {
+                "_id": "685287d2ecdffab01b01d86a",
+                "name": "Bouncy Ball",
+                "slug": "bouncy-ball",
+                "image": "1368",
+                "totalPlayed": 18761
+            },
+            {
+                "_id": "685287d2ecdffab01b01d814",
+                "name": "Swipe Basketball",
+                "slug": "swipe-basketball",
+                "image": "1271",
+                "totalPlayed": 11597
+            },
+            {
+                "_id": "685287d2ecdffab01b01d819",
+                "name": "Basket Pinball",
+                "slug": "basket-pinball",
+                "image": "1276",
+                "totalPlayed": 11343
+            },
+            {
+                "_id": "685287d2ecdffab01b01d80f",
+                "name": "3 Point Rush",
+                "slug": "3-point-rush",
+                "image": "1264",
+                "totalPlayed": 14039
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5a1",
+                "name": "Basket & Ball",
+                "slug": "basket-ball",
+                "image": "484",
+                "totalPlayed": 12813
+            },
+            {
+                "_id": "685287d2ecdffab01b01d590",
+                "name": "Basket Champs",
+                "slug": "basket-champs",
+                "image": "467",
+                "totalPlayed": 19220
+            },
+            {
+                "_id": "685287d2ecdffab01b01d4eb",
+                "name": "Basketball Scorer",
+                "slug": "basketball-scorer",
+                "image": "127",
+                "totalPlayed": 13896
+            },
+            {
+                "_id": "685287d2ecdffab01b01d4e9",
+                "name": "Slam Dunk Mania",
+                "slug": "slam-dunk-mania",
+                "image": "124",
+                "totalPlayed": 12097
+            }
+        ]
+    }
+}
