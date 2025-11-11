@@ -1,0 +1,550 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01ea7e",
+                "name": "Cyber Slashman",
+                "slug": "cyber-slashman",
+                "image": "6520",
+                "totalPlayed": 213567
+            },
+            {
+                "_id": "685287d2ecdffab01b01e993",
+                "name": "Stick Warrior Action Game",
+                "slug": "stick-warrior--action-game",
+                "image": "6222",
+                "totalPlayed": 14477
+            },
+            {
+                "_id": "685287d2ecdffab01b01e99c",
+                "name": "Stickman Fighter Mega Brawl",
+                "slug": "stickman-fighter--mega-brawl",
+                "image": "6234",
+                "totalPlayed": 20354
+            },
+            {
+                "_id": "685287d2ecdffab01b01e99d",
+                "name": "Monster Maze Runner",
+                "slug": "monster-maze-runner",
+                "image": "6235",
+                "totalPlayed": 10283
+            },
+            {
+                "_id": "685287d2ecdffab01b01e90d",
+                "name": "Street Fight King of the Gang",
+                "slug": "street-fight-king-of-the-gang",
+                "image": "6056",
+                "totalPlayed": 13146
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8ed",
+                "name": "Black Knight 2",
+                "slug": "black-knight-2",
+                "image": "6022",
+                "totalPlayed": 8783
+            },
+            {
+                "_id": "685287d2ecdffab01b01e85c",
+                "name": "Robot Hero City Simulator 3D",
+                "slug": "robot-hero-city-simulator-3d",
+                "image": "5789",
+                "totalPlayed": 8394
+            },
+            {
+                "_id": "685287d2ecdffab01b01e861",
+                "name": "Rome Simulator",
+                "slug": "rome-simulator",
+                "image": "5794",
+                "totalPlayed": 7754
+            },
+            {
+                "_id": "685287d2ecdffab01b01e863",
+                "name": "Kung Fu Street",
+                "slug": "kung-fu-street",
+                "image": "5796",
+                "totalPlayed": 9249
+            },
+            {
+                "_id": "685287d2ecdffab01b01e856",
+                "name": "Kung Fu Street 2",
+                "slug": "kung-fu-street-2",
+                "image": "5781",
+                "totalPlayed": 7783
+            },
+            {
+                "_id": "685287d2ecdffab01b01e85b",
+                "name": "Monster City",
+                "slug": "monster-city",
+                "image": "5786",
+                "totalPlayed": 8871
+            },
+            {
+                "_id": "685287d2ecdffab01b01e846",
+                "name": "EG Karate",
+                "slug": "eg-karate",
+                "image": "5759",
+                "totalPlayed": 13773
+            },
+            {
+                "_id": "685287d2ecdffab01b01e81b",
+                "name": "Street Fighter Madness",
+                "slug": "street-fighter-madness",
+                "image": "5710",
+                "totalPlayed": 13171
+            },
+            {
+                "_id": "685287d2ecdffab01b01e821",
+                "name": "Oil Wrestling",
+                "slug": "oil-wrestling",
+                "image": "5716",
+                "totalPlayed": 7472
+            },
+            {
+                "_id": "685287d2ecdffab01b01e7ce",
+                "name": "Jacks Village",
+                "slug": "jacks-village",
+                "image": "5619",
+                "totalPlayed": 6989
+            },
+            {
+                "_id": "685287d2ecdffab01b01e7c0",
+                "name": "Black Meow ninja",
+                "slug": "black-meow-ninja",
+                "image": "5604",
+                "totalPlayed": 15683
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6df",
+                "name": "Linker Hero",
+                "slug": "linker-hero",
+                "image": "5355",
+                "totalPlayed": 8856
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6a8",
+                "name": "Extreme Way",
+                "slug": "extreme-way",
+                "image": "5298",
+                "totalPlayed": 8076
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6af",
+                "name": "Black Knight",
+                "slug": "black-knight",
+                "image": "5305",
+                "totalPlayed": 12441
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6b3",
+                "name": "Streets Rage Fight",
+                "slug": "streets-rage-fight",
+                "image": "5309",
+                "totalPlayed": 10615
+            },
+            {
+                "_id": "685287d2ecdffab01b01e696",
+                "name": "Stickman Warriors",
+                "slug": "stickman-warriors",
+                "image": "5280",
+                "totalPlayed": 13400
+            },
+            {
+                "_id": "685287d2ecdffab01b01e67d",
+                "name": "Gladiator Simulator",
+                "slug": "gladiator-simulator",
+                "image": "5255",
+                "totalPlayed": 8160
+            },
+            {
+                "_id": "685287d2ecdffab01b01e68f",
+                "name": "Horse Riding Simulator",
+                "slug": "horse-riding-simulator",
+                "image": "5273",
+                "totalPlayed": 8721
+            },
+            {
+                "_id": "685287d2ecdffab01b01e691",
+                "name": "Stickman Ninja Dash",
+                "slug": "stickman-ninja-dash",
+                "image": "5275",
+                "totalPlayed": 8573
+            },
+            {
+                "_id": "685287d2ecdffab01b01e695",
+                "name": "Nighty Knight",
+                "slug": "nighty-knight",
+                "image": "5279",
+                "totalPlayed": 8070
+            },
+            {
+                "_id": "685287d2ecdffab01b01e625",
+                "name": "Dragon Fighter",
+                "slug": "dragon-fighter",
+                "image": "5161",
+                "totalPlayed": 14738
+            },
+            {
+                "_id": "685287d2ecdffab01b01e27b",
+                "name": "Silent Insanity PT Psychological Trauma",
+                "slug": "silent-insanity-pt-psychological-trauma",
+                "image": "4208",
+                "totalPlayed": 7040
+            },
+            {
+                "_id": "685287d2ecdffab01b01e287",
+                "name": "Heros Journey",
+                "slug": "heros-journey",
+                "image": "4221",
+                "totalPlayed": 8371
+            },
+            {
+                "_id": "685287d2ecdffab01b01e291",
+                "name": "Valiant Knight",
+                "slug": "valiant-knight",
+                "image": "4231",
+                "totalPlayed": 10210
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1dd",
+                "name": "Samurai Fighter",
+                "slug": "samurai-fighter",
+                "image": "4046",
+                "totalPlayed": 14171
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1e4",
+                "name": "Stickman Punch",
+                "slug": "stickman-punch",
+                "image": "4053",
+                "totalPlayed": 9872
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1e5",
+                "name": "Wars of Worlds",
+                "slug": "wars-of-worlds",
+                "image": "4054",
+                "totalPlayed": 10343
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1f0",
+                "name": "Kung Fruit Fighting",
+                "slug": "kung-fruit-fighting",
+                "image": "4065",
+                "totalPlayed": 8420
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1f1",
+                "name": "Fantasy Battles",
+                "slug": "fantasy-battles",
+                "image": "4066",
+                "totalPlayed": 9741
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1f4",
+                "name": "Warriors League",
+                "slug": "warriors-league",
+                "image": "4069",
+                "totalPlayed": 8078
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1f5",
+                "name": "Age of Quest",
+                "slug": "age-of-quest",
+                "image": "4070",
+                "totalPlayed": 9655
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1ff",
+                "name": "BigHero.io",
+                "slug": "bigheroio",
+                "image": "4080",
+                "totalPlayed": 9860
+            },
+            {
+                "_id": "685287d2ecdffab01b01e140",
+                "name": "Ultimate Boxing",
+                "slug": "ultimate-boxing",
+                "image": "3880",
+                "totalPlayed": 53268
+            },
+            {
+                "_id": "685287d2ecdffab01b01e042",
+                "name": "Super Robo Fighter 2",
+                "slug": "super-robo-fighter-2",
+                "image": "3602",
+                "totalPlayed": 10630
+            },
+            {
+                "_id": "685287d2ecdffab01b01e014",
+                "name": "Slenderman VS Freddy The Fazbear",
+                "slug": "slenderman-vs-freddy-the-fazbear",
+                "image": "3554",
+                "totalPlayed": 9831
+            },
+            {
+                "_id": "685287d2ecdffab01b01e015",
+                "name": "Viking Brawl",
+                "slug": "viking-brawl",
+                "image": "3555",
+                "totalPlayed": 8169
+            },
+            {
+                "_id": "685287d2ecdffab01b01e020",
+                "name": "Super Robo fighter 3",
+                "slug": "super-robo-fighter-3",
+                "image": "3566",
+                "totalPlayed": 11025
+            },
+            {
+                "_id": "685287d2ecdffab01b01e003",
+                "name": "Kung Fu Fight  Beat em up",
+                "slug": "kung-fu-fight--beat-em-up",
+                "image": "3529",
+                "totalPlayed": 30927
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc48",
+                "name": "Samurai Showdown",
+                "slug": "samurai-showdown",
+                "image": "2515",
+                "totalPlayed": 6904
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc60",
+                "name": "Grand Action Crime New York Car Gang",
+                "slug": "grand-action-crime-new-york-car-gang",
+                "image": "2540",
+                "totalPlayed": 11998
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc62",
+                "name": "Glory Warrior Lord of Darkness",
+                "slug": "glory-warrior-lord-of-darkness",
+                "image": "2542",
+                "totalPlayed": 7873
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc72",
+                "name": "Real Strike Tiger Fighting",
+                "slug": "real-strike-tiger-fighting",
+                "image": "2558",
+                "totalPlayed": 12819
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc78",
+                "name": "Nightmares of Residents",
+                "slug": "nightmares-of-residents",
+                "image": "2565",
+                "totalPlayed": 7865
+            },
+            {
+                "_id": "685287d2ecdffab01b01dca1",
+                "name": "Samurai Sword",
+                "slug": "samurai-sword",
+                "image": "2607",
+                "totalPlayed": 9625
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcb3",
+                "name": "Brawlsio",
+                "slug": "brawlsio",
+                "image": "2626",
+                "totalPlayed": 8610
+            },
+            {
+                "_id": "685287d2ecdffab01b01dbb2",
+                "name": "NinjaDash",
+                "slug": "ninjadash",
+                "image": "2326",
+                "totalPlayed": 12450
+            },
+            {
+                "_id": "685287d2ecdffab01b01db70",
+                "name": "Stick City",
+                "slug": "stick-city",
+                "image": "2253",
+                "totalPlayed": 20924
+            },
+            {
+                "_id": "685287d2ecdffab01b01db5e",
+                "name": "Dynamons 2",
+                "slug": "dynamons-2",
+                "image": "2234",
+                "totalPlayed": 36036
+            },
+            {
+                "_id": "685287d2ecdffab01b01db5f",
+                "name": "Dynamons",
+                "slug": "dynamons",
+                "image": "2235",
+                "totalPlayed": 24595
+            },
+            {
+                "_id": "685287d2ecdffab01b01db36",
+                "name": "Knights Diamond",
+                "slug": "knights-diamond",
+                "image": "2193",
+                "totalPlayed": 86060
+            },
+            {
+                "_id": "685287d2ecdffab01b01db37",
+                "name": "The Office Guy",
+                "slug": "the-office-guy",
+                "image": "2194",
+                "totalPlayed": 67397
+            },
+            {
+                "_id": "685287d2ecdffab01b01db03",
+                "name": "Alien go home",
+                "slug": "alien-go-home",
+                "image": "2141",
+                "totalPlayed": 11096
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8d3",
+                "name": "Hollywood Bash",
+                "slug": "hollywood-bash",
+                "image": "1504",
+                "totalPlayed": 8304
+            },
+            {
+                "_id": "685287d2ecdffab01b01d848",
+                "name": "Fantasy Heroes",
+                "slug": "fantasy-heroes",
+                "image": "1331",
+                "totalPlayed": 11031
+            },
+            {
+                "_id": "685287d2ecdffab01b01d601",
+                "name": "Dino Strike",
+                "slug": "dino-strike",
+                "image": "595",
+                "totalPlayed": 16195
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5f7",
+                "name": "Stickman",
+                "slug": "stickman",
+                "image": "582",
+                "totalPlayed": 10697
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5f5",
+                "name": "Brutes.io",
+                "slug": "brutes-io",
+                "image": "580",
+                "totalPlayed": 10269
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5ee",
+                "name": "Apokalyx",
+                "slug": "apokalyx",
+                "image": "572",
+                "totalPlayed": 9887
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5ed",
+                "name": "Kings Island 2",
+                "slug": "kings-lsland-2",
+                "image": "571",
+                "totalPlayed": 7556
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5e3",
+                "name": "Cactus McCoy 2",
+                "slug": "cactus-mccoy-2",
+                "image": "560",
+                "totalPlayed": 8793
+            },
+            {
+                "_id": "685287d2ecdffab01b01d56d",
+                "name": "Evil Darkness",
+                "slug": "evil-darkness",
+                "image": "269",
+                "totalPlayed": 13618
+            },
+            {
+                "_id": "685287d2ecdffab01b01d563",
+                "name": "Dragon Fist 3d",
+                "slug": "dragon-fist-3d",
+                "image": "259",
+                "totalPlayed": 17853
+            },
+            {
+                "_id": "685287d2ecdffab01b01d55f",
+                "name": "1 Quest",
+                "slug": "1quest",
+                "image": "253",
+                "totalPlayed": 8319
+            },
+            {
+                "_id": "685287d2ecdffab01b01d522",
+                "name": "Maximum Power",
+                "slug": "maximum-power",
+                "image": "180",
+                "totalPlayed": 11771
+            },
+            {
+                "_id": "685287d2ecdffab01b01d51e",
+                "name": "Pirate Hunter",
+                "slug": "pirate-hunter",
+                "image": "175",
+                "totalPlayed": 13821
+            },
+            {
+                "_id": "685287d2ecdffab01b01d515",
+                "name": "Death Valley",
+                "slug": "death-valley",
+                "image": "165",
+                "totalPlayed": 10771
+            },
+            {
+                "_id": "685287d2ecdffab01b01d514",
+                "name": "Decision Medieval",
+                "slug": "decision-medieval",
+                "image": "164",
+                "totalPlayed": 19076
+            },
+            {
+                "_id": "685287d2ecdffab01b01d513",
+                "name": "Knight Age 2",
+                "slug": "knight-age-2",
+                "image": "163",
+                "totalPlayed": 9612
+            },
+            {
+                "_id": "685287d2ecdffab01b01d4f8",
+                "name": "Saloon Brawl 2",
+                "slug": "saloon-brawl-2",
+                "image": "140",
+                "totalPlayed": 20080
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017dda",
+            "id": 23,
+            "name": "fighting",
+            "parent": {
+                "_id": "685287b2ecdffab01b017e06",
+                "name": "action",
+                "slug": "action"
+            },
+            "slug": "fighting",
+            "icon": "Fighting",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 1,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.817Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>Dive into the World of Intense Battles with Atmegame's Online Fighting Games</h4>\n<p class=\"text_desc\">Welcome to the world’s most preferred virtual battleground where people of ages can fight against different types of opponents by quickly accessing to special kicks, punches and advanced weapons! Our electrifying array of online fighting games ensures you all to satisfy your appetite for fun and action. Master the art of sword fighting, engage in fierce gun battles, or challenge a friend to epic 2-player duels in two player fighting games. </p>\n<p class=\"text_desc\">Dive into the animal kingdom for intense animal fights or test your sharp reflexes in knife battles. Play your favourite title online without download, and discover the best fighting games for PC and mobile phones. Whether you prefer bullfighting or the minimalist thrill of stick figure battles, we have got something for everyone. </p>\n<p class=\"text_desc\">And the best part is that it’s all free! Experience action-packed gameplay with our collection, including renowned titles like <a class=\"link_desc\" href=\"https://www.atmegame.com/games/boxing-fighter-shadow-battle\" title=\"\" target=\"\" style=\"\"> Boxing Fighter Shadow Battle. </a></p>\n<h4>A Line-up of Exciting Features to Explore: </h4>\n<p class=\"text_desc\">Discover our exciting range of in-house fighting games and prepare to immerse yourself in the world of high-speed thrills and entertainment. Here are some key features you can look forward to experiencing: </p>\n<h4>Gun Fighting Games: </h4>\n<p class=\"text_desc\">Experience heart-pounding gun battles with titles like <a class=\"link_desc\" href=\"https://www.atmegame.com/games/gun-box\" title=\"\" target=\"\" style=\"\"> Gun Box </a>. Grab your weapons and engage in a unique kind of battle with an objective to make your high scores. Get achievements, and unlock new characters for more thrill in this cool online gun fighting game. </p>\n<h4>Sword Fighting Games: </h4>\n<p class=\"text_desc\">Immerse yourself in the art of swordplay with games like <a class=\"link_desc\" href=\"https://www.atmegame.com/games/samurai-sword\" title=\"\" target=\"\" style=\"\"> Samurai Sword </a>. Get a chance to behave like an elite soldier of Samurai army and clear the area from the deadly opponents with the exclusive version of the samurai “lightsaber” before you lose your life. </p>\n<h4>Animal Fighting Games: </h4>\n<p class=\"text_desc\">Enter the animal kingdom and take control of fierce creatures in games like <a class=\"link_desc\" href=\"https://www.atmegame.com/games/wild-animal-zoo-city-simulator\" title=\"\" target=\"\" style=\"\"> Wild Animal Zoo City Simulator</a>. Battle rivals, complete missions, and prove your dominance in the animal kingdom. </p>\n<h4>Bull Fighting Games: </h4>\n<p class=\"text_desc\">Feel the adrenaline rush in the virtual bullring with games like <a class=\"link_desc\" href=\"https://www.atmegame.com/games/bull-run\" title=\"\" target=\"\" style=\"\"> Bull Run</a>. Dodge charging bulls, stay on your feet, and aim for high scores in this challenging and thrilling game. </p>\n<h4>Knife Fighting Games: </h4>\n<p class=\"text_desc\">Sharpen your reflexes and precision in knife combat games like<a class=\"link_desc\" href=\"https://www.atmegame.com/games/knife-hit\" title=\"\" target=\"\" style=\"\">  Knife Hit </a>. Throw knives with accuracy and timing to destroy targets and progress through challenging levels. </p>\n<h4>Stick Fight the Game: </h4>\n<p class=\"text_desc\">Embrace the minimalist yet action-packed world of stick figures in games like<a class=\"link_desc\" href=\"https://www.atmegame.com/games/stickman-fighter-epic-battles\" title=\"\" target=\"\" style=\"\">  Stickman Fighter: Epic Battles </a>. Engage in stick figure battles, showcasing your skills in this unique sub-genre. </p>\n\n<h4>What You Can Do in Our Free Fighting Games: </h4>\n<ul>\n    <li>\nEngage and experience the matchless thrill in our high-octane battles with various weapons and combat styles. </li>\n<li>Test your sharp reflexes, strategy, and quick decision-making abilities. </li>\n<li>Compete against friends, AI opponents, or players from all around the world. </li>\n<li>Unlock achievements, power-ups, in-game rewards to enhance your gaming experience and do more. </li></ul>\n<p class=\"text_desc\">Our exclusive yet highly entertaining collection of fighting games is just like a treat to all those gamers who crave action, strategy, and adrenaline-pumping battles. At Atmegame.com, we are highly committed to providing you with the best fighting games for PC and mobile platforms. </p>\n<p class=\"text_desc\">Whether you are into gun battles, sword fights, or animal combat, our diverse collection has something for every fighting game enthusiast. Dive into our world of intense battles, and let the adrenaline flow! </p>\n<h4>Frequently Asked Questions (FAQs): </h4>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. How can I play a fighting game at Atmegame.com? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<p class=\"text_desc\" itemprop=\"text\">A1. At Atmegame, our fighting games are available for online play without the need for downloads. You can access and enjoy them directly on our website. </p>\n</div>\n</div>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q2. Are the best fighting games for Android available on Atmegame.com? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<p class=\"text_desc\" itemprop=\"text\">A2. Yes, we offer a selection of free HTML5 fighting games that are compatible with Android devices, ensuring you can enjoy the action on your mobile. </p>\n</div>\n</div>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q3. What are the best fighting games available at atmegame.com? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<div itemprop=\"text\">\n<p class=\"text_desc\">A3. Here we have mentioned the names of some top fighting games online: </p><ul>\n\n    <li>\nBoxing Fighter Shadow Battle</li>\n<li>Street Fighter Madness</li>\n<li>Gun Box</li>\n<li>Kung Fu Street 2</li>\n<li>Samurai Sword</li>\n<li>Stickman Fighter: Epic Battles</li>\n<li>Wild Animal Zoo City Simulator</li>\n<li>Knife Hit</li></ul>\n</div>\n</div>\n</div>\n",
+            "metaTitle": "Fighting Games, Fight Game, Play Online Fighting Games Free : Atmegame.com",
+            "metaDesc": "Get your fighting spirit being rewarded indulging into some of the best fighting games online while accomplishing and carried out in different games and action scenario",
+            "metaKeyword": "fighting games, play online fighting games, play fighting games, free games,  online fighting games, boxing"
+        }
+    }
+}
