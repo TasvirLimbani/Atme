@@ -1,0 +1,340 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01ea3b",
+                "name": "Crossy Road Zombies",
+                "slug": "crossy-road-zombies",
+                "image": "6451",
+                "totalPlayed": 7185
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea4a",
+                "name": "Halloween Scary Jungle Road Drive",
+                "slug": "halloween-scary-jungle-road-drive",
+                "image": "6466",
+                "totalPlayed": 8494
+            },
+            {
+                "_id": "685287d2ecdffab01b01e905",
+                "name": "Aeroplane Escape",
+                "slug": "aeroplane-escape",
+                "image": "6048",
+                "totalPlayed": 28763
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6c8",
+                "name": "Abyssal Fish",
+                "slug": "abyssal-fish",
+                "image": "5331",
+                "totalPlayed": 8809
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6ab",
+                "name": "Black Holeio",
+                "slug": "black-holeio",
+                "image": "5301",
+                "totalPlayed": 9762
+            },
+            {
+                "_id": "685287d2ecdffab01b01e69f",
+                "name": "Pixel Escape",
+                "slug": "pixel-escape",
+                "image": "5289",
+                "totalPlayed": 7187
+            },
+            {
+                "_id": "685287d2ecdffab01b01e63c",
+                "name": "Rise Up Up",
+                "slug": "rise-up-up",
+                "image": "5185",
+                "totalPlayed": 9499
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5fa",
+                "name": "Zombie Dodge",
+                "slug": "zombie-dodge",
+                "image": "5117",
+                "totalPlayed": 7124
+            },
+            {
+                "_id": "685287d2ecdffab01b01e472",
+                "name": "Robo Escape",
+                "slug": "robo-escape",
+                "image": "4718",
+                "totalPlayed": 7666
+            },
+            {
+                "_id": "685287d2ecdffab01b01e47b",
+                "name": "Death Soul",
+                "slug": "death-soul",
+                "image": "4727",
+                "totalPlayed": 7761
+            },
+            {
+                "_id": "685287d2ecdffab01b01e47e",
+                "name": "Barbarian Escape",
+                "slug": "barbarian-escape",
+                "image": "4730",
+                "totalPlayed": 7745
+            },
+            {
+                "_id": "685287d2ecdffab01b01e488",
+                "name": "Swipe",
+                "slug": "swipe",
+                "image": "4740",
+                "totalPlayed": 7610
+            },
+            {
+                "_id": "685287d2ecdffab01b01e49a",
+                "name": "Panic Drop",
+                "slug": "panic-drop",
+                "image": "4758",
+                "totalPlayed": 6840
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1e6",
+                "name": "Robot Escape",
+                "slug": "robot-escape",
+                "image": "4055",
+                "totalPlayed": 15896
+            },
+            {
+                "_id": "685287d2ecdffab01b01e09e",
+                "name": "Cave of Doom Challenge",
+                "slug": "cave-of-doom-challenge",
+                "image": "3702",
+                "totalPlayed": 6606
+            },
+            {
+                "_id": "685287d2ecdffab01b01e158",
+                "name": "Jelly Slide",
+                "slug": "jelly-slide",
+                "image": "3908",
+                "totalPlayed": 8016
+            },
+            {
+                "_id": "685287d2ecdffab01b01e161",
+                "name": "Starship Escape",
+                "slug": "starship-escape",
+                "image": "3917",
+                "totalPlayed": 7426
+            },
+            {
+                "_id": "685287d2ecdffab01b01e02e",
+                "name": "Freddys Escape House",
+                "slug": "freddys-escape-house",
+                "image": "3581",
+                "totalPlayed": 7378
+            },
+            {
+                "_id": "685287d2ecdffab01b01dfb8",
+                "name": "Swing Triangle",
+                "slug": "swing-triangle",
+                "image": "3451",
+                "totalPlayed": 11387
+            },
+            {
+                "_id": "685287d2ecdffab01b01dfba",
+                "name": "Stickman Briefcase",
+                "slug": "stickman-briefcase",
+                "image": "3454",
+                "totalPlayed": 13193
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc24",
+                "name": "Photo Escape",
+                "slug": "photo-escape",
+                "image": "2479",
+                "totalPlayed": 7621
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc50",
+                "name": "Maze Cartoon Labyrinth",
+                "slug": "maze-cartoon-labyrinth",
+                "image": "2524",
+                "totalPlayed": 7552
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc94",
+                "name": "NuNu",
+                "slug": "nu-nu",
+                "image": "2594",
+                "totalPlayed": 7600
+            },
+            {
+                "_id": "685287d2ecdffab01b01dbb9",
+                "name": "Wire",
+                "slug": "wire",
+                "image": "2334",
+                "totalPlayed": 7563
+            },
+            {
+                "_id": "685287d2ecdffab01b01dbac",
+                "name": "Im the one",
+                "slug": "im-the-one",
+                "image": "2320",
+                "totalPlayed": 8344
+            },
+            {
+                "_id": "685287d2ecdffab01b01db5a",
+                "name": "Let Them Fall",
+                "slug": "let-them-fall",
+                "image": "2230",
+                "totalPlayed": 8355
+            },
+            {
+                "_id": "685287d2ecdffab01b01db47",
+                "name": "Volcano Escapes",
+                "slug": "volcano-escapes",
+                "image": "2211",
+                "totalPlayed": 12904
+            },
+            {
+                "_id": "685287d2ecdffab01b01db48",
+                "name": "FLAMMY",
+                "slug": "flammy",
+                "image": "2212",
+                "totalPlayed": 7261
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9d9",
+                "name": "Lava Car Escape",
+                "slug": "lava-car-escape",
+                "image": "1810",
+                "totalPlayed": 9013
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8b4",
+                "name": "NSR Thanksgiving Day 2017",
+                "slug": "nsr-thanksgiving-day-2017",
+                "image": "1462",
+                "totalPlayed": 7422
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8b5",
+                "name": "Thanksgiving Day Turkey Escape",
+                "slug": "thanksgiving-day-turkey-escape",
+                "image": "1463",
+                "totalPlayed": 6640
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8ad",
+                "name": "My Adventure Book 2",
+                "slug": "my-adventure-book-2",
+                "image": "1448",
+                "totalPlayed": 8830
+            },
+            {
+                "_id": "685287d2ecdffab01b01d893",
+                "name": "Flakboy Lab Escape",
+                "slug": "flakboy-lab-escape",
+                "image": "1418",
+                "totalPlayed": 8348
+            },
+            {
+                "_id": "685287d2ecdffab01b01d877",
+                "name": "Jinx  Minx Tower Escape",
+                "slug": "jinx-minx-tower-escape",
+                "image": "1383",
+                "totalPlayed": 9072
+            },
+            {
+                "_id": "685287d2ecdffab01b01d87d",
+                "name": "Battle Ram",
+                "slug": "battle-ram",
+                "image": "1390",
+                "totalPlayed": 7586
+            },
+            {
+                "_id": "685287d2ecdffab01b01d852",
+                "name": "Ouch Finger",
+                "slug": "ouch-finger",
+                "image": "1343",
+                "totalPlayed": 7150
+            },
+            {
+                "_id": "685287d2ecdffab01b01d865",
+                "name": "Rat Crossing",
+                "slug": "rat-crossing",
+                "image": "1363",
+                "totalPlayed": 12456
+            },
+            {
+                "_id": "685287d2ecdffab01b01d866",
+                "name": "Floor Jumper Escape",
+                "slug": "floor-jumper-escape",
+                "image": "1364",
+                "totalPlayed": 50712
+            },
+            {
+                "_id": "685287d2ecdffab01b01d835",
+                "name": "Nugget Seeker",
+                "slug": "nugget-seeker",
+                "image": "1312",
+                "totalPlayed": 8349
+            },
+            {
+                "_id": "685287d2ecdffab01b01d845",
+                "name": "Boat Rush",
+                "slug": "boat-rush",
+                "image": "1328",
+                "totalPlayed": 8273
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5c3",
+                "name": "Wothan Escape",
+                "slug": "wothan-escape",
+                "image": "519",
+                "totalPlayed": 57092
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5c2",
+                "name": "Wothan The Barbarian",
+                "slug": "wothan-the-barbarian",
+                "image": "518",
+                "totalPlayed": 14594
+            },
+            {
+                "_id": "685287d2ecdffab01b01d533",
+                "name": "How Dare You",
+                "slug": "how-dare-you",
+                "image": "199",
+                "totalPlayed": 17899
+            },
+            {
+                "_id": "685287d2ecdffab01b01d538",
+                "name": "Prison Breakout",
+                "slug": "prison-breakout",
+                "image": "205",
+                "totalPlayed": 14539
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017dec",
+            "id": 41,
+            "name": "escaping",
+            "parent": {
+                "_id": "685287b2ecdffab01b017e12",
+                "name": "adventure",
+                "slug": "adventure"
+            },
+            "slug": "escaping",
+            "icon": "Escaping Games",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 4,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.819Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>The Best Thrill of Online Escape Games Are a Few Clicks Away! </h4>\n<p class=\"text_desc\">Explore the thrill of our widest and highly engaging escape games collection at Atmegame, where players manoeuvre through maps and fortresses and enjoy different spooky adventures and captivating mysteries. Our best escape games offer not just entertainment but also unique gameplay experiences. Your problem-solving skills are improved when you join adventure escape games online. Navigate out of difficult situations, get yourself out of the castles, intricate mazes or mysteries rooms in web browser HTML5 escaping games.</p>\n<p class=\"text_desc\">Our best escape games online free unblocked often hide solutions behind mysterious clues or hints. Deciphering these hints becomes key, requiring clever interpretation to progress. Discover the excitement of solving these puzzles and immerse yourself in the adventure of escaping prison games online, where every move counts! You can also try out the free online room escape games, which are primarily associated with the point-and-click adventure game genre. </p>\n<h4>Salient Features of Our Popular Browser Escaping Games: </h4>\n<p class=\"text_desc\">Embark on endless undead adventures in<a class=\"link_desc\" href=\"https://www.atmegame.com/games/crossy-road-zombies\" title=\"\" target=\"\" style=\"\"> Crossy Road Zombies </a>where you have to dodge hordes of zombies. Play it now and gear up to test your survival skills against the zombie apocalypse, aiming to surpass your best performance with every playthrough. Brave the eerie<a class=\"link_desc\" href=\"https://www.atmegame.com/games/halloween-scary-jungle-road-drive\" title=\"\" target=\"\" style=\"\"> Halloween Scary Jungle Road Drive! </a>Navigate spooky roads, avoid the obstacles and ghosts and conquer the haunted jungle roads. </p>\n<p class=\"text_desc\">Survive the molten fury, dodging obstacles and lava flows in <a class=\"link_desc\" href=\"\" title=\"\" target=\"\" style=\"\">Volcano Escapes! </a> Replay for better strategies and higher scores, mastering the art of volcano survival with each daring attempt! Navigate through geometric challenges with precision in <a class=\"link_desc\" href=\"\" title=\"\" target=\"\" style=\"\">Swing Triangle</a>. Feel the rush as you swing your way through obstacles—perfect your swings, beat your records, and aim for that flawless run with every play! </p>\n<h4>Unveil the Mystery: Dive into Interactive Room Escape Games! </h4>\n<p class=\"text_desc\">Explore diverse methods to escape intricately designed rooms teeming with hints and clues aiding your exit strategy. Unlock numerous puzzles and keys, progressing towards victory through our extensive collection of puzzle-based room escape games. </p>\n<p class=\"text_desc\">Delve into an array of spine-chilling escapes, including the thrilling creepy granny games, designed for those who relish eerie, immersive escape challenges. Experience the thrill of solving riddles and uncovering mysteries in these captivating room escape adventures. </p>\n<h4>Different Types of Free Online Escape Games</h4>\n<p class=\"text_desc\">As there a great number of exciting games category can be found at our site in the game, the most interesting and terrific ones are Room escapes game, horror escapes game, fantasy escapes game, adventurous escape games online. The craziest of the escape games are room games where a player locked inside has to get rid of that puzzled room. </p>\n<p class=\"text_desc\">Though looking similar but each of the simulated room online has its own way and method to be cracked away. And this is the reason while player keep on clinging to the escaping games online to play like Aeroplane Escape and Robo Escape. </p>\n<h4>Multiplayer Escape Games Online Unblocked</h4>\n<p class=\"text_desc\">Challenge the escaping skills of players from all across the world in the online multiplayer escape games! When trying the escape games online free, you must try upon the check the simulated environment carefully and attentive. </p>\n<p class=\"text_desc\">In the online escape room games for groups, well, you can play with other players and use the tricks to win over them. Sometime in the escape games you will find the tricks so perplexing and unique that you will feel completely amazed and as well as nervous at the same time.\n<h4>Find the Best Escape Games Online Free & Play Without Download</h4>\n<p class=\"text_desc\">There is no need to worry about downloading or installing games as here at atmegame.com you can browse the unlimited best escape games online for free without download. </p>\n<p class=\"text_desc\">In the collection of games at our website you will also discover a lots of other girls and kids game, including escaping prison games online as well under the category of games of escape. </p>\n<h4>What We Can Do in Our Online Browser HTML5 Escape Games? </h4>\n<p class=\"text_desc\"><b>Diverse Adventures: </b>Check out an extensive variety of escape games featuring maps, fortresses, and spooky scenarios, challenging players with captivating mysteries and thrilling adventures. </p>\n<p class=\"text_desc\"><b>Enhanced Problem-Solving: </b> Improve your problem-solving skills by manoeuvring through castles, mazes, and mysterious rooms in our adventure escape games online. Test your ability to navigate out of difficult situations. </p>\n<p class=\"text_desc\"><b>Hidden Clues and Puzzles: </b>Unravel hidden solutions and mysterious hints within our best escape games. Clever interpretation and decoding become crucial to progress, especially in escaping prison games online. </p>\n<p class=\"text_desc\"><b>Room Escape Challenges: </b>Engage in free online room escape games that belong to the point-and-click adventure genre. Solve puzzles, unlock keys, and decipher clues to secure victory. </p>\n<p class=\"text_desc\"><b>Variety of Escapes: </b> Enjoy a diverse range of escape games, from horror to fantasy, offering different challenges and puzzles. Delve into multiplayer escape games online, challenging players worldwide, or dive into unique themed escapes like <a class=\"link_desc\" href=\"https://www.atmegame.com/games/aeroplane-escape\" title=\"\" target=\"\" style=\"\">Aeroplane Escape </a>and <a class=\"link_desc\" href=\"https://www.atmegame.com/games/robo-escape\" title=\"\" target=\"\" style=\"\">Robo Escape</a>.</p>\n<h4>Frequently Asked Questions (FAQs):</h4>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. What are the best online escaping games to play online on different devices like PCs, mobile phones and tablets? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n      <div itemprop=\"text\">\n<p class=\"text_desc\">A1. Although our all escape games are worth playing again and again, some of our highly recommended titles are: </p><ul>\n<ul>\n    <li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/nu-nu\" title=\"\" target=\"\" style=\"\">NuNu</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/jelly-slide\" title=\"\" target=\"\" style=\"\">Jelly Slide</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/ouch-finger\" title=\"\" target=\"\" style=\"\">Ouch Finger</a></li>\n<li><a class=\"link_desc\" href=\" https://www.atmegame.com/games/robot-escape\" title=\" \" target=\"\" style=\"\">Robot Escape</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/let-them-fall\" title=\"\" target=\"\" style=\"\">Let Them Fall</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/swing-triangle\" title=\"\" target=\"\" style=\"\">Swing Triangle</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/volcano-escapes\" title=\"\" target=\"\" style=\"\">Volcano Escapes</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/stickman-briefcase\" title=\"\" target=\"\" style=\"\">Stickman Briefcase</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/crossy-road-zombies\" title=\"\" target=\"\" style=\"\">Crossy Road Zombies</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/freddys-escape-house\" title=\"\" target=\"\" style=\"\">Freddys Escape House</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/halloween-scary-jungle-road-drive\" title=\"\" target=\"\" style=\"\">Halloween Scary Jungle Road Drive</a></li></ul>\n</div>\n    </div>\n  </div>",
+            "metaTitle": "Escaping Games, Play Online Escaping Games Free : Atmegame.com",
+            "metaDesc": "In the escape games online get into the intensively involving puzzle games and get rewarded in the form of power to get rid of long pending dungeon of death",
+            "metaKeyword": "escaping games, play online escaping games, play escaping games, free games,  online escaping games,  hidden room"
+        }
+    }
+}
