@@ -1,0 +1,585 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01e9b3",
+                "name": "Flat Out",
+                "slug": "flat-out",
+                "image": "6263",
+                "totalPlayed": 80713
+            },
+            {
+                "_id": "685287d2ecdffab01b01e922",
+                "name": "Stupid Zombies Hunt",
+                "slug": "stupid-zombies-hunt",
+                "image": "6088",
+                "totalPlayed": 8485
+            },
+            {
+                "_id": "685287d2ecdffab01b01e92a",
+                "name": "Venom Zombie Shooter",
+                "slug": "venom-zombie-shooter",
+                "image": "6099",
+                "totalPlayed": 8355
+            },
+            {
+                "_id": "685287d2ecdffab01b01e931",
+                "name": "Zombie Killers",
+                "slug": "zombie-killers",
+                "image": "6108",
+                "totalPlayed": 2791020
+            },
+            {
+                "_id": "685287d2ecdffab01b01e932",
+                "name": "Hill Billy Hank",
+                "slug": "hill-billy-hank",
+                "image": "6109",
+                "totalPlayed": 8908
+            },
+            {
+                "_id": "685287d2ecdffab01b01e91e",
+                "name": "Jeff The Killer VS Slendrina",
+                "slug": "jeff-the-killer-vs-slendrina",
+                "image": "6078",
+                "totalPlayed": 7212
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8fc",
+                "name": "Zombie Factory Tycoon",
+                "slug": "zombie-factory-tycoon",
+                "image": "6037",
+                "totalPlayed": 16590
+            },
+            {
+                "_id": "685287d2ecdffab01b01e85d",
+                "name": "Guardians vs Zombies",
+                "slug": "guardians-vs-zombies",
+                "image": "5790",
+                "totalPlayed": 6402
+            },
+            {
+                "_id": "685287d2ecdffab01b01e866",
+                "name": "EG Zombies City",
+                "slug": "eg-zombies-city",
+                "image": "5799",
+                "totalPlayed": 7806
+            },
+            {
+                "_id": "685287d2ecdffab01b01e844",
+                "name": "Tap the zombies",
+                "slug": "tap-the-zombies",
+                "image": "5757",
+                "totalPlayed": 9350
+            },
+            {
+                "_id": "685287d2ecdffab01b01e809",
+                "name": "Challenge Of The Zombies",
+                "slug": "challenge-of-the-zombies",
+                "image": "5688",
+                "totalPlayed": 6872
+            },
+            {
+                "_id": "685287d2ecdffab01b01e7ad",
+                "name": "Zombie Drive",
+                "slug": "zombie-drive",
+                "image": "5581",
+                "totalPlayed": 7220
+            },
+            {
+                "_id": "685287d2ecdffab01b01e774",
+                "name": "Zombies at the Beach",
+                "slug": "zombies-at-the-beach",
+                "image": "5514",
+                "totalPlayed": 8592
+            },
+            {
+                "_id": "685287d2ecdffab01b01e788",
+                "name": "Sniper vs Zombies",
+                "slug": "sniper-vs-zombies",
+                "image": "5536",
+                "totalPlayed": 10836
+            },
+            {
+                "_id": "685287d2ecdffab01b01e78b",
+                "name": "Gun Zombies",
+                "slug": "gun-zombies",
+                "image": "5539",
+                "totalPlayed": 29445
+            },
+            {
+                "_id": "685287d2ecdffab01b01e768",
+                "name": "Masked Forces Zombie Survival",
+                "slug": "masked-forces-zombie-survival",
+                "image": "5501",
+                "totalPlayed": 8551
+            },
+            {
+                "_id": "685287d2ecdffab01b01e76c",
+                "name": "At the end zombies win",
+                "slug": "at-the-end-zombies-win",
+                "image": "5505",
+                "totalPlayed": 9313
+            },
+            {
+                "_id": "685287d2ecdffab01b01e76d",
+                "name": "Zombie Survival",
+                "slug": "zombie-survival",
+                "image": "5506",
+                "totalPlayed": 7418
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6a3",
+                "name": "Pixel SWAT Zombie Survival",
+                "slug": "pixel-swat-zombie-survival",
+                "image": "5293",
+                "totalPlayed": 7173
+            },
+            {
+                "_id": "685287d2ecdffab01b01e661",
+                "name": "Zombie Sniper",
+                "slug": "zombie-sniper",
+                "image": "5225",
+                "totalPlayed": 9902
+            },
+            {
+                "_id": "685287d2ecdffab01b01e662",
+                "name": "Zombie 3D Survival Offline",
+                "slug": "zombie-3d-survival-offline",
+                "image": "5226",
+                "totalPlayed": 6871
+            },
+            {
+                "_id": "685287d2ecdffab01b01e66a",
+                "name": "Battle Survival Zombie Apocalypse",
+                "slug": "battle-survival-zombie-apocalypse",
+                "image": "5235",
+                "totalPlayed": 6874
+            },
+            {
+                "_id": "685287d2ecdffab01b01e676",
+                "name": "Zombie Gunpocalypse",
+                "slug": "zombie-gunpocalypse",
+                "image": "5248",
+                "totalPlayed": 11299
+            },
+            {
+                "_id": "685287d2ecdffab01b01e679",
+                "name": "Pixel Survival",
+                "slug": "pixel-survival",
+                "image": "5251",
+                "totalPlayed": 7926
+            },
+            {
+                "_id": "685287d2ecdffab01b01e657",
+                "name": "Zombie Crowd",
+                "slug": "zombie-crowd",
+                "image": "5213",
+                "totalPlayed": 6810
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5db",
+                "name": "Zombie Crashing",
+                "slug": "zombie-crashing",
+                "image": "5085",
+                "totalPlayed": 10098
+            },
+            {
+                "_id": "685287d2ecdffab01b01e295",
+                "name": "Angry Zombies",
+                "slug": "angry-zombies",
+                "image": "4235",
+                "totalPlayed": 9196
+            },
+            {
+                "_id": "685287d2ecdffab01b01e296",
+                "name": "Zombie Defense",
+                "slug": "zombie-defense",
+                "image": "4236",
+                "totalPlayed": 10579
+            },
+            {
+                "_id": "685287d2ecdffab01b01e29d",
+                "name": "Eggbot vs Zombies v2",
+                "slug": "eggbot-vs-zombies-v2",
+                "image": "4243",
+                "totalPlayed": 10042
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2a5",
+                "name": "Zombie Trigger",
+                "slug": "zombie-trigger",
+                "image": "4251",
+                "totalPlayed": 12462
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2a6",
+                "name": "Zombie Run",
+                "slug": "zombie-run",
+                "image": "4252",
+                "totalPlayed": 15000
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1dc",
+                "name": "Zombie Challenge",
+                "slug": "zombie-challenge",
+                "image": "4045",
+                "totalPlayed": 9496
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1eb",
+                "name": "Zombies vs Finger",
+                "slug": "zombies-vs-finger",
+                "image": "4060",
+                "totalPlayed": 8634
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1ac",
+                "name": "Zombie Road",
+                "slug": "zombie-road",
+                "image": "3995",
+                "totalPlayed": 9695
+            },
+            {
+                "_id": "685287d2ecdffab01b01e0f0",
+                "name": "Cowboy Zombie",
+                "slug": "cowboy-zombie",
+                "image": "3793",
+                "totalPlayed": 9539
+            },
+            {
+                "_id": "685287d2ecdffab01b01e13c",
+                "name": "Smashed Zombies",
+                "slug": "smashed-zombies",
+                "image": "3874",
+                "totalPlayed": 53458
+            },
+            {
+                "_id": "685287d2ecdffab01b01e195",
+                "name": "Zombie Getaway",
+                "slug": "zombie-getaway",
+                "image": "3972",
+                "totalPlayed": 10450
+            },
+            {
+                "_id": "685287d2ecdffab01b01e06b",
+                "name": "Undead Drive",
+                "slug": "undead-drive",
+                "image": "3646",
+                "totalPlayed": 9827
+            },
+            {
+                "_id": "685287d2ecdffab01b01e044",
+                "name": "Castle Defense Online",
+                "slug": "castle-defense-online",
+                "image": "3604",
+                "totalPlayed": 9435
+            },
+            {
+                "_id": "685287d2ecdffab01b01dfc0",
+                "name": "Zombies Vs Halloween",
+                "slug": "zombies-vs-halloween",
+                "image": "3461",
+                "totalPlayed": 12926
+            },
+            {
+                "_id": "685287d2ecdffab01b01dfc8",
+                "name": "Stickmen Vs Zombies",
+                "slug": "stickmen-vs-zombies",
+                "image": "3470",
+                "totalPlayed": 13445
+            },
+            {
+                "_id": "685287d2ecdffab01b01df84",
+                "name": "Final Night Zombie Street Fight",
+                "slug": "final-night-zombie-street-fight",
+                "image": "3392",
+                "totalPlayed": 39076
+            },
+            {
+                "_id": "685287d2ecdffab01b01df9a",
+                "name": "Night Watchmen Stories Zombie Hospital",
+                "slug": "night-watchmen-stories-zombie-hospital",
+                "image": "3416",
+                "totalPlayed": 15168
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc17",
+                "name": "Sector of Death 2",
+                "slug": "sector-of-death-2",
+                "image": "2466",
+                "totalPlayed": 6679
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc26",
+                "name": "Zombie Arena 3d Survival Offline",
+                "slug": "zombie-arena-3d-survival-offline",
+                "image": "2481",
+                "totalPlayed": 7212
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc27",
+                "name": "Slendrina Must Die The Forest",
+                "slug": "slendrina-must-die-the-forest",
+                "image": "2482",
+                "totalPlayed": 6849
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc33",
+                "name": "Night Slaughter",
+                "slug": "night-slaughter",
+                "image": "2494",
+                "totalPlayed": 7199
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc37",
+                "name": "Zombie Survival Ultimate",
+                "slug": "zombie-survival-ultimate",
+                "image": "2498",
+                "totalPlayed": 7435
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc3a",
+                "name": "Zombie Show",
+                "slug": "zombie-show",
+                "image": "2501",
+                "totalPlayed": 7040
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc3b",
+                "name": "Lost Alone Zombie Land",
+                "slug": "lost-alone-zombie-land",
+                "image": "2502",
+                "totalPlayed": 7605
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc45",
+                "name": "Cube Arena Zombie Warfare",
+                "slug": "cube-arena-zombie-warfare",
+                "image": "2512",
+                "totalPlayed": 7398
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc59",
+                "name": "Combat Pixel SWAT Zombies",
+                "slug": "combat-pixel-swat-zombies",
+                "image": "2533",
+                "totalPlayed": 8963
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc6e",
+                "name": "Combat Pixel Vehicle Zombies",
+                "slug": "combat-pixel-vehicle-zombies",
+                "image": "2554",
+                "totalPlayed": 6949
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc7c",
+                "name": "Dead Roadkill Highway",
+                "slug": "dead-roadkill-highway",
+                "image": "2569",
+                "totalPlayed": 6917
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc8c",
+                "name": "Blocky Combat Swat  Killing Zombie",
+                "slug": "blocky-combat-swat-killing-zombie",
+                "image": "2586",
+                "totalPlayed": 7245
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc93",
+                "name": "Pixel Gun Warfare 2 Zombie Attack",
+                "slug": "pixel-gun-warfare-2-zombie-attack",
+                "image": "2593",
+                "totalPlayed": 6923
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc97",
+                "name": "ZomboiZ",
+                "slug": "zomboiz",
+                "image": "2597",
+                "totalPlayed": 7882
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc9c",
+                "name": "Masked Forces Zombie Survive",
+                "slug": "masked-forces-zombie-survive",
+                "image": "2602",
+                "totalPlayed": 7931
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcc6",
+                "name": "DEAD",
+                "slug": "dead",
+                "image": "2645",
+                "totalPlayed": 9057
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcdf",
+                "name": "Drift Z",
+                "slug": "drift-z",
+                "image": "2678",
+                "totalPlayed": 7300
+            },
+            {
+                "_id": "685287d2ecdffab01b01dce1",
+                "name": "Pixel Gun Apocalypse 4",
+                "slug": "pixel-gun-apocalypse-4",
+                "image": "2680",
+                "totalPlayed": 7024
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcf3",
+                "name": "Zombie Blockfare of Future",
+                "slug": "zombie-blockfare-of-future",
+                "image": "2700",
+                "totalPlayed": 7412
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc01",
+                "name": "Zombie Killer",
+                "slug": "zombie-killer",
+                "image": "2433",
+                "totalPlayed": 11315
+            },
+            {
+                "_id": "685287d2ecdffab01b01db85",
+                "name": "Planet Of Kaz",
+                "slug": "planet-of-kaz",
+                "image": "2277",
+                "totalPlayed": 11584
+            },
+            {
+                "_id": "685287d2ecdffab01b01db89",
+                "name": "Alien Shoot Zombies",
+                "slug": "alien-shoot-zombies",
+                "image": "2281",
+                "totalPlayed": 18279
+            },
+            {
+                "_id": "685287d2ecdffab01b01db92",
+                "name": "Zombie Buster",
+                "slug": "zombie-buster",
+                "image": "2291",
+                "totalPlayed": 78686
+            },
+            {
+                "_id": "685287d2ecdffab01b01db69",
+                "name": "Zombie Killing Spree",
+                "slug": "zombie-killing-spree",
+                "image": "2246",
+                "totalPlayed": 15001
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9df",
+                "name": "True Halloween Mayhem",
+                "slug": "true-halloween-mayhem",
+                "image": "1816",
+                "totalPlayed": 6863
+            },
+            {
+                "_id": "685287d2ecdffab01b01d9e5",
+                "name": "Survive Apocalypse",
+                "slug": "survive-apocalypse",
+                "image": "1822",
+                "totalPlayed": 8772
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8b6",
+                "name": "Pillow City Zero Zombie Outbreak",
+                "slug": "pillow-city-zero-zombie-outbreak",
+                "image": "1464",
+                "totalPlayed": 9399
+            },
+            {
+                "_id": "685287d2ecdffab01b01d8ce",
+                "name": "ZomBears",
+                "slug": "zombears",
+                "image": "1492",
+                "totalPlayed": 7254
+            },
+            {
+                "_id": "685287d2ecdffab01b01d87c",
+                "name": "Zombies Runaway",
+                "slug": "zombies-runaway",
+                "image": "1389",
+                "totalPlayed": 7977
+            },
+            {
+                "_id": "685287d2ecdffab01b01d854",
+                "name": "Zombie Cows",
+                "slug": "zombie-cows",
+                "image": "1345",
+                "totalPlayed": 11946
+            },
+            {
+                "_id": "685287d2ecdffab01b01d83b",
+                "name": "Jumbi Zombie",
+                "slug": "jumbi-zombie",
+                "image": "1318",
+                "totalPlayed": 16285
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5f9",
+                "name": "Robots vs Zombies",
+                "slug": "robots-vs-zombies",
+                "image": "584",
+                "totalPlayed": 11161
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5c0",
+                "name": "Zombie Massacre",
+                "slug": "zombie-massacre",
+                "image": "516",
+                "totalPlayed": 33946
+            },
+            {
+                "_id": "685287d2ecdffab01b01d56a",
+                "name": "Zombality",
+                "slug": "zombality",
+                "image": "266",
+                "totalPlayed": 11277
+            },
+            {
+                "_id": "685287d2ecdffab01b01d567",
+                "name": "Zombie Trapper 2",
+                "slug": "zombie-trapper-2",
+                "image": "263",
+                "totalPlayed": 9804
+            },
+            {
+                "_id": "685287d2ecdffab01b01d542",
+                "name": "The Heart Eater",
+                "slug": "the-heart-eater",
+                "image": "220",
+                "totalPlayed": 14923
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017ddb",
+            "id": 24,
+            "name": "zombie",
+            "parent": {
+                "_id": "685287b2ecdffab01b017e06",
+                "name": "action",
+                "slug": "action"
+            },
+            "slug": "zombie",
+            "icon": "Zombie",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 3,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.817Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<p class=\"text_desc\">Still riddled finding answer to the other world that is full of mystery, horror and dark, the Zombie Games online is the blood saga of infected dead that have become alive to eat the human flesh the tale once started with resident evil movie.  Now it is in your hands to fully terminate the flesh eaters from the earth till the last one of their breed is alive in free zombie games.</p><p class=\"text_desc\">\r\n\r\nAt the online zombie games within the excellently carved out simulation and landscapes there you can see and fight with the flesh eating zombies as witnessed in the horror movies.</p><p class=\"text_desc\">\r\n\r\nIn the Zombie <a class=\"link_desc\" href=\"https://www.atmegame.com/online-shooting-games\" title=\"\" target=\"\">shooting games</a> you will get the ammunition to build up your defences to vanquish an entire army of zombies heading towards. At the free zombie games there are an extensive number of customized landscapes that can be chosen depending upon a playerâ€™s desire to get into contest in the tirade of zombies.</p><p class=\"text_desc\">\r\n\r\nIt is just not about killing the zombies but about saving the mankind from lunatic and desperate flesh eaters as you can employ the best tricks at your mind in an intense fight of the blood bath. Some of the most popular zombie games online here are <a class=\"link_desc\" href=\"https://www.atmegame.com/games/zombie-killers\" title=\"\" target=\"\">Zombie Killer</a>, <a class=\"link_desc\" href=\"https://www.atmegame.com/games/stupid-zombies-hunt\" title=\"\" target=\"\">Stupid Zombie Hunt</a>, <a  class=\"link_desc\" href=\"https://www.atmegame.com/games/sniper-vs-zombies\" title=\"\" target=\"\">Sniper Vs Zombie</a> and <a  class=\"link_desc\"  href=\"https://www.atmegame.com/games/zombie-drive\" title=\"\" target=\"\">Zombie Drive</font></a>.</p>",
+            "metaTitle": "Zombie Games, Zombie Shooting, Play Online Zombie Games Free : Atmegame.com",
+            "metaDesc": "Get involved with the rarest skill of fighting with the death in Zombie Games Online to save the humanity from the clutches of flesh eaters",
+            "metaKeyword": "zombie games, play online zombie games, play zombie games, free games,  online zombie games,  zombie shooting"
+        }
+    }
+}
