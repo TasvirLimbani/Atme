@@ -1,0 +1,60 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01e240",
+                "name": "Baseball Pro Game",
+                "slug": "baseball-pro-game",
+                "image": "4149",
+                "totalPlayed": 20605
+            },
+            {
+                "_id": "685287d2ecdffab01b01df7e",
+                "name": "Baseball kid Pitcher cup",
+                "slug": "baseball-kid-pitcher-cup",
+                "image": "3385",
+                "totalPlayed": 20998
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5b8",
+                "name": "Baseball Pro",
+                "slug": "baseball-pro",
+                "image": "508",
+                "totalPlayed": 24722
+            },
+            {
+                "_id": "685287d2ecdffab01b01d510",
+                "name": "Allstar Baseball",
+                "slug": "allstar-baseball",
+                "image": "158",
+                "totalPlayed": 19802
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017dd7",
+            "id": 20,
+            "name": "baseball",
+            "parent": {
+                "_id": "685287b2ecdffab01b017dce",
+                "name": "sports",
+                "slug": "sports"
+            },
+            "slug": "baseball",
+            "icon": "baseball-games",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 11,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.817Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>Welcome to the Coolest and Fun World of Online Baseball Games! </h4>\n<p class=\"text_desc\">Our highly addictive and engaging line-up of online HTML5 baseball games ensures you practice pitching, batting, and fielding in the best virtual environments you have ever experienced. No matter what variant of browser baseball games you choose to play online without download – they offer lots of fun and entertainment in just a few gameplays.</p>\n<p class=\"text_desc\">All our beautifully-designed free baseball games based on realistic gameplay feature precise physics engines and highly interactive and engaging content. Whether you seek for the local league fans or come to us to play worldwide popular MLB games with renowned professional teams – we through Atmegame.com can serve you the best.</p> \n<h4>A Hub to a Wider Range of Cool Baseball Games</h4>\n<p class=\"text_desc\">Our diverse range of browser based baseball games allow you to have authentic baseball experience - whether you want to clinch a World Series Victory, are looking for a classic baseball game or become a globally recognized batting sensation. Get an opportunity to play as various characters, from MLB stars to animated favourites. Execute perfect strategy, steal bases, and deliver a winning performance in our array of thrilling baseball challenges!</p>\n<p class=\"text_desc\">Engage in thrilling single-player challenges or invite a friend for exciting two-player matchups, win matches and prove yourself as the best baseball hitter. Experience the adrenaline of multiplayer baseball games with our finest collection. Play seamlessly without downloads and dive into the best baseball action online. </p>\n<h4>Immersive Gameplay Experiences Await</h4>\n<p class=\"text_desc\">Engage in captivating gameplay with titles like Baseball Pro Game, where you have to test your skills in this immersive baseball simulation, featuring realistic gameplay and challenging mechanics. Take your baseball bat, swing for the fences, and become the baseball champion today! . </p>\n<h4>Varied Modes for Every Baseball Fan</h4>\n<p class=\"text_desc\">Step onto the pitcher's mound in Baseball Kid Pitcher Cup! Hone your pitching skills, aim for precision, and challenge yourself in this exciting baseball journey. Master your throws, strike out opponents, and become the ultimate pitcher in this thrilling game! Our games cater to different play styles. Find your niche and enjoy the baseball adventure that suits you best. . </p>\n<h4>Thrilling Multiplayer Baseball Games</h4>\n<p class=\"text_desc\">Challenge friends or players worldwide in gripping multiplayer baseball games. Lead your team to victory, showcasing your strategic prowess in real-time competitive matches. . </p>\n<h4>Why Choose Atmegame.com for Your Baseball Adventure? </h4>\n<h4>Diverse Selection: </h4><p class=\"text_desc\">It takes a few seconds to access a wide array of top-rated online baseball games. . </p>\n<h4>Free Accessibility: </h4> <p class=\"text_desc\">Enjoy unlimited play without constraints or charges. . </p>\n<h4>Immersive Visuals: </h4><p class=\"text_desc\"> Engage in captivating gameplay with stunning and highly interactive visuals. . </p>\n<h4>User-Friendly Interface: </h4> <p class=\"text_desc\">Navigate seamlessly for an enhanced gaming experience. . </p>\n<h4>Regular Updates: </h4><p class=\"text_desc\">Stay engaged with new challenges and fresh content. . </p>\nWhat You Can Expect from Our Free Online Baseball Games?\n\n<h4>Home Run Mastery: </h4><p class=\"text_desc\">Aim for those thrilling home runs and lead your team to glory. . </p>\n<h4>Versatile Gameplay Modes: </h4> <p class=\"text_desc\">Explore various gameplay styles tailored to diverse tastes and preferences. . </p>\n<h4>Multiplayer Thrills: </h4><p class=\"text_desc\">Compete with friends or globally, experiencing the excitement of multiplayer action. . </p>\n<h4>Refined Skills: </h4><p class=\"text_desc\">Practice your pitching and batting skills for an immersive baseball experience. </p>\n<h4>Realistic Ballpark Feel: </h4><p class=\"text_desc\">Enjoy the authentic atmosphere of a baseball game within your browser. </p>\n<h4>Frequently Asked Questions (FAQs): </h4>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. What are the best baseball games to play online for free on Atmegame.com? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<p class=\"text_desc\" itemprop=\"text\">A1. Although our all baseball games are worth playing during your spare time, some of the coolest ones include: </p><ul>\n    <li>\nBaseball Pro Game</li>\n<li>Baseball Kid Pitcher Cup</li>\n<li>Baseball Pro</li>\n<li>Allstar Baseball</li></ul>\n </div>\n</div>\n</div>\n",
+            "metaTitle": "Baseball Games, Play Online Baseball Games Free : Atmegame.com",
+            "metaDesc": "Get all the gaming excitement of MBL (Major Basketball League) playing baseball games online with the players of National and American League from the best clubs",
+            "metaKeyword": "baseball games, play online baseball games, play baseball games, free games, online baseball games"
+        }
+    }
+}
