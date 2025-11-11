@@ -1,0 +1,133 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01e9c7",
+                "name": "Turbo Stars",
+                "slug": "turbo-stars",
+                "image": "6301",
+                "totalPlayed": 18397
+            },
+            {
+                "_id": "685287d2ecdffab01b01e73f",
+                "name": "Downhill Ski",
+                "slug": "downhill-ski",
+                "image": "5457",
+                "totalPlayed": 31361
+            },
+            {
+                "_id": "685287d2ecdffab01b01e744",
+                "name": "Ski Hero",
+                "slug": "ski-hero",
+                "image": "5462",
+                "totalPlayed": 18471
+            },
+            {
+                "_id": "685287d2ecdffab01b01e745",
+                "name": "Santa Ski",
+                "slug": "santa-ski",
+                "image": "5463",
+                "totalPlayed": 13542
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5e0",
+                "name": "Mini Skate",
+                "slug": "mini-skate",
+                "image": "5090",
+                "totalPlayed": 9711
+            },
+            {
+                "_id": "685287d2ecdffab01b01e274",
+                "name": "Bunny Skater",
+                "slug": "bunny-skater",
+                "image": "4201",
+                "totalPlayed": 13466
+            },
+            {
+                "_id": "685287d2ecdffab01b01e22f",
+                "name": "Skater Kid",
+                "slug": "skater-kid",
+                "image": "4129",
+                "totalPlayed": 17323
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1b8",
+                "name": "Snowboard Ski",
+                "slug": "snowboard-ski",
+                "image": "4007",
+                "totalPlayed": 8426
+            },
+            {
+                "_id": "685287d2ecdffab01b01e0b6",
+                "name": "Santa on Skates",
+                "slug": "santa-on-skates",
+                "image": "3730",
+                "totalPlayed": 9661
+            },
+            {
+                "_id": "685287d2ecdffab01b01e0fa",
+                "name": "Ski Rush",
+                "slug": "ski-rush",
+                "image": "3803",
+                "totalPlayed": 17876
+            },
+            {
+                "_id": "685287d2ecdffab01b01e16d",
+                "name": "Groovy Ski",
+                "slug": "groovy-ski",
+                "image": "3930",
+                "totalPlayed": 8134
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc5f",
+                "name": "Real Extreme Girl Skater",
+                "slug": "real-extreme-girl-skater",
+                "image": "2539",
+                "totalPlayed": 7516
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc6c",
+                "name": "Amazing Skater 3D",
+                "slug": "amazing-skater-3d",
+                "image": "2552",
+                "totalPlayed": 9505
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc75",
+                "name": "Real Snowboard Endless Runner",
+                "slug": "real-snowboard-endless-runner",
+                "image": "2561",
+                "totalPlayed": 7946
+            },
+            {
+                "_id": "685287d2ecdffab01b01dbe7",
+                "name": "Ski Rush Game",
+                "slug": "ski-rush-game",
+                "image": "2403",
+                "totalPlayed": 16752
+            },
+            {
+                "_id": "685287d2ecdffab01b01d805",
+                "name": "Surf Mania",
+                "slug": "surf-mania",
+                "image": "1253",
+                "totalPlayed": 8253
+            },
+            {
+                "_id": "685287d2ecdffab01b01d600",
+                "name": "Extreme Skater",
+                "slug": "extreme-skater",
+                "image": "594",
+                "totalPlayed": 10920
+            },
+            {
+                "_id": "685287d2ecdffab01b01d507",
+                "name": "Rocket Skateboard",
+                "slug": "rocket-skateboard",
+                "image": "107",
+                "totalPlayed": 18383
+            }
+        ]
+    }
+}
