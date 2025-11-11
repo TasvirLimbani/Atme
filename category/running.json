@@ -1,0 +1,578 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01ea9f",
+                "name": "Scary Run",
+                "slug": "scary-run",
+                "image": "6557",
+                "totalPlayed": 243016
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea95",
+                "name": "Jungle Treasure",
+                "slug": "jungle-treasure",
+                "image": "6543",
+                "totalPlayed": 54288
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea6b",
+                "name": "Halloween Island Running",
+                "slug": "halloween-island-running",
+                "image": "6500",
+                "totalPlayed": 7087
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea3a",
+                "name": "Dragon Flight Race",
+                "slug": "dragon-flight-race",
+                "image": "6450",
+                "totalPlayed": 6131
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea3d",
+                "name": "Crowd City War",
+                "slug": "crowd-city-war",
+                "image": "6453",
+                "totalPlayed": 9589
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea4c",
+                "name": "Fury Road Rampage",
+                "slug": "fury-road-rampage",
+                "image": "6468",
+                "totalPlayed": 9357
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea4d",
+                "name": "Fire City Truck Rescue Driving Simulator",
+                "slug": "fire-city-truck-rescue-driving-simulator",
+                "image": "6469",
+                "totalPlayed": 9635
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea17",
+                "name": "Raccoon Adventure City Simulator 3D",
+                "slug": "raccoon-adventure-city-simulator-3d",
+                "image": "6411",
+                "totalPlayed": 6335
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea18",
+                "name": "Subway Bunny Run Rush Rabbit Runner Game",
+                "slug": "subway-bunny-run-rush-rabbit-runner-game",
+                "image": "6413",
+                "totalPlayed": 7841
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea1e",
+                "name": "Angry Infinite Runner A Survival Run with Dragon",
+                "slug": "angry-infinite-runner-a-survival-run-with-dragon",
+                "image": "6420",
+                "totalPlayed": 6220
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea27",
+                "name": "Ninja",
+                "slug": "ninja",
+                "image": "6429",
+                "totalPlayed": 13779
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea0d",
+                "name": "Pet Run Adventure Puppy Run",
+                "slug": "pet-run-adventure-puppy-run",
+                "image": "6401",
+                "totalPlayed": 7197
+            },
+            {
+                "_id": "685287d2ecdffab01b01e9ba",
+                "name": "Crazy Dog Racing Fever",
+                "slug": "crazy-dog-racing-fever",
+                "image": "6272",
+                "totalPlayed": 8952
+            },
+            {
+                "_id": "685287d2ecdffab01b01e983",
+                "name": "Angry Rooster Run Subway",
+                "slug": "angry-rooster-run-subway",
+                "image": "6201",
+                "totalPlayed": 6572
+            },
+            {
+                "_id": "685287d2ecdffab01b01e8f6",
+                "name": "Dashy Run",
+                "slug": "dashy-run",
+                "image": "6031",
+                "totalPlayed": 7054
+            },
+            {
+                "_id": "685287d2ecdffab01b01e900",
+                "name": "Grumpy Cat Runner",
+                "slug": "grumpy-cat-runner",
+                "image": "6043",
+                "totalPlayed": 7171
+            },
+            {
+                "_id": "685287d2ecdffab01b01e85e",
+                "name": "Bear Run",
+                "slug": "bear-run",
+                "image": "5791",
+                "totalPlayed": 28272
+            },
+            {
+                "_id": "685287d2ecdffab01b01e830",
+                "name": "Subway Princess Run",
+                "slug": "subway-princess-run",
+                "image": "5732",
+                "totalPlayed": 22031
+            },
+            {
+                "_id": "685287d2ecdffab01b01e832",
+                "name": "Cat Run",
+                "slug": "cat-run",
+                "image": "5734",
+                "totalPlayed": 10649
+            },
+            {
+                "_id": "685287d2ecdffab01b01e836",
+                "name": "Run Race 3D",
+                "slug": "run-race-3d",
+                "image": "5739",
+                "totalPlayed": 8056
+            },
+            {
+                "_id": "685287d2ecdffab01b01e7f0",
+                "name": "Human Runner 3D",
+                "slug": "human-runner-3d",
+                "image": "5659",
+                "totalPlayed": 7944
+            },
+            {
+                "_id": "685287d2ecdffab01b01e7c8",
+                "name": "Pixel Runner",
+                "slug": "pixel-runner",
+                "image": "5612",
+                "totalPlayed": 6827
+            },
+            {
+                "_id": "685287d2ecdffab01b01e7b7",
+                "name": "City Wars",
+                "slug": "city-wars",
+                "image": "5592",
+                "totalPlayed": 7523
+            },
+            {
+                "_id": "685287d2ecdffab01b01e7bc",
+                "name": "Ninja Hero Runner",
+                "slug": "ninja-hero-runner",
+                "image": "5599",
+                "totalPlayed": 10627
+            },
+            {
+                "_id": "685287d2ecdffab01b01e792",
+                "name": "Legend of the Samurai",
+                "slug": "legend-of-the-samurai",
+                "image": "5550",
+                "totalPlayed": 9353
+            },
+            {
+                "_id": "685287d2ecdffab01b01e713",
+                "name": "Subway Run New 2019",
+                "slug": "subway-run-new-2019",
+                "image": "5409",
+                "totalPlayed": 7768
+            },
+            {
+                "_id": "685287d2ecdffab01b01e6b7",
+                "name": "Subway Surf Halloween",
+                "slug": "subway-surf-halloween",
+                "image": "5313",
+                "totalPlayed": 9345
+            },
+            {
+                "_id": "685287d2ecdffab01b01e686",
+                "name": "Subway Runner",
+                "slug": "subway-runner",
+                "image": "5264",
+                "totalPlayed": 96927
+            },
+            {
+                "_id": "685287d2ecdffab01b01e687",
+                "name": "Ninja Wall Runner",
+                "slug": "ninja-wall-runner",
+                "image": "5265",
+                "totalPlayed": 8293
+            },
+            {
+                "_id": "685287d2ecdffab01b01e688",
+                "name": "Subway Spider Kid",
+                "slug": "subway-spider-kid",
+                "image": "5266",
+                "totalPlayed": 8560
+            },
+            {
+                "_id": "685287d2ecdffab01b01e68d",
+                "name": "Crowd City",
+                "slug": "crowd-city",
+                "image": "5271",
+                "totalPlayed": 7959
+            },
+            {
+                "_id": "685287d2ecdffab01b01e62d",
+                "name": "Subway Surfers",
+                "slug": "eg-subway-surfers",
+                "image": "5170",
+                "totalPlayed": 33268
+            },
+            {
+                "_id": "685287d2ecdffab01b01e636",
+                "name": "Inferno Monster ball hell run",
+                "slug": "inferno-monster-ball-hell-run",
+                "image": "5179",
+                "totalPlayed": 8054
+            },
+            {
+                "_id": "685287d2ecdffab01b01e639",
+                "name": "EG Ninja Run",
+                "slug": "eg-ninja-run",
+                "image": "5182",
+                "totalPlayed": 7021
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5e1",
+                "name": "Ninja Run Adventure",
+                "slug": "ninja-run-adventure",
+                "image": "5091",
+                "totalPlayed": 24371
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5e4",
+                "name": "Jump Ninja Hero",
+                "slug": "jump-ninja-hero",
+                "image": "5094",
+                "totalPlayed": 9944
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5eb",
+                "name": "Run Santa Run",
+                "slug": "run-santa-run",
+                "image": "5102",
+                "totalPlayed": 7036
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5ee",
+                "name": "Santa Girl Runner",
+                "slug": "santa-girl-runner",
+                "image": "5105",
+                "totalPlayed": 17192
+            },
+            {
+                "_id": "685287d2ecdffab01b01e5f8",
+                "name": "Circle Runner",
+                "slug": "circle-runner",
+                "image": "5115",
+                "totalPlayed": 8034
+            },
+            {
+                "_id": "685287d2ecdffab01b01e4a3",
+                "name": "Stickyman Run",
+                "slug": "stickyman-run",
+                "image": "4767",
+                "totalPlayed": 8298
+            },
+            {
+                "_id": "685287d2ecdffab01b01e470",
+                "name": "Random Runner",
+                "slug": "random-runner",
+                "image": "4716",
+                "totalPlayed": 7111
+            },
+            {
+                "_id": "685287d2ecdffab01b01e473",
+                "name": "Castel Run",
+                "slug": "castel-run",
+                "image": "4719",
+                "totalPlayed": 8657
+            },
+            {
+                "_id": "685287d2ecdffab01b01e477",
+                "name": "Double Runner",
+                "slug": "double-runner",
+                "image": "4723",
+                "totalPlayed": 8360
+            },
+            {
+                "_id": "685287d2ecdffab01b01e48b",
+                "name": "Crazy Runner",
+                "slug": "crazy-runner",
+                "image": "4743",
+                "totalPlayed": 51051
+            },
+            {
+                "_id": "685287d2ecdffab01b01e497",
+                "name": "Apachiri Run",
+                "slug": "apachiri-run",
+                "image": "4755",
+                "totalPlayed": 9395
+            },
+            {
+                "_id": "685287d2ecdffab01b01e378",
+                "name": "Speed Runner",
+                "slug": "speed-runner",
+                "image": "4463",
+                "totalPlayed": 8692
+            },
+            {
+                "_id": "685287d2ecdffab01b01e294",
+                "name": "Pet Run",
+                "slug": "pet-run",
+                "image": "4234",
+                "totalPlayed": 13776
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1df",
+                "name": "Prince Run",
+                "slug": "prince-run",
+                "image": "4048",
+                "totalPlayed": 10933
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1ed",
+                "name": "Blocky Runner",
+                "slug": "blocky-runner",
+                "image": "4062",
+                "totalPlayed": 16446
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1ef",
+                "name": "Ninja Run",
+                "slug": "ninja-run",
+                "image": "4064",
+                "totalPlayed": 30519
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1cc",
+                "name": "Stickman School Run",
+                "slug": "stickman-school-run",
+                "image": "4027",
+                "totalPlayed": 8727
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1a7",
+                "name": "Run or Die",
+                "slug": "run-or-die",
+                "image": "3990",
+                "totalPlayed": 8684
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1b0",
+                "name": "Wham O Slip N Slide",
+                "slug": "wham-o-slip-n-slide",
+                "image": "3999",
+                "totalPlayed": 8528
+            },
+            {
+                "_id": "685287d2ecdffab01b01e093",
+                "name": "Chubby Boy Run",
+                "slug": "chubby-boy-run",
+                "image": "3691",
+                "totalPlayed": 9440
+            },
+            {
+                "_id": "685287d2ecdffab01b01e0b2",
+                "name": "Santa Run",
+                "slug": "santa-run",
+                "image": "3725",
+                "totalPlayed": 18074
+            },
+            {
+                "_id": "685287d2ecdffab01b01e0e1",
+                "name": "Pixel Castle Runner",
+                "slug": "pixel-castle-runner",
+                "image": "3777",
+                "totalPlayed": 7593
+            },
+            {
+                "_id": "685287d2ecdffab01b01e0e2",
+                "name": "Tap Touch Run",
+                "slug": "tap-touch-run",
+                "image": "3778",
+                "totalPlayed": 8283
+            },
+            {
+                "_id": "685287d2ecdffab01b01e0ef",
+                "name": "Trump Run",
+                "slug": "trump-run",
+                "image": "3792",
+                "totalPlayed": 8821
+            },
+            {
+                "_id": "685287d2ecdffab01b01e10b",
+                "name": "Cube Ninja",
+                "slug": "cube-ninja",
+                "image": "3822",
+                "totalPlayed": 634097
+            },
+            {
+                "_id": "685287d2ecdffab01b01e185",
+                "name": "Dungeon Run",
+                "slug": "dungeon-run",
+                "image": "3955",
+                "totalPlayed": 7633
+            },
+            {
+                "_id": "685287d2ecdffab01b01e006",
+                "name": "Bull Run",
+                "slug": "bull-run",
+                "image": "3533",
+                "totalPlayed": 19301
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc2d",
+                "name": "Goblin Run",
+                "slug": "goblin-run",
+                "image": "2488",
+                "totalPlayed": 7164
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc7e",
+                "name": "Real Metro Jump",
+                "slug": "real-metro-jump",
+                "image": "2571",
+                "totalPlayed": 9126
+            },
+            {
+                "_id": "685287d2ecdffab01b01dbe5",
+                "name": "Hurdle Rush",
+                "slug": "hurdle-rush",
+                "image": "2401",
+                "totalPlayed": 13569
+            },
+            {
+                "_id": "685287d2ecdffab01b01db6a",
+                "name": "Star Ripper",
+                "slug": "star-ripper",
+                "image": "2247",
+                "totalPlayed": 16048
+            },
+            {
+                "_id": "685287d2ecdffab01b01db2d",
+                "name": "Puffy Boy Run",
+                "slug": "puffy-boy-run",
+                "image": "2184",
+                "totalPlayed": 16587
+            },
+            {
+                "_id": "685287d2ecdffab01b01da86",
+                "name": "Tog Jungle Runner",
+                "slug": "tog-jungle-runner",
+                "image": "2006",
+                "totalPlayed": 14057
+            },
+            {
+                "_id": "685287d2ecdffab01b01d874",
+                "name": "Magic Dwarf Run",
+                "slug": "magic-dwarf-run",
+                "image": "1379",
+                "totalPlayed": 7558
+            },
+            {
+                "_id": "685287d2ecdffab01b01d838",
+                "name": "Chino Run",
+                "slug": "chino-run",
+                "image": "1315",
+                "totalPlayed": 10672
+            },
+            {
+                "_id": "685287d2ecdffab01b01d811",
+                "name": "100 Metres Game",
+                "slug": "100-metres-game",
+                "image": "1266",
+                "totalPlayed": 21236
+            },
+            {
+                "_id": "685287d2ecdffab01b01d5c1",
+                "name": "Hop Dont Stop",
+                "slug": "hop-dont-stop",
+                "image": "517",
+                "totalPlayed": 14260
+            },
+            {
+                "_id": "685287d2ecdffab01b01d580",
+                "name": "Rail Rush",
+                "slug": "rail-rush",
+                "image": "446",
+                "totalPlayed": 15098
+            },
+            {
+                "_id": "685287d2ecdffab01b01d564",
+                "name": "Dragon Run",
+                "slug": "dragon-run",
+                "image": "260",
+                "totalPlayed": 24027
+            },
+            {
+                "_id": "685287d2ecdffab01b01d530",
+                "name": "Singh Is King",
+                "slug": "singh-is-king",
+                "image": "196",
+                "totalPlayed": 14091
+            },
+            {
+                "_id": "685287d2ecdffab01b01d51b",
+                "name": "Mad Samurai",
+                "slug": "mad-samurai",
+                "image": "172",
+                "totalPlayed": 12053
+            },
+            {
+                "_id": "685287d2ecdffab01b01d511",
+                "name": "Tumblestump 2",
+                "slug": "tumblestump-2",
+                "image": "160",
+                "totalPlayed": 10332
+            },
+            {
+                "_id": "685287d2ecdffab01b01d50c",
+                "name": "Romantic Pursuit",
+                "slug": "romantic-pursuit",
+                "image": "157",
+                "totalPlayed": 12117
+            },
+            {
+                "_id": "685287d2ecdffab01b01d508",
+                "name": "Rbots",
+                "slug": "rbots",
+                "image": "154",
+                "totalPlayed": 10213
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017de8",
+            "id": 37,
+            "name": "running",
+            "parent": {
+                "_id": "685287b2ecdffab01b017e12",
+                "name": "adventure",
+                "slug": "adventure"
+            },
+            "slug": "running",
+            "icon": "runningtennis-games",
+            "isFeature": false,
+            "isMainMenu": false,
+            "order": 2,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.819Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>Dash to Victory: Explore the Thrilling World of Online Running Games! </h4>\n<p class=\"text_desc\">Are you seeking a unique sort of pace or unable to run physically? Checking out exclusive collection of browser-based H5 running games makes sense to fulfil your excitement of running without any physical strain. Whether you are seeking solo challenges or team-based fun, dive into the best single-player and multiplayer running games without downloads.</p>\n<p class=\"text_desc\">Engage in high-speed races, thrilling challenges, and competitive runs. Our coolest variety of HTML5 games especially designed for the ultimate running enthusiast guarantees you to experience the unmatched adrenaline rush. Explore diverse themes while sticking to the fundamental principle: dash through tracks, overcoming various objects and obstacles along the way.</p>\n<h4>Temple Run Online Game: </h4>\n<p class=\"text_desc\">Embark on an epic adventure pretty similar to the legendary Temple Run series. Navigate deadly paths, evade obstacles, and collect treasures in fast-paced, temple-themed environments. Run, jump, and slide your way through thrilling levels filled with ancient mysteries.</p>\n<h4>Free Online Stickman Running Games: </h4>\n<p class=\"text_desc\">Enter the stickman universe and engage in heart-racing races and challenges. Run through dynamic stickman worlds, overcoming hurdles, and using unique abilities to outpace opponents. Experience the thrill of stickman parkour in these fast-paced H5 running games.</p>\n<h4>Play Wall Running Games Online: </h4>\n<p class=\"text_desc\">Test your agility and reflexes in our finest variety of wall running games. Scale vertical surfaces, leap between walls, and defy gravity as you navigate challenging courses. Master the art of wall-running to reach new heights and set records in these exhilarating games.</p>\n<h4>Online Frozen Running Games: </h4>\n<p class=\"text_desc\">Hey! You can enter the magical world of Frozen in these enchanting running games. Join beloved characters in icy landscapes, sprinting through snow-covered terrains, and escaping thrilling challenges. You are guaranteed to experience the magic while dashing through a frozen adventure.</p>\n<h4>What You Can Do in Our Free Running Games? </h4>\n<h4>Experience Diverse Environments: </h4>\n<p class=\"text_desc\">Traverse ancient temples, stickman realms, and frozen landscapes, each offering unique challenges and stunning visuals.</p>\n<h4>Master Unique Abilities: </h4>\n<p class=\"text_desc\">Use special skills, like parkour moves or wall-running techniques, with an objective to overcome obstacles and reach new levels in style.</p>\n<h4>Collect Rewards and Power-Ups: </h4>\n<p class=\"text_desc\">Collect treasures, power-ups, and boosts along the way to enhance your performance and achieve higher scores.</p>\n<h4>Challenge Yourself in Endless Runs: </h4>\n\n<p class=\"text_desc\">Are you ready to test your endurance in endless running games? Give endless running games online unblocked a try and strive for the personal bests and leaderboard dominance!</p>\n<h4>Engage in Story-driven Adventures: </h4>\n<p class=\"text_desc\">You cannot ignore those running games where you enjoy narrative-rich experiences, especially in temple run and Frozen-themed games, unfolding stories as you progress.</p>\n<p class=\"text_desc\">At Atmegame.com, we invite running game enthusiasts to dash into a world filled with thrilling challenges and heart-pounding adventures. Whether you are seeking temple runs, stickman parkour, or Frozen adventures, our diverse collection of free online running games promises an exhilarating experience. Join us and unleash your inner sprinter in these captivating virtual landscapes!</p>\n\n <div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. What are the best running games available online on Atmegame.com? </h4>\n <div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n  <div itemprop=\"text\">\n<p class=\"text_desc\" itemprop=\"text\">A1. Some of our coolest and top running games include: </p><ul>\n    <li>\n<a class=\"link_desc\" href=\"https://www.atmegame.com/games/scary-run\" title=\"\" target=\"\" style=\"\">Scary Run</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/santa-runs\" title=\"\" target=\"\" style=\"\">Santa Run</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/jungle-treasure\" title=\"\" target=\"\" style=\"\">Jungle Treasure</a></li>\n<li><a class=\"link_desc\" href=\"\" title=\"https://www.atmegame.com/games/human-runner-3d\" target=\"\" style=\"\">Human Runner 3D</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/angry-infinite-runner-a-survival-run-with-dragon\" title=\"\" target=\"\" style=\"\">Angry Infinite Runner A Survival Run with Dragon</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/ninja\" title=\"\" target=\"\" style=\"\">Ninja</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/crazy-dog-racing-fever\" title=\"\" target=\"\" style=\"\">Crazy Dog Racing Fever</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/fire-city-truck-rescue-driving-simulator\" title=\"\" target=\"\" style=\"\">Fire City Truck Rescue Driving Simulator</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/run-race-3d\" title=\"\" target=\"\" style=\"\">Run Race 3D</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/eg-ninja-run\" title=\"\" target=\"\" style=\"\">EG Ninja Run</a></li></ul>\n</div>\n    </div>\n  </div>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q2. Are these online running games free to play on Atmegame.com? </h4>\n <div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<p class=\"text_desc\" itemprop=\"text\">A2. Yes, of course, our all online running games available on Atmegame.com are completely free to play no download required! You can access a wide range of online games without any charges or subscriptions.</p>\n</div>\n    </div>\n  </div>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q3. Can I play these online running games on different devices? </h4>\n <div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<p class=\"text_desc\" itemprop=\"text\">A3. Yes, Atmegame.com offers games that are compatible across multiple types of devices, including PCs, laptops, tablets, and smartphones. You can enjoy seamless gaming experiences on your preferred device without any hassle!</p>\n\n    </div>\n  </div>",
+            "metaTitle": "Running Games, Run & Jump, Play Online Running Games Free : Atmegame.com",
+            "metaDesc": "Get the excitement of running, chasing and escaping in running games online to get the thrill of successfully accomplishing the exploits of Indian army",
+            "metaKeyword": "running games, play online running games, play running games, free games,  online running games,  Runm Jump"
+        }
+    }
+}
