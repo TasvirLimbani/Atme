@@ -1,0 +1,224 @@
+{
+    "status": "success",
+    "data": {
+        "games": [
+            {
+                "_id": "685287d2ecdffab01b01ea45",
+                "name": "Mouse Hunt Runner",
+                "slug": "mouse-hunt-runner",
+                "image": "6461",
+                "totalPlayed": 6055
+            },
+            {
+                "_id": "685287d2ecdffab01b01ea1f",
+                "name": "Balloon Protect",
+                "slug": "balloon-protect",
+                "image": "6421",
+                "totalPlayed": 6990
+            },
+            {
+                "_id": "685287d2ecdffab01b01e962",
+                "name": "Baby Race Galaxy",
+                "slug": "baby-race-galaxy",
+                "image": "6163",
+                "totalPlayed": 20227
+            },
+            {
+                "_id": "685287d2ecdffab01b01e89c",
+                "name": "Didi  Friends Guess What",
+                "slug": "didi--friends-guess-what",
+                "image": "5884",
+                "totalPlayed": 7665
+            },
+            {
+                "_id": "685287d2ecdffab01b01e7ee",
+                "name": "Sack Race",
+                "slug": "sack-race",
+                "image": "5657",
+                "totalPlayed": 9472
+            },
+            {
+                "_id": "685287d2ecdffab01b01e344",
+                "name": "Math Test 2",
+                "slug": "math-test-2",
+                "image": "4411",
+                "totalPlayed": 12349
+            },
+            {
+                "_id": "685287d2ecdffab01b01e34e",
+                "name": "Math Test",
+                "slug": "math-test",
+                "image": "4421",
+                "totalPlayed": 9795
+            },
+            {
+                "_id": "685287d2ecdffab01b01e2f3",
+                "name": "Arty Mouse Coloring Book",
+                "slug": "arty-mouse-coloring-book",
+                "image": "4329",
+                "totalPlayed": 6947
+            },
+            {
+                "_id": "685287d2ecdffab01b01e310",
+                "name": "Fruit Escape Draw Line",
+                "slug": "fruit-escape-draw-line",
+                "image": "4359",
+                "totalPlayed": 10300
+            },
+            {
+                "_id": "685287d2ecdffab01b01e1db",
+                "name": "Coloring Cars Time",
+                "slug": "coloring-cars-time",
+                "image": "4044",
+                "totalPlayed": 8650
+            },
+            {
+                "_id": "685287d2ecdffab01b01dff3",
+                "name": "Jump Box Ninja",
+                "slug": "jump-box-ninja",
+                "image": "3513",
+                "totalPlayed": 9048
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcfe",
+                "name": "Cricket All Rounder",
+                "slug": "cricket-all-rounder",
+                "image": "2711",
+                "totalPlayed": 50200
+            },
+            {
+                "_id": "685287d2ecdffab01b01dcfd",
+                "name": "Chota Bheem Cricket Panga",
+                "slug": "chota-bheem-cricket-panga",
+                "image": "2710",
+                "totalPlayed": 176553
+            },
+            {
+                "_id": "685287d2ecdffab01b01dc2e",
+                "name": "Guess The Flag",
+                "slug": "guess-the-flag",
+                "image": "2489",
+                "totalPlayed": 6592
+            },
+            {
+                "_id": "685287d2ecdffab01b01db15",
+                "name": "Aladdin Adventure",
+                "slug": "aladdin-adventure",
+                "image": "2159",
+                "totalPlayed": 13116
+            },
+            {
+                "_id": "685287d2ecdffab01b01d548",
+                "name": "Elf Archer",
+                "slug": "elf-archer",
+                "image": "226",
+                "totalPlayed": 15598
+            },
+            {
+                "_id": "685287d2ecdffab01b01d566",
+                "name": "Maya Golf",
+                "slug": "maya-golf",
+                "image": "262",
+                "totalPlayed": 17080
+            },
+            {
+                "_id": "685287d2ecdffab01b01d564",
+                "name": "Dragon Run",
+                "slug": "dragon-run",
+                "image": "260",
+                "totalPlayed": 24027
+            },
+            {
+                "_id": "685287d2ecdffab01b01d555",
+                "name": "Fire Truck 2",
+                "slug": "fire-truck-2",
+                "image": "240",
+                "totalPlayed": 19396
+            },
+            {
+                "_id": "685287d2ecdffab01b01d54e",
+                "name": "Mini Car Racer",
+                "slug": "mini-car-racer",
+                "image": "232",
+                "totalPlayed": 18432
+            },
+            {
+                "_id": "685287d2ecdffab01b01d545",
+                "name": "Theft Super Car",
+                "slug": "theft-super-car",
+                "image": "223",
+                "totalPlayed": 13978
+            },
+            {
+                "_id": "685287d2ecdffab01b01d543",
+                "name": "Dead Paradise 4",
+                "slug": "dead-paradise-4",
+                "image": "221",
+                "totalPlayed": 12260
+            },
+            {
+                "_id": "685287d2ecdffab01b01d540",
+                "name": "Stickman Dirtbike",
+                "slug": "stickman-dirtbike",
+                "image": "217",
+                "totalPlayed": 13513
+            },
+            {
+                "_id": "685287d2ecdffab01b01d52c",
+                "name": "Candy Magic",
+                "slug": "candy-magic",
+                "image": "191",
+                "totalPlayed": 12222
+            },
+            {
+                "_id": "685287d2ecdffab01b01d4ed",
+                "name": "Gully Cricket",
+                "slug": "gully-cricket",
+                "image": "129",
+                "totalPlayed": 55383
+            },
+            {
+                "_id": "685287d2ecdffab01b01d4df",
+                "name": "Jumporama 2",
+                "slug": "jumporama-2",
+                "image": "114",
+                "totalPlayed": 22856
+            },
+            {
+                "_id": "685287d2ecdffab01b01d50f",
+                "name": "Beckham Celebrity Puzzle",
+                "slug": "beckham-celebrity-puzzle",
+                "image": "113",
+                "totalPlayed": 11164
+            },
+            {
+                "_id": "685287d2ecdffab01b01d4de",
+                "name": "Super Soccer Noggins",
+                "slug": "super-soccer-noggins",
+                "image": "101",
+                "totalPlayed": 118774
+            }
+        ],
+        "category": {
+            "_id": "685287b2ecdffab01b017df6",
+            "id": 51,
+            "name": "kids",
+            "parent": null,
+            "slug": "kids",
+            "icon": "Kids Games",
+            "isFeature": true,
+            "isMainMenu": false,
+            "order": 51,
+            "status": "A",
+            "createdAt": "2022-08-23T23:20:18.820Z",
+            "updatedAt": null,
+            "addedBy": "6852867fcb4345cd16968475",
+            "updatedBy": null,
+            "appCode": "ATG",
+            "description": "<h4>Fun & Learning Collection: Explore Atmegame's Kids' Universe for Free! </h4>\n<p class=\"text_desc\">Taking care of the gaming needs of everyone is our priority. Even kids find atmegame.com as their beloved gaming platform during their fun time. Our exclusive collection of browser online kids games is a wonderful way to keep your little ones entertained while boosting their problem-solving and cognitive development skills. These HTML5 kids games are not educational only, but they also help kids to learn grow simultaneously. </p>\n<p class=\"text_desc\">From animal games to sports and number games – the wide category of online kids games covers something for children from different age groups. Our free online kid games feature seamless gameplay, colourful graphics, along with diverse topics and themes. All our children games are beautifully designed keeping the young audiences in mind. </p>\n<h4>Salient Features of Our Popular Online Kids Games: </h4>\n<p class=\"text_desc\">In<a class=\"link_desc\" href=\"https://www.atmegame.com/games/mouse-hunt-runner\" title=\"\" target=\"\" style=\"\"> Mouse Hunt Runner</a>, you will have to go on an exhilarating chase filled with obstacles and rewards. With its fast-paced action and thrilling challenges, this game will keep you hooked. It will be amazing to safeguard balloons from perilous obstacles by using you sharp reflexes in <a class=\"link_desc\" href=\"https://www.atmegame.com/games/balloon-protect\" title=\"\" target=\"\" style=\"\">Balloon Protect</a>. The level of difficulty increases as you move forward. </p>\n<p class=\"text_desc\">Gear up for a cosmic adventure where adorable baby racers zoom through thrilling interstellar tracks. <a class=\"link_desc\" href=\"https://www.atmegame.com/games/baby-race-galaxy\" title=\"\" target=\"\" style=\"\">Baby Race Galaxy</a> features charming visuals and competitive spirit. Navigate through intricate golf courses set in the mystical Maya civilization when you choose to play <a class=\"link_desc\" href=\"https://www.atmegame.com/games/maya-golf\" title=\"\" target=\"\" style=\"\">Maya Golf</a>, which invites you to tee off in a historic journey, aiming for the perfect shot every time and mastering the art of golf. </p>\n<h4>Huge Variety of Online Kids Games</h4>\n<p class=\"text_desc\">Right from the puzzle games, racing games, arcade games, shooting games, adventure games, 3D games to cooking games – we have everything to make your kids busy. </p>\n<p class=\"text_desc\">The wide category of all action games, especially Warriors Vs Zombies, Stickman, StrainZ-1 and Skeet Challenge is enough to help your kids enjoy for many hours. </p>\n<p class=\"text_desc\">Popular arcade games Final Fortress, Jigsaw Puzzle Classic, Cut The Rope 2, Magic Key FPS, War Of The Ancients and Tower: Siege is also available, with some interesting variations. The extensive variety of free online games will allow you to choose the best game for your kids as per their interests and tastes. </p>\n<h4>The Finest Collection of Halloween Games for Kids</h4>\n<p class=\"text_desc\">We can understand the Halloween craze in your kids’ minds. So, if your kids are also excited for that special evening there will be no better way of asking them to browse our fabulous range of Halloween games online. </p>\n<p class=\"text_desc\">These free Halloween games for kids are designed to test the spooky skills of your little ones. Hey! Your cute child can do more right from involving in creepy cooking to magic potions. Lots of spooky characters like bats, spiders, vampires and mummies are a part of these online education games. </p>\n<h4>Get More Fun and Thrill Than You Have Ever Imagined</h4>\n<p class=\"text_desc\">As the fastest growing in offering the finest array of online kids free games, Atmegame is quite aware of the importance of providing your little with an environment where he or she can have fun while learning. </p>\n<p class=\"text_desc\">We carry a large collection of train games, car games, puzzle games, cooking games and birthday games for your kids to choose from. Our fun online games for kids can even help your little one to recognize and learn alphabets and letters in a very friendly environment. </p>\n<p class=\"text_desc\">So, let your child play free online games to help him/her grow in a smarter yet learning online gaming world. </p>\n<h4>Crazy Car Games for Kids</h4>\n<p class=\"text_desc\">Like grown-ups, kids also love driving cars at high speed, but they can not do in a real world due to various types of restrictions. But the amazing virtual world allows them to practice their racing abilities in a way they want. </p>\n<p class=\"text_desc\">There is no need to sit on the backseat of the car when our crazy games allow them to maneuver the steering wheel of the latest four-wheeler. Sometimes they also have to color their favorite car and paint it to while showing their abilities. </p>\n<h4>Kids Find Fun in Everything They Spot Here</h4>\n<p class=\"text_desc\">One of the most important things that we consider in our all kids games is fun. Whether your kids have to solve the challenging mathematic problems in cool math games or practice their cognitive skills in funbrain games – fun will remain on the priority. </p>\n<h4>What You Can Do in Our Kids Online Games? </h4>\n<p class=\"text_desc\">In our online kids' games at Atmegame.com, you can do the following things: </p>\n<ul>\n    <li><b>Educational Variety: </b> Engage kids with entertaining yet educational games spanning animals, numbers, and diverse themes, enhancing cognitive skills and problem-solving. </li>\n<li><b>Thrilling Adventures: </b>Enjoy fast-paced challenges like Mouse Hunt Runner, Balloon Protect, Baby Race Galaxy, and Maya Golf, each offering unique excitement and learning opportunities. </li>\n<li><b>Halloween Specials: </b>Dive into spooky yet fun Halloween games featuring creepy cooking, magic potions, and encounters with bats, spiders, vampires, and mummies for a thrilling seasonal experience. </li>\n<li><b>Learning Made Fun: </b>Explore train rides, car races, puzzles, and cooking games that entertain while teaching alphabets, math, and cognitive skills in an enjoyable gaming environment. </li>\n<li><b>Diverse Game Categories: </b>From puzzles to racing, arcade, shooting, and adventures, our games, such as Final Fortress or Jigsaw Puzzle Classic, offer varied entertainment and learning experiences without the need for downloads. </li></ul>\n<h4>Frequently Asked Questions (FAQs): </h4>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q1. What are the best kids games available to play online on Atmegame.com? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<p class=\"text_desc\">A1. Some of our top kids games are:</p><ul>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/maya-golf\" title=\"\" target=\"\" style=\"\">Maya Golf</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/dragon-run\" title=\"\" target=\"\" style=\"\">Dragon Run</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/balloon-protect\" title=\"\" target=\"\" style=\"\">Balloon Protect</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/jump-box-ninja\" title=\"\" target=\"\" style=\"\">Jump Box Ninja</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/baby-race-galaxy\" title=\"\" target=\"\" style=\"\">Baby Race Galaxy</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/mouse-hunt-runner\" title=\"\" target=\"\" style=\"\">Mouse Hunt Runner</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/fruit-escape-draw-line\" title=\"\" target=\"\" style=\"\">Fruit Escape Draw Line</a></li>\n<li><a class=\"link_desc\" href=\"https://www.atmegame.com/games/didi--friends-guess-what\" title=\"\" target=\"\" style=\"\">Didi Friends Guess What</a></li></ul>\n</div>\n</div>\n</div>\n<div itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\">\n<h4 itemprop=\"name\">Q2. Is it possible to play kids games online without download on this website? </h4>\n<div itemscope itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n<p class=\"text_desc\" itemprop=\"text\">A2. Absolutely yes! You can play all browser kids’ games without the need for downloads on our website by just signing up for free. </p>\n</div>\n</div>\n\n",
+            "metaTitle": "Online Games for Kids, Play Online Kids Games Free : Atmegame.com",
+            "metaDesc": "Play online free kids games at atmegame.com. We have selected the most addictive number of kids games for best excitement & thrill in you!",
+            "metaKeyword": "Kids Games, Play Online Kids Games, Online Free Kids Games, Top Kids Games, Best Kids Game"
+        }
+    }
+}
